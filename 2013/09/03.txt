@@ -1,0 +1,46 @@
+[2013-09-03 17:11:04] ddary: :help
+[2013-09-03 17:11:38] ddary: :yt gtac2013
+[2013-09-03 17:20:10] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-09-03 17:31:08] smccarthy, joining. (#selendroid)
+[2013-09-03 17:53:18] lukeis, joining. (#selendroid)
+[2013-09-03 17:54:28] lukeis: :log
+[2013-09-03 17:56:40] operatiay, quitting. (Ping timeout: 245 seconds)
+[2013-09-03 17:59:12] operatiay, joining. (#selendroid)
+[2013-09-03 18:02:22] operatia_, joining. (#selendroid)
+[2013-09-03 18:04:22] operatiay, quitting. (Ping timeout: 248 seconds)
+[2013-09-03 19:09:48] operatiay, joining. (#selendroid)
+[2013-09-03 19:12:12] operatia_, quitting. (Ping timeout: 268 seconds)
+[2013-09-03 19:13:37] mgaradi, joining. (#selendroid)
+[2013-09-03 19:13:52] mgaradi: Hi there !
+[2013-09-03 19:14:05] mgaradi: does selendroid support mobile web ?
+[2013-09-03 19:14:21] lukeis: nope, just hybrid apps right now
+[2013-09-03 19:14:32] lukeis: so an app with an embedded webview
+[2013-09-03 19:15:01] lukeis: you should look chromedriver for android if you want the web or the old AndroidWebDriver
+[2013-09-03 19:15:14] mgaradi: oh okay..great thanks..:)
+[2013-09-03 19:15:44] mgaradi: just didn't want to add one more component with selendroid for mobile web testing..so wanted to make sure :)
+[2013-09-03 19:17:14] lukeis: http://www.android.com/kitkat/
+[2013-09-03 19:17:29] lukeis: ^ the next version has been named ;)
+[2013-09-03 19:57:34] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-03 19:59:37] smccarthy, joining. (#selendroid)
+[2013-09-03 20:04:14] jlipps, joining. (#selendroid)
+[2013-09-03 20:35:03] Ahmed__: i wonder how much kitkat paid for that
+[2013-09-03 20:36:57] lukeis: nothing apparently…. http://www.bbc.co.uk/news/technology-23926938
+[2013-09-03 20:37:10] lukeis: even more shocking to me ;)
+[2013-09-03 20:37:34] lukeis: and that would be nestlé  ;)
+[2013-09-03 20:43:37] Ahmed__, quitting. (Ping timeout: 250 seconds)
+[2013-09-03 21:08:58] ddary, joining. (#selendroid)
+[2013-09-03 21:15:34] ddary: lukeis: hello
+[2013-09-03 21:28:25] lukeis: hi ddary
+[2013-09-03 21:28:45] lukeis: you should start adding logging to your bot :)
+[2013-09-03 21:28:52] lukeis: unless you want me to run it
+[2013-09-03 21:30:31] ddary: yeah, that was the part that i was not able to get started from the ios-driver clone ;-)
+[2013-09-03 21:31:04] lukeis: yeah, cause it's a submodule (well, i didn't push the submodule config)
+[2013-09-03 21:31:17] ddary: ok
+[2013-09-03 21:31:43] ddary: is it just that log is pointing to: https://github.com/selendroid/irc-logs.git ?
+[2013-09-03 21:31:46] lukeis: basically clone the log repo to the log folder (since you already have the log folder.. or should… just git init
+[2013-09-03 21:32:06] ddary: ok
+[2013-09-03 21:32:08] lukeis: yeah, and then you should add the shell script and set up a cron job
+[2013-09-03 21:33:18] ddary: ah, the shellscript i have overseen
+[2013-09-03 21:33:25] ddary: now it makes sense
+[2013-09-03 21:35:13] lukeis: i set the cron job to run every 5 minutes
+[2013-09-03 21:35:36] ddary: ok
