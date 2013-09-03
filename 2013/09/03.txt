@@ -45,3 +45,4 @@
 [2013-09-03 21:35:13] lukeis: i set the cron job to run every 5 minutes
 [2013-09-03 21:35:36] ddary: ok
 [2013-09-03 22:09:44] smccarthy, joining. (#selendroid)
+[2013-09-03 22:11:27] smccarthy2, joining. (#selendroid)
