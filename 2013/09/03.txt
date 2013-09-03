@@ -54,3 +54,4 @@
 [2013-09-03 22:48:53] ddary: lukeis: thanks, that was a good one
 [2013-09-03 22:52:21] lukeis: ddary: the question will be, did you offset the timezone for the :log link? :)
 [2013-09-03 22:52:51] *lukeis will see in a little more than an hour ;)'
+[2013-09-03 23:15:30] ddary: :help
