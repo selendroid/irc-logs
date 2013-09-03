@@ -47,3 +47,7 @@
 [2013-09-03 22:09:44] smccarthy, joining. (#selendroid)
 [2013-09-03 22:11:27] smccarthy2, joining. (#selendroid)
 [2013-09-03 22:13:25] smccarthy, quitting. (Read error: Operation timed out)
+[2013-09-03 22:40:33] ddary: :log
+[2013-09-03 22:40:50] lukeis: nice :)
+[2013-09-03 22:42:02] ddary: will see if the cronjob does is job soon
+[2013-09-03 22:43:26] lukeis: oh you will want to to `git config user.name selendroid-logs` and `git config user.email selendroid-logs`  in the 'log' repo… otherwise your github reputation will go very askew ;)
