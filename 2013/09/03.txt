@@ -46,3 +46,4 @@
 [2013-09-03 21:35:36] ddary: ok
 [2013-09-03 22:09:44] smccarthy, joining. (#selendroid)
 [2013-09-03 22:11:27] smccarthy2, joining. (#selendroid)
+[2013-09-03 22:13:25] smccarthy, quitting. (Read error: Operation timed out)
