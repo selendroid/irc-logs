@@ -131,3 +131,5 @@
 [2013-09-04 20:59:12] Ahmed_: but It works ;)
 [2013-09-04 20:59:39] Ahmed_: I mean testing 2 apps
 [2013-09-04 21:08:13] smccarthy2, joining. (#selendroid)
+[2013-09-04 21:11:02] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2013-09-04 21:11:40] smccarthy2, quitting. (Remote host closed the connection)
