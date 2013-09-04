@@ -28,3 +28,21 @@
 [2013-09-04 11:50:40] Ahmed_: i found a bug and i need some help to fix it
 [2013-09-04 11:52:40] operatiay, quitting. (Ping timeout: 264 seconds)
 [2013-09-04 11:54:58] ddary: Ahmed_ hi
+[2013-09-04 11:55:15] ddary: what kind of bug you have found?
+[2013-09-04 11:55:49] Ahmed_: I think asking lukeis is better, because he's the one who implemented -installedApp
+[2013-09-04 11:55:59] Ahmed_: I was able to reproduce the bug
+[2013-09-04 11:56:37] Ahmed_: in order to installedApp to work, you have to run this app before using the normal way
+[2013-09-04 11:56:42] ddary: sure, but it will take at least 6h until he will be available....
+[2013-09-04 11:56:49] Ahmed_: because the path changes
+[2013-09-04 11:56:57] ddary: yeah
+[2013-09-04 11:57:02] Ahmed_: for example if I started AppX using the normal way
+[2013-09-04 11:57:07] Ahmed_: and then I try to start AppY
+[2013-09-04 11:57:11] Ahmed_: using installedApp
+[2013-09-04 11:57:14] Ahmed_: it will not work
+[2013-09-04 11:57:20] Ahmed_: ClassNotFoundException
+[2013-09-04 11:57:24] ddary: so the assumption is with the installed app
+[2013-09-04 11:57:31] ddary: that you know what you do
+[2013-09-04 11:58:05] Ahmed_: I need to know where the path changes
+[2013-09-04 11:58:13] ddary: i'm soon back,need to grab some lunch
+[2013-09-04 11:58:20] Ahmed_: yea , sure
+[2013-09-04 11:59:06] operatiay, joining. (#selendroid)
