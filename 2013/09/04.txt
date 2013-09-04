@@ -60,3 +60,19 @@
 [2013-09-04 12:27:39] Ahmed_: btw .. how to build selendroid-with-dependencies.jar ?
 [2013-09-04 12:28:00] Ahmed_: because maven produce selendroid.0.5.0.jar only
 [2013-09-04 12:29:50] ddary: if I run *mvn install* i have under selendroid-standalone/target the single jar and the one with the dependencies
+[2013-09-04 12:30:41] ddary: why do you think this if statement is wrong?
+[2013-09-04 12:31:14] ddary: so, as I said, the assumption is that the app under test and the customized selendroid server are already installed
+[2013-09-04 12:31:32] ddary: it is meant as a developer productivity flag..
+[2013-09-04 12:32:36] Ahmed_: the problem with that is
+[2013-09-04 12:32:45] Ahmed_: let's say I have appX and appY
+[2013-09-04 12:32:55] Ahmed_: the last time the server was installed
+[2013-09-04 12:33:01] Ahmed_: was with appX
+[2013-09-04 12:33:13] Ahmed_: now I have appY installed as well
+[2013-09-04 12:33:24] Ahmed_: and I want to use the -installedApp
+[2013-09-04 12:33:39] Ahmed_: What will happen then
+[2013-09-04 12:33:54] ddary: yeah, the issue is, that currently it is working as designed.
+[2013-09-04 12:34:05] ddary: as far as I understand it
+[2013-09-04 12:34:22] ddary: the case you are looking for, so multiple instrumentation
+[2013-09-04 12:34:41] Ahmed_: no, only one instrumentation
+[2013-09-04 12:34:53] ddary: yeah
+[2013-09-04 12:34:59] Ahmed_: I'm testing appX
