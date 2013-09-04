@@ -137,3 +137,5 @@
 [2013-09-04 21:36:27] Ahmed_, quitting. (Ping timeout: 250 seconds)
 [2013-09-04 22:02:41] ddary, joining. (#selendroid)
 [2013-09-04 22:03:22] ddary: :log
+[2013-09-04 22:06:51] ddary: :note Ahmed_ can you please add here #106 what steps where needed to make it happen?
+[2013-09-04 22:07:06] ddary, quitting. (Client Quit)
