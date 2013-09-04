@@ -143,3 +143,9 @@
 [2013-09-04 22:17:03] lukeis: heh, ddary you need to update all those ios-driver urls in the bot ;)
 [2013-09-04 22:17:18] ddary: i know
 [2013-09-04 22:17:38] ddary: it is already done, but i have forgotten to restart the bot
+[2013-09-04 22:20:16] selendroidbot, joining. (#selendroid)
+[2013-09-04 22:20:25] ddary: #104
+[2013-09-04 22:21:09] ddary: now it should work ...
+[2013-09-04 22:22:03] lukeis: #106 :)
+[2013-09-04 22:22:30] ddary: seems like a fun one
+[2013-09-04 22:24:02] lukeis: it does… but don't count on much effort from me to fix it :)
