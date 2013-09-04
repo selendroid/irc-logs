@@ -117,3 +117,6 @@
 [2013-09-04 14:39:42] ddary: but i would see all that topic as a complete new feature that can be shipped with 0.6.0
 [2013-09-04 15:14:01] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-09-04 16:24:45] ddary, joining. (#selendroid)
+[2013-09-04 16:38:58] Ahmed_: :seen lukeis
+[2013-09-04 16:39:42] Ahmed_: lukeis just mention is issue now :D
+[2013-09-04 16:39:50] Ahmed_: mentioned*
