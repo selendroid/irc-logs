@@ -1,2 +1,12 @@
 [2013-09-04 00:01:36] Ahmed_, changing nick to Guest61694.
 [2013-09-04 00:04:56] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-09-04 00:51:58] Guest61694: lol i didn't change anything
+[2013-09-04 01:04:25] lukeis, quitting. (Quit: Leaving.)
+[2013-09-04 01:31:42] jlipps, quitting. (Quit: Leaving.)
+[2013-09-04 01:40:01] Guest61694, quitting. (Ping timeout: 250 seconds)
+[2013-09-04 01:56:44] jlipps, joining. (#selendroid)
+[2013-09-04 01:59:33] jlipps, quitting. (Client Quit)
+[2013-09-04 02:55:42] smccarthy2, quitting. (Remote host closed the connection)
+[2013-09-04 04:24:25] smccarthy, joining. (#selendroid)
+[2013-09-04 05:18:26] mgaradi, quitting. (Ping timeout: 250 seconds)
+[2013-09-04 06:20:29] smccarthy, quitting. (Remote host closed the connection)
