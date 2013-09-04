@@ -125,3 +125,8 @@
 [2013-09-04 17:55:49] smccarthy, joining. (#selendroid)
 [2013-09-04 19:00:12] lukeis, quitting. (Quit: Leaving.)
 [2013-09-04 19:59:59] lukeis, joining. (#selendroid)
+[2013-09-04 20:58:35] Ahmed_: I used selendroid to run 2 tests :D
+[2013-09-04 20:58:42] Ahmed_: just proved that it will work
+[2013-09-04 20:59:06] Ahmed_: It wasn't neat way though
+[2013-09-04 20:59:12] Ahmed_: but It works ;)
+[2013-09-04 20:59:39] Ahmed_: I mean testing 2 apps
