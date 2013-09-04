@@ -115,3 +115,4 @@
 [2013-09-04 14:38:39] ddary: exactly
 [2013-09-04 14:39:16] ddary: it makes sense to add something behind io.selendroid
 [2013-09-04 14:39:42] ddary: but i would see all that topic as a complete new feature that can be shipped with 0.6.0
+[2013-09-04 15:14:01] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
