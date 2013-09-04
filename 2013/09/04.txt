@@ -157,3 +157,6 @@
 [2013-09-04 22:28:02] ddary: i will be tomorrow all the day offline ...
 [2013-09-04 22:28:10] ddary: sounds good
 [2013-09-04 22:28:42] ddary: would be awesome also to have tests, but then we need to have a second app
+[2013-09-04 22:33:22] ddary: Ahmed_: just have in mind that before we can accept the pull request, you have to sign the CLA that you can find here: http://goo.gl/pAvxEI
+[2013-09-04 22:33:48] Ahmed_: yes i know.
+[2013-09-04 22:34:05] ddary: k
