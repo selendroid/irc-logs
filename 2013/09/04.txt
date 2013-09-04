@@ -24,3 +24,7 @@
 [2013-09-04 11:29:54] operatiay, joining. (#selendroid)
 [2013-09-04 11:34:40] operatiay, quitting. (Ping timeout: 264 seconds)
 [2013-09-04 11:36:14] operatiay, joining. (#selendroid)
+[2013-09-04 11:50:32] Ahmed_: ddary: good morning
+[2013-09-04 11:50:40] Ahmed_: i found a bug and i need some help to fix it
+[2013-09-04 11:52:40] operatiay, quitting. (Ping timeout: 264 seconds)
+[2013-09-04 11:54:58] ddary: Ahmed_ hi
