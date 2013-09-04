@@ -160,3 +160,4 @@
 [2013-09-04 22:33:22] ddary: Ahmed_: just have in mind that before we can accept the pull request, you have to sign the CLA that you can find here: http://goo.gl/pAvxEI
 [2013-09-04 22:33:48] Ahmed_: yes i know.
 [2013-09-04 22:34:05] ddary: k
+[2013-09-04 22:41:05] jlipps, joining. (#selendroid)
