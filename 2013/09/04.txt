@@ -120,3 +120,5 @@
 [2013-09-04 16:38:58] Ahmed_: :seen lukeis
 [2013-09-04 16:39:42] Ahmed_: lukeis just mention is issue now :D
 [2013-09-04 16:39:50] Ahmed_: mentioned*
+[2013-09-04 17:38:55] lukeis, joining. (#selendroid)
+[2013-09-04 17:39:56] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
