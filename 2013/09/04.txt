@@ -149,3 +149,11 @@
 [2013-09-04 22:22:03] lukeis: #106 :)
 [2013-09-04 22:22:30] ddary: seems like a fun one
 [2013-09-04 22:24:02] lukeis: it does… but don't count on much effort from me to fix it :)
+[2013-09-04 22:25:30] ddary: for me it is the same - my current priority is to support Ahmed_ so that he can do it.
+[2013-09-04 22:25:32] Ahmed_, joining. (#selendroid)
+[2013-09-04 22:27:15] Ahmed_: @ddary: sure
+[2013-09-04 22:27:39] ddary: k
+[2013-09-04 22:27:49] Ahmed_: @ddary: I think i'm going to make a pull request in the comming days
+[2013-09-04 22:28:02] ddary: i will be tomorrow all the day offline ...
+[2013-09-04 22:28:10] ddary: sounds good
+[2013-09-04 22:28:42] ddary: would be awesome also to have tests, but then we need to have a second app
