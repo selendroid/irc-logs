@@ -139,3 +139,7 @@
 [2013-09-04 22:03:22] ddary: :log
 [2013-09-04 22:06:51] ddary: :note Ahmed_ can you please add here #106 what steps where needed to make it happen?
 [2013-09-04 22:07:06] ddary, quitting. (Client Quit)
+[2013-09-04 22:16:19] ddary, joining. (#selendroid)
+[2013-09-04 22:17:03] lukeis: heh, ddary you need to update all those ios-driver urls in the bot ;)
+[2013-09-04 22:17:18] ddary: i know
+[2013-09-04 22:17:38] ddary: it is already done, but i have forgotten to restart the bot
