@@ -76,3 +76,16 @@
 [2013-09-04 12:34:41] Ahmed_: no, only one instrumentation
 [2013-09-04 12:34:53] ddary: yeah
 [2013-09-04 12:34:59] Ahmed_: I'm testing appX
+[2013-09-04 12:35:02] Ahmed_: after finishing
+[2013-09-04 12:35:11] Ahmed_: I want to test another app alone
+[2013-09-04 12:35:16] Ahmed_: which appY
+[2013-09-04 12:35:17] ddary: the thing is, it is there to fasten up the development process of writing tests
+[2013-09-04 12:35:44] ddary: so, for the thing that you try to do, maybe it is faster to use different devices
+[2013-09-04 12:36:03] Ahmed_: at least let's make sure that this server is associated with the current AUT
+[2013-09-04 12:36:04] ddary: reinstalling and creating the server can take to 10 sec
+[2013-09-04 12:36:11] ddary: an that is what we want to save
+[2013-09-04 12:37:06] Ahmed_: I think if we can check whether this server is installed with the current AUT will be optimal
+[2013-09-04 12:37:26] Ahmed_: because the case I provided is completely valid
+[2013-09-04 12:37:39] Ahmed_: and it's unrelated from running multiple instrumentation
+[2013-09-04 12:37:51] Ahmed_: It's running single test one after another
+[2013-09-04 12:37:55] Ahmed_: but different apps
