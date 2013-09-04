@@ -95,3 +95,5 @@
 [2013-09-04 12:44:08] Ahmed_: AUT's name*
 [2013-09-04 12:47:58] Ahmed_: this is also important for running multiple instrumentation servers
 [2013-09-04 12:49:55] Ahmed_: because if all servers have the same name , they will overwrite each other ( i think )
+[2013-09-04 12:54:46] Ahmed_: leaving for lauch
+[2013-09-04 12:54:57] Ahmed_: brb
