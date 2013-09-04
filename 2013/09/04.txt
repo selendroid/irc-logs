@@ -122,3 +122,4 @@
 [2013-09-04 16:39:50] Ahmed_: mentioned*
 [2013-09-04 17:38:55] lukeis, joining. (#selendroid)
 [2013-09-04 17:39:56] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-09-04 17:55:49] smccarthy, joining. (#selendroid)
