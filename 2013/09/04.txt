@@ -97,3 +97,6 @@
 [2013-09-04 12:49:55] Ahmed_: because if all servers have the same name , they will overwrite each other ( i think )
 [2013-09-04 12:54:46] Ahmed_: leaving for lauch
 [2013-09-04 12:54:57] Ahmed_: brb
+[2013-09-04 12:55:12] ddary: i found a way to get the info if a selendroid server is installed
+[2013-09-04 12:55:27] ddary: adb shell pm list instrumentation -f io.selendroid.testapp
+[2013-09-04 12:55:34] ddary: hope that helps :-)
