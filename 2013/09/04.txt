@@ -103,3 +103,4 @@
 [2013-09-04 13:21:12] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-09-04 13:22:23] ddary, joining. (#selendroid)
 [2013-09-04 14:02:27] operatiay, quitting. (Remote host closed the connection)
+[2013-09-04 14:34:35] ddary: Ahmed_: have you seen the adb command I have send?
