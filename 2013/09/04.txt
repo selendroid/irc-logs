@@ -51,3 +51,4 @@
 [2013-09-04 12:07:04] operatiay, quitting. (Ping timeout: 260 seconds)
 [2013-09-04 12:16:46] operatiay, joining. (#selendroid)
 [2013-09-04 12:19:45] ddary: back :-)
+[2013-09-04 12:20:32] ddary: so the app and the selendroid-server, that has been already customized for the app are both required to be installed and match each other
