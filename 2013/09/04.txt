@@ -93,3 +93,5 @@
 [2013-09-04 12:42:10] Ahmed_: Looks like it's not easy to do so.
 [2013-09-04 12:43:56] Ahmed_: maybe we add AUT name as suffix to the selendroid server name
 [2013-09-04 12:44:08] Ahmed_: AUT's name*
+[2013-09-04 12:47:58] Ahmed_: this is also important for running multiple instrumentation servers
+[2013-09-04 12:49:55] Ahmed_: because if all servers have the same name , they will overwrite each other ( i think )
