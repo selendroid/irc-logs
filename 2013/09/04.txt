@@ -10,3 +10,5 @@
 [2013-09-04 04:24:25] smccarthy, joining. (#selendroid)
 [2013-09-04 05:18:26] mgaradi, quitting. (Ping timeout: 250 seconds)
 [2013-09-04 06:20:29] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-04 09:11:11] ddary, joining. (#selendroid)
+[2013-09-04 09:11:29] ddary: :help
