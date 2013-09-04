@@ -52,3 +52,11 @@
 [2013-09-04 12:16:46] operatiay, joining. (#selendroid)
 [2013-09-04 12:19:45] ddary: back :-)
 [2013-09-04 12:20:32] ddary: so the app and the selendroid-server, that has been already customized for the app are both required to be installed and match each other
+[2013-09-04 12:26:08] Ahmed_: I think i found the bug
+[2013-09-04 12:26:08] Ahmed_: https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/server/model/SelendroidStandaloneDriver.java#L262
+[2013-09-04 12:26:13] Ahmed_: this if statement is wrong
+[2013-09-04 12:26:18] Ahmed_: we have to install the server each time!
+[2013-09-04 12:26:57] Ahmed_: I will change it locally and test it
+[2013-09-04 12:27:39] Ahmed_: btw .. how to build selendroid-with-dependencies.jar ?
+[2013-09-04 12:28:00] Ahmed_: because maven produce selendroid.0.5.0.jar only
+[2013-09-04 12:29:50] ddary: if I run *mvn install* i have under selendroid-standalone/target the single jar and the one with the dependencies
