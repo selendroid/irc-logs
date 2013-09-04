@@ -89,3 +89,7 @@
 [2013-09-04 12:37:39] Ahmed_: and it's unrelated from running multiple instrumentation
 [2013-09-04 12:37:51] Ahmed_: It's running single test one after another
 [2013-09-04 12:37:55] Ahmed_: but different apps
+[2013-09-04 12:40:33] ddary: and how you wanna get the details about what the target package of the installed selendroid server is?
+[2013-09-04 12:42:10] Ahmed_: Looks like it's not easy to do so.
+[2013-09-04 12:43:56] Ahmed_: maybe we add AUT name as suffix to the selendroid server name
+[2013-09-04 12:44:08] Ahmed_: AUT's name*
