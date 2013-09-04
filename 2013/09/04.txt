@@ -100,3 +100,5 @@
 [2013-09-04 12:55:12] ddary: i found a way to get the info if a selendroid server is installed
 [2013-09-04 12:55:27] ddary: adb shell pm list instrumentation -f io.selendroid.testapp
 [2013-09-04 12:55:34] ddary: hope that helps :-)
+[2013-09-04 13:21:12] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-09-04 13:22:23] ddary, joining. (#selendroid)
