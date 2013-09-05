@@ -3,3 +3,5 @@
 [2013-09-05 02:28:06] smccarthy, quitting. (Remote host closed the connection)
 [2013-09-05 02:59:14] jlipps, quitting. (Quit: Leaving.)
 [2013-09-05 05:16:40] jlipps, joining. (#selendroid)
+[2013-09-05 06:15:34] jlipps, quitting. (Quit: Leaving.)
+[2013-09-05 06:17:03] jlipps, joining. (#selendroid)
