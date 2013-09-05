@@ -18,3 +18,4 @@
 [2013-09-05 17:13:28] jlipps, joining. (#selendroid)
 [2013-09-05 17:25:44] lukeis, joining. (#selendroid)
 [2013-09-05 18:06:36] smccarthy, joining. (#selendroid)
+[2013-09-05 18:32:15] Ahmed_, quitting. (Ping timeout: 250 seconds)
