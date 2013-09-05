@@ -20,3 +20,4 @@
 [2013-09-05 18:06:36] smccarthy, joining. (#selendroid)
 [2013-09-05 18:32:15] Ahmed_, quitting. (Ping timeout: 250 seconds)
 [2013-09-05 18:54:42] ddary, joining. (#selendroid)
+[2013-09-05 18:56:22] jlipps, quitting. (Quit: Leaving.)
