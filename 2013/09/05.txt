@@ -23,3 +23,4 @@
 [2013-09-05 18:56:22] jlipps, quitting. (Quit: Leaving.)
 [2013-09-05 19:33:51] ddary, quitting. (Quit: ddary)
 [2013-09-05 23:32:36] Ahmed_, joining. (#selendroid)
+[2013-09-05 23:52:33] smccarthy, quitting. (Remote host closed the connection)
