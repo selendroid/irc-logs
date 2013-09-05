@@ -15,3 +15,4 @@
 [2013-09-05 14:23:03] Ahmed_: :seen ddary
 [2013-09-05 14:46:13] ddary, joining. (#selendroid)
 [2013-09-05 14:47:18] ddary, quitting. (Client Quit)
+[2013-09-05 17:13:28] jlipps, joining. (#selendroid)
