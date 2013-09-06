@@ -7,3 +7,8 @@
 [2013-09-06 10:03:04] selendroid-git, joining. (#selendroid)
 [2013-09-06 10:03:04] selendroid-git: [selendroid] DominikDary deleted dev at 5ed7b69: http://git.io/53WYaQ
 [2013-09-06 10:03:04] selendroid-git, leaving. (#selendroid)
+[2013-09-06 10:38:59] selendroid-git, joining. (#selendroid)
+[2013-09-06 10:38:59] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/aAog6w
+[2013-09-06 10:38:59] selendroid-git: selendroid/master f1ba439 Dominik Dary: moving to version 0.5.1
+[2013-09-06 10:38:59] selendroid-git: selendroid/master 061b33f Dominik Dary: fixing #105.
+[2013-09-06 10:38:59] selendroid-git, leaving. (#selendroid)
