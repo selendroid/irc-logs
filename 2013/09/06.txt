@@ -12,3 +12,11 @@
 [2013-09-06 10:38:59] selendroid-git: selendroid/master f1ba439 Dominik Dary: moving to version 0.5.1
 [2013-09-06 10:38:59] selendroid-git: selendroid/master 061b33f Dominik Dary: fixing #105.
 [2013-09-06 10:38:59] selendroid-git, leaving. (#selendroid)
+[2013-09-06 10:58:08] selendroid-git, joining. (#selendroid)
+[2013-09-06 10:58:08] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/OEqlTA
+[2013-09-06 10:58:08] selendroid-git: selendroid/gh-pages 418b0dc Dominik Dary: Update setup.html
+[2013-09-06 10:58:08] selendroid-git, leaving. (#selendroid)
+[2013-09-06 10:59:24] selendroid-git, joining. (#selendroid)
+[2013-09-06 10:59:24] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/555G_w
+[2013-09-06 10:59:24] selendroid-git: selendroid/gh-pages 0f2266a Dominik Dary: Update properties.js
+[2013-09-06 10:59:24] selendroid-git, leaving. (#selendroid)
