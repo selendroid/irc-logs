@@ -4,3 +4,6 @@
 [2013-09-06 05:53:43] smccarthy, quitting. (Remote host closed the connection)
 [2013-09-06 09:39:15] ddary, joining. (#selendroid)
 [2013-09-06 09:45:28] ddary: :log
+[2013-09-06 10:03:04] selendroid-git, joining. (#selendroid)
+[2013-09-06 10:03:04] selendroid-git: [selendroid] DominikDary deleted dev at 5ed7b69: http://git.io/53WYaQ
+[2013-09-06 10:03:04] selendroid-git, leaving. (#selendroid)
