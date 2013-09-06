@@ -24,3 +24,5 @@
 [2013-09-06 11:28:38] selendroid-git: [selendroid] DominikDary tagged 0.5.1 at 851c5e9: http://git.io/_jcI2A
 [2013-09-06 11:28:38] selendroid-git, leaving. (#selendroid)
 [2013-09-06 11:32:13] ddary, quitting. (Quit: ddary)
+[2013-09-06 12:01:32] Ahmed_, joining. (#selendroid)
+[2013-09-06 12:01:37] Ahmed_: :seen ddary
