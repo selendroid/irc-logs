@@ -1,2 +1,3 @@
 [2013-09-06 01:01:25] lukeis, quitting. (Quit: Leaving.)
 [2013-09-06 02:15:03] Ahmed_, quitting. (Ping timeout: 250 seconds)
+[2013-09-06 03:03:25] smccarthy, joining. (#selendroid)
