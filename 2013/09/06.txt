@@ -26,3 +26,4 @@
 [2013-09-06 11:32:13] ddary, quitting. (Quit: ddary)
 [2013-09-06 12:01:32] Ahmed_, joining. (#selendroid)
 [2013-09-06 12:01:37] Ahmed_: :seen ddary
+[2013-09-06 16:44:24] smccarthy, joining. (#selendroid)
