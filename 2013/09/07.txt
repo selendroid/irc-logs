@@ -1,3 +1,6 @@
 [2013-09-07 01:10:27] Ahmed_, quitting. (Ping timeout: 250 seconds)
 [2013-09-07 01:21:01] lukeis, quitting. (Quit: Leaving.)
 [2013-09-07 01:58:32] jlipps, quitting. (Quit: Leaving.)
+[2013-09-07 02:03:58] Ahmed_, joining. (#selendroid)
+[2013-09-07 02:04:08] Ahmed_: :seen lukeis
+[2013-09-07 02:04:48] jlipps, joining. (#selendroid)
