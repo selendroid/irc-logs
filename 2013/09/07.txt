@@ -21,3 +21,4 @@
 [2013-09-07 17:26:38] Ahmed_: :ssen lukeis
 [2013-09-07 17:26:46] Ahmed_: :seen lukeis
 [2013-09-07 19:17:47] smccarthy, joining. (#selendroid)
+[2013-09-07 23:05:29] smccarthy, quitting. (Remote host closed the connection)
