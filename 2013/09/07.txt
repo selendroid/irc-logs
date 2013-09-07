@@ -12,3 +12,6 @@
 [2013-09-07 11:09:26] Ahmed_, joining. (#selendroid)
 [2013-09-07 12:35:59] Ahmed_, quitting. (Ping timeout: 250 seconds)
 [2013-09-07 12:56:38] Ahmed_, joining. (#selendroid)
+[2013-09-07 13:59:46] Ahmed_: :seen lukeis
+[2013-09-07 13:59:49] Ahmed_: :seen ddary
+[2013-09-07 13:59:56] Ahmed_: :seen @ddary
