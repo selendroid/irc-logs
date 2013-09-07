@@ -6,3 +6,4 @@
 [2013-09-07 02:04:48] jlipps, joining. (#selendroid)
 [2013-09-07 02:09:18] jlipps, quitting. (Client Quit)
 [2013-09-07 02:19:21] Ahmed_, quitting. (Ping timeout: 250 seconds)
+[2013-09-07 03:29:16] smccarthy, quitting. (Remote host closed the connection)
