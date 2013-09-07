@@ -15,3 +15,4 @@
 [2013-09-07 13:59:46] Ahmed_: :seen lukeis
 [2013-09-07 13:59:49] Ahmed_: :seen ddary
 [2013-09-07 13:59:56] Ahmed_: :seen @ddary
+[2013-09-07 15:37:33] Ahmed_, quitting. (Ping timeout: 250 seconds)
