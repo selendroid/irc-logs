@@ -9,3 +9,4 @@
 [2013-09-07 03:29:16] smccarthy, quitting. (Remote host closed the connection)
 [2013-09-07 05:02:19] jlipps, joining. (#selendroid)
 [2013-09-07 05:07:12] jlipps, quitting. (Client Quit)
+[2013-09-07 11:09:26] Ahmed_, joining. (#selendroid)
