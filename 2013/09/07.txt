@@ -11,3 +11,4 @@
 [2013-09-07 05:07:12] jlipps, quitting. (Client Quit)
 [2013-09-07 11:09:26] Ahmed_, joining. (#selendroid)
 [2013-09-07 12:35:59] Ahmed_, quitting. (Ping timeout: 250 seconds)
+[2013-09-07 12:56:38] Ahmed_, joining. (#selendroid)
