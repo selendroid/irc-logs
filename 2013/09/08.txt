@@ -7,3 +7,6 @@
 [2013-09-08 18:39:33] selendroid-git, joining. (#selendroid)
 [2013-09-08 18:39:33] selendroid-git: [selendroid] aibrahim- opened pull request #112: Adding some options which will help in supporting multiple Apps testing. (master...apps)  http://git.io/QR38yA
 [2013-09-08 18:39:33] selendroid-git, leaving. (#selendroid)
+[2013-09-08 19:01:33] selendroid-git, joining. (#selendroid)
+[2013-09-08 19:01:33] selendroid-git: [selendroid] palotas opened pull request #113: Dev (master...dev)  http://git.io/ptkBmg
+[2013-09-08 19:01:33] selendroid-git, leaving. (#selendroid)
