@@ -106,3 +106,23 @@
 [2013-09-09 18:57:03] chhsiung:     DeviceTargetPlatform.ANDROID18,
 [2013-09-09 18:57:03] chhsiung:       "io.selendroid.testapp:0.5.1");
 [2013-09-09 18:58:50] lukeis: chhsiung: webdriver.Remote desired_capabilities => { 'androidTarget': 'ANDROID18', 'aut': 'io.selendroid.testapp:0.5.1'}
+[2013-09-09 19:00:19] Ahmed_: lukeis: -InstalledApp forces the app to be installed before starting the session
+[2013-09-09 19:00:31] Ahmed_: i.e if I have a new emulator
+[2013-09-09 19:00:35] Ahmed_: and I opened it
+[2013-09-09 19:00:47] Ahmed_: and I want to run install the app and use it
+[2013-09-09 19:00:57] smccarthy, joining. (#selendroid)
+[2013-09-09 19:01:00] Ahmed_: I modified the code to get this working
+[2013-09-09 19:01:19] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-09 19:01:19] lukeis: as in you have selendroid install it? or?
+[2013-09-09 19:01:27] Ahmed_: all what I did is making sure that when -app is used , the app must be installed
+[2013-09-09 19:01:41] Ahmed_: even if the -InstalledApp is used
+[2013-09-09 19:01:50] lukeis: ok ;)
+[2013-09-09 19:01:50] chhsiung, joining. (#selendroid)
+[2013-09-09 19:02:01] Ahmed_: are you ok with this?
+[2013-09-09 19:02:05] Ahmed_: should I make a pull request?
+[2013-09-09 19:02:12] lukeis: sure, why not :)
+[2013-09-09 19:02:16] Ahmed_: cool :)
+[2013-09-09 19:02:48] Ahmed_: I'm also going to add endpoint for (descriptionContaints)
+[2013-09-09 19:02:54] Ahmed_: description Contains
+[2013-09-09 19:03:26] Ahmed_: because it's important for me
+[2013-09-09 19:04:45] lukeis: what endpoint?
