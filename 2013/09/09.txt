@@ -140,3 +140,6 @@
 [2013-09-09 20:09:43] lukeis: :note ddary I seem to not have any permissions on selendroid/selendroid intentional? :)
 [2013-09-09 20:11:10] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-09 20:12:45] chhsiung, joining. (#selendroid)
+[2013-09-09 20:18:58] selendroid-git, joining. (#selendroid)
+[2013-09-09 20:18:58] selendroid-git: [selendroid] lukeis opened pull request #114: changing the way logcat is stored (to be run the whole time). (master...master)  http://git.io/AEaVDQ
+[2013-09-09 20:18:58] selendroid-git, leaving. (#selendroid)
