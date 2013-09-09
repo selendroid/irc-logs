@@ -168,3 +168,23 @@
 [2013-09-09 20:34:44] lukeis: (aka start the emulator and 'save' the snapshot)
 [2013-09-09 20:34:54] ddary: what we can try to do, is to find out if the emulator supports snapshots and then start it in the right way
 [2013-09-09 20:34:57] lukeis: i told selendroid to not save the snapshot
+[2013-09-09 20:35:03] ddary: i know
+[2013-09-09 20:35:22] lukeis: currently that's what it does
+[2013-09-09 20:35:32] lukeis: if there's a snapshot it'll start it that way
+[2013-09-09 20:35:42] Ahmed_: I managed to run the emulator once and install the app and start it while it's working
+[2013-09-09 20:35:59] ddary: I'm in the good position to use all the time the x86 emulator, but if we can speed up the starting time for the arm friends, it would be a good thing
+[2013-09-09 20:36:04] Ahmed_: I mean start the emulator once and then run all the tests without restarting it.
+[2013-09-09 20:36:35] lukeis: yeah, locally I can do that… I didn't want that in CI
+[2013-09-09 20:37:04] Ahmed_: sorry but what does CI stand for? :D
+[2013-09-09 20:37:13] lukeis: Continuous Integration
+[2013-09-09 20:37:17] lukeis: build server ;)
+[2013-09-09 20:37:36] lukeis: (you know, like Jenkins) :)
+[2013-09-09 20:37:58] Ahmed_: do you install the app in each test?
+[2013-09-09 20:37:58] selendroid-git, joining. (#selendroid)
+[2013-09-09 20:37:58] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/Zxkebw
+[2013-09-09 20:37:58] selendroid-git: selendroid/master 73d6962 Luke Inman-Semerau: changing the way logcat is stored (to be run the whole time)....
+[2013-09-09 20:37:58] selendroid-git: selendroid/master 08fc3f3 Dominik Dary: Merge pull request #114 from lukeis/master...
+[2013-09-09 20:37:58] selendroid-git, leaving. (#selendroid)
+[2013-09-09 20:38:55] lukeis: ddary: i'm also running in saucelabs too… from request to app up and running is ~4 min… but I'm able to run 35 threads at once there ;)
+[2013-09-09 20:39:26] ddary: that is not bad
+[2013-09-09 20:39:55] lukeis: right now my entire suite takes ~9 hours… but run in parallel it takes ~40min :-D
