@@ -233,3 +233,4 @@
 [2013-09-09 23:37:41] lukeis: (when it's parsing the installedApp parameter)
 [2013-09-09 23:37:42] Ahmed_: nice
 [2013-09-09 23:37:51] Ahmed_: will do it.
+[2013-09-09 23:53:52] chhsiung, quitting. (Quit: Leaving.)
