@@ -202,3 +202,10 @@
 [2013-09-09 22:00:16] ddary, quitting. (Quit: ddary)
 [2013-09-09 22:01:51] Ahmed_, quitting. (Ping timeout: 250 seconds)
 [2013-09-09 22:45:24] Ahmed_, joining. (#selendroid)
+[2013-09-09 23:27:47] Ahmed_: lukeis: did you read the description of the changes?
+[2013-09-09 23:28:51] Ahmed_: https://github.com/selendroid/selendroid/pull/112
+[2013-09-09 23:28:57] Ahmed_: 3:
+[2013-09-09 23:29:22] Ahmed_: without this , my app will never work
+[2013-09-09 23:29:41] lukeis: yeah, but then how will it work for me? :)
+[2013-09-09 23:29:56] Ahmed_: it's minor change for you
+[2013-09-09 23:29:58] Ahmed_: also
