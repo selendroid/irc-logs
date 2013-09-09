@@ -43,3 +43,9 @@
 [2013-09-09 16:12:54] Ahmed_: @ddary: I'm waiting for the legal department to reply
 [2013-09-09 16:13:06] Ahmed_: they're in Menlo Park
 [2013-09-09 16:13:34] ddary: yeah, i thought already that would be the case ...
+[2013-09-09 16:26:32] Ahmed_: @ddary: can I add in the capabilities an option to whether start the main activity or not?
+[2013-09-09 16:26:41] Ahmed_: do you think this is the right place to add this option?
+[2013-09-09 16:27:24] ddary: i guess we don't need it because of i have overwritten the get method.
+[2013-09-09 16:28:15] ddary: e.g.: https://github.com/selendroid/selendroid/blob/master/selendroid-test-app/src/test/java/io/selendroid/support/BaseAndroidTest.java?source=cc#L65
+[2013-09-09 16:28:22] ddary: here you see an example
+[2013-09-09 16:29:39] Ahmed_: I mean what should I do if I want to create a driver but without starting the main Activity ?
