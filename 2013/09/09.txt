@@ -90,3 +90,10 @@
 [2013-09-09 17:46:35] jlipps, joining. (#selendroid)
 [2013-09-09 18:21:46] lukeis, quitting. (Quit: Leaving.)
 [2013-09-09 18:23:07] lukeis, joining. (#selendroid)
+[2013-09-09 18:42:59] Ahmed_: lukeis: what do you think?
+[2013-09-09 18:43:23] lukeis: about the capability? i'm indifferent :)
+[2013-09-09 18:43:37] lukeis: i don't have a need for it
+[2013-09-09 18:43:45] Ahmed_: do you mind it?
+[2013-09-09 18:43:48] lukeis: nope
+[2013-09-09 18:43:50] Ahmed_: if I implemented it?
+[2013-09-09 18:43:53] Ahmed_: ok cool
