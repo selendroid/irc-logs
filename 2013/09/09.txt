@@ -76,3 +76,12 @@
 [2013-09-09 16:37:29] ddary: is that ok for you?
 [2013-09-09 16:37:44] Ahmed_: yes it is.
 [2013-09-09 16:42:17] ddary: ok
+[2013-09-09 16:45:49] Ahmed_: but I think this one is not going to confuse the users :D
+[2013-09-09 16:45:55] Ahmed_: because users will still be able to do the following without any changes
+[2013-09-09 16:46:02] Ahmed_: SelendroidCapabilities cap = SelendroidCapabilities.emulator(DeviceTargetPlatform.ANDROID17, "io.selendroid.testapp:1.0");
+[2013-09-09 16:46:11] Ahmed_: what I'm asking is being able to add the following (Only if you want to) : cap.setStartMainActivity(false);
+[2013-09-09 16:46:23] Ahmed_: I don't think this is confusing to anyone :D
+[2013-09-09 16:47:25] ddary: mho, I'm not sure, I see your point
+[2013-09-09 16:47:43] ddary: I suggest we ask lukeis what he thinks
+[2013-09-09 16:48:23] Ahmed_: ok
+[2013-09-09 16:48:33] ddary: :note lukeis what do you think about adding SelendroidCapabilities.setStartMainActivity(false)
