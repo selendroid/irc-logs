@@ -227,3 +227,9 @@
 [2013-09-09 23:32:51] Ahmed_: because the package name of the app is independent
 [2013-09-09 23:33:25] Ahmed_: that's why we have to split them
 [2013-09-09 23:34:02] lukeis: ok… then I expect a PR to update the docs too :-D
+[2013-09-09 23:35:04] lukeis: also i refactored AbstractDevice a bit… you'll need to merge / rebase your change
+[2013-09-09 23:36:49] Ahmed_: ok
+[2013-09-09 23:36:58] lukeis: actually, i know a solution that will work for me and you… you can check if there are any "." in ActivityName, if not, pre-pend the PackageName
+[2013-09-09 23:37:41] lukeis: (when it's parsing the installedApp parameter)
+[2013-09-09 23:37:42] Ahmed_: nice
+[2013-09-09 23:37:51] Ahmed_: will do it.
