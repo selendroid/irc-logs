@@ -138,3 +138,5 @@
 [2013-09-09 20:06:26] smccarthy2, quitting. (Remote host closed the connection)
 [2013-09-09 20:07:00] smccarthy, joining. (#selendroid)
 [2013-09-09 20:09:43] lukeis: :note ddary I seem to not have any permissions on selendroid/selendroid intentional? :)
+[2013-09-09 20:11:10] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-09 20:12:45] chhsiung, joining. (#selendroid)
