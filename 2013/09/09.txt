@@ -198,3 +198,4 @@
 [2013-09-09 20:46:11] ddary: lukeis: have fun
 [2013-09-09 20:46:15] ddary: Ahmed_ ok
 [2013-09-09 21:11:47] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-09 21:21:10] chhsiung, joining. (#selendroid)
