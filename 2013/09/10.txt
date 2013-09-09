@@ -1,2 +1,3 @@
 [2013-09-10 00:21:23] Ahmed_, quitting. (Ping timeout: 250 seconds)
 [2013-09-10 00:33:55] Ahmed_, joining. (#selendroid)
+[2013-09-10 00:50:25] Ahmed_, quitting. (Quit: Page closed)
