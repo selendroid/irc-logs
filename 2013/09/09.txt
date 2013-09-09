@@ -97,3 +97,12 @@
 [2013-09-09 18:43:48] lukeis: nope
 [2013-09-09 18:43:50] Ahmed_: if I implemented it?
 [2013-09-09 18:43:53] Ahmed_: ok cool
+[2013-09-09 18:56:15] chhsiung, joining. (#selendroid)
+[2013-09-09 18:56:33] chhsiung: hi, trying to use selendroid with ruby
+[2013-09-09 18:56:48] chhsiung: are there any examples around?
+[2013-09-09 18:57:02] chhsiung: specifically, how should i be doing the ruby equivalent to:
+[2013-09-09 18:57:03] chhsiung: SelendroidCapabilities capa =
+[2013-09-09 18:57:03] chhsiung:   SelendroidCapabilities.emulator(
+[2013-09-09 18:57:03] chhsiung:     DeviceTargetPlatform.ANDROID18,
+[2013-09-09 18:57:03] chhsiung:       "io.selendroid.testapp:0.5.1");
+[2013-09-09 18:58:50] lukeis: chhsiung: webdriver.Remote desired_capabilities => { 'androidTarget': 'ANDROID18', 'aut': 'io.selendroid.testapp:0.5.1'}
