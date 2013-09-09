@@ -151,3 +151,20 @@
 [2013-09-09 20:24:08] lukeis: no worries ;)
 [2013-09-09 20:24:10] ddary: should work now
 [2013-09-09 20:25:24] lukeis: cool, thx :)
+[2013-09-09 20:30:31] lukeis: so, I still intermittently get some hung requests in my CI… trying to run down root cause still (what I was doing in that last commit).  But for the past couple weeks I've lost all support of the dev team on the UI tests as they are 'focus on delivery' until dreamforce… it's a pain to maintain their tests when they change the UI every other day and not the tests and they still don't have much faith in it since I haven't gott
+[2013-09-09 20:31:46] ddary: oh my good
+[2013-09-09 20:32:14] ddary: in my case the emulators are working ok, relatively stable
+[2013-09-09 20:32:24] lukeis: yeah, the emulators are stable
+[2013-09-09 20:32:29] ddary: the only thing that is hard, is that the starting time is long
+[2013-09-09 20:32:34] lukeis: communicating with the selendroid server sometimes isn't
+[2013-09-09 20:32:38] ddary: in average around 45 seconds
+[2013-09-09 20:33:01] lukeis: yeah, i'm around 1 min with snapshots
+[2013-09-09 20:33:25] ddary: how stable is it with snapshots?
+[2013-09-09 20:33:35] lukeis: oh, my 1 min includes installing / uninstalling the app and starting instrumentation ;)
+[2013-09-09 20:33:48] lukeis: pretty stable
+[2013-09-09 20:34:03] lukeis: snapshots can get corrupt (has happened to me locally, but not on my CI)
+[2013-09-09 20:34:08] ddary: but you need to have it enabled in the emulator, right?
+[2013-09-09 20:34:30] lukeis: yeah, in the emulator config it needs to be enabled and you need to set it up once
+[2013-09-09 20:34:44] lukeis: (aka start the emulator and 'save' the snapshot)
+[2013-09-09 20:34:54] ddary: what we can try to do, is to find out if the emulator supports snapshots and then start it in the right way
+[2013-09-09 20:34:57] lukeis: i told selendroid to not save the snapshot
