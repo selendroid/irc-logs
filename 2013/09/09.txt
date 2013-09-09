@@ -188,3 +188,7 @@
 [2013-09-09 20:38:55] lukeis: ddary: i'm also running in saucelabs too… from request to app up and running is ~4 min… but I'm able to run 35 threads at once there ;)
 [2013-09-09 20:39:26] ddary: that is not bad
 [2013-09-09 20:39:55] lukeis: right now my entire suite takes ~9 hours… but run in parallel it takes ~40min :-D
+[2013-09-09 20:40:18] lukeis: i'm working on reducing that too even more… once I fix these damn tests
+[2013-09-09 20:40:33] lukeis: slow android is slow ;)
+[2013-09-09 20:41:28] ddary: i know, for me just running the test, so just the time from first click to last click, is ok, but the time around is really slow
+[2013-09-09 20:43:49] Ahmed_: ddary: btw, lukeis said it's okay to add the capabilities option
