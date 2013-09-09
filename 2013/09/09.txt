@@ -64,3 +64,14 @@
 [2013-09-09 16:34:22] ddary: does this makes sense?
 [2013-09-09 16:34:27] Ahmed_: yes
 [2013-09-09 16:34:47] ddary: great :-)
+[2013-09-09 16:35:48] ddary: my suggestion would be as well, that maybe you continue working on that feature and if everything is ready, i mean completely with a full integration test, so that everyone can use it as well, we merge it in
+[2013-09-09 16:35:54] ddary: is that ok for you?
+[2013-09-09 16:36:22] ddary: i think the pull request it a good point to discuss the changes
+[2013-09-09 16:36:42] Ahmed_: which feature ?
+[2013-09-09 16:36:59] Ahmed_: the option to start mainActicity or not?
+[2013-09-09 16:37:02] Ahmed_: or the whole thing?
+[2013-09-09 16:37:04] ddary: if everything is fine and is working in your company fine, then merging it in and also releasing it is not a big thing
+[2013-09-09 16:37:07] ddary: the whole thing
+[2013-09-09 16:37:21] ddary: support for multiple instrumentation servers
+[2013-09-09 16:37:29] ddary: is that ok for you?
+[2013-09-09 16:37:44] Ahmed_: yes it is.
