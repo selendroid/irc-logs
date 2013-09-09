@@ -143,3 +143,10 @@
 [2013-09-09 20:18:58] selendroid-git, joining. (#selendroid)
 [2013-09-09 20:18:58] selendroid-git: [selendroid] lukeis opened pull request #114: changing the way logcat is stored (to be run the whole time). (master...master)  http://git.io/AEaVDQ
 [2013-09-09 20:18:58] selendroid-git, leaving. (#selendroid)
+[2013-09-09 20:23:34] ddary, joining. (#selendroid)
+[2013-09-09 20:23:57] ddary: lukeis: of course not
+[2013-09-09 20:23:59] lukeis: hiya ddary
+[2013-09-09 20:24:02] ddary: was a mistake
+[2013-09-09 20:24:06] ddary: sorry for that
+[2013-09-09 20:24:08] lukeis: no worries ;)
+[2013-09-09 20:24:10] ddary: should work now
