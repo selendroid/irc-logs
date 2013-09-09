@@ -192,3 +192,8 @@
 [2013-09-09 20:40:33] lukeis: slow android is slow ;)
 [2013-09-09 20:41:28] ddary: i know, for me just running the test, so just the time from first click to last click, is ok, but the time around is really slow
 [2013-09-09 20:43:49] Ahmed_: ddary: btw, lukeis said it's okay to add the capabilities option
+[2013-09-09 20:45:13] ddary: ok, but we will keep the default behavior how it is, right?
+[2013-09-09 20:45:37] lukeis: meeting time biab
+[2013-09-09 20:45:52] Ahmed_: yes
+[2013-09-09 20:46:11] ddary: lukeis: have fun
+[2013-09-09 20:46:15] ddary: Ahmed_ ok
