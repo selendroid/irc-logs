@@ -6,3 +6,12 @@
 [2013-09-09 08:03:46] ddary, joining. (#selendroid)
 [2013-09-09 08:03:58] ddary: :log
 [2013-09-09 08:04:53] ddary: :seen Ahmed_
+[2013-09-09 08:09:42] 36DABEX4J, joining. (#selendroid)
+[2013-09-09 08:09:42] 36DABEX4J: [selendroid] DominikDary closed pull request #113: Dev (master...dev)  http://git.io/ptkBmg
+[2013-09-09 08:09:42] 36DABEX4J, leaving. (#selendroid)
+[2013-09-09 08:09:42] 1JTAAUU5M, joining. (#selendroid)
+[2013-09-09 08:09:42] 1JTAAUU5M: selendroid/master 107f4b8 Michael Palotas: minor change to error message
+[2013-09-09 08:09:42] 1JTAAUU5M: selendroid/master ed08c7e Michael Palotas: fixed typo in error message of inspector
+[2013-09-09 08:09:42] 1JTAAUU5M, leaving. (#selendroid)
+[2013-09-09 08:09:42] 1JTAAUU5M: selendroid/master 725210e Michael Palotas: fixed typo in erroe message
+[2013-09-09 08:09:42] 1JTAAUU5M: [selendroid] DominikDary pushed 4 new commits to master: http://git.io/n7GDUQ
