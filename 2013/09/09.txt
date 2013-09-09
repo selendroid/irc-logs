@@ -209,3 +209,21 @@
 [2013-09-09 23:29:41] lukeis: yeah, but then how will it work for me? :)
 [2013-09-09 23:29:56] Ahmed_: it's minor change for you
 [2013-09-09 23:29:58] Ahmed_: also
+[2013-09-09 23:30:01] Ahmed_: this is the right way
+[2013-09-09 23:30:11] lukeis: minor change for me in what way?
+[2013-09-09 23:30:21] lukeis: i tried the code change and it didn't work
+[2013-09-09 23:30:36] Ahmed_: just add the package name to the mainActivity class name
+[2013-09-09 23:30:38] Ahmed_: and it's done.
+[2013-09-09 23:31:00] lukeis: in my actual app?
+[2013-09-09 23:31:10] Ahmed_: no
+[2013-09-09 23:31:13] Ahmed_: the option
+[2013-09-09 23:31:23] Ahmed_: -InstalledApp com.selendroid.testapp/com.selendroid.testapp.mainActivity:version
+[2013-09-09 23:31:40] lukeis: that seems silly to me ;)
+[2013-09-09 23:31:52] Ahmed_: but for me it's like this
+[2013-09-09 23:32:03] Ahmed_: com.selendroid.XYZ/com.selendroid.testapp.mainActivity:version
+[2013-09-09 23:32:19] Ahmed_: the package name is different
+[2013-09-09 23:32:23] lukeis: there has to be a better way :-/
+[2013-09-09 23:32:40] Ahmed_: I don't think there's
+[2013-09-09 23:32:51] Ahmed_: because the package name of the app is independent
+[2013-09-09 23:33:25] Ahmed_: that's why we have to split them
+[2013-09-09 23:34:02] lukeis: ok… then I expect a PR to update the docs too :-D
