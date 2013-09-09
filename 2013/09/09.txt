@@ -37,3 +37,4 @@
 [2013-09-09 11:21:24] ddary: sure, i have that in mind, but also please understand that we meed to guarantee that it is consistent @see comment about next port number
 [2013-09-09 11:25:47] Ahmed_: yes this one was my fault, I corrected it.
 [2013-09-09 11:29:24] ddary: no worries
+[2013-09-09 14:01:22] ddary: @Ahmed_: can you please sign the CLA...
