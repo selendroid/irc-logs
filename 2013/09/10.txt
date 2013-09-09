@@ -1,3 +1,5 @@
 [2013-09-10 00:21:23] Ahmed_, quitting. (Ping timeout: 250 seconds)
 [2013-09-10 00:33:55] Ahmed_, joining. (#selendroid)
 [2013-09-10 00:50:25] Ahmed_, quitting. (Quit: Page closed)
+[2013-09-10 01:00:16] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-10 01:03:34] lukeis, quitting. (Quit: Leaving.)
