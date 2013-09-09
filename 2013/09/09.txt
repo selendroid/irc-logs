@@ -86,3 +86,4 @@
 [2013-09-09 16:48:23] Ahmed_: ok
 [2013-09-09 16:48:33] ddary: :note lukeis what do you think about adding SelendroidCapabilities.setStartMainActivity(false)
 [2013-09-09 17:24:29] ddary, leaving. (#selendroid)
+[2013-09-09 17:27:36] lukeis, joining. (#selendroid)
