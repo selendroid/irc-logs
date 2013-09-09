@@ -40,3 +40,6 @@
 [2013-09-09 14:01:22] ddary: @Ahmed_: can you please sign the CLA...
 [2013-09-09 15:51:15] operatia_, joining. (#selendroid)
 [2013-09-09 15:51:50] operatiay, quitting. (Ping timeout: 264 seconds)
+[2013-09-09 16:12:54] Ahmed_: @ddary: I'm waiting for the legal department to reply
+[2013-09-09 16:13:06] Ahmed_: they're in Menlo Park
+[2013-09-09 16:13:34] ddary: yeah, i thought already that would be the case ...
