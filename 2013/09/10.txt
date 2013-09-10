@@ -185,3 +185,4 @@
 [2013-09-10 20:21:05] jlipps, quitting. (Quit: Leaving.)
 [2013-09-10 20:51:38] jlipps, joining. (#selendroid)
 [2013-09-10 21:39:41] jlipps, quitting. (Quit: Leaving.)
+[2013-09-10 21:52:34] Ahmed_: lukeis: can I do long click with selendroid?
