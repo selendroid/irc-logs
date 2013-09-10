@@ -157,3 +157,7 @@
 [2013-09-10 16:34:23] Ahmed_: no scrolling
 [2013-09-10 16:34:26] ddary: have not locked at that code for a while
 [2013-09-10 16:34:41] Ahmed_: there was no scrolling in this case
+[2013-09-10 16:35:09] Ahmed_: I think the problem is with the structure of the code itself
+[2013-09-10 16:35:14] Ahmed_: not sure
+[2013-09-10 16:35:24] Ahmed_: structure of AUT code
+[2013-09-10 16:39:34] ddary: Ahmed_: you can add an issue and then we can review it
