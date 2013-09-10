@@ -173,3 +173,5 @@
 [2013-09-10 17:20:41] jlipps, joining. (#selendroid)
 [2013-09-10 17:44:46] smccarthy, joining. (#selendroid)
 [2013-09-10 18:57:01] chhsiung, joining. (#selendroid)
+[2013-09-10 19:01:48] ddary, joining. (#selendroid)
+[2013-09-10 19:03:41] jlipps, quitting. (Quit: Leaving.)
