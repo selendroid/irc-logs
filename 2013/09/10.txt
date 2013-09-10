@@ -176,3 +176,7 @@
 [2013-09-10 19:01:48] ddary, joining. (#selendroid)
 [2013-09-10 19:03:41] jlipps, quitting. (Quit: Leaving.)
 [2013-09-10 19:27:26] jlipps, joining. (#selendroid)
+[2013-09-10 19:37:27] ddary: chhsiung: did you were able to fix the issue you had during create new session?
+[2013-09-10 19:38:27] chhsiung: yes!  thanks so much
+[2013-09-10 19:38:48] chhsiung: i stepped out for lunch, but am back at it again… will probably have more questions :P
+[2013-09-10 19:39:30] ddary: awesome
