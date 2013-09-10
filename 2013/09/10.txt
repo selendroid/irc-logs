@@ -50,3 +50,25 @@
 [2013-09-10 15:49:05] ddary, joining. (#selendroid)
 [2013-09-10 15:49:48] chhsiung: hi
 [2013-09-10 15:50:00] chhsiung: i'm having some trouble starting up selendroid on my AUT
+[2013-09-10 15:50:01] chhsiung: SEVERE: Error occured while building server: An error occured while resigning the app 'omobile.apk'.
+[2013-09-10 15:50:01] chhsiung: io.selendroid.exceptions.SessionNotCreatedException: An error occured while resigning the app 'omobile.apk'.
+[2013-09-10 15:50:01] chhsiung: 	at io.selendroid.server.model.SelendroidStandaloneDriver.initApplicationsUnderTest(SelendroidStandaloneDriver.java:103)
+[2013-09-10 15:50:01] chhsiung: 	at io.selendroid.server.SelendroidStandaloneServer.initializeSelendroidServer(SelendroidStandaloneServer.java:82)
+[2013-09-10 15:50:01] chhsiung: 	at io.selendroid.server.model.SelendroidStandaloneDriver.<init>(SelendroidStandaloneDriver.java:76)
+[2013-09-10 15:50:02] chhsiung: 	at io.selendroid.server.SelendroidStandaloneServer.<init>(SelendroidStandaloneServer.java:58)
+[2013-09-10 15:50:02] chhsiung: 	at io.selendroid.SelendroidLauncher.lauchServer(SelendroidLauncher.java:43)
+[2013-09-10 15:50:03] chhsiung: 	at io.selendroid.SelendroidLauncher.main(SelendroidLauncher.java:88)
+[2013-09-10 15:50:03] chhsiung: Caused by: io.selendroid.exceptions.ShellCommandException: An error occured while executing shell command: /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/jarsigner -sigalg MD5withRSA -digestalg SHA1 -signedjar /Users/crystal/git/mobile-automation-web/resigned-omobile.apk -storepass android -keystore /Users/crystal/.android/debug.keystore /Users/crystal/git/mobile-automation-web/omobile.apk androiddebugke
+[2013-09-10 15:50:04] chhsiung: 	at io.selendroid.io.ShellCommand.exec(ShellCommand.java:55)
+[2013-09-10 15:50:04] chhsiung: 	at io.selendroid.builder.SelendroidServerBuilder.signTestServer(SelendroidServerBuilder.java:253)
+[2013-09-10 15:50:05] chhsiung: 	at io.selendroid.builder.SelendroidServerBuilder.resignApp(SelendroidServerBuilder.java:126)
+[2013-09-10 15:50:05] chhsiung: 	at io.selendroid.server.model.SelendroidStandaloneDriver.initApplicationsUnderTest(SelendroidStandaloneDriver.java:101)
+[2013-09-10 15:50:06] chhsiung: 	... 5 more
+[2013-09-10 15:50:06] chhsiung: Caused by: io.selendroid.exceptions.ShellCommandException: jarsigner: unable to open jar file: /Users/crystal/git/mobile-automation-web/omobile.apk
+[2013-09-10 15:50:32] chhsiung: googling leads me to various pages mentioning the JAVA_HOME variable, which i have set to /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
+[2013-09-10 15:50:42] chhsiung: any help much appreciated!
+[2013-09-10 15:53:18] ddary: hi chhsiung: just let me grab a coffee and then I will have a look
+[2013-09-10 15:53:49] chhsiung: cool, thanks!!
+[2013-09-10 15:54:21] smiklosovic, joining. (#selendroid)
+[2013-09-10 15:54:45] smiklosovic: ddary: hi, i have a question
+[2013-09-10 15:54:59] smiklosovic: ddary: so, i am doing that multiple instrumentation stuff
