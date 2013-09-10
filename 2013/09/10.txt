@@ -25,3 +25,5 @@
 [2013-09-10 08:27:40] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/bwcXbw
 [2013-09-10 08:27:40] selendroid-git: selendroid/master 2a042e2 Dominik Dary: moving to next snapshot version
 [2013-09-10 08:27:40] selendroid-git, leaving. (#selendroid)
+[2013-09-10 08:43:59] ddary_, joining. (#selendroid)
+[2013-09-10 08:44:04] ddary_, quitting. (Client Quit)
