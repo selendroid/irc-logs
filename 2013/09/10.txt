@@ -171,3 +171,4 @@
 [2013-09-10 17:19:26] Ahmed_: can I use xpath with native window?
 [2013-09-10 17:19:58] lukeis: i don't believe so, i know dominik had intentions for it, i don't think i saw that done
 [2013-09-10 17:20:41] jlipps, joining. (#selendroid)
+[2013-09-10 17:44:46] smccarthy, joining. (#selendroid)
