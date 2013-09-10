@@ -161,3 +161,8 @@
 [2013-09-10 16:35:14] Ahmed_: not sure
 [2013-09-10 16:35:24] Ahmed_: structure of AUT code
 [2013-09-10 16:39:34] ddary: Ahmed_: you can add an issue and then we can review it
+[2013-09-10 16:40:52] Ahmed_: the problem is .. this happens with facebook app
+[2013-09-10 16:41:09] Ahmed_: I don't know how to reproduce it with a custom test app
+[2013-09-10 16:43:42] ddary: I would say, just submit the issue and then we can have a review
+[2013-09-10 16:44:09] ddary: or you add your observation here https://github.com/selendroid/selendroid/issues/110
+[2013-09-10 16:44:17] ddary: that seems to be the same topic
