@@ -186,3 +186,4 @@
 [2013-09-10 20:51:38] jlipps, joining. (#selendroid)
 [2013-09-10 21:39:41] jlipps, quitting. (Quit: Leaving.)
 [2013-09-10 21:52:34] Ahmed_: lukeis: can I do long click with selendroid?
+[2013-09-10 22:03:33] Ahmed_, quitting. (Ping timeout: 250 seconds)
