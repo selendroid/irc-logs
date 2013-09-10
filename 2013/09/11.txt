@@ -3,3 +3,4 @@
 [2013-09-11 00:32:15] selendroid-git: selendroid/master bab04e4 Luke Inman-Semerau: adding ability to get the nativeid from a native element...
 [2013-09-11 00:32:15] selendroid-git, leaving. (#selendroid)
 [2013-09-11 01:03:15] lukeis, quitting. (Quit: Leaving.)
+[2013-09-11 01:17:19] jlipps, quitting. (Quit: Leaving.)
