@@ -72,3 +72,12 @@
 [2013-09-10 15:54:21] smiklosovic, joining. (#selendroid)
 [2013-09-10 15:54:45] smiklosovic: ddary: hi, i have a question
 [2013-09-10 15:54:59] smiklosovic: ddary: so, i am doing that multiple instrumentation stuff
+[2013-09-10 15:55:32] smiklosovic: ddary: and when i am doing instrumentation
+[2013-09-10 15:55:53] smiklosovic: ddary: i do execute that instrumentation command but i have empty main_class
+[2013-09-10 15:56:05] smiklosovic: ddary: like, -e main_class ''
+[2013-09-10 15:56:27] smiklosovic: ddary: so selendroid server gets started but not activity is started yet
+[2013-09-10 15:57:00] smiklosovic: ddary: i do that manually like
+[2013-09-10 15:57:04] smiklosovic: ddary: driver.get("and-activity://" + activity);
+[2013-09-10 15:57:33] smiklosovic: so that activity is started on request
+[2013-09-10 15:58:52] smiklosovic: now, this is internal part of arquillian but when webdriver is destroyed, it does some communication to selendroid before it destroys webdriver instance and it seems webdriver.quit() is called and that quits selendroid so instrumentation is destroyed as well
+[2013-09-10 15:59:29] smiklosovic: aha ...
