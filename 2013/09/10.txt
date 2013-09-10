@@ -11,3 +11,4 @@
 [2013-09-10 03:20:39] jlipps, quitting. (Quit: Leaving.)
 [2013-09-10 04:05:15] jlipps, joining. (#selendroid)
 [2013-09-10 04:22:18] jlipps, quitting. (Quit: Leaving.)
+[2013-09-10 04:25:31] jlipps, joining. (#selendroid)
