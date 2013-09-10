@@ -138,3 +138,9 @@
 [2013-09-10 16:22:13] ddary: you have to visit: http://localhost:5555/wd/hib/status
 [2013-09-10 16:22:25] ddary: there you will see the supported apps and test devices
 [2013-09-10 16:22:48] Ahmed_: the conclusion is , there are some apps, which can view something and the android thinks that it's not viewed.. I don't know what's the best way to solve this problem actually
+[2013-09-10 16:25:06] ddary: is this an Android default component or something special?
+[2013-09-10 16:27:58] chhsiung: ddary: the json i posted was from visiting wd/hub/status
+[2013-09-10 16:28:26] chhsiung: should i be seeing supportedApps, supportedDevice, etc that the example json shows?
+[2013-09-10 16:28:33] chhsiung: because i dont :(  just see my computer
+[2013-09-10 16:28:52] ddary: but that is not the output from selendroid, is it from the selenium grid hub?
+[2013-09-10 16:29:26] ddary: http://selendroid.io/setup.html#launchingSelendroid
