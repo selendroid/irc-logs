@@ -4,3 +4,4 @@
 [2013-09-11 00:32:15] selendroid-git, leaving. (#selendroid)
 [2013-09-11 01:03:15] lukeis, quitting. (Quit: Leaving.)
 [2013-09-11 01:17:19] jlipps, quitting. (Quit: Leaving.)
+[2013-09-11 01:51:21] smccarthy, quitting. (Remote host closed the connection)
