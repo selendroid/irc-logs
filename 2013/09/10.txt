@@ -188,3 +188,4 @@
 [2013-09-10 21:52:34] Ahmed_: lukeis: can I do long click with selendroid?
 [2013-09-10 22:03:33] Ahmed_, quitting. (Ping timeout: 250 seconds)
 [2013-09-10 22:09:33] chhsiung, joining. (#selendroid)
+[2013-09-10 23:00:31] jlipps, joining. (#selendroid)
