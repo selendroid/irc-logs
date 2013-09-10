@@ -35,3 +35,5 @@
 [2013-09-10 11:10:38] operatiay, joining. (#selendroid)
 [2013-09-10 11:16:30] Ahmed, joining. (#selendroid)
 [2013-09-10 11:16:54] Ahmed, changing nick to Guest11507.
+[2013-09-10 11:32:26] Guest11507, quitting. (Quit: Page closed)
+[2013-09-10 11:32:53] Ahmed_, joining. (#selendroid)
