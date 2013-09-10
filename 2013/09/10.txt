@@ -166,3 +166,4 @@
 [2013-09-10 16:43:42] ddary: I would say, just submit the issue and then we can have a review
 [2013-09-10 16:44:09] ddary: or you add your observation here https://github.com/selendroid/selendroid/issues/110
 [2013-09-10 16:44:17] ddary: that seems to be the same topic
+[2013-09-10 16:46:19] ddary, leaving. (#selendroid)
