@@ -144,3 +144,16 @@
 [2013-09-10 16:28:33] chhsiung: because i dont :(  just see my computer
 [2013-09-10 16:28:52] ddary: but that is not the output from selendroid, is it from the selenium grid hub?
 [2013-09-10 16:29:26] ddary: http://selendroid.io/setup.html#launchingSelendroid
+[2013-09-10 16:31:16] chhsiung: bah! that was it.  i still had grid running in the background
+[2013-09-10 16:31:24] chhsiung: my json now looks more like you alls
+[2013-09-10 16:32:15] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-10 16:33:14] Ahmed_: so @ddary
+[2013-09-10 16:33:25] Ahmed_: do you think it's really important to make sure that element is shown
+[2013-09-10 16:33:27] Ahmed_: and focused
+[2013-09-10 16:33:35] Ahmed_: before sendingKeys
+[2013-09-10 16:33:37] Ahmed_: or clicking
+[2013-09-10 16:33:59] Ahmed_: because I've a case which you can see the element and isShow() is returning false
+[2013-09-10 16:34:16] ddary: is has to do with autoscrolling I guess
+[2013-09-10 16:34:23] Ahmed_: no scrolling
+[2013-09-10 16:34:26] ddary: have not locked at that code for a while
+[2013-09-10 16:34:41] Ahmed_: there was no scrolling in this case
