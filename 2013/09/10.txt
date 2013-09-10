@@ -81,3 +81,11 @@
 [2013-09-10 15:57:33] smiklosovic: so that activity is started on request
 [2013-09-10 15:58:52] smiklosovic: now, this is internal part of arquillian but when webdriver is destroyed, it does some communication to selendroid before it destroys webdriver instance and it seems webdriver.quit() is called and that quits selendroid so instrumentation is destroyed as well
 [2013-09-10 15:59:29] smiklosovic: aha ...
+[2013-09-10 16:00:18] smiklosovic: i am trying to figure out what was the original question but it seems i just needed to tell this to somebody :D
+[2013-09-10 16:00:27] smiklosovic: i guess it makes perfect sense!
+[2013-09-10 16:00:34] ddary: smiklosovic: yes :D
+[2013-09-10 16:01:01] ddary: if you do not want to end the session, don't call quit
+[2013-09-10 16:01:35] ddary: btw. the idea to start it with an empty main class is awesome
+[2013-09-10 16:02:37] smiklosovic: i cant influence on that quit() call ...
+[2013-09-10 16:03:04] smiklosovic: but that is not problem, since selendroid apk is still installed, i can instrument that for the second time upon webdriver initializationj
+[2013-09-10 16:03:25] ddary: ok
