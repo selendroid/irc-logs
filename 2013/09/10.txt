@@ -97,3 +97,19 @@
 [2013-09-10 16:07:32] Ahmed_: btw I have another question
 [2013-09-10 16:07:35] smiklosovic: ddary: Ahmed_ : http://pastebin.com/raw.php?i=mjchQBCC
 [2013-09-10 16:07:43] ddary: chhsiung: is your api located here:  /Users/crystal/git/mobile-automation-web/omobile.apk ?
+[2013-09-10 16:10:10] chhsiung: yes
+[2013-09-10 16:10:13] Ahmed_: chhiung: I believe your problem is that you're using an apk file which was previously used by selendroid to be resigned
+[2013-09-10 16:10:30] Ahmed_: because selendroid deletes somethings from the apk and make the apk damaged
+[2013-09-10 16:10:33] Ahmed_: you can't use it again
+[2013-09-10 16:10:42] Ahmed_: you have to get the original apk
+[2013-09-10 16:11:23] Ahmed_: smiklosovic : I had the same problem with my app
+[2013-09-10 16:11:44] Ahmed_: smiklosovic : selendroid couldn't find my mainActivity automatically
+[2013-09-10 16:11:55] Ahmed_: I used -InstalledApp to solve this problem
+[2013-09-10 16:12:19] Ahmed_: because -InstalledApp takes as an argument the mainActivity
+[2013-09-10 16:12:42] ddary: weird
+[2013-09-10 16:13:06] Ahmed_: another weird thing that happened to me today
+[2013-09-10 16:13:07] ddary: because in the original apk only the certificates are deleted
+[2013-09-10 16:13:43] Ahmed_: @ddary: yes, this damages the apk, I spent sometime yesterday to figure out this was the problem
+[2013-09-10 16:13:48] chhsiung: ah, ok.  Ahmed_, let me try to rebuild the apk
+[2013-09-10 16:14:16] ddary: but the thing is, when it gets resigned, it should not have an effect, right?
+[2013-09-10 16:14:27] smiklosovic: well, i am using different approach, before i install that apk i want to test on the emulator, i scan that apk file with aapt dump xmltree and i parse all activities from that, then i have mapping from webdriver instance to deployment so i can switch between activities directly in test code via some wrapper class around
