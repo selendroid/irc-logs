@@ -33,3 +33,5 @@
 [2013-09-10 10:29:01] operatiay, joining. (#selendroid)
 [2013-09-10 11:09:27] operatiay, quitting. (Remote host closed the connection)
 [2013-09-10 11:10:38] operatiay, joining. (#selendroid)
+[2013-09-10 11:16:30] Ahmed, joining. (#selendroid)
+[2013-09-10 11:16:54] Ahmed, changing nick to Guest11507.
