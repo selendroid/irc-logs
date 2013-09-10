@@ -125,3 +125,16 @@
 [2013-09-10 16:19:54] Ahmed_: also I DO SEE it
 [2013-09-10 16:19:56] ddary: Ahmed_ on a native element or a web element
 [2013-09-10 16:19:58] Ahmed_: and IT IS FOCUSED
+[2013-09-10 16:20:02] Ahmed_: native
+[2013-09-10 16:20:21] Ahmed_: I had to stop selendroid to check for this 2 booleans
+[2013-09-10 16:20:24] Ahmed_: and It worked
+[2013-09-10 16:20:29] Ahmed_: but It's really very strange
+[2013-09-10 16:20:38] Ahmed_: I don't think it's selendroid problem
+[2013-09-10 16:20:39] chhsiung: So in the startup of selendroid, i see:
+[2013-09-10 16:20:40] chhsiung: Adding: HardwareDevice [serial=4df7e8555e9321ff, model=GT-I9300, targetVersion=ANDROID16]
+[2013-09-10 16:20:42] smiklosovic, quitting. (Quit: Page closed)
+[2013-09-10 16:20:56] chhsiung: but visiting the selenium hub, i don't see any node really equivalent to android
+[2013-09-10 16:20:58] chhsiung: {"sessionId":null,"status":0,"value":{"os":{"arch":"x86_64","name":"Mac OS X","version":"10.8.3"},"java":{"version":"1.6.0_45"},"build":{"revision":"17482","time":"2012-07-18 21:08:56","version":"2.25.0"}},"class":"org.openqa.selenium.remote.Response","hCode":238632568}
+[2013-09-10 16:22:13] ddary: you have to visit: http://localhost:5555/wd/hib/status
+[2013-09-10 16:22:25] ddary: there you will see the supported apps and test devices
+[2013-09-10 16:22:48] Ahmed_: the conclusion is , there are some apps, which can view something and the android thinks that it's not viewed.. I don't know what's the best way to solve this problem actually
