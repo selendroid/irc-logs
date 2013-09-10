@@ -20,3 +20,8 @@
 [2013-09-10 06:15:39] jlipps, joining. (#selendroid)
 [2013-09-10 07:50:09] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-10 08:05:24] ddary, joining. (#selendroid)
+[2013-09-10 08:25:23] ddary: :log
+[2013-09-10 08:27:40] selendroid-git, joining. (#selendroid)
+[2013-09-10 08:27:40] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/bwcXbw
+[2013-09-10 08:27:40] selendroid-git: selendroid/master 2a042e2 Dominik Dary: moving to next snapshot version
+[2013-09-10 08:27:40] selendroid-git, leaving. (#selendroid)
