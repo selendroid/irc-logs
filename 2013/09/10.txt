@@ -27,3 +27,4 @@
 [2013-09-10 08:27:40] selendroid-git, leaving. (#selendroid)
 [2013-09-10 08:43:59] ddary_, joining. (#selendroid)
 [2013-09-10 08:44:04] ddary_, quitting. (Client Quit)
+[2013-09-10 09:15:13] jlipps, quitting. (Ping timeout: 240 seconds)
