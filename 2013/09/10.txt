@@ -167,3 +167,6 @@
 [2013-09-10 16:44:09] ddary: or you add your observation here https://github.com/selendroid/selendroid/issues/110
 [2013-09-10 16:44:17] ddary: that seems to be the same topic
 [2013-09-10 16:46:19] ddary, leaving. (#selendroid)
+[2013-09-10 17:15:56] lukeis, joining. (#selendroid)
+[2013-09-10 17:19:26] Ahmed_: can I use xpath with native window?
+[2013-09-10 17:19:58] lukeis: i don't believe so, i know dominik had intentions for it, i don't think i saw that done
