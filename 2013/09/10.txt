@@ -113,3 +113,15 @@
 [2013-09-10 16:13:48] chhsiung: ah, ok.  Ahmed_, let me try to rebuild the apk
 [2013-09-10 16:14:16] ddary: but the thing is, when it gets resigned, it should not have an effect, right?
 [2013-09-10 16:14:27] smiklosovic: well, i am using different approach, before i install that apk i want to test on the emulator, i scan that apk file with aapt dump xmltree and i parse all activities from that, then i have mapping from webdriver instance to deployment so i can switch between activities directly in test code via some wrapper class around
+[2013-09-10 16:16:20] Ahmed_: smiklosovic: https://github.com/selendroid/selendroid/issues/106
+[2013-09-10 16:17:04] smiklosovic: hehe
+[2013-09-10 16:17:16] smiklosovic: i guess Droidium will be first to support that :P
+[2013-09-10 16:17:30] Ahmed_: I already got that working :P
+[2013-09-10 16:18:45] chhsiung: looks like that was it.  Thanks Ahmed_!
+[2013-09-10 16:18:53] Ahmed_: @ddary: I was trying to sendKeys to some element
+[2013-09-10 16:19:06] Ahmed_: and then everything was freezing
+[2013-09-10 16:19:19] Ahmed_: like nothing is happening when I call the sendkeys
+[2013-09-10 16:19:50] Ahmed_: I found that I'm trying to sendKeys to a view which is returing false for view.isFocused() and view.isShow()
+[2013-09-10 16:19:54] Ahmed_: also I DO SEE it
+[2013-09-10 16:19:56] ddary: Ahmed_ on a native element or a web element
+[2013-09-10 16:19:58] Ahmed_: and IT IS FOCUSED
