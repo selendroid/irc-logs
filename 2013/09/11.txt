@@ -6,3 +6,4 @@
 [2013-09-11 01:17:19] jlipps, quitting. (Quit: Leaving.)
 [2013-09-11 01:51:21] smccarthy, quitting. (Remote host closed the connection)
 [2013-09-11 04:43:15] lukeis, joining. (#selendroid)
+[2013-09-11 05:19:36] chhsiung, quitting. (Quit: Leaving.)
