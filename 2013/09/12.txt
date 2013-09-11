@@ -1,1 +1,6 @@
 [2013-09-12 00:00:27] lukeis: i typically only use that locally
+[2013-09-12 00:11:24] chhsiung: why only locally?
+[2013-09-12 00:11:32] chhsiung: i guess i see value in knowing that the app is a clean install
+[2013-09-12 00:11:36] chhsiung: but it seems really slow
+[2013-09-12 00:11:43] chhsiung: to uninstall/reinstall each time :(
+[2013-09-12 00:12:03] lukeis: yeah, i re-use the session when a test is successful
