@@ -9,3 +9,4 @@
 [2013-09-12 00:23:25] selendroid-git: selendroid/master 7249f40 Luke Inman-Semerau: avoid an NPE when one of the root level views winds up being null...
 [2013-09-12 00:23:25] selendroid-git, leaving. (#selendroid)
 [2013-09-12 01:04:09] lukeis, quitting. (Quit: Leaving.)
+[2013-09-12 01:39:25] smccarthy, quitting. (Remote host closed the connection)
