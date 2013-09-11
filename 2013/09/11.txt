@@ -21,3 +21,9 @@
 [2013-09-11 10:34:05] selendroid-git, joining. (#selendroid)
 [2013-09-11 10:34:05] selendroid-git: [selendroid] palotas opened pull request #118: minor typo fix, found while debugging (master...dev)  http://git.io/_ySulw
 [2013-09-11 10:34:05] selendroid-git, leaving. (#selendroid)
+[2013-09-11 10:35:06] selendroid-git, joining. (#selendroid)
+[2013-09-11 10:35:06] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/kn5MNg
+[2013-09-11 10:35:06] selendroid-git: selendroid/master b5aeba9 Michael Palotas: minor typo fix, found while debugging
+[2013-09-11 10:35:06] selendroid-git: selendroid/master 2548cc7 Dominik Dary: Merge pull request #118 from palotas/dev...
+[2013-09-11 10:35:06] selendroid-git, leaving. (#selendroid)
+[2013-09-11 10:36:47] chhsiung, joining. (#selendroid)
