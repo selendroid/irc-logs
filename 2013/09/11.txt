@@ -81,3 +81,4 @@
 [2013-09-11 20:57:40] operatiay, joining. (#selendroid)
 [2013-09-11 21:01:57] operatiay, quitting. (Ping timeout: 248 seconds)
 [2013-09-11 21:02:04] chico, leaving. (#selendroid)
+[2013-09-11 22:13:55] Ahmed_, quitting. (Ping timeout: 250 seconds)
