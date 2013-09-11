@@ -8,3 +8,4 @@
 [2013-09-12 00:23:25] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/6stb3A
 [2013-09-12 00:23:25] selendroid-git: selendroid/master 7249f40 Luke Inman-Semerau: avoid an NPE when one of the root level views winds up being null...
 [2013-09-12 00:23:25] selendroid-git, leaving. (#selendroid)
+[2013-09-12 01:04:09] lukeis, quitting. (Quit: Leaving.)
