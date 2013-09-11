@@ -78,3 +78,4 @@
 [2013-09-11 20:47:51] chico, joining. (#selendroid)
 [2013-09-11 20:48:14] chico: Hello, is there someone here that could help with selendroid on Win7 ?
 [2013-09-11 20:54:06] chico: ??
+[2013-09-11 20:57:40] operatiay, joining. (#selendroid)
