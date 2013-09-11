@@ -13,3 +13,8 @@
 [2013-09-11 09:31:19] ddary, joining. (#selendroid)
 [2013-09-11 09:36:16] chhsiung, joining. (#selendroid)
 [2013-09-11 09:40:33] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-09-11 10:07:09] selendroid-git, joining. (#selendroid)
+[2013-09-11 10:07:09] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/LDUZHQ
+[2013-09-11 10:07:09] selendroid-git: selendroid/master 49e340a Dominik Dary: fixing stop session handling on server standalone and moving wait utilities to client library.
+[2013-09-11 10:07:09] selendroid-git, leaving. (#selendroid)
+[2013-09-11 10:07:09] selendroid-git: selendroid/master 5d08230 Dominik Dary:  Merge branch 'master' of https://github.com/selendroid/selendroid
