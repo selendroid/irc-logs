@@ -46,3 +46,6 @@
 [2013-09-11 12:37:45] chhsiung, joining. (#selendroid)
 [2013-09-11 12:42:13] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-09-11 13:29:23] operatiay, joining. (#selendroid)
+[2013-09-11 14:02:43] operatiay, quitting. (Remote host closed the connection)
+[2013-09-11 14:03:17] operatiay, joining. (#selendroid)
+[2013-09-11 14:03:24] ddary, leaving. (#selendroid)
