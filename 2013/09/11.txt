@@ -83,3 +83,4 @@
 [2013-09-11 21:02:04] chico, leaving. (#selendroid)
 [2013-09-11 22:13:55] Ahmed_, quitting. (Ping timeout: 250 seconds)
 [2013-09-11 23:08:30] smccarthy2, joining. (#selendroid)
+[2013-09-11 23:12:01] smccarthy, quitting. (Ping timeout: 268 seconds)
