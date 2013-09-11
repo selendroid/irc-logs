@@ -93,3 +93,6 @@
 [2013-09-11 23:51:44] lukeis: if you're using the selendroid-standalone-server that is...
 [2013-09-11 23:54:19] smccarthy2, quitting. (Remote host closed the connection)
 [2013-09-11 23:54:54] smccarthy, joining. (#selendroid)
+[2013-09-11 23:56:51] chhsiung: hrm, but if i use -installedApp, do i need to manually install the app the very first time?
+[2013-09-11 23:56:59] chhsiung: and would that mean the resigned app?
+[2013-09-11 23:59:53] lukeis: yes and yes
