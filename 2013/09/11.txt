@@ -18,3 +18,6 @@
 [2013-09-11 10:07:09] selendroid-git: selendroid/master 49e340a Dominik Dary: fixing stop session handling on server standalone and moving wait utilities to client library.
 [2013-09-11 10:07:09] selendroid-git, leaving. (#selendroid)
 [2013-09-11 10:07:09] selendroid-git: selendroid/master 5d08230 Dominik Dary:  Merge branch 'master' of https://github.com/selendroid/selendroid
+[2013-09-11 10:34:05] selendroid-git, joining. (#selendroid)
+[2013-09-11 10:34:05] selendroid-git: [selendroid] palotas opened pull request #118: minor typo fix, found while debugging (master...dev)  http://git.io/_ySulw
+[2013-09-11 10:34:05] selendroid-git, leaving. (#selendroid)
