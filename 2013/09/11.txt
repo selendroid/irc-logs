@@ -75,3 +75,5 @@
 [2013-09-11 19:45:20] chhsiung, joining. (#selendroid)
 [2013-09-11 19:49:41] lukeis, joining. (#selendroid)
 [2013-09-11 19:52:25] ddary, quitting. (Quit: ddary)
+[2013-09-11 20:47:51] chico, joining. (#selendroid)
+[2013-09-11 20:48:14] chico: Hello, is there someone here that could help with selendroid on Win7 ?
