@@ -205,3 +205,10 @@
 [2013-09-12 18:42:34] lukeis: weird
 [2013-09-12 18:42:52] ddary: running maven ..
 [2013-09-12 18:43:00] lukeis: well, the commit shows the files deleted… but not added anywhere
+[2013-09-12 18:45:07] ddary: building, not talking Dominik: -> got a BUILD FAILURE
+[2013-09-12 18:45:12] ddary: my fault
+[2013-09-12 18:45:13] ddary: sorry
+[2013-09-12 18:45:31] lukeis: :)
+[2013-09-12 18:45:46] lukeis: as long as you fix it, I'll be happy ;)
+[2013-09-12 18:47:06] ddary: sure
+[2013-09-12 18:47:15] ddary: doing it already
