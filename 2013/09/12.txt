@@ -10,3 +10,6 @@
 [2013-09-12 00:23:25] selendroid-git, leaving. (#selendroid)
 [2013-09-12 01:04:09] lukeis, quitting. (Quit: Leaving.)
 [2013-09-12 01:39:25] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-12 02:12:12] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-12 02:12:49] chhsiung, joining. (#selendroid)
+[2013-09-12 02:13:29] chhsiung, quitting. (Client Quit)
