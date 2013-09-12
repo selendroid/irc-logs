@@ -219,3 +219,10 @@
 [2013-09-12 19:03:46] selendroid-git: selendroid/master dd05b76 Dominik Dary:  Merge branch 'master' of https://github.com/selendroid/selendroid
 [2013-09-12 19:03:46] selendroid-git, leaving. (#selendroid)
 [2013-09-12 19:14:09] lukeis: Ahmed_:  a little bit of a snag, the only way I find to tie the emulator to the avd name is through telnet… now how to have java basically do this command is what's left to work out:  (sleep 0.5; echo 'avd name') | telnet localhost 5554
+[2013-09-12 19:15:17] lukeis: i've got other work to do right now… so maybe I'll come back to it tomorrow or next week?
+[2013-09-12 19:16:38] ddary: built is back to green
+[2013-09-12 19:16:45] ddary: sorry for the inconvenience
+[2013-09-12 19:16:47] lukeis: thank you sir ;)
+[2013-09-12 19:17:12] ddary: it was my fault ;-)
+[2013-09-12 19:17:18] ddary: thanks for letting me know
+[2013-09-12 19:17:23] lukeis: no worries, i wasn't blocked… just don't like my jenkins telling me there was a build error :-D
