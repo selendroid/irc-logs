@@ -212,3 +212,4 @@
 [2013-09-12 18:45:46] lukeis: as long as you fix it, I'll be happy ;)
 [2013-09-12 18:47:06] ddary: sure
 [2013-09-12 18:47:15] ddary: doing it already
+[2013-09-12 18:54:12] operatiay, quitting. (Remote host closed the connection)
