@@ -33,3 +33,4 @@
 [2013-09-12 11:25:36] Ahmed_: :note ddary hi ddary can we make this wait with timeout ? https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/model/AndroidNativeElement.java#L93
 [2013-09-12 11:56:21] chhsiung, joining. (#selendroid)
 [2013-09-12 12:00:33] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-09-12 12:47:06] operatiay, quitting. (Remote host closed the connection)
