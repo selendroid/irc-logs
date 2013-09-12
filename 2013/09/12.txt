@@ -158,3 +158,4 @@
 [2013-09-12 17:03:42] Ahmed_: :note ddary I solved the keys problem! thanks!
 [2013-09-12 17:03:55] chhsiung, joining. (#selendroid)
 [2013-09-12 17:04:38] Ahmed_: :note ddary now working on this https://github.com/selendroid/selendroid/issues/121
+[2013-09-12 17:24:47] lukeis, joining. (#selendroid)
