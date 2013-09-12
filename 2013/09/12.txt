@@ -165,3 +165,26 @@
 [2013-09-12 17:32:07] Ahmed_: https://github.com/selendroid/selendroid/issues/121
 [2013-09-12 17:32:17] Ahmed_: since you're the one implemented -InstalledApp
 [2013-09-12 17:49:53] Ahmed_: can we somehow find the port of the chosen emulator?
+[2013-09-12 17:50:54] lukeis: you can parse the emulator name?
+[2013-09-12 17:51:12] Ahmed_: if I do adb devices
+[2013-09-12 17:51:15] Ahmed_: I will get the names
+[2013-09-12 17:51:17] lukeis: yeah
+[2013-09-12 17:51:17] Ahmed_: but the problem is
+[2013-09-12 17:51:25] Ahmed_: I don't know which one selendroid has chosen
+[2013-09-12 17:52:17] lukeis: doesn't the 'androiddevice' have that info?
+[2013-09-12 17:52:19] Ahmed_: how to compare the output of "adb devices" against the list of running emulators that selendroid has
+[2013-09-12 17:52:36] lukeis: not sure why you need to do that
+[2013-09-12 17:52:46] Ahmed_: adb install app
+[2013-09-12 17:52:48] Ahmed_: will not work
+[2013-09-12 17:52:56] Ahmed_: if you have 2 emulators working in the same time
+[2013-09-12 17:53:01] lukeis: it just needs to pass the serial
+[2013-09-12 17:53:07] Ahmed_: exactly
+[2013-09-12 17:53:13] Ahmed_: and the serial is not configured
+[2013-09-12 17:53:22] Ahmed_: if you choose -InstalledApp
+[2013-09-12 17:53:27] Ahmed_: the serial is not configured
+[2013-09-12 17:53:51] lukeis: then it should be :)
+[2013-09-12 17:53:55] Ahmed_: how :D
+[2013-09-12 17:53:59] *lukeis looks'
+[2013-09-12 17:54:02] Ahmed_: cool
+[2013-09-12 17:54:23] Ahmed_: please let me know if you have any progress
+[2013-09-12 17:54:27] Ahmed_: I'm working on it too
