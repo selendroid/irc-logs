@@ -37,3 +37,7 @@
 [2013-09-12 13:03:31] operatiay, joining. (#selendroid)
 [2013-09-12 13:29:15] operatiay, quitting. (Remote host closed the connection)
 [2013-09-12 13:39:42] operatiay, joining. (#selendroid)
+[2013-09-12 13:50:30] selendroid-git, joining. (#selendroid)
+[2013-09-12 13:50:30] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/bot5Bw
+[2013-09-12 13:50:30] selendroid-git: selendroid/gh-pages fae862c Dominik Dary: Update scale.html
+[2013-09-12 13:50:30] selendroid-git, leaving. (#selendroid)
