@@ -53,3 +53,17 @@
 [2013-09-12 14:34:06] ddary: that is conrolled by implicit wait
 [2013-09-12 14:34:21] ddary: so, whatever the tester is using is used
 [2013-09-12 14:34:46] ddary: driver.manage().timeouts().implicitWait()
+[2013-09-12 14:35:45] Ahmed_: first time to know about that
+[2013-09-12 14:35:59] Ahmed_: pardon me I'm still learning :)
+[2013-09-12 14:36:47] Ahmed_: but what will happen after that?
+[2013-09-12 14:36:56] ddary: nothing:)
+[2013-09-12 14:37:15] Ahmed_: but this will not solve the problem :/
+[2013-09-12 14:37:24] ddary: the thing is, there is a server site wait that is used when you search for elements
+[2013-09-12 14:37:59] ddary: if this timeout is 15sec, the server on the device will try to find the element for 15sec (looping)
+[2013-09-12 14:38:10] ddary: this is a global wait
+[2013-09-12 14:38:22] Ahmed_: and if not found
+[2013-09-12 14:38:28] Ahmed_: the request will not be executed
+[2013-09-12 14:38:29] ddary: the other option a tester has is to say: use the client site wait
+[2013-09-12 14:38:59] ddary: if not found, there will be the error thrown NoSuchElement
+[2013-09-12 14:39:10] Ahmed_: the problem is the element is viewed and focused, but the methods are returning false
+[2013-09-12 14:39:47] ddary: http://code.google.com/p/selenium/wiki/JsonWireProtocol#/session/:sessionId/element
