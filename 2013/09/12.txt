@@ -43,3 +43,13 @@
 [2013-09-12 13:50:30] selendroid-git, leaving. (#selendroid)
 [2013-09-12 14:09:22] chhsiung, joining. (#selendroid)
 [2013-09-12 14:30:00] ddary, joining. (#selendroid)
+[2013-09-12 14:31:01] operatiay, quitting. (Remote host closed the connection)
+[2013-09-12 14:31:18] Ahmed_: and after the timeout the we execute the requrest anyway
+[2013-09-12 14:31:51] Ahmed_: or maybe we check the width, height and Enabled only
+[2013-09-12 14:31:55] Ahmed_: after the timeout
+[2013-09-12 14:33:00] operatiay, joining. (#selendroid)
+[2013-09-12 14:33:49] ddary: hi Ahmed_
+[2013-09-12 14:33:55] ddary: I looked into the code
+[2013-09-12 14:34:06] ddary: that is conrolled by implicit wait
+[2013-09-12 14:34:21] ddary: so, whatever the tester is using is used
+[2013-09-12 14:34:46] ddary: driver.manage().timeouts().implicitWait()
