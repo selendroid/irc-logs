@@ -226,3 +226,11 @@
 [2013-09-12 19:17:12] ddary: it was my fault ;-)
 [2013-09-12 19:17:18] ddary: thanks for letting me know
 [2013-09-12 19:17:23] lukeis: no worries, i wasn't blocked… just don't like my jenkins telling me there was a build error :-D
+[2013-09-12 19:37:26] Ahmed_: are you sure that telnet is going to help?
+[2013-09-12 19:37:41] Ahmed_: we don't know the port number
+[2013-09-12 19:37:46] Ahmed_: this is the core problem
+[2013-09-12 19:39:04] lukeis: we know the avd name
+[2013-09-12 19:39:19] Ahmed_: but the avd could be started on any port
+[2013-09-12 19:39:24] Ahmed_: not necessarly 5554
+[2013-09-12 19:39:34] lukeis: check all the running avd's via telnet, match the name
+[2013-09-12 19:39:41] lukeis: the 5554 was going to be a variable ;)
