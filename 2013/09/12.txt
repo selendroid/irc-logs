@@ -159,3 +159,8 @@
 [2013-09-12 17:03:55] chhsiung, joining. (#selendroid)
 [2013-09-12 17:04:38] Ahmed_: :note ddary now working on this https://github.com/selendroid/selendroid/issues/121
 [2013-09-12 17:24:47] lukeis, joining. (#selendroid)
+[2013-09-12 17:31:48] Ahmed_: Hi lukeis
+[2013-09-12 17:31:56] lukeis: hi
+[2013-09-12 17:32:07] Ahmed_: what do you think about this
+[2013-09-12 17:32:07] Ahmed_: https://github.com/selendroid/selendroid/issues/121
+[2013-09-12 17:32:17] Ahmed_: since you're the one implemented -InstalledApp
