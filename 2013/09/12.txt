@@ -164,3 +164,4 @@
 [2013-09-12 17:32:07] Ahmed_: what do you think about this
 [2013-09-12 17:32:07] Ahmed_: https://github.com/selendroid/selendroid/issues/121
 [2013-09-12 17:32:17] Ahmed_: since you're the one implemented -InstalledApp
+[2013-09-12 17:49:53] Ahmed_: can we somehow find the port of the chosen emulator?
