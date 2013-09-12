@@ -67,3 +67,12 @@
 [2013-09-12 14:38:59] ddary: if not found, there will be the error thrown NoSuchElement
 [2013-09-12 14:39:10] Ahmed_: the problem is the element is viewed and focused, but the methods are returning false
 [2013-09-12 14:39:47] ddary: http://code.google.com/p/selenium/wiki/JsonWireProtocol#/session/:sessionId/element
+[2013-09-12 14:40:11] ddary: you can try to set the implicit wait to 5 seconds and see if it helps
+[2013-09-12 14:42:13] Ahmed_: ok here's a question
+[2013-09-12 14:42:20] Ahmed_: that you'll not like
+[2013-09-12 14:42:22] Ahmed_: :D
+[2013-09-12 14:42:22] Ahmed_: https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/model/AndroidNativeElement.java#L100
+[2013-09-12 14:42:31] Ahmed_: can I remove the throwing exception part?
+[2013-09-12 14:43:56] Ahmed_: because for some apps (like my app) there's some views that are focused and showed
+[2013-09-12 14:44:09] Ahmed_: but Android *thinks* they're not
+[2013-09-12 14:44:25] Ahmed_: not sure if the problem with Android or selendroid
