@@ -234,3 +234,7 @@
 [2013-09-12 19:39:24] Ahmed_: not necessarly 5554
 [2013-09-12 19:39:34] lukeis: check all the running avd's via telnet, match the name
 [2013-09-12 19:39:41] lukeis: the 5554 was going to be a variable ;)
+[2013-09-12 19:41:12] lukeis: (shorthand) - for port in `adb devices`.split('emulator-') {  if (avdName == `telnet port | avd name`) { found it! } }
+[2013-09-12 19:43:42] Ahmed_: ok I'm sorry but I have to ask
+[2013-09-12 19:43:51] Ahmed_: avdName == `telnet port | avd name` is not very clear to me
+[2013-09-12 19:44:39] lukeis: if you execute   " (sleep 0.5; echo 'avd name') | telnet localhost " + port    <- that will get you the avd name of the running device
