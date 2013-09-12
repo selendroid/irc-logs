@@ -42,3 +42,4 @@
 [2013-09-12 13:50:30] selendroid-git: selendroid/gh-pages fae862c Dominik Dary: Update scale.html
 [2013-09-12 13:50:30] selendroid-git, leaving. (#selendroid)
 [2013-09-12 14:09:22] chhsiung, joining. (#selendroid)
+[2013-09-12 14:30:00] ddary, joining. (#selendroid)
