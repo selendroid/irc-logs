@@ -194,3 +194,14 @@
 [2013-09-12 18:10:52] Ahmed_: what's wrong
 [2013-09-12 18:13:02] lukeis: he 'moved' something… by deleting it and not adding it back anywhere
 [2013-09-12 18:23:18] smccarthy, joining. (#selendroid)
+[2013-09-12 18:40:47] ddary, joining. (#selendroid)
+[2013-09-12 18:41:18] lukeis: hi ddary Y U break things? ;)
+[2013-09-12 18:41:32] ddary: hopefully not
+[2013-09-12 18:41:50] ddary: let me delete my local repository
+[2013-09-12 18:41:51] lukeis: did you forget to git add it? :)
+[2013-09-12 18:42:05] lukeis: (breaks in travis ci too)
+[2013-09-12 18:42:23] ddary: # On branch master
+[2013-09-12 18:42:23] ddary: nothing to commit (working directory clean)
+[2013-09-12 18:42:34] lukeis: weird
+[2013-09-12 18:42:52] ddary: running maven ..
+[2013-09-12 18:43:00] lukeis: well, the commit shows the files deleted… but not added anywhere
