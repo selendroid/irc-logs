@@ -238,3 +238,19 @@
 [2013-09-12 19:43:42] Ahmed_: ok I'm sorry but I have to ask
 [2013-09-12 19:43:51] Ahmed_: avdName == `telnet port | avd name` is not very clear to me
 [2013-09-12 19:44:39] lukeis: if you execute   " (sleep 0.5; echo 'avd name') | telnet localhost " + port    <- that will get you the avd name of the running device
+[2013-09-12 19:45:41] lukeis: AndroidEmulator has the avdName
+[2013-09-12 19:45:56] Ahmed_: I know this
+[2013-09-12 19:46:02] Ahmed_: and we can get the ports from adb devices
+[2013-09-12 19:46:07] lukeis: yes
+[2013-09-12 19:46:40] lukeis: but then you need some way to map port to avd name … that command ^^ gives it to you
+[2013-09-12 19:47:01] Ahmed_: (sleep 0.5; echo 'avd name') | telnet localhost 5554
+[2013-09-12 19:47:08] Ahmed_: I executed this in my terminal
+[2013-09-12 19:47:26] Ahmed_: and I didn't get any avd name
+[2013-09-12 19:47:40] lukeis: hopefully you're on Mac or Linux...
+[2013-09-12 19:47:50] lukeis: maybe it'll work on windows
+[2013-09-12 19:47:55] Ahmed_: http://pastebin.com/Luizny67
+[2013-09-12 19:48:08] Ahmed_: i'm on mac
+[2013-09-12 19:48:17] Ahmed_: but it should work on mac :D
+[2013-09-12 19:49:16] lukeis: this is what I get: https://gist.github.com/anonymous/6541315
+[2013-09-12 19:49:21] lukeis: maybe increase the sleep?
+[2013-09-12 19:49:32] lukeis: so  sleep 1;
