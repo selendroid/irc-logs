@@ -270,3 +270,4 @@
 [2013-09-12 19:53:07] Ahmed_: "[18:47] <lukeis> maybe it'll work on windows"
 [2013-09-12 19:53:16] Ahmed_: I misunderstood it
 [2013-09-12 19:53:20] Ahmed_: anyways
+[2013-09-12 20:10:24] ddary, quitting. (Read error: Connection reset by peer)
