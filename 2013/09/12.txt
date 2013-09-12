@@ -108,3 +108,14 @@
 [2013-09-12 14:53:05] ddary: or:
 [2013-09-12 14:53:33] ddary: ((HasInputDevices)driver).getKeyboard().sendKeys(searchTerm);
 [2013-09-12 14:54:48] Ahmed_: element.sendKeys
+[2013-09-12 14:56:50] ddary: the other approach could be
+[2013-09-12 14:57:19] ddary: click the element and then sent the text via keyboard
+[2013-09-12 14:57:30] Ahmed_: clicking the element doesn't work
+[2013-09-12 14:57:31] ddary: (maybe that is working)
+[2013-09-12 14:57:38] ddary: same issue, right
+[2013-09-12 14:57:39] Ahmed_: it fails for the same reasone
+[2013-09-12 14:57:43] ddary: :-)
+[2013-09-12 14:57:45] Ahmed_: reason*
+[2013-09-12 14:59:06] Ahmed_: my suggestion is just to add like a 5 sec wait and then execute anyway
+[2013-09-12 14:59:10] Ahmed_: I know this is not perfect
+[2013-09-12 14:59:37] Ahmed_: but the case is very rare and hard to reproduce
