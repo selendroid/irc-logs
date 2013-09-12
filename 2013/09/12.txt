@@ -193,3 +193,4 @@
 [2013-09-12 18:10:15] lukeis: dang it… what did dominik do...
 [2013-09-12 18:10:52] Ahmed_: what's wrong
 [2013-09-12 18:13:02] lukeis: he 'moved' something… by deleting it and not adding it back anywhere
+[2013-09-12 18:23:18] smccarthy, joining. (#selendroid)
