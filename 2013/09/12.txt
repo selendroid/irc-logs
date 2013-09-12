@@ -218,3 +218,4 @@
 [2013-09-12 19:03:46] selendroid-git: selendroid/master 12b0fb2 Dominik Dary: Adding missing files, that has been moved from test app to the selendroid client.
 [2013-09-12 19:03:46] selendroid-git: selendroid/master dd05b76 Dominik Dary:  Merge branch 'master' of https://github.com/selendroid/selendroid
 [2013-09-12 19:03:46] selendroid-git, leaving. (#selendroid)
+[2013-09-12 19:14:09] lukeis: Ahmed_:  a little bit of a snag, the only way I find to tie the emulator to the avd name is through telnet… now how to have java basically do this command is what's left to work out:  (sleep 0.5; echo 'avd name') | telnet localhost 5554
