@@ -126,3 +126,12 @@
 [2013-09-12 15:10:07] ddary: thanks, that sounds great
 [2013-09-12 15:29:24] operatiay, quitting. (Remote host closed the connection)
 [2013-09-12 15:45:20] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-12 15:50:12] Ahmed_: ddary I don't know if this might help
+[2013-09-12 15:50:34] Ahmed_: but the element that I was trying to type inside
+[2013-09-12 15:50:39] Ahmed_: has some text
+[2013-09-12 15:50:47] Ahmed_: when I try to find by this text
+[2013-09-12 15:51:01] Ahmed_: like By.linkText("bala")
+[2013-09-12 15:51:11] Ahmed_: selendroid can't get the element
+[2013-09-12 15:51:49] Ahmed_: I was using By.className
+[2013-09-12 15:51:53] Ahmed_: and it was working
+[2013-09-12 15:54:38] Ahmed_: I really believe that the problem is not with selendroid
