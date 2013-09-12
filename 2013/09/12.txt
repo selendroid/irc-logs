@@ -76,3 +76,22 @@
 [2013-09-12 14:43:56] Ahmed_: because for some apps (like my app) there's some views that are focused and showed
 [2013-09-12 14:44:09] Ahmed_: but Android *thinks* they're not
 [2013-09-12 14:44:25] Ahmed_: not sure if the problem with Android or selendroid
+[2013-09-12 14:45:27] Ahmed_: and I don't think this limitation is important
+[2013-09-12 14:45:44] Ahmed_: why sendKeys or Clicks to only showed eleements?
+[2013-09-12 14:47:11] ddary: it is kind of important, because the user should see what happens and befor that is done there is the autoscroll
+[2013-09-12 14:47:47] ddary: first i would like to understand, what this method returns:
+[2013-09-12 14:48:01] ddary: isDisplayed()
+[2013-09-12 14:48:03] ddary: return view.hasWindowFocus() && view.isEnabled() && view.isShown() && (view.getWidth() > 0)
+[2013-09-12 14:48:03] ddary:         && (view.getHeight() > 0);
+[2013-09-12 14:48:33] Ahmed_: for me , view.isShown() and view.hasWindowFocus() are returning false
+[2013-09-12 14:48:35] ddary: do you know how to debug the selndroid code?
+[2013-09-12 14:48:49] Ahmed_: yes they're returning false
+[2013-09-12 14:48:58] Ahmed_: but the view is infront of me :)
+[2013-09-12 14:49:05] Ahmed_: I removed them
+[2013-09-12 14:49:08] Ahmed_: and the keys were sent
+[2013-09-12 14:49:12] Ahmed_: and everything worked
+[2013-09-12 14:49:40] ddary: they are rendered in the viewport, that is what you mean, right?
+[2013-09-12 14:49:55] ddary: so, you don't have to scroll to see the element
+[2013-09-12 14:49:58] Ahmed_: no
+[2013-09-12 14:49:59] ddary: right?
+[2013-09-12 14:50:01] Ahmed_: no scrolling here
