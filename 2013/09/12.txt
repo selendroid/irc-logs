@@ -254,3 +254,19 @@
 [2013-09-12 19:49:16] lukeis: this is what I get: https://gist.github.com/anonymous/6541315
 [2013-09-12 19:49:21] lukeis: maybe increase the sleep?
 [2013-09-12 19:49:32] lukeis: so  sleep 1;
+[2013-09-12 19:50:07] Ahmed_: worked
+[2013-09-12 19:50:21] lukeis: ok, good to note ;)
+[2013-09-12 19:50:34] Ahmed_: why the sleep is important
+[2013-09-12 19:50:46] lukeis: it's waiting for the connection to be established
+[2013-09-12 19:50:53] lukeis: before sending the 'avd name' command
+[2013-09-12 19:51:05] lukeis: arbitrary sleep is a bad thing ;)
+[2013-09-12 19:51:25] lukeis: not sure what to do about it though
+[2013-09-12 19:51:26] Ahmed_: yes it is
+[2013-09-12 19:52:00] lukeis: really we need something like pexpect…. we wait for "OK" to show up in the stdout, then send in the command and wait for the response
+[2013-09-12 19:52:17] Ahmed_: but why you said that it's not going to work on mac or linux?
+[2013-09-12 19:52:37] lukeis: it does work on mac or linux
+[2013-09-12 19:52:41] lukeis: wasn't sure about windows
+[2013-09-12 19:52:54] Ahmed_: that make sense
+[2013-09-12 19:53:07] Ahmed_: "[18:47] <lukeis> maybe it'll work on windows"
+[2013-09-12 19:53:16] Ahmed_: I misunderstood it
+[2013-09-12 19:53:20] Ahmed_: anyways
