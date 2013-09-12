@@ -123,3 +123,4 @@
 [2013-09-12 15:06:03] ddary: for me isDisplayed() is the key method
 [2013-09-12 15:06:28] ddary: can you try to find a better way of identifying if the element is dispalyed?
 [2013-09-12 15:06:49] Ahmed_: will try
+[2013-09-12 15:10:07] ddary: thanks, that sounds great
