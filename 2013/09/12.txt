@@ -153,3 +153,4 @@
 [2013-09-12 16:06:06] selendroid-git: selendroid/gh-pages 10f0097 Dominik Dary: Update scale.html
 [2013-09-12 16:06:06] selendroid-git, leaving. (#selendroid)
 [2013-09-12 16:10:18] ddary, quitting. (Ping timeout: 264 seconds)
+[2013-09-12 16:19:19] chhsiung, joining. (#selendroid)
