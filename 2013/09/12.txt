@@ -272,3 +272,4 @@
 [2013-09-12 19:53:20] Ahmed_: anyways
 [2013-09-12 20:10:24] ddary, quitting. (Read error: Connection reset by peer)
 [2013-09-12 20:28:06] ddary, joining. (#selendroid)
+[2013-09-12 20:45:03] ddary, leaving. (#selendroid)
