@@ -274,3 +274,4 @@
 [2013-09-12 20:28:06] ddary, joining. (#selendroid)
 [2013-09-12 20:45:03] ddary, leaving. (#selendroid)
 [2013-09-12 21:43:59] Ahmed_, quitting. (Ping timeout: 250 seconds)
+[2013-09-12 23:46:05] lukeis, quitting. (Quit: Leaving.)
