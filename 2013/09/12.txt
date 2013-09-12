@@ -142,3 +142,9 @@
 [2013-09-12 15:57:55] Ahmed_: where do selendroid get the elements of the screen?
 [2013-09-12 15:58:08] Ahmed_: the complete list of views ?
 [2013-09-12 15:58:35] chhsiung, quitting. (Client Quit)
+[2013-09-12 16:00:59] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/model/DefaultSelendroidDriver.java#L443
+[2013-09-12 16:04:12] operatiay, joining. (#selendroid)
+[2013-09-12 16:04:28] selendroid-git, joining. (#selendroid)
+[2013-09-12 16:04:28] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/StJj8w
+[2013-09-12 16:04:28] selendroid-git: selendroid/gh-pages 88fce3c Dominik Dary: Update scale.html
+[2013-09-12 16:04:28] selendroid-git, leaving. (#selendroid)
