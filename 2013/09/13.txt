@@ -6,3 +6,4 @@
 [2013-09-13 02:54:55] jlipps, quitting. (Quit: Leaving.)
 [2013-09-13 02:55:13] jlipps, joining. (#selendroid)
 [2013-09-13 07:42:28] ddary, joining. (#selendroid)
+[2013-09-13 07:46:39] ddary: :log
