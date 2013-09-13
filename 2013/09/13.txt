@@ -69,3 +69,4 @@
 [2013-09-13 17:36:32] jlipps, quitting. (Ping timeout: 256 seconds)
 [2013-09-13 17:51:49] jlipps, joining. (#selendroid)
 [2013-09-13 17:58:28] smccarthy, joining. (#selendroid)
+[2013-09-13 18:04:18] jlipps, quitting. (Ping timeout: 264 seconds)
