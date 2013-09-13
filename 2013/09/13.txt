@@ -3,3 +3,4 @@
 [2013-09-13 00:16:23] chhsiung, quitting. (Client Quit)
 [2013-09-13 01:09:13] smccarthy, quitting. (Remote host closed the connection)
 [2013-09-13 01:44:20] jlipps, joining. (#selendroid)
+[2013-09-13 02:54:55] jlipps, quitting. (Quit: Leaving.)
