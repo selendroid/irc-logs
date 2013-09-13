@@ -8,3 +8,4 @@
 [2013-09-13 07:42:28] ddary, joining. (#selendroid)
 [2013-09-13 07:46:39] ddary: :log
 [2013-09-13 08:51:26] jlipps, quitting. (Ping timeout: 240 seconds)
+[2013-09-13 09:20:43] jlipps, joining. (#selendroid)
