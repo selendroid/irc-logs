@@ -73,3 +73,9 @@
 [2013-09-13 18:31:58] jlipps, joining. (#selendroid)
 [2013-09-13 18:58:47] lukeis, quitting. (Quit: Leaving.)
 [2013-09-13 19:03:52] lukeis, joining. (#selendroid)
+[2013-09-13 19:50:09] Ahmed__: Lukeis: I did it
+[2013-09-13 19:50:17] lukeis: cool :)
+[2013-09-13 19:50:32] Ahmed__: I added another option
+[2013-09-13 19:50:38] Ahmed__: the emulator port
+[2013-09-13 19:50:47] Ahmed__: because it makes more sense to let the tester choose
+[2013-09-13 19:52:25] lukeis: i suppose… if a tester can wrap his head around two running simultaneous o.0
