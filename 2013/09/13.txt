@@ -65,3 +65,4 @@
 [2013-09-13 16:59:59] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/pQUSmA
 [2013-09-13 16:59:59] selendroid-git: selendroid/master 779c2c4 Dominik Dary: Emulator will be displayed again on display port.
 [2013-09-13 16:59:59] selendroid-git, leaving. (#selendroid)
+[2013-09-13 17:31:28] lukeis, joining. (#selendroid)
