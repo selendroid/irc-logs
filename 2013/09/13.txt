@@ -79,3 +79,5 @@
 [2013-09-13 19:50:38] Ahmed__: the emulator port
 [2013-09-13 19:50:47] Ahmed__: because it makes more sense to let the tester choose
 [2013-09-13 19:52:25] lukeis: i suppose… if a tester can wrap his head around two running simultaneous o.0
+[2013-09-13 19:55:47] Ahmed__: he will need to have 2 different selendroid-standalone anyway
+[2013-09-13 19:55:56] Ahmed__: I'm not gona use it anyway
