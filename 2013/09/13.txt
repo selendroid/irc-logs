@@ -61,3 +61,7 @@
 [2013-09-13 16:44:27] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-13 16:46:45] chhsiung, joining. (#selendroid)
 [2013-09-13 16:47:30] chhsiung, quitting. (Client Quit)
+[2013-09-13 16:59:59] selendroid-git, joining. (#selendroid)
+[2013-09-13 16:59:59] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/pQUSmA
+[2013-09-13 16:59:59] selendroid-git: selendroid/master 779c2c4 Dominik Dary: Emulator will be displayed again on display port.
+[2013-09-13 16:59:59] selendroid-git, leaving. (#selendroid)
