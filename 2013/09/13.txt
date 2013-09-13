@@ -82,3 +82,4 @@
 [2013-09-13 19:55:47] Ahmed__: he will need to have 2 different selendroid-standalone anyway
 [2013-09-13 19:55:56] Ahmed__: I'm not gona use it anyway
 [2013-09-13 20:53:58] Ahmed__, quitting. (Quit: Page closed)
+[2013-09-13 23:40:14] chhsiung, joining. (#selendroid)
