@@ -36,3 +36,17 @@
 [2013-09-13 15:24:17] ddary: good good
 [2013-09-13 15:24:24] ddary: weekend is coming :-)
 [2013-09-13 15:24:49] Ahmed__: yes :)
+[2013-09-13 15:25:01] ddary: btw are you mainly testing on emulators or real devices
+[2013-09-13 15:25:09] Ahmed__: emulators
+[2013-09-13 15:25:21] ddary: arm or x86?
+[2013-09-13 15:25:30] Ahmed__: x86
+[2013-09-13 15:26:05] ddary: the fast ones, I'm happy to use them as well
+[2013-09-13 15:26:12] Ahmed__: yes
+[2013-09-13 15:26:18] ddary: arm is really not fun at all
+[2013-09-13 15:26:25] Ahmed__: it causes problems actually
+[2013-09-13 15:26:35] Ahmed__: sometimes it's incredibly slow
+[2013-09-13 15:26:55] ddary: are you using hardware acceleration?
+[2013-09-13 15:26:59] Ahmed__: yes
+[2013-09-13 15:27:22] ddary: emulators with smaller screens seems to be faster
+[2013-09-13 15:27:34] Ahmed__: mmmm
+[2013-09-13 15:27:35] ddary: at least from what I have seen
