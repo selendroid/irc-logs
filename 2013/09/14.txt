@@ -2,3 +2,4 @@
 [2013-09-14 01:41:10] smccarthy, quitting. (Remote host closed the connection)
 [2013-09-14 04:17:47] chhsiung, joining. (#selendroid)
 [2013-09-14 04:20:56] chhsiung, quitting. (Client Quit)
+[2013-09-14 05:37:12] chhsiung, joining. (#selendroid)
