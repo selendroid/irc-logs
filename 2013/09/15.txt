@@ -21,3 +21,8 @@
 [2013-09-15 14:18:10] jlipps, quitting. (Quit: Leaving.)
 [2013-09-15 15:36:24] chhsiung, joining. (#selendroid)
 [2013-09-15 15:48:43] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-15 15:50:10] chhsiung, joining. (#selendroid)
+[2013-09-15 15:51:16] chhsiung1, joining. (#selendroid)
+[2013-09-15 15:51:16] chhsiung, quitting. (Read error: Connection reset by peer)
+[2013-09-15 15:52:45] chhsiung, joining. (#selendroid)
+[2013-09-15 15:52:45] chhsiung1, quitting. (Read error: Connection reset by peer)
