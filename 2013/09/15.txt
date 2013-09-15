@@ -26,3 +26,5 @@
 [2013-09-15 15:51:16] chhsiung, quitting. (Read error: Connection reset by peer)
 [2013-09-15 15:52:45] chhsiung, joining. (#selendroid)
 [2013-09-15 15:52:45] chhsiung1, quitting. (Read error: Connection reset by peer)
+[2013-09-15 16:04:27] chhsiung1, joining. (#selendroid)
+[2013-09-15 16:04:27] chhsiung, quitting. (Read error: Connection reset by peer)
