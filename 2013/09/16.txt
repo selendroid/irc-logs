@@ -163,3 +163,14 @@
 [2013-09-16 18:14:34] ddary: yes :-)
 [2013-09-16 18:14:50] lukeis: huh, when did that happen? ;)
 [2013-09-16 18:14:59] lukeis: i've heard of both those tools
+[2013-09-16 18:15:08] lukeis: i don't use either though
+[2013-09-16 18:15:48] ddary: simon gave it to me for the webdriver.mobile stuff
+[2013-09-16 18:16:03] lukeis: nice
+[2013-09-16 18:16:06] ddary: with regards to the tools
+[2013-09-16 18:16:20] ddary: i don't like this blobs floating around
+[2013-09-16 18:16:48] ddary: you all this vms, but to have a consistent and lightweight docu of it is hard
+[2013-09-16 18:16:56] ddary: somehting is always out of date
+[2013-09-16 18:17:28] ddary: want to try it if it makes sense
+[2013-09-16 18:18:07] lukeis: yeah, that makes sense… my servers / vm's are managed by another team, I can't use those if I wanted to ;)
+[2013-09-16 18:18:28] ddary: will be  off for dinner: my son just said: it is time to eat something :-)
+[2013-09-16 18:18:34] lukeis: ;)
