@@ -54,3 +54,4 @@
 [2013-09-16 12:26:41] ddary: I hope that makes sense
 [2013-09-16 12:27:16] smiklosovic: it does but standalone is useless for us atm
 [2013-09-16 12:31:19] jlipps, quitting. (Quit: Leaving.)
+[2013-09-16 12:42:53] smiklosovic, quitting. (Quit: Page closed)
