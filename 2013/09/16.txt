@@ -121,3 +121,26 @@
 [2013-09-16 16:24:36] Ahmed__: I catch it, and start another server with the -app so that the app is installed and everything was working fine
 [2013-09-16 16:24:48] ddary: k
 [2013-09-16 16:24:58] Ahmed__: but when I tried to do the same with real device
+[2013-09-16 16:25:04] Ahmed__: the device is added only in the first time
+[2013-09-16 16:25:14] Ahmed__: and when I try to start the second server
+[2013-09-16 16:25:30] Ahmed__: the real device is not added
+[2013-09-16 16:25:52] Ahmed__: and then I get device not found exception
+[2013-09-16 16:26:35] ddary: you mean the real device cannot be added twice to the device store but the android emulator can?
+[2013-09-16 16:26:42] Ahmed__: yes
+[2013-09-16 16:26:47] Ahmed__: because for the emulator
+[2013-09-16 16:26:53] Ahmed__: we ask to list avd
+[2013-09-16 16:26:58] Ahmed__: I mean selendorid do that
+[2013-09-16 16:27:01] Ahmed__: but for real device
+[2013-09-16 16:27:06] Ahmed__: it used ADB
+[2013-09-16 16:27:21] Ahmed__: and the listener works only once
+[2013-09-16 16:27:32] Ahmed__: maybe because it's the same process running?
+[2013-09-16 16:27:44] Ahmed__: one simple solution that came to my mind
+[2013-09-16 16:28:07] Ahmed__: is to add some functionality to the SelendroidLauncher to install Apps
+[2013-09-16 16:28:25] Ahmed__: I'm already calling the SelendroidLauncher directly from inside my code, so this would work I guess
+[2013-09-16 16:28:48] Ahmed__: which means I'm not going to use another server , just same server but Install the app
+[2013-09-16 16:28:55] ddary: I'm confused :-)
+[2013-09-16 16:29:10] Ahmed__: okay
+[2013-09-16 16:29:12] ddary: maybe we should do a hangout to talk about it
+[2013-09-16 16:29:15] Ahmed__: so
+[2013-09-16 16:29:26] ddary: would be probably easier
+[2013-09-16 16:29:36] Ahmed__: ok
