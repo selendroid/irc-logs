@@ -29,3 +29,5 @@
 [2013-09-16 11:54:09] operatiay, quitting. (Remote host closed the connection)
 [2013-09-16 12:02:06] Ahmed__, joining. (#selendroid)
 [2013-09-16 12:03:16] operatiay, joining. (#selendroid)
+[2013-09-16 12:06:38] Ahmed__: does selendroid support real devices with the -InstalledApp option?
+[2013-09-16 12:07:29] ddary: yes, if the apps are there
