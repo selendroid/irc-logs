@@ -33,3 +33,18 @@
 [2013-09-16 12:07:29] ddary: yes, if the apps are there
 [2013-09-16 12:12:04] jlipps, joining. (#selendroid)
 [2013-09-16 12:19:42] smiklosovic, joining. (#selendroid)
+[2013-09-16 12:20:19] smiklosovic: ddary: hi, it is possible distribute selendroid-server.apk which is already built as a resource in archetypes?
+[2013-09-16 12:20:57] operatiay, quitting. (Remote host closed the connection)
+[2013-09-16 12:21:05] smiklosovic: i wrote some archetypes from which you generate example project and there is selendroid 0.5.1 already added so user does not have to do it on his own
+[2013-09-16 12:22:11] smiklosovic: meaning some legal issues here mainly, it is another discussion if it is another idea
+[2013-09-16 12:22:12] ddary: does it use the standalone server?
+[2013-09-16 12:22:16] smiklosovic: yes
+[2013-09-16 12:22:17] smiklosovic: no
+[2013-09-16 12:22:20] smiklosovic: well
+[2013-09-16 12:22:21] smiklosovic: yes
+[2013-09-16 12:22:27] smiklosovic: selendroid-server.apk
+[2013-09-16 12:23:02] smiklosovic: just mvn package on selendroid-server maven module
+[2013-09-16 12:23:19] ddary: having an architype based on the selendroid-standalone would be fine, for the selendroid-server not
+[2013-09-16 12:23:34] smiklosovic: why
+[2013-09-16 12:24:26] smiklosovic: like, i do not use any selendroid maven dependency in poms, i just build server on my own and i add it to src/main/resources/archetype-resources/selendroid-server-0.5.1.apk
+[2013-09-16 12:24:40] ddary: because we as a project want that the users should use the standalone component. similar to selenium
