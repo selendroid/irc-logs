@@ -99,3 +99,5 @@
 [2013-09-16 13:05:32] Ahmed__: yeah
 [2013-09-16 13:05:49] Ahmed__: I'm still waiting for the legal department
 [2013-09-16 13:06:12] Ahmed__: I hate this bureaucracy
+[2013-09-16 13:12:41] Ahmed__: adding this line caused tests to fail
+[2013-09-16 13:12:55] Ahmed__: [INFO] selendroid-standalone ............................. FAILURE [7.669s]
