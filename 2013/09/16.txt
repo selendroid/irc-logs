@@ -31,3 +31,4 @@
 [2013-09-16 12:03:16] operatiay, joining. (#selendroid)
 [2013-09-16 12:06:38] Ahmed__: does selendroid support real devices with the -InstalledApp option?
 [2013-09-16 12:07:29] ddary: yes, if the apps are there
+[2013-09-16 12:12:04] jlipps, joining. (#selendroid)
