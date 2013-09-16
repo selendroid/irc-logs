@@ -109,3 +109,15 @@
 [2013-09-16 15:31:24] chhsiung, joining. (#selendroid)
 [2013-09-16 15:53:12] operatiay, joining. (#selendroid)
 [2013-09-16 16:01:28] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-16 16:22:28] Ahmed__: hi @ddary
+[2013-09-16 16:22:34] Ahmed__: I've a question
+[2013-09-16 16:22:42] Ahmed__: do you have some time?
+[2013-09-16 16:23:14] ddary: hi Ahmed__
+[2013-09-16 16:23:18] ddary: yes
+[2013-09-16 16:23:39] ddary: but please let's start the conversation first in a direct chat
+[2013-09-16 16:23:46] Ahmed__: I'm trying to start the standalone server automatically
+[2013-09-16 16:24:05] Ahmed__: what I was doing was that I try to start it using the -InstalledApp
+[2013-09-16 16:24:11] Ahmed__: and If an exception thrown
+[2013-09-16 16:24:36] Ahmed__: I catch it, and start another server with the -app so that the app is installed and everything was working fine
+[2013-09-16 16:24:48] ddary: k
+[2013-09-16 16:24:58] Ahmed__: but when I tried to do the same with real device
