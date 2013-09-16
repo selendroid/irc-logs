@@ -180,3 +180,10 @@
 [2013-09-16 18:23:54] Ahmed__: :D
 [2013-09-16 18:23:59] lukeis: ddary: btw, this is my life… just as I'm about to get all tests to passing (ignoring obvious bugs, that's what the yellow is) they go ahead and change the entire flow of me… https://www.evernote.com/shard/s307/sh/d014340d-5f35-4664-b869-9efd93a7827b/8c43d77da8eec1a8762a3cf368966b01
 [2013-09-16 18:24:14] Ahmed__: maybe not the best solution, but at least I know exactly the problem now :D
+[2013-09-16 18:26:44] Ahmed__: the first thing 'AndroidDebugBridge.terminate();' causes problems if AndroidDebugBridge will be used again
+[2013-09-16 18:28:07] Ahmed__: the second thing: this https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/android/impl/DefaultDeviceManager.java#L77
+[2013-09-16 18:28:16] Ahmed__: is not enough to add the emulator
+[2013-09-16 18:28:31] Ahmed__: as apparently, no change occurs
+[2013-09-16 18:29:03] Ahmed__: and this line is never called https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/android/impl/DefaultDeviceManager.java#L103
+[2013-09-16 18:29:33] lukeis: i thought i had real device working with installed app… but yeah, i use emulators normally (but my dev's use real devices… but they haven't been doing any of the selendroid testing for a while now)
+[2013-09-16 18:29:53] Ahmed__: was talking about hardware device not emulator
