@@ -68,3 +68,21 @@
 [2013-09-16 12:52:32] Ahmed__: he was using emulators only
 [2013-09-16 12:52:35] Ahmed__: just a guess
 [2013-09-16 12:54:50] ddary: the method name is: isEmulatorSwitchedOff
+[2013-09-16 12:55:09] ddary: so by default they are switched off, so true is right, right?
+[2013-09-16 12:55:28] Ahmed__: if this is not emulator
+[2013-09-16 12:55:35] Ahmed__: the problem is
+[2013-09-16 12:55:38] Ahmed__: this method is used
+[2013-09-16 12:55:41] Ahmed__: with all devices
+[2013-09-16 12:55:49] Ahmed__: not only AndroidEmulator
+[2013-09-16 12:56:12] Ahmed__: so if real device
+[2013-09-16 12:56:18] Ahmed__: is passed to this method
+[2013-09-16 12:56:21] Ahmed__: it will return true
+[2013-09-16 12:56:24] Ahmed__: switched off
+[2013-09-16 12:56:28] Ahmed__: but it's not actually
+[2013-09-16 12:58:56] ddary: yeah
+[2013-09-16 12:59:20] Ahmed__: maybe we change it to look like this
+[2013-09-16 12:59:20] Ahmed__: http://pastebin.com/N2t0r5xs
+[2013-09-16 12:59:29] ddary: I would keep the method and change the parameter type to AndroidEmulator
+[2013-09-16 12:59:42] ddary: and then refactore calling method
+[2013-09-16 12:59:53] Ahmed__: what about this http://pastebin.com/N2t0r5xs
+[2013-09-16 12:59:58] Ahmed__: saves time
