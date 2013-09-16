@@ -55,3 +55,10 @@
 [2013-09-16 12:27:16] smiklosovic: it does but standalone is useless for us atm
 [2013-09-16 12:31:19] jlipps, quitting. (Quit: Leaving.)
 [2013-09-16 12:42:53] smiklosovic, quitting. (Quit: Page closed)
+[2013-09-16 12:48:34] Ahmed__: @ddary
+[2013-09-16 12:48:34] Ahmed__: https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/server/model/DeviceStore.java#L229
+[2013-09-16 12:48:44] Ahmed__: I think this should be return false
+[2013-09-16 12:48:45] Ahmed__: right?
+[2013-09-16 12:49:33] Ahmed__: I think this is the reason why -InstalledApp is not working with real devices
+[2013-09-16 12:49:41] Ahmed__: It always think that it's switched off
+[2013-09-16 12:49:54] Ahmed__: I mean selendroid treat them as switched off
