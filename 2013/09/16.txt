@@ -202,3 +202,4 @@
 [2013-09-16 18:55:59] ddary: now the display capability is working again
 [2013-09-16 18:56:27] ddary: that is also important for my team because they can see, what is happening when the test is running in the grid
 [2013-09-16 18:57:41] operatiay, quitting. (Remote host closed the connection)
+[2013-09-16 19:27:01] ddary, quitting. (Quit: ddary)
