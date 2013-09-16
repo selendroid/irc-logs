@@ -174,3 +174,9 @@
 [2013-09-16 18:18:07] lukeis: yeah, that makes sense… my servers / vm's are managed by another team, I can't use those if I wanted to ;)
 [2013-09-16 18:18:28] ddary: will be  off for dinner: my son just said: it is time to eat something :-)
 [2013-09-16 18:18:34] lukeis: ;)
+[2013-09-16 18:21:03] lukeis: i love baby german talk ;) had family friends with a young one over once and all the little one could really say was "bitte haben"  at least there was manners :)
+[2013-09-16 18:23:48] Ahmed__: YEAH
+[2013-09-16 18:23:52] Ahmed__: I solved it ")
+[2013-09-16 18:23:54] Ahmed__: :D
+[2013-09-16 18:23:59] lukeis: ddary: btw, this is my life… just as I'm about to get all tests to passing (ignoring obvious bugs, that's what the yellow is) they go ahead and change the entire flow of me… https://www.evernote.com/shard/s307/sh/d014340d-5f35-4664-b869-9efd93a7827b/8c43d77da8eec1a8762a3cf368966b01
+[2013-09-16 18:24:14] Ahmed__: maybe not the best solution, but at least I know exactly the problem now :D
