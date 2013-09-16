@@ -62,3 +62,9 @@
 [2013-09-16 12:49:33] Ahmed__: I think this is the reason why -InstalledApp is not working with real devices
 [2013-09-16 12:49:41] Ahmed__: It always think that it's switched off
 [2013-09-16 12:49:54] Ahmed__: I mean selendroid treat them as switched off
+[2013-09-16 12:50:24] ddary: propably, but let me have a look into the history
+[2013-09-16 12:52:07] Ahmed__: I think lukeis missed this case
+[2013-09-16 12:52:17] Ahmed__: because he didn't care about real devices
+[2013-09-16 12:52:32] Ahmed__: he was using emulators only
+[2013-09-16 12:52:35] Ahmed__: just a guess
+[2013-09-16 12:54:50] ddary: the method name is: isEmulatorSwitchedOff
