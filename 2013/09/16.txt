@@ -187,3 +187,8 @@
 [2013-09-16 18:29:03] Ahmed__: and this line is never called https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/android/impl/DefaultDeviceManager.java#L103
 [2013-09-16 18:29:33] lukeis: i thought i had real device working with installed app… but yeah, i use emulators normally (but my dev's use real devices… but they haven't been doing any of the selendroid testing for a while now)
 [2013-09-16 18:29:53] Ahmed__: was talking about hardware device not emulator
+[2013-09-16 18:30:02] lukeis: i know :)
+[2013-09-16 18:31:33] Ahmed__: so what I did to get this working is, I commented this line https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/android/impl/DefaultDeviceManager.java#L95
+[2013-09-16 18:32:04] Ahmed__: and added a call to onDeviceConnocted here https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/android/impl/DefaultDeviceManager.java#L77
+[2013-09-16 18:32:15] Ahmed__: listener.onDeviceConnected(connectedDevices.get(devices[i]));
+[2013-09-16 18:32:29] Ahmed__: this doesn't look neat though
