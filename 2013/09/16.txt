@@ -149,3 +149,5 @@
 [2013-09-16 16:37:28] chhsiung, joining. (#selendroid)
 [2013-09-16 17:39:21] smccarthy, joining. (#selendroid)
 [2013-09-16 17:40:45] lukeis, joining. (#selendroid)
+[2013-09-16 17:46:06] Ahmed__: https://github.com/Ladicek/ddmlib-demo/blob/master/src/main/java/cz/ladicek/android/ddmlib/Demo.java#L23
+[2013-09-16 17:46:11] Ahmed__: maybe that's it
