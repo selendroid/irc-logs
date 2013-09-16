@@ -192,3 +192,7 @@
 [2013-09-16 18:32:04] Ahmed__: and added a call to onDeviceConnocted here https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/android/impl/DefaultDeviceManager.java#L77
 [2013-09-16 18:32:15] Ahmed__: listener.onDeviceConnected(connectedDevices.get(devices[i]));
 [2013-09-16 18:32:29] Ahmed__: this doesn't look neat though
+[2013-09-16 18:52:47] ddary: Ahmed__: awesome you figured it out
+[2013-09-16 18:53:26] Ahmed__: yes
+[2013-09-16 18:53:44] ddary: Ahmed__: just in case you wonder, why the IDevice is needed as well for the emulators
+[2013-09-16 18:54:28] ddary: the reason is, with the Idevice taking screenshots is working really good and don't have the issues that the on device mechanism has
