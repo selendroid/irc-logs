@@ -103,3 +103,4 @@
 [2013-09-16 13:12:55] Ahmed__: [INFO] selendroid-standalone ............................. FAILURE [7.669s]
 [2013-09-16 13:19:31] Ahmed__: I'm on it
 [2013-09-16 13:19:43] ddary: ok
+[2013-09-16 14:35:08] chhsiung, joining. (#selendroid)
