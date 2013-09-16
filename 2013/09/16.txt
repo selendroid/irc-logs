@@ -210,3 +210,4 @@
 [2013-09-16 21:10:50] chhsiung, quitting. (Client Quit)
 [2013-09-16 22:05:30] Ahmed__, quitting. (Quit: Page closed)
 [2013-09-16 23:16:29] Ahmed_, joining. (#selendroid)
+[2013-09-16 23:46:55] Ahmed_, quitting. (Ping timeout: 250 seconds)
