@@ -151,3 +151,7 @@
 [2013-09-16 17:40:45] lukeis, joining. (#selendroid)
 [2013-09-16 17:46:06] Ahmed__: https://github.com/Ladicek/ddmlib-demo/blob/master/src/main/java/cz/ladicek/android/ddmlib/Demo.java#L23
 [2013-09-16 17:46:11] Ahmed__: maybe that's it
+[2013-09-16 18:07:12] ddary: if I look at the source of the AndroidDebugBridge class, they say that:
+[2013-09-16 18:07:18] ddary: <p/><b>Only one tool can run in mode 1 at the same time.</b>
+[2013-09-16 18:08:03] ddary: but we run in mode 2, which means we call the init method with parameter false to just debug the device (and not the applications as well
+[2013-09-16 18:08:06] ddary: )
