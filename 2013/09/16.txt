@@ -93,3 +93,9 @@
 [2013-09-16 13:03:04] operatiay, joining. (#selendroid)
 [2013-09-16 13:03:23] Ahmed__: this line will solve everything I guess
 [2013-09-16 13:03:27] Ahmed__: it's up to you anyway
+[2013-09-16 13:05:01] ddary: you can do it as you described, but then please rename the method to isDeviceSwitchedOn (or something like that)
+[2013-09-16 13:05:17] Ahmed__: cool
+[2013-09-16 13:05:26] ddary: that is clean and saves time ;-)
+[2013-09-16 13:05:32] Ahmed__: yeah
+[2013-09-16 13:05:49] Ahmed__: I'm still waiting for the legal department
+[2013-09-16 13:06:12] Ahmed__: I hate this bureaucracy
