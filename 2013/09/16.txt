@@ -155,3 +155,11 @@
 [2013-09-16 18:07:18] ddary: <p/><b>Only one tool can run in mode 1 at the same time.</b>
 [2013-09-16 18:08:03] ddary: but we run in mode 2, which means we call the init method with parameter false to just debug the device (and not the applications as well
 [2013-09-16 18:08:06] ddary: )
+[2013-09-16 18:12:27] ddary: lukeis: hello
+[2013-09-16 18:12:40] lukeis: hi
+[2013-09-16 18:13:11] ddary: changed today the selenium download page and change the link to selendroid.io
+[2013-09-16 18:14:26] lukeis: cool… do you have commit access the the selenium project?
+[2013-09-16 18:14:31] ddary: have you heard about chef or puppet?
+[2013-09-16 18:14:34] ddary: yes :-)
+[2013-09-16 18:14:50] lukeis: huh, when did that happen? ;)
+[2013-09-16 18:14:59] lukeis: i've heard of both those tools
