@@ -208,3 +208,4 @@
 [2013-09-16 21:06:58] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-16 21:09:59] chhsiung, joining. (#selendroid)
 [2013-09-16 21:10:50] chhsiung, quitting. (Client Quit)
+[2013-09-16 22:05:30] Ahmed__, quitting. (Quit: Page closed)
