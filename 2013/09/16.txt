@@ -27,3 +27,5 @@
 [2013-09-16 09:33:38] jlipps, quitting. (Client Quit)
 [2013-09-16 10:28:57] operatiay, joining. (#selendroid)
 [2013-09-16 11:54:09] operatiay, quitting. (Remote host closed the connection)
+[2013-09-16 12:02:06] Ahmed__, joining. (#selendroid)
+[2013-09-16 12:03:16] operatiay, joining. (#selendroid)
