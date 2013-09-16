@@ -196,3 +196,9 @@
 [2013-09-16 18:53:26] Ahmed__: yes
 [2013-09-16 18:53:44] ddary: Ahmed__: just in case you wonder, why the IDevice is needed as well for the emulators
 [2013-09-16 18:54:28] ddary: the reason is, with the Idevice taking screenshots is working really good and don't have the issues that the on device mechanism has
+[2013-09-16 18:55:17] ddary: lukeis: with regards to the tests, I need to refactor them as well to the latest version of our app
+[2013-09-16 18:55:33] lukeis: ok
+[2013-09-16 18:55:48] lukeis: oh, i mean… ah ;)
+[2013-09-16 18:55:59] ddary: now the display capability is working again
+[2013-09-16 18:56:27] ddary: that is also important for my team because they can see, what is happening when the test is running in the grid
+[2013-09-16 18:57:41] operatiay, quitting. (Remote host closed the connection)
