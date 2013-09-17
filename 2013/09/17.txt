@@ -59,3 +59,4 @@
 [2013-09-17 11:51:52] ddary_, joining. (#selendroid)
 [2013-09-17 12:04:13] Ahmed_, joining. (#selendroid)
 [2013-09-17 12:41:29] ddary_, leaving. (#selendroid)
+[2013-09-17 14:18:00] ddary, joining. (#selendroid)
