@@ -4,3 +4,5 @@
 [2013-09-17 06:36:15] smccarthy, joining. (#selendroid)
 [2013-09-17 07:03:43] chhsiung, joining. (#selendroid)
 [2013-09-17 07:08:44] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-17 07:45:27] ddary, joining. (#selendroid)
+[2013-09-17 07:45:37] ddary: :log
