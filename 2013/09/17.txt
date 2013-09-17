@@ -18,3 +18,11 @@
 [2013-09-17 09:04:35] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/eYLwHA
 [2013-09-17 09:04:35] selendroid-git: selendroid/gh-pages 58a1b5f Dominik Dary: Update scale.html
 [2013-09-17 09:04:35] selendroid-git, leaving. (#selendroid)
+[2013-09-17 09:17:25] selendroid-git, joining. (#selendroid)
+[2013-09-17 09:17:25] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/317v7w
+[2013-09-17 09:17:25] selendroid-git: selendroid/gh-pages 35f31d5 Dominik Dary: Update scale.html
+[2013-09-17 09:17:25] selendroid-git, leaving. (#selendroid)
+[2013-09-17 09:19:15] selendroid-git, joining. (#selendroid)
+[2013-09-17 09:19:15] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/sfUU8Q
+[2013-09-17 09:19:15] selendroid-git: selendroid/gh-pages 7596510 Dominik Dary: Update scale.html
+[2013-09-17 09:19:15] selendroid-git, leaving. (#selendroid)
