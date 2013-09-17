@@ -14,3 +14,7 @@
 [2013-09-17 08:34:18] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/v9qQOQ
 [2013-09-17 08:34:18] selendroid-git: selendroid/master 05d6ee7 Dominik Dary: Adapting capability matcher to latest SelendroidCapabilities
 [2013-09-17 08:34:18] selendroid-git, leaving. (#selendroid)
+[2013-09-17 09:04:35] selendroid-git, joining. (#selendroid)
+[2013-09-17 09:04:35] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/eYLwHA
+[2013-09-17 09:04:35] selendroid-git: selendroid/gh-pages 58a1b5f Dominik Dary: Update scale.html
+[2013-09-17 09:04:35] selendroid-git, leaving. (#selendroid)
