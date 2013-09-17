@@ -57,3 +57,4 @@
 [2013-09-17 11:27:44] operatiay, joining. (#selendroid)
 [2013-09-17 11:51:50] ddary, quitting. (Ping timeout: 240 seconds)
 [2013-09-17 11:51:52] ddary_, joining. (#selendroid)
+[2013-09-17 12:04:13] Ahmed_, joining. (#selendroid)
