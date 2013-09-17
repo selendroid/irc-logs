@@ -70,3 +70,4 @@
 [2013-09-17 15:57:31] operatiay, quitting. (Remote host closed the connection)
 [2013-09-17 16:07:07] operatiay, joining. (#selendroid)
 [2013-09-17 17:25:40] ddary, quitting. (Quit: ddary)
+[2013-09-17 17:34:44] smccarthy, joining. (#selendroid)
