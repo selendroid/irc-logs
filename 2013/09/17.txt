@@ -65,3 +65,5 @@
 [2013-09-17 15:11:00] operatiay, quitting. (Remote host closed the connection)
 [2013-09-17 15:17:17] operatiay, joining. (#selendroid)
 [2013-09-17 15:18:18] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-17 15:45:22] freynaud_, joining. (#selendroid)
+[2013-09-17 15:45:32] freynaud_, quitting. (Client Quit)
