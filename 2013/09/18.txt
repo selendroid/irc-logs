@@ -36,3 +36,4 @@
 [2013-09-18 15:05:26] chhsiung, joining. (#selendroid)
 [2013-09-18 15:31:30] jusfreeman, quitting. (Quit: jusfreeman)
 [2013-09-18 15:41:52] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-09-18 16:00:09] chhsiung, quitting. (Quit: Leaving.)
