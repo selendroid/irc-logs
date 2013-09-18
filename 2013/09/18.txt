@@ -39,3 +39,4 @@
 [2013-09-18 16:00:09] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-18 16:48:56] ddary, joining. (#selendroid)
 [2013-09-18 16:48:58] ddary, quitting. (Remote host closed the connection)
+[2013-09-18 17:09:38] ddary, joining. (#selendroid)
