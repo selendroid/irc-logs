@@ -48,3 +48,4 @@
 [2013-09-18 18:26:33] lukeis, joining. (#selendroid)
 [2013-09-18 18:46:33] jmiele, joining. (#selendroid)
 [2013-09-18 18:48:50] chhsiung, joining. (#selendroid)
+[2013-09-18 18:54:43] smccarthy, joining. (#selendroid)
