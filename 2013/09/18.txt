@@ -34,3 +34,4 @@
 [2013-09-18 14:49:05] ddary, joining. (#selendroid)
 [2013-09-18 14:51:37] ddary: :log
 [2013-09-18 15:05:26] chhsiung, joining. (#selendroid)
+[2013-09-18 15:31:30] jusfreeman, quitting. (Quit: jusfreeman)
