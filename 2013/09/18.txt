@@ -33,3 +33,4 @@
 [2013-09-18 14:27:34] ddary, quitting. (Remote host closed the connection)
 [2013-09-18 14:49:05] ddary, joining. (#selendroid)
 [2013-09-18 14:51:37] ddary: :log
+[2013-09-18 15:05:26] chhsiung, joining. (#selendroid)
