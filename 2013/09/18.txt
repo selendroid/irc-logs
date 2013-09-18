@@ -56,3 +56,5 @@
 [2013-09-18 20:22:38] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2013-09-18 22:31:19] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-18 22:37:46] jusfreeman, joining. (#selendroid)
+[2013-09-18 22:45:22] operatiay, joining. (#selendroid)
+[2013-09-18 22:46:45] operatiay, quitting. (Remote host closed the connection)
