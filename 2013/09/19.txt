@@ -54,3 +54,4 @@
 [2013-09-19 17:04:13] ddary: AHMED_: will be offline for some hours but later on will be dialing in again
 [2013-09-19 17:05:36] AHMED_: ok
 [2013-09-19 17:05:49] AHMED_: it was waiting on server
+[2013-09-19 17:16:04] ddary, quitting. (Quit: ddary)
