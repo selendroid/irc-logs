@@ -50,3 +50,5 @@
 [2013-09-19 16:50:11] AHMED_: it's not working
 [2013-09-19 16:50:19] AHMED_: I set the implicit wait to 10 secnods
 [2013-09-19 16:50:26] AHMED_: and it is waiting forever
+[2013-09-19 17:01:52] ddary: on the selendroid standalone or selendroid-server?
+[2013-09-19 17:04:13] ddary: AHMED_: will be offline for some hours but later on will be dialing in again
