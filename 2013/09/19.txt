@@ -5,3 +5,4 @@
 [2013-09-19 05:33:53] smccarthy2, quitting. (Remote host closed the connection)
 [2013-09-19 08:07:05] ddary, joining. (#selendroid)
 [2013-09-19 08:18:55] ddary, quitting. (Quit: ddary)
+[2013-09-19 08:20:06] ddary, joining. (#selendroid)
