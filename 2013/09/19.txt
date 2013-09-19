@@ -61,3 +61,7 @@
 [2013-09-19 19:34:04] jlipps, joining. (#selendroid)
 [2013-09-19 19:39:49] jlipps, quitting. (Quit: Leaving.)
 [2013-09-19 19:39:56] ddary, joining. (#selendroid)
+[2013-09-19 19:40:19] ddary, quitting. (Client Quit)
+[2013-09-19 19:41:40] ddary, joining. (#selendroid)
+[2013-09-19 19:43:34] ddary, quitting. (Read error: Connection reset by peer)
+[2013-09-19 19:43:39] ddary_, joining. (#selendroid)
