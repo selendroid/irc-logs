@@ -21,3 +21,4 @@
 [2013-09-19 11:44:10] chhsiung, joining. (#selendroid)
 [2013-09-19 11:48:20] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-09-19 11:56:59] ddary: :note lukeis do you have an example about how to use the logging api you have implemented?
+[2013-09-19 12:14:43] chhsiung, joining. (#selendroid)
