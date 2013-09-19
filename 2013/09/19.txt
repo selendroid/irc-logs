@@ -98,3 +98,6 @@
 [2013-09-19 22:27:33] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/rAUjTQ
 [2013-09-19 22:27:33] selendroid-git: selendroid/master f6cc165 Luke Inman-Semerau: updating LogType selendroid offers, getting in sync with appium...
 [2013-09-19 22:27:33] selendroid-git, leaving. (#selendroid)
+[2013-09-19 23:31:58] charbrandeis, joining. (#selendroid)
+[2013-09-19 23:32:51] charbrandeis: hi
+[2013-09-19 23:34:41] charbrandeis: I am having trouble selecting month/day/year from native datepicker using selendroid.can anyone help me?
