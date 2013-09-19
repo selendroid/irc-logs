@@ -69,3 +69,4 @@
 [2013-09-19 19:55:31] jlipps, joining. (#selendroid)
 [2013-09-19 19:56:47] ddary_, quitting. (Quit: ddary_)
 [2013-09-19 19:58:46] jlipps, quitting. (Client Quit)
+[2013-09-19 20:01:24] chhsiung, quitting. (Quit: Leaving.)
