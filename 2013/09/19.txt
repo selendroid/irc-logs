@@ -78,3 +78,6 @@
 [2013-09-19 21:17:19] AHMED_, quitting. (Ping timeout: 250 seconds)
 [2013-09-19 21:43:12] chhsiung, joining. (#selendroid)
 [2013-09-19 21:47:09] jlipps, quitting. (Ping timeout: 256 seconds)
+[2013-09-19 21:56:06] chhsiung, quitting. (Remote host closed the connection)
+[2013-09-19 21:58:48] lukeis, joining. (#selendroid)
+[2013-09-19 21:59:27] chhsiung, joining. (#selendroid)
