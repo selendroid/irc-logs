@@ -101,3 +101,6 @@
 [2013-09-19 23:31:58] charbrandeis, joining. (#selendroid)
 [2013-09-19 23:32:51] charbrandeis: hi
 [2013-09-19 23:34:41] charbrandeis: I am having trouble selecting month/day/year from native datepicker using selendroid.can anyone help me?
+[2013-09-19 23:57:39] charbrandeis, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-09-19 23:58:30] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-19 23:58:49] chhsiung, joining. (#selendroid)
