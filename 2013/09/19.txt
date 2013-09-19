@@ -35,3 +35,8 @@
 [2013-09-19 14:46:54] selendroid-git: selendroid/gh-pages 15ae908 Dominik Dary: Update architecture.html
 [2013-09-19 14:46:54] selendroid-git, leaving. (#selendroid)
 [2013-09-19 14:52:23] jusfreeman, quitting. (Quit: jusfreeman)
+[2013-09-19 15:25:23] AHMED_: why not change this
+[2013-09-19 15:25:23] AHMED_: https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/server/model/SelendroidStandaloneDriver.java#L262
+[2013-09-19 15:25:25] AHMED_: to
+[2013-09-19 15:25:40] AHMED_: if ( device.isInstalled( selendroidserver ) )
+[2013-09-19 15:25:51] AHMED_: if ( ! installed ..
