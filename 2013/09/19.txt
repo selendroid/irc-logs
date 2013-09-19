@@ -46,3 +46,7 @@
 [2013-09-19 15:49:51] ddary: we should remove the installed app thing completely and make the default mechanism clever and fast
 [2013-09-19 16:05:13] ddary, quitting. (Quit: ddary)
 [2013-09-19 16:06:50] ddary, joining. (#selendroid)
+[2013-09-19 16:50:06] AHMED_: remember the implicit wait thing?
+[2013-09-19 16:50:11] AHMED_: it's not working
+[2013-09-19 16:50:19] AHMED_: I set the implicit wait to 10 secnods
+[2013-09-19 16:50:26] AHMED_: and it is waiting forever
