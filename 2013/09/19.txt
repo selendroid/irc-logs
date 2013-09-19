@@ -40,3 +40,7 @@
 [2013-09-19 15:25:25] AHMED_: to
 [2013-09-19 15:25:40] AHMED_: if ( device.isInstalled( selendroidserver ) )
 [2013-09-19 15:25:51] AHMED_: if ( ! installed ..
+[2013-09-19 15:48:10] ddary: it is not only the selendroid server
+[2013-09-19 15:49:10] ddary: currently, as I said before, we have decided to have just a development option to speed up thing. but that is only ofr people who know what they do
+[2013-09-19 15:49:25] ddary: if we see, that does not makes sense anymore
+[2013-09-19 15:49:51] ddary: we should remove the installed app thing completely and make the default mechanism clever and fast
