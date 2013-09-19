@@ -93,3 +93,8 @@
 [2013-09-19 22:23:48] lukeis, joining. (#selendroid)
 [2013-09-19 22:23:55] lukeis, quitting. (Client Quit)
 [2013-09-19 22:24:48] operatiay, quitting. (Remote host closed the connection)
+[2013-09-19 22:26:47] lukeis1, quitting. (Ping timeout: 260 seconds)
+[2013-09-19 22:27:33] selendroid-git, joining. (#selendroid)
+[2013-09-19 22:27:33] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/rAUjTQ
+[2013-09-19 22:27:33] selendroid-git: selendroid/master f6cc165 Luke Inman-Semerau: updating LogType selendroid offers, getting in sync with appium...
+[2013-09-19 22:27:33] selendroid-git, leaving. (#selendroid)
