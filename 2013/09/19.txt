@@ -73,3 +73,5 @@
 [2013-09-19 20:11:38] ddary, joining. (#selendroid)
 [2013-09-19 20:20:37] chhsiung, joining. (#selendroid)
 [2013-09-19 20:20:52] ddary, quitting. (Quit: ddary)
+[2013-09-19 20:55:27] jlipps, joining. (#selendroid)
+[2013-09-19 20:57:19] chhsiung, quitting. (Quit: Leaving.)
