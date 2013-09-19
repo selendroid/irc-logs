@@ -30,3 +30,7 @@
 [2013-09-19 14:05:10] jusfreeman, joining. (#selendroid)
 [2013-09-19 14:24:07] chhsiung, joining. (#selendroid)
 [2013-09-19 14:28:25] AHMED_, joining. (#selendroid)
+[2013-09-19 14:46:54] selendroid-git, joining. (#selendroid)
+[2013-09-19 14:46:54] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/Fd029w
+[2013-09-19 14:46:54] selendroid-git: selendroid/gh-pages 15ae908 Dominik Dary: Update architecture.html
+[2013-09-19 14:46:54] selendroid-git, leaving. (#selendroid)
