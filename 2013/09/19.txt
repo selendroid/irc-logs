@@ -81,3 +81,5 @@
 [2013-09-19 21:56:06] chhsiung, quitting. (Remote host closed the connection)
 [2013-09-19 21:58:48] lukeis, joining. (#selendroid)
 [2013-09-19 21:59:27] chhsiung, joining. (#selendroid)
+[2013-09-19 22:01:12] jusfreeman, joining. (#selendroid)
+[2013-09-19 22:03:47] lukeis: :note ddary yes, here's where I'm using it https://gist.github.com/lukeis/6629035  (i only call this on test failure, which has successfully shown me stacktraces of app crash failures ;) )
