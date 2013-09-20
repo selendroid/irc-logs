@@ -102,3 +102,17 @@
 [2013-09-20 15:34:16] ddary: hi
 [2013-09-20 15:34:28] vasu: hey guys can anyone tell how to handle alerts
 [2013-09-20 15:34:54] vasu: like for example my app tries to connect with facebook
+[2013-09-20 15:35:02] ddary: you mean in hybrid apps,right?
+[2013-09-20 15:35:05] vasu: it asks for the permission
+[2013-09-20 15:35:17] vasu: no its a native app only
+[2013-09-20 15:35:59] ddary: What is the inspector telling you?
+[2013-09-20 15:36:07] ddary: are there ids avaiulable?
+[2013-09-20 15:36:39] vasu: nope nothing is visible  no ids i mean it cant identify the alert
+[2013-09-20 15:36:47] ddary: In some alerts I have seen i was able to interact with them and there the ids was Button1
+[2013-09-20 15:37:53] ddary: if you say, you want to connect to facebook, do you then expect that the facebook app is also installed on the device?
+[2013-09-20 15:38:02] vasu: hmm well wen i my app try to connect with facebook it asked do u want to connect with facebook ((btn1)decline,(btn1)proceed)
+[2013-09-20 15:38:40] vasu: i am not able to identify the ids of the button
+[2013-09-20 15:38:54] ddary: and does by linkText works?
+[2013-09-20 15:39:08] vasu: nope nthng gets identified
+[2013-09-20 15:39:46] ddary: if the dialog is part of your app, it should work
+[2013-09-20 15:39:58] vasu: :(
