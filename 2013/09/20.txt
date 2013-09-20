@@ -343,3 +343,7 @@
 [2013-09-20 22:08:59] lukeis: sure
 [2013-09-20 22:09:15] charbrandeis: thanks .
 [2013-09-20 22:14:03] chhsiung, joining. (#selendroid)
+[2013-09-20 22:16:50] charbrandeis: Issue # https://github.com/selendroid/selendroid/issues/129 -- Unable to select date/month/year from native date picker object
+[2013-09-20 22:18:11] charbrandeis: thanks lukeis again !
+[2013-09-20 22:18:23] jusfreeman, joining. (#selendroid)
+[2013-09-20 22:18:39] lukeis: as much help as it was ;)
