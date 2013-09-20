@@ -221,3 +221,19 @@
 [2013-09-20 18:04:34] mummana: hi can i know how to scrooling?
 [2013-09-20 18:04:48] mummana: scroll in selendroid?
 [2013-09-20 18:04:57] lukeis: try using flick
+[2013-09-20 18:05:08] lukeis: that's gotten me the best results
+[2013-09-20 18:05:28] mummana: like u mean filck in a while loop?
+[2013-09-20 18:05:43] lukeis: if you need to incrementally, then sure
+[2013-09-20 18:06:49] mummana: tnq well what if i want to test pre install installed apps likes contcs etc?
+[2013-09-20 18:06:58] mummana: contacts
+[2013-09-20 18:07:14] smccarthy, joining. (#selendroid)
+[2013-09-20 18:07:22] lukeis: you'll need to use UI Automator
+[2013-09-20 18:07:53] lukeis: selendroid doesn't support the pre-installed apps (yet? :) )
+[2013-09-20 18:08:46] mummana: UI automator for wt?
+[2013-09-20 18:09:03] selendroid-git, joining. (#selendroid)
+[2013-09-20 18:09:03] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/OVMlBQ
+[2013-09-20 18:09:03] selendroid-git: selendroid/master f63cd24 Dominik Dary: Fix #128 to support different platform names.
+[2013-09-20 18:09:03] selendroid-git, leaving. (#selendroid)
+[2013-09-20 18:09:07] mummana: mine is api15 device
+[2013-09-20 18:09:21] lukeis: then you won't be able to do it
+[2013-09-20 18:10:00] lukeis: API16 it was introduced… API18 is where Instrumentation will have the possibility to call UIAutomator bits
