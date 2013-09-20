@@ -90,3 +90,4 @@
 [2013-09-20 14:10:36] selendroid-git: [selendroid] DominikDary created atoms-bug (+1 new commit): http://git.io/6mmJYQ
 [2013-09-20 14:10:36] selendroid-git: selendroid/atoms-bug 2912b16 Dominik Dary: Reverting Atoms to previous version that was not affected by #127
 [2013-09-20 14:10:36] selendroid-git, leaving. (#selendroid)
+[2013-09-20 14:27:30] chhsiung, joining. (#selendroid)
