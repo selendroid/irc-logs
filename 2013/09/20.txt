@@ -291,3 +291,8 @@
 [2013-09-20 18:29:07] mummana: :D
 [2013-09-20 18:30:06] lukeis: ok, the point with selendroid is that the app must be re-signed with the same debug certificate that the selendroid app is signed with (so, the debug certificate of the machine running the selendroid-standalone server)
 [2013-09-20 18:33:36] mummana: where i can get the debug certificate of   selendroid and my app
+[2013-09-20 18:36:20] lukeis: selendroid does it automatically… assuming you have a debug certificate (which doesn't get created until you build at least one project). Check if you have this file locally: ~/.android/debug.keystore
+[2013-09-20 18:38:41] mummana: yea i have it
+[2013-09-20 18:39:25] mummana: u mean my linked app doesnt got resigned with same debug certificate?
+[2013-09-20 18:39:41] lukeis: selendroid server does it run-time
+[2013-09-20 18:39:43] mummana: with of selendroid
