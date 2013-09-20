@@ -85,3 +85,4 @@
 [2013-09-20 13:55:28] selendroid-git: selendroid/master 581033c Dominik Dary: adding webChromeClient by default to the webview for the case it has been replaced.
 [2013-09-20 13:55:29] selendroid-git, leaving. (#selendroid)
 [2013-09-20 13:56:56] chhsiung, joining. (#selendroid)
+[2013-09-20 14:00:58] chhsiung, quitting. (Ping timeout: 245 seconds)
