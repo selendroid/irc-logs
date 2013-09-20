@@ -59,3 +59,4 @@
 [2013-09-20 08:12:29] ddary: but maybe i just try to build a new version of the atoms, the current one we have in the project are from 2.32 (androiddriver)
 [2013-09-20 08:52:49] lukeis, quitting. (Quit: Leaving.)
 [2013-09-20 09:18:11] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-20 09:38:20] ddary_, joining. (#selendroid)
