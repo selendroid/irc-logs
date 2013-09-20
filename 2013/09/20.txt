@@ -135,3 +135,27 @@
 [2013-09-20 15:49:37] vasu: anybody there?
 [2013-09-20 15:49:50] ddary: sure
 [2013-09-20 15:49:58] ddary: but what do you want to do?
+[2013-09-20 15:50:17] ddary: you want to test the interaction of your app and the facebook app, right?
+[2013-09-20 15:50:44] vasu: yea yea
+[2013-09-20 15:50:53] vasu: thats what i want
+[2013-09-20 15:51:06] ddary: and that is currently not officially supported
+[2013-09-20 15:51:15] vasu: :(
+[2013-09-20 15:51:22] vasu: i dint get uh
+[2013-09-20 15:51:23] vasu: :(
+[2013-09-20 15:51:38] ddary: https://github.com/selendroid/selendroid/issues/106
+[2013-09-20 15:51:39] vasu: not offcially supported means?
+[2013-09-20 15:51:50] ddary: we are working on it
+[2013-09-20 15:52:02] ddary: and are welcome to help out :-)
+[2013-09-20 15:52:21] vasu: wow thats kool
+[2013-09-20 15:52:23] vasu: :)
+[2013-09-20 15:52:27] vasu: well thanks
+[2013-09-20 15:52:33] vasu: and another quey
+[2013-09-20 15:52:42] vasu: query?
+[2013-09-20 15:53:07] vasu: wen i try to test linkedin app
+[2013-09-20 15:53:08] ddary: with regard to your app
+[2013-09-20 15:53:27] vasu: yea but this time linked in
+[2013-09-20 15:53:28] ddary: do you want to do the facebook sign in and here you have issues
+[2013-09-20 15:53:30] ddary: right?
+[2013-09-20 15:53:58] ddary: that activity that looks like facebook at is a webview, right?
+[2013-09-20 15:54:21] vasu: hmmmmm
+[2013-09-20 15:54:53] vasu: yea wen you clcik on fb button a alert apperd ?rite?
