@@ -325,3 +325,5 @@
 [2013-09-20 21:25:17] lukeis: you really don't want that one, unless you're in a webview
 [2013-09-20 21:25:36] lukeis: you want   flick(element, xOffset, yOffset, 0)
 [2013-09-20 21:26:11] lukeis: last arg is 'speed'  0 == normal, 1 == fast
+[2013-09-20 21:31:52] subu: wt about xoffset and yoffset
+[2013-09-20 21:31:53] subu: ?
