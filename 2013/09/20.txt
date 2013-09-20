@@ -45,3 +45,8 @@
 [2013-09-20 07:44:36] ddary: the thing is, if someone has in the app a own ChromeClient ...
 [2013-09-20 07:44:49] ddary: it will be replaced by selendroid
 [2013-09-20 07:47:38] chhsiung, joining. (#selendroid)
+[2013-09-20 08:06:03] ddary: lukeis: how does this work in detail with the atoms
+[2013-09-20 08:06:25] ddary: who is developing them? are they still updated?
+[2013-09-20 08:07:23] lukeis: the atoms? they are still worked on, minor adjustments all the time (especially with visibility lately) mostly the guys at google
+[2013-09-20 08:07:44] lukeis: i don't think too many are testing it out on android ;)
+[2013-09-20 08:08:10] lukeis: and if they are… it's likely on Chrome (not Android's default browser)
