@@ -171,3 +171,10 @@
 [2013-09-20 15:58:16] vasu: well i have another query related to another app
 [2013-09-20 15:58:29] vasu: about linked in app
 [2013-09-20 15:59:59] vasu: well my query is wen i runn java -jar selendroid....... -app linkedin.apk  and run my test case the app doest get installed in the mobile :(
+[2013-09-20 16:01:06] ddary: wrong device type?
+[2013-09-20 16:01:36] vasu: and wen i manaully try to install the app using adb install linkedin.apk  it throws error install falilure
+[2013-09-20 16:01:53] vasu: nope im trying on api16 device
+[2013-09-20 16:02:22] ddary: hardware device?
+[2013-09-20 16:02:31] vasu: yup
+[2013-09-20 16:02:53] vasu: samsung galaxy note2
+[2013-09-20 16:04:03] ddary: if you cannot it install it manually, i cannot help you
