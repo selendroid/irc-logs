@@ -31,3 +31,16 @@
 [2013-09-20 07:39:32] ddary: i think logcat is better
 [2013-09-20 07:39:41] lukeis: yeah, so do i :)
 [2013-09-20 07:39:45] ddary: :-)
+[2013-09-20 07:40:03] ddary: did you had issues with the webviews?
+[2013-09-20 07:40:29] ddary: i updated the atoms from 0.4.2 to 0.5.0
+[2013-09-20 07:40:45] lukeis: I currently don't do much with them, so I'm not having 'issues' right now… there are plenty of things wrong though ;)
+[2013-09-20 07:40:45] ddary: but it seems like now in the test app everything is fine
+[2013-09-20 07:40:57] ddary: but we have issues in the corporate one
+[2013-09-20 07:41:47] ddary: you mean in selendroid or in ypur test suite?
+[2013-09-20 07:42:13] lukeis: since the only webview I care about in this exact moment is a login screen, I do everything via javascript myself and then I 'click' on one thing :)   (in the near future that is not going to be the case and I'm sure i'll be troubleshooting webview issues very soon)
+[2013-09-20 07:42:25] lukeis: in my app / test suite
+[2013-09-20 07:43:01] ddary: ok
+[2013-09-20 07:43:35] ddary: one issue that I know in selendroid is per se the ChromeClient
+[2013-09-20 07:43:57] ddary: I did it half  year ago, because there it was the only stable way of executing javascript
+[2013-09-20 07:44:36] ddary: the thing is, if someone has in the app a own ChromeClient ...
+[2013-09-20 07:44:49] ddary: it will be replaced by selendroid
