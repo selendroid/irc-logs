@@ -44,3 +44,4 @@
 [2013-09-20 07:43:57] ddary: I did it half  year ago, because there it was the only stable way of executing javascript
 [2013-09-20 07:44:36] ddary: the thing is, if someone has in the app a own ChromeClient ...
 [2013-09-20 07:44:49] ddary: it will be replaced by selendroid
+[2013-09-20 07:47:38] chhsiung, joining. (#selendroid)
