@@ -178,3 +178,11 @@
 [2013-09-20 16:02:31] vasu: yup
 [2013-09-20 16:02:53] vasu: samsung galaxy note2
 [2013-09-20 16:04:03] ddary: if you cannot it install it manually, i cannot help you
+[2013-09-20 16:05:13] vasu: even with facebook .apk file too
+[2013-09-20 16:06:01] ddary: ask facebook and linkedin
+[2013-09-20 16:06:47] vasu: but if i dont run the command java -jar selendroid ... -app linked.apk and try to istalll the app manually its gets installed :(
+[2013-09-20 16:08:09] vasu: u get it?
+[2013-09-20 16:08:46] ddary: no, lines above you said it is manually not working, now you say it works. i'm confused
+[2013-09-20 16:08:58] ddary: maybe look at
+[2013-09-20 16:09:03] ddary: adb logcat
+[2013-09-20 16:09:49] vasu: hmmmm its okie and last question how to know wheter the app has permission or not
