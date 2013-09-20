@@ -328,3 +328,6 @@
 [2013-09-20 21:31:52] subu: wt about xoffset and yoffset
 [2013-09-20 21:31:53] subu: ?
 [2013-09-20 21:35:15] subu, quitting. (Quit: Page closed)
+[2013-09-20 21:43:11] charbrandeis: @lukeis -- can you look at this,please?
+[2013-09-20 21:43:11] charbrandeis: I am facing a problem where i am not able to select date/month/year from native date picker using selendroid
+[2013-09-20 21:43:11] charbrandeis: i tried this .  driver.findElement(By.id("month")).sendKeys("Oct");  But it's not working
