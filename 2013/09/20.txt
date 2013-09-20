@@ -50,3 +50,10 @@
 [2013-09-20 08:07:23] lukeis: the atoms? they are still worked on, minor adjustments all the time (especially with visibility lately) mostly the guys at google
 [2013-09-20 08:07:44] lukeis: i don't think too many are testing it out on android ;)
 [2013-09-20 08:08:10] lukeis: and if they are… it's likely on Chrome (not Android's default browser)
+[2013-09-20 08:10:20] ddary: but they are still used in other contexts, right?
+[2013-09-20 08:10:28] ddary: so still maintained etc
+[2013-09-20 08:10:32] lukeis: yes
+[2013-09-20 08:11:06] ddary: the weird thing is, that with the test app everyhting is fine, all the locators are working as expected
+[2013-09-20 08:11:28] ddary: but other pages, i get messages like function not there
+[2013-09-20 08:11:40] ddary: but it is not something meaningful
+[2013-09-20 08:12:29] ddary: but maybe i just try to build a new version of the atoms, the current one we have in the project are from 2.32 (androiddriver)
