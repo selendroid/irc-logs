@@ -304,3 +304,6 @@
 [2013-09-20 18:56:27] mummana: how to gist ?the output>>??
 [2013-09-20 18:57:48] chhsiung, joining. (#selendroid)
 [2013-09-20 19:00:47] charbrandeis, joining. (#selendroid)
+[2013-09-20 19:16:01] mummana: selendroid-server-com.linkedin.android-0.5.1.apk got installed but resigned-linkedin.apk failed
+[2013-09-20 19:16:11] mummana: to installed
+[2013-09-20 19:17:21] mummana: anyone there to help?
