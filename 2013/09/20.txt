@@ -15,3 +15,4 @@
 [2013-09-20 07:13:44] lukeis1, joining. (#selendroid)
 [2013-09-20 07:16:39] lukeis, quitting. (Ping timeout: 256 seconds)
 [2013-09-20 07:19:22] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-20 07:34:57] chhsiung, joining. (#selendroid)
