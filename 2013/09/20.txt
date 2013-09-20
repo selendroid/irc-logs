@@ -128,3 +128,10 @@
 [2013-09-20 15:42:32] vasu: the alert appears wen
 [2013-09-20 15:42:42] vasu: uh click sign in button
 [2013-09-20 15:43:06] vasu: u can seen the facebook option and wen uh click on that ull get the alert
+[2013-09-20 15:47:14] selendroidbot__, joining. (#selendroid)
+[2013-09-20 15:48:08] vasu: yea when i try to test the fb app it doesnt get installed in the mobile it throws error
+[2013-09-20 15:48:17] selendroidbot_, quitting. (Remote host closed the connection)
+[2013-09-20 15:48:36] vasu: and wen i try to directly install the app into mobile it says install failure
+[2013-09-20 15:49:37] vasu: anybody there?
+[2013-09-20 15:49:50] ddary: sure
+[2013-09-20 15:49:58] ddary: but what do you want to do?
