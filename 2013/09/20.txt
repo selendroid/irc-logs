@@ -91,3 +91,4 @@
 [2013-09-20 14:10:36] selendroid-git: selendroid/atoms-bug 2912b16 Dominik Dary: Reverting Atoms to previous version that was not affected by #127
 [2013-09-20 14:10:36] selendroid-git, leaving. (#selendroid)
 [2013-09-20 14:27:30] chhsiung, joining. (#selendroid)
+[2013-09-20 14:31:48] chhsiung, quitting. (Ping timeout: 245 seconds)
