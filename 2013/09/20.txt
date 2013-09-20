@@ -331,3 +331,4 @@
 [2013-09-20 21:43:11] charbrandeis: @lukeis -- can you look at this,please?
 [2013-09-20 21:43:11] charbrandeis: I am facing a problem where i am not able to select date/month/year from native date picker using selendroid
 [2013-09-20 21:43:11] charbrandeis: i tried this .  driver.findElement(By.id("month")).sendKeys("Oct");  But it's not working
+[2013-09-20 22:01:04] lukeis: charbrandeis: is this in a native component? with a DatePicker object? (not a webview)  if so… I don't think we've explicitly handled that code path in selendroid, I don't see any code handling DatePicker objects (nor calling the method needed to be called… updateDate)
