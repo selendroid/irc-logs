@@ -268,3 +268,11 @@
 [2013-09-20 18:18:03] mummana: device with selendroid ,but the apk doesnt gets installed in the device it throws error an error occured
 [2013-09-20 18:19:19] lukeis: you're using the standalone server right? can you :gist  the output from the standalone? (and maybe try running it with the -verbose flag to get more info)
 [2013-09-20 18:19:57] mummana: after trying that  to make sure whether the app is working or not i tried to install the app using adb install .apk command and it throwed an error installl faliure
+[2013-09-20 18:20:26] lukeis: is there more to the error?
+[2013-09-20 18:21:03] mummana: yea some thing like install_failure _cerficates something like this
+[2013-09-20 18:21:17] mummana: i dnt remember much :(
+[2013-09-20 18:23:25] mummana: there?
+[2013-09-20 18:23:53] mummana: [INSTALL_PARSE_FAILED_NO_CERTIFICATES]
+[2013-09-20 18:23:59] mummana: yea this one
+[2013-09-20 18:24:29] lukeis: sounds like the apk wasn't signed?
+[2013-09-20 18:24:41] lukeis: have you built an android app on your computer before?
