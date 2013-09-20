@@ -316,3 +316,4 @@
 [2013-09-20 19:23:54] mummana: sry
 [2013-09-20 19:25:48] charbrandeis: Dominik replied me that it works for him in the test app.hope the test app is not a hybrid app..
 [2013-09-20 20:31:17] charbrandeis: please let me know if this is a bug in Selendroid..
+[2013-09-20 20:44:04] mummana, quitting. (Quit: Page closed)
