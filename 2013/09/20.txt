@@ -96,3 +96,9 @@
 [2013-09-20 15:02:13] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-09-20 15:15:26] jusfreeman, quitting. (Quit: jusfreeman)
 [2013-09-20 15:28:39] chhsiung, joining. (#selendroid)
+[2013-09-20 15:32:46] vasu, joining. (#selendroid)
+[2013-09-20 15:33:03] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-09-20 15:33:19] vasu: hie guys
+[2013-09-20 15:34:16] ddary: hi
+[2013-09-20 15:34:28] vasu: hey guys can anyone tell how to handle alerts
+[2013-09-20 15:34:54] vasu: like for example my app tries to connect with facebook
