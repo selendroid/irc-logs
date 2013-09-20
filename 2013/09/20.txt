@@ -116,3 +116,15 @@
 [2013-09-20 15:39:08] vasu: nope nthng gets identified
 [2013-09-20 15:39:46] ddary: if the dialog is part of your app, it should work
 [2013-09-20 15:39:58] vasu: :(
+[2013-09-20 15:40:08] ddary: if that is kind of a system dialog of another app, it will not work
+[2013-09-20 15:40:25] vasu: ohhhhh
+[2013-09-20 15:40:33] ddary: do you can share the app are stripe out the essental part so that I can have a look?
+[2013-09-20 15:40:34] vasu: hmm thanks  sir
+[2013-09-20 15:40:54] ddary:                                                      ^^or
+[2013-09-20 15:40:55] vasu: yea sure jusz a second ill post the link to uh
+[2013-09-20 15:42:02] vasu: http://www.apktrain.com/applications/3804/download-Yebhi-Mobile-Shopping-1.3.2-app-apk/
+[2013-09-20 15:42:07] vasu: there uh go
+[2013-09-20 15:42:14] vasu: thats the app
+[2013-09-20 15:42:32] vasu: the alert appears wen
+[2013-09-20 15:42:42] vasu: uh click sign in button
+[2013-09-20 15:43:06] vasu: u can seen the facebook option and wen uh click on that ull get the alert
