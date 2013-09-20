@@ -237,3 +237,23 @@
 [2013-09-20 18:09:07] mummana: mine is api15 device
 [2013-09-20 18:09:21] lukeis: then you won't be able to do it
 [2013-09-20 18:10:00] lukeis: API16 it was introduced… API18 is where Instrumentation will have the possibility to call UIAutomator bits
+[2013-09-20 18:10:09] mummana: no i mean is there any possiblity to test ppre installed apps
+[2013-09-20 18:10:23] lukeis: API16+ using UIAutomator
+[2013-09-20 18:10:44] lukeis: http://developer.android.com/tools/help/uiautomator/index.html
+[2013-09-20 18:11:04] mummana: then how can i launch the app using selendroid?
+[2013-09-20 18:11:12] mummana: in api 16
+[2013-09-20 18:11:16] lukeis: you can't
+[2013-09-20 18:11:21] lukeis: there is one tool out there that implements the WebDriver API on top of it: appium
+[2013-09-20 18:11:53] mummana: yea appium is good but that only works for api17 and api18
+[2013-09-20 18:12:10] lukeis: should for 16 too
+[2013-09-20 18:12:21] lukeis: unless they have a bug ;)
+[2013-09-20 18:12:35] mummana: so you mena using selendroid i cant test pre installed apps right?
+[2013-09-20 18:12:45] lukeis: that is correct
+[2013-09-20 18:13:30] ddary, quitting. (Quit: ddary)
+[2013-09-20 18:14:09] mummana: hmm thnks for the response man and would be more apprciated if you guys open a group in google groups for selendroid
+[2013-09-20 18:14:21] lukeis: there is one
+[2013-09-20 18:14:33] lukeis: https://groups.google.com/forum/#!forum/selendroid
+[2013-09-20 18:14:34] mummana: but no one posts there
+[2013-09-20 18:14:44] lukeis: just cause no one has ;)
+[2013-09-20 18:14:48] lukeis: dominik and myself are on it
+[2013-09-20 18:15:00] lukeis: we don't really need to email / post though
