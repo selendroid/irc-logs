@@ -78,3 +78,10 @@
 [2013-09-20 13:01:04] jusfreeman, joining. (#selendroid)
 [2013-09-20 13:26:21] chhsiung, joining. (#selendroid)
 [2013-09-20 13:30:33] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-09-20 13:55:28] selendroid-git, joining. (#selendroid)
+[2013-09-20 13:55:28] selendroid-git: [selendroid] DominikDary pushed 6 new commits to master: http://git.io/DSatVQ
+[2013-09-20 13:55:28] selendroid-git: selendroid/master 5330754 Dominik Dary: updating changelog
+[2013-09-20 13:55:28] selendroid-git: selendroid/master 22b7112 Dominik Dary: removing system out.
+[2013-09-20 13:55:28] selendroid-git: selendroid/master 581033c Dominik Dary: adding webChromeClient by default to the webview for the case it has been replaced.
+[2013-09-20 13:55:29] selendroid-git, leaving. (#selendroid)
+[2013-09-20 13:56:56] chhsiung, joining. (#selendroid)
