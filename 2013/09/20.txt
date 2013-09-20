@@ -16,3 +16,18 @@
 [2013-09-20 07:16:39] lukeis, quitting. (Ping timeout: 256 seconds)
 [2013-09-20 07:19:22] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-20 07:34:57] chhsiung, joining. (#selendroid)
+[2013-09-20 07:35:43] ddary, joining. (#selendroid)
+[2013-09-20 07:36:29] chhsiung, quitting. (Client Quit)
+[2013-09-20 07:36:41] lukeis1: Morgen ddary
+[2013-09-20 07:36:48] lukeis1, changing nick to lukeis.
+[2013-09-20 07:36:51] ddary: Guten Morgen!
+[2013-09-20 07:37:02] ddary: thanks for the gist
+[2013-09-20 07:37:08] ddary: looking at it right now
+[2013-09-20 07:37:55] ddary: that it waht I looked for!
+[2013-09-20 07:38:08] lukeis: good ;)
+[2013-09-20 07:38:21] ddary: the other thing i just fogured out
+[2013-09-20 07:38:24] lukeis: related: my last commit to selendroid
+[2013-09-20 07:38:54] ddary: yeah
+[2013-09-20 07:39:32] ddary: i think logcat is better
+[2013-09-20 07:39:41] lukeis: yeah, so do i :)
+[2013-09-20 07:39:45] ddary: :-)
