@@ -202,3 +202,22 @@
 [2013-09-20 17:54:41] chhsiung, joining. (#selendroid)
 [2013-09-20 17:57:53] ddary, joining. (#selendroid)
 [2013-09-20 17:58:30] lukeis, joining. (#selendroid)
+[2013-09-20 18:00:05] ddary: Hi lukeis
+[2013-09-20 18:00:12] lukeis: hi
+[2013-09-20 18:00:23] ddary: have you seen #128
+[2013-09-20 18:00:29] lukeis: haven't called it a day / started the weekend yet? ;)
+[2013-09-20 18:00:50] ddary: you know, if some special people submit a bug
+[2013-09-20 18:00:53] ddary: ...
+[2013-09-20 18:01:14] lukeis: not sure what that is?
+[2013-09-20 18:02:00] ddary: i have not seen that
+[2013-09-20 18:02:00] ddary: but have a bug fix for that already
+[2013-09-20 18:02:00] ddary: i was able to use the handling we have for finding aapt
+[2013-09-20 18:02:00] ddary: on his machine
+[2013-09-20 18:02:00] ddary: simon had that error
+[2013-09-20 18:02:14] ddary: it is not android-17, it is android-4.2
+[2013-09-20 18:02:20] lukeis: ah
+[2013-09-20 18:02:24] ddary: so, with my fix both works
+[2013-09-20 18:03:23] mummana, joining. (#selendroid)
+[2013-09-20 18:04:34] mummana: hi can i know how to scrooling?
+[2013-09-20 18:04:48] mummana: scroll in selendroid?
+[2013-09-20 18:04:57] lukeis: try using flick
