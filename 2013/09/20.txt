@@ -314,3 +314,4 @@
 [2013-09-20 19:23:36] charbrandeis: any suggestions from anyone?
 [2013-09-20 19:23:50] mummana: even im new to selendroid
 [2013-09-20 19:23:54] mummana: sry
+[2013-09-20 19:25:48] charbrandeis: Dominik replied me that it works for him in the test app.hope the test app is not a hybrid app..
