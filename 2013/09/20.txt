@@ -62,3 +62,4 @@
 [2013-09-20 09:38:20] ddary_, joining. (#selendroid)
 [2013-09-20 09:40:50] ddary, quitting. (Ping timeout: 245 seconds)
 [2013-09-20 09:40:50] ddary_, changing nick to ddary.
+[2013-09-20 09:48:34] chhsiung, joining. (#selendroid)
