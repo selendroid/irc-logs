@@ -92,3 +92,4 @@
 [2013-09-20 14:10:36] selendroid-git, leaving. (#selendroid)
 [2013-09-20 14:27:30] chhsiung, joining. (#selendroid)
 [2013-09-20 14:31:48] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-09-20 14:58:02] chhsiung, joining. (#selendroid)
