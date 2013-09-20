@@ -257,3 +257,14 @@
 [2013-09-20 18:14:44] lukeis: just cause no one has ;)
 [2013-09-20 18:14:48] lukeis: dominik and myself are on it
 [2013-09-20 18:15:00] lukeis: we don't really need to email / post though
+[2013-09-20 18:15:14] mummana: thtas cool than i ll be posting my queries there
+[2013-09-20 18:15:38] mummana: oh well beginners like me need it
+[2013-09-20 18:15:46] lukeis: sounds good :)
+[2013-09-20 18:15:59] lukeis: we'll try to reply as best we can
+[2013-09-20 18:16:07] mummana: well :) last question
+[2013-09-20 18:16:22] lukeis: sure (but don't limit yourself :-D )
+[2013-09-20 18:16:38] mummana: i tried to test  linked.apk
+[2013-09-20 18:16:44] mummana: in my api15
+[2013-09-20 18:18:03] mummana: device with selendroid ,but the apk doesnt gets installed in the device it throws error an error occured
+[2013-09-20 18:19:19] lukeis: you're using the standalone server right? can you :gist  the output from the standalone? (and maybe try running it with the -verbose flag to get more info)
+[2013-09-20 18:19:57] mummana: after trying that  to make sure whether the app is working or not i tried to install the app using adb install .apk command and it throwed an error installl faliure
