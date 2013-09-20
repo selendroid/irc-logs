@@ -276,3 +276,16 @@
 [2013-09-20 18:23:59] mummana: yea this one
 [2013-09-20 18:24:29] lukeis: sounds like the apk wasn't signed?
 [2013-09-20 18:24:41] lukeis: have you built an android app on your computer before?
+[2013-09-20 18:25:09] mummana: nope
+[2013-09-20 18:25:16] mummana: m a tester
+[2013-09-20 18:25:24] lukeis: you have to build (or at least attempt to build) an app in order to get a debug.cert file generated in your users home directory
+[2013-09-20 18:26:01] lukeis: if you clone the selendroid project and try to build it, that should work
+[2013-09-20 18:26:31] mummana: ok so in order to test the app i must sign it write?
+[2013-09-20 18:26:51] mummana: right?
+[2013-09-20 18:27:18] lukeis: yes
+[2013-09-20 18:27:54] mummana: how to know wheter the app is signed or not?
+[2013-09-20 18:28:18] lukeis: well, you get that error for one ;)
+[2013-09-20 18:28:40] mummana: http://file.appsapk.com/wp-content/uploads/downloads/LinkedIn.apk
+[2013-09-20 18:28:55] mummana: thats the app which i used to test it
+[2013-09-20 18:29:06] mummana: LOL
+[2013-09-20 18:29:07] mummana: :D
