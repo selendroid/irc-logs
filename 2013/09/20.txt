@@ -296,3 +296,7 @@
 [2013-09-20 18:39:25] mummana: u mean my linked app doesnt got resigned with same debug certificate?
 [2013-09-20 18:39:41] lukeis: selendroid server does it run-time
 [2013-09-20 18:39:43] mummana: with of selendroid
+[2013-09-20 18:40:06] lukeis: actually when you start selendroid-standalone it should create a file:  resigned-LinkedIn.apk
+[2013-09-20 18:40:35] mummana: yea its there in my folder
+[2013-09-20 18:41:25] lukeis: ok… so, can you :gist the full output of the standalone server when you try to run a test against it?   (when you do so, please run with '-verbose' in the command for selendroid-standalone)
+[2013-09-20 18:41:42] charbrandeis, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
