@@ -307,3 +307,10 @@
 [2013-09-20 19:16:01] mummana: selendroid-server-com.linkedin.android-0.5.1.apk got installed but resigned-linkedin.apk failed
 [2013-09-20 19:16:11] mummana: to installed
 [2013-09-20 19:17:21] mummana: anyone there to help?
+[2013-09-20 19:21:48] charbrandeis: hi
+[2013-09-20 19:22:13] mummana: hie
+[2013-09-20 19:22:28] charbrandeis: I am facing a problem where i am not able to select date/month/year from native date picker using selendroid
+[2013-09-20 19:23:04] charbrandeis: i tried this .  driver.findElement(By.id("month")).sendKeys("Oct");  But it's not working
+[2013-09-20 19:23:36] charbrandeis: any suggestions from anyone?
+[2013-09-20 19:23:50] mummana: even im new to selendroid
+[2013-09-20 19:23:54] mummana: sry
