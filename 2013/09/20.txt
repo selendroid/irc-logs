@@ -301,3 +301,5 @@
 [2013-09-20 18:41:25] lukeis: ok… so, can you :gist the full output of the standalone server when you try to run a test against it?   (when you do so, please run with '-verbose' in the command for selendroid-standalone)
 [2013-09-20 18:41:42] charbrandeis, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-09-20 18:54:43] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-20 18:56:27] mummana: how to gist ?the output>>??
+[2013-09-20 18:57:48] chhsiung, joining. (#selendroid)
