@@ -4,3 +4,4 @@
 [2013-09-20 01:02:22] jusfreeman, joining. (#selendroid)
 [2013-09-20 01:27:53] jlipps, quitting. (Read error: Connection reset by peer)
 [2013-09-20 02:14:40] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-20 02:23:29] chhsiung, joining. (#selendroid)
