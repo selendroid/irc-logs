@@ -8,3 +8,4 @@
 [2013-09-21 06:36:53] jusfreeman, quitting. (Quit: jusfreeman)
 [2013-09-21 06:37:48] jusfreeman, joining. (#selendroid)
 [2013-09-21 06:55:04] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-21 07:39:56] mummana, joining. (#selendroid)
