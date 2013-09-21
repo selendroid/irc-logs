@@ -22,3 +22,4 @@
 [2013-09-21 20:01:28] mummana: prevoius activity
 [2013-09-21 20:01:53] mummana: can i use driver.navigate.back()
 [2013-09-21 21:06:37] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-21 21:10:45] mummana, quitting. (Ping timeout: 250 seconds)
