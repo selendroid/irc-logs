@@ -10,3 +10,4 @@
 [2013-09-21 06:55:04] smccarthy, quitting. (Remote host closed the connection)
 [2013-09-21 07:39:56] mummana, joining. (#selendroid)
 [2013-09-21 07:40:13] mummana: hie anyone there? to help?
+[2013-09-21 08:07:38] mummana, quitting. (Quit: Page closed)
