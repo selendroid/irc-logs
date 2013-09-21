@@ -14,3 +14,4 @@
 [2013-09-21 11:59:21] mummana, joining. (#selendroid)
 [2013-09-21 11:59:43] mummana: hello one there?
 [2013-09-21 12:00:27] mummana: i have doubt how to go back previous activity can i use driver.navigate.back()
+[2013-09-21 13:55:15] mummana, quitting. (Ping timeout: 250 seconds)
