@@ -16,3 +16,8 @@
 [2013-09-21 12:00:27] mummana: i have doubt how to go back previous activity can i use driver.navigate.back()
 [2013-09-21 13:55:15] mummana, quitting. (Ping timeout: 250 seconds)
 [2013-09-21 17:03:40] smccarthy, joining. (#selendroid)
+[2013-09-21 20:00:59] mummana, joining. (#selendroid)
+[2013-09-21 20:01:10] mummana: hie guys
+[2013-09-21 20:01:19] mummana: if i want to go to
+[2013-09-21 20:01:28] mummana: prevoius activity
+[2013-09-21 20:01:53] mummana: can i use driver.navigate.back()
