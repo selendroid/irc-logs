@@ -21,3 +21,4 @@
 [2013-09-21 20:01:19] mummana: if i want to go to
 [2013-09-21 20:01:28] mummana: prevoius activity
 [2013-09-21 20:01:53] mummana: can i use driver.navigate.back()
+[2013-09-21 21:06:37] smccarthy, quitting. (Remote host closed the connection)
