@@ -11,3 +11,5 @@
 [2013-09-22 21:20:03] Charbrandeis, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-09-22 21:20:49] Charbrandeis, joining. (#selendroid)
 [2013-09-22 21:23:43] Charbrandeis, quitting. (Client Quit)
+[2013-09-22 21:26:59] Charbrandeis, joining. (#selendroid)
+[2013-09-22 21:28:43] Charbrandeis, quitting. (Client Quit)
