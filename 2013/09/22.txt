@@ -5,3 +5,6 @@
 [2013-09-22 17:07:12] smccarthy, joining. (#selendroid)
 [2013-09-22 21:03:58] mummana, joining. (#selendroid)
 [2013-09-22 21:12:24] Charbrandeis, joining. (#selendroid)
+[2013-09-22 21:18:20] mummana: hey guys?
+[2013-09-22 21:18:37] mummana: i havea doubt?
+[2013-09-22 21:19:00] mummana: driver.navigate.back() does it wrk?
