@@ -16,3 +16,5 @@
 [2013-09-22 21:30:33] Charbrandeis, joining. (#selendroid)
 [2013-09-22 21:31:53] Charbrandeis, quitting. (Client Quit)
 [2013-09-22 21:34:19] Charbrandeis, joining. (#selendroid)
+[2013-09-22 21:37:35] Charbrandeis, quitting. (Client Quit)
+[2013-09-22 21:38:43] Charbrandeis, joining. (#selendroid)
