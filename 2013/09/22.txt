@@ -21,3 +21,4 @@
 [2013-09-22 21:40:03] Charbrandeis, quitting. (Client Quit)
 [2013-09-22 21:42:40] Charbrandeis, joining. (#selendroid)
 [2013-09-22 21:43:40] Charbrandeis, quitting. (Client Quit)
+[2013-09-22 21:49:33] mummana, quitting. (Quit: Page closed)
