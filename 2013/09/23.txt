@@ -123,3 +123,5 @@
 [2013-09-23 16:19:27] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-23 16:21:32] mummana, quitting. (Quit: Page closed)
 [2013-09-23 16:48:34] chhsiung, joining. (#selendroid)
+[2013-09-23 17:23:52] ddary, joining. (#selendroid)
+[2013-09-23 17:24:47] charbrandeis, joining. (#selendroid)
