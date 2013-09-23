@@ -58,3 +58,7 @@
 [2013-09-23 13:30:38] ddary: AndroidNativeElement : Line 393
 [2013-09-23 13:31:33] mummana: so what to do now ?? any idea?
 [2013-09-23 13:34:21] ddary: in order to be able to help you, I need to understand what textfield it is. Is it a default android class etc. any details you can get from inspector...
+[2013-09-23 13:40:12] mummana: yep its edit text only
+[2013-09-23 13:40:21] mummana: EditText
+[2013-09-23 13:42:14] ddary: that is weird
+[2013-09-23 13:42:22] ddary: can you share the app?
