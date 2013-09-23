@@ -3,3 +3,4 @@
 [2013-09-24 00:49:25] lukeis, quitting. (Quit: Leaving.)
 [2013-09-24 00:49:43] jusfreeman, joining. (#selendroid)
 [2013-09-24 01:01:42] chhsiung, joining. (#selendroid)
+[2013-09-24 01:05:58] chhsiung, quitting. (Ping timeout: 245 seconds)
