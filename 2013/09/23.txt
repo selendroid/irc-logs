@@ -105,3 +105,7 @@
 [2013-09-23 14:49:44] chhsiung, joining. (#selendroid)
 [2013-09-23 15:26:41] ddary, quitting. (Quit: ddary)
 [2013-09-23 15:30:43] ddary, joining. (#selendroid)
+[2013-09-23 15:37:23] selendroid-git, joining. (#selendroid)
+[2013-09-23 15:37:23] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/Vl2Leg
+[2013-09-23 15:37:23] selendroid-git: selendroid/master e67b507 Dominik Dary: On mac os java home is now identified automatically and adding additonally the ability to specify java home as a property.
+[2013-09-23 15:37:23] selendroid-git, leaving. (#selendroid)
