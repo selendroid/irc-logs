@@ -22,3 +22,4 @@
 [2013-09-23 10:19:42] ddary: yes
 [2013-09-23 10:19:54] ddary: what is the error that is displayed?
 [2013-09-23 10:20:57] ddary: btw: you can also use driver.manage().back()
+[2013-09-23 10:29:21] mummana, quitting. (Ping timeout: 250 seconds)
