@@ -91,3 +91,8 @@
 [2013-09-23 14:15:03] selendroid-git: selendroid/atoms-bug e875145 Dominik Dary:  Merge branch 'atoms-bug' of https://github.com/selendroid/selendroid into atoms-bug
 [2013-09-23 14:15:03] selendroid-git, leaving. (#selendroid)
 [2013-09-23 14:16:23] ddary: have you maybe tried to find the element again?
+[2013-09-23 14:20:22] travis-ci, joining. (#selendroid)
+[2013-09-23 14:20:22] travis-ci: [travis-ci] selendroid/selendroid#179 (master - c88e04d : Dominik Dary): The build passed.
+[2013-09-23 14:20:22] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/f63cd2415dbf...c88e04d98a8f
+[2013-09-23 14:20:22] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/11686286
+[2013-09-23 14:20:22] travis-ci, leaving. (#selendroid)
