@@ -38,3 +38,8 @@
 [2013-09-23 12:44:49] mummana: there?
 [2013-09-23 12:56:47] ddary: yes
 [2013-09-23 12:57:32] ddary: native or web?
+[2013-09-23 13:00:41] mummana: native
+[2013-09-23 13:01:30] ddary: if you execute
+[2013-09-23 13:01:33] ddary: adb logcat
+[2013-09-23 13:01:54] ddary: in a shell, do you see there an exception ?
+[2013-09-23 13:02:20] mummana: well mine is new sdk version i dnt have adb logcat
