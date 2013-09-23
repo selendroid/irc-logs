@@ -140,3 +140,10 @@
 [2013-09-23 17:29:52] charbrandeis: Thanks .I will try this..
 [2013-09-23 17:34:48] charbrandeis, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-09-23 17:41:16] lukeis, joining. (#selendroid)
+[2013-09-23 17:55:26] ddary: gdennis: yt?
+[2013-09-23 17:55:33] smccarthy, joining. (#selendroid)
+[2013-09-23 17:58:28] ddary: hi lukeis
+[2013-09-23 17:58:39] lukeis: hi
+[2013-09-23 17:59:25] ddary: have now added a grid hub registration listener
+[2013-09-23 17:59:45] lukeis: i saw the issue fly by :)
+[2013-09-23 18:00:01] ddary: the reason is, i hope that makes my life easier because I don't have to explain so much
