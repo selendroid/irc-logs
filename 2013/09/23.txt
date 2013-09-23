@@ -109,3 +109,7 @@
 [2013-09-23 15:37:23] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/Vl2Leg
 [2013-09-23 15:37:23] selendroid-git: selendroid/master e67b507 Dominik Dary: On mac os java home is now identified automatically and adding additonally the ability to specify java home as a property.
 [2013-09-23 15:37:23] selendroid-git, leaving. (#selendroid)
+[2013-09-23 15:42:59] selendroid-git, joining. (#selendroid)
+[2013-09-23 15:42:59] selendroid-git: [selendroid] DominikDary pushed 1 new commit to atoms-bug: http://git.io/vQEIKg
+[2013-09-23 15:42:59] selendroid-git: selendroid/atoms-bug 07d1bc5 Dominik Dary:  Merge branch 'master' of https://github.com/selendroid/selendroid into atoms-bug
+[2013-09-23 15:42:59] selendroid-git, leaving. (#selendroid)
