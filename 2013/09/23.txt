@@ -43,3 +43,6 @@
 [2013-09-23 13:01:33] ddary: adb logcat
 [2013-09-23 13:01:54] ddary: in a shell, do you see there an exception ?
 [2013-09-23 13:02:20] mummana: well mine is new sdk version i dnt have adb logcat
+[2013-09-23 13:06:37] ddary: adb has moved to platform tools
+[2013-09-23 13:07:05] ddary: move to that directory and execute: adb logcat
+[2013-09-23 13:09:19] mummana: ok ok
