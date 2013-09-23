@@ -96,3 +96,9 @@
 [2013-09-23 14:20:22] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/f63cd2415dbf...c88e04d98a8f
 [2013-09-23 14:20:22] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/11686286
 [2013-09-23 14:20:22] travis-ci, leaving. (#selendroid)
+[2013-09-23 14:37:10] mummana: well thnq it worked
+[2013-09-23 14:37:26] ddary: what did you change?
+[2013-09-23 14:37:50] mummana: i dint changed jusz uninstalled the app and tried again
+[2013-09-23 14:38:09] ddary: well, as long as it works :-)
+[2013-09-23 14:39:44] mummana: haha thnq have a good day
+[2013-09-23 14:39:54] ddary: thanks, you too
