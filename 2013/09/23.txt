@@ -79,3 +79,8 @@
 [2013-09-23 14:06:07] mummana: the case wt i have wrten is search a brand name and click search button
 [2013-09-23 14:06:27] mummana: after searching ckear the text in the search bar and search for new one
 [2013-09-23 14:06:57] mummana:  after searching clear the text in the search bar and search for new brand
+[2013-09-23 14:12:14] selendroid-git, joining. (#selendroid)
+[2013-09-23 14:12:14] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/K5K-EQ
+[2013-09-23 14:12:14] selendroid-git: selendroid/master c88e04d Dominik Dary: selendroid is able to register itself into a grid hub. The command line option  to restart adb has been removed.
+[2013-09-23 14:12:14] selendroid-git, leaving. (#selendroid)
+[2013-09-23 14:14:46] mummana: ?????????????
