@@ -48,3 +48,5 @@
 [2013-09-23 13:09:19] mummana: ok ok
 [2013-09-23 13:16:44] mummana: its really hard to find i ther any alternative method
 [2013-09-23 13:16:50] mummana: ?
+[2013-09-23 13:21:06] ddary: you can have a look in your ide
+[2013-09-23 13:21:33] ddary: in eclispe you have, if you have the android tools installed, the logcat window
