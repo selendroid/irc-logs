@@ -62,3 +62,8 @@
 [2013-09-23 13:40:21] mummana: EditText
 [2013-09-23 13:42:14] ddary: that is weird
 [2013-09-23 13:42:22] ddary: can you share the app?
+[2013-09-23 13:45:04] mummana: http://www.apktrain.com/applications/3804/download-Yebhi-Mobile-Shopping-1.3.2-app-apk/
+[2013-09-23 13:45:11] mummana: take that
+[2013-09-23 13:47:07] mummana: in that u have that serach bar there
+[2013-09-23 13:47:22] mummana: enter a text and try to clear it
+[2013-09-23 13:50:00] ddary: give me some minutes, have to finish first something else, but then will soon have a look
