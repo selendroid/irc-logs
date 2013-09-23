@@ -33,3 +33,6 @@
 [2013-09-23 12:22:53] ddary_, quitting. (Client Quit)
 [2013-09-23 12:23:02] mummana, joining. (#selendroid)
 [2013-09-23 12:39:59] mummana: driver.findElement(By.id("serachbar")).clear();                  not working
+[2013-09-23 12:40:58] ddary: what is the issue exactly?
+[2013-09-23 12:42:31] mummana: therz a text aleardy in the search bar i want to clear that text and enter the required text  but clear() is not wrking my text is getting appended to the already existing text
+[2013-09-23 12:44:49] mummana: there?
