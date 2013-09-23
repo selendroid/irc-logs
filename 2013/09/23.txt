@@ -164,3 +164,5 @@
 [2013-09-23 22:26:01] jusfreeman, joining. (#selendroid)
 [2013-09-23 22:57:55] chhsiung, joining. (#selendroid)
 [2013-09-23 23:09:06] lukeis, joining. (#selendroid)
+[2013-09-23 23:19:24] chhsiung1, joining. (#selendroid)
+[2013-09-23 23:19:25] chhsiung, quitting. (Read error: Connection reset by peer)
