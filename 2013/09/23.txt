@@ -25,3 +25,4 @@
 [2013-09-23 10:29:21] mummana, quitting. (Ping timeout: 250 seconds)
 [2013-09-23 10:34:16] jusfreeman, joining. (#selendroid)
 [2013-09-23 11:07:41] jusfreeman, quitting. (Quit: jusfreeman)
+[2013-09-23 11:39:14] ddary, quitting. (Ping timeout: 264 seconds)
