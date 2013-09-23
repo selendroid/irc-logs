@@ -147,3 +147,5 @@
 [2013-09-23 17:59:25] ddary: have now added a grid hub registration listener
 [2013-09-23 17:59:45] lukeis: i saw the issue fly by :)
 [2013-09-23 18:00:01] ddary: the reason is, i hope that makes my life easier because I don't have to explain so much
+[2013-09-23 18:00:04] lukeis: i don't use a grid here… I'd like to… but don't
+[2013-09-23 18:00:39] ddary: yeah, now it is there and for people who just start it is now easier
