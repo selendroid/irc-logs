@@ -151,3 +151,11 @@
 [2013-09-23 18:00:39] ddary: yeah, now it is there and for people who just start it is now easier
 [2013-09-23 20:01:45] ddary, quitting. (Quit: ddary)
 [2013-09-23 21:08:31] Ahmed__, quitting. (Ping timeout: 250 seconds)
+[2013-09-23 22:00:46] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-23 22:03:21] chhsiung, joining. (#selendroid)
+[2013-09-23 22:03:52] chhsiung, quitting. (Client Quit)
+[2013-09-23 22:03:55] lukeis1, joining. (#selendroid)
+[2013-09-23 22:04:09] lukeis1, quitting. (Read error: Connection reset by peer)
+[2013-09-23 22:04:17] lukeis1, joining. (#selendroid)
+[2013-09-23 22:04:46] lukeis2, joining. (#selendroid)
+[2013-09-23 22:04:46] lukeis1, quitting. (Read error: Connection reset by peer)
