@@ -125,3 +125,16 @@
 [2013-09-23 16:48:34] chhsiung, joining. (#selendroid)
 [2013-09-23 17:23:52] ddary, joining. (#selendroid)
 [2013-09-23 17:24:47] charbrandeis, joining. (#selendroid)
+[2013-09-23 17:25:41] charbrandeis: Hi Dominik
+[2013-09-23 17:25:46] ddary: Hi
+[2013-09-23 17:25:54] charbrandeis: i see you have closed issue #129
+[2013-09-23 17:25:55] ddary: you have seen my text?
+[2013-09-23 17:26:27] charbrandeis: Your comment >> With selendroid it is possible not automate the AndroidDatePicker-Dialog.
+[2013-09-23 17:26:37] ddary: if you have still the issue we open it, np
+[2013-09-23 17:26:52] ddary: have you tried with the sample app?
+[2013-09-23 17:27:21] charbrandeis: is there a apk file for native test app?
+[2013-09-23 17:27:46] ddary: nope
+[2013-09-23 17:27:49] ddary: but wait a sec
+[2013-09-23 17:27:58] charbrandeis: ok
+[2013-09-23 17:29:27] ddary: Pls use that link: https://dl.dropboxusercontent.com/u/2694335/ApiDemos.apk
+[2013-09-23 17:29:52] charbrandeis: Thanks .I will try this..
