@@ -48,3 +48,11 @@
 [2013-09-24 15:33:05] ddary, quitting. (Quit: ddary)
 [2013-09-24 15:42:03] ddary, joining. (#selendroid)
 [2013-09-24 15:50:42] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-24 16:27:47] Ahmed__, joining. (#selendroid)
+[2013-09-24 16:27:54] Ahmed__: @ddary I signed the CLA
+[2013-09-24 16:28:07] ddary: jippi
+[2013-09-24 16:28:16] ddary: that sounds awesome :-)
+[2013-09-24 16:28:39] ddary: have already heard this morning the good news from Simon
+[2013-09-24 16:28:41] Ahmed__: what does jippi mean? :D
+[2013-09-24 16:28:51] ddary: excitement
+[2013-09-24 16:29:10] Ahmed__: now we can discuss the pull request
