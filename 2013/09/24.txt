@@ -63,3 +63,4 @@
 [2013-09-24 16:33:09] ddary: if everything is fine, I merge it directly
 [2013-09-24 16:33:24] ddary: otherwise we can talk tomorrow about it
 [2013-09-24 16:37:55] ddary: so, from your end everything is good state, no tests are failing, right?
+[2013-09-24 16:49:46] chhsiung, joining. (#selendroid)
