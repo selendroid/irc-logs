@@ -78,3 +78,5 @@
 [2013-09-24 17:01:01] travis-ci, leaving. (#selendroid)
 [2013-09-24 17:04:33] Ahmed__: @ddary yes
 [2013-09-24 17:04:36] Ahmed__: all tests are passing
+[2013-09-24 17:05:43] ddary: super
+[2013-09-24 17:07:07] Ahmed__: I will add a comment on the pull request to illustrate the other changes
