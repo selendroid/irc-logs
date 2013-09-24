@@ -31,3 +31,8 @@
 [2013-09-24 13:42:55] chhsiung, joining. (#selendroid)
 [2013-09-24 13:47:13] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-09-24 13:58:08] vasu: sorry i dint tried on it  but still its not working
+[2013-09-24 14:00:08] vasu: can i perform a click operation on textview?
+[2013-09-24 14:00:23] vasu: i mean is it possible to do so ?
+[2013-09-24 14:00:37] vasu: or do have to use tap?
+[2013-09-24 14:02:07] ddary: click should work
+[2013-09-24 14:02:40] ddary: i asked about level 10, because I verified selendroid so far on 10, 16,17,18
