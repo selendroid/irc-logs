@@ -80,3 +80,7 @@
 [2013-09-24 17:04:36] Ahmed__: all tests are passing
 [2013-09-24 17:05:43] ddary: super
 [2013-09-24 17:07:07] Ahmed__: I will add a comment on the pull request to illustrate the other changes
+[2013-09-24 17:15:00] selendroid-git, joining. (#selendroid)
+[2013-09-24 17:15:00] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/eqA6EA
+[2013-09-24 17:15:00] selendroid-git: selendroid/master 5758008 Dominik Dary: Update .travis.yml
+[2013-09-24 17:15:00] selendroid-git, leaving. (#selendroid)
