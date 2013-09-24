@@ -110,3 +110,4 @@
 [2013-09-24 19:45:17] Ahmed__, quitting. (Ping timeout: 250 seconds)
 [2013-09-24 20:00:19] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-24 21:36:43] chhsiung, joining. (#selendroid)
+[2013-09-24 22:16:08] jusfreeman, joining. (#selendroid)
