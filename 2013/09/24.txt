@@ -56,3 +56,9 @@
 [2013-09-24 16:28:41] Ahmed__: what does jippi mean? :D
 [2013-09-24 16:28:51] ddary: excitement
 [2013-09-24 16:29:10] Ahmed__: now we can discuss the pull request
+[2013-09-24 16:32:18] ddary: yes
+[2013-09-24 16:32:34] ddary: I need some time to review everything
+[2013-09-24 16:32:52] ddary: I suggest, I do it and I add comments, where I have questions
+[2013-09-24 16:32:58] Ahmed__: sure
+[2013-09-24 16:33:09] ddary: if everything is fine, I merge it directly
+[2013-09-24 16:33:24] ddary: otherwise we can talk tomorrow about it
