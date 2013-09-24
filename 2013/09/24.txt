@@ -64,3 +64,10 @@
 [2013-09-24 16:33:24] ddary: otherwise we can talk tomorrow about it
 [2013-09-24 16:37:55] ddary: so, from your end everything is good state, no tests are failing, right?
 [2013-09-24 16:49:46] chhsiung, joining. (#selendroid)
+[2013-09-24 16:50:04] selendroid-git, joining. (#selendroid)
+[2013-09-24 16:50:04] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/wbTjjA
+[2013-09-24 16:50:04] selendroid-git: selendroid/master 84b3b99 Dominik Dary: Updating atoms to fix #127
+[2013-09-24 16:50:04] selendroid-git, leaving. (#selendroid)
+[2013-09-24 16:50:24] selendroid-git, joining. (#selendroid)
+[2013-09-24 16:50:24] selendroid-git: [selendroid] DominikDary deleted atoms-bug at 07d1bc5: http://git.io/pnzi1w
+[2013-09-24 16:50:24] selendroid-git, leaving. (#selendroid)
