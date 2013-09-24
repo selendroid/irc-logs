@@ -84,3 +84,5 @@
 [2013-09-24 17:15:00] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/eqA6EA
 [2013-09-24 17:15:00] selendroid-git: selendroid/master 5758008 Dominik Dary: Update .travis.yml
 [2013-09-24 17:15:00] selendroid-git, leaving. (#selendroid)
+[2013-09-24 17:22:55] ddary: :note lukeis with regards to travis it seems like a jdk must be configured. Last test run failed because the keytool and jarsigner was not found in the JRE.
+[2013-09-24 17:24:49] ddary, quitting. (Quit: ddary)
