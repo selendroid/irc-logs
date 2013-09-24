@@ -26,3 +26,4 @@
 [2013-09-24 12:58:46] vasu: even i tried tap function it but in vain it is throwing error
 [2013-09-24 13:05:32] ddary: hi
 [2013-09-24 13:06:22] ddary: is it working on a target 10 device?
+[2013-09-24 13:12:19] chhsiung, joining. (#selendroid)
