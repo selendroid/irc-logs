@@ -27,3 +27,4 @@
 [2013-09-24 13:05:32] ddary: hi
 [2013-09-24 13:06:22] ddary: is it working on a target 10 device?
 [2013-09-24 13:12:19] chhsiung, joining. (#selendroid)
+[2013-09-24 13:16:23] chhsiung, quitting. (Ping timeout: 245 seconds)
