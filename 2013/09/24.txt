@@ -36,3 +36,4 @@
 [2013-09-24 14:00:37] vasu: or do have to use tap?
 [2013-09-24 14:02:07] ddary: click should work
 [2013-09-24 14:02:40] ddary: i asked about level 10, because I verified selendroid so far on 10, 16,17,18
+[2013-09-24 14:13:26] chhsiung, joining. (#selendroid)
