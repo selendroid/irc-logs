@@ -14,3 +14,4 @@
 [2013-09-24 09:38:37] jusfreeman, quitting. (Quit: jusfreeman)
 [2013-09-24 11:06:07] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-24 11:36:53] chhsiung, joining. (#selendroid)
+[2013-09-24 11:44:18] chhsiung, quitting. (Ping timeout: 245 seconds)
