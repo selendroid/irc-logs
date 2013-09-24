@@ -38,3 +38,4 @@
 [2013-09-24 14:02:40] ddary: i asked about level 10, because I verified selendroid so far on 10, 16,17,18
 [2013-09-24 14:13:26] chhsiung, joining. (#selendroid)
 [2013-09-24 14:17:38] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-09-24 14:44:07] chhsiung, joining. (#selendroid)
