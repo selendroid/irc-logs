@@ -71,3 +71,10 @@
 [2013-09-24 16:50:24] selendroid-git, joining. (#selendroid)
 [2013-09-24 16:50:24] selendroid-git: [selendroid] DominikDary deleted atoms-bug at 07d1bc5: http://git.io/pnzi1w
 [2013-09-24 16:50:24] selendroid-git, leaving. (#selendroid)
+[2013-09-24 17:01:01] travis-ci, joining. (#selendroid)
+[2013-09-24 17:01:01] travis-ci: [travis-ci] selendroid/selendroid#183 (master - 84b3b99 : Dominik Dary): The build is still failing.
+[2013-09-24 17:01:01] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/e67b50755384...84b3b999c32a
+[2013-09-24 17:01:01] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/11736173
+[2013-09-24 17:01:01] travis-ci, leaving. (#selendroid)
+[2013-09-24 17:04:33] Ahmed__: @ddary yes
+[2013-09-24 17:04:36] Ahmed__: all tests are passing
