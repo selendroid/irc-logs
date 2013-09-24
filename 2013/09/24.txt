@@ -99,3 +99,5 @@
 [2013-09-24 18:24:31] ddary: he signed the cla as well. is he working with you togethter?
 [2013-09-24 18:24:46] Ahmed__: yes
 [2013-09-24 18:24:57] Ahmed__: I think he'll make a pull request as well
+[2013-09-24 18:25:43] ddary: ok
+[2013-09-24 18:27:02] lukeis, quitting. (Quit: Leaving.)
