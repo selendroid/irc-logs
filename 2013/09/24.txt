@@ -47,3 +47,4 @@
 [2013-09-24 15:23:07] vasu, quitting. (Ping timeout: 250 seconds)
 [2013-09-24 15:33:05] ddary, quitting. (Quit: ddary)
 [2013-09-24 15:42:03] ddary, joining. (#selendroid)
+[2013-09-24 15:50:42] chhsiung, quitting. (Quit: Leaving.)
