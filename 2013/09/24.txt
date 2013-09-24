@@ -41,3 +41,5 @@
 [2013-09-24 14:44:07] chhsiung, joining. (#selendroid)
 [2013-09-24 14:46:11] ddary, quitting. (*.net *.split)
 [2013-09-24 14:48:28] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-09-24 15:00:33] chhsiung, joining. (#selendroid)
+[2013-09-24 15:00:47] ddary, joining. (#selendroid)
