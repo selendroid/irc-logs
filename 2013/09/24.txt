@@ -30,3 +30,4 @@
 [2013-09-24 13:16:23] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-09-24 13:42:55] chhsiung, joining. (#selendroid)
 [2013-09-24 13:47:13] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-09-24 13:58:08] vasu: sorry i dint tried on it  but still its not working
