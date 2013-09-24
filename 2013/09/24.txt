@@ -18,3 +18,9 @@
 [2013-09-24 12:11:51] chhsiung, joining. (#selendroid)
 [2013-09-24 12:15:58] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-09-24 12:52:16] vasu, joining. (#selendroid)
+[2013-09-24 12:55:57] vasu: hi i have an object on which i have to perform click operation which  is working fine in api16  and api17 devices but wen coming to api15 and api14 it doesnt work why?
+[2013-09-24 12:56:32] vasu: antone there?
+[2013-09-24 12:56:44] vasu: xpath //TextView[@vale='Home']
+[2013-09-24 12:58:07] vasu: sorry this is the object
+[2013-09-24 12:58:18] vasu: xpath //TextView[@id='text1']
+[2013-09-24 12:58:46] vasu: even i tried tap function it but in vain it is throwing error
