@@ -113,3 +113,4 @@
 [2013-09-24 22:16:08] jusfreeman, joining. (#selendroid)
 [2013-09-24 23:43:47] operatiay, joining. (#selendroid)
 [2013-09-24 23:45:46] operatiay, quitting. (Remote host closed the connection)
+[2013-09-24 23:53:42] jusfreeman, quitting. (Quit: jusfreeman)
