@@ -104,3 +104,4 @@
 [2013-09-24 18:32:47] ddary, quitting. (Quit: ddary)
 [2013-09-24 18:37:09] ddary, joining. (#selendroid)
 [2013-09-24 18:38:56] lukeis, joining. (#selendroid)
+[2013-09-24 18:40:51] ddary, quitting. (Client Quit)
