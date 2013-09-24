@@ -93,3 +93,9 @@
 [2013-09-24 17:26:27] travis-ci, leaving. (#selendroid)
 [2013-09-24 17:51:10] lukeis, joining. (#selendroid)
 [2013-09-24 17:52:42] smccarthy, joining. (#selendroid)
+[2013-09-24 18:22:01] ddary, joining. (#selendroid)
+[2013-09-24 18:23:24] ddary: Ahmed__, do you know Slawek?
+[2013-09-24 18:23:42] Ahmed__: yes
+[2013-09-24 18:24:31] ddary: he signed the cla as well. is he working with you togethter?
+[2013-09-24 18:24:46] Ahmed__: yes
+[2013-09-24 18:24:57] Ahmed__: I think he'll make a pull request as well
