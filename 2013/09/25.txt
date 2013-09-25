@@ -114,3 +114,4 @@
 [2013-09-25 21:52:47] Ahmed__: cool
 [2013-09-25 22:04:19] jusfreeman, joining. (#selendroid)
 [2013-09-25 22:30:26] operatiay, joining. (#selendroid)
+[2013-09-25 22:40:19] Ahmed__, quitting. (Ping timeout: 250 seconds)
