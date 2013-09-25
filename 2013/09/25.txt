@@ -121,3 +121,4 @@
 [2013-09-25 23:16:35] chhsiung, joining. (#selendroid)
 [2013-09-25 23:18:22] chhsiung, quitting. (Client Quit)
 [2013-09-25 23:24:19] chhsiung, joining. (#selendroid)
+[2013-09-25 23:26:01] chhsiung, quitting. (Client Quit)
