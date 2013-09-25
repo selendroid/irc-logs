@@ -53,3 +53,4 @@
 [2013-09-25 12:04:35] chhsiung, joining. (#selendroid)
 [2013-09-25 12:08:53] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-09-25 12:13:13] Ahmed__: I commented on the revision
+[2013-09-25 12:15:33] ddary: ok
