@@ -51,3 +51,4 @@
 [2013-09-25 12:00:23] Ahmed__: I understand
 [2013-09-25 12:00:42] ddary: http://selendroid.io/setup.html#androidDevices
 [2013-09-25 12:04:35] chhsiung, joining. (#selendroid)
+[2013-09-25 12:08:53] chhsiung, quitting. (Ping timeout: 245 seconds)
