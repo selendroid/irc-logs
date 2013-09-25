@@ -71,3 +71,4 @@
 [2013-09-25 17:26:01] lukeis, joining. (#selendroid)
 [2013-09-25 17:46:14] ddary, joining. (#selendroid)
 [2013-09-25 18:07:42] ddary, quitting. (Quit: ddary)
+[2013-09-25 19:29:31] ddary, joining. (#selendroid)
