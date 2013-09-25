@@ -31,3 +31,19 @@
 [2013-09-25 11:54:00] ddary: do you have experience with buck?
 [2013-09-25 11:54:11] Ahmed__: no
 [2013-09-25 11:54:29] Ahmed__: sorry
+[2013-09-25 11:56:03] Ahmed__: @ddary can one standalone server respond to multiple drivers in the same time?
+[2013-09-25 11:56:17] Ahmed__: parallel
+[2013-09-25 11:56:38] ddary: you mean interact with multiple android devices?
+[2013-09-25 11:56:44] ddary: in parallel?
+[2013-09-25 11:56:54] Ahmed__: yes
+[2013-09-25 11:57:44] ddary: that works fine
+[2013-09-25 11:58:10] ddary: I run e.g. in max 5 emulators in parallel
+[2013-09-25 11:58:32] Ahmed__: with one selendroid standalone
+[2013-09-25 11:58:38] ddary: yes
+[2013-09-25 11:58:41] Ahmed__: is there any limitation?
+[2013-09-25 11:59:07] ddary: multiple selendroid standalone on the same machine are not supported because the use of ddmlib
+[2013-09-25 11:59:18] ddary: not that I'm aware of
+[2013-09-25 11:59:26] Ahmed__: if I used 10 in parallel will this affect the performance ?
+[2013-09-25 11:59:43] Ahmed__: 10 emulators
+[2013-09-25 11:59:56] ddary: in the end, it depends on android (how many ports you can use for emulators) and of course, how powerful yoiur machine is
+[2013-09-25 12:00:00] ddary: yes
