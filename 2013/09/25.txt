@@ -47,3 +47,7 @@
 [2013-09-25 11:59:43] Ahmed__: 10 emulators
 [2013-09-25 11:59:56] ddary: in the end, it depends on android (how many ports you can use for emulators) and of course, how powerful yoiur machine is
 [2013-09-25 12:00:00] ddary: yes
+[2013-09-25 12:00:14] ddary: so, i use 1gb ram per emulator
+[2013-09-25 12:00:23] Ahmed__: I understand
+[2013-09-25 12:00:42] ddary: http://selendroid.io/setup.html#androidDevices
+[2013-09-25 12:04:35] chhsiung, joining. (#selendroid)
