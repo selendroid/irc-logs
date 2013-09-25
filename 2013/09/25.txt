@@ -83,3 +83,17 @@
 [2013-09-25 20:14:21] Ahmed__: both have the AUT installed
 [2013-09-25 20:14:29] Ahmed__: how to use -InstalledApp ?
 [2013-09-25 20:14:40] Ahmed__: it will not work
+[2013-09-25 20:15:37] Ahmed__: that's why I added the serial
+[2013-09-25 20:16:16] *lukeis only runs with one at a time ;)'
+[2013-09-25 20:16:37] ddary: so, the feature you want is, that if everything is installed, it works very fast and in the case it is not, selendroid-standalone should know what to do, right?
+[2013-09-25 20:17:22] Ahmed__: yes
+[2013-09-25 20:17:39] ddary: ok
+[2013-09-25 20:17:43] Ahmed__: actually I solved this problem with lukeis
+[2013-09-25 20:17:52] Ahmed__: and he's one who proposed this solution
+[2013-09-25 20:17:59] Ahmed__: he is the one*
+[2013-09-25 20:18:49] ddary: ;)
+[2013-09-25 20:18:58] lukeis: I was waiting for the update to that PR before merging Ahmed__ ;)
+[2013-09-25 20:19:14] lukeis: (and i think you needed to resolve the cla too...)
+[2013-09-25 20:19:21] Ahmed__: signed already
+[2013-09-25 20:19:24] lukeis: cool
+[2013-09-25 20:19:31] Ahmed__: yes
