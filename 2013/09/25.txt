@@ -106,3 +106,8 @@
 [2013-09-25 20:22:56] Ahmed__: :D
 [2013-09-25 20:57:37] ddary, quitting. (Quit: ddary)
 [2013-09-25 21:44:13] Ahmed__: it would be great if this is merged before the weekend ;)
+[2013-09-25 21:46:43] lukeis: Ahmed__: let me know when you update InstalledAndroidApp.java in that request… that's what I was waiting for ;)
+[2013-09-25 21:46:58] Ahmed__: it's updated
+[2013-09-25 21:47:14] lukeis: ahh, so it is now :)
+[2013-09-25 21:48:06] Ahmed__: https://github.com/selendroid/selendroid/pull/112/files#L9R51
+[2013-09-25 21:49:09] lukeis: i'll give it another look through soon
