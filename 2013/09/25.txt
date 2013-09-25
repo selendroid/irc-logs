@@ -112,3 +112,4 @@
 [2013-09-25 21:48:06] Ahmed__: https://github.com/selendroid/selendroid/pull/112/files#L9R51
 [2013-09-25 21:49:09] lukeis: i'll give it another look through soon
 [2013-09-25 21:52:47] Ahmed__: cool
+[2013-09-25 22:04:19] jusfreeman, joining. (#selendroid)
