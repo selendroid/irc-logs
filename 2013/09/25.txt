@@ -125,3 +125,4 @@
 [2013-09-25 23:30:34] chhsiung, joining. (#selendroid)
 [2013-09-25 23:33:38] chhsiung, quitting. (Client Quit)
 [2013-09-25 23:34:11] operatiay, quitting. (Remote host closed the connection)
+[2013-09-25 23:39:34] chhsiung, joining. (#selendroid)
