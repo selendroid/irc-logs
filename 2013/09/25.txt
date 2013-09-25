@@ -66,3 +66,4 @@
 [2013-09-25 15:21:28] ddary: Agmed__: can you explain a litle bit why you need the serial for installed app?
 [2013-09-25 15:30:29] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-25 16:37:50] smccarthy, joining. (#selendroid)
+[2013-09-25 16:49:13] ddary, quitting. (Quit: ddary)
