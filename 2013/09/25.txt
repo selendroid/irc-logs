@@ -9,3 +9,5 @@
 [2013-09-25 06:13:26] lukeis, quitting. (Quit: Leaving.)
 [2013-09-25 07:43:39] smccarthy, quitting. (Remote host closed the connection)
 [2013-09-25 07:46:27] ddary, joining. (#selendroid)
+[2013-09-25 08:05:49] jusfreeman, joining. (#selendroid)
+[2013-09-25 08:08:32] jusfreeman, quitting. (Client Quit)
