@@ -72,3 +72,14 @@
 [2013-09-25 17:46:14] ddary, joining. (#selendroid)
 [2013-09-25 18:07:42] ddary, quitting. (Quit: ddary)
 [2013-09-25 19:29:31] ddary, joining. (#selendroid)
+[2013-09-25 20:12:10] Ahmed__: @ddary: -Installed app only works if there's exactly one device running
+[2013-09-25 20:12:37] ddary: hi ahmed
+[2013-09-25 20:12:41] Ahmed__: hi
+[2013-09-25 20:13:04] ddary: all the changes with the serial etc you did to work fix that
+[2013-09-25 20:13:08] ddary: ?
+[2013-09-25 20:13:23] Ahmed__: I don't understand the question sorry
+[2013-09-25 20:13:58] ddary: I still don't get the full picture of adding the serial to the capabilities
+[2013-09-25 20:14:15] Ahmed__: if you have 2 running devices
+[2013-09-25 20:14:21] Ahmed__: both have the AUT installed
+[2013-09-25 20:14:29] Ahmed__: how to use -InstalledApp ?
+[2013-09-25 20:14:40] Ahmed__: it will not work
