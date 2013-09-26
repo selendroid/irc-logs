@@ -131,3 +131,13 @@
 [2013-09-26 17:09:13] ddary, leaving. (#selendroid)
 [2013-09-26 17:21:26] lukeis, joining. (#selendroid)
 [2013-09-26 17:21:54] smccarthy, joining. (#selendroid)
+[2013-09-26 18:43:30] travis-ci, joining. (#selendroid)
+[2013-09-26 18:43:30] travis-ci: [travis-ci] Change view : https://github.com/popwich/selendroid/compare/c88e04d98a8f...57580082d1e8
+[2013-09-26 18:43:30] travis-ci: [travis-ci] popwich/selendroid#2 (master - 5758008 : Dominik Dary): The build failed.
+[2013-09-26 18:43:30] travis-ci: [travis-ci] Build details : http://travis-ci.org/popwich/selendroid/builds/11827691
+[2013-09-26 18:43:30] travis-ci, leaving. (#selendroid)
+[2013-09-26 18:44:25] travis-ci, joining. (#selendroid)
+[2013-09-26 18:44:25] travis-ci: [travis-ci] popwich/selendroid#3 (master - 9e7bff5 : popwich): The build failed.
+[2013-09-26 18:44:25] travis-ci: [travis-ci] Change view : https://github.com/popwich/selendroid/compare/57580082d1e8...9e7bff51aa8e
+[2013-09-26 18:44:25] travis-ci: [travis-ci] Build details : http://travis-ci.org/popwich/selendroid/builds/11827826
+[2013-09-26 18:44:26] travis-ci, leaving. (#selendroid)
