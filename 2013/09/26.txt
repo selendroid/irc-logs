@@ -90,3 +90,25 @@
 [2013-09-26 14:09:49] Ahmed__: did you read my comment?
 [2013-09-26 14:09:55] ddary: you have two devices
 [2013-09-26 14:10:00] ddary: and two sessions
+[2013-09-26 14:10:03] Ahmed__: I understand
+[2013-09-26 14:10:14] Ahmed__: please read my comment
+[2013-09-26 14:10:45] ddary: when the server on the device is started it need to be forwarded to the host, there must be every session a new port number on the host
+[2013-09-26 14:11:06] ddary: when you don't do it
+[2013-09-26 14:11:10] Ahmed__: int port = getNextPort()
+[2013-09-26 14:11:13] Ahmed__: it's already done
+[2013-09-26 14:11:18] Ahmed__: this is the port used
+[2013-09-26 14:11:25] Ahmed__: selendroidServerPort is just the starting
+[2013-09-26 14:11:36] Ahmed__: getNextPort() returns selendroidServerPort
+[2013-09-26 14:11:38] Ahmed__: ++
+[2013-09-26 14:11:49] Ahmed__: you can't make selendroidServerPort = getNextPort()
+[2013-09-26 14:12:06] Ahmed__: int port = getNextPort()
+[2013-09-26 14:12:09] Ahmed__: this is what you meants
+[2013-09-26 14:12:12] Ahmed__: meant*
+[2013-09-26 14:12:15] Ahmed__: and it already exist
+[2013-09-26 14:12:33] ddary: in the code i cheked out this morning it was not
+[2013-09-26 14:12:39] ddary: and it was not working
+[2013-09-26 14:12:42] ddary: yah i mean
+[2013-09-26 14:12:53] ddary: int port = nextPort()
+[2013-09-26 14:13:10] ddary: but next port must be selendroidServerPort++
+[2013-09-26 14:13:24] Ahmed__: yes it's already like that
+[2013-09-26 14:13:43] Ahmed__: and I moved the selendroidServerPort = configuration.getServerPort() to constructor
