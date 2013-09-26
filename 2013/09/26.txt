@@ -49,3 +49,13 @@
 [2013-09-26 13:46:30] ddary, joining. (#selendroid)
 [2013-09-26 13:50:20] ddary: hi ahmed
 [2013-09-26 13:54:31] Ahmed__: hi
+[2013-09-26 13:57:56] Ahmed__: is xpath working for native elements?
+[2013-09-26 13:58:14] Ahmed__: I think it's not working at all
+[2013-09-26 13:58:26] ddary: it should workl
+[2013-09-26 13:58:29] ddary: work
+[2013-09-26 13:58:43] Ahmed__: is there a test for it in the test app?
+[2013-09-26 13:58:50] ddary: yes
+[2013-09-26 13:59:07] ddary: nothing complex, but at least:
+[2013-09-26 13:59:19] Ahmed__: I tried very very basic queries and it's not working
+[2013-09-26 13:59:43] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-test-app/src/test/java/io/selendroid/nativetests/NativeElementFindingTest.java#L118
+[2013-09-26 13:59:58] ddary: what api?
