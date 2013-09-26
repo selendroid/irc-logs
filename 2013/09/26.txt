@@ -112,3 +112,7 @@
 [2013-09-26 14:13:10] ddary: but next port must be selendroidServerPort++
 [2013-09-26 14:13:24] Ahmed__: yes it's already like that
 [2013-09-26 14:13:43] Ahmed__: and I moved the selendroidServerPort = configuration.getServerPort() to constructor
+[2013-09-26 14:15:28] ddary: good
+[2013-09-26 14:15:32] ddary: here https://github.com/aibrahim-/selendroid/blob/a0e6ad86abc9feba04a772ab73c3037515520f0e/selendroid-standalone/src/main/java/io/selendroid/server/model/SelendroidStandaloneDriver.java#L310
+[2013-09-26 14:15:38] ddary: i have found the ++ thing
+[2013-09-26 14:15:59] ddary: that is important because otherwise our grid will not any longer work ;)
