@@ -59,3 +59,19 @@
 [2013-09-26 13:59:19] Ahmed__: I tried very very basic queries and it's not working
 [2013-09-26 13:59:43] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-test-app/src/test/java/io/selendroid/nativetests/NativeElementFindingTest.java#L118
 [2013-09-26 13:59:58] ddary: what api?
+[2013-09-26 14:00:53] Ahmed__: 17
+[2013-09-26 14:01:01] Ahmed__: query like this
+[2013-09-26 14:01:27] ddary: is the ui very complex?
+[2013-09-26 14:01:27] Ahmed__: wait.until(presenceOfElementLocated(By.xpath("//*[@text='Like']"))).click();
+[2013-09-26 14:01:42] jusfreeman, quitting. (Quit: jusfreeman)
+[2013-09-26 14:01:50] ddary: you mean the link text, right?
+[2013-09-26 14:02:00] ddary: then you habe to use value
+[2013-09-26 14:02:49] ddary: http://selendroid.io/inspector.html
+[2013-09-26 14:03:18] ddary: there you see roughly the attributes
+[2013-09-26 14:03:34] ddary: name, value,
+[2013-09-26 14:03:42] ddary: is
+[2013-09-26 14:03:47] ddary: sorry id
+[2013-09-26 14:04:12] Ahmed__: I'm giving an example
+[2013-09-26 14:04:17] Ahmed__: for a simple query
+[2013-09-26 14:04:20] Ahmed__: that doesn't work
+[2013-09-26 14:04:49] Ahmed__: I don't understand why I need the inspector
