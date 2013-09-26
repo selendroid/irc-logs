@@ -195,3 +195,4 @@
 [2013-09-26 21:56:46] jusfreeman, joining. (#selendroid)
 [2013-09-26 22:11:36] kyren_: hi
 [2013-09-26 22:47:18] kyren_, quitting. (Ping timeout: 252 seconds)
+[2013-09-26 23:22:45] Ahmed__, quitting. (Ping timeout: 250 seconds)
