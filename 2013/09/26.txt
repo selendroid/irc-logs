@@ -32,3 +32,4 @@
 [2013-09-26 09:26:32] travis-ci, leaving. (#selendroid)
 [2013-09-26 09:44:34] jusfreeman, quitting. (Quit: jusfreeman)
 [2013-09-26 10:04:26] chhsiung, joining. (#selendroid)
+[2013-09-26 10:09:56] ddary, quitting. (Quit: ddary)
