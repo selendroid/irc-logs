@@ -13,3 +13,5 @@
 [2013-09-26 07:12:17] smccarthy, quitting. (Remote host closed the connection)
 [2013-09-26 07:24:34] ddary, quitting. (Quit: ddary)
 [2013-09-26 07:33:14] jusfreeman_, joining. (#selendroid)
+[2013-09-26 07:36:05] jusfreeman, quitting. (Ping timeout: 248 seconds)
+[2013-09-26 07:36:06] jusfreeman_, changing nick to jusfreeman.
