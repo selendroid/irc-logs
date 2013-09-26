@@ -171,3 +171,18 @@
 [2013-09-26 19:33:22] travis-ci: [travis-ci] Change view : https://github.com/popwich/test_selendroid/compare/bac7c95ccba9...2e078298838c
 [2013-09-26 19:33:22] travis-ci, leaving. (#selendroid)
 [2013-09-26 19:33:22] travis-ci: [travis-ci] Build details : http://travis-ci.org/popwich/test_selendroid/builds/11829375
+[2013-09-26 19:47:49] travis-ci, joining. (#selendroid)
+[2013-09-26 19:47:49] travis-ci: [travis-ci] popwich/test_selendroid#9 (master - 4c88693 : popwich): The build failed.
+[2013-09-26 19:47:49] travis-ci: [travis-ci] Change view : https://github.com/popwich/test_selendroid/compare/bac7c95ccba9...4c8869365f23
+[2013-09-26 19:47:49] travis-ci: [travis-ci] Build details : http://travis-ci.org/popwich/test_selendroid/builds/11830267
+[2013-09-26 19:47:49] travis-ci, leaving. (#selendroid)
+[2013-09-26 19:48:10] travis-ci, joining. (#selendroid)
+[2013-09-26 19:48:10] travis-ci: [travis-ci] popwich/test_selendroid#10 (master - 8de3a1d : popwich): The build failed.
+[2013-09-26 19:48:10] travis-ci: [travis-ci] Change view : https://github.com/popwich/test_selendroid/compare/4c8869365f23...8de3a1d87a08
+[2013-09-26 19:48:10] travis-ci: [travis-ci] Build details : http://travis-ci.org/popwich/test_selendroid/builds/11830428
+[2013-09-26 19:48:10] travis-ci, leaving. (#selendroid)
+[2013-09-26 19:49:45] travis-ci, joining. (#selendroid)
+[2013-09-26 19:49:45] travis-ci: [travis-ci] popwich/test_selendroid#8 (master - 4c88693 : popwich): The build failed.
+[2013-09-26 19:49:45] travis-ci: [travis-ci] Change view : https://github.com/popwich/test_selendroid/compare/b94ec29483a0...4c8869365f23
+[2013-09-26 19:49:45] travis-ci: [travis-ci] Build details : http://travis-ci.org/popwich/test_selendroid/builds/11830163
+[2013-09-26 19:49:45] travis-ci, leaving. (#selendroid)
