@@ -192,3 +192,4 @@
 [2013-09-26 19:58:57] travis-ci, leaving. (#selendroid)
 [2013-09-26 19:58:57] travis-ci: [travis-ci] Build details : http://travis-ci.org/popwich/test_selendroid/builds/11830434
 [2013-09-26 21:37:09] kyren_, joining. (#selendroid)
+[2013-09-26 21:56:46] jusfreeman, joining. (#selendroid)
