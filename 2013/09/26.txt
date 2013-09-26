@@ -121,3 +121,5 @@
 [2013-09-26 14:49:23] ddary, quitting. (Quit: ddary)
 [2013-09-26 14:51:14] ddary, joining. (#selendroid)
 [2013-09-26 14:54:20] ddary: with the pull request I'm waiting for a final go from Simon
+[2013-09-26 14:56:40] Ahmed__: why simon?
+[2013-09-26 14:56:44] Ahmed__: I don't understand?
