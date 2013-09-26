@@ -17,3 +17,5 @@
 [2013-09-26 07:36:06] jusfreeman_, changing nick to jusfreeman.
 [2013-09-26 07:47:39] ddary, joining. (#selendroid)
 [2013-09-26 07:50:33] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-26 08:20:45] jusfreeman, quitting. (Quit: jusfreeman)
+[2013-09-26 08:22:48] jusfreeman, joining. (#selendroid)
