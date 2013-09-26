@@ -116,3 +116,4 @@
 [2013-09-26 14:15:32] ddary: here https://github.com/aibrahim-/selendroid/blob/a0e6ad86abc9feba04a772ab73c3037515520f0e/selendroid-standalone/src/main/java/io/selendroid/server/model/SelendroidStandaloneDriver.java#L310
 [2013-09-26 14:15:38] ddary: i have found the ++ thing
 [2013-09-26 14:15:59] ddary: that is important because otherwise our grid will not any longer work ;)
+[2013-09-26 14:20:04] Ahmed__: yes I understand
