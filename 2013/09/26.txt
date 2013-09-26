@@ -21,3 +21,7 @@
 [2013-09-26 08:22:48] jusfreeman, joining. (#selendroid)
 [2013-09-26 09:03:55] chhsiung, joining. (#selendroid)
 [2013-09-26 09:08:03] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-09-26 09:17:14] selendroid-git, joining. (#selendroid)
+[2013-09-26 09:17:14] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/myQojQ
+[2013-09-26 09:17:14] selendroid-git: selendroid/master 393be27 Dominik Dary: Update changelog.md
+[2013-09-26 09:17:14] selendroid-git, leaving. (#selendroid)
