@@ -9,3 +9,4 @@
 [2013-09-27 06:55:32] ddary, joining. (#selendroid)
 [2013-09-27 07:44:40] ddary, quitting. (Ping timeout: 246 seconds)
 [2013-09-27 07:57:48] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-27 08:52:01] ddary, joining. (#selendroid)
