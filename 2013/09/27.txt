@@ -23,3 +23,4 @@
 [2013-09-27 11:52:00] selendroid-git: selendroid/gh-pages a30c08a Dominik Dary: adding wording
 [2013-09-27 11:52:00] selendroid-git, leaving. (#selendroid)
 [2013-09-27 12:41:37] ddary, quitting. (Quit: ddary)
+[2013-09-27 12:59:16] ddary, joining. (#selendroid)
