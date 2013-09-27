@@ -6,3 +6,4 @@
 [2013-09-27 06:10:43] jusfreeman, quitting. (Quit: jusfreeman)
 [2013-09-27 06:12:09] jusfreeman, joining. (#selendroid)
 [2013-09-27 06:24:08] jusfreeman, quitting. (Ping timeout: 240 seconds)
+[2013-09-27 06:55:32] ddary, joining. (#selendroid)
