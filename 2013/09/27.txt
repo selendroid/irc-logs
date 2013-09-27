@@ -84,3 +84,4 @@
 [2013-09-27 19:03:52] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-27 19:05:58] chhsiung, joining. (#selendroid)
 [2013-09-27 20:59:05] chhsiung, quitting. (Quit: Leaving.)
+[2013-09-27 21:00:29] chhsiung, joining. (#selendroid)
