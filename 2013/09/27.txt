@@ -81,3 +81,4 @@
 [2013-09-27 15:01:39] Ahmed__, joining. (#selendroid)
 [2013-09-27 16:51:50] smccarthy, joining. (#selendroid)
 [2013-09-27 17:02:49] chhsiung, joining. (#selendroid)
+[2013-09-27 19:03:52] chhsiung, quitting. (Quit: Leaving.)
