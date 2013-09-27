@@ -69,3 +69,9 @@
 [2013-09-27 14:28:54] ddary: there is an example
 [2013-09-27 14:28:54] mummana: i mean from where i can get those values?
 [2013-09-27 14:29:56] ddary: the sample is about to flick to the left by 100 px
+[2013-09-27 14:30:04] mummana: yea thre is but it functions from right to left rite ? if i want to do top to bottom  wt values shud i send?
+[2013-09-27 14:30:13] ddary: you have to play around to find the right ones for you
+[2013-09-27 14:30:23] mummana: haha hmmmmm
+[2013-09-27 14:30:32] mummana: well u mean trail and error method?
+[2013-09-27 14:31:26] ddary: yes, because it depends as well on the size of the listview ;)
+[2013-09-27 14:33:32] mummana: okie thanx  for the answers have  great day willl come up with more queries soon  ;)
