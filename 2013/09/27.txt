@@ -27,3 +27,14 @@
 [2013-09-27 13:41:10] mummana, joining. (#selendroid)
 [2013-09-27 13:41:33] mummana: still cant able to work with gestures :(
 [2013-09-27 13:43:00] mummana: app details https://play.google.com/store/apps/details?id=com.fitness&hl=en
+[2013-09-27 14:16:41] ddary: hi
+[2013-09-27 14:17:25] mummana: hie
+[2013-09-27 14:17:25] ddary: what is the issue?
+[2013-09-27 14:17:51] mummana: well there are some elements where tap gesture is not working
+[2013-09-27 14:18:10] ddary: is click working?
+[2013-09-27 14:18:13] mummana: u can get the app from abve link
+[2013-09-27 14:18:23] mummana: yea click is working fine
+[2013-09-27 14:18:41] mummana: then y tap isnt working?
+[2013-09-27 14:18:47] ddary: is there a permission issue in the
+[2013-09-27 14:18:51] ddary: adb logcat?
+[2013-09-27 14:19:54] mummana:  in the same app at some elements tap getsure is working fine
