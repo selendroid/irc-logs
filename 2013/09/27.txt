@@ -92,3 +92,4 @@
 [2013-09-27 23:06:06] chhsiung, joining. (#selendroid)
 [2013-09-27 23:15:47] Ahmed__, quitting. (Ping timeout: 250 seconds)
 [2013-09-27 23:40:26] jlipps, joining. (#selendroid)
+[2013-09-27 23:53:14] jlipps, quitting. (Quit: Leaving.)
