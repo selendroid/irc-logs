@@ -24,3 +24,6 @@
 [2013-09-27 11:52:00] selendroid-git, leaving. (#selendroid)
 [2013-09-27 12:41:37] ddary, quitting. (Quit: ddary)
 [2013-09-27 12:59:16] ddary, joining. (#selendroid)
+[2013-09-27 13:41:10] mummana, joining. (#selendroid)
+[2013-09-27 13:41:33] mummana: still cant able to work with gestures :(
+[2013-09-27 13:43:00] mummana: app details https://play.google.com/store/apps/details?id=com.fitness&hl=en
