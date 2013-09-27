@@ -3,3 +3,5 @@
 [2013-09-27 00:38:23] jusfreeman, quitting. (Quit: jusfreeman)
 [2013-09-27 00:48:42] lukeis, quitting. (Quit: Leaving.)
 [2013-09-27 05:51:57] jusfreeman, joining. (#selendroid)
+[2013-09-27 06:10:43] jusfreeman, quitting. (Quit: jusfreeman)
+[2013-09-27 06:12:09] jusfreeman, joining. (#selendroid)
