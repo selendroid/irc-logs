@@ -38,3 +38,16 @@
 [2013-09-27 14:18:47] ddary: is there a permission issue in the
 [2013-09-27 14:18:51] ddary: adb logcat?
 [2013-09-27 14:19:54] mummana:  in the same app at some elements tap getsure is working fine
+[2013-09-27 14:20:14] mummana: y this is happenng?
+[2013-09-27 14:20:43] ddary: i have this seen sometimes but have no explanation for that
+[2013-09-27 14:20:54] mummana: :(
+[2013-09-27 14:21:04] ddary: click and tap are in the end the same, but still behave the differently
+[2013-09-27 14:21:45] ddary: So, if you know someone with deep knowledge about motion events, please let me know ;-)
+[2013-09-27 14:21:55] mummana: well will this  issue be solved?? in later editions?
+[2013-09-27 14:21:57] mummana: LOL
+[2013-09-27 14:22:04] mummana: hmmm well surely
+[2013-09-27 14:22:32] ddary: if I know how to fix it, there is no reason not to fix it, right?
+[2013-09-27 14:23:12] mummana: well i ave another question
+[2013-09-27 14:23:17] mummana: *have
+[2013-09-27 14:24:14] mummana: i have a list with many fruit items
+[2013-09-27 14:24:48] mummana: i want to scroll ,find the required fruit and has to click on it , is there any function ?
