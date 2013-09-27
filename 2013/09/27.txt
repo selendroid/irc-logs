@@ -51,3 +51,21 @@
 [2013-09-27 14:23:17] mummana: *have
 [2013-09-27 14:24:14] mummana: i have a list with many fruit items
 [2013-09-27 14:24:48] mummana: i want to scroll ,find the required fruit and has to click on it , is there any function ?
+[2013-09-27 14:25:11] ddary: what android element do you talk about?
+[2013-09-27 14:25:14] ddary: ListView?
+[2013-09-27 14:25:24] mummana: yup listview
+[2013-09-27 14:26:06] ddary: you have to write it on your own: find element, if nothing is there, scroll down, find element, scroll down
+[2013-09-27 14:26:23] ddary: sounds weird, but currently there is no other way to do it
+[2013-09-27 14:26:36] mummana: i have seen scroll in touch actions will it work ? i mean u havent mention scroll gesture in ur website rite?
+[2013-09-27 14:26:51] ddary: would recommend to use flick
+[2013-09-27 14:27:00] ddary: that was working fine in my context
+[2013-09-27 14:27:06] mummana: u mean while loop with flick?
+[2013-09-27 14:27:35] ddary: something like that
+[2013-09-27 14:27:57] mummana: well in  flick(WebElement onElement, int xOffset, int yOffset, int speed)
+[2013-09-27 14:27:58] ddary: I had done it for my company, but not able to share the code
+[2013-09-27 14:28:19] mummana: yea sure its oki e
+[2013-09-27 14:28:30] mummana: wt is xoffset and yoffset?
+[2013-09-27 14:28:50] ddary: http://selendroid.io/gestures.html
+[2013-09-27 14:28:54] ddary: there is an example
+[2013-09-27 14:28:54] mummana: i mean from where i can get those values?
+[2013-09-27 14:29:56] ddary: the sample is about to flick to the left by 100 px
