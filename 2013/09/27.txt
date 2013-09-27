@@ -14,3 +14,7 @@
 [2013-09-27 09:55:39] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/nOJAeA
 [2013-09-27 09:55:39] selendroid-git: selendroid/gh-pages 6aea50a Dominik Dary: adding inspector animated gif
 [2013-09-27 09:55:39] selendroid-git, leaving. (#selendroid)
+[2013-09-27 11:49:37] selendroid-git, joining. (#selendroid)
+[2013-09-27 11:49:38] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/xM7n2g
+[2013-09-27 11:49:38] selendroid-git: selendroid/gh-pages d668093 Dominik Dary: adding key features of selendroid to the main landing page.
+[2013-09-27 11:49:38] selendroid-git, leaving. (#selendroid)
