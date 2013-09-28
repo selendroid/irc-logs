@@ -23,3 +23,5 @@
 [2013-09-28 13:41:48] chhsiung, joining. (#selendroid)
 [2013-09-28 13:45:58] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-09-28 14:03:53] chhsiung, joining. (#selendroid)
+[2013-09-28 14:57:16] neeraj, joining. (#selendroid)
+[2013-09-28 14:58:00] neeraj, quitting. (Client Quit)
