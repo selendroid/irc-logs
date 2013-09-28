@@ -48,3 +48,4 @@
 [2013-09-28 19:48:59] neeraj, quitting. (Quit: Page closed)
 [2013-09-28 20:05:59] chhsiung, joining. (#selendroid)
 [2013-09-28 20:10:08] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-09-28 20:36:08] chhsiung, joining. (#selendroid)
