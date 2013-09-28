@@ -35,3 +35,4 @@
 [2013-09-28 16:44:09] neeraj: and whenver i was trying to run the code, on emulator or on device getting this error
 [2013-09-28 16:44:20] neeraj: org.openqa.selenium.SessionNotCreatedException: An error occured while building the selendroid-server.apk for aut 'io.selendroid.android.impl.DefaultAndroidApp@1de9ac4': For input string: "Honeycomb"
 [2013-09-28 16:44:44] neeraj: did not found any link on google too
+[2013-09-28 16:45:15] neeraj: Can please any one tell me what was the issue
