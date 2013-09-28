@@ -37,3 +37,4 @@
 [2013-09-28 16:44:44] neeraj: did not found any link on google too
 [2013-09-28 16:45:15] neeraj: Can please any one tell me what was the issue
 [2013-09-28 17:32:59] neeraj, quitting. (Ping timeout: 250 seconds)
+[2013-09-28 17:47:49] neeraj, joining. (#selendroid)
