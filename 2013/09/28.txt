@@ -3,3 +3,6 @@
 [2013-09-28 08:24:34] chhsiung, quitting. (Quit: Leaving.)
 [2013-09-28 08:54:55] chhsiung, joining. (#selendroid)
 [2013-09-28 08:59:43] smccarthy, quitting. (Remote host closed the connection)
+[2013-09-28 09:28:05] jusfreeman_, joining. (#selendroid)
+[2013-09-28 09:29:24] jusfreeman, quitting. (Ping timeout: 256 seconds)
+[2013-09-28 09:29:24] jusfreeman_, changing nick to jusfreeman.
