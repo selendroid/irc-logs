@@ -52,3 +52,4 @@
 [2013-09-29 14:46:55] chhsiung, joining. (#selendroid)
 [2013-09-29 19:40:51] Ahmed__, joining. (#selendroid)
 [2013-09-29 19:57:07] Ahmed__, quitting. (Quit: Page closed)
+[2013-09-29 22:31:02] jusfreeman, joining. (#selendroid)
