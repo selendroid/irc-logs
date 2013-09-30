@@ -18,3 +18,4 @@
 [2013-09-30 10:51:34] mummana: ???????????
 [2013-09-30 10:51:44] mummana: i dint get it ???
 [2013-09-30 10:53:09] mummana: i mean i jusz imported selendroid jar thats it
+[2013-09-30 10:56:05] chhsiung, joining. (#selendroid)
