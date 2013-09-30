@@ -10,3 +10,8 @@
 [2013-09-30 10:25:17] mummana: anyone there ????????????????????????????
 [2013-09-30 10:25:54] chhsiung, joining. (#selendroid)
 [2013-09-30 10:30:08] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-09-30 10:43:10] ddary_, joining. (#selendroid)
+[2013-09-30 10:44:23] ddary_: selendroid is based on selenium 2.35
+[2013-09-30 10:44:46] ddary_: maybe you have to reorganize your import
+[2013-09-30 10:44:59] ddary, quitting. (*.net *.split)
+[2013-09-30 10:44:59] ddary_, changing nick to ddary.
