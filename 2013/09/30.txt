@@ -15,3 +15,6 @@
 [2013-09-30 10:44:46] ddary_: maybe you have to reorganize your import
 [2013-09-30 10:44:59] ddary, quitting. (*.net *.split)
 [2013-09-30 10:44:59] ddary_, changing nick to ddary.
+[2013-09-30 10:51:34] mummana: ???????????
+[2013-09-30 10:51:44] mummana: i dint get it ???
+[2013-09-30 10:53:09] mummana: i mean i jusz imported selendroid jar thats it
