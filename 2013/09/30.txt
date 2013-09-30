@@ -38,3 +38,4 @@
 [2013-09-30 17:47:41] operatiay, quitting. (Remote host closed the connection)
 [2013-09-30 17:48:19] lukeis, quitting. (Quit: Leaving.)
 [2013-09-30 17:50:55] lukeis, joining. (#selendroid)
+[2013-09-30 18:07:19] chhsiung, joining. (#selendroid)
