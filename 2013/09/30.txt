@@ -3,3 +3,7 @@
 [2013-09-30 08:29:43] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-09-30 08:59:13] ddary, joining. (#selendroid)
 [2013-09-30 09:32:51] operatiay, joining. (#selendroid)
+[2013-09-30 09:36:29] mummana, joining. (#selendroid)
+[2013-09-30 09:36:51] mummana: why i am getting this error          java.lang.ClassCastException: io.selendroid.SelendroidDriver cannot be cast to org.openqa.selenium.HasTouchScreen
+[2013-09-30 09:36:58] mummana: please help me
+[2013-09-30 09:39:56] mummana: @ddary help me :)
