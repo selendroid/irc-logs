@@ -33,3 +33,4 @@
 [2013-09-30 16:48:51] ddary, joining. (#selendroid)
 [2013-09-30 17:16:37] operatiay, joining. (#selendroid)
 [2013-09-30 17:18:42] ddary, quitting. (Quit: ddary)
+[2013-09-30 17:31:08] chhsiung, quitting. (Quit: Leaving.)
