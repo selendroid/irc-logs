@@ -21,3 +21,4 @@
 [2013-10-01 09:17:26] ddary, quitting. (Quit: ddary)
 [2013-10-01 09:59:07] jusfreeman, quitting. (Ping timeout: 260 seconds)
 [2013-10-01 10:09:32] ddary, joining. (#selendroid)
+[2013-10-01 10:44:08] ddary, quitting. (Quit: ddary)
