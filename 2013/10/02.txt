@@ -2,3 +2,6 @@
 [2013-10-02 00:35:00] operatiay, joining. (#selendroid)
 [2013-10-02 00:39:09] operatiay, quitting. (Ping timeout: 240 seconds)
 [2013-10-02 00:40:02] jusfreeman, quitting. (Quit: jusfreeman)
+[2013-10-02 00:57:04] jusfreeman, joining. (#selendroid)
+[2013-10-02 00:58:09] lukeis, quitting. (Quit: Leaving.)
+[2013-10-02 00:59:51] chhsiung, quitting. (Quit: Leaving.)
