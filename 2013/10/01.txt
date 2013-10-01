@@ -48,3 +48,4 @@
 [2013-10-01 23:09:59] chhsiung, joining. (#selendroid)
 [2013-10-01 23:12:03] Ahmed__, quitting. (Quit: Page closed)
 [2013-10-01 23:32:07] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-01 23:56:51] smccarthy, quitting. (Remote host closed the connection)
