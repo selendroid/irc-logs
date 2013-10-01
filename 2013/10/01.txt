@@ -11,3 +11,4 @@
 [2013-10-01 02:09:52] devgeeks, joining. (#selendroid)
 [2013-10-01 02:35:02] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-01 02:52:40] devgeeks, leaving. (#selendroid)
+[2013-10-01 03:14:09] chhsiung, joining. (#selendroid)
