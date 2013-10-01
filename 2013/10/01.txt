@@ -9,3 +9,4 @@
 [2013-10-01 00:51:01] Ahmed__, quitting. (Ping timeout: 250 seconds)
 [2013-10-01 01:02:31] lukeis, quitting. (Quit: Leaving.)
 [2013-10-01 02:09:52] devgeeks, joining. (#selendroid)
+[2013-10-01 02:35:02] chhsiung, quitting. (Quit: Leaving.)
