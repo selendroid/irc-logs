@@ -28,3 +28,4 @@
 [2013-10-01 11:14:22] ddary, joining. (#selendroid)
 [2013-10-01 14:02:41] chhsiung, joining. (#selendroid)
 [2013-10-01 15:18:38] ddary, quitting. (Quit: ddary)
+[2013-10-01 16:34:06] operatiay, quitting. (Remote host closed the connection)
