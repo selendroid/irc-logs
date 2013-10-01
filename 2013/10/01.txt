@@ -42,3 +42,4 @@
 [2013-10-01 21:27:06] lukeis, quitting. (Ping timeout: 264 seconds)
 [2013-10-01 21:44:32] lukeis, joining. (#selendroid)
 [2013-10-01 22:02:32] jusfreeman, joining. (#selendroid)
+[2013-10-01 22:18:36] smccarthy, joining. (#selendroid)
