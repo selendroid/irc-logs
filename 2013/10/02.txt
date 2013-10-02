@@ -20,3 +20,4 @@
 [2013-10-02 08:26:13] selendroidbot, joining. (#selendroid)
 [2013-10-02 08:26:18] ddary: :spec
 [2013-10-02 09:19:59] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-02 10:08:12] jusfreeman, quitting. (Quit: jusfreeman)
