@@ -43,3 +43,4 @@
 [2013-10-02 14:35:59] operatiay, quitting. (Read error: Operation timed out)
 [2013-10-02 14:56:11] ddary, joining. (#selendroid)
 [2013-10-02 15:13:58] ddary, quitting. (Quit: ddary)
+[2013-10-02 16:01:26] chhsiung, quitting. (Quit: Leaving.)
