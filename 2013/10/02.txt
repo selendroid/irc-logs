@@ -17,3 +17,5 @@
 [2013-10-02 08:22:59] ddary, joining. (#selendroid)
 [2013-10-02 08:24:50] selendroidbot, joining. (#selendroid)
 [2013-10-02 08:24:55] ddary: :spec
+[2013-10-02 08:26:13] selendroidbot, joining. (#selendroid)
+[2013-10-02 08:26:18] ddary: :spec
