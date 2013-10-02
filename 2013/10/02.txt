@@ -12,3 +12,8 @@
 [2013-10-02 06:20:33] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-02 06:35:52] operatiay, joining. (#selendroid)
 [2013-10-02 06:40:21] operatiay, quitting. (Ping timeout: 252 seconds)
+[2013-10-02 08:21:46] ddary, joining. (#selendroid)
+[2013-10-02 08:21:53] ddary, quitting. (Client Quit)
+[2013-10-02 08:22:59] ddary, joining. (#selendroid)
+[2013-10-02 08:24:50] selendroidbot, joining. (#selendroid)
+[2013-10-02 08:24:55] ddary: :spec
