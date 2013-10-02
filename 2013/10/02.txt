@@ -39,3 +39,4 @@
 [2013-10-02 14:25:24] ddary, quitting. (Quit: ddary)
 [2013-10-02 14:26:52] ddary, joining. (#selendroid)
 [2013-10-02 14:29:22] ddary, quitting. (Client Quit)
+[2013-10-02 14:34:38] operatia_, joining. (#selendroid)
