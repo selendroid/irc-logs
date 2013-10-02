@@ -30,3 +30,5 @@
 [2013-10-02 12:43:28] ddary, quitting. (Ping timeout: 245 seconds)
 [2013-10-02 12:43:28] ddary_, changing nick to ddary.
 [2013-10-02 13:10:57] operatiay, quitting. (Remote host closed the connection)
+[2013-10-02 13:16:15] ddary, quitting. (Quit: ddary)
+[2013-10-02 13:19:06] ddary, joining. (#selendroid)
