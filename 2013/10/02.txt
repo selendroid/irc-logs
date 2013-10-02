@@ -41,3 +41,4 @@
 [2013-10-02 14:29:22] ddary, quitting. (Client Quit)
 [2013-10-02 14:34:38] operatia_, joining. (#selendroid)
 [2013-10-02 14:35:59] operatiay, quitting. (Read error: Operation timed out)
+[2013-10-02 14:56:11] ddary, joining. (#selendroid)
