@@ -15,3 +15,4 @@
 [2013-10-03 11:36:45] operatia_, quitting. (Remote host closed the connection)
 [2013-10-03 11:41:45] operatiay, joining. (#selendroid)
 [2013-10-03 11:58:05] operatiay, quitting. (Remote host closed the connection)
+[2013-10-03 12:12:56] operatiay, joining. (#selendroid)
