@@ -7,3 +7,4 @@
 [2013-10-03 04:04:31] TheoHuang: Hi all
 [2013-10-03 06:28:35] chhsiung, joining. (#selendroid)
 [2013-10-03 07:13:37] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-03 07:59:23] smccarthy, quitting. (Remote host closed the connection)
