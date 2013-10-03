@@ -29,3 +29,4 @@
 [2013-10-03 17:18:49] lukeis, joining. (#selendroid)
 [2013-10-03 17:25:05] operatiay, quitting. (Remote host closed the connection)
 [2013-10-03 17:28:24] operatia_, joining. (#selendroid)
+[2013-10-03 17:55:08] smccarthy, quitting. (Remote host closed the connection)
