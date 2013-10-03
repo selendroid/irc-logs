@@ -39,3 +39,4 @@
 [2013-10-03 20:01:15] chhsiung, joining. (#selendroid)
 [2013-10-03 21:14:28] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-03 21:16:50] chhsiung, joining. (#selendroid)
+[2013-10-03 21:48:59] smccarthy, joining. (#selendroid)
