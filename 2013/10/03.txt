@@ -8,3 +8,5 @@
 [2013-10-03 06:28:35] chhsiung, joining. (#selendroid)
 [2013-10-03 07:13:37] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-03 07:59:23] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-03 10:27:26] TheoHuang, quitting. (Quit: Page closed)
+[2013-10-03 10:29:18] operatiay, joining. (#selendroid)
