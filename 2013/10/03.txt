@@ -34,3 +34,6 @@
 [2013-10-03 19:52:39] smccarthy, joining. (#selendroid)
 [2013-10-03 19:55:06] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-03 19:59:12] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-03 20:00:08] chhsiung, joining. (#selendroid)
+[2013-10-03 20:00:20] chhsiung, quitting. (Client Quit)
+[2013-10-03 20:01:15] chhsiung, joining. (#selendroid)
