@@ -45,3 +45,4 @@
 [2013-10-04 16:53:16] smccarthy, joining. (#selendroid)
 [2013-10-04 17:45:53] lukeis, joining. (#selendroid)
 [2013-10-04 18:40:00] chhsiung, quitting. (Remote host closed the connection)
+[2013-10-04 18:43:30] chhsiung, joining. (#selendroid)
