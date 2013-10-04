@@ -41,3 +41,4 @@
 [2013-10-04 15:57:42] chhsiung1, quitting. (Quit: Leaving.)
 [2013-10-04 16:10:51] chhsiung, joining. (#selendroid)
 [2013-10-04 16:11:46] chhsiung, quitting. (Client Quit)
+[2013-10-04 16:41:02] chhsiung, joining. (#selendroid)
