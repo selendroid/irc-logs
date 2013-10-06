@@ -3,3 +3,4 @@
 [2013-10-06 16:13:22] pete1234: :log
 [2013-10-06 16:15:23] pete1234, quitting. (Client Quit)
 [2013-10-06 19:10:36] smccarthy, joining. (#selendroid)
+[2013-10-06 21:16:23] smccarthy, quitting. (Remote host closed the connection)
