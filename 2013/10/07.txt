@@ -39,3 +39,8 @@
 [2013-10-07 19:30:01] smccarthy2, quitting. (Read error: Connection reset by peer)
 [2013-10-07 19:30:13] smccarthy2, joining. (#selendroid)
 [2013-10-07 19:31:50] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2013-10-07 19:35:30] travis-ci, joining. (#selendroid)
+[2013-10-07 19:35:30] travis-ci: [travis-ci] selendroid/selendroid#188 (master - 94d772b : Dominik Dary): The build was fixed.
+[2013-10-07 19:35:30] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/393be27c3a05...94d772b99e8f
+[2013-10-07 19:35:30] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/12240589
+[2013-10-07 19:35:30] travis-ci, leaving. (#selendroid)
