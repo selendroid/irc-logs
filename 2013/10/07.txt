@@ -29,3 +29,11 @@
 [2013-10-07 17:17:48] smccarthy, joining. (#selendroid)
 [2013-10-07 17:44:56] lukeis, joining. (#selendroid)
 [2013-10-07 18:28:26] operatiay, quitting. (Remote host closed the connection)
+[2013-10-07 19:28:25] selendroid-git, joining. (#selendroid)
+[2013-10-07 19:28:25] selendroid-git: [selendroid] DominikDary pushed 14 new commits to master: http://git.io/QFef9A
+[2013-10-07 19:28:25] selendroid-git: selendroid/master cb22072 Ahmed Ibrahim:  adding -selendroidServerPort option | appending the package name of the tested app to the package name of the server app
+[2013-10-07 19:28:25] selendroid-git: selendroid/master 0c1c901 Ahmed Ibrahim: Merge branch 'master' of https://github.com/selendroid/selendroid into apps
+[2013-10-07 19:28:25] selendroid-git: selendroid/master d836a31 Ahmed Ibrahim: Merge branch 'master' of https://github.com/selendroid/selendroid into apps
+[2013-10-07 19:28:25] selendroid-git, leaving. (#selendroid)
+[2013-10-07 19:28:28] smccarthy2, joining. (#selendroid)
+[2013-10-07 19:30:01] smccarthy2, quitting. (Read error: Connection reset by peer)
