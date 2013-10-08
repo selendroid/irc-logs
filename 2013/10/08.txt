@@ -36,3 +36,4 @@
 [2013-10-08 11:03:03] mummana: hie
 [2013-10-08 11:17:53] chhsiung, joining. (#selendroid)
 [2013-10-08 11:22:13] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-10-08 11:31:24] mummana: i want to write the code in python is it possible?
