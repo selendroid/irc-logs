@@ -67,3 +67,5 @@
 [2013-10-08 17:41:56] lukeis, joining. (#selendroid)
 [2013-10-08 17:44:09] smccarthy, joining. (#selendroid)
 [2013-10-08 17:45:42] operatiay, joining. (#selendroid)
+[2013-10-08 19:25:05] jlipps, joining. (#selendroid)
+[2013-10-08 19:29:37] operatiay, quitting. (Remote host closed the connection)
