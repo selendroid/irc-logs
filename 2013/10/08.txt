@@ -52,3 +52,10 @@
 [2013-10-08 13:54:43] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-08 13:59:13] operatiay, quitting. (Remote host closed the connection)
 [2013-10-08 14:16:19] chhsiung, joining. (#selendroid)
+[2013-10-08 15:05:42] operatiay, joining. (#selendroid)
+[2013-10-08 15:06:05] mummana: hieeeee anyone there?
+[2013-10-08 15:07:08] operatiay, quitting. (Remote host closed the connection)
+[2013-10-08 15:07:37] mummana, quitting. (Quit: Page closed)
+[2013-10-08 15:07:41] operatiay, joining. (#selendroid)
+[2013-10-08 15:07:54] operatiay, quitting. (Read error: Connection reset by peer)
+[2013-10-08 15:08:26] operatiay, joining. (#selendroid)
