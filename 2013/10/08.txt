@@ -44,3 +44,4 @@
 [2013-10-08 12:42:45] mummana, quitting. (Ping timeout: 250 seconds)
 [2013-10-08 12:44:03] mummana, joining. (#selendroid)
 [2013-10-08 12:44:36] mummana: hie guys i want to write the selendroid code in python is it possible?
+[2013-10-08 12:49:17] chhsiung, joining. (#selendroid)
