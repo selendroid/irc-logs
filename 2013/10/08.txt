@@ -39,3 +39,4 @@
 [2013-10-08 11:31:24] mummana: i want to write the code in python is it possible?
 [2013-10-08 11:48:24] chhsiung, joining. (#selendroid)
 [2013-10-08 11:52:38] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-10-08 12:18:37] chhsiung, joining. (#selendroid)
