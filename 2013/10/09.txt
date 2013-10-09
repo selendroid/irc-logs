@@ -46,3 +46,4 @@
 [2013-10-09 17:31:21] chhsiung, joining. (#selendroid)
 [2013-10-09 17:50:57] lukeis, joining. (#selendroid)
 [2013-10-09 18:23:55] jlipps, quitting. (Quit: Leaving.)
+[2013-10-09 18:25:16] chhsiung, quitting. (Quit: Leaving.)
