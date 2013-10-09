@@ -23,3 +23,6 @@
 [2013-10-09 10:33:46] travis-ci, leaving. (#selendroid)
 [2013-10-09 10:36:22] operatiay, joining. (#selendroid)
 [2013-10-09 10:38:48] operatiay, quitting. (Remote host closed the connection)
+[2013-10-09 11:35:47] operatiay, joining. (#selendroid)
+[2013-10-09 11:37:58] operatiay, quitting. (Remote host closed the connection)
+[2013-10-09 11:39:52] operatia_, joining. (#selendroid)
