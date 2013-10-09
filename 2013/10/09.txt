@@ -21,3 +21,5 @@
 [2013-10-09 10:33:46] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/94d772b99e8f...781a53d49a7e
 [2013-10-09 10:33:46] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/12310093
 [2013-10-09 10:33:46] travis-ci, leaving. (#selendroid)
+[2013-10-09 10:36:22] operatiay, joining. (#selendroid)
+[2013-10-09 10:38:48] operatiay, quitting. (Remote host closed the connection)
