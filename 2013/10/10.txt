@@ -69,3 +69,5 @@
 [2013-10-10 20:17:08] mummana_, quitting. (Quit: Page closed)
 [2013-10-10 20:24:36] mummana, joining. (#selendroid)
 [2013-10-10 20:25:35] mummana, quitting. (Client Quit)
+[2013-10-10 21:35:42] operatiay, joining. (#selendroid)
+[2013-10-10 21:37:08] operatiay, quitting. (Remote host closed the connection)
