@@ -40,3 +40,12 @@
 [2013-10-10 15:58:49] chhsiung, joining. (#selendroid)
 [2013-10-10 16:00:28] chhsiung, quitting. (Client Quit)
 [2013-10-10 16:02:00] ddary: :note mummana_ I was was able to wait for toast messages but it seems like other have issues
+[2013-10-10 16:17:08] selendroid-git, joining. (#selendroid)
+[2013-10-10 16:17:08] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/2TjIZA
+[2013-10-10 16:17:08] selendroid-git: selendroid/gh-pages 801959c Dominik Dary: Update architecture.html
+[2013-10-10 16:17:08] selendroid-git, leaving. (#selendroid)
+[2013-10-10 16:17:29] operatiay, joining. (#selendroid)
+[2013-10-10 16:17:47] selendroid-git, joining. (#selendroid)
+[2013-10-10 16:17:47] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/8XpzKQ
+[2013-10-10 16:17:47] selendroid-git: selendroid/gh-pages c991f58 Dominik Dary: Update architecture.html
+[2013-10-10 16:17:47] selendroid-git, leaving. (#selendroid)
