@@ -36,3 +36,5 @@
 [2013-10-10 15:42:42] mummana_, joining. (#selendroid)
 [2013-10-10 15:43:15] mummana_: hie can selendroid can handle toasts?
 [2013-10-10 15:52:15] mummana_: hie
+[2013-10-10 15:55:15] mummana_, quitting. (Quit: Page closed)
+[2013-10-10 15:58:49] chhsiung, joining. (#selendroid)
