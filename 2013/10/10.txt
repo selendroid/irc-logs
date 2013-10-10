@@ -31,3 +31,5 @@
 [2013-10-10 15:15:44] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-10 15:24:03] operatiay, quitting. (Remote host closed the connection)
 [2013-10-10 15:24:36] operatiay, joining. (#selendroid)
+[2013-10-10 15:28:33] ddary, joining. (#selendroid)
+[2013-10-10 15:29:04] operatiay, quitting. (Ping timeout: 248 seconds)
