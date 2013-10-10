@@ -4,3 +4,4 @@
 [2013-10-11 00:32:30] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-11 00:50:41] chhsiung, joining. (#selendroid)
 [2013-10-11 01:22:14] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-11 01:36:58] chhsiung, quitting. (Quit: Leaving.)
