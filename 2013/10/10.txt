@@ -49,3 +49,4 @@
 [2013-10-10 16:17:47] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/8XpzKQ
 [2013-10-10 16:17:47] selendroid-git: selendroid/gh-pages c991f58 Dominik Dary: Update architecture.html
 [2013-10-10 16:17:47] selendroid-git, leaving. (#selendroid)
+[2013-10-10 16:54:15] chhsiung, joining. (#selendroid)
