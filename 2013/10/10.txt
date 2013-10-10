@@ -65,3 +65,4 @@
 [2013-10-10 19:12:41] operatiay, quitting. (Ping timeout: 245 seconds)
 [2013-10-10 19:58:50] mummana_, joining. (#selendroid)
 [2013-10-10 19:59:05] mummana_: hiee
+[2013-10-10 20:01:10] mummana_: hie lipps can i automate chrome using selendroid?
