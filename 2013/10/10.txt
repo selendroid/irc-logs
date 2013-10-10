@@ -33,3 +33,5 @@
 [2013-10-10 15:24:36] operatiay, joining. (#selendroid)
 [2013-10-10 15:28:33] ddary, joining. (#selendroid)
 [2013-10-10 15:29:04] operatiay, quitting. (Ping timeout: 248 seconds)
+[2013-10-10 15:42:42] mummana_, joining. (#selendroid)
+[2013-10-10 15:43:15] mummana_: hie can selendroid can handle toasts?
