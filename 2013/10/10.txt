@@ -38,3 +38,5 @@
 [2013-10-10 15:52:15] mummana_: hie
 [2013-10-10 15:55:15] mummana_, quitting. (Quit: Page closed)
 [2013-10-10 15:58:49] chhsiung, joining. (#selendroid)
+[2013-10-10 16:00:28] chhsiung, quitting. (Client Quit)
+[2013-10-10 16:02:00] ddary: :note mummana_ I was was able to wait for toast messages but it seems like other have issues
