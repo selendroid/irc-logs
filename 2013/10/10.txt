@@ -67,3 +67,4 @@
 [2013-10-10 19:59:05] mummana_: hiee
 [2013-10-10 20:01:10] mummana_: hie lipps can i automate chrome using selendroid?
 [2013-10-10 20:17:08] mummana_, quitting. (Quit: Page closed)
+[2013-10-10 20:24:36] mummana, joining. (#selendroid)
