@@ -91,3 +91,6 @@
 [2013-10-11 11:43:44] operatiay, joining. (#selendroid)
 [2013-10-11 12:22:58] operatiay, quitting. (Remote host closed the connection)
 [2013-10-11 12:27:27] operatiay, joining. (#selendroid)
+[2013-10-11 12:55:03] chhsiung, joining. (#selendroid)
+[2013-10-11 12:55:42] chhsiung1, joining. (#selendroid)
+[2013-10-11 12:55:42] chhsiung, quitting. (Read error: Connection reset by peer)
