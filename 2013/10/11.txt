@@ -86,3 +86,4 @@
 [2013-10-11 10:58:03] ddary: it is java ;-)
 [2013-10-11 10:59:16] ddary: http://stackoverflow.com/questions/3652554/calling-java-from-python
 [2013-10-11 11:18:37] ddary, quitting. (Quit: ddary)
+[2013-10-11 11:22:45] operatiay, quitting. (Remote host closed the connection)
