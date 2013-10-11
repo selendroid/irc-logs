@@ -11,3 +11,5 @@
 [2013-10-11 06:14:54] chhsiung, joining. (#selendroid)
 [2013-10-11 06:48:40] mummana, joining. (#selendroid)
 [2013-10-11 06:49:53] mummana: hi will selendroid will allow me to write in python language?
+[2013-10-11 06:51:13] mummana, quitting. (Client Quit)
+[2013-10-11 06:52:16] chhsiung, quitting. (Quit: Leaving.)
