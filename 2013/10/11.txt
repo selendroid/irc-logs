@@ -79,3 +79,9 @@
 [2013-10-11 10:46:29] mummana: he never responds
 [2013-10-11 10:47:39] mummana: can i post that as an issue in github?
 [2013-10-11 10:53:05] ddary: i would use a shell script ...
+[2013-10-11 10:55:06] mummana: no actually that is nott the question
+[2013-10-11 10:55:41] mummana: in java instad of starting the sever manaully  ihave used this code
+[2013-10-11 10:56:00] mummana: config.addSupportedApp(apppath); 		config.setVerbose(true); 		config.setDeviceScreenshot(true); 		config.setTimeoutEmulatorStart(500000); 		config.setPort(Integer.parseInt(port)); 	server =new SelendroidStandaloneServer(config); 		server.start();
+[2013-10-11 10:57:07] mummana: similarly if i want to use in python i have to imprt selendroid rite? but it is not availble
+[2013-10-11 10:58:03] ddary: it is java ;-)
+[2013-10-11 10:59:16] ddary: http://stackoverflow.com/questions/3652554/calling-java-from-python
