@@ -8,3 +8,4 @@
 [2013-10-11 04:14:10] jlipps, quitting. (Quit: Leaving.)
 [2013-10-11 05:10:57] mummana, joining. (#selendroid)
 [2013-10-11 05:11:33] mummana, quitting. (Client Quit)
+[2013-10-11 06:14:54] chhsiung, joining. (#selendroid)
