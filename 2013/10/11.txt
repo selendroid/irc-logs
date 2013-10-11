@@ -45,3 +45,9 @@
 [2013-10-11 08:08:11] mummana: that gits i my code please look at it
 [2013-10-11 08:09:00] ddary: can you see something in the console of the standalone server?
 [2013-10-11 08:09:26] ddary: you need to start it first manually
+[2013-10-11 08:11:29] mummana: i did same as in java
+[2013-10-11 08:11:38] mummana: started the server manually
+[2013-10-11 08:11:50] mummana: my aut id is com.fitness:2.0
+[2013-10-11 08:12:10] mummana: then wrte the code u can view in that gist
+[2013-10-11 08:12:37] mummana: and ran it but it doesnt show anything even the emultor is not launched
+[2013-10-11 08:14:58] ddary: if you cannot see any activity in the server shell, the python test is doing something wrong
