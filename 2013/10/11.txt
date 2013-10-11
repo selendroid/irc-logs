@@ -52,3 +52,8 @@
 [2013-10-11 08:12:37] mummana: and ran it but it doesnt show anything even the emultor is not launched
 [2013-10-11 08:14:58] ddary: if you cannot see any activity in the server shell, the python test is doing something wrong
 [2013-10-11 08:17:37] mummana: can uh please look at my code once please???
+[2013-10-11 08:20:08] ddary: I don't see there an error
+[2013-10-11 08:20:21] ddary: that is why I'm npt talking about it
+[2013-10-11 08:23:29] mummana: well even i dnt know if i put that code in class than it is not working
+[2013-10-11 08:23:43] chhsiung, joining. (#selendroid)
+[2013-10-11 08:23:49] mummana: if i wrte without class than its working fine
