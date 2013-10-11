@@ -74,3 +74,4 @@
 [2013-10-11 10:36:47] operatiay, joining. (#selendroid)
 [2013-10-11 10:38:36] mummana: hie i have started the server using selendroidserver.start() in java instaed of satring it manually
 [2013-10-11 10:39:02] mummana: wt to do if i want to start with python
+[2013-10-11 10:40:37] ddary: pls ask lukeis, he is the python expert ;-)
