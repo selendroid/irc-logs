@@ -57,3 +57,6 @@
 [2013-10-11 08:23:29] mummana: well even i dnt know if i put that code in class than it is not working
 [2013-10-11 08:23:43] chhsiung, joining. (#selendroid)
 [2013-10-11 08:23:49] mummana: if i wrte without class than its working fine
+[2013-10-11 08:27:57] ddary: you have no test method, i guess that is the issue
+[2013-10-11 08:28:03] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-10-11 08:29:19] ddary: that one works fine for me: https://gist.github.com/DominikDary/6930396
