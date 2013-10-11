@@ -51,3 +51,4 @@
 [2013-10-11 08:12:10] mummana: then wrte the code u can view in that gist
 [2013-10-11 08:12:37] mummana: and ran it but it doesnt show anything even the emultor is not launched
 [2013-10-11 08:14:58] ddary: if you cannot see any activity in the server shell, the python test is doing something wrong
+[2013-10-11 08:17:37] mummana: can uh please look at my code once please???
