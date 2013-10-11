@@ -66,3 +66,4 @@
 [2013-10-11 08:38:50] selendroid-git, leaving. (#selendroid)
 [2013-10-11 08:41:01] mummana: but atleast app has to get launched rite?
 [2013-10-11 08:43:42] ddary: my test from the gist passes with an OK
+[2013-10-11 08:53:05] mummana: oki oki
