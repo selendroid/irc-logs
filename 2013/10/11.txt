@@ -34,3 +34,6 @@
 [2013-10-11 07:43:35] ddary: start the seelndroid-standalone and then run the py file
 [2013-10-11 07:45:40] ddary, quitting. (Quit: ddary)
 [2013-10-11 07:47:26] ddary, joining. (#selendroid)
+[2013-10-11 07:57:39] mummana: its not working :(
+[2013-10-11 07:57:56] mummana: from selenium import webdriver import unittest class hello(unittest.TestCase):   def setUp(self):         self.d=webdriver.Remote(command_executor='http://127.0.0.1:5555/wd/hub',desired_capabilities={'aut': 'com.fitness:2.0'})  if __name__ == "__main__":         unittest.main()
+[2013-10-11 07:58:15] mummana: from selenium import webdriver import unittest
