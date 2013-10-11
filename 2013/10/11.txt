@@ -23,3 +23,12 @@
 [2013-10-11 07:36:52] ddary: but I have heard that some people do not find them
 [2013-10-11 07:37:48] mummana: thnq dary :) for the response i saw ur msg yesterday :)
 [2013-10-11 07:39:42] mummana: by the way my doubt is can i write my programs in python
+[2013-10-11 07:40:12] mummana: ???
+[2013-10-11 07:40:41] mummana: i mean i want to integrate selendroid with robotframework
+[2013-10-11 07:42:09] ddary: yes, python works fine
+[2013-10-11 07:42:41] ddary: in the interactive python shell I use mostly
+[2013-10-11 07:42:52] ddary: from selenium import webdriver;
+[2013-10-11 07:43:01] mummana: i mean how to do it? like slendroid jar and .py file?
+[2013-10-11 07:43:10] ddary: d=webdriver.Remote(command_executor='http://127.0.0.1:5555/wd/hub',desired_capabilities={'aut': 'io.selendroid.testapp:0.6.0-SNAPSHOT'})
+[2013-10-11 07:43:20] ddary: yeah
+[2013-10-11 07:43:35] ddary: start the seelndroid-standalone and then run the py file
