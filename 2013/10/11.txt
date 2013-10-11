@@ -64,3 +64,5 @@
 [2013-10-11 08:38:50] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/H-DzJg
 [2013-10-11 08:38:50] selendroid-git: selendroid/gh-pages 5b94656 Dominik Dary: Update setup.html
 [2013-10-11 08:38:50] selendroid-git, leaving. (#selendroid)
+[2013-10-11 08:41:01] mummana: but atleast app has to get launched rite?
+[2013-10-11 08:43:42] ddary: my test from the gist passes with an OK
