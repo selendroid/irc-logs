@@ -71,3 +71,6 @@
 [2013-10-11 09:28:28] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-11 10:24:43] chhsiung, joining. (#selendroid)
 [2013-10-11 10:24:48] chhsiung, quitting. (Read error: Connection reset by peer)
+[2013-10-11 10:36:47] operatiay, joining. (#selendroid)
+[2013-10-11 10:38:36] mummana: hie i have started the server using selendroidserver.start() in java instaed of satring it manually
+[2013-10-11 10:39:02] mummana: wt to do if i want to start with python
