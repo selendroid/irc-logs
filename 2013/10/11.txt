@@ -37,3 +37,5 @@
 [2013-10-11 07:57:39] mummana: its not working :(
 [2013-10-11 07:57:56] mummana: from selenium import webdriver import unittest class hello(unittest.TestCase):   def setUp(self):         self.d=webdriver.Remote(command_executor='http://127.0.0.1:5555/wd/hub',desired_capabilities={'aut': 'com.fitness:2.0'})  if __name__ == "__main__":         unittest.main()
 [2013-10-11 07:58:15] mummana: from selenium import webdriver import unittest
+[2013-10-11 08:01:12] mummana: i have made a gist please check it out
+[2013-10-11 08:01:13] mummana: https://gist.github.com/mummana/6930195
