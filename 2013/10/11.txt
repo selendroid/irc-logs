@@ -68,3 +68,4 @@
 [2013-10-11 08:43:42] ddary: my test from the gist passes with an OK
 [2013-10-11 08:53:05] mummana: oki oki
 [2013-10-11 09:24:07] chhsiung, joining. (#selendroid)
+[2013-10-11 09:28:28] chhsiung, quitting. (Ping timeout: 245 seconds)
