@@ -78,3 +78,4 @@
 [2013-10-11 10:45:53] mummana: he responds me :(
 [2013-10-11 10:46:29] mummana: he never responds
 [2013-10-11 10:47:39] mummana: can i post that as an issue in github?
+[2013-10-11 10:53:05] ddary: i would use a shell script ...
