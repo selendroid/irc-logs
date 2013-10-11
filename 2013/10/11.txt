@@ -116,3 +116,4 @@
 [2013-10-11 20:24:47] jlipps, quitting. (Remote host closed the connection)
 [2013-10-11 20:25:55] jlipps, joining. (#selendroid)
 [2013-10-11 21:31:04] jusfreeman, joining. (#selendroid)
+[2013-10-11 21:36:59] smccarthy, joining. (#selendroid)
