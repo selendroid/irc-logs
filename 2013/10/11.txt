@@ -6,3 +6,5 @@
 [2013-10-11 01:22:14] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-11 01:36:58] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-11 04:14:10] jlipps, quitting. (Quit: Leaving.)
+[2013-10-11 05:10:57] mummana, joining. (#selendroid)
+[2013-10-11 05:11:33] mummana, quitting. (Client Quit)
