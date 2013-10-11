@@ -16,3 +16,4 @@
 [2013-10-11 07:22:46] mummana, joining. (#selendroid)
 [2013-10-11 07:23:05] chhsiung, joining. (#selendroid)
 [2013-10-11 07:24:36] jusfreeman, leaving. (#selendroid)
+[2013-10-11 07:27:13] chhsiung, quitting. (Ping timeout: 245 seconds)
