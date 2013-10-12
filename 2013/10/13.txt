@@ -1,2 +1,3 @@
 [2013-10-13 00:15:19] jlipps, joining. (#selendroid)
 [2013-10-13 00:43:02] smccarthy, joining. (#selendroid)
+[2013-10-13 00:59:28] jlipps, quitting. (Quit: Leaving.)
