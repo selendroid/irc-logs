@@ -5,3 +5,4 @@
 [2013-10-13 02:09:54] jlipps, quitting. (Client Quit)
 [2013-10-13 09:06:36] smccarthy, quitting. (Read error: Connection reset by peer)
 [2013-10-13 17:07:19] smccarthy, joining. (#selendroid)
+[2013-10-13 19:54:04] smccarthy, quitting. (Remote host closed the connection)
