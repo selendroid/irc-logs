@@ -67,3 +67,8 @@
 [2013-10-14 18:43:20] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/f91c68b604ea...ee4260c4e3a9
 [2013-10-14 18:43:20] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/12527492
 [2013-10-14 18:43:20] travis-ci, leaving. (#selendroid)
+[2013-10-14 18:53:20] travis-ci, joining. (#selendroid)
+[2013-10-14 18:53:20] travis-ci: [travis-ci] selendroid/selendroid#190 (master - f91c68b : Dominik Dary): The build was broken.
+[2013-10-14 18:53:20] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/781a53d49a7e...f91c68b604ea
+[2013-10-14 18:53:20] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/12526111
+[2013-10-14 18:53:20] travis-ci, leaving. (#selendroid)
