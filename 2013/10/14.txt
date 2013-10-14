@@ -5,3 +5,7 @@
 [2013-10-14 04:59:38] smccarthy, joining. (#selendroid)
 [2013-10-14 06:09:40] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-14 08:18:04] ddary, joining. (#selendroid)
+[2013-10-14 10:10:15] selendroid-git, joining. (#selendroid)
+[2013-10-14 10:10:15] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/KoTClQ
+[2013-10-14 10:10:15] selendroid-git: selendroid/gh-pages b1ead7d Dominik Dary: adding sitemap
+[2013-10-14 10:10:15] selendroid-git, leaving. (#selendroid)
