@@ -9,3 +9,8 @@
 [2013-10-14 10:10:15] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/KoTClQ
 [2013-10-14 10:10:15] selendroid-git: selendroid/gh-pages b1ead7d Dominik Dary: adding sitemap
 [2013-10-14 10:10:15] selendroid-git, leaving. (#selendroid)
+[2013-10-14 10:47:11] operatiay, joining. (#selendroid)
+[2013-10-14 10:48:40] selendroid-git, joining. (#selendroid)
+[2013-10-14 10:48:40] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/hP5keg
+[2013-10-14 10:48:40] selendroid-git: selendroid/gh-pages 6f07c08 Dominik Dary: adding qr codes of apps
+[2013-10-14 10:48:40] selendroid-git, leaving. (#selendroid)
