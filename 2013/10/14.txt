@@ -14,3 +14,11 @@
 [2013-10-14 10:48:40] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/hP5keg
 [2013-10-14 10:48:40] selendroid-git: selendroid/gh-pages 6f07c08 Dominik Dary: adding qr codes of apps
 [2013-10-14 10:48:40] selendroid-git, leaving. (#selendroid)
+[2013-10-14 11:16:52] selendroid-git, joining. (#selendroid)
+[2013-10-14 11:16:52] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/3bgOwQ
+[2013-10-14 11:16:52] selendroid-git: selendroid/gh-pages ba1c67b Dominik Dary: Update architecture.html
+[2013-10-14 11:16:52] selendroid-git, leaving. (#selendroid)
+[2013-10-14 11:17:46] selendroid-git, joining. (#selendroid)
+[2013-10-14 11:17:46] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/jGlB-Q
+[2013-10-14 11:17:46] selendroid-git: selendroid/gh-pages 8684007 Dominik Dary: Update architecture.html
+[2013-10-14 11:17:46] selendroid-git, leaving. (#selendroid)
