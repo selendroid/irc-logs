@@ -62,3 +62,8 @@
 [2013-10-14 18:27:55] operatiay, joining. (#selendroid)
 [2013-10-14 18:32:19] operatiay, quitting. (Ping timeout: 260 seconds)
 [2013-10-14 18:36:58] ddary, quitting. (Quit: ddary)
+[2013-10-14 18:43:20] travis-ci, joining. (#selendroid)
+[2013-10-14 18:43:20] travis-ci: [travis-ci] selendroid/selendroid#191 (master - ee4260c : Dominik Dary): The build was fixed.
+[2013-10-14 18:43:20] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/f91c68b604ea...ee4260c4e3a9
+[2013-10-14 18:43:20] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/12527492
+[2013-10-14 18:43:20] travis-ci, leaving. (#selendroid)
