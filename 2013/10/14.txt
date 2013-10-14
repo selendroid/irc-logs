@@ -45,3 +45,7 @@
 [2013-10-14 17:32:08] operatiay, joining. (#selendroid)
 [2013-10-14 17:36:50] operatiay, quitting. (Ping timeout: 264 seconds)
 [2013-10-14 17:46:41] operatiay, joining. (#selendroid)
+[2013-10-14 17:54:30] selendroid-git, joining. (#selendroid)
+[2013-10-14 17:54:30] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/DRdDsA
+[2013-10-14 17:54:30] selendroid-git: selendroid/master f91c68b Dominik Dary: Moving to test framework junit. Added functionality to verify popup windows and to interact with the employee directory app (cordova app available under: https://github.com/DominikDary/employee-directory)
+[2013-10-14 17:54:30] selendroid-git, leaving. (#selendroid)
