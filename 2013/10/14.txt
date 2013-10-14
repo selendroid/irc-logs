@@ -2,3 +2,4 @@
 [2013-10-14 01:02:13] jusfreeman_, joining. (#selendroid)
 [2013-10-14 01:02:23] jusfreeman_, leaving. (#selendroid)
 [2013-10-14 01:04:38] jusfreeman, quitting. (Ping timeout: 240 seconds)
+[2013-10-14 04:59:38] smccarthy, joining. (#selendroid)
