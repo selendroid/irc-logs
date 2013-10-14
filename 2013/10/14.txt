@@ -77,3 +77,4 @@
 [2013-10-14 19:03:02] jlipps, joining. (#selendroid)
 [2013-10-14 21:24:29] jusfreeman, joining. (#selendroid)
 [2013-10-14 22:14:18] jusfreeman, quitting. (Quit: jusfreeman)
+[2013-10-14 22:39:01] jlipps, quitting. (Quit: Leaving.)
