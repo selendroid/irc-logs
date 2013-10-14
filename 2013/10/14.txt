@@ -49,3 +49,8 @@
 [2013-10-14 17:54:30] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/DRdDsA
 [2013-10-14 17:54:30] selendroid-git: selendroid/master f91c68b Dominik Dary: Moving to test framework junit. Added functionality to verify popup windows and to interact with the employee directory app (cordova app available under: https://github.com/DominikDary/employee-directory)
 [2013-10-14 17:54:30] selendroid-git, leaving. (#selendroid)
+[2013-10-14 18:03:34] travis-ci, joining. (#selendroid)
+[2013-10-14 18:03:34] travis-ci: [travis-ci] selendroid/selendroid#190 (master - f91c68b : Dominik Dary): The build was broken.
+[2013-10-14 18:03:34] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/781a53d49a7e...f91c68b604ea
+[2013-10-14 18:03:34] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/12526111
+[2013-10-14 18:03:34] travis-ci, leaving. (#selendroid)
