@@ -37,3 +37,4 @@
 [2013-10-14 15:10:19] operatia_, joining. (#selendroid)
 [2013-10-14 15:12:24] operatiay, quitting. (Read error: Connection reset by peer)
 [2013-10-14 15:14:38] ddary, leaving. (#selendroid)
+[2013-10-14 15:50:22] ddary, joining. (#selendroid)
