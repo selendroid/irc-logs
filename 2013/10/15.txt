@@ -96,3 +96,4 @@
 [2013-10-15 12:53:17] mummana: that is the exception which i got still my inspector doesnt show anything
 [2013-10-15 12:54:06] mummana: m wrting in python
 [2013-10-15 13:00:59] mummana: can u tell me wt to do exactly?
+[2013-10-15 13:06:48] ddary: https://github.com/selendroid/selendroid/issues/108
