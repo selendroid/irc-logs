@@ -13,3 +13,4 @@
 [2013-10-15 04:48:38] jusfreeman, quitting. (Quit: jusfreeman)
 [2013-10-15 04:50:50] jusfreeman, joining. (#selendroid)
 [2013-10-15 04:51:07] jusfreeman, quitting. (Client Quit)
+[2013-10-15 04:57:49] jusfreeman, joining. (#selendroid)
