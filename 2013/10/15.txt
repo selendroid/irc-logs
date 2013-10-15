@@ -84,3 +84,4 @@
 [2013-10-15 12:37:34] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/ee4260c4e3a9...398e68515599
 [2013-10-15 12:37:34] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/12562326
 [2013-10-15 12:37:34] travis-ci, leaving. (#selendroid)
+[2013-10-15 12:40:15] mummana: thnq for accepting my request :)
