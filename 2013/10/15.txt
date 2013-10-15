@@ -68,3 +68,8 @@
 [2013-10-15 12:17:56] ddary: thanks
 [2013-10-15 12:18:26] ddary: if you find issues, pls let us know, if you are happy spread the word about it :-)
 [2013-10-15 12:19:21] mummana: sure :)
+[2013-10-15 12:20:40] mummana: yea v have a group in facebook were im helping the memebers towards android testing using selendroid
+[2013-10-15 12:20:56] ddary: cool
+[2013-10-15 12:21:00] ddary: you have a link?
+[2013-10-15 12:21:41] mummana: i guess they need ur help in setting up please try to help them
+[2013-10-15 12:22:01] mummana: https://www.facebook.com/groups/webdriver/
