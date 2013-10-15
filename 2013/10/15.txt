@@ -73,3 +73,7 @@
 [2013-10-15 12:21:00] ddary: you have a link?
 [2013-10-15 12:21:41] mummana: i guess they need ur help in setting up please try to help them
 [2013-10-15 12:22:01] mummana: https://www.facebook.com/groups/webdriver/
+[2013-10-15 12:31:47] selendroid-git, joining. (#selendroid)
+[2013-10-15 12:31:47] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/oS7V-g
+[2013-10-15 12:31:47] selendroid-git: selendroid/master 398e685 Dominik Dary: returning propper json
+[2013-10-15 12:31:47] selendroid-git, leaving. (#selendroid)
