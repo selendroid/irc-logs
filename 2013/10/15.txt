@@ -4,3 +4,7 @@
 [2013-10-15 01:05:59] jlipps, joining. (#selendroid)
 [2013-10-15 01:40:24] jlipps, quitting. (Quit: Leaving.)
 [2013-10-15 02:38:19] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-15 02:47:43] jusfreeman_, joining. (#selendroid)
+[2013-10-15 02:49:10] jusfreeman, quitting. (Ping timeout: 245 seconds)
+[2013-10-15 02:49:10] jusfreeman_, changing nick to jusfreeman.
+[2013-10-15 02:49:20] jlipps, joining. (#selendroid)
