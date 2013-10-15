@@ -9,3 +9,4 @@
 [2013-10-15 02:49:10] jusfreeman_, changing nick to jusfreeman.
 [2013-10-15 02:49:20] jlipps, joining. (#selendroid)
 [2013-10-15 02:50:49] jlipps, quitting. (Client Quit)
+[2013-10-15 03:21:30] smccarthy, joining. (#selendroid)
