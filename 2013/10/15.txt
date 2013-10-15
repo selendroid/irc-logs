@@ -99,3 +99,4 @@
 [2013-10-15 13:06:48] ddary: https://github.com/selendroid/selendroid/issues/108
 [2013-10-15 13:48:26] operatiay, quitting. (Remote host closed the connection)
 [2013-10-15 13:48:58] operatiay, joining. (#selendroid)
+[2013-10-15 13:53:33] operatiay, quitting. (Ping timeout: 272 seconds)
