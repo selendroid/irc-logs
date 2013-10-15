@@ -103,3 +103,5 @@
 [2013-10-15 14:07:59] mummana, quitting. (Quit: Page closed)
 [2013-10-15 14:38:24] mummana, joining. (#selendroid)
 [2013-10-15 14:41:03] mummana: this timme i have connected two real devices if i want to choose api16 idid this desired_capabilities = {'aut': 'com.fitness:2.0','emulator':False,'DeviceTargetPlatform':api16} but its not working
+[2013-10-15 15:02:36] operatiay, joining. (#selendroid)
+[2013-10-15 15:03:36] ddary: it is ANDROID16
