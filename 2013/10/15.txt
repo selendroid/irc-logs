@@ -31,3 +31,8 @@
 [2013-10-15 10:55:38] ddary, leaving. (#selendroid)
 [2013-10-15 11:26:48] ddary, joining. (#selendroid)
 [2013-10-15 11:48:19] mummana, joining. (#selendroid)
+[2013-10-15 11:50:01] mummana: hi dary :) can i know wt locator u have used to find toast ? driver.findelement(by.??????).isdisplayed()
+[2013-10-15 11:50:28] mummana: i mean is it ? id ,name or tagname or linktext?
+[2013-10-15 11:51:34] ddary: I used by linkText and when it was found, I continued the test
+[2013-10-15 11:51:47] ddary: so, no is displayed
+[2013-10-15 11:54:46] mummana: thnq dary :) and one small doubt  cani autoamte browser? chrome ?and android browser using selendroid?
