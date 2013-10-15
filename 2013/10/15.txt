@@ -14,3 +14,4 @@
 [2013-10-15 04:50:50] jusfreeman, joining. (#selendroid)
 [2013-10-15 04:51:07] jusfreeman, quitting. (Client Quit)
 [2013-10-15 04:57:49] jusfreeman, joining. (#selendroid)
+[2013-10-15 06:35:15] smccarthy, quitting. (Remote host closed the connection)
