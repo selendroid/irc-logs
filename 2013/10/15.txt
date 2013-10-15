@@ -46,3 +46,10 @@
 [2013-10-15 12:01:31] operatiay, joining. (#selendroid)
 [2013-10-15 12:05:50] operatiay, quitting. (Ping timeout: 245 seconds)
 [2013-10-15 12:08:22] operatiay, joining. (#selendroid)
+[2013-10-15 12:11:52] mummana: will selendroid will be a part of selenium 3 which is going to be released in dec?
+[2013-10-15 12:12:22] ddary: yes
+[2013-10-15 12:12:33] ddary: but as you probably have read on the blog
+[2013-10-15 12:13:35] ddary: selenium3 has a defined test suite and relies on a protocol set and selendroid will probably implement as much as possible
+[2013-10-15 12:13:54] mummana: thats kool tehn wt abut selendroid? will people will be using after the launch of selenium3?
+[2013-10-15 12:14:29] ddary: no app testing framewrok will be shipped with selenium 3
+[2013-10-15 12:14:49] ddary: selenium 3 has the client drivers with the protocol support i talked about
