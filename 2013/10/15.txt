@@ -36,3 +36,9 @@
 [2013-10-15 11:51:34] ddary: I used by linkText and when it was found, I continued the test
 [2013-10-15 11:51:47] ddary: so, no is displayed
 [2013-10-15 11:54:46] mummana: thnq dary :) and one small doubt  cani autoamte browser? chrome ?and android browser using selendroid?
+[2013-10-15 11:55:12] ddary: no, selendroid is just for apps
+[2013-10-15 11:55:22] ddary: chrome --> chromedriver for android
+[2013-10-15 11:56:45] mummana: and for python bindings if i want to use device wt shud i use in desired capabilities?
+[2013-10-15 11:56:47] mummana:  desired_capabilities = {'aut': 'com.fitness:2.0'}
+[2013-10-15 11:57:29] mummana: real deavice
+[2013-10-15 11:59:50] ddary: just add: desired_capabilities = {'aut': 'com.fitness:2.0', 'emulator':False}
