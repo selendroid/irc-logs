@@ -53,3 +53,18 @@
 [2013-10-15 12:13:54] mummana: thats kool tehn wt abut selendroid? will people will be using after the launch of selenium3?
 [2013-10-15 12:14:29] ddary: no app testing framewrok will be shipped with selenium 3
 [2013-10-15 12:14:49] ddary: selenium 3 has the client drivers with the protocol support i talked about
+[2013-10-15 12:15:01] ddary: and we mobile drivers make sure, we implement it
+[2013-10-15 12:15:48] ddary: but we are still the community of selendroid and we can release as often as we want
+[2013-10-15 12:15:55] ddary: does this make sense?
+[2013-10-15 12:15:59] mummana: so it means u r helping jasson in developing selenium3
+[2013-10-15 12:16:16] ddary: who is jasson?
+[2013-10-15 12:16:28] mummana: yup jason huggins
+[2013-10-15 12:17:21] mummana: selenium creator
+[2013-10-15 12:17:32] ddary: as far as I know is he not actively developing selenium. We are working together with Simon Stewart
+[2013-10-15 12:17:40] ddary: the blog posts:
+[2013-10-15 12:17:40] ddary: http://seleniumhq.wordpress.com/2013/08/28/mobile-webdriver/
+[2013-10-15 12:17:47] ddary: http://seleniumhq.wordpress.com/2013/08/28/the-road-to-selenium-3/
+[2013-10-15 12:17:49] mummana: as far caompared to other tools i felt selendroid as the best
+[2013-10-15 12:17:56] ddary: thanks
+[2013-10-15 12:18:26] ddary: if you find issues, pls let us know, if you are happy spread the word about it :-)
+[2013-10-15 12:19:21] mummana: sure :)
