@@ -85,3 +85,5 @@
 [2013-10-15 12:37:34] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/12562326
 [2013-10-15 12:37:34] travis-ci, leaving. (#selendroid)
 [2013-10-15 12:40:15] mummana: thnq for accepting my request :)
+[2013-10-15 12:49:14] mummana: and why sometimes inspector doent work
+[2013-10-15 12:49:18] mummana: ?
