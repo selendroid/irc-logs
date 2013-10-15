@@ -113,3 +113,15 @@
 [2013-10-15 16:38:46] operatiay, joining. (#selendroid)
 [2013-10-15 16:59:14] chhsiung, joining. (#selendroid)
 [2013-10-15 17:08:39] lukeis, joining. (#selendroid)
+[2013-10-15 17:25:11] ddary: HI lukeis
+[2013-10-15 17:25:18] lukeis: hi
+[2013-10-15 17:25:36] ddary: have moved the test framework in the test app to junit
+[2013-10-15 17:25:46] ddary: hopefully you are fine with it
+[2013-10-15 17:25:46] lukeis: ok ;)
+[2013-10-15 17:25:55] lukeis: i don't mind using either junit or testng
+[2013-10-15 17:25:59] ddary: now we have only junit
+[2013-10-15 17:26:04] lukeis: sounds good
+[2013-10-15 17:26:24] ddary: I had weird results with testng and with junit it is cleaner and works better
+[2013-10-15 17:27:49] lukeis: i had similar issues on my project here at work, so went with junit too…. neither like complicated test class hierarchy with annotations at all levels though :)
+[2013-10-15 17:29:08] ddary: :)
+[2013-10-15 17:29:30] ddary: have now also extended the test app for cross app testing
