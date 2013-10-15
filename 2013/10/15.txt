@@ -125,3 +125,6 @@
 [2013-10-15 17:27:49] lukeis: i had similar issues on my project here at work, so went with junit too…. neither like complicated test class hierarchy with annotations at all levels though :)
 [2013-10-15 17:29:08] ddary: :)
 [2013-10-15 17:29:30] ddary: have now also extended the test app for cross app testing
+[2013-10-15 17:30:02] ddary: there is now a menu item that will open the employee directory app with a specific employee
+[2013-10-15 17:30:19] ddary: employee directory is a cordova app
+[2013-10-15 17:30:40] ddary: so then there is also a nice demo for hybrid apps
