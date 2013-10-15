@@ -77,3 +77,10 @@
 [2013-10-15 12:31:47] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/oS7V-g
 [2013-10-15 12:31:47] selendroid-git: selendroid/master 398e685 Dominik Dary: returning propper json
 [2013-10-15 12:31:47] selendroid-git, leaving. (#selendroid)
+[2013-10-15 12:35:53] operatiay, quitting. (Remote host closed the connection)
+[2013-10-15 12:37:09] operatiay, joining. (#selendroid)
+[2013-10-15 12:37:34] travis-ci, joining. (#selendroid)
+[2013-10-15 12:37:34] travis-ci: [travis-ci] selendroid/selendroid#192 (master - 398e685 : Dominik Dary): The build was fixed.
+[2013-10-15 12:37:34] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/ee4260c4e3a9...398e68515599
+[2013-10-15 12:37:34] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/12562326
+[2013-10-15 12:37:34] travis-ci, leaving. (#selendroid)
