@@ -112,3 +112,4 @@
 [2013-10-15 16:19:49] operatiay, quitting. (Read error: Operation timed out)
 [2013-10-15 16:38:46] operatiay, joining. (#selendroid)
 [2013-10-15 16:59:14] chhsiung, joining. (#selendroid)
+[2013-10-15 17:08:39] lukeis, joining. (#selendroid)
