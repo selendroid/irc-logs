@@ -143,3 +143,4 @@
 [2013-10-15 21:43:36] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-15 21:46:28] chhsiung, joining. (#selendroid)
 [2013-10-15 21:50:24] jusfreeman, joining. (#selendroid)
+[2013-10-15 22:11:23] jusfreeman, quitting. (Quit: jusfreeman)
