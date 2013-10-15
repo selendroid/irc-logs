@@ -19,3 +19,4 @@
 [2013-10-15 06:58:04] jusfreeman, quitting. (Ping timeout: 246 seconds)
 [2013-10-15 06:58:05] jusfreeman_, changing nick to jusfreeman.
 [2013-10-15 08:53:25] jusfreeman, quitting. (Quit: jusfreeman)
+[2013-10-15 10:20:29] ddary, joining. (#selendroid)
