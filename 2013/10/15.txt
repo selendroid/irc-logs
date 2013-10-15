@@ -128,3 +128,5 @@
 [2013-10-15 17:30:02] ddary: there is now a menu item that will open the employee directory app with a specific employee
 [2013-10-15 17:30:19] ddary: employee directory is a cordova app
 [2013-10-15 17:30:40] ddary: so then there is also a nice demo for hybrid apps
+[2013-10-15 18:25:24] smccarthy, joining. (#selendroid)
+[2013-10-15 18:25:36] ddary, quitting. (Quit: ddary)
