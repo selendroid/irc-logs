@@ -131,3 +131,4 @@
 [2013-10-15 18:25:24] smccarthy, joining. (#selendroid)
 [2013-10-15 18:25:36] ddary, quitting. (Quit: ddary)
 [2013-10-15 18:34:37] jlipps, joining. (#selendroid)
+[2013-10-15 18:58:10] lukeis, quitting. (Quit: Leaving.)
