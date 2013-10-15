@@ -130,3 +130,4 @@
 [2013-10-15 17:30:40] ddary: so then there is also a nice demo for hybrid apps
 [2013-10-15 18:25:24] smccarthy, joining. (#selendroid)
 [2013-10-15 18:25:36] ddary, quitting. (Quit: ddary)
+[2013-10-15 18:34:37] jlipps, joining. (#selendroid)
