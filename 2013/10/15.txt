@@ -29,3 +29,4 @@
 [2013-10-15 10:30:20] travis-ci, leaving. (#selendroid)
 [2013-10-15 10:55:18] operatiay, joining. (#selendroid)
 [2013-10-15 10:55:38] ddary, leaving. (#selendroid)
+[2013-10-15 11:26:48] ddary, joining. (#selendroid)
