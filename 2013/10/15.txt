@@ -87,3 +87,11 @@
 [2013-10-15 12:40:15] mummana: thnq for accepting my request :)
 [2013-10-15 12:49:14] mummana: and why sometimes inspector doent work
 [2013-10-15 12:49:18] mummana: ?
+[2013-10-15 12:50:15] ddary: what do you mean exactly
+[2013-10-15 12:50:23] mummana: there are lot many exceptions in command prompt
+[2013-10-15 12:50:50] mummana: its been 15mins still my inspector is loading it doesnt showup anything
+[2013-10-15 12:51:26] mummana: org.webbitserver.WebbitException: cannot send more responses than requests on [i d: 0x004d8db0, /0:0:0:0:0:0:0:1:56813 :> /0:0:0:0:0:0:0:1:5555]
+[2013-10-15 12:51:29] ddary: do you have some special characters in your class names?
+[2013-10-15 12:51:50] mummana: class names?? i dint get uh?
+[2013-10-15 12:53:17] mummana: that is the exception which i got still my inspector doesnt show anything
+[2013-10-15 12:54:06] mummana: m wrting in python
