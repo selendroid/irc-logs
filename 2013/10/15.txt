@@ -144,3 +144,4 @@
 [2013-10-15 21:46:28] chhsiung, joining. (#selendroid)
 [2013-10-15 21:50:24] jusfreeman, joining. (#selendroid)
 [2013-10-15 22:11:23] jusfreeman, quitting. (Quit: jusfreeman)
+[2013-10-15 23:42:02] jusfreeman, joining. (#selendroid)
