@@ -70,3 +70,4 @@
 [2013-10-16 21:44:45] ddary, joining. (#selendroid)
 [2013-10-16 22:06:17] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-16 22:07:18] chhsiung, joining. (#selendroid)
+[2013-10-16 23:32:03] jusfreeman, quitting. (Quit: jusfreeman)
