@@ -71,3 +71,6 @@
 [2013-10-16 22:06:17] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-16 22:07:18] chhsiung, joining. (#selendroid)
 [2013-10-16 23:32:03] jusfreeman, quitting. (Quit: jusfreeman)
+[2013-10-16 23:36:42] jlipps1, joining. (#selendroid)
+[2013-10-16 23:36:46] jlipps, quitting. (Read error: Connection reset by peer)
+[2013-10-16 23:37:58] ddary, leaving. (#selendroid)
