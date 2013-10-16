@@ -68,3 +68,5 @@
 [2013-10-16 21:21:53] jusfreeman, joining. (#selendroid)
 [2013-10-16 21:40:37] ddary, quitting. (Ping timeout: 272 seconds)
 [2013-10-16 21:44:45] ddary, joining. (#selendroid)
+[2013-10-16 22:06:17] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-16 22:07:18] chhsiung, joining. (#selendroid)
