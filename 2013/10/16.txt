@@ -37,3 +37,5 @@
 [2013-10-16 12:37:21] chhsiung, joining. (#selendroid)
 [2013-10-16 12:41:48] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-16 13:14:34] operatia_, joining. (#selendroid)
+[2013-10-16 13:18:39] operatiay, quitting. (Ping timeout: 272 seconds)
+[2013-10-16 13:19:09] ddary, joining. (#selendroid)
