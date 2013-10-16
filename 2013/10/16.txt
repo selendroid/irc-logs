@@ -56,3 +56,6 @@
 [2013-10-16 16:30:57] ddary, quitting. (Quit: ddary)
 [2013-10-16 16:46:19] jlipps, joining. (#selendroid)
 [2013-10-16 17:22:31] smccarthy, joining. (#selendroid)
+[2013-10-16 17:25:11] operatia_, joining. (#selendroid)
+[2013-10-16 17:28:27] operatiay, quitting. (Ping timeout: 248 seconds)
+[2013-10-16 17:29:37] lukeis, joining. (#selendroid)
