@@ -19,3 +19,4 @@
 [2013-10-16 09:03:20] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/bJuFpg
 [2013-10-16 09:03:20] selendroid-git: selendroid/master 565493a Dominik Dary: adding content description
 [2013-10-16 09:03:20] selendroid-git, leaving. (#selendroid)
+[2013-10-16 09:35:47] chhsiung, joining. (#selendroid)
