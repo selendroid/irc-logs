@@ -41,3 +41,4 @@
 [2013-10-16 13:19:09] ddary, joining. (#selendroid)
 [2013-10-16 13:21:34] ddary: :log
 [2013-10-16 13:24:04] chhsiung, joining. (#selendroid)
+[2013-10-16 14:01:09] chhsiung, quitting. (Quit: Leaving.)
