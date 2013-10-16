@@ -55,3 +55,4 @@
 [2013-10-16 15:48:20] operatiay, joining. (#selendroid)
 [2013-10-16 16:30:57] ddary, quitting. (Quit: ddary)
 [2013-10-16 16:46:19] jlipps, joining. (#selendroid)
+[2013-10-16 17:22:31] smccarthy, joining. (#selendroid)
