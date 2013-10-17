@@ -15,3 +15,11 @@
 [2013-10-17 08:13:54] ddary, joining. (#selendroid)
 [2013-10-17 08:16:38] ddary: :log
 [2013-10-17 08:49:23] jusfreeman, quitting. (Ping timeout: 268 seconds)
+[2013-10-17 09:12:15] selendroid-git, joining. (#selendroid)
+[2013-10-17 09:12:15] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/96XKPw
+[2013-10-17 09:12:15] selendroid-git: selendroid/master c1d8928 Dominik Dary: Delete .travis.yml
+[2013-10-17 09:12:15] selendroid-git, leaving. (#selendroid)
+[2013-10-17 09:13:14] selendroid-git, joining. (#selendroid)
+[2013-10-17 09:13:14] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/S8iv_A
+[2013-10-17 09:13:14] selendroid-git: selendroid/master 30c31ea Dominik Dary: Update README.md
+[2013-10-17 09:13:14] selendroid-git, leaving. (#selendroid)
