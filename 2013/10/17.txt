@@ -57,3 +57,4 @@
 [2013-10-17 13:53:15] selendroid-git, leaving. (#selendroid)
 [2013-10-17 14:54:40] operatiay, quitting. (Remote host closed the connection)
 [2013-10-17 15:22:33] operatiay, joining. (#selendroid)
+[2013-10-17 16:00:01] selendroidbot_, joining. (#selendroid)
