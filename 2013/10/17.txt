@@ -23,3 +23,7 @@
 [2013-10-17 09:13:14] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/S8iv_A
 [2013-10-17 09:13:14] selendroid-git: selendroid/master 30c31ea Dominik Dary: Update README.md
 [2013-10-17 09:13:14] selendroid-git, leaving. (#selendroid)
+[2013-10-17 09:16:06] selendroid-git, joining. (#selendroid)
+[2013-10-17 09:16:06] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/Wmp3ww
+[2013-10-17 09:16:06] selendroid-git: selendroid/gh-pages eeea939 Dominik Dary: Update architecture.html
+[2013-10-17 09:16:06] selendroid-git, leaving. (#selendroid)
