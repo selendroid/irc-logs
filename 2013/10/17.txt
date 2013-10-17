@@ -34,3 +34,7 @@
 [2013-10-17 10:50:28] operatiay, joining. (#selendroid)
 [2013-10-17 10:54:51] operatiay, quitting. (Ping timeout: 260 seconds)
 [2013-10-17 11:05:57] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-17 11:47:24] selendroid-git, joining. (#selendroid)
+[2013-10-17 11:47:24] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/BNTQBg
+[2013-10-17 11:47:24] selendroid-git: selendroid/master d165e8d Dominik Dary: running selendroid server on port 38080 to avoid conflicts with jenkin.
+[2013-10-17 11:47:24] selendroid-git, leaving. (#selendroid)
