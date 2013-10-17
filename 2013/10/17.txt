@@ -68,3 +68,5 @@
 [2013-10-17 17:12:53] lukeis: :ci
 [2013-10-17 17:12:55] lukeis: ;)
 [2013-10-17 17:16:33] smccarthy, quitting. (Remote host closed the connection)
+[2013-10-17 17:30:46] operatiay, quitting. (Remote host closed the connection)
+[2013-10-17 17:33:03] operatia_, joining. (#selendroid)
