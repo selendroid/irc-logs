@@ -50,3 +50,8 @@
 [2013-10-17 12:23:18] ddary: https://github.com/selendroid/demoproject-selendroid#hybrid-app-test
 [2013-10-17 13:18:24] smccarthy, joining. (#selendroid)
 [2013-10-17 13:34:40] mummana, quitting. (Quit: Page closed)
+[2013-10-17 13:53:15] selendroid-git, joining. (#selendroid)
+[2013-10-17 13:53:15] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/Kj-ydA
+[2013-10-17 13:53:15] selendroid-git: selendroid/master dee40e3 Dominik Dary: integration tests are off by default, if -DskipTests=false is specified, they will be executed.
+[2013-10-17 13:53:15] selendroid-git: selendroid/master 26e7365 Dominik Dary:  Merge branch 'master' of https://github.com/selendroid/selendroid
+[2013-10-17 13:53:15] selendroid-git, leaving. (#selendroid)
