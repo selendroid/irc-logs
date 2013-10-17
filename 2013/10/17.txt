@@ -43,3 +43,5 @@
 [2013-10-17 11:52:33] selendroid-git: selendroid/master e42c609 Dominik Dary: Update README.md
 [2013-10-17 11:52:33] selendroid-git, leaving. (#selendroid)
 [2013-10-17 12:03:20] operatiay, joining. (#selendroid)
+[2013-10-17 12:18:36] mummana, joining. (#selendroid)
+[2013-10-17 12:19:10] mummana: hiw dary is it possible to test phonegap applications?
