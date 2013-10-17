@@ -45,3 +45,6 @@
 [2013-10-17 12:03:20] operatiay, joining. (#selendroid)
 [2013-10-17 12:18:36] mummana, joining. (#selendroid)
 [2013-10-17 12:19:10] mummana: hiw dary is it possible to test phonegap applications?
+[2013-10-17 12:22:26] ddary: yes
+[2013-10-17 12:23:17] ddary: there is a full example available:
+[2013-10-17 12:23:18] ddary: https://github.com/selendroid/demoproject-selendroid#hybrid-app-test
