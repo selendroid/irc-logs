@@ -38,3 +38,7 @@
 [2013-10-17 11:47:24] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/BNTQBg
 [2013-10-17 11:47:24] selendroid-git: selendroid/master d165e8d Dominik Dary: running selendroid server on port 38080 to avoid conflicts with jenkin.
 [2013-10-17 11:47:24] selendroid-git, leaving. (#selendroid)
+[2013-10-17 11:52:33] selendroid-git, joining. (#selendroid)
+[2013-10-17 11:52:33] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/HL7wXw
+[2013-10-17 11:52:33] selendroid-git: selendroid/master e42c609 Dominik Dary: Update README.md
+[2013-10-17 11:52:33] selendroid-git, leaving. (#selendroid)
