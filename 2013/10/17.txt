@@ -67,3 +67,4 @@
 [2013-10-17 17:12:47] lukeis: cool
 [2013-10-17 17:12:53] lukeis: :ci
 [2013-10-17 17:12:55] lukeis: ;)
+[2013-10-17 17:16:33] smccarthy, quitting. (Remote host closed the connection)
