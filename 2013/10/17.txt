@@ -59,3 +59,5 @@
 [2013-10-17 15:22:33] operatiay, joining. (#selendroid)
 [2013-10-17 16:00:01] selendroidbot_, joining. (#selendroid)
 [2013-10-17 16:27:56] chhsiung, joining. (#selendroid)
+[2013-10-17 16:37:47] ddary: :note lukeis We have now our own CI system available under http://ci.selendroid.io
+[2013-10-17 16:37:54] ddary, leaving. (#selendroid)
