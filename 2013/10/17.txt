@@ -11,3 +11,5 @@
 [2013-10-17 04:52:15] smccarthy, joining. (#selendroid)
 [2013-10-17 04:55:26] smccarthy2, quitting. (Ping timeout: 240 seconds)
 [2013-10-17 07:08:13] lukeis, joining. (#selendroid)
+[2013-10-17 08:13:33] lukeis, quitting. (Quit: Leaving.)
+[2013-10-17 08:13:54] ddary, joining. (#selendroid)
