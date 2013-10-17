@@ -80,3 +80,4 @@
 [2013-10-17 21:17:21] jusfreeman, joining. (#selendroid)
 [2013-10-17 21:38:50] smccarthy, joining. (#selendroid)
 [2013-10-17 23:30:48] jusfreeman, quitting. (Quit: jusfreeman)
+[2013-10-17 23:48:45] jusfreeman, joining. (#selendroid)
