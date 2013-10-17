@@ -55,3 +55,4 @@
 [2013-10-17 13:53:15] selendroid-git: selendroid/master dee40e3 Dominik Dary: integration tests are off by default, if -DskipTests=false is specified, they will be executed.
 [2013-10-17 13:53:15] selendroid-git: selendroid/master 26e7365 Dominik Dary:  Merge branch 'master' of https://github.com/selendroid/selendroid
 [2013-10-17 13:53:15] selendroid-git, leaving. (#selendroid)
+[2013-10-17 14:54:40] operatiay, quitting. (Remote host closed the connection)
