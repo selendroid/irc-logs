@@ -42,3 +42,4 @@
 [2013-10-17 11:52:33] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/HL7wXw
 [2013-10-17 11:52:33] selendroid-git: selendroid/master e42c609 Dominik Dary: Update README.md
 [2013-10-17 11:52:33] selendroid-git, leaving. (#selendroid)
+[2013-10-17 12:03:20] operatiay, joining. (#selendroid)
