@@ -13,3 +13,4 @@
 [2013-10-17 07:08:13] lukeis, joining. (#selendroid)
 [2013-10-17 08:13:33] lukeis, quitting. (Quit: Leaving.)
 [2013-10-17 08:13:54] ddary, joining. (#selendroid)
+[2013-10-17 08:16:38] ddary: :log
