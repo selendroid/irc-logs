@@ -13,3 +13,6 @@
 [2013-10-18 08:22:55] ddary, joining. (#selendroid)
 [2013-10-18 08:25:35] ddary: :log
 [2013-10-18 08:26:09] ddary: :ci
+[2013-10-18 08:31:32] selendroidbot, joining. (#selendroid)
+[2013-10-18 08:31:43] ddary: :ci
+[2013-10-18 08:32:12] ddary: :note lukeis Now you have the :ci command available :-)
