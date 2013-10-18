@@ -47,3 +47,11 @@
 [2013-10-18 22:03:36] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-18 22:32:32] chhsiung, joining. (#selendroid)
 [2013-10-18 22:58:47] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-18 23:17:01] jlipps: lukeis:  i don't like genymotion
+[2013-10-18 23:17:19] lukeis: ok, why not? :)
+[2013-10-18 23:17:29] lukeis: it's the fastest emulator I've tried thus far
+[2013-10-18 23:17:51] jlipps: it's not faster than x86 + hax in my experience, it's not open, and it's a big pain to get set up
+[2013-10-18 23:18:31] lukeis: i only starting trying it yesterday and it's outperformed x86 + haxm  for my computers
+[2013-10-18 23:18:49] lukeis: the pain to setup is certainly an issue
+[2013-10-18 23:19:18] jlipps: some people are using it with appium and seem to like it. i just don't see it as an option for our cloud right now
+[2013-10-18 23:19:34] lukeis: because it's based on virtual box?
