@@ -58,3 +58,5 @@
 [2013-10-18 23:20:30] lukeis: we've been chasing lots of timing issues because of the slow emulators, it hasn't been fun. and lots of them are intermittent
 [2013-10-18 23:24:53] jlipps: yeah. we're preferring to work on that approach differently
 [2013-10-18 23:25:00] jlipps: get closer to the hardware essentially
+[2013-10-18 23:25:24] jlipps: our hardware is awesome, it's just the multiple virt layers that are the problem
+[2013-10-18 23:25:44] jlipps: and yeah virtualbox is probably also a big issue
