@@ -9,3 +9,4 @@
 [2013-10-18 05:40:56] lukeis2, changing nick to lukeis.
 [2013-10-18 05:42:06] lukeis1, quitting. (Ping timeout: 245 seconds)
 [2013-10-18 07:16:00] lukeis, quitting. (Quit: Leaving.)
+[2013-10-18 07:29:30] smccarthy, quitting. (Remote host closed the connection)
