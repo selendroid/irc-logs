@@ -29,3 +29,4 @@
 [2013-10-18 14:21:58] operatiay, joining. (#selendroid)
 [2013-10-18 14:44:45] operatiay, quitting. (Remote host closed the connection)
 [2013-10-18 15:40:16] ddary, joining. (#selendroid)
+[2013-10-18 15:57:16] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
