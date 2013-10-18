@@ -16,3 +16,4 @@
 [2013-10-18 08:31:32] selendroidbot, joining. (#selendroid)
 [2013-10-18 08:31:43] ddary: :ci
 [2013-10-18 08:32:12] ddary: :note lukeis Now you have the :ci command available :-)
+[2013-10-18 09:19:44] jusfreeman, quitting. (Quit: jusfreeman)
