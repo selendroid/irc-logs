@@ -11,3 +11,5 @@
 [2013-10-18 07:16:00] lukeis, quitting. (Quit: Leaving.)
 [2013-10-18 07:29:30] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-18 08:22:55] ddary, joining. (#selendroid)
+[2013-10-18 08:25:35] ddary: :log
+[2013-10-18 08:26:09] ddary: :ci
