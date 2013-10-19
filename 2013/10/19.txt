@@ -4,3 +4,4 @@
 [2013-10-19 04:53:00] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-19 05:17:05] jlipps, joining. (#selendroid)
 [2013-10-19 07:28:50] mummana, joining. (#selendroid)
+[2013-10-19 07:39:34] mummana, quitting. (Quit: Page closed)
