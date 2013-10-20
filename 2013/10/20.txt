@@ -7,3 +7,4 @@
 [2013-10-20 08:03:59] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-20 12:51:29] jusfreeman, quitting. (Quit: jusfreeman)
 [2013-10-20 12:51:38] operatiay, joining. (#selendroid)
+[2013-10-20 12:55:55] operatiay, quitting. (Ping timeout: 248 seconds)
