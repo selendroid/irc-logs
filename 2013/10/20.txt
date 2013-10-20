@@ -3,3 +3,4 @@
 [2013-10-20 05:10:23] jlipps, joining. (#selendroid)
 [2013-10-20 05:29:44] jlipps, quitting. (Quit: Leaving.)
 [2013-10-20 07:33:08] jusfreeman, quitting. (Quit: jusfreeman)
+[2013-10-20 07:35:22] jusfreeman, joining. (#selendroid)
