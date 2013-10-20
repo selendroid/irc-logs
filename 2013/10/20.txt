@@ -12,3 +12,4 @@
 [2013-10-20 20:55:17] smccarthy, quitting. (Read error: Connection reset by peer)
 [2013-10-20 20:55:47] smccarthy, joining. (#selendroid)
 [2013-10-20 21:09:12] jusfreeman, joining. (#selendroid)
+[2013-10-20 23:14:56] jusfreeman, quitting. (Quit: jusfreeman)
