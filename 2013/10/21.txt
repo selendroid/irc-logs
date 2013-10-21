@@ -14,3 +14,4 @@
 [2013-10-21 13:48:04] mummanaS, quitting. (Quit: Page closed)
 [2013-10-21 15:16:59] operatiay, quitting. (Remote host closed the connection)
 [2013-10-21 15:43:55] operatiay, joining. (#selendroid)
+[2013-10-21 15:56:15] Ahmed__, joining. (#selendroid)
