@@ -11,3 +11,4 @@
 [2013-10-21 12:48:32] mummana, joining. (#selendroid)
 [2013-10-21 12:48:40] mummana, quitting. (Client Quit)
 [2013-10-21 13:21:02] mummanaS, joining. (#selendroid)
+[2013-10-21 13:48:04] mummanaS, quitting. (Quit: Page closed)
