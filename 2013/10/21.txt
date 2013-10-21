@@ -17,3 +17,4 @@
 [2013-10-21 15:56:15] Ahmed__, joining. (#selendroid)
 [2013-10-21 16:05:44] Ahmed__, quitting. (Quit: Page closed)
 [2013-10-21 16:35:02] ddary, joining. (#selendroid)
+[2013-10-21 16:43:23] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
