@@ -37,3 +37,6 @@
 [2013-10-22 09:24:02] ddary: lukeis: will you have until the end of the year some time to work on one of the implementations of the spec?
 [2013-10-22 09:24:55] lukeis: implementing the spec? (like make changes to selendroid due to the new spec?)
 [2013-10-22 09:24:57] lukeis: yes, i should
+[2013-10-22 09:25:09] ddary: cool
+[2013-10-22 09:25:38] ddary: for me it looks like I will not have time before december
+[2013-10-22 09:26:13] ddary: the smaller stuff like capabilities etc that is not an issue, but more the gestures and the tests
