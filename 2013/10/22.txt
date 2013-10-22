@@ -42,3 +42,5 @@
 [2013-10-22 09:26:13] ddary: the smaller stuff like capabilities etc that is not an issue, but more the gestures and the tests
 [2013-10-22 09:45:30] chhsiung, joining. (#selendroid)
 [2013-10-22 09:54:18] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-10-22 10:20:27] chhsiung, joining. (#selendroid)
+[2013-10-22 10:24:43] chhsiung, quitting. (Ping timeout: 245 seconds)
