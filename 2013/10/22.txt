@@ -66,3 +66,4 @@
 [2013-10-22 14:24:16] chhsiung, joining. (#selendroid)
 [2013-10-22 14:28:28] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-10-22 14:30:31] chhsiung, joining. (#selendroid)
+[2013-10-22 14:39:07] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
