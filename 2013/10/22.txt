@@ -93,3 +93,4 @@
 [2013-10-22 19:41:21] jlipps, quitting. (Remote host closed the connection)
 [2013-10-22 19:41:31] jlipps, joining. (#selendroid)
 [2013-10-22 19:47:23] ddary, joining. (#selendroid)
+[2013-10-22 20:17:39] ddary, quitting. (Quit: ddary)
