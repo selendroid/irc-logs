@@ -34,3 +34,6 @@
 [2013-10-22 08:40:16] ddary: written in python :-)
 [2013-10-22 08:40:57] ddary: I have already sometimes used the api examples app to verify certain stuff (like the date picker thing)
 [2013-10-22 09:14:16] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-22 09:24:02] ddary: lukeis: will you have until the end of the year some time to work on one of the implementations of the spec?
+[2013-10-22 09:24:55] lukeis: implementing the spec? (like make changes to selendroid due to the new spec?)
+[2013-10-22 09:24:57] lukeis: yes, i should
