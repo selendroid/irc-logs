@@ -70,3 +70,5 @@
 [2013-10-22 15:26:38] operatiay, joining. (#selendroid)
 [2013-10-22 15:46:56] operatiay, quitting. (Remote host closed the connection)
 [2013-10-22 15:58:54] operatiay, joining. (#selendroid)
+[2013-10-22 16:30:30] operatiay, quitting. (Remote host closed the connection)
+[2013-10-22 16:33:02] operatiay, joining. (#selendroid)
