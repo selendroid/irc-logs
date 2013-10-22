@@ -79,3 +79,5 @@
 [2013-10-22 17:44:10] ddary, joining. (#selendroid)
 [2013-10-22 18:00:07] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-22 18:04:45] operatiay, quitting. (Remote host closed the connection)
+[2013-10-22 18:05:17] operatiay, joining. (#selendroid)
+[2013-10-22 18:09:35] operatiay, quitting. (Ping timeout: 245 seconds)
