@@ -8,3 +8,25 @@
 [2013-10-22 05:43:49] lukeis, joining. (#selendroid)
 [2013-10-22 07:21:45] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-22 08:34:50] ddary, joining. (#selendroid)
+[2013-10-22 08:35:21] ddary: hi lukeis, still around?
+[2013-10-22 08:35:33] lukeis: hi ddary, yes :)
+[2013-10-22 08:35:49] ddary: :-)
+[2013-10-22 08:36:29] lukeis: have you checked out / played with http://www.genymotion.com/ ?
+[2013-10-22 08:36:39] lukeis: works just fine with selendroid ;)
+[2013-10-22 08:36:51] ddary: not yet
+[2013-10-22 08:36:57] lukeis: really fast emulators
+[2013-10-22 08:37:10] ddary: cool, are there large modifications you have to do?
+[2013-10-22 08:37:15] lukeis: best performance i've seen yet
+[2013-10-22 08:37:21] ddary: btw, have you seen: http://code.google.com/p/selenium/source/browse/spec-draft.md?repo=mobile
+[2013-10-22 08:37:25] ddary: nice
+[2013-10-22 08:37:26] lukeis: it uses VirtualBox
+[2013-10-22 08:37:37] lukeis: no, i haven't seen that
+[2013-10-22 08:37:52] ddary: it is the old android x86 project
+[2013-10-22 08:38:13] ddary: the only thing is, how to integrate it into our grid
+[2013-10-22 08:38:44] ddary: currently experiementing with different variants: emulators on vmware and openstack
+[2013-10-22 08:39:06] lukeis: when was this spec discussed?
+[2013-10-22 08:39:14] ddary: end of august
+[2013-10-22 08:39:31] lukeis: the london summit?
+[2013-10-22 08:39:44] ddary: I will sit together with francois next week and do a code review and give then our feedback
+[2013-10-22 08:39:45] ddary: yes
+[2013-10-22 08:39:49] lukeis: i didn't remember seeing mention of this repo
