@@ -30,3 +30,6 @@
 [2013-10-22 08:39:44] ddary: I will sit together with francois next week and do a code review and give then our feedback
 [2013-10-22 08:39:45] ddary: yes
 [2013-10-22 08:39:49] lukeis: i didn't remember seeing mention of this repo
+[2013-10-22 08:40:07] ddary: it is for the demo apps and the selenium mobile tests
+[2013-10-22 08:40:16] ddary: written in python :-)
+[2013-10-22 08:40:57] ddary: I have already sometimes used the api examples app to verify certain stuff (like the date picker thing)
