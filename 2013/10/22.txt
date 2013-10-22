@@ -33,3 +33,4 @@
 [2013-10-22 08:40:07] ddary: it is for the demo apps and the selenium mobile tests
 [2013-10-22 08:40:16] ddary: written in python :-)
 [2013-10-22 08:40:57] ddary: I have already sometimes used the api examples app to verify certain stuff (like the date picker thing)
+[2013-10-22 09:14:16] chhsiung, quitting. (Quit: Leaving.)
