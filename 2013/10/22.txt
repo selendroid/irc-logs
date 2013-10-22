@@ -101,3 +101,5 @@
 [2013-10-22 22:20:47] operatiay, quitting. (Remote host closed the connection)
 [2013-10-22 23:02:03] lukeis, quitting. (Quit: Leaving.)
 [2013-10-22 23:02:15] lukeis, joining. (#selendroid)
+[2013-10-22 23:37:09] jlipps1, joining. (#selendroid)
+[2013-10-22 23:38:03] jlipps, quitting. (Read error: Connection reset by peer)
