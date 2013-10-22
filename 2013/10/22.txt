@@ -41,3 +41,4 @@
 [2013-10-22 09:25:38] ddary: for me it looks like I will not have time before december
 [2013-10-22 09:26:13] ddary: the smaller stuff like capabilities etc that is not an issue, but more the gestures and the tests
 [2013-10-22 09:45:30] chhsiung, joining. (#selendroid)
+[2013-10-22 09:54:18] chhsiung, quitting. (Ping timeout: 245 seconds)
