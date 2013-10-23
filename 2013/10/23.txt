@@ -23,3 +23,4 @@
 [2013-10-23 13:23:18] ddary, joining. (#selendroid)
 [2013-10-23 13:34:01] operatiay, joining. (#selendroid)
 [2013-10-23 13:44:55] ddary, quitting. (Quit: ddary)
+[2013-10-23 14:09:40] ddary, joining. (#selendroid)
