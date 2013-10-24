@@ -6,3 +6,5 @@
 [2013-10-24 06:55:37] operatiay, joining. (#selendroid)
 [2013-10-24 06:59:53] operatiay, quitting. (Ping timeout: 240 seconds)
 [2013-10-24 07:17:58] mummana, joining. (#selendroid)
+[2013-10-24 07:52:45] mummana, quitting. (Ping timeout: 250 seconds)
+[2013-10-24 07:52:50] chhsiung, quitting. (Quit: Leaving.)
