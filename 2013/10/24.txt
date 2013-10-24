@@ -28,3 +28,5 @@
 [2013-10-24 17:44:06] ddary, quitting. (Quit: ddary)
 [2013-10-24 17:51:34] lukeis, joining. (#selendroid)
 [2013-10-24 19:46:16] ddary, joining. (#selendroid)
+[2013-10-24 19:54:42] ddary: @lukeis: Hi, I'm currently working on refactoring all ShellCommand usages to use the CommandLine class. this guarantees that it will work in all scenarios on windows and as well on killing the emulator via socket.
+[2013-10-24 19:55:00] lukeis: cool :)
