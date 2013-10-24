@@ -30,3 +30,11 @@
 [2013-10-24 19:46:16] ddary, joining. (#selendroid)
 [2013-10-24 19:54:42] ddary: @lukeis: Hi, I'm currently working on refactoring all ShellCommand usages to use the CommandLine class. this guarantees that it will work in all scenarios on windows and as well on killing the emulator via socket.
 [2013-10-24 19:55:00] lukeis: cool :)
+[2013-10-24 19:55:10] lukeis: i'm currently not refactoring anything ;)
+[2013-10-24 19:55:18] ddary: ok
+[2013-10-24 19:55:56] lukeis: you should take it as a good sign that I haven't needed to touch the code base in a while ;)
+[2013-10-24 19:56:36] ddary: :)
+[2013-10-24 19:56:57] ddary: are you using 0.6.0 snapshot?
+[2013-10-24 19:57:00] lukeis: yes
+[2013-10-24 19:57:21] ddary: cool
+[2013-10-24 19:58:37] ddary: another thing I see currently more often is this: a response cannot be send multiple times
