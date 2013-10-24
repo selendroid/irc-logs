@@ -38,3 +38,4 @@
 [2013-10-24 19:57:00] lukeis: yes
 [2013-10-24 19:57:21] ddary: cool
 [2013-10-24 19:58:37] ddary: another thing I see currently more often is this: a response cannot be send multiple times
+[2013-10-24 20:56:35] ddary, quitting. (Quit: ddary)
