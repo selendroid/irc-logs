@@ -14,3 +14,4 @@
 [2013-10-25 07:09:24] ddary: :log
 [2013-10-25 07:36:44] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-25 08:04:23] ddary: :spec
+[2013-10-25 08:07:37] chhsiung, joining. (#selendroid)
