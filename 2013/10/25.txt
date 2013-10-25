@@ -31,3 +31,4 @@
 [2013-10-25 11:59:33] selendroid-git, leaving. (#selendroid)
 [2013-10-25 11:59:33] selendroid-git: selendroid/master 837d7f1 Dominik Dary: updating urls to new home of selendroid.
 [2013-10-25 12:11:14] chhsiung, joining. (#selendroid)
+[2013-10-25 12:15:33] chhsiung, quitting. (Ping timeout: 245 seconds)
