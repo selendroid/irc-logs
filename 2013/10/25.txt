@@ -43,3 +43,4 @@
 [2013-10-25 12:49:15] selendroid-git: selendroid/master 52b57f5 Dominik Dary: Larger refactoring to support selendroid fully on Windows #146 which includes killing the emulator as well as using folder names with space character. Ending of HttpRequests was changed to make sure they are closed only once #132 and no as well the timout used for starting emualors is used to configure the stale connection timeout. The method to kill a running app has been moved up to the AndroidDevic
 [2013-10-25 12:49:15] selendroid-git, leaving. (#selendroid)
 [2013-10-25 12:56:41] ddary, joining. (#selendroid)
+[2013-10-25 13:12:22] chhsiung, joining. (#selendroid)
