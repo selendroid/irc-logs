@@ -57,3 +57,4 @@
 [2013-10-25 15:57:34] chhsiung, quitting. (Client Quit)
 [2013-10-25 17:39:04] smccarthy, joining. (#selendroid)
 [2013-10-25 18:35:42] lukeis, joining. (#selendroid)
+[2013-10-25 23:09:52] operatiay, joining. (#selendroid)
