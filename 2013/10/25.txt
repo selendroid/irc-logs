@@ -16,3 +16,4 @@
 [2013-10-25 08:04:23] ddary: :spec
 [2013-10-25 08:07:37] chhsiung, joining. (#selendroid)
 [2013-10-25 08:11:48] chhsiung, quitting. (Ping timeout: 245 seconds)
+[2013-10-25 09:20:09] ddary, leaving. (#selendroid)
