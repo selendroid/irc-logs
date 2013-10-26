@@ -7,3 +7,4 @@
 [2013-10-26 09:54:50] ddary, leaving. (#selendroid)
 [2013-10-26 11:14:59] operatiay, joining. (#selendroid)
 [2013-10-26 11:19:51] operatiay, quitting. (Ping timeout: 260 seconds)
+[2013-10-26 15:16:39] operatiay, joining. (#selendroid)
