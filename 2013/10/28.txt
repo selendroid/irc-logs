@@ -21,3 +21,4 @@
 [2013-10-28 16:15:24] ddary, quitting. (Client Quit)
 [2013-10-28 16:31:03] chhsiung, joining. (#selendroid)
 [2013-10-28 16:33:15] chhsiung, quitting. (Client Quit)
+[2013-10-28 16:38:05] operatiay, joining. (#selendroid)
