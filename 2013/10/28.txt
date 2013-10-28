@@ -13,3 +13,4 @@
 [2013-10-28 14:04:53] ddary, joining. (#selendroid)
 [2013-10-28 14:08:02] ddary, quitting. (Client Quit)
 [2013-10-28 14:35:25] chhsiung, joining. (#selendroid)
+[2013-10-28 15:31:20] smccarthy, joining. (#selendroid)
