@@ -71,3 +71,5 @@
 [2013-10-29 22:55:12] ddary: k
 [2013-10-29 22:56:20] ddary: we need it for a side project, but the good thing is, for Android17 and 18 I can use UI Automator to write a test to change the locale as a workaround
 [2013-10-29 22:56:58] chhsiung, joining. (#selendroid)
+[2013-10-29 23:03:52] ddary, quitting. (Quit: ddary)
+[2013-10-29 23:04:51] smccarthy, joining. (#selendroid)
