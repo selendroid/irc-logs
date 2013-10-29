@@ -43,3 +43,10 @@
 [2013-10-29 17:50:11] ddary: how was meeting simon?
 [2013-10-29 17:50:30] lukeis: hi, it was good :) i always drink too much with him ;)
 [2013-10-29 17:51:33] ddary: i know what you mean ;-)
+[2013-10-29 17:55:31] ddary: did you talked about anything that he wants to contribute / change / improve in selendroid?
+[2013-10-29 17:57:38] lukeis: not in depth, looks like he'll be starting to use it more :)
+[2013-10-29 17:58:02] lukeis: already discussed one thing today with him
+[2013-10-29 17:58:28] ddary: ok
+[2013-10-29 17:58:34] ddary: any specific?
+[2013-10-29 17:59:31] lukeis: just getting a bunch of StaleElementReferenceExceptions
+[2013-10-29 17:59:52] lukeis: i get a lot of those too… but I wrap everything in a WebDriverWait now that ignores them too
