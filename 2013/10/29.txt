@@ -21,3 +21,4 @@
 [2013-10-29 10:41:01] operatiay, joining. (#selendroid)
 [2013-10-29 11:25:06] chhsiung, quitting. (Read error: Connection reset by peer)
 [2013-10-29 11:27:15] chhsiung, joining. (#selendroid)
+[2013-10-29 11:58:36] chhsiung, quitting. (Quit: Leaving.)
