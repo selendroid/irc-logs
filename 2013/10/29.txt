@@ -52,3 +52,4 @@
 [2013-10-29 17:59:52] lukeis: i get a lot of those too… but I wrap everything in a WebDriverWait now that ignores them too
 [2013-10-29 18:00:19] ddary: we have some  bug open for that, yes
 [2013-10-29 18:07:36] chhsiung, joining. (#selendroid)
+[2013-10-29 18:17:41] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
