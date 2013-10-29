@@ -68,3 +68,6 @@
 [2013-10-29 22:52:52] ddary: yes
 [2013-10-29 22:53:09] ddary: I flew to Hamburg but the transfer is starting later...
 [2013-10-29 22:54:21] lukeis: no, i don't know… i don't change locale's much, at least we haven't approached locale testing with automation yet in android
+[2013-10-29 22:55:12] ddary: k
+[2013-10-29 22:56:20] ddary: we need it for a side project, but the good thing is, for Android17 and 18 I can use UI Automator to write a test to change the locale as a workaround
+[2013-10-29 22:56:58] chhsiung, joining. (#selendroid)
