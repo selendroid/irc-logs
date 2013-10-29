@@ -30,3 +30,4 @@
 [2013-10-29 15:50:45] operatiay, joining. (#selendroid)
 [2013-10-29 15:54:00] lukeis, joining. (#selendroid)
 [2013-10-29 16:27:24] smccarthy, joining. (#selendroid)
+[2013-10-29 16:33:58] chhsiung, quitting. (Quit: Leaving.)
