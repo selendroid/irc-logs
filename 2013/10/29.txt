@@ -59,3 +59,4 @@
 [2013-10-29 21:01:54] smccarthy, joining. (#selendroid)
 [2013-10-29 21:37:08] smccarthy, quitting. (Remote host closed the connection)
 [2013-10-29 22:10:45] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-29 22:22:10] ddary, joining. (#selendroid)
