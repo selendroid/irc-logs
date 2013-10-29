@@ -11,3 +11,4 @@
 [2013-10-29 05:49:24] lukeis, quitting. (Client Quit)
 [2013-10-29 06:54:08] ddary, joining. (#selendroid)
 [2013-10-29 07:34:31] ddary: :log
+[2013-10-29 07:45:06] ddary, quitting. (Quit: ddary)
