@@ -38,3 +38,4 @@
 [2013-10-29 17:05:38] simonstewart, quitting. (Ping timeout: 264 seconds)
 [2013-10-29 17:05:38] simonstewart_, changing nick to simonstewart.
 [2013-10-29 17:09:45] simonstewart, quitting. (Quit: simonstewart)
+[2013-10-29 17:49:35] ddary, joining. (#selendroid)
