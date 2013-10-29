@@ -13,3 +13,4 @@
 [2013-10-29 07:34:31] ddary: :log
 [2013-10-29 07:45:06] ddary, quitting. (Quit: ddary)
 [2013-10-29 08:12:35] ddary, joining. (#selendroid)
+[2013-10-29 08:44:32] operatiay, joining. (#selendroid)
