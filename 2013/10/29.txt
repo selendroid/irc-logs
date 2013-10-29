@@ -61,3 +61,10 @@
 [2013-10-29 22:10:45] chhsiung, quitting. (Quit: Leaving.)
 [2013-10-29 22:22:10] ddary, joining. (#selendroid)
 [2013-10-29 22:49:57] ddary: Hi lukeis
+[2013-10-29 22:50:11] lukeis: hi
+[2013-10-29 22:50:15] lukeis: you're up late :)
+[2013-10-29 22:50:25] ddary: do you know if there is a way to change the locale of an android hardware device programmatically?
+[2013-10-29 22:51:20] ddary: I found a way using reflection, but this works only below ANDROID17
+[2013-10-29 22:52:52] ddary: yes
+[2013-10-29 22:53:09] ddary: I flew to Hamburg but the transfer is starting later...
+[2013-10-29 22:54:21] lukeis: no, i don't know… i don't change locale's much, at least we haven't approached locale testing with automation yet in android
