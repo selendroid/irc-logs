@@ -69,3 +69,4 @@
 [2013-10-30 20:12:37] lukeis, quitting. (Quit: Leaving.)
 [2013-10-30 20:29:39] lukeis, joining. (#selendroid)
 [2013-10-30 20:58:56] dolidze, joining. (#selendroid)
+[2013-10-30 21:12:57] dolidze, quitting. (Read error: Connection reset by peer)
