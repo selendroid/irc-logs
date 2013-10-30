@@ -55,3 +55,4 @@
 [2013-10-30 14:15:01] operatiay, joining. (#selendroid)
 [2013-10-30 15:11:23] operatiay, quitting. (Remote host closed the connection)
 [2013-10-30 15:11:57] operatiay, joining. (#selendroid)
+[2013-10-30 15:16:53] operatiay, quitting. (Ping timeout: 272 seconds)
