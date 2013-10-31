@@ -62,3 +62,7 @@
 [2013-10-31 21:27:11] lukeis: no, i don't… i'll ping simon again when i see him online next
 [2013-10-31 21:27:56] lukeis: ddary: or we can start expanding selendroid to use it ;)
 [2013-10-31 21:28:20] ddary: exactly
+[2013-10-31 22:08:42] selendroid-git, joining. (#selendroid)
+[2013-10-31 22:08:42] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/V4R7cQ
+[2013-10-31 22:08:42] selendroid-git: selendroid/master c2b1002 Dominik Dary: Adding support for Android 4.4 #154
+[2013-10-31 22:08:42] selendroid-git, leaving. (#selendroid)
