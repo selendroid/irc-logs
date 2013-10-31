@@ -29,3 +29,5 @@
 [2013-10-31 16:21:19] ddary, joining. (#selendroid)
 [2013-10-31 16:23:34] ddary, leaving. (#selendroid)
 [2013-10-31 16:45:56] lukeis, joining. (#selendroid)
+[2013-10-31 17:22:48] operatiay, quitting. (Remote host closed the connection)
+[2013-10-31 17:23:20] operatiay, joining. (#selendroid)
