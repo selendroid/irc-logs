@@ -44,3 +44,8 @@
 [2013-10-31 20:55:26] operatiay, quitting. (Ping timeout: 264 seconds)
 [2013-10-31 21:11:34] ddary, joining. (#selendroid)
 [2013-10-31 21:13:35] ddary: welcome Android API 19 :-)
+[2013-10-31 21:18:19] lukeis: why hello there 19...
+[2013-10-31 21:18:56] lukeis: i wonder where aapt will get moved to this time ;)
+[2013-10-31 21:19:02] ddary: lol
+[2013-10-31 21:19:16] ddary: it is interesting how they move things around
+[2013-10-31 21:19:56] ddary: will be interesting how webviews perform by being performed by chromium
