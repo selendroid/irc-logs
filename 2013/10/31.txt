@@ -49,3 +49,13 @@
 [2013-10-31 21:19:02] ddary: lol
 [2013-10-31 21:19:16] ddary: it is interesting how they move things around
 [2013-10-31 21:19:56] ddary: will be interesting how webviews perform by being performed by chromium
+[2013-10-31 21:20:13] lukeis: is that finally default?
+[2013-10-31 21:20:34] *lukeis needs to read the release log'
+[2013-10-31 21:20:50] ddary: http://developer.android.com/guide/webapps/migrating.html
+[2013-10-31 21:21:03] ddary: you were right :-)
+[2013-10-31 21:21:28] lukeis: well that's good :)
+[2013-10-31 21:21:57] lukeis: chromedriver will hopefully solve some of my issues in the webview area
+[2013-10-31 21:22:13] lukeis: but of course not for anything <19 ;)
+[2013-10-31 21:22:46] ddary: yeah, i know
+[2013-10-31 21:23:00] ddary: i currently also experiment with ui automator
+[2013-10-31 21:23:25] ddary: do you know anything when bully will be opensourced?
