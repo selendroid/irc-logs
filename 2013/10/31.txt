@@ -25,3 +25,6 @@
 [2013-10-31 13:17:45] ddary, leaving. (#selendroid)
 [2013-10-31 13:25:03] operatiay, joining. (#selendroid)
 [2013-10-31 16:13:03] ddary, joining. (#selendroid)
+[2013-10-31 16:21:09] ddary, quitting. (Read error: No route to host)
+[2013-10-31 16:21:19] ddary, joining. (#selendroid)
+[2013-10-31 16:23:34] ddary, leaving. (#selendroid)
