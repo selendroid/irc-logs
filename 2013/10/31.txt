@@ -67,3 +67,4 @@
 [2013-10-31 22:08:42] selendroid-git: selendroid/master c2b1002 Dominik Dary: Adding support for Android 4.4 #154
 [2013-10-31 22:08:42] selendroid-git, leaving. (#selendroid)
 [2013-10-31 22:24:11] ddary, leaving. (#selendroid)
+[2013-10-31 23:03:22] chhsiung, quitting. (Quit: Leaving.)
