@@ -68,3 +68,6 @@
 [2013-10-31 22:08:42] selendroid-git, leaving. (#selendroid)
 [2013-10-31 22:24:11] ddary, leaving. (#selendroid)
 [2013-10-31 23:03:22] chhsiung, quitting. (Quit: Leaving.)
+[2013-10-31 23:12:34] chhsiung, joining. (#selendroid)
+[2013-10-31 23:13:38] chhsiung, quitting. (Client Quit)
+[2013-10-31 23:14:21] lukeis, quitting. (Quit: Leaving.)
