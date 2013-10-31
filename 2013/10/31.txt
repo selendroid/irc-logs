@@ -1,3 +1,5 @@
 [2013-10-31 00:04:11] lukeis, quitting. (Quit: Leaving.)
 [2013-10-31 01:46:06] operatiay, joining. (#selendroid)
 [2013-10-31 01:50:33] operatiay, quitting. (Ping timeout: 246 seconds)
+[2013-10-31 02:57:01] chhsiung, joining. (#selendroid)
+[2013-10-31 02:57:09] chhsiung, quitting. (Client Quit)
