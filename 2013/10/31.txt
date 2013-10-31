@@ -33,3 +33,4 @@
 [2013-10-31 17:23:20] operatiay, joining. (#selendroid)
 [2013-10-31 17:32:21] smccarthy, joining. (#selendroid)
 [2013-10-31 18:29:27] chhsiung, joining. (#selendroid)
+[2013-10-31 18:44:50] ddary, joining. (#selendroid)
