@@ -59,3 +59,6 @@
 [2013-10-31 21:22:46] ddary: yeah, i know
 [2013-10-31 21:23:00] ddary: i currently also experiment with ui automator
 [2013-10-31 21:23:25] ddary: do you know anything when bully will be opensourced?
+[2013-10-31 21:27:11] lukeis: no, i don't… i'll ping simon again when i see him online next
+[2013-10-31 21:27:56] lukeis: ddary: or we can start expanding selendroid to use it ;)
+[2013-10-31 21:28:20] ddary: exactly
