@@ -3,3 +3,5 @@
 [2013-10-31 01:50:33] operatiay, quitting. (Ping timeout: 246 seconds)
 [2013-10-31 02:57:01] chhsiung, joining. (#selendroid)
 [2013-10-31 02:57:09] chhsiung, quitting. (Client Quit)
+[2013-10-31 03:11:13] chhsiung, joining. (#selendroid)
+[2013-10-31 03:11:39] chhsiung, quitting. (Remote host closed the connection)
