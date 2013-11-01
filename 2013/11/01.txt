@@ -40,3 +40,4 @@
 [2013-11-01 15:44:43] selendroid-git: selendroid/master 37fd283 Dominik Dary: In Android 19 root level views are returned as list and WebElements seems to be invisible even if they are displayed so adding a workaround to ignore that. #154
 [2013-11-01 15:44:43] selendroid-git, leaving. (#selendroid)
 [2013-11-01 15:45:14] chhsiung, quitting. (Quit: Leaving.)
+[2013-11-01 15:58:21] chhsiung, joining. (#selendroid)
