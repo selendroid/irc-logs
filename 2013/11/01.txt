@@ -34,3 +34,8 @@
 [2013-11-01 14:19:50] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-01 15:09:10] ddary, quitting. (Quit: ddary)
 [2013-11-01 15:38:56] chhsiung, joining. (#selendroid)
+[2013-11-01 15:44:43] selendroid-git, joining. (#selendroid)
+[2013-11-01 15:44:43] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/gGRyXw
+[2013-11-01 15:44:43] selendroid-git: selendroid/master 96d59ff Dominik Dary: Using correct parameter order for assert method.
+[2013-11-01 15:44:43] selendroid-git: selendroid/master 37fd283 Dominik Dary: In Android 19 root level views are returned as list and WebElements seems to be invisible even if they are displayed so adding a workaround to ignore that. #154
+[2013-11-01 15:44:43] selendroid-git, leaving. (#selendroid)
