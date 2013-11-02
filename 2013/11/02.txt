@@ -7,3 +7,4 @@
 [2013-11-02 04:11:48] operatiay, quitting. (Ping timeout: 245 seconds)
 [2013-11-02 04:48:59] chhsiung, joining. (#selendroid)
 [2013-11-02 05:21:05] chhsiung, quitting. (Quit: Leaving.)
+[2013-11-02 06:58:33] jlipps, joining. (#selendroid)
