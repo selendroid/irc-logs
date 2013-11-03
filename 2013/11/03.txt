@@ -15,3 +15,4 @@
 [2013-11-03 09:08:38] chhsiung, joining. (#selendroid)
 [2013-11-03 09:15:58] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-11-03 10:20:09] operatiay, joining. (#selendroid)
+[2013-11-03 10:25:05] operatiay, quitting. (Ping timeout: 272 seconds)
