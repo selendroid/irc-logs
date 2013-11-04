@@ -61,3 +61,4 @@
 [2013-11-04 18:49:58] simonstewart: I'm seeing grief when we call shutdown and then attempt to restart the server in the same process
 [2013-11-04 18:50:44] lukeis: sounds like an issue in the ddm lib then
 [2013-11-04 18:52:23] simonstewart: Right. I'm just checking to see if the termination thing is the problem
+[2013-11-04 19:09:57] jlipps, quitting. (Quit: Leaving.)
