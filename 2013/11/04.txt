@@ -66,3 +66,4 @@
 [2013-11-04 20:29:48] simonstewart, quitting. (Quit: simonstewart)
 [2013-11-04 20:59:22] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-04 21:23:02] chhsiung, joining. (#selendroid)
+[2013-11-04 22:05:30] operatiay, joining. (#selendroid)
