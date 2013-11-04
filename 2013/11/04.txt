@@ -51,3 +51,11 @@
 [2013-11-04 18:42:47] simonstewart, joining. (#selendroid)
 [2013-11-04 18:43:13] simonstewart: Anyone know why DefaultDeviceManager terminates the AndroidDebugBridge?
 [2013-11-04 18:43:21] simonstewart: On shutdown
+[2013-11-04 18:45:23] lukeis: no, i'd ask dominik… but he's out for the week
+[2013-11-04 18:45:28] lukeis: doesn't look right to me either.
+[2013-11-04 18:47:55] lukeis: oh, that's only done when the selendroid server is killed
+[2013-11-04 18:48:35] lukeis: also AndroidDebugBridge is not "adb"
+[2013-11-04 18:49:36] simonstewart: I said AndroidDebugBridge :)
+[2013-11-04 18:49:44] lukeis: i know ;)
+[2013-11-04 18:49:50] lukeis: is it causing an issue?
+[2013-11-04 18:49:58] simonstewart: I'm seeing grief when we call shutdown and then attempt to restart the server in the same process
