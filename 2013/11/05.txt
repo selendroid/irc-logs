@@ -53,3 +53,4 @@
 [2013-11-05 18:44:38] mummana: call(['java', '-jar', 'C:\Users\Administrator\Downloads\selendroid-standalone-0.5.1-with-dependencies.jar','-app',' C:\Users\Administrator\Downloads\com.fitness-1.apk','-verbose']) but cudnt able to start it :(
 [2013-11-05 18:45:19] mummana: te commnd promt gets close immediately after running the file
 [2013-11-05 19:37:51] selendroidbot, joining. (#selendroid)
+[2013-11-05 20:33:53] operatiay, joining. (#selendroid)
