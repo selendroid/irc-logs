@@ -9,3 +9,4 @@
 [2013-11-05 03:32:13] chhsiung, quitting. (Ping timeout: 245 seconds)
 [2013-11-05 03:36:09] chhsiung1, quitting. (Client Quit)
 [2013-11-05 04:23:29] operatiay, joining. (#selendroid)
+[2013-11-05 04:27:54] operatiay, quitting. (Ping timeout: 246 seconds)
