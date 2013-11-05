@@ -56,3 +56,4 @@
 [2013-11-05 20:33:53] operatiay, joining. (#selendroid)
 [2013-11-05 20:38:40] operatiay, quitting. (Ping timeout: 265 seconds)
 [2013-11-05 20:58:09] mummana, quitting. (Quit: Page closed)
+[2013-11-05 22:19:33] simonstewart, joining. (#selendroid)
