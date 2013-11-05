@@ -51,3 +51,4 @@
 [2013-11-05 18:41:50] lukeis: mummana: provided that the 'selendroid-standalone.jar' is the full path to the file, yes it will… but it will also block the execution in that python thread, so if you want it to do more you'll need to do something else. There are many options you can find by googling it.  Also don't necessarily limit yourself to using python to start the process, there's other options if you're running the job in a CI like jenkins
 [2013-11-05 18:44:14] mummana: yea tried something like this
 [2013-11-05 18:44:38] mummana: call(['java', '-jar', 'C:\Users\Administrator\Downloads\selendroid-standalone-0.5.1-with-dependencies.jar','-app',' C:\Users\Administrator\Downloads\com.fitness-1.apk','-verbose']) but cudnt able to start it :(
+[2013-11-05 18:45:19] mummana: te commnd promt gets close immediately after running the file
