@@ -44,3 +44,4 @@
 [2013-11-05 17:54:50] lukeis: from subprocess import call;  call(['java', '-jar', 'selendroid-standalone.jar'])   :)
 [2013-11-05 17:55:15] mummana: can i have the snippet of it please ? can u make a gist of it
 [2013-11-05 17:55:47] lukeis: there's many many ways in python to start an external process
+[2013-11-05 18:02:15] mummana: will this code  python  from subprocess import call;  call(['java', '-jar', 'selendroid-standalone.jar']) will automatically start the server?
