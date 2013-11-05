@@ -54,3 +54,4 @@
 [2013-11-05 18:45:19] mummana: te commnd promt gets close immediately after running the file
 [2013-11-05 19:37:51] selendroidbot, joining. (#selendroid)
 [2013-11-05 20:33:53] operatiay, joining. (#selendroid)
+[2013-11-05 20:38:40] operatiay, quitting. (Ping timeout: 265 seconds)
