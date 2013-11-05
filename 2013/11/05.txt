@@ -57,3 +57,5 @@
 [2013-11-05 20:38:40] operatiay, quitting. (Ping timeout: 265 seconds)
 [2013-11-05 20:58:09] mummana, quitting. (Quit: Page closed)
 [2013-11-05 22:19:33] simonstewart, joining. (#selendroid)
+[2013-11-05 22:21:08] lukeis, quitting. (Read error: Connection reset by peer)
+[2013-11-05 22:21:22] lukeis, joining. (#selendroid)
