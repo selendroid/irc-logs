@@ -27,3 +27,18 @@
 [2013-11-05 16:36:27] operatiay, quitting. (Ping timeout: 240 seconds)
 [2013-11-05 16:48:53] smccarthy, joining. (#selendroid)
 [2013-11-05 17:43:45] lukeis, joining. (#selendroid)
+[2013-11-05 17:50:13] mummana, joining. (#selendroid)
+[2013-11-05 17:50:38] mummana: hi lukeis
+[2013-11-05 17:50:49] lukeis: hi
+[2013-11-05 17:51:16] mummana: i have a doubt realred to selendroid in python
+[2013-11-05 17:51:21] mummana: related
+[2013-11-05 17:51:34] lukeis: ok, feel free to ask
+[2013-11-05 17:52:01] mummana: ok in java instead of manually starting the server i have used this code
+[2013-11-05 17:52:03] mummana: SelendroidConfiguration config = new SelendroidConfiguration(); // Add the selendroid-test-app to the standalone server config.addSupportedApp("src/main/resources/selendroid-test-app-0.5.1.apk"); selendroidServer = new SelendroidLauncher(config); selendroidServer.lauchSelendroid();
+[2013-11-05 17:52:55] mummana: similarly i want to start the server in python
+[2013-11-05 17:53:12] mummana: can i u help in that?
+[2013-11-05 17:53:37] lukeis: you'll need to call out through subprocess to start the JVM
+[2013-11-05 17:53:51] lukeis: selendroid is java, and you need to start it through java
+[2013-11-05 17:54:18] mummana: how to cal java cal code in python?
+[2013-11-05 17:54:23] lukeis: you don't :)
+[2013-11-05 17:54:50] lukeis: from subprocess import call;  call(['java', '-jar', 'selendroid-standalone.jar'])   :)
