@@ -28,3 +28,6 @@
 [2013-11-06 12:43:02] operatiay, joining. (#selendroid)
 [2013-11-06 13:55:43] operatiay, quitting. ()
 [2013-11-06 16:32:07] chhsiung, joining. (#selendroid)
+[2013-11-06 16:55:33] simonstewart_, joining. (#selendroid)
+[2013-11-06 16:57:55] simonstewart, quitting. (Ping timeout: 245 seconds)
+[2013-11-06 16:57:55] simonstewart_, changing nick to simonstewart.
