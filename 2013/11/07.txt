@@ -35,3 +35,5 @@
 [2013-11-07 17:06:14] chhsiung, quitting. (Client Quit)
 [2013-11-07 18:02:25] chhsiung, joining. (#selendroid)
 [2013-11-07 18:40:58] jlipps, joining. (#selendroid)
+[2013-11-07 18:57:27] jlipps1, joining. (#selendroid)
+[2013-11-07 18:57:27] jlipps, quitting. (Read error: Connection reset by peer)
