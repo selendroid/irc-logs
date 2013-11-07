@@ -32,3 +32,4 @@
 [2013-11-07 16:59:14] lukeis, joining. (#selendroid)
 [2013-11-07 17:00:39] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-07 17:01:36] chhsiung, joining. (#selendroid)
+[2013-11-07 17:06:14] chhsiung, quitting. (Client Quit)
