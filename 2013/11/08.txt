@@ -8,3 +8,4 @@
 [2013-11-08 07:05:25] lukeis, quitting. (Quit: Leaving.)
 [2013-11-08 07:17:57] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-08 07:48:46] chhsiung, joining. (#selendroid)
+[2013-11-08 07:53:03] chhsiung, quitting. (Ping timeout: 245 seconds)
