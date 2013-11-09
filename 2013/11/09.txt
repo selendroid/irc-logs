@@ -25,3 +25,4 @@
 [2013-11-09 15:40:44] chhsiung, quitting. (Quit: Leaving.)
 [2013-11-09 16:25:24] chhsiung, joining. (#selendroid)
 [2013-11-09 16:28:34] chhsiung, quitting. (Client Quit)
+[2013-11-09 17:05:52] mummana, quitting. (Quit: Page closed)
