@@ -3,3 +3,6 @@
 [2013-11-09 00:58:22] jlipps: we had some cloud issues over the last week, probably related to that
 [2013-11-09 00:58:33] jlipps: nothing changed in terms of vms or allocations to emulators
 [2013-11-09 00:58:38] lukeis: ok
+[2013-11-09 01:00:04] jlipps: thanks for letting me know
+[2013-11-09 01:00:22] lukeis: cheery news for a friday afternoon ;)
+[2013-11-09 01:00:52] lukeis: now that it's just about the weekend let's forget about it all till monday :)
