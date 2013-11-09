@@ -26,3 +26,4 @@
 [2013-11-09 16:25:24] chhsiung, joining. (#selendroid)
 [2013-11-09 16:28:34] chhsiung, quitting. (Client Quit)
 [2013-11-09 17:05:52] mummana, quitting. (Quit: Page closed)
+[2013-11-09 19:35:35] smccarthy, joining. (#selendroid)
