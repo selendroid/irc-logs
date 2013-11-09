@@ -1,0 +1,5 @@
+[2013-11-09 00:55:47] lukeis: hey jlipps just want to pass on an observation on our side, over about the last week (sorry, don't have a better time frame) the android emulators are performing much worse. (we have a wait multiplier for our runs against sauce and we've had to increase it… the multiplier adds to our WebDriverWait timeout value)
+[2013-11-09 00:58:10] jlipps: ok
+[2013-11-09 00:58:22] jlipps: we had some cloud issues over the last week, probably related to that
+[2013-11-09 00:58:33] jlipps: nothing changed in terms of vms or allocations to emulators
+[2013-11-09 00:58:38] lukeis: ok
