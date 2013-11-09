@@ -27,3 +27,4 @@
 [2013-11-09 16:28:34] chhsiung, quitting. (Client Quit)
 [2013-11-09 17:05:52] mummana, quitting. (Quit: Page closed)
 [2013-11-09 19:35:35] smccarthy, joining. (#selendroid)
+[2013-11-09 20:05:16] smccarthy, quitting. (Ping timeout: 264 seconds)
