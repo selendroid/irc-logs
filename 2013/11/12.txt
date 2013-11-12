@@ -1,1 +1,2 @@
 [2013-11-12 01:09:03] lukeis, quitting. (Ping timeout: 252 seconds)
+[2013-11-12 07:41:32] ddary, joining. (#selendroid)
