@@ -1,3 +1,4 @@
 [2013-11-12 01:09:03] lukeis, quitting. (Ping timeout: 252 seconds)
 [2013-11-12 07:41:32] ddary, joining. (#selendroid)
 [2013-11-12 08:13:23] ddary: :changelog
+[2013-11-12 12:19:46] ddary, leaving. (#selendroid)
