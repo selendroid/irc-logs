@@ -26,3 +26,4 @@
 [2013-11-13 08:53:48] smccarthy, quitting. (Remote host closed the connection)
 [2013-11-13 16:34:27] jlipps, joining. (#selendroid)
 [2013-11-13 16:42:36] smccarthy, joining. (#selendroid)
+[2013-11-13 16:53:51] jlipps, quitting. (Quit: Leaving.)
