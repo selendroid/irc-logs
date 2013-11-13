@@ -33,3 +33,4 @@
 [2013-11-13 17:36:44] jlipps, joining. (#selendroid)
 [2013-11-13 17:46:59] jlipps, quitting. (Quit: Leaving.)
 [2013-11-13 18:39:46] jlipps, joining. (#selendroid)
+[2013-11-13 20:18:59] lukeis: jlipps: is there any mechanism with appium / sauce & android to execute an adb command after the app is installed? Basically I want to push an xml file to the device - after the app is installed  (example:   adb push /tmp/server_url_prefs.xml /data/data/com.salesforce.chatter/shared_prefs/server_url_prefs.xml)  This is to short-cut our setting of server step (and the only way possible to set an insecure 'http' server).
