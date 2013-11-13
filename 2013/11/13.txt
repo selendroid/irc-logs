@@ -27,3 +27,4 @@
 [2013-11-13 16:34:27] jlipps, joining. (#selendroid)
 [2013-11-13 16:42:36] smccarthy, joining. (#selendroid)
 [2013-11-13 16:53:51] jlipps, quitting. (Quit: Leaving.)
+[2013-11-13 17:06:31] jlipps, joining. (#selendroid)
