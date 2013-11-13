@@ -54,3 +54,12 @@
 [2013-11-13 20:29:32] lukeis: connecting to various servers
 [2013-11-13 20:29:48] jlipps: ok
 [2013-11-13 20:29:51] lukeis: the server pref just sets which server the app should connect to
+[2013-11-13 20:30:06] jlipps: this will be a big enough project it's not going to come down to my call whether and when to work on it
+[2013-11-13 20:30:13] lukeis: ok :)
+[2013-11-13 20:30:18] jlipps: can you send a request to help@ so we can start tracking it?
+[2013-11-13 20:30:23] lukeis: I'll draft an email
+[2013-11-13 20:30:27] jlipps: thanks
+[2013-11-13 20:30:29] lukeis: yes
+[2013-11-13 20:30:31] jlipps: or an e-mail to the teams is fine
+[2013-11-13 20:30:42] lukeis: cc'd ;)
+[2013-11-13 20:30:46] jlipps: thanks
