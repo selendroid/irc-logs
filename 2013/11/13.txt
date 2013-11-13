@@ -64,3 +64,4 @@
 [2013-11-13 20:30:42] lukeis: cc'd ;)
 [2013-11-13 20:30:46] jlipps: thanks
 [2013-11-13 20:54:28] jlipps, quitting. (Quit: Leaving.)
+[2013-11-13 21:44:26] ddary, joining. (#selendroid)
