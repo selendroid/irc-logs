@@ -22,3 +22,4 @@
 [2013-11-13 06:38:52] lukeis, quitting. (Ping timeout: 264 seconds)
 [2013-11-13 06:40:07] lukeis2, changing nick to lukeis.
 [2013-11-13 06:40:14] lukeis1, quitting. (Ping timeout: 240 seconds)
+[2013-11-13 08:22:35] lukeis, quitting. (Quit: Leaving.)
