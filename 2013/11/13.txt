@@ -65,3 +65,4 @@
 [2013-11-13 20:30:46] jlipps: thanks
 [2013-11-13 20:54:28] jlipps, quitting. (Quit: Leaving.)
 [2013-11-13 21:44:26] ddary, joining. (#selendroid)
+[2013-11-13 23:11:24] ddary, quitting. (Quit: ddary)
