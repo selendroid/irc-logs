@@ -32,3 +32,4 @@
 [2013-11-13 17:36:37] jlipps, quitting. (Read error: Connection reset by peer)
 [2013-11-13 17:36:44] jlipps, joining. (#selendroid)
 [2013-11-13 17:46:59] jlipps, quitting. (Quit: Leaving.)
+[2013-11-13 18:39:46] jlipps, joining. (#selendroid)
