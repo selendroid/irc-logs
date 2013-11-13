@@ -34,3 +34,23 @@
 [2013-11-13 17:46:59] jlipps, quitting. (Quit: Leaving.)
 [2013-11-13 18:39:46] jlipps, joining. (#selendroid)
 [2013-11-13 20:18:59] lukeis: jlipps: is there any mechanism with appium / sauce & android to execute an adb command after the app is installed? Basically I want to push an xml file to the device - after the app is installed  (example:   adb push /tmp/server_url_prefs.xml /data/data/com.salesforce.chatter/shared_prefs/server_url_prefs.xml)  This is to short-cut our setting of server step (and the only way possible to set an insecure 'http' server).
+[2013-11-13 20:25:23] jlipps: not currently, no
+[2013-11-13 20:25:54] jlipps: if we did do something like that it'd also be a project for both appium and/or sauce—the same solution won't work for both
+[2013-11-13 20:25:57] lukeis: ok, let's have a think about this in the near future and come up with something?! :)  I'll be wanting(actually needing) in a while
+[2013-11-13 20:26:28] jlipps: i actually don't think i want this in appium; seems eminently scriptable without making it part of appium
+[2013-11-13 20:26:36] lukeis: i don't mind separate solutions
+[2013-11-13 20:26:37] jlipps: but maybe it could be part of sauce
+[2013-11-13 20:26:44] lukeis: i don't have this in selendroid
+[2013-11-13 20:26:50] lukeis: i have jenkins do it
+[2013-11-13 20:26:59] jlipps: we have pre-run executables for regular selenium jobs so maybe something similar could work for android
+[2013-11-13 20:27:28] lukeis: big caveat is it has to run After the apk is installed
+[2013-11-13 20:27:43] jlipps: oh
+[2013-11-13 20:28:06] jlipps: yeah. this will be a big change
+[2013-11-13 20:28:06] lukeis: I can always deal with that on my side by issuing the command after the new Driver
+[2013-11-13 20:28:45] jlipps: why not build a version of the app that has this xml file instead of the default
+[2013-11-13 20:29:06] lukeis: i have N server configs i need to set
+[2013-11-13 20:29:15] lukeis: N being big N
+[2013-11-13 20:29:23] jlipps: so you're testing various server configurations
+[2013-11-13 20:29:32] lukeis: connecting to various servers
+[2013-11-13 20:29:48] jlipps: ok
+[2013-11-13 20:29:51] lukeis: the server pref just sets which server the app should connect to
