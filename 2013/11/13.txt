@@ -24,3 +24,4 @@
 [2013-11-13 06:40:14] lukeis1, quitting. (Ping timeout: 240 seconds)
 [2013-11-13 08:22:35] lukeis, quitting. (Quit: Leaving.)
 [2013-11-13 08:53:48] smccarthy, quitting. (Remote host closed the connection)
+[2013-11-13 16:34:27] jlipps, joining. (#selendroid)
