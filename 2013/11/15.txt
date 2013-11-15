@@ -11,3 +11,4 @@
 [2013-11-15 13:11:28] ddary, joining. (#selendroid)
 [2013-11-15 14:21:16] ukkopekka, joining. (#selendroid)
 [2013-11-15 15:49:50] ddary, quitting. (Read error: Connection reset by peer)
+[2013-11-15 15:53:53] ddary, joining. (#selendroid)
