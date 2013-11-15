@@ -20,3 +20,4 @@
 [2013-11-15 16:34:15] remic_, joining. (#selendroid)
 [2013-11-15 16:36:23] smccarthy, joining. (#selendroid)
 [2013-11-15 16:58:50] remic_, leaving. (#selendroid)
+[2013-11-15 17:13:38] lukeis, joining. (#selendroid)
