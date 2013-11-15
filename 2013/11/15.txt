@@ -18,3 +18,4 @@
 [2013-11-15 16:33:18] remi, joining. (#selendroid)
 [2013-11-15 16:33:29] remi, leaving. (#selendroid)
 [2013-11-15 16:34:15] remic_, joining. (#selendroid)
+[2013-11-15 16:36:23] smccarthy, joining. (#selendroid)
