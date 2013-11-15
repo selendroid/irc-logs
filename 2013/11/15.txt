@@ -30,3 +30,4 @@
 [2013-11-15 22:01:32] smccarthy2, joining. (#selendroid)
 [2013-11-15 22:02:48] smccarthy2, quitting. (Read error: Connection reset by peer)
 [2013-11-15 22:03:02] smccarthy2, joining. (#selendroid)
+[2013-11-15 22:05:23] smccarthy, quitting. (Ping timeout: 260 seconds)
