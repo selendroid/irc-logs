@@ -21,3 +21,8 @@
 [2013-11-18 13:03:09] smiklosovic, joining. (#selendroid)
 [2013-11-18 13:05:19] smiklosovic: ddary: hi, could you please tell me what should i do with this one? i have a simple activty with text views, name + email + pass + pass repeat and below all of this there is a (registration) button. So when I .sendKeys on these elements, registration button is not visible, it is covered by keyboard. When i am about to click on that registration button, it says that it can not found that element ...
 [2013-11-18 13:20:50] smiklosovic: ddary: i am trying to figure out how to hide that keyboard after i fill the last text view however nothing seems to work, I tried Actions action = new Actions(driver); action.sendKeys(Keys.ESCAPE); as well as Keys.ENTER but it does not work, on emulator, pressing escape hides it ...
+[2013-11-18 13:32:10] operatiay, quitting. (Remote host closed the connection)
+[2013-11-18 13:33:06] ddary: smiklosovic: you mean the button is not visible because the keyboard is hiding the button?
+[2013-11-18 13:33:17] smiklosovic: ddary: exactly
+[2013-11-18 13:33:48] ddary: smiklosovic: if you use the
+[2013-11-18 13:34:16] ddary: advanced gestures to swipe a bit, does this help?
