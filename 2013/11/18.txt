@@ -2,3 +2,11 @@
 [2013-11-18 09:22:35] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/MBfgyA
 [2013-11-18 09:22:35] selendroid-git: selendroid/master 5f7d055 Dominik Dary: Update Selenium to version 2.37.1 #171
 [2013-11-18 09:22:35] selendroid-git, leaving. (#selendroid)
+[2013-11-18 09:32:33] selendroid-git, joining. (#selendroid)
+[2013-11-18 09:32:33] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/xWHuTw
+[2013-11-18 09:32:33] selendroid-git: selendroid/gh-pages 1f8d3db Dominik Dary: Moving artifacts download location to github.
+[2013-11-18 09:32:33] selendroid-git, leaving. (#selendroid)
+[2013-11-18 09:34:12] selendroid-git, joining. (#selendroid)
+[2013-11-18 09:34:12] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/2ciNtQ
+[2013-11-18 09:34:12] selendroid-git: selendroid/gh-pages 36f0e53 Dominik Dary: fixing copyright
+[2013-11-18 09:34:12] selendroid-git, leaving. (#selendroid)
