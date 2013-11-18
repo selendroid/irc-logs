@@ -82,3 +82,4 @@
 [2013-11-18 20:43:14] ddary: he is not mentioned in the corporate CLA that simon has sent to me
 [2013-11-18 20:43:27] ddary: just for your information ;-)
 [2013-11-18 20:43:37] lukeis: ok :)
+[2013-11-18 20:53:49] operatiay, joining. (#selendroid)
