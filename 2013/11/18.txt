@@ -50,3 +50,4 @@
 [2013-11-18 14:50:14] selendroid-git: selendroid/master 0c27e6c Dominik Dary: avoiding to terminate adb #173
 [2013-11-18 14:50:14] selendroid-git, leaving. (#selendroid)
 [2013-11-18 14:51:35] ddary: :snapshot
+[2013-11-18 14:57:19] operatiay, joining. (#selendroid)
