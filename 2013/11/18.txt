@@ -26,3 +26,11 @@
 [2013-11-18 13:33:17] smiklosovic: ddary: exactly
 [2013-11-18 13:33:48] ddary: smiklosovic: if you use the
 [2013-11-18 13:34:16] ddary: advanced gestures to swipe a bit, does this help?
+[2013-11-18 13:35:23] smiklosovic: i have not try that yet ...
+[2013-11-18 13:35:56] smiklosovic: i am trying just to hide that with emulation the pressing of some button
+[2013-11-18 13:36:18] smiklosovic: like driver.getKeyboard().sendKeys(Keys.ESCAPE) or similar
+[2013-11-18 13:37:24] ddary: I don't know a way (which means I have not looked into it) about how to remove the keyboard
+[2013-11-18 13:38:09] smiklosovic: ok, i'll let you know when I find the way, thansk
+[2013-11-18 13:38:12] smiklosovic: *thanks
+[2013-11-18 13:38:43] ddary: I will also look around, if I find something
+[2013-11-18 13:38:59] operatiay, joining. (#selendroid)
