@@ -34,3 +34,7 @@
 [2013-11-18 13:38:12] smiklosovic: *thanks
 [2013-11-18 13:38:43] ddary: I will also look around, if I find something
 [2013-11-18 13:38:59] operatiay, joining. (#selendroid)
+[2013-11-18 13:50:22] selendroid-git, joining. (#selendroid)
+[2013-11-18 13:50:22] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/AU6Fzg
+[2013-11-18 13:50:22] selendroid-git: selendroid/gh-pages 25b820d Dominik Dary: Update native.html
+[2013-11-18 13:50:22] selendroid-git, leaving. (#selendroid)
