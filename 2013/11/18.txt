@@ -88,3 +88,4 @@
 [2013-11-18 21:53:53] ddary, joining. (#selendroid)
 [2013-11-18 22:18:15] ddary, quitting. (Quit: ddary)
 [2013-11-18 22:28:55] operatiay, joining. (#selendroid)
+[2013-11-18 22:43:47] operatiay, quitting. (Remote host closed the connection)
