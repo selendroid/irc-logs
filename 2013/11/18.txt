@@ -14,3 +14,5 @@
 [2013-11-18 09:52:15] selendroidbot, joining. (#selendroid)
 [2013-11-18 09:52:38] ddary: :snapshot
 [2013-11-18 09:54:17] ddary, quitting. (Client Quit)
+[2013-11-18 09:58:11] ddary, joining. (#selendroid)
+[2013-11-18 09:58:17] ddary: :log
