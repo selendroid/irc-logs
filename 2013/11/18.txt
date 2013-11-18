@@ -67,3 +67,4 @@
 [2013-11-18 18:38:30] selendroid-git, joining. (#selendroid)
 [2013-11-18 18:38:30] selendroid-git: [selendroid] vladfridman opened pull request #175: Terminate adb connection only when flag is set. Also correctly add devices when they are already in the list. (master...master) http://git.io/WGAyjQ
 [2013-11-18 18:38:30] selendroid-git, leaving. (#selendroid)
+[2013-11-18 18:53:17] operatiay, quitting. (Remote host closed the connection)
