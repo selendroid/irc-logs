@@ -86,3 +86,4 @@
 [2013-11-18 20:56:21] operatiay, quitting. (Read error: Operation timed out)
 [2013-11-18 21:13:55] ddary, quitting. (Quit: ddary)
 [2013-11-18 21:53:53] ddary, joining. (#selendroid)
+[2013-11-18 22:18:15] ddary, quitting. (Quit: ddary)
