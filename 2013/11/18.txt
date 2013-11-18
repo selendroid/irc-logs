@@ -45,3 +45,8 @@
 [2013-11-18 14:05:23] smiklosovic: and it made it to be hidden
 [2013-11-18 14:06:26] ddary: awesome :-)
 [2013-11-18 14:47:06] smiklosovic, quitting. (Quit: Page closed)
+[2013-11-18 14:50:13] selendroid-git, joining. (#selendroid)
+[2013-11-18 14:50:14] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/JGFQ0Q
+[2013-11-18 14:50:14] selendroid-git: selendroid/master 0c27e6c Dominik Dary: avoiding to terminate adb #173
+[2013-11-18 14:50:14] selendroid-git, leaving. (#selendroid)
+[2013-11-18 14:51:35] ddary: :snapshot
