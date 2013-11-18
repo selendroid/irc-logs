@@ -19,3 +19,4 @@
 [2013-11-18 10:17:31] ddary: :snapshot
 [2013-11-18 10:47:26] operatiay, joining. (#selendroid)
 [2013-11-18 13:03:09] smiklosovic, joining. (#selendroid)
+[2013-11-18 13:05:19] smiklosovic: ddary: hi, could you please tell me what should i do with this one? i have a simple activty with text views, name + email + pass + pass repeat and below all of this there is a (registration) button. So when I .sendKeys on these elements, registration button is not visible, it is covered by keyboard. When i am about to click on that registration button, it says that it can not found that element ...
