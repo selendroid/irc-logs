@@ -70,3 +70,5 @@
 [2013-11-18 18:53:17] operatiay, quitting. (Remote host closed the connection)
 [2013-11-18 19:02:27] ddary, joining. (#selendroid)
 [2013-11-18 19:14:56] ddary: :snapshot
+[2013-11-18 19:35:54] ddary, quitting. (Quit: ddary)
+[2013-11-18 19:38:28] ddary, joining. (#selendroid)
