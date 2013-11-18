@@ -60,3 +60,7 @@
 [2013-11-18 17:22:18] ddary, quitting. (Quit: ddary)
 [2013-11-18 17:38:22] lukeis, joining. (#selendroid)
 [2013-11-18 18:06:06] operatiay, joining. (#selendroid)
+[2013-11-18 18:25:34] operatiay, quitting. (Remote host closed the connection)
+[2013-11-18 18:26:37] operatiay, joining. (#selendroid)
+[2013-11-18 18:26:38] operatiay, quitting. (Read error: Connection reset by peer)
+[2013-11-18 18:26:51] operatiay, joining. (#selendroid)
