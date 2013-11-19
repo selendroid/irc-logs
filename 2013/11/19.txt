@@ -13,3 +13,7 @@
 [2013-11-19 15:48:40] operatiay, joining. (#selendroid)
 [2013-11-19 15:53:33] operatiay, quitting. (Ping timeout: 272 seconds)
 [2013-11-19 15:53:58] operatiay, joining. (#selendroid)
+[2013-11-19 15:55:19] selendroid-git, joining. (#selendroid)
+[2013-11-19 15:55:20] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/CrtIjA
+[2013-11-19 15:55:20] selendroid-git: selendroid/master decc261 Simon Stewart: Time out SelendroidLauncher if the server fails to start up within 3 minutes....
+[2013-11-19 15:55:20] selendroid-git, leaving. (#selendroid)
