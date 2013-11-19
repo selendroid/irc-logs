@@ -48,3 +48,4 @@
 [2013-11-19 22:06:09] operatiay, joining. (#selendroid)
 [2013-11-19 22:15:31] lukeis, joining. (#selendroid)
 [2013-11-19 22:21:13] operatiay, quitting. (Remote host closed the connection)
+[2013-11-19 23:47:00] lukeis, quitting. (Quit: Leaving.)
