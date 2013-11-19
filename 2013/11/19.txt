@@ -6,3 +6,7 @@
 [2013-11-19 07:07:52] ddary: :log
 [2013-11-19 10:38:40] operatiay, joining. (#selendroid)
 [2013-11-19 13:48:09] operatiay, quitting. (Remote host closed the connection)
+[2013-11-19 15:33:17] selendroid-git, joining. (#selendroid)
+[2013-11-19 15:33:17] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/PcTb-A
+[2013-11-19 15:33:17] selendroid-git: selendroid/master 2f41962 Vlad Fridman: 1. Terminate adb connection only if -keepAdbAlive flag is off, which is the default...
+[2013-11-19 15:33:17] selendroid-git, leaving. (#selendroid)
