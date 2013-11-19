@@ -21,3 +21,7 @@
 [2013-11-19 16:00:30] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/Pb40KQ
 [2013-11-19 16:00:30] selendroid-git: selendroid/master bc25684 Simon Stewart: Fixing typos. No logical change
 [2013-11-19 16:00:30] selendroid-git, leaving. (#selendroid)
+[2013-11-19 16:33:27] selendroid-git, joining. (#selendroid)
+[2013-11-19 16:33:27] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/In0tmg
+[2013-11-19 16:33:27] selendroid-git: selendroid/master 96940b3 Dominik Dary: Update AUTHORS
+[2013-11-19 16:33:27] selendroid-git, leaving. (#selendroid)
