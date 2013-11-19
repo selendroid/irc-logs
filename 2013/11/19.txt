@@ -45,3 +45,4 @@
 [2013-11-19 19:20:04] ddary, joining. (#selendroid)
 [2013-11-19 19:23:52] ddary, quitting. (Client Quit)
 [2013-11-19 19:28:30] lukeis, quitting. (Quit: Leaving.)
+[2013-11-19 22:06:09] operatiay, joining. (#selendroid)
