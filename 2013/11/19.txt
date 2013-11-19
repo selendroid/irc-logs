@@ -33,3 +33,4 @@
 [2013-11-19 16:40:37] selendroid-git: selendroid/gh-pages 1e9728b Dominik Dary: adding copyright
 [2013-11-19 16:40:37] selendroid-git, leaving. (#selendroid)
 [2013-11-19 16:56:08] ddary, leaving. (#selendroid)
+[2013-11-19 17:46:40] lukeis, joining. (#selendroid)
