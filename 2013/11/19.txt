@@ -25,3 +25,6 @@
 [2013-11-19 16:33:27] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/In0tmg
 [2013-11-19 16:33:27] selendroid-git: selendroid/master 96940b3 Dominik Dary: Update AUTHORS
 [2013-11-19 16:33:27] selendroid-git, leaving. (#selendroid)
+[2013-11-19 16:35:30] selendroid-git, joining. (#selendroid)
+[2013-11-19 16:35:30] selendroid-git: [selendroid] DominikDary closed pull request #175: Terminate adb connection only when flag is set. Also correctly add devices when they are already in the list. (master...master) http://git.io/WGAyjQ
+[2013-11-19 16:35:30] selendroid-git, leaving. (#selendroid)
