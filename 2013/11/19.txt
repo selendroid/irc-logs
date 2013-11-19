@@ -17,3 +17,7 @@
 [2013-11-19 15:55:20] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/CrtIjA
 [2013-11-19 15:55:20] selendroid-git: selendroid/master decc261 Simon Stewart: Time out SelendroidLauncher if the server fails to start up within 3 minutes....
 [2013-11-19 15:55:20] selendroid-git, leaving. (#selendroid)
+[2013-11-19 16:00:29] selendroid-git, joining. (#selendroid)
+[2013-11-19 16:00:30] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/Pb40KQ
+[2013-11-19 16:00:30] selendroid-git: selendroid/master bc25684 Simon Stewart: Fixing typos. No logical change
+[2013-11-19 16:00:30] selendroid-git, leaving. (#selendroid)
