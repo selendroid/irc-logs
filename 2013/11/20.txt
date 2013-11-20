@@ -36,3 +36,9 @@
 [2013-11-20 11:27:09] MiSter: and el is the correct element after findElement
 [2013-11-20 11:27:47] ddary: and that was also not working?
 [2013-11-20 11:28:09] MiSter: nope. this results in a hang in click and the 60s timeout
+[2013-11-20 11:30:08] ddary: if you invoke: el.isDisplayed(), what does it return?
+[2013-11-20 11:30:13] MiSter: just tried it again. the log shows the http /element/<id>/click request, then nothing and 60s later: Didn't get a new command in 60 secs, shutting down
+[2013-11-20 11:32:26] ddary: isDisplayed()?
+[2013-11-20 11:32:35] MiSter: just testing
+[2013-11-20 11:32:39] ddary: ok, sorry
+[2013-11-20 11:34:22] MiSter: it is false. very interesting. as i said before using the same code with pure appium el.click() works.
