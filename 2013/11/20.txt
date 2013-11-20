@@ -81,3 +81,4 @@
 [2013-11-20 15:38:22] operatia_, quitting. (Remote host closed the connection)
 [2013-11-20 15:42:13] operatiay, joining. (#selendroid)
 [2013-11-20 15:49:29] smccarthy, joining. (#selendroid)
+[2013-11-20 15:59:46] MiSter: hi ddary. just tried to check if driver.back() will work. It's driver.navigate().back() and it works fine. But do you know a way to check if the keyboard is displayed? If it is not then navigate().back() will accidentally goes back the chain.
