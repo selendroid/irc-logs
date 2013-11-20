@@ -11,3 +11,7 @@
 [2013-11-20 08:55:54] ddary, quitting. (Client Quit)
 [2013-11-20 08:56:54] ddary, joining. (#selendroid)
 [2013-11-20 09:02:33] jlipps, quitting. (Quit: Leaving.)
+[2013-11-20 09:16:20] selendroid-git, joining. (#selendroid)
+[2013-11-20 09:16:20] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/ITCuOA
+[2013-11-20 09:16:20] selendroid-git: selendroid/gh-pages 89c0c46 Dominik Dary: Update index.html
+[2013-11-20 09:16:20] selendroid-git, leaving. (#selendroid)
