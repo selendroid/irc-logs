@@ -15,3 +15,5 @@
 [2013-11-20 09:16:20] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/ITCuOA
 [2013-11-20 09:16:20] selendroid-git: selendroid/gh-pages 89c0c46 Dominik Dary: Update index.html
 [2013-11-20 09:16:20] selendroid-git, leaving. (#selendroid)
+[2013-11-20 09:26:50] jlipps, joining. (#selendroid)
+[2013-11-20 09:28:07] jlipps, quitting. (Client Quit)
