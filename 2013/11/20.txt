@@ -90,3 +90,4 @@
 [2013-11-20 16:15:12] ddary: interesting
 [2013-11-20 16:29:56] operatiay, joining. (#selendroid)
 [2013-11-20 17:09:47] MiSter, quitting. (Ping timeout: 250 seconds)
+[2013-11-20 17:46:11] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
