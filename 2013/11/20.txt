@@ -20,3 +20,6 @@
 [2013-11-20 10:24:00] ddary, quitting. (Quit: ddary)
 [2013-11-20 10:25:16] ddary, joining. (#selendroid)
 [2013-11-20 10:40:52] operatiay, joining. (#selendroid)
+[2013-11-20 11:07:15] MiSter, joining. (#selendroid)
+[2013-11-20 11:07:35] MiSter: hi selendroid community
+[2013-11-20 11:08:07] MiSter: I am new to selendroid and have some problems I need to discuss. I hope this is the right place for that
