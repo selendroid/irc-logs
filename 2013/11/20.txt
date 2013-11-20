@@ -101,3 +101,4 @@
 [2013-11-20 19:55:42] lukeis: :note ddary to fix selendroidbot, you'll need to fetch the latest changes from selbot (in particular the one for getting googlecode issues)
 [2013-11-20 20:52:24] operatiay, joining. (#selendroid)
 [2013-11-20 20:57:24] operatiay, quitting. (Ping timeout: 272 seconds)
+[2013-11-20 22:08:55] operatiay, joining. (#selendroid)
