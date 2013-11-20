@@ -95,3 +95,4 @@
 [2013-11-20 18:01:32] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/g6K9Qw
 [2013-11-20 18:01:32] selendroid-git: selendroid/gh-pages ae0f673 Dominik Dary: adding sample videos
 [2013-11-20 18:01:32] selendroid-git, leaving. (#selendroid)
+[2013-11-20 18:51:46] operatiay, quitting. (Remote host closed the connection)
