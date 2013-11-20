@@ -58,3 +58,4 @@
 [2013-11-20 11:48:27] ddary: yes please to github
 [2013-11-20 11:48:48] ddary: another thing that came to my mind would be:
 [2013-11-20 11:49:53] ddary: get the cordinates of the webwelement, and then TouchActions.down(int x, int y) and then TouchActions.up(int x, int y)
+[2013-11-20 11:51:23] MiSter: good idea. will try that before creating the issue
