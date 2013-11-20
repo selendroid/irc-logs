@@ -28,3 +28,6 @@
 [2013-11-20 11:17:21] ddary: :)
 [2013-11-20 11:17:37] MiSter: fine. so let's start
 [2013-11-20 11:19:17] MiSter: i am using selendroid inside appium which is not a problem (anymore). the app i am trying to test has "buttons" which are actually subclasses of  TextView. selendroid finds them but click() hangs and after 60s breaks with timeout. Any ideas?
+[2013-11-20 11:21:29] MiSter: Using TouchActions singleTap returns immediately and the console shows a response of status 0 but no tap performed
+[2013-11-20 11:22:12] ddary: are the buttons visible or maybe hidden by a keyboard?
+[2013-11-20 11:23:19] MiSter: everything is visible, no keyboard displayed. using appium (without selendroid) click() works as expected
