@@ -91,3 +91,7 @@
 [2013-11-20 16:29:56] operatiay, joining. (#selendroid)
 [2013-11-20 17:09:47] MiSter, quitting. (Ping timeout: 250 seconds)
 [2013-11-20 17:46:11] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-11-20 18:01:31] selendroid-git, joining. (#selendroid)
+[2013-11-20 18:01:32] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/g6K9Qw
+[2013-11-20 18:01:32] selendroid-git: selendroid/gh-pages ae0f673 Dominik Dary: adding sample videos
+[2013-11-20 18:01:32] selendroid-git, leaving. (#selendroid)
