@@ -4,3 +4,4 @@
 [2013-11-20 02:46:03] jlipps, quitting. (Quit: Leaving.)
 [2013-11-20 02:48:53] smccarthy, quitting. (Remote host closed the connection)
 [2013-11-20 07:05:45] ddary, joining. (#selendroid)
+[2013-11-20 07:16:48] ddary: :log
