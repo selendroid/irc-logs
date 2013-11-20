@@ -66,3 +66,4 @@
 [2013-11-20 12:58:54] MiSter, joining. (#selendroid)
 [2013-11-20 12:59:20] MiSter: lost connectio to irc
 [2013-11-20 12:59:46] MiSter: maybe driver.back() will help, will test that later. But isDisplay()==true is not correct if view is hidden by the keyboard
+[2013-11-20 13:00:49] ddary: yes, i see it in the same way
