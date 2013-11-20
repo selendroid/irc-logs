@@ -31,3 +31,8 @@
 [2013-11-20 11:21:29] MiSter: Using TouchActions singleTap returns immediately and the console shows a response of status 0 but no tap performed
 [2013-11-20 11:22:12] ddary: are the buttons visible or maybe hidden by a keyboard?
 [2013-11-20 11:23:19] MiSter: everything is visible, no keyboard displayed. using appium (without selendroid) click() works as expected
+[2013-11-20 11:25:50] ddary: Have you tried just to use the click method on the WebElement?
+[2013-11-20 11:26:45] MiSter: this was try number 1. el = findElement(By.id -> el.click()
+[2013-11-20 11:27:09] MiSter: and el is the correct element after findElement
+[2013-11-20 11:27:47] ddary: and that was also not working?
+[2013-11-20 11:28:09] MiSter: nope. this results in a hang in click and the 60s timeout
