@@ -97,3 +97,4 @@
 [2013-11-20 18:01:32] selendroid-git, leaving. (#selendroid)
 [2013-11-20 18:51:46] operatiay, quitting. (Remote host closed the connection)
 [2013-11-20 19:02:16] lukeis, joining. (#selendroid)
+[2013-11-20 19:54:48] lukeis: :note ddary chromedriver isn't really ready for use with hybrid apps (unless your 'hybrid' app starts off as a webview and is basically only a webview)  see chromedriver#633 and chromedriver#634
