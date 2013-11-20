@@ -23,3 +23,8 @@
 [2013-11-20 11:07:15] MiSter, joining. (#selendroid)
 [2013-11-20 11:07:35] MiSter: hi selendroid community
 [2013-11-20 11:08:07] MiSter: I am new to selendroid and have some problems I need to discuss. I hope this is the right place for that
+[2013-11-20 11:17:05] ddary: Hi MiSter
+[2013-11-20 11:17:19] ddary: exactly, that here is the right place
+[2013-11-20 11:17:21] ddary: :)
+[2013-11-20 11:17:37] MiSter: fine. so let's start
+[2013-11-20 11:19:17] MiSter: i am using selendroid inside appium which is not a problem (anymore). the app i am trying to test has "buttons" which are actually subclasses of  TextView. selendroid finds them but click() hangs and after 60s breaks with timeout. Any ideas?
