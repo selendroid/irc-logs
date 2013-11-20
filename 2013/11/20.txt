@@ -61,3 +61,4 @@
 [2013-11-20 11:51:23] MiSter: good idea. will try that before creating the issue
 [2013-11-20 12:04:45] MiSter: down/up works fine. will write a helper method until click works. thanks for the idea. can i issue down.perform and up.perform back to back or shall i wait between?
 [2013-11-20 12:21:57] MiSter: after fiddling more with it, i have now a situation where a similar textview is actually hidden by the keyboard but isDisplayed returns true for it. switched values maybe?
+[2013-11-20 12:48:17] ddary: if you use driver.back() is should hide the keyboard (that is at least what a user reported yesterday) does this work for you?
