@@ -45,3 +45,8 @@
 [2013-11-20 11:35:26] MiSter: and the emulator clearly show the field and it is clickable
 [2013-11-20 11:38:40] ddary: ok, i have heard this before. thanks for the details
 [2013-11-20 11:39:45] ddary: appium and selendroid have nothing similiar, so the whole logik about clicking elements is using totally different technology stacks. the only thing that both tools have in common is the json wire protocol
+[2013-11-20 11:40:38] ddary: I have to discuss that with the other commiters how we proceed with the is displayed methond...
+[2013-11-20 11:41:05] MiSter: any ideas for a workaround? as i said i tried singleTap (nope) and also executeScript("mobile: tap") (says something about no method complexTap)
+[2013-11-20 11:44:23] ddary: no
+[2013-11-20 11:44:32] ddary: mobile:tap is not supported
+[2013-11-20 11:44:50] ddary: that is appium specific and has nothing to do with selenium ...
