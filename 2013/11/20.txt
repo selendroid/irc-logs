@@ -100,3 +100,4 @@
 [2013-11-20 19:54:48] lukeis: :note ddary chromedriver isn't really ready for use with hybrid apps (unless your 'hybrid' app starts off as a webview and is basically only a webview)  see chromedriver#633 and chromedriver#634
 [2013-11-20 19:55:42] lukeis: :note ddary to fix selendroidbot, you'll need to fetch the latest changes from selbot (in particular the one for getting googlecode issues)
 [2013-11-20 20:52:24] operatiay, joining. (#selendroid)
+[2013-11-20 20:57:24] operatiay, quitting. (Ping timeout: 272 seconds)
