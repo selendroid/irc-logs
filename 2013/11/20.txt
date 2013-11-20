@@ -42,3 +42,6 @@
 [2013-11-20 11:32:35] MiSter: just testing
 [2013-11-20 11:32:39] ddary: ok, sorry
 [2013-11-20 11:34:22] MiSter: it is false. very interesting. as i said before using the same code with pure appium el.click() works.
+[2013-11-20 11:35:26] MiSter: and the emulator clearly show the field and it is clickable
+[2013-11-20 11:38:40] ddary: ok, i have heard this before. thanks for the details
+[2013-11-20 11:39:45] ddary: appium and selendroid have nothing similiar, so the whole logik about clicking elements is using totally different technology stacks. the only thing that both tools have in common is the json wire protocol
