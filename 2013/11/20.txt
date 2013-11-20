@@ -85,3 +85,4 @@
 [2013-11-20 16:00:32] ddary, quitting. (Ping timeout: 265 seconds)
 [2013-11-20 16:02:26] ddary, joining. (#selendroid)
 [2013-11-20 16:02:54] ddary: MiSter: no, have no idea currently how to find that out
+[2013-11-20 16:07:54] operatiay, quitting. (Remote host closed the connection)
