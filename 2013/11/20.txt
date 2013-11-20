@@ -88,3 +88,4 @@
 [2013-11-20 16:07:54] operatiay, quitting. (Remote host closed the connection)
 [2013-11-20 16:13:33] MiSter: Thanks, I thought so. btw, it is interesting that this second field has isDisplayed()==true independent of the state of the keyboard. It is the same control like the first one which shows false even if it is visible
 [2013-11-20 16:15:12] ddary: interesting
+[2013-11-20 16:29:56] operatiay, joining. (#selendroid)
