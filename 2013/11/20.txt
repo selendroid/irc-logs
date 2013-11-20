@@ -17,3 +17,4 @@
 [2013-11-20 09:16:20] selendroid-git, leaving. (#selendroid)
 [2013-11-20 09:26:50] jlipps, joining. (#selendroid)
 [2013-11-20 09:28:07] jlipps, quitting. (Client Quit)
+[2013-11-20 10:24:00] ddary, quitting. (Quit: ddary)
