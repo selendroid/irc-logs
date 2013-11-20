@@ -50,3 +50,11 @@
 [2013-11-20 11:44:23] ddary: no
 [2013-11-20 11:44:32] ddary: mobile:tap is not supported
 [2013-11-20 11:44:50] ddary: that is appium specific and has nothing to do with selenium ...
+[2013-11-20 11:45:51] ddary: one thing that would be helpful would be a bug, can you please add one to selendroid?
+[2013-11-20 11:46:34] ddary: important would be, element is returning isVisible == false and with both clikcing mechanisms it is not working
+[2013-11-20 11:47:28] MiSter: shall i add a new issue on github? the website is a bit unclear regarding documentation and bug reporting
+[2013-11-20 11:47:58] MiSter: isVisible? you mean isDisplayed()?
+[2013-11-20 11:48:11] ddary: yes, sorry
+[2013-11-20 11:48:27] ddary: yes please to github
+[2013-11-20 11:48:48] ddary: another thing that came to my mind would be:
+[2013-11-20 11:49:53] ddary: get the cordinates of the webwelement, and then TouchActions.down(int x, int y) and then TouchActions.up(int x, int y)
