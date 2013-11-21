@@ -32,3 +32,7 @@
 [2013-11-21 21:23:51] lukeis, joining. (#selendroid)
 [2013-11-21 22:19:56] operatiay, joining. (#selendroid)
 [2013-11-21 22:34:45] operatiay, quitting. (Remote host closed the connection)
+[2013-11-21 23:05:21] jmiele, joining. (#selendroid)
+[2013-11-21 23:07:11] jmiele, quitting. (Client Quit)
+[2013-11-21 23:07:25] jmiele, joining. (#selendroid)
+[2013-11-21 23:07:36] jmiele, quitting. (Client Quit)
