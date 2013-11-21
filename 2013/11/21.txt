@@ -31,3 +31,4 @@
 [2013-11-21 19:05:54] lukeis, quitting. (Quit: Leaving.)
 [2013-11-21 21:23:51] lukeis, joining. (#selendroid)
 [2013-11-21 22:19:56] operatiay, joining. (#selendroid)
+[2013-11-21 22:34:45] operatiay, quitting. (Remote host closed the connection)
