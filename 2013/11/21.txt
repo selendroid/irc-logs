@@ -25,3 +25,4 @@
 [2013-11-21 14:41:01] ddary, joining. (#selendroid)
 [2013-11-21 15:10:17] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-11-21 16:13:45] operatiay, joining. (#selendroid)
+[2013-11-21 16:17:17] operatiay, quitting. (Read error: Operation timed out)
