@@ -13,3 +13,4 @@
 [2013-11-21 07:48:24] lukeis1, leaving. (#selendroid)
 [2013-11-21 08:46:51] ddary, joining. (#selendroid)
 [2013-11-21 08:48:40] ddary: :note lukeis Thanks for letting me know. Will update it soon.
+[2013-11-21 09:25:09] ddary, quitting. (Ping timeout: 248 seconds)
