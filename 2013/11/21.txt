@@ -2,3 +2,4 @@
 [2013-11-21 00:29:33] operatiay, quitting. (Ping timeout: 272 seconds)
 [2013-11-21 01:53:35] jlipps, quitting. (Quit: Leaving.)
 [2013-11-21 02:40:35] smccarthy, quitting. (Remote host closed the connection)
+[2013-11-21 02:58:39] lukeis, quitting. (Ping timeout: 272 seconds)
