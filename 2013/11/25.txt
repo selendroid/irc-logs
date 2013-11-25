@@ -14,3 +14,4 @@
 [2013-11-25 16:26:43] selendroid-git: selendroid/master 8e56cc3 Dominik Dary: adding getSerial() to AndroidDevice
 [2013-11-25 16:26:43] selendroid-git, leaving. (#selendroid)
 [2013-11-25 16:40:42] smccarthy, joining. (#selendroid)
+[2013-11-25 18:01:11] lukeis, joining. (#selendroid)
