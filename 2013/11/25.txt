@@ -4,3 +4,4 @@
 [2013-11-25 08:20:45] Hammertime38, joining. (#selendroid)
 [2013-11-25 08:21:54] Hammertime38, quitting. (Client Quit)
 [2013-11-25 11:30:40] ddary, joining. (#selendroid)
+[2013-11-25 11:37:06] ddary, quitting. (Ping timeout: 246 seconds)
