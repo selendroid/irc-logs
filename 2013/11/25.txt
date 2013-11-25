@@ -16,3 +16,13 @@
 [2013-11-25 16:40:42] smccarthy, joining. (#selendroid)
 [2013-11-25 18:01:11] lukeis, joining. (#selendroid)
 [2013-11-25 19:04:04] ddary, joining. (#selendroid)
+[2013-11-25 19:17:45] ddary: hi lukeis
+[2013-11-25 19:17:50] lukeis: hi
+[2013-11-25 19:18:36] ddary: do you have anything that you want to add before the next relaese will be done?
+[2013-11-25 19:18:58] lukeis: nothing to hold up the release no :)
+[2013-11-25 19:19:02] ddary: thinking about to ship soon (maybe until the end of the week)
+[2013-11-25 19:19:07] ddary: :)
+[2013-11-25 19:19:16] lukeis: would be good :)
+[2013-11-25 19:19:27] ddary: at least the windows suppoort i worked on should be given out
+[2013-11-25 19:19:37] lukeis: when this lands https://codereview.chromium.org/81613002/   I'll look into adding chromedriver support to selendroid for webviews
+[2013-11-25 19:19:49] lukeis: (api 19+ only of course)
