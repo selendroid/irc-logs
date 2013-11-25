@@ -35,3 +35,4 @@
 [2013-11-25 20:20:03] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/JOeZKg
 [2013-11-25 20:20:03] selendroid-git: selendroid/master 0408456 Dominik Dary: fixing typo, no logical change
 [2013-11-25 20:20:03] selendroid-git, leaving. (#selendroid)
+[2013-11-25 20:41:20] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
