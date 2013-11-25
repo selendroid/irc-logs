@@ -31,3 +31,7 @@
 [2013-11-25 19:33:25] ddary: have you seen we have been on thechangelog.com?
 [2013-11-25 19:43:40] ddary, quitting. (Ping timeout: 272 seconds)
 [2013-11-25 20:01:23] ddary, joining. (#selendroid)
+[2013-11-25 20:20:03] selendroid-git, joining. (#selendroid)
+[2013-11-25 20:20:03] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/JOeZKg
+[2013-11-25 20:20:03] selendroid-git: selendroid/master 0408456 Dominik Dary: fixing typo, no logical change
+[2013-11-25 20:20:03] selendroid-git, leaving. (#selendroid)
