@@ -152,3 +152,4 @@
 [2013-11-27 21:51:21] lukeis: AutomatedTester: also you can always PM the bots for the log url :)
 [2013-11-27 21:51:31] AutomatedTester: ahhh
 [2013-11-27 22:06:25] lukeis, quitting. (Quit: Leaving.)
+[2013-11-27 22:56:11] operatiay, joining. (#selendroid)
