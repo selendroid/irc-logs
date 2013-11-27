@@ -121,3 +121,18 @@
 [2013-11-27 18:34:01] lukeis: (and this is an android emulator issue btw… not necessarily 'selendroid')
 [2013-11-27 18:34:26] mummana: if i start the emultor manually without selendroid it works without any alert
 [2013-11-27 18:34:52] lukeis: not sure what to say, do you use the same options that selendroid is using?
+[2013-11-27 18:35:02] lukeis: "emulator.exe -no-snapshot-save -avd AVD_for_3_4in_WQVGA -port 5560 -prop persist.sys.language=en -prop persist.sys.country=US"
+[2013-11-27 18:35:28] mummana: lol i agree but u thght u might be knowing abt this issue so just asked uh
+[2013-11-27 18:35:36] lukeis: selendroid is not doing anything special with regards to starting up the emulator
+[2013-11-27 18:36:18] mummana: hmmmm shall i send uh the snapshot of it?
+[2013-11-27 18:36:31] lukeis: snapshot of what?
+[2013-11-27 18:37:16] lukeis: (and I tried to look into a way to detect those dialogs a while ago and was unsuccessful)
+[2013-11-27 18:37:18] mummana: of the emulator with alert
+[2013-11-27 18:37:29] lukeis: nah, i know exactly what that looks like :)
+[2013-11-27 18:37:34] mummana: ohhhhh
+[2013-11-27 18:37:38] mummana: hmmmmm
+[2013-11-27 18:37:39] mummana: :(
+[2013-11-27 18:38:07] mummana: with out accepting those alerts my testcases are failing :(
+[2013-11-27 18:38:29] lukeis: i would recommend using a different emulator config or trying to use the installedApp option (and have your emulator already running)
+[2013-11-27 18:39:00] mummana: installedapp option wts that?
+[2013-11-27 18:39:41] lukeis: if you use that config then selendroid will not attempt to start a new emulator (but it also assumes you've already installed the app with the debug certificate)
