@@ -63,3 +63,7 @@
 [2013-11-27 17:57:06] mummana: thats kool its working fine :)
 [2013-11-27 17:57:21] mummana: this realse is awesme
 [2013-11-27 17:57:46] mummana: well can i know the upgrades u have made init comparet to last version?
+[2013-11-27 18:04:01] ddary: :help
+[2013-11-27 18:04:38] ddary: <52b57f5e2e1c23d30d55a3a255386bc4576286ff>
+[2013-11-27 18:04:53] ddary: <git 52b57f5e2e1c23d30d55a3a255386bc4576286ff>
+[2013-11-27 18:04:57] ddary: 52b57f5e2e1c23d30d55a3a255386bc4576286ff
