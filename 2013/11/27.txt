@@ -54,3 +54,7 @@
 [2013-11-27 17:49:07] mummana: driver,close ?
 [2013-11-27 17:49:22] mummana: driver.close? or driver.quit?
 [2013-11-27 17:49:34] ddary: quit
+[2013-11-27 17:50:26] mummana: or thats kool and wt about command line server should i have to close that also?
+[2013-11-27 17:50:54] ddary: no, you can keep that one running
+[2013-11-27 17:51:08] mummana: (y)
+[2013-11-27 17:54:07] mummana: i have user selendroid server instaed of commnad line can i use stop server ? and then start server after each test?
