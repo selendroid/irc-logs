@@ -14,3 +14,27 @@
 [2013-11-27 17:23:30] mummana: *thanks
 [2013-11-27 17:23:53] mummana: well i came here to ask uh a doubt about emultor
 [2013-11-27 17:24:09] ddary: sure
+[2013-11-27 17:25:13] ddary: what kind of issue you have with the emulator?
+[2013-11-27 17:25:37] mummana: as im using selendroid aftr each test i have to close the emulator and run it again and have to wait for start
+[2013-11-27 17:26:06] ddary: what platform do you use?
+[2013-11-27 17:26:15] mummana: m usng windows
+[2013-11-27 17:26:16] ddary: windows?
+[2013-11-27 17:26:19] mummana: 7
+[2013-11-27 17:26:21] ddary: ok
+[2013-11-27 17:26:32] ddary: which version of selendroid do you use?
+[2013-11-27 17:27:06] mummana: so my problem is there anysolution so that instead of closing everytime cant i able to run the test again in same emultor
+[2013-11-27 17:27:13] mummana: 0,5,1
+[2013-11-27 17:27:52] ddary: I will soon push the 0.6.0 which have a much better support for windows
+[2013-11-27 17:28:05] ddary: if you would like just try it now already,
+[2013-11-27 17:28:21] ddary: you can grab the build jar from our ci:
+[2013-11-27 17:28:22] mummana: wow really thats kool please gve me the link
+[2013-11-27 17:28:23] ddary: http://ci.selendroid.io/job/selendroid/ws/selendroid-standalone/target/selendroid-standalone-0.6.0-SNAPSHOT-with-dependencies.jar
+[2013-11-27 17:28:50] mummana: i really thak you for that
+[2013-11-27 17:29:06] mummana: but will this solve my problem
+[2013-11-27 17:29:06] mummana: ?
+[2013-11-27 17:29:07] ddary: - so, now spaces in the path are supported
+[2013-11-27 17:29:22] ddary: - the emulator is closed automatically
+[2013-11-27 17:29:30] ddary: (on all platforms)
+[2013-11-27 17:29:36] mummana: thats awesme :)
+[2013-11-27 17:29:52] mummana: thnq dary
+[2013-11-27 17:29:56] ddary: welcome
