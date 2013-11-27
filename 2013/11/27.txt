@@ -142,3 +142,4 @@
 [2013-11-27 18:46:28] operatiay, quitting. (Remote host closed the connection)
 [2013-11-27 18:50:03] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-11-27 18:50:57] mummana, quitting. (Ping timeout: 250 seconds)
+[2013-11-27 19:24:32] lukeis, quitting. (Quit: Leaving.)
