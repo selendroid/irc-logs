@@ -42,3 +42,15 @@
 [2013-11-27 17:34:39] mummana: :(
 [2013-11-27 17:34:58] mummana: jar size is 224kb
 [2013-11-27 17:36:49] ddary: look here: http://ci.selendroid.io/job/selendroid/ws/selendroid-standalone/target/
+[2013-11-27 17:45:04] ddary: mummana: was tjha
+[2013-11-27 17:45:23] ddary: *that link working find for you?
+[2013-11-27 17:47:05] mummana: yea jusz
+[2013-11-27 17:47:25] mummana: now downloaded the jar
+[2013-11-27 17:47:27] mummana: yup
+[2013-11-27 17:47:33] mummana: downloaded 9.4 mb
+[2013-11-27 17:47:37] ddary: (y)
+[2013-11-27 17:47:51] mummana: like :P
+[2013-11-27 17:49:00] mummana: will in order to close the emultor should i have to use
+[2013-11-27 17:49:07] mummana: driver,close ?
+[2013-11-27 17:49:22] mummana: driver.close? or driver.quit?
+[2013-11-27 17:49:34] ddary: quit
