@@ -41,3 +41,4 @@
 [2013-11-27 17:34:36] mummana: the jar file doent have any selendroid class
 [2013-11-27 17:34:39] mummana: :(
 [2013-11-27 17:34:58] mummana: jar size is 224kb
+[2013-11-27 17:36:49] ddary: look here: http://ci.selendroid.io/job/selendroid/ws/selendroid-standalone/target/
