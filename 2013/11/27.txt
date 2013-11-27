@@ -107,3 +107,17 @@
 [2013-11-27 18:27:36] *lukeis looking :)'
 [2013-11-27 18:27:49] mummana: :)
 [2013-11-27 18:29:16] lukeis: that log shows it worked?
+[2013-11-27 18:31:01] mummana: yea it worked only aftr accepting the Launch is not responding alert :)
+[2013-11-27 18:31:26] lukeis: oh your emulator shows the system dialog
+[2013-11-27 18:31:29] mummana: i have to accept the aleart manually
+[2013-11-27 18:32:08] mummana: yea i have changed the emulator to diff versions but stilll in vain
+[2013-11-27 18:32:09] lukeis: i would delete that android avd… recreate a new one (and use a snapshot :) )
+[2013-11-27 18:32:24] mummana: did but stilll the same :(
+[2013-11-27 18:32:33] lukeis: what OS?
+[2013-11-27 18:32:41] mummana: window7
+[2013-11-27 18:33:13] lukeis: hmm, i haven't run there… but I have noticed certain api levels don't like certain OS's … like 14/15 don't like Mac much
+[2013-11-27 18:33:26] lukeis: try API 17?
+[2013-11-27 18:33:47] mummana: ohh god well than is there any other solution to that
+[2013-11-27 18:34:01] lukeis: (and this is an android emulator issue btw… not necessarily 'selendroid')
+[2013-11-27 18:34:26] mummana: if i start the emultor manually without selendroid it works without any alert
+[2013-11-27 18:34:52] lukeis: not sure what to say, do you use the same options that selendroid is using?
