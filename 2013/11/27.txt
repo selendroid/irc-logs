@@ -58,3 +58,8 @@
 [2013-11-27 17:50:54] ddary: no, you can keep that one running
 [2013-11-27 17:51:08] mummana: (y)
 [2013-11-27 17:54:07] mummana: i have user selendroid server instaed of commnad line can i use stop server ? and then start server after each test?
+[2013-11-27 17:55:14] ddary: yeah, but the server is meant to be started in the beginning of the suite and then been shutdown in the end of the suite
+[2013-11-27 17:56:55] mummana: yea thats done
+[2013-11-27 17:57:06] mummana: thats kool its working fine :)
+[2013-11-27 17:57:21] mummana: this realse is awesme
+[2013-11-27 17:57:46] mummana: well can i know the upgrades u have made init comparet to last version?
