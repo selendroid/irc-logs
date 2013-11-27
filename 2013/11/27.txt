@@ -94,3 +94,10 @@
 [2013-11-27 18:13:36] mummana: shall i mail uh the snapshot of it?
 [2013-11-27 18:13:48] lukeis: pasting it in a :gist will do :)
 [2013-11-27 18:14:57] mummana: well ok but i start my server with server.start i dnt use commnad line for that ? then how to make gist?
+[2013-11-27 18:15:20] lukeis: you should be getting output from it though, right?
+[2013-11-27 18:15:44] lukeis: click the link to gist.github and paste it in there then copy the url of the created gist
+[2013-11-27 18:16:09] mummana: config.setVerbose(true); will this will be working?
+[2013-11-27 18:16:16] operatiay, joining. (#selendroid)
+[2013-11-27 18:16:24] lukeis: should
+[2013-11-27 18:16:37] mummana: ok tha wait
+[2013-11-27 18:17:56] lukeis: will probably be good to know what emulator config(s) you have. for example I know that using API Level 19 with snapshot  will not work right now (at least doesn't for me)
