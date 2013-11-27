@@ -101,3 +101,9 @@
 [2013-11-27 18:16:24] lukeis: should
 [2013-11-27 18:16:37] mummana: ok tha wait
 [2013-11-27 18:17:56] lukeis: will probably be good to know what emulator config(s) you have. for example I know that using API Level 19 with snapshot  will not work right now (at least doesn't for me)
+[2013-11-27 18:25:40] mummana: https://gist.github.com/mummana/7679640
+[2013-11-27 18:25:51] mummana: there it is
+[2013-11-27 18:27:25] mummana: anybody ??looking atit?
+[2013-11-27 18:27:36] *lukeis looking :)'
+[2013-11-27 18:27:49] mummana: :)
+[2013-11-27 18:29:16] lukeis: that log shows it worked?
