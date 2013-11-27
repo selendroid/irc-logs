@@ -38,3 +38,6 @@
 [2013-11-27 17:29:36] mummana: thats awesme :)
 [2013-11-27 17:29:52] mummana: thnq dary
 [2013-11-27 17:29:56] ddary: welcome
+[2013-11-27 17:34:36] mummana: the jar file doent have any selendroid class
+[2013-11-27 17:34:39] mummana: :(
+[2013-11-27 17:34:58] mummana: jar size is 224kb
