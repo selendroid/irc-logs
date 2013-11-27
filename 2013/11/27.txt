@@ -67,3 +67,21 @@
 [2013-11-27 18:04:38] ddary: <52b57f5e2e1c23d30d55a3a255386bc4576286ff>
 [2013-11-27 18:04:53] ddary: <git 52b57f5e2e1c23d30d55a3a255386bc4576286ff>
 [2013-11-27 18:04:57] ddary: 52b57f5e2e1c23d30d55a3a255386bc4576286ff
+[2013-11-27 18:05:13] ddary: sorry for the spam
+[2013-11-27 18:05:23] ddary: have a look here: https://github.com/selendroid/selendroid/commit/52b57f5e2e1c23d30d55a3a255386bc4576286ff
+[2013-11-27 18:05:23] mummana: lol
+[2013-11-27 18:05:41] lukeis: ddary: selbot2 hasn't been working with that either… can you send me the error from the bot?
+[2013-11-27 18:05:46] ddary: i thought / was trying if selbot can help me
+[2013-11-27 18:06:08] lukeis: (have you updated the bot with the latest from selbot2?)
+[2013-11-27 18:06:11] ddary: lukeis: you mean from the selbot output
+[2013-11-27 18:06:13] lukeis: yes
+[2013-11-27 18:06:17] ddary: no
+[2013-11-27 18:06:23] lukeis: ah
+[2013-11-27 18:06:34] ddary: i know i need to do it
+[2013-11-27 18:06:38] lukeis: :)
+[2013-11-27 18:06:39] ddary: and push the release
+[2013-11-27 18:06:43] mummana: evevry time whn emultor launch i get an error msg as launch isnt responding? can i know wt might be th problem'?
+[2013-11-27 18:06:51] ddary: sadly busy with other stuff
+[2013-11-27 18:08:41] ddary: what is the exact error message?
+[2013-11-27 18:09:09] mummana:  launch isnt responding?
+[2013-11-27 18:09:27] mummana: whenever the emultor gets launch
