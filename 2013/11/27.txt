@@ -85,3 +85,12 @@
 [2013-11-27 18:08:41] ddary: what is the exact error message?
 [2013-11-27 18:09:09] mummana:  launch isnt responding?
 [2013-11-27 18:09:27] mummana: whenever the emultor gets launch
+[2013-11-27 18:11:36] mummana: if i start the emulator manually then im not getting that
+[2013-11-27 18:11:44] mummana: error
+[2013-11-27 18:11:57] lukeis: mummana: add the -verbose flag to the selendroid command line when you start it and then :gist the whole output
+[2013-11-27 18:12:15] mummana: sure
+[2013-11-27 18:12:23] lukeis: the emulator never starts up?
+[2013-11-27 18:13:12] mummana: it start but with an error launch isnt responding?
+[2013-11-27 18:13:36] mummana: shall i mail uh the snapshot of it?
+[2013-11-27 18:13:48] lukeis: pasting it in a :gist will do :)
+[2013-11-27 18:14:57] mummana: well ok but i start my server with server.start i dnt use commnad line for that ? then how to make gist?
