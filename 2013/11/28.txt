@@ -3,3 +3,5 @@
 [2013-11-28 01:45:34] smccarthy, quitting. (Remote host closed the connection)
 [2013-11-28 05:13:22] operatiay, joining. (#selendroid)
 [2013-11-28 05:17:37] operatiay, quitting. (Ping timeout: 246 seconds)
+[2013-11-28 08:12:04] ddary, joining. (#selendroid)
+[2013-11-28 08:12:10] ddary: :log
