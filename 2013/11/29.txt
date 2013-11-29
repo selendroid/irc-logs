@@ -27,3 +27,4 @@
 [2013-11-29 22:06:47] ddary_, quitting. (Client Quit)
 [2013-11-29 22:07:05] ddary, joining. (#selendroid)
 [2013-11-29 22:08:37] ddary, quitting. (Client Quit)
+[2013-11-29 23:45:47] smccarthy, quitting. (Remote host closed the connection)
