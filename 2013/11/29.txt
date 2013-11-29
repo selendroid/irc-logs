@@ -4,3 +4,6 @@
 [2013-11-29 08:57:41] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-11-29 09:14:11] ddary, joining. (#selendroid)
 [2013-11-29 09:33:59] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-11-29 10:25:45] AutomatedTester_, joining. (#selendroid)
+[2013-11-29 10:26:56] AutomatedTester, quitting. (*.net *.split)
+[2013-11-29 10:27:12] AutomatedTester_, changing nick to AutomatedTester.
