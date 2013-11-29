@@ -18,3 +18,7 @@
 [2013-11-29 21:57:40] selendroid-git, joining. (#selendroid)
 [2013-11-29 21:57:41] selendroid-git: [selendroid] DominikDary tagged 0.6.0 at 6e993a0: http://git.io/3SCz-A
 [2013-11-29 21:57:41] selendroid-git, leaving. (#selendroid)
+[2013-11-29 22:03:59] selendroid-git, joining. (#selendroid)
+[2013-11-29 22:03:59] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/4ky5yg
+[2013-11-29 22:03:59] selendroid-git: selendroid/gh-pages 5d1c10f Dominik Dary: Update properties.js
+[2013-11-29 22:03:59] selendroid-git, leaving. (#selendroid)
