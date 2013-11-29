@@ -9,3 +9,7 @@
 [2013-11-29 10:27:12] AutomatedTester_, changing nick to AutomatedTester.
 [2013-11-29 16:44:55] smccarthy, joining. (#selendroid)
 [2013-11-29 20:04:27] ddary, joining. (#selendroid)
+[2013-11-29 20:06:38] selendroid-git, joining. (#selendroid)
+[2013-11-29 20:06:39] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/Pq4DLQ
+[2013-11-29 20:06:39] selendroid-git: selendroid/master 10c260d Dominik Dary: moving version to 0.6.0 and updating changelog.
+[2013-11-29 20:06:39] selendroid-git, leaving. (#selendroid)
