@@ -13,3 +13,4 @@
 [2013-11-29 20:06:39] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/Pq4DLQ
 [2013-11-29 20:06:39] selendroid-git: selendroid/master 10c260d Dominik Dary: moving version to 0.6.0 and updating changelog.
 [2013-11-29 20:06:39] selendroid-git, leaving. (#selendroid)
+[2013-11-29 20:55:25] ddary, quitting. (Quit: ddary)
