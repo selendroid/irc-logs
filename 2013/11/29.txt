@@ -15,3 +15,6 @@
 [2013-11-29 20:06:39] selendroid-git, leaving. (#selendroid)
 [2013-11-29 20:55:25] ddary, quitting. (Quit: ddary)
 [2013-11-29 21:39:22] ddary, joining. (#selendroid)
+[2013-11-29 21:57:40] selendroid-git, joining. (#selendroid)
+[2013-11-29 21:57:41] selendroid-git: [selendroid] DominikDary tagged 0.6.0 at 6e993a0: http://git.io/3SCz-A
+[2013-11-29 21:57:41] selendroid-git, leaving. (#selendroid)
