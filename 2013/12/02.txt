@@ -9,3 +9,7 @@
 [2013-12-02 10:18:20] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-12-02 10:22:32] ddary, joining. (#selendroid)
 [2013-12-02 12:15:53] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-12-02 16:31:37] selendroid-git, joining. (#selendroid)
+[2013-12-02 16:31:37] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/rY5-Jg
+[2013-12-02 16:31:37] selendroid-git: selendroid/master b02d51a Dominik Dary: moving to next development version.
+[2013-12-02 16:31:37] selendroid-git, leaving. (#selendroid)
