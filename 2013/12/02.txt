@@ -26,3 +26,5 @@
 [2013-12-02 21:16:39] ddary, quitting. (Quit: ddary)
 [2013-12-02 21:18:08] ddary, joining. (#selendroid)
 [2013-12-02 21:30:05] ddary, leaving. (#selendroid)
+[2013-12-02 22:20:29] ihaaaaaa, joining. (#selendroid)
+[2013-12-02 22:20:38] ukkopekka, quitting. (*.net *.split)
