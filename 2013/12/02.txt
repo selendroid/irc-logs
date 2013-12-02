@@ -13,3 +13,4 @@
 [2013-12-02 16:31:37] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/rY5-Jg
 [2013-12-02 16:31:37] selendroid-git: selendroid/master b02d51a Dominik Dary: moving to next development version.
 [2013-12-02 16:31:37] selendroid-git, leaving. (#selendroid)
+[2013-12-02 16:46:32] smccarthy, joining. (#selendroid)
