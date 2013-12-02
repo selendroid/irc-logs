@@ -22,3 +22,4 @@
 [2013-12-02 20:03:53] ddary, quitting. (Quit: ddary)
 [2013-12-02 20:08:19] mummana, joining. (#selendroid)
 [2013-12-02 20:11:35] mummana, quitting. (Client Quit)
+[2013-12-02 20:22:35] ddary, joining. (#selendroid)
