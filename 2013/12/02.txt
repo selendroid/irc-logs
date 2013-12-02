@@ -18,3 +18,4 @@
 [2013-12-02 18:24:04] ukkopekka, quitting. (Ping timeout: 260 seconds)
 [2013-12-02 18:24:11] ukkopekka, joining. (#selendroid)
 [2013-12-02 19:31:45] ddary, joining. (#selendroid)
+[2013-12-02 19:54:44] jlipps, joining. (#selendroid)
