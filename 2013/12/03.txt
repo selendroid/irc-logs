@@ -9,3 +9,5 @@
 [2013-12-03 08:23:48] ddary: :log
 [2013-12-03 08:28:55] ddary, quitting. (Quit: ddary)
 [2013-12-03 09:17:51] ihaaaaaa, changing nick to ukkopekka.
+[2013-12-03 17:48:31] simonstewart, joining. (#selendroid)
+[2013-12-03 17:48:36] simonstewart, leaving. (#selendroid)
