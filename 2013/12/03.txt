@@ -13,3 +13,4 @@
 [2013-12-03 17:48:36] simonstewart, leaving. (#selendroid)
 [2013-12-03 17:51:33] lukeis, joining. (#selendroid)
 [2013-12-03 22:24:17] smccarthy, joining. (#selendroid)
+[2013-12-03 23:03:29] jlipps, joining. (#selendroid)
