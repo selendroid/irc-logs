@@ -12,3 +12,5 @@
 [2013-12-04 10:12:19] selendroid-git, joining. (#selendroid)
 [2013-12-04 10:12:19] selendroid-git: [selendroid] DominikDary deleted androidDriver at 8604bf3: http://git.io/2SmfwQ
 [2013-12-04 10:12:19] selendroid-git, leaving. (#selendroid)
+[2013-12-04 11:54:48] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2013-12-04 11:54:48] ddary_, changing nick to ddary.
