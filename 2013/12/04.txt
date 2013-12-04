@@ -42,3 +42,16 @@
 [2013-12-04 18:43:57] simonstewart: At the URL: /wd/hub/-selendroid/:sessionId/screen
 [2013-12-04 18:44:31] simonstewart: If I spanner everything in, do you or Dominik want to poke holes in it?
 [2013-12-04 18:44:51] *lukeis trusts you (maybe a bit too much ;) )'
+[2013-12-04 18:45:08] simonstewart: Right now I'm hacking
+[2013-12-04 18:45:12] simonstewart: Where are the test apps?
+[2013-12-04 18:45:24] simonstewart: I'm guessing there's a proper e2e suite _somewhere_
+[2013-12-04 18:45:29] lukeis: https://github.com/selendroid/selendroid/tree/master/selendroid-test-app ?
+[2013-12-04 18:45:47] simonstewart: And to run those e2e tests?
+[2013-12-04 18:46:14] lukeis: umm, I think so (ashamedly i don't run them)
+[2013-12-04 18:46:35] lukeis: i consider my e2e against my app good enough ;)
+[2013-12-04 18:46:50] *simonstewart facepalms'
+[2013-12-04 18:46:51] simonstewart: ok
+[2013-12-04 18:46:59] simonstewart: Will just hack the shit out of this, then
+[2013-12-04 18:47:02] simonstewart: One moment please, caller
+[2013-12-04 18:47:06] lukeis: sounds wonderful...
+[2013-12-04 18:47:21] lukeis: biab… going on a tour of potentially new seats on a different floor
