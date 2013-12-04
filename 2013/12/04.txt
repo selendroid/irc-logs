@@ -20,3 +20,4 @@
 [2013-12-04 16:08:26] selendroid-git, leaving. (#selendroid)
 [2013-12-04 16:46:19] smccarthy, joining. (#selendroid)
 [2013-12-04 17:06:05] ddary, quitting. (Quit: ddary)
+[2013-12-04 17:38:03] lukeis, joining. (#selendroid)
