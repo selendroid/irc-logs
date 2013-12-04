@@ -3,3 +3,4 @@
 [2013-12-04 06:17:05] selendroidbot, quitting. (Ping timeout: 245 seconds)
 [2013-12-04 06:17:24] selendroidbot_, joining. (#selendroid)
 [2013-12-04 06:22:20] selendroidbot, quitting. (Ping timeout: 245 seconds)
+[2013-12-04 06:32:21] smccarthy, quitting. (Remote host closed the connection)
