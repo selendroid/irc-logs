@@ -18,3 +18,4 @@
 [2013-12-04 16:08:26] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/XyifZw
 [2013-12-04 16:08:26] selendroid-git: selendroid/master 0d39597 Slawek Biel: Avoid retaining references to Views that have been disposed....
 [2013-12-04 16:08:26] selendroid-git, leaving. (#selendroid)
+[2013-12-04 16:46:19] smccarthy, joining. (#selendroid)
