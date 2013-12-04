@@ -14,3 +14,7 @@
 [2013-12-04 10:12:19] selendroid-git, leaving. (#selendroid)
 [2013-12-04 11:54:48] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-12-04 11:54:48] ddary_, changing nick to ddary.
+[2013-12-04 16:08:26] selendroid-git, joining. (#selendroid)
+[2013-12-04 16:08:26] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/XyifZw
+[2013-12-04 16:08:26] selendroid-git: selendroid/master 0d39597 Slawek Biel: Avoid retaining references to Views that have been disposed....
+[2013-12-04 16:08:26] selendroid-git, leaving. (#selendroid)
