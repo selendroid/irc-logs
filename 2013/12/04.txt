@@ -1,2 +1,4 @@
 [2013-12-04 01:02:41] lukeis, quitting. (Quit: Leaving.)
 [2013-12-04 05:05:17] jlipps, quitting. (Quit: Leaving.)
+[2013-12-04 06:17:05] selendroidbot, quitting. (Ping timeout: 245 seconds)
+[2013-12-04 06:17:24] selendroidbot_, joining. (#selendroid)
