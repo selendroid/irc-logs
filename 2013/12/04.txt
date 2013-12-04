@@ -6,3 +6,9 @@
 [2013-12-04 06:32:21] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-04 09:27:17] ddary, joining. (#selendroid)
 [2013-12-04 09:53:41] ddary_, joining. (#selendroid)
+[2013-12-04 10:11:34] selendroid-git, joining. (#selendroid)
+[2013-12-04 10:11:34] selendroid-git: [selendroid] DominikDary merged androidDriver into master: http://git.io/625ydA
+[2013-12-04 10:11:34] selendroid-git, leaving. (#selendroid)
+[2013-12-04 10:12:19] selendroid-git, joining. (#selendroid)
+[2013-12-04 10:12:19] selendroid-git: [selendroid] DominikDary deleted androidDriver at 8604bf3: http://git.io/2SmfwQ
+[2013-12-04 10:12:19] selendroid-git, leaving. (#selendroid)
