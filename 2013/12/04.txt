@@ -59,3 +59,4 @@
 [2013-12-04 20:05:25] lukeis, quitting. (Ping timeout: 245 seconds)
 [2013-12-04 20:08:02] lukeis1, changing nick to lukeis.
 [2013-12-04 20:09:26] lukeis: i need to look into why  screenshots don't work with -installedApp
+[2013-12-04 20:17:58] simonstewart, leaving. (#selendroid)
