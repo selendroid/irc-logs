@@ -23,3 +23,22 @@
 [2013-12-04 17:38:03] lukeis, joining. (#selendroid)
 [2013-12-04 17:57:46] lukeis, quitting. (Quit: Leaving.)
 [2013-12-04 17:58:18] lukeis, joining. (#selendroid)
+[2013-12-04 18:40:09] simonstewart, joining. (#selendroid)
+[2013-12-04 18:40:17] simonstewart: lukeis: greets
+[2013-12-04 18:41:37] lukeis: greetings :) I like that last commit pushed
+[2013-12-04 18:41:39] simonstewart: So, I'm working on adding the ability to get and set whether the screen is on and/or locked
+[2013-12-04 18:41:43] simonstewart: lukeis: :)
+[2013-12-04 18:41:57] simonstewart: We're working on contributing fixes back
+[2013-12-04 18:42:04] lukeis: some of the dev's were complaining about that for about a month here and I hadn't looked into it yet ;)
+[2013-12-04 18:42:09] simonstewart: Ha!
+[2013-12-04 18:42:13] simonstewart: Glad to have helped
+[2013-12-04 18:42:46] simonstewart: Still wrapping my head around the internal structure of selendroid
+[2013-12-04 18:42:55] simonstewart: Wondering where the best place to add this stuff is
+[2013-12-04 18:43:06] lukeis: you'll likely want to do that in the standalone server
+[2013-12-04 18:43:17] lukeis: since it has the adb connection etc
+[2013-12-04 18:43:25] simonstewart: Looks like I need a handler, then add some gumpf to the SelendroidDriver, and possibly elsewhere too
+[2013-12-04 18:43:36] simonstewart: Was just going to add a new command
+[2013-12-04 18:43:47] lukeis: sgtm
+[2013-12-04 18:43:57] simonstewart: At the URL: /wd/hub/-selendroid/:sessionId/screen
+[2013-12-04 18:44:31] simonstewart: If I spanner everything in, do you or Dominik want to poke holes in it?
+[2013-12-04 18:44:51] *lukeis trusts you (maybe a bit too much ;) )'
