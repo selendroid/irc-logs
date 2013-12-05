@@ -12,3 +12,4 @@
 [2013-12-05 19:51:30] smccarthy, joining. (#selendroid)
 [2013-12-05 20:21:24] jlipps, joining. (#selendroid)
 [2013-12-05 21:03:02] smccarthy2, joining. (#selendroid)
+[2013-12-05 21:06:05] smccarthy, quitting. (Ping timeout: 272 seconds)
