@@ -78,3 +78,4 @@
 [2013-12-06 20:16:11] smccarthy, quitting. (Ping timeout: 260 seconds)
 [2013-12-06 20:24:25] smccarthy, joining. (#selendroid)
 [2013-12-06 20:31:15] ddary, joining. (#selendroid)
+[2013-12-06 20:39:28] ddary, quitting. (Quit: ddary)
