@@ -19,3 +19,7 @@
 [2013-12-06 14:55:32] ddary, joining. (#selendroid)
 [2013-12-06 15:08:57] ddary, quitting. (Quit: ddary)
 [2013-12-06 15:28:49] ddary, joining. (#selendroid)
+[2013-12-06 15:40:07] ddary, quitting. (Quit: ddary)
+[2013-12-06 15:41:08] ddary, joining. (#selendroid)
+[2013-12-06 15:42:50] ddary, quitting. (Client Quit)
+[2013-12-06 15:43:50] ddary, joining. (#selendroid)
