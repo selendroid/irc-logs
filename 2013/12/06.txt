@@ -74,3 +74,4 @@
 [2013-12-06 19:23:53] smccarthy, joining. (#selendroid)
 [2013-12-06 19:34:37] ddary, joining. (#selendroid)
 [2013-12-06 19:37:40] ddary: :log
+[2013-12-06 20:10:29] ddary, quitting. (Quit: ddary)
