@@ -143,3 +143,8 @@
 [2013-12-06 22:07:56] jack090: Ouch... http://www.youbrokethebuild.com
 [2013-12-06 22:08:22] jack090: One of my devs Agnes'ed me
 [2013-12-06 23:19:54] jack090: Hey lukeis you still there bud?
+[2013-12-06 23:20:17] jack090: Curious on the chromedriver
+[2013-12-06 23:20:30] jack090: it works on 4.4+ kitkat
+[2013-12-06 23:20:42] jack090: but there's no x86 driver for 4.4 yet
+[2013-12-06 23:20:54] jack090: it's pretty slow without it
+[2013-12-06 23:21:08] jack090: that usually ok for you?
