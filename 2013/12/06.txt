@@ -66,3 +66,4 @@
 [2013-12-06 17:33:47] ddary: if you want to discuss selendroid stuff in detail
 [2013-12-06 17:34:03] ddary: i'm wednesday and thrusday afternoon in central london
 [2013-12-06 17:34:25] ddary: small correction: thursday morning to afternoon
+[2013-12-06 17:38:34] ddary: simonstewart: executing the suite depends a bit on the emulator config u use. I know that needs to be fixed. The bug #167 is I guess the one I need to have a look soon.
