@@ -81,3 +81,5 @@
 [2013-12-06 20:39:28] ddary, quitting. (Quit: ddary)
 [2013-12-06 20:50:38] ddary, joining. (#selendroid)
 [2013-12-06 21:14:04] ddary, quitting. (Quit: ddary)
+[2013-12-06 21:34:02] jack090, joining. (#selendroid)
+[2013-12-06 21:34:57] lukeis: oh hai jack090… by the way ddary is the Mr. Selendroid (but he's in germany and won't be around much for the rest of the day ;) )
