@@ -44,3 +44,7 @@
 [2013-12-06 16:16:15] simonstewart: Ah. yes. They do
 [2013-12-06 16:16:16] simonstewart: k
 [2013-12-06 16:19:43] simonstewart: Are those tests expected to pass right now?
+[2013-12-06 17:28:32] simonstewart: ddary: noob android question: can I get a PowerManager WakeLock from within the selendroid server?
+[2013-12-06 17:28:59] simonstewart: Right now I get a SecurityException, claiming that "Neither user 10047 nor current process has android.permission.WAKE_LOCK."
+[2013-12-06 17:29:15] simonstewart: Which is in the bowels of a handler I'm writing
+[2013-12-06 17:29:23] simonstewart: (to set screen brightness)
