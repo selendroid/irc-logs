@@ -23,3 +23,15 @@
 [2013-12-06 15:41:08] ddary, joining. (#selendroid)
 [2013-12-06 15:42:50] ddary, quitting. (Client Quit)
 [2013-12-06 15:43:50] ddary, joining. (#selendroid)
+[2013-12-06 16:07:53] simonstewart, joining. (#selendroid)
+[2013-12-06 16:08:07] simonstewart: ddary: what's the recommended way to do TDD for selendroid?
+[2013-12-06 16:08:15] simonstewart: If I want to run an actual end to end test?
+[2013-12-06 16:08:24] ddary: hi
+[2013-12-06 16:08:35] simonstewart: Because I'm fairly sure that my code is technically correct, but may not actually work
+[2013-12-06 16:08:48] ddary: http://selendroid.io/architecture.html#testIt
+[2013-12-06 16:09:00] ddary: there you have the pointers to the test classes
+[2013-12-06 16:09:03] simonstewart: Knew you'd be way ahead of me :)
+[2013-12-06 16:09:05] ddary: the end to end ones
+[2013-12-06 16:09:40] ddary: currently really an end to end ci job is missing
+[2013-12-06 16:09:57] simonstewart: Those are a PITA to set up
+[2013-12-06 16:09:59] ddary: i started to work on it at ci.selendroid.io
