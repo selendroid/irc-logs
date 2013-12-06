@@ -105,3 +105,15 @@
 [2013-12-06 21:43:53] jack090: :-D
 [2013-12-06 21:44:07] jack090: haha debugging generally isn't fun though :-)
 [2013-12-06 21:44:24] lukeis: nope… "have fun" is always sarcastic coming from me :)
+[2013-12-06 21:45:09] lukeis: just like i'm currently having fun with a patch to chromedriver to allow us to use it in conjunction with selendroid (api 19+ only though)
+[2013-12-06 21:46:31] jack090: chromdriver hates me
+[2013-12-06 21:46:37] jack090: chromedriver
+[2013-12-06 21:47:12] lukeis: i haven't integrated chromedriver + android into CI yet, but locally it works for me ;)
+[2013-12-06 21:47:42] jack090: not to take too much of your time but how does it work?
+[2013-12-06 21:48:05] jack090: your sending commands via chromedriver to test android apps?
+[2013-12-06 21:48:16] lukeis: https://sites.google.com/a/chromium.org/chromedriver/getting-started/getting-started---android  :)
+[2013-12-06 21:48:46] lukeis: yeah, i intend to use chromedriver to automate my webview in my app
+[2013-12-06 21:49:03] lukeis: (on api 19+)
+[2013-12-06 21:49:17] lukeis: selendroid itself for api 15-18
+[2013-12-06 21:49:33] lukeis: (we don't care to support automation for lower api levels here)
+[2013-12-06 21:50:01] jack090: understandable
