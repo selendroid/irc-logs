@@ -68,3 +68,4 @@
 [2013-12-06 17:34:25] ddary: small correction: thursday morning to afternoon
 [2013-12-06 17:38:34] ddary: simonstewart: executing the suite depends a bit on the emulator config u use. I know that needs to be fixed. The bug #167 is I guess the one I need to have a look soon.
 [2013-12-06 17:40:13] ddary: one thing is, sometimes the test fails when executing the suite, but when running the failing test it succeeds.
+[2013-12-06 18:12:38] ddary, quitting. (Quit: ddary)
