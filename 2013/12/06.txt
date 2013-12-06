@@ -13,3 +13,5 @@
 [2013-12-06 12:57:20] selendroid-git: selendroid/master 653e433 Simon Stewart: Prevent temporary APKs from cluttering the cwd.
 [2013-12-06 12:57:20] selendroid-git, leaving. (#selendroid)
 [2013-12-06 13:06:06] ddary, joining. (#selendroid)
+[2013-12-06 13:30:49] ddary, quitting. (Quit: ddary)
+[2013-12-06 13:31:49] ddary, joining. (#selendroid)
