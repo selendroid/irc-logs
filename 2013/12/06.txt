@@ -35,3 +35,6 @@
 [2013-12-06 16:09:40] ddary: currently really an end to end ci job is missing
 [2013-12-06 16:09:57] simonstewart: Those are a PITA to set up
 [2013-12-06 16:09:59] ddary: i started to work on it at ci.selendroid.io
+[2013-12-06 16:10:14] ddary: but i have currently other stuff to do
+[2013-12-06 16:11:03] ddary: creating the java atoms will stay part of selenium, right?
+[2013-12-06 16:14:51] simonstewart: They will
