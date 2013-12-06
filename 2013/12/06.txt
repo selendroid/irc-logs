@@ -1,3 +1,6 @@
 [2013-12-06 00:48:28] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-06 01:43:32] lukeis, quitting. (Quit: Leaving.)
 [2013-12-06 02:43:43] jlipps, quitting. (Remote host closed the connection)
+[2013-12-06 02:45:12] jlipps, joining. (#selendroid)
+[2013-12-06 02:47:58] jlipps, quitting. (Client Quit)
+[2013-12-06 02:49:57] smccarthy, joining. (#selendroid)
