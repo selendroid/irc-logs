@@ -94,3 +94,14 @@
 [2013-12-06 21:38:13] jack090: that's why I definitely have a vested interest in helping getting this documented
 [2013-12-06 21:38:22] lukeis: cool :)
 [2013-12-06 21:38:43] lukeis: do you know java and/or Android coding?
+[2013-12-06 21:41:04] jack090: java
+[2013-12-06 21:41:18] jack090: I do know a few basics for android
+[2013-12-06 21:41:28] jack090: I'm actually running everything from C#
+[2013-12-06 21:41:57] jack090: I have an automation grid/framework for continuous integration etc..
+[2013-12-06 21:41:58] lukeis: ok, which works, just trying to see how much you'll be able to contribute to the selendroid project itself ;)
+[2013-12-06 21:42:56] jack090: I'm also into the javascript/ html5 arena as well
+[2013-12-06 21:43:29] lukeis: cool, then you'll likely have fun debugging the Selenium atoms when you encounter issues :-D
+[2013-12-06 21:43:39] lukeis: (atoms is in javascript)
+[2013-12-06 21:43:53] jack090: :-D
+[2013-12-06 21:44:07] jack090: haha debugging generally isn't fun though :-)
+[2013-12-06 21:44:24] lukeis: nope… "have fun" is always sarcastic coming from me :)
