@@ -38,3 +38,9 @@
 [2013-12-06 16:10:14] ddary: but i have currently other stuff to do
 [2013-12-06 16:11:03] ddary: creating the java atoms will stay part of selenium, right?
 [2013-12-06 16:14:51] simonstewart: They will
+[2013-12-06 16:15:31] simonstewart: Yoinks
+[2013-12-06 16:15:33] simonstewart: Caused by: org.apache.http.conn.HttpHostConnectException: Connection to http://localhost:38080 refused
+[2013-12-06 16:15:43] simonstewart: I guess the tests listen on 38080 rather than 8080?
+[2013-12-06 16:16:15] simonstewart: Ah. yes. They do
+[2013-12-06 16:16:16] simonstewart: k
+[2013-12-06 16:19:43] simonstewart: Are those tests expected to pass right now?
