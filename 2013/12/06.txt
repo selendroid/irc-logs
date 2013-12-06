@@ -48,3 +48,21 @@
 [2013-12-06 17:28:59] simonstewart: Right now I get a SecurityException, claiming that "Neither user 10047 nor current process has android.permission.WAKE_LOCK."
 [2013-12-06 17:29:15] simonstewart: Which is in the bowels of a handler I'm writing
 [2013-12-06 17:29:23] simonstewart: (to set screen brightness)
+[2013-12-06 17:30:02] simonstewart: It looks like the instrumentation test case should have permission to use one (given the AndroidManifest.xml)
+[2013-12-06 17:30:13] ddary: With the wake look I was experimenting
+[2013-12-06 17:30:49] simonstewart: I don't see any errors in ServerInstrumentation
+[2013-12-06 17:31:00] simonstewart: so it strikes me as odd that I get that exception in my handler
+[2013-12-06 17:31:01] ddary: but the issue was, that the permission can be added to the selendroid server, but if I remember correct, the issue was it needs to be in the app android xml
+[2013-12-06 17:31:14] simonstewart: Well that's irksome
+[2013-12-06 17:32:27] ddary: the other thing i wanted to ask, you already know if you have next week time?
+[2013-12-06 17:32:45] simonstewart: Not read emails properly yet. You and Francois are in town, right?
+[2013-12-06 17:32:55] ddary: yes
+[2013-12-06 17:33:12] simonstewart: Tuesday and Friday are both good for me
+[2013-12-06 17:33:17] ddary: so for beer tuesday evening would be the evening
+[2013-12-06 17:33:26] ddary: awesome
+[2013-12-06 17:33:32] simonstewart: Woot!
+[2013-12-06 17:33:40] simonstewart: OK. Got to dash to a meeting
+[2013-12-06 17:33:41] simonstewart: TTFN
+[2013-12-06 17:33:47] ddary: if you want to discuss selendroid stuff in detail
+[2013-12-06 17:34:03] ddary: i'm wednesday and thrusday afternoon in central london
+[2013-12-06 17:34:25] ddary: small correction: thursday morning to afternoon
