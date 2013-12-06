@@ -117,3 +117,6 @@
 [2013-12-06 21:49:17] lukeis: selendroid itself for api 15-18
 [2013-12-06 21:49:33] lukeis: (we don't care to support automation for lower api levels here)
 [2013-12-06 21:50:01] jack090: understandable
+[2013-12-06 21:51:35] jack090: although 18 is still widely used
+[2013-12-06 21:52:07] lukeis: pie in the sky dream is to put in UI Automation commands into selendroid for API 16+ (or maybe higher, not sure which api level it became 'stable')
+[2013-12-06 21:52:35] lukeis: selendroid is currently Instrumentation based instead of UIAutomator
