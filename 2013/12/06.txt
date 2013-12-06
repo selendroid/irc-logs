@@ -72,3 +72,4 @@
 [2013-12-06 18:35:20] lukeis, joining. (#selendroid)
 [2013-12-06 19:21:58] simonstewart, quitting. (Read error: Operation timed out)
 [2013-12-06 19:23:53] smccarthy, joining. (#selendroid)
+[2013-12-06 19:34:37] ddary, joining. (#selendroid)
