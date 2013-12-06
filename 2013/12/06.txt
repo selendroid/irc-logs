@@ -120,3 +120,23 @@
 [2013-12-06 21:51:35] jack090: although 18 is still widely used
 [2013-12-06 21:52:07] lukeis: pie in the sky dream is to put in UI Automation commands into selendroid for API 16+ (or maybe higher, not sure which api level it became 'stable')
 [2013-12-06 21:52:35] lukeis: selendroid is currently Instrumentation based instead of UIAutomator
+[2013-12-06 21:55:06] jack090: wow lots of homework you gave me lukeis
+[2013-12-06 21:55:14] lukeis: :)
+[2013-12-06 21:55:15] jack090: chromedriver here I come!
+[2013-12-06 21:55:33] lukeis: ask questions, i'll try to answer ;)
+[2013-12-06 21:56:00] jack090: if only you could make company's internet faster....
+[2013-12-06 21:56:10] jack090: It's dragging today...
+[2013-12-06 21:56:29] jack090: Are you located in the UK?
+[2013-12-06 21:56:37] lukeis: nope, San Francisco
+[2013-12-06 21:56:44] jack090: ahh I'm in Nashville
+[2013-12-06 21:57:04] jack090: everyone's working from home today
+[2013-12-06 21:57:13] jack090: getting Ice Storms coming in
+[2013-12-06 21:57:15] lukeis: half are here too
+[2013-12-06 21:57:23] lukeis: the cold storm is here too
+[2013-12-06 21:57:27] lukeis: thankfully not ice ;)
+[2013-12-06 21:57:43] jack090: it's about 35 here
+[2013-12-06 21:57:49] jack090: but suppose to drop below freezing tonight
+[2013-12-06 21:57:52] lukeis: record low temps for us… SF *might* go below 32.. unheard of!
+[2013-12-06 21:58:01] jack090: we hardly every get snow/ice
+[2013-12-06 21:58:10] jack090: yea that's crazy
+[2013-12-06 21:58:26] lukeis: global cooling :)
