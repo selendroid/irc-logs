@@ -83,3 +83,14 @@
 [2013-12-06 21:14:04] ddary, quitting. (Quit: ddary)
 [2013-12-06 21:34:02] jack090, joining. (#selendroid)
 [2013-12-06 21:34:57] lukeis: oh hai jack090… by the way ddary is the Mr. Selendroid (but he's in germany and won't be around much for the rest of the day ;) )
+[2013-12-06 21:35:15] jack090: kk :-)
+[2013-12-06 21:35:22] jack090: Now I know who to bug!
+[2013-12-06 21:35:31] lukeis: him and me i suppose ;)
+[2013-12-06 21:36:32] jack090: btw lukeis any particular day next week you want me to come back and try?
+[2013-12-06 21:37:03] lukeis: oh, i dunno. but today is friday and I don't really have time today to try to get things going :)
+[2013-12-06 21:37:12] jack090: oh no worries
+[2013-12-06 21:37:32] jack090: I'm just going to put it on my calendar to remind me to come back in here
+[2013-12-06 21:37:47] jack090: I'm getting paid by my employer to get this working but I have lots of other tasks
+[2013-12-06 21:38:13] jack090: that's why I definitely have a vested interest in helping getting this documented
+[2013-12-06 21:38:22] lukeis: cool :)
+[2013-12-06 21:38:43] lukeis: do you know java and/or Android coding?
