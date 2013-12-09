@@ -8,3 +8,4 @@
 [2013-12-09 10:29:51] ddary, quitting. (Read error: Connection reset by peer)
 [2013-12-09 10:30:20] ddary, joining. (#selendroid)
 [2013-12-09 10:46:48] ddary, quitting. (Quit: ddary)
+[2013-12-09 14:47:48] ddary, joining. (#selendroid)
