@@ -15,3 +15,5 @@
 [2013-12-09 17:08:45] jack090_, joining. (#selendroid)
 [2013-12-09 17:50:05] lukeis, joining. (#selendroid)
 [2013-12-09 18:24:53] mummana, joining. (#selendroid)
+[2013-12-09 18:25:17] mummana: hi lukeis help me
+[2013-12-09 18:29:04] mummana: im using driver.quit() to close the app  instead its closng the emultor wt to do , i dnt w3anna close ma emultor coz it takes lot more time to start again
