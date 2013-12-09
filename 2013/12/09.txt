@@ -33,3 +33,4 @@
 [2013-12-09 19:58:47] barsuck, joining. (#selendroid)
 [2013-12-09 20:00:46] barsuck, quitting. (Remote host closed the connection)
 [2013-12-09 21:35:49] ddary, joining. (#selendroid)
+[2013-12-09 21:40:25] ddary, quitting. (Client Quit)
