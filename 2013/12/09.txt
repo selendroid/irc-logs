@@ -29,3 +29,4 @@
 [2013-12-09 18:40:04] mummana: ??hello any1 looking at it?
 [2013-12-09 18:49:31] smccarthy, joining. (#selendroid)
 [2013-12-09 18:54:54] mummana, quitting. (Quit: Page closed)
+[2013-12-09 19:47:45] jack090_, quitting. (Ping timeout: 250 seconds)
