@@ -35,3 +35,4 @@
 [2013-12-09 21:35:49] ddary, joining. (#selendroid)
 [2013-12-09 21:40:25] ddary, quitting. (Client Quit)
 [2013-12-09 22:06:59] jack090, joining. (#selendroid)
+[2013-12-09 22:36:45] jack090, quitting. (Ping timeout: 250 seconds)
