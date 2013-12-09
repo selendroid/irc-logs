@@ -22,3 +22,7 @@
 [2013-12-09 18:34:17] mummana: do config.addSupportedApp(apppath); is also required?
 [2013-12-09 18:34:38] mummana: with config.setInstalledApp(apppath);
 [2013-12-09 18:34:41] mummana: ?
+[2013-12-09 18:36:33] mummana: SelendroidCapabilities capa; 		SelendroidConfiguration config = new SelendroidConfiguration(); 		config.setVerbose(true); 		config.addSupportedApp(apppath); 		config.setInstalledApp(apppath); 		//config.setInstalledApp(installedApp) 		config.setVerbose(true); 		config.setDeviceScreenshot(true); 		config.setTimeoutEmulatorStart(500000);
+[2013-12-09 18:37:00] mummana: those are the config i have wrtn? but he test case is failing
+[2013-12-09 18:38:27] mummana: here is the gist of the server
+[2013-12-09 18:38:29] mummana: https://gist.github.com/mummana/7876510
