@@ -23,3 +23,6 @@
 [2013-12-10 16:03:11] Vels, leaving. (#selendroid)
 [2013-12-10 17:30:46] lukeis, joining. (#selendroid)
 [2013-12-10 17:52:00] smccarthy, joining. (#selendroid)
+[2013-12-10 18:11:51] mummana, joining. (#selendroid)
+[2013-12-10 18:14:05] mummana: hie m getting selendroidserverexception dnt why so wt i did is i made a gist of it please look at it
+[2013-12-10 18:14:06] mummana: https://gist.github.com/mummana/7894295
