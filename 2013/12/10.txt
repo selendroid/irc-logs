@@ -22,3 +22,4 @@
 [2013-12-10 15:55:12] Vels, joining. (#selendroid)
 [2013-12-10 16:03:11] Vels, leaving. (#selendroid)
 [2013-12-10 17:30:46] lukeis, joining. (#selendroid)
+[2013-12-10 17:52:00] smccarthy, joining. (#selendroid)
