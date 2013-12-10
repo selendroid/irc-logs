@@ -10,3 +10,7 @@
 [2013-12-10 02:21:37] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-10 08:56:22] mummana, joining. (#selendroid)
 [2013-12-10 08:56:40] mummana, leaving. (#selendroid)
+[2013-12-10 09:33:52] selendroid-git, joining. (#selendroid)
+[2013-12-10 09:33:52] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/ZgUITg
+[2013-12-10 09:33:52] selendroid-git: selendroid/master 3af77f6 Luke Inman-Semerau: making screenshots work again for emulators and using the -installedApp option
+[2013-12-10 09:33:52] selendroid-git, leaving. (#selendroid)
