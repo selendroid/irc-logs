@@ -29,3 +29,8 @@
 [2013-12-10 18:16:25] mummana: lukeis please help me
 [2013-12-10 18:20:24] mummana: guys please?
 [2013-12-10 18:38:00] lukeis: mummana: the error shows that it couldn't connect to the selendroid server. did the app start up? what do you see?
+[2013-12-10 18:46:30] mummana: nope the app dint get start
+[2013-12-10 18:46:44] lukeis: check the adb logcat for any errors?
+[2013-12-10 18:48:36] mummana: im trying on device  so it was  not possble to view the error
+[2013-12-10 18:48:36] mummana: ?
+[2013-12-10 18:48:54] mummana: welll i can i know wt might be the reasons?
