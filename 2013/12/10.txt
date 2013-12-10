@@ -34,3 +34,4 @@
 [2013-12-10 18:48:36] mummana: im trying on device  so it was  not possble to view the error
 [2013-12-10 18:48:36] mummana: ?
 [2013-12-10 18:48:54] mummana: welll i can i know wt might be the reasons?
+[2013-12-10 18:50:49] lukeis: adb logcat works on real devices too
