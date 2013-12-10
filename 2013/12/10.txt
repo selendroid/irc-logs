@@ -37,3 +37,4 @@
 [2013-12-10 18:50:49] lukeis: adb logcat works on real devices too
 [2013-12-10 19:22:26] mummana, quitting. (Quit: Page closed)
 [2013-12-10 20:15:18] jack090, joining. (#selendroid)
+[2013-12-10 21:28:05] jack090, quitting. (*.net *.split)
