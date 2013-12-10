@@ -5,3 +5,5 @@
 [2013-12-10 00:43:31] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-10 00:52:04] smccarthy, joining. (#selendroid)
 [2013-12-10 01:02:21] lukeis, quitting. (Quit: Leaving.)
+[2013-12-10 01:40:22] ddary, joining. (#selendroid)
+[2013-12-10 01:44:13] ddary, leaving. (#selendroid)
