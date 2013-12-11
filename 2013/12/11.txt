@@ -20,3 +20,11 @@
 [2013-12-11 18:58:40] ddary: how are you doing?
 [2013-12-11 18:59:25] lukeis: well, FINALLY getting to hand off maintaining the android team's tests back to them and get to work on good things ;)
 [2013-12-11 18:59:49] ddary: great :-)
+[2013-12-11 19:00:27] lukeis: that last commit of mine was long coming… i just 'dealt' with not having a screenshot in the inspector for a long time
+[2013-12-11 19:02:12] ddary: oh, really? was not aware of it, but it is probably related to that i never use --installedApp
+[2013-12-11 19:02:27] lukeis: :)
+[2013-12-11 19:02:39] lukeis: only a problem with emulators & installedApp
+[2013-12-11 19:02:45] lukeis: real device was fine
+[2013-12-11 19:03:10] lukeis: thus not many complaints from the dev team since they hardly use the emulator ;)
+[2013-12-11 19:03:40] ddary: good to know
+[2013-12-11 19:04:35] ddary: i have mainly used selendroid in the past weeks to identify hardware devices and manage apps on a devcice wall
