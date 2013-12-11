@@ -35,3 +35,4 @@
 [2013-12-11 21:54:29] ukkopekka, quitting. (Quit: Reconnecting)
 [2013-12-11 21:54:35] ukkopekka, joining. (#selendroid)
 [2013-12-11 21:54:56] ukkopekka, quitting. (Client Quit)
+[2013-12-11 21:55:02] ukkopekka, joining. (#selendroid)
