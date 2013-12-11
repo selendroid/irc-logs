@@ -11,3 +11,12 @@
 [2013-12-11 18:52:45] selendroid-git: selendroid/master d275f3a Simon Stewart: Introduce an API to control the screen brightness and whether it's on.
 [2013-12-11 18:52:45] selendroid-git, leaving. (#selendroid)
 [2013-12-11 18:54:01] lukeis: hiya ddary hope all is well :)
+[2013-12-11 18:56:39] ddary: hi lukeis
+[2013-12-11 18:56:47] ddary: yes everything is fine :)
+[2013-12-11 18:57:06] ddary: I'm about to go this evening to the christmas party here in London
+[2013-12-11 18:57:23] ddary: met yesterday Simon and his team here as well
+[2013-12-11 18:57:43] lukeis: great :) hope that was fruitful :)
+[2013-12-11 18:58:29] ddary: indeed
+[2013-12-11 18:58:40] ddary: how are you doing?
+[2013-12-11 18:59:25] lukeis: well, FINALLY getting to hand off maintaining the android team's tests back to them and get to work on good things ;)
+[2013-12-11 18:59:49] ddary: great :-)
