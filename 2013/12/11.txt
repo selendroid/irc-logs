@@ -5,3 +5,9 @@
 [2013-12-11 15:16:50] smccarthy, joining. (#selendroid)
 [2013-12-11 17:25:38] lukeis, joining. (#selendroid)
 [2013-12-11 18:22:09] ddary, joining. (#selendroid)
+[2013-12-11 18:52:45] selendroid-git, joining. (#selendroid)
+[2013-12-11 18:52:45] selendroid-git: [selendroid] shs96c pushed 2 new commits to master: http://git.io/iym2-Q
+[2013-12-11 18:52:45] selendroid-git: selendroid/master 9685a4c Simon Stewart: Clean up imports. No logical change.
+[2013-12-11 18:52:45] selendroid-git: selendroid/master d275f3a Simon Stewart: Introduce an API to control the screen brightness and whether it's on.
+[2013-12-11 18:52:45] selendroid-git, leaving. (#selendroid)
+[2013-12-11 18:54:01] lukeis: hiya ddary hope all is well :)
