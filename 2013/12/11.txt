@@ -28,3 +28,4 @@
 [2013-12-11 19:03:10] lukeis: thus not many complaints from the dev team since they hardly use the emulator ;)
 [2013-12-11 19:03:40] ddary: good to know
 [2013-12-11 19:04:35] ddary: i have mainly used selendroid in the past weeks to identify hardware devices and manage apps on a devcice wall
+[2013-12-11 19:15:51] ddary, quitting. (Quit: ddary)
