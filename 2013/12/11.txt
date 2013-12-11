@@ -29,3 +29,6 @@
 [2013-12-11 19:03:40] ddary: good to know
 [2013-12-11 19:04:35] ddary: i have mainly used selendroid in the past weeks to identify hardware devices and manage apps on a devcice wall
 [2013-12-11 19:15:51] ddary, quitting. (Quit: ddary)
+[2013-12-11 19:22:44] lukeis1, joining. (#selendroid)
+[2013-12-11 19:22:44] lukeis, quitting. (Read error: Connection reset by peer)
+[2013-12-11 19:22:58] lukeis1, changing nick to lukeis.
