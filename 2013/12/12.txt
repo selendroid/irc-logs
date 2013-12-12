@@ -8,3 +8,5 @@
 [2013-12-12 16:20:49] operatiay, joining. (#selendroid)
 [2013-12-12 17:06:37] smccarthy, joining. (#selendroid)
 [2013-12-12 17:38:19] lukeis, joining. (#selendroid)
+[2013-12-12 21:31:03] smccarthy2, joining. (#selendroid)
+[2013-12-12 21:33:50] smccarthy, quitting. (Ping timeout: 240 seconds)
