@@ -1,1 +1,2 @@
 [2013-12-12 01:06:59] lukeis, quitting. (Read error: Operation timed out)
+[2013-12-12 03:03:36] jlipps, quitting. (Quit: Leaving.)
