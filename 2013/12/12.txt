@@ -3,3 +3,4 @@
 [2013-12-12 06:59:36] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-12 14:33:54] ukkopekka, quitting. (Read error: Connection reset by peer)
 [2013-12-12 14:34:01] ukkopekka, joining. (#selendroid)
+[2013-12-12 15:13:41] smccarthy, joining. (#selendroid)
