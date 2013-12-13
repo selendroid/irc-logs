@@ -19,3 +19,5 @@
 [2013-12-13 17:39:42] AutomatedTester, joining. (#selendroid)
 [2013-12-13 17:43:15] ddary, quitting. (Quit: ddary)
 [2013-12-13 18:25:51] jlipps, joining. (#selendroid)
+[2013-12-13 20:01:27] operatiay, joining. (#selendroid)
+[2013-12-13 20:04:51] operatiay, quitting. (Read error: Operation timed out)
