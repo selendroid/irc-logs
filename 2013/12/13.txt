@@ -6,3 +6,4 @@
 [2013-12-13 08:57:46] selendroid-git: selendroid/master bee3a1d Dominik Dary: Update AUTHORS
 [2013-12-13 08:57:46] selendroid-git, leaving. (#selendroid)
 [2013-12-13 10:36:38] ddary, quitting. (Quit: ddary)
+[2013-12-13 12:56:40] operatiay, quitting. (Remote host closed the connection)
