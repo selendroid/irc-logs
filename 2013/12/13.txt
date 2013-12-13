@@ -13,3 +13,4 @@
 [2013-12-13 14:57:28] ddary, quitting. (Quit: ddary)
 [2013-12-13 16:16:19] ddary, joining. (#selendroid)
 [2013-12-13 16:34:56] ddary: :log
+[2013-12-13 16:51:26] smccarthy, joining. (#selendroid)
