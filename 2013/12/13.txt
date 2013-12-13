@@ -18,3 +18,4 @@
 [2013-12-13 17:37:02] AutomatedTester, quitting. (*.net *.split)
 [2013-12-13 17:39:42] AutomatedTester, joining. (#selendroid)
 [2013-12-13 17:43:15] ddary, quitting. (Quit: ddary)
+[2013-12-13 18:25:51] jlipps, joining. (#selendroid)
