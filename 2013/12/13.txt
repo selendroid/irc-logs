@@ -1,3 +1,7 @@
 [2013-12-13 00:16:11] smccarthy2, quitting. (Remote host closed the connection)
 [2013-12-13 00:33:35] lukeis, quitting. (Quit: Leaving.)
 [2013-12-13 08:11:58] ddary, joining. (#selendroid)
+[2013-12-13 08:57:46] selendroid-git, joining. (#selendroid)
+[2013-12-13 08:57:46] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/A-hzbQ
+[2013-12-13 08:57:46] selendroid-git: selendroid/master bee3a1d Dominik Dary: Update AUTHORS
+[2013-12-13 08:57:46] selendroid-git, leaving. (#selendroid)
