@@ -3,3 +3,6 @@
 [2013-12-14 01:56:38] jlipps, quitting. (Quit: Leaving.)
 [2013-12-14 04:40:26] operatiay, joining. (#selendroid)
 [2013-12-14 04:44:38] operatiay, quitting. (Ping timeout: 240 seconds)
+[2013-12-14 06:51:03] jlipps, joining. (#selendroid)
+[2013-12-14 06:53:04] jlipps, quitting. (Client Quit)
+[2013-12-14 06:53:18] jlipps, joining. (#selendroid)
