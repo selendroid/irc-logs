@@ -1,2 +1,3 @@
 [2013-12-15 02:49:46] operatiay, joining. (#selendroid)
 [2013-12-15 02:53:31] operatiay, quitting. (Read error: Operation timed out)
+[2013-12-15 03:30:26] smccarthy, joining. (#selendroid)
