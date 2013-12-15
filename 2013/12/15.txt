@@ -6,3 +6,4 @@
 [2013-12-15 08:56:56] operatiay, quitting. (Ping timeout: 245 seconds)
 [2013-12-15 10:53:26] operatiay, joining. (#selendroid)
 [2013-12-15 10:56:36] operatiay, quitting. (Read error: Operation timed out)
+[2013-12-15 14:54:34] operatiay, joining. (#selendroid)
