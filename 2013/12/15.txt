@@ -12,3 +12,4 @@
 [2013-12-15 21:19:15] kurortinform, joining. (#selendroid)
 [2013-12-15 21:54:26] kurortinform, quitting. (Remote host closed the connection)
 [2013-12-15 22:58:12] operatiay, joining. (#selendroid)
+[2013-12-15 23:02:27] operatiay, quitting. (Ping timeout: 240 seconds)
