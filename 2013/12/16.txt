@@ -68,3 +68,5 @@
 [2013-12-16 22:15:15] jack090: so I can only use testing in kitkat and above?
 [2013-12-16 22:15:21] jack090: er.. chromdriver
 [2013-12-16 22:15:32] jack090: blah brain dumb today
+[2013-12-16 22:21:56] lukeis: yes, although the current version of chromedriver assumes you are only using it to control your app (so, getting to a webview if it's not the first thing you are SOL)
+[2013-12-16 22:22:13] *lukeis has a patch that was sumbitted… so 2.8 will have a fix for it'
