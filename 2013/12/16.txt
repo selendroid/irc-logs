@@ -3,3 +3,7 @@
 [2013-12-16 03:03:45] operatiay, quitting. (Read error: Operation timed out)
 [2013-12-16 03:16:02] smccarthy, joining. (#selendroid)
 [2013-12-16 05:43:08] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-16 09:26:56] selendroid-git, joining. (#selendroid)
+[2013-12-16 09:26:56] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/4CDnCg
+[2013-12-16 09:26:56] selendroid-git: selendroid/master a0589dd Dominik Dary: keeping changelog up to date.
+[2013-12-16 09:26:56] selendroid-git, leaving. (#selendroid)
