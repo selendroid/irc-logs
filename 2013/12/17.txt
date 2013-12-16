@@ -1,0 +1,2 @@
+[2013-12-17 00:00:44] lukeis1: jack090: I'm now seeing an x86 image for API 19
+[2013-12-17 00:05:01] jack090: awesome
