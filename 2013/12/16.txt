@@ -28,3 +28,6 @@
 [2013-12-16 18:21:55] iapakhom, joining. (#selendroid)
 [2013-12-16 18:26:12] iapakhom, quitting. (Remote host closed the connection)
 [2013-12-16 19:27:06] varvara, joining. (#selendroid)
+[2013-12-16 19:30:34] varvara, quitting. (Remote host closed the connection)
+[2013-12-16 19:33:34] bradjin, joining. (#selendroid)
+[2013-12-16 19:33:58] bradjin, quitting. (Remote host closed the connection)
