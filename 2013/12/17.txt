@@ -1,2 +1,22 @@
 [2013-12-17 00:00:44] lukeis1: jack090: I'm now seeing an x86 image for API 19
 [2013-12-17 00:05:01] jack090: awesome
+[2013-12-17 00:05:07] jack090: I'll get myself a copy :-)
+[2013-12-17 00:05:14] jack090: thanks for the heads up lukeis1
+[2013-12-17 00:05:28] lukeis1, changing nick to lukeis.
+[2013-12-17 00:06:19] jack090: so selendroid 2.8 will have the fix to run web?
+[2013-12-17 00:06:23] jack090: or chromedriver?
+[2013-12-17 00:06:38] lukeis: what's 2.8?
+[2013-12-17 00:06:50] jack090: * lukeis has a patch that was sumbitted… so 2.8 will have a fix for it
+[2013-12-17 00:06:54] lukeis: oh, chromedriver 2.8
+[2013-12-17 00:07:00] lukeis: 2.7 is current release
+[2013-12-17 00:07:04] jack090: ahhh
+[2013-12-17 00:07:08] jack090: gotcha thanks
+[2013-12-17 00:07:35] jack090: http://chromedriver.storage.googleapis.com/index.html
+[2013-12-17 00:08:00] jack090: it'll be next version or is there a "dev" branch I can compile?
+[2013-12-17 00:08:01] lukeis: yep
+[2013-12-17 00:08:31] lukeis: you can compile if you checkout *ALL OF CHROME* and then build chromedriver…. not for the faint of heart
+[2013-12-17 00:08:39] jack090: hrm...
+[2013-12-17 00:08:43] jack090: I might just wait hehe
+[2013-12-17 00:08:43] lukeis: s/chrome/chromium/
+[2013-12-17 00:08:57] lukeis: took me 3 days just to figure out how to build it ;)
+[2013-12-17 00:09:49] lukeis: of course no one was there to answer my questions and the documentation was hard to follow…. so, I could walk you through it quickly, but the cloning of the source tree will take a while
