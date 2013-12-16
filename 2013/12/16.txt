@@ -31,3 +31,4 @@
 [2013-12-16 19:30:34] varvara, quitting. (Remote host closed the connection)
 [2013-12-16 19:33:34] bradjin, joining. (#selendroid)
 [2013-12-16 19:33:58] bradjin, quitting. (Remote host closed the connection)
+[2013-12-16 19:55:01] yannie, joining. (#selendroid)
