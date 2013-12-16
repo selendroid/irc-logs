@@ -38,3 +38,5 @@
 [2013-12-16 20:04:27] lukeis1, joining. (#selendroid)
 [2013-12-16 20:07:51] lukeis, quitting. (Ping timeout: 240 seconds)
 [2013-12-16 20:11:02] jack090, joining. (#selendroid)
+[2013-12-16 20:43:41] lukeis, joining. (#selendroid)
+[2013-12-16 20:43:41] lukeis1, quitting. (Read error: Connection reset by peer)
