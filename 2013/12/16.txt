@@ -37,3 +37,4 @@
 [2013-12-16 20:02:25] yannie, quitting. (Ping timeout: 272 seconds)
 [2013-12-16 20:04:27] lukeis1, joining. (#selendroid)
 [2013-12-16 20:07:51] lukeis, quitting. (Ping timeout: 240 seconds)
+[2013-12-16 20:11:02] jack090, joining. (#selendroid)
