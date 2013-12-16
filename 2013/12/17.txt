@@ -58,3 +58,4 @@
 [2013-12-17 00:21:31] selendroid-git, leaving. (#selendroid)
 [2013-12-17 00:21:36] lukeis: :)
 [2013-12-17 00:33:25] jack090, leaving. (#selendroid)
+[2013-12-17 00:45:52] smccarthy, quitting. (Remote host closed the connection)
