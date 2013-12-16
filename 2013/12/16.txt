@@ -41,3 +41,9 @@
 [2013-12-16 20:43:41] lukeis, joining. (#selendroid)
 [2013-12-16 20:43:41] lukeis1, quitting. (Read error: Connection reset by peer)
 [2013-12-16 20:59:34] jlipps, joining. (#selendroid)
+[2013-12-16 22:07:40] jack090:  * Deprecated .NET AndroidDriver class. Going forward, the recommended approach    is to use a third-party implementation for Android, such as Selendroid    (http://selendroid.io/) or Appium (http://appium.io/).
+[2013-12-16 22:08:06] jack090: lukeis does selendroid support chrome or default browser yet?
+[2013-12-16 22:08:21] lukeis1, joining. (#selendroid)
+[2013-12-16 22:09:15] jack090: lukeis does selendroid support chrome or default browser yet?
+[2013-12-16 22:09:39] jack090: saw this on new selenium release: * Deprecated .NET AndroidDriver class. Going forward, the recommended approach    is to use a third-party implementation for Android, such as Selendroid    (http://selendroid.io/) or Appium (http://appium.io/).
+[2013-12-16 22:09:42] lukeis1: chromedriver supports chrome
