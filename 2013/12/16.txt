@@ -71,3 +71,4 @@
 [2013-12-16 22:21:56] lukeis: yes, although the current version of chromedriver assumes you are only using it to control your app (so, getting to a webview if it's not the first thing you are SOL)
 [2013-12-16 22:22:13] *lukeis has a patch that was sumbitted… so 2.8 will have a fix for it'
 [2013-12-16 23:14:13] lukeis1, joining. (#selendroid)
+[2013-12-16 23:15:33] lukeis, quitting. (Ping timeout: 250 seconds)
