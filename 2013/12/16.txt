@@ -47,3 +47,21 @@
 [2013-12-16 22:09:15] jack090: lukeis does selendroid support chrome or default browser yet?
 [2013-12-16 22:09:39] jack090: saw this on new selenium release: * Deprecated .NET AndroidDriver class. Going forward, the recommended approach    is to use a third-party implementation for Android, such as Selendroid    (http://selendroid.io/) or Appium (http://appium.io/).
 [2013-12-16 22:09:42] lukeis1: chromedriver supports chrome
+[2013-12-16 22:10:02] lukeis1: i'm working on a simple webview app to get integrated into selendroid
+[2013-12-16 22:10:21] jack090: ahh but chromedriver doesn't support anything below kitkat
+[2013-12-16 22:10:26] jack090: correct?
+[2013-12-16 22:11:15] lukeis, quitting. (Ping timeout: 272 seconds)
+[2013-12-16 22:11:19] lukeis2, joining. (#selendroid)
+[2013-12-16 22:11:23] lukeis2: umm, chromedriver + chrome will work on more than that I think
+[2013-12-16 22:11:33] lukeis2: but webview needs kitkat
+[2013-12-16 22:11:59] lukeis2, changing nick to lukeis.
+[2013-12-16 22:12:18] jack090: ChromeDriver supports running tests on Chrome browser (version 30+) as well as WebView-based apps starting in Android 4.4 (KitKat) that have enabled web debugging and JavaScript. You can install Chrome app from:
+[2013-12-16 22:12:28] jack090: just read that
+[2013-12-16 22:13:24] jack090: so... the problem is kitkat doesn't support x86 emulation yet
+[2013-12-16 22:13:29] jack090: at least a few days ago it didn't
+[2013-12-16 22:13:32] jack090: hrm...
+[2013-12-16 22:14:12] lukeis: no, it doesn't
+[2013-12-16 22:14:27] lukeis1, quitting. (Ping timeout: 250 seconds)
+[2013-12-16 22:14:39] lukeis: i thought my coworker had run chromedriver + chrome.apk on something lower than 19… maybe 17
+[2013-12-16 22:14:55] lukeis: webview, yeah, 19+ only
+[2013-12-16 22:14:57] jack090: hrm... I can give it a try
