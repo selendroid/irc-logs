@@ -57,3 +57,4 @@
 [2013-12-17 00:21:31] selendroid-git: selendroid/gh-pages 2e8a6df Luke Inman-Semerau: updating version numbers in the pages and updating 'how to build' section
 [2013-12-17 00:21:31] selendroid-git, leaving. (#selendroid)
 [2013-12-17 00:21:36] lukeis: :)
+[2013-12-17 00:33:25] jack090, leaving. (#selendroid)
