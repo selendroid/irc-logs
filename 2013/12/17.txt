@@ -32,3 +32,23 @@
 [2013-12-17 00:13:09] lukeis: here ya go… there's your "own" webview app ;)
 [2013-12-17 00:13:21] lukeis: my work is in progress on making this easier
 [2013-12-17 00:14:08] lukeis: if you have the source of selendroid, go into that new folder and run `mvn package`  and in target you'll have a new apk for the webview app to run against
+[2013-12-17 00:15:09] lukeis: so, one step down for you… I'll be following up in the next couple of (days? weeks?) to get it so you can do something like:  new RemoteWebDriver(DesiredCapabilities.android());  and it will load the webview app for you
+[2013-12-17 00:15:09] jack090: sweet
+[2013-12-17 00:15:49] jack090: http://ios-driver.github.io/ios-driver/building-source.html
+[2013-12-17 00:15:55] lukeis: ?
+[2013-12-17 00:15:57] jack090: I assume similar instructions for building
+[2013-12-17 00:16:14] jack090: (just made that a couple days ago for the ios-driver team)
+[2013-12-17 00:16:23] jack090: in case any newbs like me stumble in
+[2013-12-17 00:16:26] lukeis: http://selendroid.io/architecture.html
+[2013-12-17 00:16:30] lukeis: how to build selendroid section
+[2013-12-17 00:16:42] lukeis: oh, that's out of date
+[2013-12-17 00:16:46] lukeis: nm
+[2013-12-17 00:17:09] lukeis: just clone the project and run  `mvn package -DskipTests=true`   and you have built selendroid
+[2013-12-17 00:17:19] jack090: Yea I'll work on that tomorrow
+[2013-12-17 00:17:26] jack090: do you want me to update the documentation and push it?
+[2013-12-17 00:17:44] lukeis: cd into the android-driver and run that same command and a new folder 'target' will appear and have the webview apk
+[2013-12-17 00:17:52] jack090: It's the least I can do :-)
+[2013-12-17 00:18:07] lukeis: if you want, i may just update that right now ;)
+[2013-12-17 00:18:56] jack090: Well I'm not going to stop you :-)
+[2013-12-17 00:19:08] jack090: I'm heading out for the day but I've got it bookmarked.
+[2013-12-17 00:19:18] jack090: I'm going to have some time tomorrow to take a look at it
