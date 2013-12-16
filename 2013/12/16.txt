@@ -65,3 +65,6 @@
 [2013-12-16 22:14:39] lukeis: i thought my coworker had run chromedriver + chrome.apk on something lower than 19… maybe 17
 [2013-12-16 22:14:55] lukeis: webview, yeah, 19+ only
 [2013-12-16 22:14:57] jack090: hrm... I can give it a try
+[2013-12-16 22:15:15] jack090: so I can only use testing in kitkat and above?
+[2013-12-16 22:15:21] jack090: er.. chromdriver
+[2013-12-16 22:15:32] jack090: blah brain dumb today
