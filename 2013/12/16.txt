@@ -32,3 +32,7 @@
 [2013-12-16 19:33:34] bradjin, joining. (#selendroid)
 [2013-12-16 19:33:58] bradjin, quitting. (Remote host closed the connection)
 [2013-12-16 19:55:01] yannie, joining. (#selendroid)
+[2013-12-16 20:00:54] lukeis, quitting. (Read error: Connection reset by peer)
+[2013-12-16 20:01:06] lukeis, joining. (#selendroid)
+[2013-12-16 20:02:25] yannie, quitting. (Ping timeout: 272 seconds)
+[2013-12-16 20:04:27] lukeis1, joining. (#selendroid)
