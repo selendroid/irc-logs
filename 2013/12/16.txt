@@ -40,3 +40,4 @@
 [2013-12-16 20:11:02] jack090, joining. (#selendroid)
 [2013-12-16 20:43:41] lukeis, joining. (#selendroid)
 [2013-12-16 20:43:41] lukeis1, quitting. (Read error: Connection reset by peer)
+[2013-12-16 20:59:34] jlipps, joining. (#selendroid)
