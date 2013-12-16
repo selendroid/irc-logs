@@ -20,3 +20,15 @@
 [2013-12-17 00:08:43] lukeis: s/chrome/chromium/
 [2013-12-17 00:08:57] lukeis: took me 3 days just to figure out how to build it ;)
 [2013-12-17 00:09:49] lukeis: of course no one was there to answer my questions and the documentation was hard to follow…. so, I could walk you through it quickly, but the cloning of the source tree will take a while
+[2013-12-17 00:10:56] jack090: Yea I'll just wait
+[2013-12-17 00:11:05] jack090: so my options to run web on android are:
+[2013-12-17 00:11:17] jack090: selendroid Or chromedriver 2.8
+[2013-12-17 00:11:33] jack090: but selendroid will require me to create my own webview apk
+[2013-12-17 00:11:42] jack090: and "launch" it as an app
+[2013-12-17 00:12:58] selendroid-git, joining. (#selendroid)
+[2013-12-17 00:12:58] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/BXlp6Q
+[2013-12-17 00:12:58] selendroid-git: selendroid/master 85e5655 Luke Inman-Semerau: adding android-driver, simple webview app...
+[2013-12-17 00:12:58] selendroid-git, leaving. (#selendroid)
+[2013-12-17 00:13:09] lukeis: here ya go… there's your "own" webview app ;)
+[2013-12-17 00:13:21] lukeis: my work is in progress on making this easier
+[2013-12-17 00:14:08] lukeis: if you have the source of selendroid, go into that new folder and run `mvn package`  and in target you'll have a new apk for the webview app to run against
