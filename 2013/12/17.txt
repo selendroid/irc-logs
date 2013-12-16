@@ -52,3 +52,8 @@
 [2013-12-17 00:18:56] jack090: Well I'm not going to stop you :-)
 [2013-12-17 00:19:08] jack090: I'm heading out for the day but I've got it bookmarked.
 [2013-12-17 00:19:18] jack090: I'm going to have some time tomorrow to take a look at it
+[2013-12-17 00:21:31] selendroid-git, joining. (#selendroid)
+[2013-12-17 00:21:31] selendroid-git: [selendroid] lukeis pushed 1 new commit to gh-pages: http://git.io/7AQenA
+[2013-12-17 00:21:31] selendroid-git: selendroid/gh-pages 2e8a6df Luke Inman-Semerau: updating version numbers in the pages and updating 'how to build' section
+[2013-12-17 00:21:31] selendroid-git, leaving. (#selendroid)
+[2013-12-17 00:21:36] lukeis: :)
