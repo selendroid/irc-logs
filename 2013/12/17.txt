@@ -88,3 +88,12 @@
 [2013-12-17 17:59:35] ddary: yeah, that is the way how it works
 [2013-12-17 17:59:50] ddary: what do you think, how long it will take to add it?
 [2013-12-17 18:00:01] lukeis: a week or two
+[2013-12-17 18:00:31] ddary: k
+[2013-12-17 18:00:33] lukeis: i'm taking time off work over the holidays and staying at home, should be able to work on it then
+[2013-12-17 18:00:50] lukeis: i started locally and think i'm 1/4 of the way done ;)
+[2013-12-17 18:01:07] ddary: the other thing, do you know when in the client bindings the switch context stuff will be available?
+[2013-12-17 18:01:42] lukeis: when someone gets off their butt and does it? :)
+[2013-12-17 18:02:02] lukeis: someone needs to put it in a spec or the json wire protocol
+[2013-12-17 18:02:21] lukeis: brb
+[2013-12-17 18:02:29] ddary: we have this 'mobile' spec
+[2013-12-17 18:04:03] ddary: http://code.google.com/p/selenium/source/browse/spec-draft.md?repo=mobile#135
