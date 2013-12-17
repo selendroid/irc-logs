@@ -108,3 +108,7 @@
 [2013-12-17 22:43:08] pcagava, quitting. (K-Lined)
 [2013-12-17 22:55:29] jlipps, quitting. (Quit: Leaving.)
 [2013-12-17 22:55:40] jlipps, joining. (#selendroid)
+[2013-12-17 23:36:15] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2013-12-17 23:36:47] smccarthy, joining. (#selendroid)
+[2013-12-17 23:38:00] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-17 23:38:34] smccarthy, joining. (#selendroid)
