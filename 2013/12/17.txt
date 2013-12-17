@@ -99,3 +99,5 @@
 [2013-12-17 18:04:03] ddary: http://code.google.com/p/selenium/source/browse/spec-draft.md?repo=mobile#135
 [2013-12-17 18:09:36] lukeis: why is the GET plural and the POST singular?  (i mean it makes sense linguistically, but not necessarily in an API endpoint)
 [2013-12-17 18:15:27] ddary, quitting. (Quit: ddary)
+[2013-12-17 19:55:50] smccarthy2, joining. (#selendroid)
+[2013-12-17 19:58:47] smccarthy, quitting. (Ping timeout: 250 seconds)
