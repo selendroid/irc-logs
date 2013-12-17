@@ -106,3 +106,5 @@
 [2013-12-17 20:34:56] jlipps, joining. (#selendroid)
 [2013-12-17 22:31:55] pcagava, joining. (#selendroid)
 [2013-12-17 22:43:08] pcagava, quitting. (K-Lined)
+[2013-12-17 22:55:29] jlipps, quitting. (Quit: Leaving.)
+[2013-12-17 22:55:40] jlipps, joining. (#selendroid)
