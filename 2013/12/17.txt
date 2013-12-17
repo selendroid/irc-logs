@@ -65,3 +65,4 @@
 [2013-12-17 06:53:07] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-17 08:38:20] ddary, joining. (#selendroid)
 [2013-12-17 10:08:28] ddary, quitting. (Ping timeout: 245 seconds)
+[2013-12-17 17:01:39] smccarthy, joining. (#selendroid)
