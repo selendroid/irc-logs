@@ -68,3 +68,23 @@
 [2013-12-17 17:01:39] smccarthy, joining. (#selendroid)
 [2013-12-17 17:37:06] lukeis, joining. (#selendroid)
 [2013-12-17 17:53:28] ddary, joining. (#selendroid)
+[2013-12-17 17:56:15] lukeis: hiya ddary
+[2013-12-17 17:56:27] ddary: hi lukeis
+[2013-12-17 17:56:43] ddary: have seen you are working on AndroidDriver
+[2013-12-17 17:56:47] lukeis: just wanted to let you know my intensions for android-driver, in case I didn't make it clear :)
+[2013-12-17 17:56:51] lukeis: yeah
+[2013-12-17 17:57:10] lukeis: I want to have new RemoteWebDriver(DesiredCapabilities.android());  'work' against selendroid
+[2013-12-17 17:57:35] lukeis: which will auto-install the android-driver apk and launch it and switch to the webview
+[2013-12-17 17:58:02] ddary: yeah, makes sense
+[2013-12-17 17:58:07] lukeis: ok :)
+[2013-12-17 17:58:17] ddary: the only thing we need to think about are tests
+[2013-12-17 17:58:22] lukeis: yes
+[2013-12-17 17:58:30] lukeis: well, the tests exist in the selenium project
+[2013-12-17 17:58:40] ddary: for the android driver (the original one) some tests exists, right?
+[2013-12-17 17:58:44] lukeis: i can add targets there to be able to run them
+[2013-12-17 17:58:47] lukeis: yes
+[2013-12-17 17:59:10] lukeis: except just today simon removed most of the references to AndroidDriver ;)
+[2013-12-17 17:59:15] lukeis: so I may have to put some back
+[2013-12-17 17:59:35] ddary: yeah, that is the way how it works
+[2013-12-17 17:59:50] ddary: what do you think, how long it will take to add it?
+[2013-12-17 18:00:01] lukeis: a week or two
