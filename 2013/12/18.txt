@@ -33,3 +33,5 @@
 [2013-12-18 11:44:34] ddary: that reminds me, i have to send my comments about the first draft jlipps has created
 [2013-12-18 13:09:03] mummana: hi dadry is it possible to take screenshots? in selendroid?
 [2013-12-18 13:10:17] mummana: sry dary
+[2013-12-18 13:21:44] ddary: mummana: yes
+[2013-12-18 13:24:40] ddary: mummana: https://github.com/selendroid/selendroid/blob/master/selendroid-client/src/main/java/io/selendroid/SelendroidDriver.java#L53
