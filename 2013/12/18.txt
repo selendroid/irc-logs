@@ -5,3 +5,4 @@
 [2013-12-18 04:03:40] jlipps, joining. (#selendroid)
 [2013-12-18 04:03:47] jlipps, quitting. (Client Quit)
 [2013-12-18 07:14:06] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-18 08:19:28] ddary, joining. (#selendroid)
