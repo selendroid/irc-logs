@@ -43,3 +43,7 @@
 [2013-12-18 14:04:33] ddary: what version of selendroid do you use?
 [2013-12-18 14:05:20] mummana: 0.6.0
 [2013-12-18 14:43:51] mummana, quitting. (Quit: Page closed)
+[2013-12-18 16:08:51] selendroid-git, joining. (#selendroid)
+[2013-12-18 16:08:51] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/TpF8Wg
+[2013-12-18 16:08:52] selendroid-git: selendroid/master 12c520f Dominik Dary: Adding version of targetAPI number because it is easier to understand by end users when interacting with the device wall.
+[2013-12-18 16:08:52] selendroid-git, leaving. (#selendroid)
