@@ -47,3 +47,5 @@
 [2013-12-18 16:08:51] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/TpF8Wg
 [2013-12-18 16:08:52] selendroid-git: selendroid/master 12c520f Dominik Dary: Adding version of targetAPI number because it is easier to understand by end users when interacting with the device wall.
 [2013-12-18 16:08:52] selendroid-git, leaving. (#selendroid)
+[2013-12-18 17:27:31] smccarthy, joining. (#selendroid)
+[2013-12-18 17:27:49] lukeis, joining. (#selendroid)
