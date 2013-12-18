@@ -55,3 +55,4 @@
 [2013-12-18 17:37:48] ddary: :)
 [2013-12-18 17:43:46] jack090, joining. (#selendroid)
 [2013-12-18 18:02:35] smccarthy2, joining. (#selendroid)
+[2013-12-18 18:05:28] smccarthy, quitting. (Ping timeout: 241 seconds)
