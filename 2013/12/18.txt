@@ -23,3 +23,11 @@
 [2013-12-18 11:37:34] ddary: we have currently some busy weeks, so will probably have a look in the beginning of next year
 [2013-12-18 11:38:45] mummana: hi dary is toast validation issue is still open? even im able to validate that
 [2013-12-18 11:39:52] ddary: mummana: yes, is still open #86
+[2013-12-18 11:41:04] AutomatedTester: ddary: no rush, just checking ;)
+[2013-12-18 11:42:07] ddary: AutomatedTester: is there any plan when the selenium mobile part will be discussed at the w3c?
+[2013-12-18 11:42:38] AutomatedTester: ddary: yes, wont be at the next F2F but perhaps by TPAC
+[2013-12-18 11:42:55] AutomatedTester: ddary: I have started the process of creating WebDriver Level 2 specification
+[2013-12-18 11:43:00] AutomatedTester: which is where the mobile stuff will go
+[2013-12-18 11:43:27] AutomatedTester: I have 2 parts to land there soonish
+[2013-12-18 11:43:40] AutomatedTester: and then whatever you, freynaud and jlipps come up with
+[2013-12-18 11:44:34] ddary: that reminds me, i have to send my comments about the first draft jlipps has created
