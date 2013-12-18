@@ -15,3 +15,11 @@
 [2013-12-18 09:56:51] mummana: yea m ggod here well i have a doubt related to toasts in android how to identify a toast ???
 [2013-12-18 10:08:34] ddary, quitting. (Ping timeout: 246 seconds)
 [2013-12-18 10:18:45] ddary, joining. (#selendroid)
+[2013-12-18 11:35:44] AutomatedTester: ddary: hey, did you get my email about W3C Working Group?
+[2013-12-18 11:36:50] ddary: AutomatedTester: yes
+[2013-12-18 11:36:54] ddary: thanks for that
+[2013-12-18 11:37:01] AutomatedTester: ok cool :)
+[2013-12-18 11:37:15] AutomatedTester: I hadnt heard from either you or Francois so wasnt sure it got through
+[2013-12-18 11:37:34] ddary: we have currently some busy weeks, so will probably have a look in the beginning of next year
+[2013-12-18 11:38:45] mummana: hi dary is toast validation issue is still open? even im able to validate that
+[2013-12-18 11:39:52] ddary: mummana: yes, is still open #86
