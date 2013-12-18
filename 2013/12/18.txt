@@ -12,3 +12,4 @@
 [2013-12-18 09:51:32] mummana: how are you
 [2013-12-18 09:51:46] ddary: hi
 [2013-12-18 09:51:58] ddary: good good and you?
+[2013-12-18 09:56:51] mummana: yea m ggod here well i have a doubt related to toasts in android how to identify a toast ???
