@@ -49,3 +49,4 @@
 [2013-12-18 16:08:52] selendroid-git, leaving. (#selendroid)
 [2013-12-18 17:27:31] smccarthy, joining. (#selendroid)
 [2013-12-18 17:27:49] lukeis, joining. (#selendroid)
+[2013-12-18 17:35:01] lukeis: ddary: my question doesn't make sense?
