@@ -35,3 +35,4 @@
 [2013-12-18 13:10:17] mummana: sry dary
 [2013-12-18 13:21:44] ddary: mummana: yes
 [2013-12-18 13:24:40] ddary: mummana: https://github.com/selendroid/selendroid/blob/master/selendroid-client/src/main/java/io/selendroid/SelendroidDriver.java#L53
+[2013-12-18 13:54:08] mummana: Please help me ,i have a toast which is visible after clicking  a button and after that took a screenshot of using webdriver code but when i view the screen shot i see there is no toast in it , can i know what might be the reason?
