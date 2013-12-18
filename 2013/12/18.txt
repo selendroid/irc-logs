@@ -6,3 +6,4 @@
 [2013-12-18 04:03:47] jlipps, quitting. (Client Quit)
 [2013-12-18 07:14:06] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-18 08:19:28] ddary, joining. (#selendroid)
+[2013-12-18 09:33:23] ddary: :note lukeis >>why is the GET plural and the POST singular? that doesn't make sense
