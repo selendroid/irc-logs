@@ -62,3 +62,4 @@
 [2013-12-18 22:28:36] smccarthy2, joining. (#selendroid)
 [2013-12-18 22:32:09] smccarthy, quitting. (Ping timeout: 250 seconds)
 [2013-12-18 23:14:12] jack090, quitting. (Quit: Page closed)
+[2013-12-18 23:40:19] smccarthy2, quitting. (Remote host closed the connection)
