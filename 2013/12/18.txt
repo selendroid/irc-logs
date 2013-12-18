@@ -36,3 +36,7 @@
 [2013-12-18 13:21:44] ddary: mummana: yes
 [2013-12-18 13:24:40] ddary: mummana: https://github.com/selendroid/selendroid/blob/master/selendroid-client/src/main/java/io/selendroid/SelendroidDriver.java#L53
 [2013-12-18 13:54:08] mummana: Please help me ,i have a toast which is visible after clicking  a button and after that took a screenshot of using webdriver code but when i view the screen shot i see there is no toast in it , can i know what might be the reason?
+[2013-12-18 13:55:02] ddary: i guess the issue is the toast display time is too short
+[2013-12-18 13:55:53] ddary: in the app you can define if the toast should be displayed for a long, mid or short time period
+[2013-12-18 13:56:49] mummana: no the toast time is around 6 secs, i have asked my developer
+[2013-12-18 13:57:36] mummana: in his sense he has used long
