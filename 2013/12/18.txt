@@ -7,3 +7,8 @@
 [2013-12-18 07:14:06] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-18 08:19:28] ddary, joining. (#selendroid)
 [2013-12-18 09:33:23] ddary: :note lukeis >>why is the GET plural and the POST singular? that doesn't make sense
+[2013-12-18 09:51:09] mummana, joining. (#selendroid)
+[2013-12-18 09:51:21] mummana: hi ddary
+[2013-12-18 09:51:32] mummana: how are you
+[2013-12-18 09:51:46] ddary: hi
+[2013-12-18 09:51:58] ddary: good good and you?
