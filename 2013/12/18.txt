@@ -41,3 +41,4 @@
 [2013-12-18 13:56:49] mummana: no the toast time is around 6 secs, i have asked my developer
 [2013-12-18 13:57:36] mummana: in his sense he has used long
 [2013-12-18 14:04:33] ddary: what version of selendroid do you use?
+[2013-12-18 14:05:20] mummana: 0.6.0
