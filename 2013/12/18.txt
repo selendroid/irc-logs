@@ -31,3 +31,4 @@
 [2013-12-18 11:43:27] AutomatedTester: I have 2 parts to land there soonish
 [2013-12-18 11:43:40] AutomatedTester: and then whatever you, freynaud and jlipps come up with
 [2013-12-18 11:44:34] ddary: that reminds me, i have to send my comments about the first draft jlipps has created
+[2013-12-18 13:09:03] mummana: hi dadry is it possible to take screenshots? in selendroid?
