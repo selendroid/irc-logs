@@ -60,3 +60,4 @@
 [2013-12-18 18:38:11] smccarthy2, quitting. (Remote host closed the connection)
 [2013-12-18 18:38:45] smccarthy, joining. (#selendroid)
 [2013-12-18 22:28:36] smccarthy2, joining. (#selendroid)
+[2013-12-18 22:32:09] smccarthy, quitting. (Ping timeout: 250 seconds)
