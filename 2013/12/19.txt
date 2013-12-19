@@ -70,3 +70,8 @@
 [2013-12-19 22:47:34] jack090_: In C# Apparently ChromeOptions is a wrapper around the chromeOptions-object chromedriver expects.
 [2013-12-19 22:47:53] lukeis: yes
 [2013-12-19 22:48:05] lukeis: but you can set arbitrary options
+[2013-12-19 22:50:24] lukeis: oh wait, the wrappers kinda suck :-/
+[2013-12-19 22:50:49] lukeis: do a RemoteWebDriver with desired capabilities
+[2013-12-19 22:51:26] lukeis: set one the capability 'chromeOptions' with a JSON object (or a Map object if it's toString works toJSON)
+[2013-12-19 22:52:01] lukeis: the JSON object should have "androidPackage" key :)
+[2013-12-19 22:52:12] lukeis: follow? :)
