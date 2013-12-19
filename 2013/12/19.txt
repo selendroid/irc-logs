@@ -99,3 +99,14 @@
 [2013-12-19 23:10:58] jack090_:  DesiredCapabilities capability = DesiredCapabilities.Android();             capability.SetCapability("chromeOptions", options);
 [2013-12-19 23:13:46] jack090_: lukeis: https://gist.github.com/jack090/8047142
 [2013-12-19 23:14:49] lukeis: why are you using ChromeOptionsWithPrefs ?
+[2013-12-19 23:15:10] lukeis: options should just BE the Dictionary :)
+[2013-12-19 23:16:06] jack090_: duhh your right
+[2013-12-19 23:16:15] jack090_: sorry I think I was over thinking this
+[2013-12-19 23:16:51] jack090_: unknown error: com.google.chrome is not installed on device emulator-5554   (Driver info: chromedriver=2.8.241036,platform=Mac OS X 10.9.1 x86_64)
+[2013-12-19 23:16:52] jack090_: so...
+[2013-12-19 23:16:57] jack090_: it seems I don't have chrome installed
+[2013-12-19 23:17:16] lukeis: would you like to install chrome on your emulator? :)
+[2013-12-19 23:17:31] jack090_: hehe yes that would probably be a good idea
+[2013-12-19 23:19:20] jack090_: hrm... should it be this hard to install chrome?
+[2013-12-19 23:19:37] jack090_: is it easier to install the play store or am I missing something so easy
+[2013-12-19 23:20:00] jack090_: going through the normal browser it wants me to login etc.. etc..
