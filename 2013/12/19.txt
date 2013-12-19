@@ -156,3 +156,6 @@
 [2013-12-19 23:35:26] jack090_: so make sure youg et that version
 [2013-12-19 23:35:33] jack090_: the one in the android download manager
 [2013-12-19 23:35:36] jack090_: is the old version
+[2013-12-19 23:43:35] jack090_: hrm... the chrome version i downloaded
+[2013-12-19 23:43:38] jack090_: it keeps crashing
+[2013-12-19 23:44:01] lukeis: from me or from you?
