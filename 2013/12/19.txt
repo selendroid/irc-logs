@@ -117,3 +117,15 @@
 [2013-12-19 23:23:14] jack090_: thanks man
 [2013-12-19 23:23:21] lukeis: oh and it's com.android.chrome  not  com.google.chrome :)
 [2013-12-19 23:23:55] jack090_: :-D
+[2013-12-19 23:26:02] lukeis: what was your mechanism for getting the apk?
+[2013-12-19 23:26:44] lukeis: (install on a real device and then grab it from that?) that's the only other way i know
+[2013-12-19 23:26:55] jack090_: http://commondatastorage.googleapis.com/chromium-browser-continuous/index.html?path=Android/
+[2013-12-19 23:27:02] jack090_: then download the .zip
+[2013-12-19 23:27:07] jack090_: i'm still working on it :-)
+[2013-12-19 23:27:08] lukeis: ah :)
+[2013-12-19 23:27:21] lukeis: https://gus.my.salesforce.com/sfc/p/T0000000Dpvc/a/B000000003aC/5Shk4t1HPFw8_ccvhkY8aUsvIHVKEz0AqL3R3E7YxZw=  is the apk I have in case you want it ;)
+[2013-12-19 23:27:32] lukeis: oh, that may not be externally accessible
+[2013-12-19 23:27:41] jack090_: is yours named chromiumtestshell.apk or contentshell.apk?
+[2013-12-19 23:27:56] lukeis: com.android.chrome.apk ;)
+[2013-12-19 23:28:01] jack090_: dang.
+[2013-12-19 23:29:14] lukeis: this link will work https://org62.my.salesforce.com/sfc/p/000000000062/a/300000009TB2/hnXrooI5onm.fiOQe167EAj1MrGt8mAt_y2ToTa3nz4=
