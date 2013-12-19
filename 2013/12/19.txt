@@ -87,3 +87,10 @@
 [2013-12-19 23:00:03] lukeis: I'm saying capabilities.setCapability(ChromeOptions.CAPABILITY, {"androidPackage":"com.google.chrome"});
 [2013-12-19 23:00:15] lukeis: very close to c# though :)
 [2013-12-19 23:00:42] lukeis: you can't do an inline json / map type though in c# can you ? :)
+[2013-12-19 23:05:19] jack090_: unknown error: cannot parse capability: chromeOptions from unknown error: must be a dictionary   (Driver info: chromedriver=2.8.241036,platform=Mac OS X 10.9.1 x86_64)
+[2013-12-19 23:05:21] jack090_: lol
+[2013-12-19 23:05:25] jack090_: you're one step ahead of me
+[2013-12-19 23:05:29] jack090_: I have to use a map lo
+[2013-12-19 23:05:32] jack090_: llol
+[2013-12-19 23:09:48] jack090_: doh....
+[2013-12-19 23:09:59] jack090_: it started chrome :-(
