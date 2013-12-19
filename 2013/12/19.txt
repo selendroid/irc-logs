@@ -29,3 +29,4 @@
 [2013-12-19 20:38:49] jack090_, joining. (#selendroid)
 [2013-12-19 20:39:05] jack090_: lukeis question do you need socat to use chromedriver and android?
 [2013-12-19 20:40:15] lukeis: i don't think so, i don't use socat at all though :)
+[2013-12-19 21:09:54] freynaud, joining. (#selendroid)
