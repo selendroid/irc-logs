@@ -22,3 +22,4 @@
 [2013-12-19 17:21:09] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2013-12-19 17:30:02] jack090, joining. (#selendroid)
 [2013-12-19 17:56:09] lukeis, joining. (#selendroid)
+[2013-12-19 18:23:34] lukeis: :note ddary I'd say I'm 4/5 of the way there now with AndroidDriver in selendroid now :) very close to having it working
