@@ -110,3 +110,10 @@
 [2013-12-19 23:19:20] jack090_: hrm... should it be this hard to install chrome?
 [2013-12-19 23:19:37] jack090_: is it easier to install the play store or am I missing something so easy
 [2013-12-19 23:20:00] jack090_: going through the normal browser it wants me to login etc.. etc..
+[2013-12-19 23:20:11] jack090_: well the emulator isn't a real device so it doesn't show up in my list of options
+[2013-12-19 23:21:28] lukeis: yeah, i used this service before (but it's down right now):  http://apps.evozi.com/apk-downloader/
+[2013-12-19 23:21:36] lukeis: gimme a min and i'll link you a chrome.apk
+[2013-12-19 23:23:11] jack090_: i got it lukeis
+[2013-12-19 23:23:14] jack090_: thanks man
+[2013-12-19 23:23:21] lukeis: oh and it's com.android.chrome  not  com.google.chrome :)
+[2013-12-19 23:23:55] jack090_: :-D
