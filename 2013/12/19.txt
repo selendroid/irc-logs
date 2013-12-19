@@ -129,3 +129,24 @@
 [2013-12-19 23:27:56] lukeis: com.android.chrome.apk ;)
 [2013-12-19 23:28:01] jack090_: dang.
 [2013-12-19 23:29:14] lukeis: this link will work https://org62.my.salesforce.com/sfc/p/000000000062/a/300000009TB2/hnXrooI5onm.fiOQe167EAj1MrGt8mAt_y2ToTa3nz4=
+[2013-12-19 23:31:11] jack090_: lukeis: I owe you one man
+[2013-12-19 23:31:29] jack090_: I need to make documentation for this
+[2013-12-19 23:31:50] jack090_: seems like it's a hodge podge of info from different sites to make this work
+[2013-12-19 23:32:25] jack090_: btw
+[2013-12-19 23:32:31] jack090_: if you upgrade to mavericks
+[2013-12-19 23:32:41] jack090_: and want to run the intel haxm driver
+[2013-12-19 23:32:48] jack090_: you have to get the hotfix version from intel
+[2013-12-19 23:32:56] lukeis: sounds good :)
+[2013-12-19 23:33:00] lukeis: for which api level?
+[2013-12-19 23:33:02] lukeis: all of them?
+[2013-12-19 23:33:05] jack090_: otherwise you have to hard reboot anytime you start an avd
+[2013-12-19 23:33:06] jack090_: ALL
+[2013-12-19 23:33:08] jack090_: yea
+[2013-12-19 23:33:10] lukeis: ok
+[2013-12-19 23:33:18] lukeis: thx for the tip!
+[2013-12-19 23:33:21] jack090_: it literally takes your machine down to a grinding halt
+[2013-12-19 23:33:26] lukeis: joy
+[2013-12-19 23:33:31] jack090_: I spent a day researching it
+[2013-12-19 23:34:26] jack090_: http://software.intel.com/en-us/articles/intel-hardware-accelerated-execution-manager/
+[2013-12-19 23:34:37] jack090_: bookmark that if you are planning on upgrading soon
+[2013-12-19 23:34:55] lukeis: next month i will be
