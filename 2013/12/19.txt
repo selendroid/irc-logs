@@ -84,3 +84,6 @@
 [2013-12-19 22:58:59] jack090_: hrm.. I'll try to fool around with this
 [2013-12-19 22:59:32] lukeis: iyeah, but you won't need the "ChomeOptions options" variable
 [2013-12-19 22:59:51] jack090_: that example was java I think
+[2013-12-19 23:00:03] lukeis: I'm saying capabilities.setCapability(ChromeOptions.CAPABILITY, {"androidPackage":"com.google.chrome"});
+[2013-12-19 23:00:15] lukeis: very close to c# though :)
+[2013-12-19 23:00:42] lukeis: you can't do an inline json / map type though in c# can you ? :)
