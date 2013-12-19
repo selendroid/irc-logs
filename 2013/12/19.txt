@@ -159,3 +159,30 @@
 [2013-12-19 23:43:35] jack090_: hrm... the chrome version i downloaded
 [2013-12-19 23:43:38] jack090_: it keeps crashing
 [2013-12-19 23:44:01] lukeis: from me or from you?
+[2013-12-19 23:45:22] jack090_: the one you gave
+[2013-12-19 23:45:25] jack090_: I can't manually open it
+[2013-12-19 23:45:28] jack090_: It opens but then dies
+[2013-12-19 23:45:40] jack090_: I destroyed my avd and created a new one
+[2013-12-19 23:45:45] jack090_: same thing
+[2013-12-19 23:45:56] jack090_: i'm using 4.4 on the intel x86
+[2013-12-19 23:46:19] lukeis: huh, so it does...
+[2013-12-19 23:46:25] lukeis: what the hell?
+[2013-12-19 23:46:32] jack090_: but the good news is
+[2013-12-19 23:46:36] lukeis: i was 90% sure I had that working ;)
+[2013-12-19 23:46:42] jack090_: when I run my selenium test via chromedriver
+[2013-12-19 23:46:49] jack090_: I can see the emulator work
+[2013-12-19 23:46:54] lukeis: cool
+[2013-12-19 23:46:56] jack090_: and it tries to open
+[2013-12-19 23:46:57] jack090_: then dies
+[2013-12-19 23:47:09] jack090_: so it seems like I just need a good .apk
+[2013-12-19 23:47:14] jack090_: or maybe a newer version
+[2013-12-19 23:47:33] jack090_: It looks like I'm setup
+[2013-12-19 23:47:41] lukeis: hmmm, looks like i accidentally deleted the 'good' one instead of this 'bad' one from my downloads folder :-/
+[2013-12-19 23:47:45] jack090_: I just need to somehow get chrome to work on the emulator :-)
+[2013-12-19 23:47:51] jack090_: lolz
+[2013-12-19 23:47:56] jack090_: Let me look around
+[2013-12-19 23:48:06] jack090_: and see if I can get it going
+[2013-12-19 23:48:09] lukeis: that link i gave earlier, looks like it'll be back up tomorrow
+[2013-12-19 23:48:26] lukeis: otherwise try installing on a real device and then grab the apk from it
+[2013-12-19 23:49:06] lukeis: (I believe that to be possible, just haven't done it myself… funny secret I don't have a real android device to play around with)
+[2013-12-19 23:49:21] *lukeis has an iphone :-D'
