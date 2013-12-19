@@ -16,3 +16,4 @@
 [2013-12-19 14:37:48] selendroid-git, leaving. (#selendroid)
 [2013-12-19 15:21:43] freynaud, quitting. (Read error: Connection reset by peer)
 [2013-12-19 15:23:26] freynaud, joining. (#selendroid)
+[2013-12-19 16:19:00] ddary, joining. (#selendroid)
