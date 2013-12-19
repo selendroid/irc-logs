@@ -75,3 +75,12 @@
 [2013-12-19 22:51:26] lukeis: set one the capability 'chromeOptions' with a JSON object (or a Map object if it's toString works toJSON)
 [2013-12-19 22:52:01] lukeis: the JSON object should have "androidPackage" key :)
 [2013-12-19 22:52:12] lukeis: follow? :)
+[2013-12-19 22:55:59] jack090_: yes
+[2013-12-19 22:56:14] jack090_: I'm having a hard time getting ChromeDriver() recognized
+[2013-12-19 22:56:52] jack090_: I think capability.SetCapability("language", "en"); is how I set language
+[2013-12-19 22:57:20] jack090_: so something like: capability.SetCapability("chromeOptions", "Something??");
+[2013-12-19 22:58:45] jack090_: ChromeOptions options = new ChromeOptions(); options.addExtensions(new File("/path/to/extension.crx")); capabilities.setCapability(ChromeOptions.CAPABILITY, options); ChromeDriver driver = new ChromeDriver(capabilities);
+[2013-12-19 22:58:49] jack090_: found that example
+[2013-12-19 22:58:59] jack090_: hrm.. I'll try to fool around with this
+[2013-12-19 22:59:32] lukeis: iyeah, but you won't need the "ChomeOptions options" variable
+[2013-12-19 22:59:51] jack090_: that example was java I think
