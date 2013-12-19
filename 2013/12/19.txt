@@ -94,3 +94,8 @@
 [2013-12-19 23:05:32] jack090_: llol
 [2013-12-19 23:09:48] jack090_: doh....
 [2013-12-19 23:09:59] jack090_: it started chrome :-(
+[2013-12-19 23:10:37] jack090_: var options = new ChromeOptionsWithPrefs();             options.prefs = new Dictionary<string, object>                 {                     { "androidPackage", "com.google.chrome" }                 };
+[2013-12-19 23:10:49] jack090_: then passing that in as:
+[2013-12-19 23:10:58] jack090_:  DesiredCapabilities capability = DesiredCapabilities.Android();             capability.SetCapability("chromeOptions", options);
+[2013-12-19 23:13:46] jack090_: lukeis: https://gist.github.com/jack090/8047142
+[2013-12-19 23:14:49] lukeis: why are you using ChromeOptionsWithPrefs ?
