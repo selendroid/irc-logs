@@ -14,3 +14,5 @@
 [2013-12-19 14:37:48] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/VYL6-w
 [2013-12-19 14:37:48] selendroid-git: selendroid/master 0e83c4b Dominik Dary: Using same Android version in all subprojects.
 [2013-12-19 14:37:48] selendroid-git, leaving. (#selendroid)
+[2013-12-19 15:21:43] freynaud, quitting. (Read error: Connection reset by peer)
+[2013-12-19 15:23:26] freynaud, joining. (#selendroid)
