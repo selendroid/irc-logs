@@ -66,3 +66,7 @@
 [2013-12-19 22:36:48] jack090_: it seems like I would have to start ./chromdriver with some sort of flag notifying that it has an active adb instance or something like that
 [2013-12-19 22:36:51] jack090_: ahh
 [2013-12-19 22:37:12] lukeis: if you have multiple devices there's the option "androidDeviceSerial"
+[2013-12-19 22:46:19] jack090_: hrm.. this is going to suck
+[2013-12-19 22:47:34] jack090_: In C# Apparently ChromeOptions is a wrapper around the chromeOptions-object chromedriver expects.
+[2013-12-19 22:47:53] lukeis: yes
+[2013-12-19 22:48:05] lukeis: but you can set arbitrary options
