@@ -17,3 +17,4 @@
 [2013-12-19 15:21:43] freynaud, quitting. (Read error: Connection reset by peer)
 [2013-12-19 15:23:26] freynaud, joining. (#selendroid)
 [2013-12-19 16:19:00] ddary, joining. (#selendroid)
+[2013-12-19 16:40:41] freynaud, quitting. (Ping timeout: 250 seconds)
