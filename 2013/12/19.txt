@@ -56,3 +56,13 @@
 [2013-12-19 22:34:25] jack090_: I can figure it out
 [2013-12-19 22:34:35] jack090_: if you have python version
 [2013-12-19 22:34:51] lukeis: have you read this https://sites.google.com/a/chromium.org/chromedriver/getting-started/getting-started---android ?
+[2013-12-19 22:35:01] lukeis: the example at the bottom is python ;)
+[2013-12-19 22:35:22] jack090_: 'androidPackage': 'com.android.chrome',
+[2013-12-19 22:35:28] jack090_: that's probably the piece i'm missing
+[2013-12-19 22:35:47] lukeis: yeah, that's the ChromeOptions bit
+[2013-12-19 22:35:58] jack090_: how does chromedriver know about my android VM
+[2013-12-19 22:36:14] jack090_: I don't see anything except starting adb
+[2013-12-19 22:36:47] lukeis: passing in that option tells chromedriver to start looking at adb
+[2013-12-19 22:36:48] jack090_: it seems like I would have to start ./chromdriver with some sort of flag notifying that it has an active adb instance or something like that
+[2013-12-19 22:36:51] jack090_: ahh
+[2013-12-19 22:37:12] lukeis: if you have multiple devices there's the option "androidDeviceSerial"
