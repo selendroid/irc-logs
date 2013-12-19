@@ -10,3 +10,7 @@
 [2013-12-19 12:04:51] ddary, quitting. (Quit: ddary)
 [2013-12-19 12:57:08] ddary, joining. (#selendroid)
 [2013-12-19 13:01:41] ddary, quitting. (Ping timeout: 248 seconds)
+[2013-12-19 14:37:48] selendroid-git, joining. (#selendroid)
+[2013-12-19 14:37:48] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/VYL6-w
+[2013-12-19 14:37:48] selendroid-git: selendroid/master 0e83c4b Dominik Dary: Using same Android version in all subprojects.
+[2013-12-19 14:37:48] selendroid-git, leaving. (#selendroid)
