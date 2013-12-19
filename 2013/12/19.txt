@@ -33,3 +33,9 @@
 [2013-12-19 21:15:42] freynaud, quitting. (Quit: freynaud)
 [2013-12-19 22:15:44] jack090_: lukeis: how did you get chromedriver to work on android?
 [2013-12-19 22:16:02] jack090_: I followed the directions but everytime I connect it starts up chrome on mac
+[2013-12-19 22:27:29] lukeis: you sure you're passing in the 'chromeOptions' then?
+[2013-12-19 22:28:13] jack090_: I'm using androiddriver
+[2013-12-19 22:28:29] lukeis: you just said chromedriver
+[2013-12-19 22:28:50] lukeis: or do you mean the android-driver-app ?
+[2013-12-19 22:29:37] jack090_: well chromedriver
+[2013-12-19 22:29:56] jack090_: but I'm using AndroidDriver when I call it
