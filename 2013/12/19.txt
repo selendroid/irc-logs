@@ -186,3 +186,23 @@
 [2013-12-19 23:48:26] lukeis: otherwise try installing on a real device and then grab the apk from it
 [2013-12-19 23:49:06] lukeis: (I believe that to be possible, just haven't done it myself… funny secret I don't have a real android device to play around with)
 [2013-12-19 23:49:21] *lukeis has an iphone :-D'
+[2013-12-19 23:50:38] jack090_: lolz
+[2013-12-19 23:50:47] jack090_: you're on the android team and you
+[2013-12-19 23:50:50] jack090_: don't have a droid
+[2013-12-19 23:50:55] jack090_: :-D
+[2013-12-19 23:50:59] lukeis: yep ;)
+[2013-12-19 23:51:02] jack090_: oh the irony
+[2013-12-19 23:51:12] jack090_: I have plenty of devices luckily
+[2013-12-19 23:51:14] lukeis: iphone is company issued even :)
+[2013-12-19 23:51:26] lukeis: i can check one out to borrow for 2 weeks at a time
+[2013-12-19 23:51:35] lukeis: but they all suck
+[2013-12-19 23:51:42] jack090_: I have a gs4, nexus 7, samsung 10.1 tablet
+[2013-12-19 23:52:04] jack090_: the gs4 is personal but the tablets are companies
+[2013-12-19 23:52:16] jack090_: I got a nexus 7 on woot.com for like $120 the other day
+[2013-12-19 23:52:33] jack090_: it's all testing stuff
+[2013-12-19 23:52:41] lukeis: nice, i'm waiting for the next version to come out on the nexus tablets (I hear maybe in the near future)
+[2013-12-19 23:53:03] jack090_: there's got to be a better way of getting chrome on the emulator
+[2013-12-19 23:53:05] jack090_: :-(
+[2013-12-19 23:53:13] jack090_: why is it so hard lol
+[2013-12-19 23:53:29] lukeis: http://apps.evozi.com/apk-downloader/  was created for this reason ;)
+[2013-12-19 23:53:44] lukeis: by the comments I would check back tomorrow, should be working then
