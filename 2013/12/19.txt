@@ -150,3 +150,9 @@
 [2013-12-19 23:34:26] jack090_: http://software.intel.com/en-us/articles/intel-hardware-accelerated-execution-manager/
 [2013-12-19 23:34:37] jack090_: bookmark that if you are planning on upgrading soon
 [2013-12-19 23:34:55] lukeis: next month i will be
+[2013-12-19 23:35:03] jack090_: Hotfix for OS X 10.9 only
+[2013-12-19 23:35:06] jack090_: that's the one you want
+[2013-12-19 23:35:15] jack090_: of course you'll have other stuff open
+[2013-12-19 23:35:26] jack090_: so make sure youg et that version
+[2013-12-19 23:35:33] jack090_: the one in the android download manager
+[2013-12-19 23:35:36] jack090_: is the old version
