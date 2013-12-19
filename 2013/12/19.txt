@@ -2,3 +2,4 @@
 [2013-12-19 01:41:36] jack090, joining. (#selendroid)
 [2013-12-19 02:27:51] smccarthy, joining. (#selendroid)
 [2013-12-19 02:48:29] jack090, quitting. (Quit: Page closed)
+[2013-12-19 06:10:52] smccarthy, quitting. (Remote host closed the connection)
