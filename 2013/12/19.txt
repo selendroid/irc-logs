@@ -39,3 +39,20 @@
 [2013-12-19 22:28:50] lukeis: or do you mean the android-driver-app ?
 [2013-12-19 22:29:37] jack090_: well chromedriver
 [2013-12-19 22:29:56] jack090_: but I'm using AndroidDriver when I call it
+[2013-12-19 22:30:02] jack090_: from my remotewebdriver
+[2013-12-19 22:30:09] jack090_: (I can switch it)
+[2013-12-19 22:30:14] lukeis: care to :gist some code? :)
+[2013-12-19 22:30:40] jack090_: AndroidDriver driver = new AndroidDriver(new Uri("http://qpmauto03:4723/wd/hub"));
+[2013-12-19 22:30:48] lukeis: that won't work
+[2013-12-19 22:31:14] jack090_: what do I have to use?
+[2013-12-19 22:31:16] jack090_: remotewebdriver?
+[2013-12-19 22:31:30] lukeis: ChromeDriver would be more appropriate
+[2013-12-19 22:31:48] lukeis: you have to set a ChromeOptions though
+[2013-12-19 22:33:05] jack090_: have that handy?
+[2013-12-19 22:33:17] lukeis: in python ;)
+[2013-12-19 22:33:32] lukeis: which won't translate
+[2013-12-19 22:33:35] lukeis: you in C#?
+[2013-12-19 22:34:22] jack090_: ya
+[2013-12-19 22:34:25] jack090_: I can figure it out
+[2013-12-19 22:34:35] jack090_: if you have python version
+[2013-12-19 22:34:51] lukeis: have you read this https://sites.google.com/a/chromium.org/chromedriver/getting-started/getting-started---android ?
