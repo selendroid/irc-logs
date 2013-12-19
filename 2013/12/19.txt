@@ -8,3 +8,4 @@
 [2013-12-19 10:30:04] freynaud, joining. (#selendroid)
 [2013-12-19 11:19:12] ddary, joining. (#selendroid)
 [2013-12-19 12:04:51] ddary, quitting. (Quit: ddary)
+[2013-12-19 12:57:08] ddary, joining. (#selendroid)
