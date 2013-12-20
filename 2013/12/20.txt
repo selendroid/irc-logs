@@ -32,3 +32,11 @@
 [2013-12-20 19:30:07] ddary: hi lukeis
 [2013-12-20 19:30:10] lukeis: (meeting biab)
 [2013-12-20 19:30:57] ddary: ok
+[2013-12-20 20:15:04] ddary: lukeis: just ping me if you have time
+[2013-12-20 20:15:20] lukeis: i do now :)
+[2013-12-20 20:16:13] ddary: :)
+[2013-12-20 20:16:37] ddary: what is the issue with the tests?
+[2013-12-20 20:17:21] lukeis: oh, my local changes broke them :)
+[2013-12-20 20:17:41] ddary: I see
+[2013-12-20 20:19:34] ddary: I started today to work on the mobile test part:
+[2013-12-20 20:19:35] ddary: http://code.google.com/p/selenium/source/list?repo=mobile
