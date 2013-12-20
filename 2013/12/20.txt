@@ -24,3 +24,4 @@
 [2013-12-20 14:50:49] AutomatedTester: looks good
 [2013-12-20 14:51:08] AutomatedTester: just popping out quickly
 [2013-12-20 14:51:16] ddary: thanks
+[2013-12-20 15:28:17] smccarthy, joining. (#selendroid)
