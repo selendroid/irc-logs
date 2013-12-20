@@ -67,3 +67,22 @@
 [2013-12-20 23:24:18] jack090_: but i'm still having chrome crash when loading up
 [2013-12-20 23:24:30] lukeis: :-/  maybe they broke it on emulators?
 [2013-12-20 23:24:42] jack090_: I'm thinking they must have
+[2013-12-20 23:25:01] jack090_: i tried using browser instead of chrome
+[2013-12-20 23:25:12] jack090_: and it barfed on me saying webviews need some sort of activity
+[2013-12-20 23:25:21] lukeis: yeah, that won't work :)
+[2013-12-20 23:25:21] jack090_: I could use the default browser if it'd work
+[2013-12-20 23:25:44] lukeis: i'm very very very close with adding 'AndroidDriver' to selendroid
+[2013-12-20 23:25:53] jack090_: :-D
+[2013-12-20 23:26:03] lukeis: but not the bits about using chromedriver on API19+
+[2013-12-20 23:26:16] lukeis: that'll be the 'next' effort
+[2013-12-20 23:26:31] jack090_: don't really care about using chromedriver
+[2013-12-20 23:26:32] jack090_: per say
+[2013-12-20 23:26:46] jack090_: more or less I need tests to work on android without taking a dive after 4-6 tests
+[2013-12-20 23:26:55] jack090_: the webdriver.apk crashes constantly
+[2013-12-20 23:27:11] jack090_: I use to use that and would fork the output using socat etc...
+[2013-12-20 23:27:20] jack090_: so I could use remotewebdriver
+[2013-12-20 23:27:32] jack090_: but webdriver.apk would constantly die after a while
+[2013-12-20 23:28:00] lukeis: here's the webview app https://org62.my.salesforce.com/sfc/p/000000000062/a/300000009TLl/8RvKz69Ka6c7U3zRtEOZ.u5JHsr_731a085X1krZSkM=
+[2013-12-20 23:28:06] lukeis: use it with selendroid
+[2013-12-20 23:28:38] lukeis: java -jar selendroid….-with-dependencies.jar  -aut android-driver….apk  -port 4444
+[2013-12-20 23:29:31] lukeis: only thing 'extra' you need to do after starting the RemoteWebDriver against it is to call driver.switchTo().window("WEBVIEW")
