@@ -59,3 +59,6 @@
 [2013-12-20 21:26:00] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/JVhGFQ
 [2013-12-20 21:26:00] selendroid-git: selendroid/master 7f19d1b Simon Stewart: Start the main activity when we start the server....
 [2013-12-20 21:26:00] selendroid-git, leaving. (#selendroid)
+[2013-12-20 21:57:16] jack090_: lukeis I never did find a good com.android.chrome.pak
+[2013-12-20 21:57:17] jack090_: apk
+[2013-12-20 21:57:28] jack090_: I guess I should probably just putt it off my device
