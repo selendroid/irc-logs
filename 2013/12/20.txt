@@ -5,3 +5,4 @@
 [2013-12-20 04:25:19] smccarthy, joining. (#selendroid)
 [2013-12-20 06:12:51] ddary, joining. (#selendroid)
 [2013-12-20 06:13:34] ddary: :note lukeis wow! that is awesome :)
+[2013-12-20 06:24:21] ddary, quitting. (Ping timeout: 248 seconds)
