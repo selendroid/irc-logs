@@ -134,3 +134,10 @@
 [2013-12-20 23:46:44] jack090_: let me stop it
 [2013-12-20 23:46:45] lukeis: ok :)
 [2013-12-20 23:52:08] jack090_: hrm.. can't find the aut I need
+[2013-12-20 23:57:00] lukeis: jack090_: ok… here's the beta https://org62.my.salesforce.com/sfc/p/000000000062/a/300000009TLq/5ribU_MegGFLc0DR_X90WwTGXqknlCYMBgCl61AMWws=   that I'm currently almost finished with, you can use it with just DesiredCapabilities.Android()  and it should work
+[2013-12-20 23:57:22] lukeis: that being said I've gotta run to pick up the kids… and I likely won't be on IRC until the new year :)
+[2013-12-20 23:57:30] jack090_: yea same here
+[2013-12-20 23:57:30] lukeis: have a good one!
+[2013-12-20 23:57:36] jack090_: vacation next week myself
+[2013-12-20 23:57:40] jack090_: c-ya bud thanks for all your help!
+[2013-12-20 23:57:42] lukeis, quitting. (Quit: Leaving.)
