@@ -3,3 +3,5 @@
 [2013-12-20 00:04:03] smccarthy, quitting. (Ping timeout: 272 seconds)
 [2013-12-20 00:48:04] lukeis, quitting. (Quit: Leaving.)
 [2013-12-20 04:25:19] smccarthy, joining. (#selendroid)
+[2013-12-20 06:12:51] ddary, joining. (#selendroid)
+[2013-12-20 06:13:34] ddary: :note lukeis wow! that is awesome :)
