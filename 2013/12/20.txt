@@ -29,3 +29,6 @@
 [2013-12-20 17:25:47] lukeis, joining. (#selendroid)
 [2013-12-20 19:29:12] ddary, joining. (#selendroid)
 [2013-12-20 19:29:54] lukeis: ddary: i just got it working ;)  (now to fix the tests!)
+[2013-12-20 19:30:07] ddary: hi lukeis
+[2013-12-20 19:30:10] lukeis: (meeting biab)
+[2013-12-20 19:30:57] ddary: ok
