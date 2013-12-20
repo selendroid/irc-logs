@@ -2,3 +2,4 @@
 [2013-12-20 00:00:18] jack090_: i've used it before
 [2013-12-20 00:04:03] smccarthy, quitting. (Ping timeout: 272 seconds)
 [2013-12-20 00:48:04] lukeis, quitting. (Quit: Leaving.)
+[2013-12-20 04:25:19] smccarthy, joining. (#selendroid)
