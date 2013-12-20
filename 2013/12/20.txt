@@ -94,3 +94,18 @@
 [2013-12-20 23:31:47] jack090_: brain fart
 [2013-12-20 23:31:47] jack090_: lol
 [2013-12-20 23:31:52] jack090_: it's just a jar
+[2013-12-20 23:36:27] jack090_: lukeis ANDROID_HOME
+[2013-12-20 23:36:38] jack090_: any particular folder?
+[2013-12-20 23:36:45] lukeis: the android sdk
+[2013-12-20 23:36:46] lukeis: ;)
+[2013-12-20 23:36:48] jack090_: platform-tools and tools are the main ones
+[2013-12-20 23:36:55] jack090_: set it to root?
+[2013-12-20 23:37:01] lukeis: the folder that contains platform-tools
+[2013-12-20 23:37:07] jack090_: k gotcha
+[2013-12-20 23:37:10] jack090_: thx
+[2013-12-20 23:39:06] jack090_: says no android virtual devices found
+[2013-12-20 23:39:12] jack090_: yet I'm starting right at the emulator
+[2013-12-20 23:39:31] lukeis: your emulator is already started?
+[2013-12-20 23:39:36] jack090_: yes
+[2013-12-20 23:39:39] jack090_: stop it?
+[2013-12-20 23:39:44] lukeis: use -installedApp
