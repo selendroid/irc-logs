@@ -52,3 +52,4 @@
 [2013-12-20 20:40:09] ddary: still need to add more stuff, but at least the first stuff is there
 [2013-12-20 20:40:52] ddary: what was the part that you wanted to add to that App?
 [2013-12-20 20:59:17] ddary, quitting. (Quit: ddary)
+[2013-12-20 21:17:17] ddary, joining. (#selendroid)
