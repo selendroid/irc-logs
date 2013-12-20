@@ -8,3 +8,4 @@
 [2013-12-20 06:24:21] ddary, quitting. (Ping timeout: 248 seconds)
 [2013-12-20 07:01:43] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-20 07:09:19] ddary, joining. (#selendroid)
+[2013-12-20 07:10:26] ddary: :note lukeis our ci has now all android versions installed. so if you want to bump the android api level of the whole project to api 19 you can now do it :)
