@@ -109,3 +109,17 @@
 [2013-12-20 23:39:36] jack090_: yes
 [2013-12-20 23:39:39] jack090_: stop it?
 [2013-12-20 23:39:44] lukeis: use -installedApp
+[2013-12-20 23:41:00] lukeis: -installedApp io.selendroid.androiddriver/WebViewActivity
+[2013-12-20 23:41:14] lukeis: oh
+[2013-12-20 23:41:22] lukeis: you don't want to do that yet, you need to resign it
+[2013-12-20 23:41:29] lukeis: so, yes, stop the emulator :)
+[2013-12-20 23:43:28] jack090_: The requested application under test is not configured in selendroid server. (33)
+[2013-12-20 23:43:44] jack090_: I stopped it didn't give warnings but when trying to connect
+[2013-12-20 23:43:46] jack090_: it dies
+[2013-12-20 23:43:53] lukeis: :-/
+[2013-12-20 23:44:10] jack090_: DesiredCapabilities capability = DesiredCapabilities.Android();
+[2013-12-20 23:44:25] jack090_: IWebDriver driver = new RemoteWebDriver(new Uri("http://qpmauto04:8099/wd/hub"), capability);
+[2013-12-20 23:44:29] lukeis: oh, you'll need to pass in a "aut" capability
+[2013-12-20 23:44:39] jack090_: ahh
+[2013-12-20 23:44:42] jack090_: gotcha k 1 sec.
+[2013-12-20 23:44:46] lukeis: look in  localhost:4444/wd/hub/status for the value
