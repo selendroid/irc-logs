@@ -27,3 +27,5 @@
 [2013-12-20 15:28:17] smccarthy, joining. (#selendroid)
 [2013-12-20 15:41:54] ddary, leaving. (#selendroid)
 [2013-12-20 17:25:47] lukeis, joining. (#selendroid)
+[2013-12-20 19:29:12] ddary, joining. (#selendroid)
+[2013-12-20 19:29:54] lukeis: ddary: i just got it working ;)  (now to fix the tests!)
