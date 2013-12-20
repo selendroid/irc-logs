@@ -123,3 +123,13 @@
 [2013-12-20 23:44:39] jack090_: ahh
 [2013-12-20 23:44:42] jack090_: gotcha k 1 sec.
 [2013-12-20 23:44:46] lukeis: look in  localhost:4444/wd/hub/status for the value
+[2013-12-20 23:45:47] jack090_: hrm.. you sure 4444?
+[2013-12-20 23:45:49] jack090_: it's not loading
+[2013-12-20 23:46:05] lukeis: did you specify -port 4444?
+[2013-12-20 23:46:10] lukeis: otherwise it's 5555
+[2013-12-20 23:46:25] lukeis: and your example shows 8099?
+[2013-12-20 23:46:34] jack090_: yes
+[2013-12-20 23:46:36] jack090_: I used 8099
+[2013-12-20 23:46:43] jack090_: i have selenium-server running as well
+[2013-12-20 23:46:44] jack090_: let me stop it
+[2013-12-20 23:46:45] lukeis: ok :)
