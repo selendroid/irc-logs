@@ -40,3 +40,6 @@
 [2013-12-20 20:17:41] ddary: I see
 [2013-12-20 20:19:34] ddary: I started today to work on the mobile test part:
 [2013-12-20 20:19:35] ddary: http://code.google.com/p/selenium/source/list?repo=mobile
+[2013-12-20 20:20:05] ddary: the API demo app can now also display the selenium html test files
+[2013-12-20 20:20:52] ddary: and wrote the first python test: http://code.google.com/p/selenium/source/browse/test/webdriver/mobile/webview/find_element_tests.py?repo=mobile
+[2013-12-20 20:22:52] ddary: like it so far:)
