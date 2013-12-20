@@ -7,3 +7,4 @@
 [2013-12-20 06:13:34] ddary: :note lukeis wow! that is awesome :)
 [2013-12-20 06:24:21] ddary, quitting. (Ping timeout: 248 seconds)
 [2013-12-20 07:01:43] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-20 07:09:19] ddary, joining. (#selendroid)
