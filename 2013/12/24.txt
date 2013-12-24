@@ -2,3 +2,6 @@
 [2013-12-24 09:26:37] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/cBLZTw
 [2013-12-24 09:26:37] selendroid-git: selendroid/master 64589af Luke Inman-Semerau: AndroidDriver is now built into the standalone server....
 [2013-12-24 09:26:37] selendroid-git, leaving. (#selendroid)
+[2013-12-24 11:15:05] selendroid-git, joining. (#selendroid)
+[2013-12-24 11:15:05] selendroid-git: [selendroid] k-yamada opened pull request #190: Support shift_jis html (master...master) http://git.io/GOM1UA
+[2013-12-24 11:15:05] selendroid-git, leaving. (#selendroid)
