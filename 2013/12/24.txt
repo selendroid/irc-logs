@@ -5,3 +5,4 @@
 [2013-12-24 11:15:05] selendroid-git, joining. (#selendroid)
 [2013-12-24 11:15:05] selendroid-git: [selendroid] k-yamada opened pull request #190: Support shift_jis html (master...master) http://git.io/GOM1UA
 [2013-12-24 11:15:05] selendroid-git, leaving. (#selendroid)
+[2013-12-24 15:28:49] smccarthy, joining. (#selendroid)
