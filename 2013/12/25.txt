@@ -1,2 +1,11 @@
 [2013-12-25 10:18:21] freynaud, joining. (#selendroid)
 [2013-12-25 10:24:06] freynaud, quitting. (Quit: freynaud)
+[2013-12-25 11:45:03] selendroid-git, joining. (#selendroid)
+[2013-12-25 11:45:03] selendroid-git: [selendroid] DominikDary pushed 3 new commits to master: http://git.io/BTPxrw
+[2013-12-25 11:45:03] selendroid-git: selendroid/master 3c1913d Dominik Dary: Fixing handling of url loading.
+[2013-12-25 11:45:03] selendroid-git: selendroid/master 3c2ead3 Dominik Dary: creating new version.
+[2013-12-25 11:45:03] selendroid-git: selendroid/master 62f6f9c Dominik Dary: updating changelog
+[2013-12-25 11:45:03] selendroid-git, leaving. (#selendroid)
+[2013-12-25 11:46:45] selendroid-git, joining. (#selendroid)
+[2013-12-25 11:46:45] selendroid-git: [selendroid] DominikDary tagged 0.7.0 at 31dbc25: http://git.io/L6Uq7A
+[2013-12-25 11:46:45] selendroid-git, leaving. (#selendroid)
