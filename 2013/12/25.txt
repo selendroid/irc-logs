@@ -21,3 +21,6 @@
 [2013-12-25 11:59:50] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/OyDLpQ
 [2013-12-25 11:59:50] selendroid-git: selendroid/gh-pages cb307a0 Dominik Dary: Update setup.html
 [2013-12-25 11:59:50] selendroid-git, leaving. (#selendroid)
+[2013-12-25 12:00:30] ddary, joining. (#selendroid)
+[2013-12-25 12:03:55] ddary, quitting. (Client Quit)
+[2013-12-25 12:04:10] ddary, joining. (#selendroid)
