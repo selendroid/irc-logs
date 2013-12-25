@@ -26,3 +26,5 @@
 [2013-12-25 12:04:10] ddary, joining. (#selendroid)
 [2013-12-25 12:22:22] ddary, leaving. (#selendroid)
 [2013-12-25 18:41:40] smccarthy, joining. (#selendroid)
+[2013-12-25 20:00:37] mummana, joining. (#selendroid)
+[2013-12-25 20:00:49] mummana, quitting. (Client Quit)
