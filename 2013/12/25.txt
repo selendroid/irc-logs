@@ -9,3 +9,15 @@
 [2013-12-25 11:46:45] selendroid-git, joining. (#selendroid)
 [2013-12-25 11:46:45] selendroid-git: [selendroid] DominikDary tagged 0.7.0 at 31dbc25: http://git.io/L6Uq7A
 [2013-12-25 11:46:45] selendroid-git, leaving. (#selendroid)
+[2013-12-25 11:55:48] selendroid-git, joining. (#selendroid)
+[2013-12-25 11:55:48] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/VMmY7w
+[2013-12-25 11:55:48] selendroid-git: selendroid/gh-pages b41ad52 Dominik Dary: Update properties.js
+[2013-12-25 11:55:48] selendroid-git, leaving. (#selendroid)
+[2013-12-25 11:57:07] selendroid-git, joining. (#selendroid)
+[2013-12-25 11:57:07] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/_HAvxA
+[2013-12-25 11:57:07] selendroid-git: selendroid/gh-pages 372a940 Dominik Dary: Update scale.html
+[2013-12-25 11:57:07] selendroid-git, leaving. (#selendroid)
+[2013-12-25 11:59:50] selendroid-git, joining. (#selendroid)
+[2013-12-25 11:59:50] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/OyDLpQ
+[2013-12-25 11:59:50] selendroid-git: selendroid/gh-pages cb307a0 Dominik Dary: Update setup.html
+[2013-12-25 11:59:50] selendroid-git, leaving. (#selendroid)
