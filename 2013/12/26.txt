@@ -2,3 +2,7 @@
 [2013-12-26 15:33:14] smccarthy, joining. (#selendroid)
 [2013-12-26 17:21:57] smccarthy, quitting. (Ping timeout: 248 seconds)
 [2013-12-26 19:57:26] smccarthy, joining. (#selendroid)
+[2013-12-26 22:23:10] selendroid-git, joining. (#selendroid)
+[2013-12-26 22:23:10] selendroid-git: [selendroid] lukeis pushed 1 new commit to gh-pages: http://git.io/PC3HcQ
+[2013-12-26 22:23:10] selendroid-git: selendroid/gh-pages 708e6ad Luke Inman-Semerau: adding page about WebView support to point AndroidDriver users to.
+[2013-12-26 22:23:10] selendroid-git, leaving. (#selendroid)
