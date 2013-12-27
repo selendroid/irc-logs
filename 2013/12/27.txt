@@ -32,3 +32,8 @@
 [2013-12-27 20:59:50] freynaud, quitting. (Ping timeout: 240 seconds)
 [2013-12-27 22:34:34] ddary, joining. (#selendroid)
 [2013-12-27 22:38:12] ddary: :log
+[2013-12-27 22:41:15] selendroid-git, joining. (#selendroid)
+[2013-12-27 22:41:15] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/GC5dxQ
+[2013-12-27 22:41:15] selendroid-git: selendroid/gh-pages 3e14601 Dominik Dary: Update faq.html
+[2013-12-27 22:41:15] selendroid-git, leaving. (#selendroid)
+[2013-12-27 22:41:57] ddary, quitting. (Quit: ddary)
