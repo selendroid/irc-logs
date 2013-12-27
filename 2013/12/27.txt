@@ -28,3 +28,4 @@
 [2013-12-27 08:16:59] selendroid-git, leaving. (#selendroid)
 [2013-12-27 14:12:52] smccarthy, joining. (#selendroid)
 [2013-12-27 16:41:55] smccarthy, quitting. (Remote host closed the connection)
+[2013-12-27 20:53:59] freynaud, joining. (#selendroid)
