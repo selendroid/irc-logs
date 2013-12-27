@@ -9,3 +9,12 @@
 [2013-12-27 08:04:16] selendroid-git: selendroid/gh-pages f2f7f33 Dominik Dary: Update webview.html...
 [2013-12-27 08:04:16] selendroid-git, leaving. (#selendroid)
 [2013-12-27 08:06:21] ddary: :note lukeis Thanks for adding the webview.html page. Just thinking that maybe the name mobile web would be better. Are you fine if I change it?
+[2013-12-27 08:12:18] selendroid-git, joining. (#selendroid)
+[2013-12-27 08:12:18] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/-0pf6A
+[2013-12-27 08:12:18] selendroid-git: selendroid/gh-pages 8a54854 Dominik Dary: Update index.html...
+[2013-12-27 08:12:18] selendroid-git, leaving. (#selendroid)
+[2013-12-27 08:13:15] selendroid-git, joining. (#selendroid)
+[2013-12-27 08:13:15] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/GR1V9w
+[2013-12-27 08:13:15] selendroid-git: selendroid/gh-pages 590ac5d Dominik Dary: Update index.html
+[2013-12-27 08:13:15] selendroid-git, leaving. (#selendroid)
+[2013-12-27 08:13:41] ddary, leaving. (#selendroid)
