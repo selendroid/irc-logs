@@ -3,3 +3,8 @@
 [2013-12-27 06:38:15] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/zt2f5g
 [2013-12-27 06:38:15] selendroid-git: selendroid/master c07191a Luke Inman-Semerau: elements passed to execute script across the wire are JSONObjects, translate them accordingly...
 [2013-12-27 06:38:15] selendroid-git, leaving. (#selendroid)
+[2013-12-27 08:00:01] ddary, joining. (#selendroid)
+[2013-12-27 08:04:16] selendroid-git, joining. (#selendroid)
+[2013-12-27 08:04:16] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/A_-RUw
+[2013-12-27 08:04:16] selendroid-git: selendroid/gh-pages f2f7f33 Dominik Dary: Update webview.html...
+[2013-12-27 08:04:16] selendroid-git, leaving. (#selendroid)
