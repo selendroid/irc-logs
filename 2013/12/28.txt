@@ -1,1 +1,5 @@
 [2013-12-28 01:04:54] jack090_, quitting. (Ping timeout: 272 seconds)
+[2013-12-28 07:42:38] selendroid-git, joining. (#selendroid)
+[2013-12-28 07:42:38] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/Dwbxtg
+[2013-12-28 07:42:38] selendroid-git: selendroid/master 490c3d7 Luke Inman-Semerau: passing a webelement into execute script needs the element id translated through the known elements...
+[2013-12-28 07:42:38] selendroid-git, leaving. (#selendroid)
