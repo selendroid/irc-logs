@@ -4,3 +4,4 @@
 [2013-12-28 07:42:38] selendroid-git: selendroid/master 490c3d7 Luke Inman-Semerau: passing a webelement into execute script needs the element id translated through the known elements...
 [2013-12-28 07:42:38] selendroid-git, leaving. (#selendroid)
 [2013-12-28 16:26:43] smccarthy, joining. (#selendroid)
+[2013-12-28 20:54:58] smccarthy2, joining. (#selendroid)
