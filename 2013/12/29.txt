@@ -6,3 +6,7 @@
 [2013-12-29 17:26:44] smccarthy, joining. (#selendroid)
 [2013-12-29 17:47:44] ddary, joining. (#selendroid)
 [2013-12-29 17:48:10] ddary, leaving. (#selendroid)
+[2013-12-29 18:21:35] mummana, joining. (#selendroid)
+[2013-12-29 18:22:01] mummana: hie @automatedtester
+[2013-12-29 18:22:08] mummana: i have a doubt?
+[2013-12-29 18:23:34] mummana, quitting. (Client Quit)
