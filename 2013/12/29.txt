@@ -4,3 +4,5 @@
 [2013-12-29 16:20:44] selendroidbot_, quitting. (Ping timeout: 246 seconds)
 [2013-12-29 16:20:53] selendroidbot_, joining. (#selendroid)
 [2013-12-29 17:26:44] smccarthy, joining. (#selendroid)
+[2013-12-29 17:47:44] ddary, joining. (#selendroid)
+[2013-12-29 17:48:10] ddary, leaving. (#selendroid)
