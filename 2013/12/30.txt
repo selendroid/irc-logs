@@ -15,3 +15,5 @@
 [2013-12-30 21:00:40] smccarthy2, joining. (#selendroid)
 [2013-12-30 21:04:29] smccarthy, quitting. (Ping timeout: 272 seconds)
 [2013-12-30 22:28:57] jack090: anyone here?
+[2013-12-30 23:03:28] smccarthy2, quitting. (Remote host closed the connection)
+[2013-12-30 23:04:54] smccarthy, joining. (#selendroid)
