@@ -4,3 +4,5 @@
 [2013-12-30 15:42:52] jack090, joining. (#selendroid)
 [2013-12-30 15:42:58] jack090: :log
 [2013-12-30 16:16:16] smccarthy, joining. (#selendroid)
+[2013-12-30 16:38:13] jack090, quitting. (Ping timeout: 272 seconds)
+[2013-12-30 16:38:34] jack090, joining. (#selendroid)
