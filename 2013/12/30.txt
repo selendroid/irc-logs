@@ -14,3 +14,4 @@
 [2013-12-30 19:19:55] komkovs, quitting. (Remote host closed the connection)
 [2013-12-30 21:00:40] smccarthy2, joining. (#selendroid)
 [2013-12-30 21:04:29] smccarthy, quitting. (Ping timeout: 272 seconds)
+[2013-12-30 22:28:57] jack090: anyone here?
