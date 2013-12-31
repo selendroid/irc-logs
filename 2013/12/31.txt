@@ -5,3 +5,4 @@
 [2013-12-31 06:30:17] smccarthy, quitting. (Remote host closed the connection)
 [2013-12-31 16:27:16] smccarthy, joining. (#selendroid)
 [2013-12-31 16:47:27] saurox, joining. (#selendroid)
+[2013-12-31 17:01:46] saurox, quitting. (K-Lined)
