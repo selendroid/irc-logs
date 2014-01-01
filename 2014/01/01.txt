@@ -2,3 +2,5 @@
 [2014-01-01 09:04:58] selendroid-git, joining. (#selendroid)
 [2014-01-01 09:04:58] selendroid-git: [selendroid] k-yamada closed pull request #190: Support shift_jis html (master...master) http://git.io/GOM1UA
 [2014-01-01 09:04:58] selendroid-git, leaving. (#selendroid)
+[2014-01-01 09:27:49] ddary, joining. (#selendroid)
+[2014-01-01 09:28:14] ddary, quitting. (Client Quit)
