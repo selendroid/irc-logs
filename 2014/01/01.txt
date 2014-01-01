@@ -4,3 +4,4 @@
 [2014-01-01 09:04:58] selendroid-git, leaving. (#selendroid)
 [2014-01-01 09:27:49] ddary, joining. (#selendroid)
 [2014-01-01 09:28:14] ddary, quitting. (Client Quit)
+[2014-01-01 20:11:44] smccarthy, joining. (#selendroid)
