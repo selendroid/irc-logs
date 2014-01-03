@@ -9,3 +9,5 @@
 [2014-01-03 16:53:02] smccarthy, joining. (#selendroid)
 [2014-01-03 17:06:25] lukeis, joining. (#selendroid)
 [2014-01-03 18:23:56] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-01-03 18:34:30] mummana, joining. (#selendroid)
+[2014-01-03 18:34:53] mummana: hie lukeis i have a doubt?
