@@ -15,3 +15,5 @@
 [2014-01-03 18:42:26] lukeis: https://github.com/selendroid/selendroid/blob/master/changelog.md
 [2014-01-03 18:44:45] mummana: what about toast wen this issue will be rectified?
 [2014-01-03 18:45:00] lukeis: when someone works on it? :)
+[2014-01-03 18:45:08] lukeis: it hasn't been pressing for me
+[2014-01-03 18:47:46] mummana: ummm well we have an app wer we have to validate the toasts but in vain
