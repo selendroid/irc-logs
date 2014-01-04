@@ -4,3 +4,4 @@
 [2014-01-04 01:33:17] jlipps, quitting. (Quit: Leaving.)
 [2014-01-04 02:23:22] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-04 10:13:30] selendroidbot__, joining. (#selendroid)
+[2014-01-04 10:18:01] selendroidbot_, quitting. (*.net *.split)
