@@ -8,3 +8,4 @@
 [2014-01-04 10:22:09] selendroidbot__, joining. (#selendroid)
 [2014-01-04 10:54:01] AutomatedTester, joining. (#selendroid)
 [2014-01-04 13:33:10] xy__, joining. (#selendroid)
+[2014-01-04 13:45:44] xy__, quitting. (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
