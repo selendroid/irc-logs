@@ -10,3 +10,5 @@
 [2014-01-04 13:33:10] xy__, joining. (#selendroid)
 [2014-01-04 13:45:44] xy__, quitting. (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
 [2014-01-04 16:55:46] smccarthy, joining. (#selendroid)
+[2014-01-04 18:27:26] smccarthy, quitting. (Ping timeout: 272 seconds)
+[2014-01-04 18:29:27] smccarthy, joining. (#selendroid)
