@@ -38,3 +38,5 @@
 [2014-01-06 10:14:08] ddary: you never know
 [2014-01-06 10:14:28] lukeis: yeah, i'll agree to that. but I also know that I could easily swap out the google tracker you have there
 [2014-01-06 10:14:41] lukeis: and maven I know how to get access without you :)
+[2014-01-06 10:16:56] ddary: that is good to know
+[2014-01-06 10:17:00] ddary: :)
