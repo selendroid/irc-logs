@@ -15,3 +15,14 @@
 [2014-01-06 10:03:34] lukeis: and we have to do this via Javascript
 [2014-01-06 10:03:59] lukeis: chromedriver won't have that restriction ;)
 [2014-01-06 10:04:51] ddary: ok
+[2014-01-06 10:05:31] lukeis: so, when i finally get around to my evil idea... cross domain frame support will be there in webviews for API level 19
+[2014-01-06 10:06:05] ddary: :D
+[2014-01-06 10:06:47] lukeis: oh, i got an android tablet for christmas :)
+[2014-01-06 10:06:59] lukeis: galaxy note 10.1
+[2014-01-06 10:07:02] ddary: nice
+[2014-01-06 10:07:31] lukeis: so now (after nearly a year in android land) I finally have a real device of my own ;)
+[2014-01-06 10:08:18] ddary: devices are nice and so nice that you don't have to start them
+[2014-01-06 10:08:30] ddary: running emulators is just horrible
+[2014-01-06 10:08:42] ddary: and in virtualized environments even more
+[2014-01-06 10:09:39] ddary: btw. currently the documentation pages are having more visitors compared to before christmas
+[2014-01-06 10:09:50] ddary: last friday 1300 pageviews a day
