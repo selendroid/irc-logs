@@ -1,1 +1,3 @@
 [2014-01-06 06:13:48] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-06 08:18:25] ddary, joining. (#selendroid)
+[2014-01-06 08:19:27] ddary: :note lukeis thanks. will look also into how to restructure the docs in general.
