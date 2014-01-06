@@ -50,3 +50,7 @@
 [2014-01-06 10:31:28] ddary: then I would prefer to have it in the wiki
 [2014-01-06 10:31:38] ddary: will then also the documentation
 [2014-01-06 10:31:57] ddary: as i said, looking currently into that piece
+[2014-01-06 10:37:22] lukeis: https://github.com/selendroid/selendroid/wiki/AndroidAtoms  for now until you find a better place then ;)
+[2014-01-06 10:37:41] ddary: +1
+[2014-01-06 10:38:31] lukeis: ok, i'm going to actually try to get some sleep now :)  have a good day!
+[2014-01-06 10:38:45] lukeis, quitting. ()
