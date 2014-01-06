@@ -3,3 +3,15 @@
 [2014-01-06 08:19:27] ddary: :note lukeis thanks. will look also into how to restructure the docs in general.
 [2014-01-06 09:59:30] lukeis, joining. (#selendroid)
 [2014-01-06 09:59:45] lukeis: hiya ddary
+[2014-01-06 10:00:01] ddary: hi Lukeis - happy new Year!
+[2014-01-06 10:00:07] lukeis: i started looking into switch to frame
+[2014-01-06 10:00:20] lukeis: happy new year to you too! :)
+[2014-01-06 10:00:26] ddary: thanks:)
+[2014-01-06 10:00:39] ddary: and does switch to frame looks like an issue?
+[2014-01-06 10:01:14] lukeis: I have some kinks to iron out... but there's an Atom for it :)
+[2014-01-06 10:01:36] lukeis: cross domain frames aren't going to be possible
+[2014-01-06 10:02:29] ddary: what do you mean with cross domain? loading a page from another domain, right?
+[2014-01-06 10:03:17] lukeis: yeah, a frame that has a different domain than the parent document has a javascript sandbox (javascript can't communicate between the frames)
+[2014-01-06 10:03:34] lukeis: and we have to do this via Javascript
+[2014-01-06 10:03:59] lukeis: chromedriver won't have that restriction ;)
+[2014-01-06 10:04:51] ddary: ok
