@@ -76,3 +76,5 @@
 [2014-01-06 19:59:07] lukeis, quitting. (Quit: Leaving.)
 [2014-01-06 20:03:59] mummana, quitting. (Quit: Page closed)
 [2014-01-06 20:50:38] lukeis, joining. (#selendroid)
+[2014-01-06 23:01:43] lukeis, quitting. (Read error: Connection reset by peer)
+[2014-01-06 23:01:56] lukeis, joining. (#selendroid)
