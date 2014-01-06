@@ -64,3 +64,8 @@
 [2014-01-06 18:04:18] smccarthy, quitting. (Ping timeout: 245 seconds)
 [2014-01-06 19:04:51] lukeis, joining. (#selendroid)
 [2014-01-06 19:49:36] mummana, joining. (#selendroid)
+[2014-01-06 19:50:44] mummana: hey lukeis i want ot test my website using selendroid can i know how can i do it  using selendrid?
+[2014-01-06 19:51:42] lukeis: did you read selendroid.io?
+[2014-01-06 19:51:46] lukeis: http://selendroid.io/webview.html in particular
+[2014-01-06 19:54:27] mummana: yea thnx if i want to do it in hub-grid how can i achieve it????
+[2014-01-06 19:55:00] mummana: like how should i connect my devices?
