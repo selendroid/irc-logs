@@ -45,3 +45,8 @@
 [2014-01-06 10:28:54] ddary: readme is a good start
 [2014-01-06 10:29:22] ddary: maybe this developer focused stuff we should put to the wiki
 [2014-01-06 10:29:43] ddary: end user documentation to the selendroid.io website, what do you mean?
+[2014-01-06 10:30:32] lukeis: yeah, this is a developer item, I was just thinking of putting a markdown file next to the java file (most end users would not see it)
+[2014-01-06 10:30:38] lukeis: wiki would be good too
+[2014-01-06 10:31:28] ddary: then I would prefer to have it in the wiki
+[2014-01-06 10:31:38] ddary: will then also the documentation
+[2014-01-06 10:31:57] ddary: as i said, looking currently into that piece
