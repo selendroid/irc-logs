@@ -26,3 +26,15 @@
 [2014-01-06 10:08:42] ddary: and in virtualized environments even more
 [2014-01-06 10:09:39] ddary: btw. currently the documentation pages are having more visitors compared to before christmas
 [2014-01-06 10:09:50] ddary: last friday 1300 pageviews a day
+[2014-01-06 10:12:04] lukeis: wow, nice
+[2014-01-06 10:12:23] ddary: do you want to have access to the numbers?
+[2014-01-06 10:12:44] lukeis: well, i did just close all the android selenium issues and linked everyone to the selendroid.io site ;)
+[2014-01-06 10:12:47] ddary: will also share soon how i release to maven central and give the there access
+[2014-01-06 10:12:57] ddary: i see
+[2014-01-06 10:13:23] lukeis: nah, i don't think I need too much access.... :-D
+[2014-01-06 10:13:35] ddary: it is just in case
+[2014-01-06 10:13:49] lukeis: in case you get hit by a bus? ;)
+[2014-01-06 10:13:55] ddary: i think it is not a good thing if only one can currently do it
+[2014-01-06 10:14:08] ddary: you never know
+[2014-01-06 10:14:28] lukeis: yeah, i'll agree to that. but I also know that I could easily swap out the google tracker you have there
+[2014-01-06 10:14:41] lukeis: and maven I know how to get access without you :)
