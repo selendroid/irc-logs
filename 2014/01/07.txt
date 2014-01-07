@@ -61,3 +61,6 @@
 [2014-01-07 10:39:50] ddary: what do you mean with google groups?
 [2014-01-07 10:41:53] mummana: i mean allow us to post the queries in the group ,we are not able to post the quries in the google group
 [2014-01-07 10:42:49] mummana: change the settings so that group members can post their queries in the selendroid group
+[2014-01-07 10:45:04] ddary: the setting should be, that the first post will be moderated
+[2014-01-07 10:45:14] ddary: so it should work in general
+[2014-01-07 10:45:22] ddary: if not i will have a look
