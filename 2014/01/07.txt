@@ -84,3 +84,4 @@
 [2014-01-07 17:21:49] ddary: ;)
 [2014-01-07 17:22:54] mummana: but still im not able to post queries in google groups can u please check it out
 [2014-01-07 17:23:25] ddary: :note lukeis Have made all changes for the new documentation. should work, but probably the dns changes based on the github CNAME system will take a while
+[2014-01-07 17:29:51] ddary: weird
