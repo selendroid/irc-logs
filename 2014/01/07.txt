@@ -56,3 +56,5 @@
 [2014-01-07 10:04:34] mummana: so that when ever u have time u can review those queries u can answer them
 [2014-01-07 10:20:03] mummana: i have posted the issue https://github.com/selendroid/selendroid/issues/200
 [2014-01-07 10:21:06] ddary: ok
+[2014-01-07 10:25:07] mummana: and please do consider my request for google groups
+[2014-01-07 10:25:12] mummana: :)
