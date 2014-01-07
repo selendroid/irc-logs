@@ -6,3 +6,7 @@
 [2014-01-07 02:08:46] smccarthy, joining. (#selendroid)
 [2014-01-07 05:55:31] jlipps, quitting. (Quit: Leaving.)
 [2014-01-07 06:13:44] mummana, joining. (#selendroid)
+[2014-01-07 06:15:28] mummana: hie automated tester i have a doubt
+[2014-01-07 06:18:44] mummana: while launching hub im getting this error Could not find or load main class org.openqa.grid.selenium.GridLauncher
+[2014-01-07 06:18:55] mummana: can i know wt might be the reason
+[2014-01-07 06:19:13] smccarthy, quitting. (Remote host closed the connection)
