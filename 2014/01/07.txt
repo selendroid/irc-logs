@@ -118,3 +118,6 @@
 [2014-01-07 20:23:52] lukeis: weird everyone got the default 'not allowed to post' setting
 [2014-01-07 20:24:01] lukeis: trying to change that
 [2014-01-07 20:24:23] lukeis: all allowed now
+[2014-01-07 20:26:22] ddary: ok, i tried it with another account to leave the group and rejoin and now it seems to work, also for new members
+[2014-01-07 20:26:24] ddary: thanks
+[2014-01-07 20:29:40] ddary, quitting. (Quit: ddary)
