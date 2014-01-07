@@ -138,3 +138,4 @@
 [2014-01-07 20:43:38] lukeis: could be a simple html page with JS that just sets window.location = '/mobileWeb.html';
 [2014-01-07 20:43:51] lukeis: (instead of trying to do a 301)
 [2014-01-07 21:25:55] lukeis, quitting. (Quit: Leaving.)
+[2014-01-07 21:31:08] ddary: :note lukeis the redirect is live: http://selendroid.io/webview.html Have a good day!
