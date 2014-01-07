@@ -72,3 +72,6 @@
 [2014-01-07 13:41:44] smiklosovic, quitting. (Quit: Page closed)
 [2014-01-07 15:01:08] ddary, joining. (#selendroid)
 [2014-01-07 16:35:54] smccarthy, joining. (#selendroid)
+[2014-01-07 17:11:41] mummana, joining. (#selendroid)
+[2014-01-07 17:13:40] mummana: hie dady good mrng :) do you know when  selenium 3 will get launched?
+[2014-01-07 17:13:52] mummana: sorry dary
