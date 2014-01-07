@@ -103,3 +103,5 @@
 [2014-01-07 18:18:00] selendroid-git, leaving. (#selendroid)
 [2014-01-07 18:22:57] jlipps, joining. (#selendroid)
 [2014-01-07 19:41:06] lukeis, quitting. (Quit: Leaving.)
+[2014-01-07 20:05:42] ddary, joining. (#selendroid)
+[2014-01-07 20:09:49] lukeis, joining. (#selendroid)
