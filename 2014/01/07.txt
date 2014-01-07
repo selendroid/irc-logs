@@ -92,3 +92,7 @@
 [2014-01-07 17:37:36] ddary, quitting. (Quit: ddary)
 [2014-01-07 17:37:59] mummana: okay :) bieeee
 [2014-01-07 17:38:32] lukeis, joining. (#selendroid)
+[2014-01-07 17:42:11] mummana: hieee lukeis : can u please check this error which i have posted in github
+[2014-01-07 17:42:13] mummana: https://github.com/selendroid/selendroid/issues/200
+[2014-01-07 17:42:39] lukeis: i don't use grid with selendroid… you'll need to ask ddary
+[2014-01-07 17:44:34] mummana: yea i told him about this error  even  he gave me the same ans  that he dnt know about it
