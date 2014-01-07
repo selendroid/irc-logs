@@ -102,3 +102,4 @@
 [2014-01-07 18:18:00] selendroid-git: [selendroid] DominikDary deleted gh-pages at ce3556a: http://git.io/_xuz8w
 [2014-01-07 18:18:00] selendroid-git, leaving. (#selendroid)
 [2014-01-07 18:22:57] jlipps, joining. (#selendroid)
+[2014-01-07 19:41:06] lukeis, quitting. (Quit: Leaving.)
