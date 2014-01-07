@@ -50,3 +50,7 @@
 [2014-01-07 09:57:46] mummana: hummm ok how to post the issue can u please let me know
 [2014-01-07 09:57:50] mummana: ??
 [2014-01-07 09:59:47] ddary: :issue
+[2014-01-07 10:00:06] ddary: just go to github and add an issue to the project
+[2014-01-07 10:02:30] mummana: tnq will post it , and before posting it i'll again check from my end that nothing wrong is done
+[2014-01-07 10:03:55] mummana: and please can u change the settings of google groups so that the group members can post thier queries in the group
+[2014-01-07 10:04:34] mummana: so that when ever u have time u can review those queries u can answer them
