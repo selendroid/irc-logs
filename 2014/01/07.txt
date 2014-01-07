@@ -75,3 +75,8 @@
 [2014-01-07 17:11:41] mummana, joining. (#selendroid)
 [2014-01-07 17:13:40] mummana: hie dady good mrng :) do you know when  selenium 3 will get launched?
 [2014-01-07 17:13:52] mummana: sorry dary
+[2014-01-07 17:17:14] selendroid-git, joining. (#selendroid)
+[2014-01-07 17:17:15] selendroid-git: [selendroid] DominikDary pushed 1 new commit to gh-pages: http://git.io/Wmq4MA
+[2014-01-07 17:17:15] selendroid-git: selendroid/gh-pages ce3556a Dominik Dary: Delete CNAME
+[2014-01-07 17:17:15] selendroid-git, leaving. (#selendroid)
+[2014-01-07 17:18:54] ddary: mummana: no idea
