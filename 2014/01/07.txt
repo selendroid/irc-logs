@@ -141,3 +141,4 @@
 [2014-01-07 21:31:08] ddary: :note lukeis the redirect is live: http://selendroid.io/webview.html Have a good day!
 [2014-01-07 22:09:32] ddary, quitting. (Quit: ddary)
 [2014-01-07 22:52:42] jlipps, quitting. (Quit: Leaving.)
+[2014-01-07 22:58:09] jlipps, joining. (#selendroid)
