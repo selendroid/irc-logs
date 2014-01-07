@@ -130,3 +130,10 @@
 [2014-01-07 20:37:48] lukeis: (and mention we fixed the list!)
 [2014-01-07 20:39:18] ddary: good idea
 [2014-01-07 20:39:37] ddary: have you seen the new layout of the documentation
+[2014-01-07 20:40:10] ddary: i find it that way better structured and easier to udnerstand the sub sections on each page
+[2014-01-07 20:41:59] lukeis: ddary: oh, also can you add a redirect from webview.html to mobileWeb.html ?  (since I put that link in all the android issues I closed)
+[2014-01-07 20:42:25] lukeis: i don't yet know how to build the new docs to do it ;)
+[2014-01-07 20:42:39] ddary: :)
+[2014-01-07 20:42:46] ddary: will have a look
+[2014-01-07 20:43:38] lukeis: could be a simple html page with JS that just sets window.location = '/mobileWeb.html';
+[2014-01-07 20:43:51] lukeis: (instead of trying to do a 301)
