@@ -71,3 +71,4 @@
 [2014-01-07 13:13:18] smiklosovic: human-like :)
 [2014-01-07 13:41:44] smiklosovic, quitting. (Quit: Page closed)
 [2014-01-07 15:01:08] ddary, joining. (#selendroid)
+[2014-01-07 16:35:54] smccarthy, joining. (#selendroid)
