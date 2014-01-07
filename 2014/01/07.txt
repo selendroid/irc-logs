@@ -18,3 +18,19 @@
 [2014-01-07 09:43:55] mummana: well i doubt in scaling
 [2014-01-07 09:44:33] mummana: when  start grid im getting error as could not find or load main class org.openqa.grid.selenium.GridLauncher
 [2014-01-07 09:44:56] mummana: can i know how can i resolve this issue
+[2014-01-07 09:45:13] ddary: which version of selenium do you use?
+[2014-01-07 09:45:21] mummana: 2.38
+[2014-01-07 09:46:11] ddary: last version i tried was 2.35
+[2014-01-07 09:46:23] ddary: maybe in the selenium project something changed
+[2014-01-07 09:46:47] mummana: u mean shall i replace 2.38 with 2.35?
+[2014-01-07 09:46:57] mummana: java -Dfile.encoding=UTF-8 \  -cp "selendroid-grid-plugin-0.7.0.jar:selenium-server-standalone-2.35.0.jar" \ org.openqa.grid.selenium.GridLauncher \  -capabilityMatcher io.selendroid.grid.SelendroidCapabilityMatcher \ -role hub -host 127.0.0.1 -port 4444
+[2014-01-07 09:47:07] mummana: something like that
+[2014-01-07 09:47:09] mummana: ?
+[2014-01-07 09:47:16] ddary: no
+[2014-01-07 09:47:33] mummana: then?
+[2014-01-07 09:47:38] ddary: i mean when  i downloaded last time i used version 2.35 and there it was wroking fine
+[2014-01-07 09:47:55] ddary: i need to have a look at the selenium source code
+[2014-01-07 09:48:14] mummana: yea thats wt i meant ill download 2.35 and will keep in the folder
+[2014-01-07 09:48:27] mummana: ok let me check
+[2014-01-07 09:48:30] mummana: with 2.35
+[2014-01-07 09:49:44] ddary: the Gridlauncher class is still at the same place
