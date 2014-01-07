@@ -10,3 +10,4 @@
 [2014-01-07 06:18:44] mummana: while launching hub im getting this error Could not find or load main class org.openqa.grid.selenium.GridLauncher
 [2014-01-07 06:18:55] mummana: can i know wt might be the reason
 [2014-01-07 06:19:13] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-07 07:48:33] mummana, quitting. (Quit: Page closed)
