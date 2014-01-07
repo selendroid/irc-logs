@@ -42,3 +42,11 @@
 [2014-01-07 09:53:13] mummana: i have removed \ but in vain
 [2014-01-07 09:53:27] ddary: all jars are in the folder where you execute the command?
 [2014-01-07 09:54:24] mummana: yea all are in download file selenium server selendroid 0.7.0 and selendroid grid plugin all are in same folder
+[2014-01-07 09:55:07] ddary: and also the selendroid grid plugin jar?
+[2014-01-07 09:55:33] mummana: im trying on windows server 2008 r2 standard
+[2014-01-07 09:55:52] mummana: yup all are in same folder
+[2014-01-07 09:56:24] ddary: then i don't know what is going wrong
+[2014-01-07 09:56:50] ddary: if i should have a look and you think there is an issue, please log on on github
+[2014-01-07 09:57:46] mummana: hummm ok how to post the issue can u please let me know
+[2014-01-07 09:57:50] mummana: ??
+[2014-01-07 09:59:47] ddary: :issue
