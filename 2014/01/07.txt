@@ -110,3 +110,11 @@
 [2014-01-07 20:18:45] ddary: it seems like no one can post a message to the google group
 [2014-01-07 20:19:14] ddary: when we were sitting togehter we configured it, that the first message is moderated
 [2014-01-07 20:19:30] lukeis: hmm, let me check
+[2014-01-07 20:20:37] ddary: i made you an owner
+[2014-01-07 20:22:10] lukeis: ok, i removed the restriction
+[2014-01-07 20:22:22] lukeis: i didn't see any posts pending moderation though
+[2014-01-07 20:23:27] ddary: yeah, because no one can post ;-)
+[2014-01-07 20:23:38] ddary: the post button is missing
+[2014-01-07 20:23:52] lukeis: weird everyone got the default 'not allowed to post' setting
+[2014-01-07 20:24:01] lukeis: trying to change that
+[2014-01-07 20:24:23] lukeis: all allowed now
