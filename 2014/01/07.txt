@@ -105,3 +105,8 @@
 [2014-01-07 19:41:06] lukeis, quitting. (Quit: Leaving.)
 [2014-01-07 20:05:42] ddary, joining. (#selendroid)
 [2014-01-07 20:09:49] lukeis, joining. (#selendroid)
+[2014-01-07 20:18:27] ddary: hi lukeis
+[2014-01-07 20:18:36] lukeis: hi
+[2014-01-07 20:18:45] ddary: it seems like no one can post a message to the google group
+[2014-01-07 20:19:14] ddary: when we were sitting togehter we configured it, that the first message is moderated
+[2014-01-07 20:19:30] lukeis: hmm, let me check
