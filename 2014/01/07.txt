@@ -121,3 +121,4 @@
 [2014-01-07 20:26:22] ddary: ok, i tried it with another account to leave the group and rejoin and now it seems to work, also for new members
 [2014-01-07 20:26:24] ddary: thanks
 [2014-01-07 20:29:40] ddary, quitting. (Quit: ddary)
+[2014-01-07 20:30:05] lukeis: :note ddary would be nice if more of the "issues" we get come through on the mailing list rather than github :)
