@@ -34,3 +34,11 @@
 [2014-01-07 09:48:27] mummana: ok let me check
 [2014-01-07 09:48:30] mummana: with 2.35
 [2014-01-07 09:49:44] ddary: the Gridlauncher class is still at the same place
+[2014-01-07 09:50:26] mummana: still m failing with 2.35
+[2014-01-07 09:51:02] mummana: same error:"Error: Could not find or load main class org.openqa.grid.selenium.GridLauncher"
+[2014-01-07 09:51:33] ddary: can you remove the \
+[2014-01-07 09:52:38] mummana: i have downloaded the selenium 2.35 .0 jar and tried to start the grid , the command is
+[2014-01-07 09:52:39] mummana: java -Dfile.encoding=UTF-8 -cp "selendroid-grid-plugin-0.7.0.jar:selenium-server-standalone-2.35.0.jar" org.openqa.grid.selenium.GridLauncher -capabilityMatcher io.selendroid.grid.SelendroidCapabilityMatcher -role hub -host 127.0.0.1 -port 4444
+[2014-01-07 09:53:13] mummana: i have removed \ but in vain
+[2014-01-07 09:53:27] ddary: all jars are in the folder where you execute the command?
+[2014-01-07 09:54:24] mummana: yea all are in download file selenium server selendroid 0.7.0 and selendroid grid plugin all are in same folder
