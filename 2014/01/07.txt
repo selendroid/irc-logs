@@ -122,3 +122,11 @@
 [2014-01-07 20:26:24] ddary: thanks
 [2014-01-07 20:29:40] ddary, quitting. (Quit: ddary)
 [2014-01-07 20:30:05] lukeis: :note ddary would be nice if more of the "issues" we get come through on the mailing list rather than github :)
+[2014-01-07 20:36:04] ddary, joining. (#selendroid)
+[2014-01-07 20:36:43] ddary: lukeis: yes
+[2014-01-07 20:37:14] ddary: i was already wondering why nothing through the mailing is coming
+[2014-01-07 20:37:26] lukeis: so was i :)
+[2014-01-07 20:37:37] lukeis: you should post about 0.7.0 :)
+[2014-01-07 20:37:48] lukeis: (and mention we fixed the list!)
+[2014-01-07 20:39:18] ddary: good idea
+[2014-01-07 20:39:37] ddary: have you seen the new layout of the documentation
