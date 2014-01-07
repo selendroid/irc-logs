@@ -64,3 +64,4 @@
 [2014-01-07 10:45:04] ddary: the setting should be, that the first post will be moderated
 [2014-01-07 10:45:14] ddary: so it should work in general
 [2014-01-07 10:45:22] ddary: if not i will have a look
+[2014-01-07 10:56:55] ddary, leaving. (#selendroid)
