@@ -37,3 +37,7 @@
 [2014-01-08 18:18:51] lukeis: hola
 [2014-01-08 18:19:43] Gab__: do you prefer Spanish :)?
 [2014-01-08 18:19:52] lukeis: nope :)
+[2014-01-08 18:20:08] lukeis: if ddary was here i might have said hallo ;)
+[2014-01-08 18:20:22] Gab__: :)
+[2014-01-08 18:20:30] lukeis: biab
+[2014-01-08 18:21:06] Gab__: have you ever trie to use selendroid to test a web page on a phisical device (nexus 7)?
