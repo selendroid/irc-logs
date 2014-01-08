@@ -42,3 +42,4 @@
 [2014-01-08 18:20:30] lukeis: biab
 [2014-01-08 18:21:06] Gab__: have you ever trie to use selendroid to test a web page on a phisical device (nexus 7)?
 [2014-01-08 18:29:18] freynaud, joining. (#selendroid)
+[2014-01-08 18:44:47] Gab__, quitting. (Ping timeout: 272 seconds)
