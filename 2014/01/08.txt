@@ -43,3 +43,4 @@
 [2014-01-08 18:21:06] Gab__: have you ever trie to use selendroid to test a web page on a phisical device (nexus 7)?
 [2014-01-08 18:29:18] freynaud, joining. (#selendroid)
 [2014-01-08 18:44:47] Gab__, quitting. (Ping timeout: 272 seconds)
+[2014-01-08 19:03:32] jlipps: hey lukeis: how do i know which revs of selendroid are stable enough to bring into appium? do you guys tag releases?
