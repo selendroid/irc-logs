@@ -22,3 +22,8 @@
 [2014-01-08 10:43:00] ddary: :note lukeis here you find details about releasing the documentaion: https://github.com/selendroid/selendroid/wiki/Releasing-Documentation
 [2014-01-08 12:08:27] mummana, joining. (#selendroid)
 [2014-01-08 12:09:52] mummana: hiiee dary have u looked at this issue https://github.com/selendroid/selendroid/issues/200
+[2014-01-08 12:10:20] ddary: no, not yet, have to solve other issues first. sorry about that
+[2014-01-08 12:10:45] ddary: have you seen, posting to the google group should now work fine
+[2014-01-08 12:10:53] mummana: okay
+[2014-01-08 12:11:16] mummana, quitting. (Client Quit)
+[2014-01-08 12:11:36] ddary, quitting. (Quit: ddary)
