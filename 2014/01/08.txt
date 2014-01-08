@@ -77,3 +77,4 @@
 [2014-01-08 21:07:25] jlipps: hey lukeis i'm trying to run a test against selendroid standalone. what are the Selendroid caps?
 [2014-01-08 21:08:44] lukeis: 'aut'  (get the value from  localhost:5555/wd/hub/status),  and 'androidTarget':'ANDROID17'  (for example)
 [2014-01-08 21:09:21] lukeis: there's more, but those are the only ones really required
+[2014-01-08 21:12:57] jlipps: ok thanks.
