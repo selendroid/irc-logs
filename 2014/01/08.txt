@@ -7,3 +7,4 @@
 [2014-01-08 05:11:17] lukeis, joining. (#selendroid)
 [2014-01-08 05:13:30] jlipps, quitting. (Quit: Leaving.)
 [2014-01-08 05:14:30] jlipps, joining. (#selendroid)
+[2014-01-08 06:17:10] smccarthy, quitting. (Remote host closed the connection)
