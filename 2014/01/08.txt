@@ -78,3 +78,5 @@
 [2014-01-08 21:08:44] lukeis: 'aut'  (get the value from  localhost:5555/wd/hub/status),  and 'androidTarget':'ANDROID17'  (for example)
 [2014-01-08 21:09:21] lukeis: there's more, but those are the only ones really required
 [2014-01-08 21:12:57] jlipps: ok thanks.
+[2014-01-08 21:18:14] jlipps: lukeis:  hmm it worked from the standalone server. but only after it restarted my avd like 5 times
+[2014-01-08 21:19:22] lukeis: did it hit timeouts? there's a command line option to extend the timeout for waiting for the emulator to start
