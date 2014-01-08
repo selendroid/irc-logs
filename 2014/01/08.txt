@@ -81,3 +81,4 @@
 [2014-01-08 21:18:14] jlipps: lukeis:  hmm it worked from the standalone server. but only after it restarted my avd like 5 times
 [2014-01-08 21:19:22] lukeis: did it hit timeouts? there's a command line option to extend the timeout for waiting for the emulator to start
 [2014-01-08 22:25:10] jlipps: probably. although what i'm more concerned by right now is why the find element command doesn't work from within appium
+[2014-01-08 23:21:51] smccarthy, quitting. (Remote host closed the connection)
