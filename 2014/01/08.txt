@@ -19,3 +19,4 @@
 [2014-01-08 10:29:49] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/wW206w
 [2014-01-08 10:29:49] selendroid-git: selendroid/master 68248c6 Dominik Dary: Update README.md
 [2014-01-08 10:29:49] selendroid-git, leaving. (#selendroid)
+[2014-01-08 10:43:00] ddary: :note lukeis here you find details about releasing the documentaion: https://github.com/selendroid/selendroid/wiki/Releasing-Documentation
