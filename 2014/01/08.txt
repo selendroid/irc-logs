@@ -11,3 +11,5 @@
 [2014-01-08 07:36:53] jlipps, quitting. (Quit: Leaving.)
 [2014-01-08 08:14:03] ddary, joining. (#selendroid)
 [2014-01-08 08:19:36] lukeis, quitting. (Quit: Leaving.)
+[2014-01-08 09:51:36] ddary, quitting. (Read error: Operation timed out)
+[2014-01-08 09:54:30] ddary, joining. (#selendroid)
