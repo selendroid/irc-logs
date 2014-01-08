@@ -72,3 +72,4 @@
 [2014-01-08 20:10:48] lukeis1, changing nick to lukeis.
 [2014-01-08 20:10:57] jlipps, quitting. (Quit: Leaving.)
 [2014-01-08 20:17:55] freynaud, joining. (#selendroid)
+[2014-01-08 20:29:17] jlipps, joining. (#selendroid)
