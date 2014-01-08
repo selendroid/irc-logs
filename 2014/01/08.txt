@@ -73,3 +73,4 @@
 [2014-01-08 20:10:57] jlipps, quitting. (Quit: Leaving.)
 [2014-01-08 20:17:55] freynaud, joining. (#selendroid)
 [2014-01-08 20:29:17] jlipps, joining. (#selendroid)
+[2014-01-08 20:42:28] freynaud, quitting. (Quit: freynaud)
