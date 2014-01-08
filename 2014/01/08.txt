@@ -44,3 +44,13 @@
 [2014-01-08 18:29:18] freynaud, joining. (#selendroid)
 [2014-01-08 18:44:47] Gab__, quitting. (Ping timeout: 272 seconds)
 [2014-01-08 19:03:32] jlipps: hey lukeis: how do i know which revs of selendroid are stable enough to bring into appium? do you guys tag releases?
+[2014-01-08 19:05:36] lukeis: yes, https://github.com/selendroid/selendroid/tree/0.7.0
+[2014-01-08 19:07:34] freynaud, quitting. (Quit: freynaud)
+[2014-01-08 19:08:12] jlipps: also lukeis how do i use this -nowebviewapp thing. do i pass it as a flag to the instrument command, or what?
+[2014-01-08 19:08:15] jlipps: thanks
+[2014-01-08 19:08:47] lukeis: that's only for running the standalone server
+[2014-01-08 19:08:56] lukeis: i assume you're not doing that
+[2014-01-08 19:09:03] jlipps: oh right
+[2014-01-08 19:09:13] jlipps: yeah we're building it and running it via instrumentation
+[2014-01-08 19:09:33] jlipps: just saw "speed things up by…" and was like "yeah!"
+[2014-01-08 19:09:52] lukeis: heh
