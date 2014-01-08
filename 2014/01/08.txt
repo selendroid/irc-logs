@@ -64,3 +64,6 @@
 [2014-01-08 19:32:06] jlipps: nothing in the logs other than 'find element command using 'name' with selector 'buttonStartWebViewCD'.'
 [2014-01-08 19:32:20] jlipps: weird
 [2014-01-08 19:43:11] lukeis: implicit waits are enabled by default (to like 5 or something, which I don't necessarily agree with). I have them disabled immediately in our tests
+[2014-01-08 19:46:23] jlipps: i set it to 5000ms
+[2014-01-08 19:46:35] jlipps: and i sleep before just to be sure
+[2014-01-08 19:46:40] jlipps: for some reason it's just not finding that button
