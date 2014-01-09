@@ -18,3 +18,5 @@
 [2014-01-09 11:16:38] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/wANsHw
 [2014-01-09 11:16:39] selendroid-git: selendroid/master 706ba29 Dominik Dary: moving to snapshot version number.
 [2014-01-09 11:16:39] selendroid-git, leaving. (#selendroid)
+[2014-01-09 12:16:27] freynaud_, joining. (#selendroid)
+[2014-01-09 12:16:27] freynaud_, changing nick to freynaud.
