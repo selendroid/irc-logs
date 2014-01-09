@@ -219,3 +219,6 @@
 [2014-01-09 22:17:03] nirvdrum: Any ideas?  I installed the latest ones through the android utility.  But I guess they're not in the image.
 [2014-01-09 22:20:44] lukeis: i'm not sure, i haven't had to deal with anything related to that
 [2014-01-09 22:21:53] nirvdrum: Ouch.  The inspector does not like when the view changes.
+[2014-01-09 22:29:11] nirvdrum: lukeis: So, my apologies because you've explained this to me before.  But do most apps run with the x86 ABI?
+[2014-01-09 22:29:46] lukeis: depends on the app, but I wouldn't assume so with a random app
+[2014-01-09 22:30:00] lukeis: there's only a couple devices out there that are actually x86
