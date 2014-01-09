@@ -14,3 +14,7 @@
 [2014-01-09 10:22:21] freynaud, joining. (#selendroid)
 [2014-01-09 10:29:51] freynaud, quitting. (Ping timeout: 260 seconds)
 [2014-01-09 10:45:01] ddary, quitting. (Quit: ddary)
+[2014-01-09 11:16:38] selendroid-git, joining. (#selendroid)
+[2014-01-09 11:16:38] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/wANsHw
+[2014-01-09 11:16:39] selendroid-git: selendroid/master 706ba29 Dominik Dary: moving to snapshot version number.
+[2014-01-09 11:16:39] selendroid-git, leaving. (#selendroid)
