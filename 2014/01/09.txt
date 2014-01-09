@@ -193,3 +193,6 @@
 [2014-01-09 19:49:37] lukeis: but in this case I may need it implemented in appium so I can use it in sauce :)
 [2014-01-09 19:50:02] jlipps: i see
 [2014-01-09 19:50:13] jlipps: yeah i guess if you just can't do it using the normal automation methods, it makes sense
+[2014-01-09 19:57:26] mummana: well  i have a gameApplication.apk  now the question is why i cant able to test it with selendroid?
+[2014-01-09 19:58:42] lukeis: I don't any reason why not :)  anything in particular stopping you?
+[2014-01-09 19:59:24] mummana: yea i cant find the objects i mean inspector is not allowing you to find the objects
