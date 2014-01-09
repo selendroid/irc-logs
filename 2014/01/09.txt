@@ -202,3 +202,11 @@
 [2014-01-09 21:31:35] simonstewart: G'night all
 [2014-01-09 21:31:36] simonstewart, leaving. (#selendroid)
 [2014-01-09 21:34:50] jlipps, quitting. (Quit: Leaving.)
+[2014-01-09 22:07:50] nirvdrum: lukeis: Should I be using a dev branch?  0.7.0's inspector doesn't really seem to work.
+[2014-01-09 22:08:08] lukeis: there is no dev branch in selendroid
+[2014-01-09 22:08:19] lukeis: there's not much difference in master
+[2014-01-09 22:08:27] lukeis: what's not working in the inspector?
+[2014-01-09 22:09:24] nirvdrum: Nothing actually highlights in the image.
+[2014-01-09 22:09:37] nirvdrum: So navigating the tree doesn't help a lot.
+[2014-01-09 22:09:45] lukeis: ah, collapse the bottom bar thing?
+[2014-01-09 22:09:58] lukeis: that usually does it for me
