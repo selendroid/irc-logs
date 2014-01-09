@@ -21,3 +21,7 @@
 [2014-01-09 12:16:27] freynaud_, joining. (#selendroid)
 [2014-01-09 12:16:27] freynaud_, changing nick to freynaud.
 [2014-01-09 15:31:14] smccarthy, joining. (#selendroid)
+[2014-01-09 16:08:47] nirvdrum, joining. (#selendroid)
+[2014-01-09 16:09:43] nirvdrum: I've tried starting selendroid for the first time, using the test app.  I'm getting the following error:
+[2014-01-09 16:09:44] nirvdrum: SEVERE: Error occurred while building server: An error occurred while resigning the app 'selendroid-test-app-0.7.0.apk'.
+[2014-01-09 16:09:53] nirvdrum: Any thoughts on what I'm doing wrong?
