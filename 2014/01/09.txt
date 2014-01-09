@@ -122,3 +122,9 @@
 [2014-01-09 19:09:27] simonstewart: Hmmm… perhaps testing on the KitKat image isn't smart
 [2014-01-09 19:09:28] ddary: i tested also on 10
 [2014-01-09 19:09:31] simonstewart: Lemme try 4.3
+[2014-01-09 19:11:04] ddary: oskoryk: when the selendroid-standalone server is installing and starting the selendroid-server on the device the port 38080 is used
+[2014-01-09 19:11:38] lukeis: i had a perf engineer tell me that UI Automator works in webviews… he was *convinced* it did all the way down to 16, despite my refutal… turns out he was only trying against kitkat ;)
+[2014-01-09 19:12:12] ddary: oskoryk: but for just running the tests against the selendroid-server, that actually does the job if interacting with the app, it is just 8080, forwarding the port from the device 1:1
+[2014-01-09 19:13:10] mummana, joining. (#selendroid)
+[2014-01-09 19:13:23] ddary: oskoryk: does this make sense?
+[2014-01-09 19:13:43] eileen, quitting. (Remote host closed the connection)
