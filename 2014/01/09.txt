@@ -210,3 +210,9 @@
 [2014-01-09 22:09:37] nirvdrum: So navigating the tree doesn't help a lot.
 [2014-01-09 22:09:45] lukeis: ah, collapse the bottom bar thing?
 [2014-01-09 22:09:58] lukeis: that usually does it for me
+[2014-01-09 22:10:05] nirvdrum: Yeah, that did it.
+[2014-01-09 22:10:08] lukeis: the inspector is, um, buggy :)
+[2014-01-09 22:10:09] nirvdrum: I didn't know that could be collapsed.
+[2014-01-09 22:10:41] nirvdrum: I'm trying out a native APK right now.  Pretty cool stuff.
+[2014-01-09 22:10:49] lukeis: cool :)
+[2014-01-09 22:11:05] nirvdrum: This app required updated Google Play Services though.  So dunno how to handle that.
