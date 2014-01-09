@@ -90,3 +90,4 @@
 [2014-01-09 18:20:55] jlipps, joining. (#selendroid)
 [2014-01-09 18:28:38] simonstewart: ddary: which version of android are you using for your tests? KitKat? Or JB?
 [2014-01-09 18:34:10] *lukeis using 17 (4.2) mostly'
+[2014-01-09 18:45:34] ddary, quitting. (Quit: ddary)
