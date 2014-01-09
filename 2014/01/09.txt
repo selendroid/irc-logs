@@ -162,3 +162,16 @@
 [2014-01-09 19:37:40] mummana: jusz a small doubt
 [2014-01-09 19:37:48] mummana: wen will be selenium 3
 [2014-01-09 19:37:55] mummana: will be releasing?
+[2014-01-09 19:40:30] simonstewart: I need to post about that. short answer: when it's ready
+[2014-01-09 19:40:50] simonstewart: We're an OSS project run by volunteers. It's worked on when people have the capacity to work on it
+[2014-01-09 19:41:04] lukeis: aka, simonstewart is a slacker ;)
+[2014-01-09 19:42:06] lukeis: with a 'team of volunteers' who slack as well :-D
+[2014-01-09 19:42:15] mummana: LOL like selenium guys said it will be launched by xmas  but still it hasn't??
+[2014-01-09 19:42:28] jlipps: i see that you've contributed a lot to the spec convo lukeis :-)
+[2014-01-09 19:42:40] lukeis: yes, immense contributions ;)
+[2014-01-09 19:43:31] lukeis: when i get spare moments i like to work on making more things work :)
+[2014-01-09 19:43:49] lukeis: (like my current spare moments are being spent getting frame switching to work in selendroid)
+[2014-01-09 19:44:09] mummana: haha
+[2014-01-09 19:44:23] mummana: well dnt forgt to wek on toast too
+[2014-01-09 19:44:28] mummana: work
+[2014-01-09 19:44:37] lukeis: not as high on my priority ;)
