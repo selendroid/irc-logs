@@ -217,3 +217,5 @@
 [2014-01-09 22:10:49] lukeis: cool :)
 [2014-01-09 22:11:05] nirvdrum: This app required updated Google Play Services though.  So dunno how to handle that.
 [2014-01-09 22:17:03] nirvdrum: Any ideas?  I installed the latest ones through the android utility.  But I guess they're not in the image.
+[2014-01-09 22:20:44] lukeis: i'm not sure, i haven't had to deal with anything related to that
+[2014-01-09 22:21:53] nirvdrum: Ouch.  The inspector does not like when the view changes.
