@@ -61,3 +61,11 @@
 [2014-01-09 17:45:50] oskoryk: I'm using Mac Os X 10.9.1, Android-19 if it matters
 [2014-01-09 17:45:53] simonstewart: Oh wow
 [2014-01-09 17:48:48] oskoryk: First of all, we've found that without "adb forward tcp:38080 tcp:8080" it doesn't work at all (not ... tcp:8080 tcp:8080 as it stated)
+[2014-01-09 17:51:31] lukeis: that's correct… doc error :)
+[2014-01-09 17:52:34] ddary: it depends :)
+[2014-01-09 17:53:11] ddary: from the selendroid-server perspective, if you test only that part, the default port it 8080
+[2014-01-09 17:53:11] lukeis: suppose it does ;)
+[2014-01-09 17:54:05] lukeis: oskoryk: are you with simon in London? or somewhere else in the world?
+[2014-01-09 17:54:10] lukeis: (and welcome to the project ;) )
+[2014-01-09 17:54:32] martink_, joining. (#selendroid)
+[2014-01-09 17:55:01] oskoryk: Thank you. Yes, I'm with Simon in London
