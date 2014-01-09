@@ -52,3 +52,8 @@
 [2014-01-09 17:39:33] ddary: oskoryk: what platform are you currently running the tests?
 [2014-01-09 17:39:52] simonstewart: If it helps, another person here ran the tests and they failed
 [2014-01-09 17:39:59] simonstewart: Hmmm… maybe I should have a crack at them too
+[2014-01-09 17:40:39] ddary: on my local machine i have downgraded webbit
+[2014-01-09 17:40:49] ddary: it seems to work better on windows
+[2014-01-09 17:41:47] oskoryk: Hi
+[2014-01-09 17:44:11] oskoryk: I'm trying to run tests as it described on http://selendroid.io/architecture.html#buildIt
+[2014-01-09 17:44:13] lukeis, joining. (#selendroid)
