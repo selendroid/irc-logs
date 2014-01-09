@@ -151,3 +151,9 @@
 [2014-01-09 19:25:55] mummana: if u look at this https://github.com/selendroid/selendroid/issues/208 the guy has used semi colon instead od colon
 [2014-01-09 19:26:37] mummana: and for him grid got successfully launched in windows 7
 [2014-01-09 19:29:37] mummana: anybody looking at this problem?
+[2014-01-09 19:30:14] ddary: will have a look tomorrow
+[2014-01-09 19:31:02] mummana: hmmm ok :)
+[2014-01-09 19:31:04] ddary: have a good day/evening
+[2014-01-09 19:31:10] ddary: bye
+[2014-01-09 19:31:15] ddary, leaving. (#selendroid)
+[2014-01-09 19:33:23] mummana: bieeee
