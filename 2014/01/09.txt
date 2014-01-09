@@ -157,3 +157,8 @@
 [2014-01-09 19:31:10] ddary: bye
 [2014-01-09 19:31:15] ddary, leaving. (#selendroid)
 [2014-01-09 19:33:23] mummana: bieeee
+[2014-01-09 19:37:29] mummana: hieee lukeis
+[2014-01-09 19:37:37] lukeis: hi
+[2014-01-09 19:37:40] mummana: jusz a small doubt
+[2014-01-09 19:37:48] mummana: wen will be selenium 3
+[2014-01-09 19:37:55] mummana: will be releasing?
