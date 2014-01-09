@@ -89,3 +89,4 @@
 [2014-01-09 18:18:44] oskoryk: there is still a usage of 38080 port here: https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/server/model/SelendroidStandaloneDriver.java#L72
 [2014-01-09 18:20:55] jlipps, joining. (#selendroid)
 [2014-01-09 18:28:38] simonstewart: ddary: which version of android are you using for your tests? KitKat? Or JB?
+[2014-01-09 18:34:10] *lukeis using 17 (4.2) mostly'
