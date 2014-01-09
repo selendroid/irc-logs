@@ -69,3 +69,10 @@
 [2014-01-09 17:54:10] lukeis: (and welcome to the project ;) )
 [2014-01-09 17:54:32] martink_, joining. (#selendroid)
 [2014-01-09 17:55:01] oskoryk: Thank you. Yes, I'm with Simon in London
+[2014-01-09 17:55:18] selendroid-git, joining. (#selendroid)
+[2014-01-09 17:55:18] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/4Le_-w
+[2014-01-09 17:55:18] selendroid-git: selendroid/master 7338c12 Dominik Dary: fixing capabilities of base test.
+[2014-01-09 17:55:18] selendroid-git, leaving. (#selendroid)
+[2014-01-09 17:55:38] ddary: oskoryk: that should solve the base issue
+[2014-01-09 17:55:52] oskoryk: here is what I get running the native tests: http://paste.ubuntu.com/6721736/
+[2014-01-09 17:55:53] ddary: and of course also from my side: welcome to the project
