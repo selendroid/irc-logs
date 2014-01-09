@@ -175,3 +175,19 @@
 [2014-01-09 19:44:23] mummana: well dnt forgt to wek on toast too
 [2014-01-09 19:44:28] mummana: work
 [2014-01-09 19:44:37] lukeis: not as high on my priority ;)
+[2014-01-09 19:45:05] lukeis: work is requesting the ability to turn on / off airplane mode
+[2014-01-09 19:45:34] lukeis: jlipps: ^ i'll be adding an endpoint to the spec for that :-D
+[2014-01-09 19:46:06] jlipps: lukeis:  a whole endpoint huh
+[2014-01-09 19:46:06] lukeis: by spec I mean 'mobile' spec
+[2014-01-09 19:46:23] lukeis: yep… i give big
+[2014-01-09 19:46:30] jlipps: what's wrong with a convenience method - ['swipe up', 'click plane icon']
+[2014-01-09 19:46:44] lukeis: that's very iOS specific ;)
+[2014-01-09 19:46:50] lukeis: and only iOS7
+[2014-01-09 19:47:01] lukeis: (what do I work on?) :)
+[2014-01-09 19:47:21] jlipps: so a few different convenience methods
+[2014-01-09 19:47:25] jlipps: is it really spec-level?
+[2014-01-09 19:47:32] jlipps: anyway, e-mail the list and see what others think!
+[2014-01-09 19:48:10] lukeis: well, in selendroid we can't manipulate the OS otherwise
+[2014-01-09 19:48:32] lukeis: (there's adb shell commands that can do the toggling)
+[2014-01-09 19:49:04] lukeis: and I don't mind just adding it as a custom selendroid endpoint… like simon did recently with brightness
+[2014-01-09 19:49:37] lukeis: but in this case I may need it implemented in appium so I can use it in sauce :)
