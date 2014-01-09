@@ -196,3 +196,4 @@
 [2014-01-09 19:57:26] mummana: well  i have a gameApplication.apk  now the question is why i cant able to test it with selendroid?
 [2014-01-09 19:58:42] lukeis: I don't any reason why not :)  anything in particular stopping you?
 [2014-01-09 19:59:24] mummana: yea i cant find the objects i mean inspector is not allowing you to find the objects
+[2014-01-09 20:04:29] mummana, quitting. (Quit: Page closed)
