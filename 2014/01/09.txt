@@ -199,3 +199,6 @@
 [2014-01-09 20:04:29] mummana, quitting. (Quit: Page closed)
 [2014-01-09 20:28:12] freynaud, quitting. (Quit: freynaud)
 [2014-01-09 21:23:04] oskoryk, quitting. (Remote host closed the connection)
+[2014-01-09 21:31:35] simonstewart: G'night all
+[2014-01-09 21:31:36] simonstewart, leaving. (#selendroid)
+[2014-01-09 21:34:50] jlipps, quitting. (Quit: Leaving.)
