@@ -10,3 +10,5 @@
 [2014-01-09 09:30:50] freynaud, joining. (#selendroid)
 [2014-01-09 10:03:28] freynaud, quitting. (Quit: freynaud)
 [2014-01-09 10:06:27] freynaud, joining. (#selendroid)
+[2014-01-09 10:22:04] freynaud, quitting. (Read error: Connection reset by peer)
+[2014-01-09 10:22:21] freynaud, joining. (#selendroid)
