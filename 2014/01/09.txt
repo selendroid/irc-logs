@@ -86,3 +86,4 @@
 [2014-01-09 18:13:47] ddary: after my change you have to execute;
 [2014-01-09 18:13:57] ddary: adb forward tcp:8080 tcp:8080
 [2014-01-09 18:14:28] lukeis: he corrected the code to match the docs ;)
+[2014-01-09 18:18:44] oskoryk: there is still a usage of 38080 port here: https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/server/model/SelendroidStandaloneDriver.java#L72
