@@ -144,3 +144,10 @@
 [2014-01-09 19:24:39] ddary: hi mummana
 [2014-01-09 19:24:49] mummana: yea hie dary
 [2014-01-09 19:24:53] mummana: :)
+[2014-01-09 19:25:02] ddary: maybe it is specific thing on windows
+[2014-01-09 19:25:08] mummana: i n ur html page u have mentioned "selendroid-grid-plugin-0.7.0.jar:selenium-server-standalone-2.38.0.jar" instead of that u have to use "selendroid-grid-plugin-0.7.0.jar;selenium-server-standalone-2.38.0.jar"
+[2014-01-09 19:25:24] ddary: i used it as described on mac and if i remember correct also on linux
+[2014-01-09 19:25:41] ddary: and there with that syntax it worked fine
+[2014-01-09 19:25:55] mummana: if u look at this https://github.com/selendroid/selendroid/issues/208 the guy has used semi colon instead od colon
+[2014-01-09 19:26:37] mummana: and for him grid got successfully launched in windows 7
+[2014-01-09 19:29:37] mummana: anybody looking at this problem?
