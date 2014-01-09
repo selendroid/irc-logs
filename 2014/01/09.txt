@@ -27,3 +27,4 @@
 [2014-01-09 16:09:53] nirvdrum: Any thoughts on what I'm doing wrong?
 [2014-01-09 16:11:38] nirvdrum: Glad I asked.  Now that I have, I figured it out.
 [2014-01-09 16:11:45] nirvdrum: The jarsigner path was wrong.
+[2014-01-09 16:55:57] nirvdrum: Argh.  Now adb has problems.
