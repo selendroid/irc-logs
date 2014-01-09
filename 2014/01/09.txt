@@ -132,3 +132,15 @@
 [2014-01-09 19:15:31] mummana: hi dary atlast launching grid issue is resolved , the reason whyy before  it was not working is weird
 [2014-01-09 19:16:39] lukeis: heh, that's Herr Dary… or just dominik ;)
 [2014-01-09 19:19:10] mummana: i n ur html page u have mentioned "selendroid-grid-plugin-0.7.0.jar:selenium-server-standalone-2.38.0.jar" instead of that u have to use "selendroid-grid-plugin-0.7.0.jar;selenium-server-standalone-2.38.0.jar"
+[2014-01-09 19:20:51] lukeis: semi-colon instead of colon?
+[2014-01-09 19:20:56] lukeis: which page?
+[2014-01-09 19:21:19] lukeis: got it..
+[2014-01-09 19:21:50] mummana: http://selendroid.io/scale.html
+[2014-01-09 19:21:55] mummana: yes
+[2014-01-09 19:22:20] mummana: i used colon and was getting error as class cannot be loaded
+[2014-01-09 19:22:27] mummana: when i used semi colon
+[2014-01-09 19:22:48] mummana: grid launched successfully
+[2014-01-09 19:24:02] mummana: please somebody look at that isssue once
+[2014-01-09 19:24:39] ddary: hi mummana
+[2014-01-09 19:24:49] mummana: yea hie dary
+[2014-01-09 19:24:53] mummana: :)
