@@ -128,3 +128,7 @@
 [2014-01-09 19:13:10] mummana, joining. (#selendroid)
 [2014-01-09 19:13:23] ddary: oskoryk: does this make sense?
 [2014-01-09 19:13:43] eileen, quitting. (Remote host closed the connection)
+[2014-01-09 19:15:24] jlipps, joining. (#selendroid)
+[2014-01-09 19:15:31] mummana: hi dary atlast launching grid issue is resolved , the reason whyy before  it was not working is weird
+[2014-01-09 19:16:39] lukeis: heh, that's Herr Dary… or just dominik ;)
+[2014-01-09 19:19:10] mummana: i n ur html page u have mentioned "selendroid-grid-plugin-0.7.0.jar:selenium-server-standalone-2.38.0.jar" instead of that u have to use "selendroid-grid-plugin-0.7.0.jar;selenium-server-standalone-2.38.0.jar"
