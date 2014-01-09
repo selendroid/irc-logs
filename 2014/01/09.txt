@@ -28,3 +28,27 @@
 [2014-01-09 16:11:38] nirvdrum: Glad I asked.  Now that I have, I figured it out.
 [2014-01-09 16:11:45] nirvdrum: The jarsigner path was wrong.
 [2014-01-09 16:55:57] nirvdrum: Argh.  Now adb has problems.
+[2014-01-09 17:35:34] simonstewart, joining. (#selendroid)
+[2014-01-09 17:36:34] ddary, joining. (#selendroid)
+[2014-01-09 17:37:05] simonstewart: ddary: just the man I was looking for
+[2014-01-09 17:37:18] ddary: simonstewart: :-)
+[2014-01-09 17:37:21] ddary: hello
+[2014-01-09 17:37:26] ddary: happy new year!
+[2014-01-09 17:37:32] simonstewart: Also, happy new year!
+[2014-01-09 17:37:48] ddary: thanks, how can i help you?
+[2014-01-09 17:37:49] simonstewart: I have an intern coming to help with selendroid
+[2014-01-09 17:37:58] simonstewart: And he's running into some problems getting the tests to run
+[2014-01-09 17:37:59] ddary: sounds good
+[2014-01-09 17:38:15] ddary: ok
+[2014-01-09 17:38:19] simonstewart: His starter project will be to add crash detection to selendroid
+[2014-01-09 17:38:26] simonstewart: So we can tell when the AUT falls ober
+[2014-01-09 17:38:28] simonstewart: over
+[2014-01-09 17:38:29] oskoryk, joining. (#selendroid)
+[2014-01-09 17:38:38] simonstewart: I _think_ it's a feature that espresso has
+[2014-01-09 17:38:45] simonstewart: Ah! Here he is
+[2014-01-09 17:39:02] simonstewart: oskoryk, meet ddary
+[2014-01-09 17:39:03] ddary: hi oskoryk
+[2014-01-09 17:39:20] simonstewart: ddary is the creator of selendroid
+[2014-01-09 17:39:33] ddary: oskoryk: what platform are you currently running the tests?
+[2014-01-09 17:39:52] simonstewart: If it helps, another person here ran the tests and they failed
+[2014-01-09 17:39:59] simonstewart: Hmmm… maybe I should have a crack at them too
