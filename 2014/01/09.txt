@@ -78,3 +78,4 @@
 [2014-01-09 17:55:53] ddary: and of course also from my side: welcome to the project
 [2014-01-09 18:01:29] martink_, quitting. (Ping timeout: 252 seconds)
 [2014-01-09 18:04:40] ddary: oskoryk: I executed the two failing tests in the NativeChildElementFindingTest and they are passing if I executed them manually
+[2014-01-09 18:05:06] nirvdrum: Cool.  I guess my problem was my avd had a bad snapshot or something.
