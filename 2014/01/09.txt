@@ -57,3 +57,7 @@
 [2014-01-09 17:41:47] oskoryk: Hi
 [2014-01-09 17:44:11] oskoryk: I'm trying to run tests as it described on http://selendroid.io/architecture.html#buildIt
 [2014-01-09 17:44:13] lukeis, joining. (#selendroid)
+[2014-01-09 17:45:20] ddary: have seen that the capabilities for the test are a bit out dated: https://github.com/selendroid/selendroid/blob/master/selendroid-test-app/src/test/java/io/selendroid/support/BaseAndroidTest.java#L74
+[2014-01-09 17:45:50] oskoryk: I'm using Mac Os X 10.9.1, Android-19 if it matters
+[2014-01-09 17:45:53] simonstewart: Oh wow
+[2014-01-09 17:48:48] oskoryk: First of all, we've found that without "adb forward tcp:38080 tcp:8080" it doesn't work at all (not ... tcp:8080 tcp:8080 as it stated)
