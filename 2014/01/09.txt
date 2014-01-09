@@ -79,3 +79,10 @@
 [2014-01-09 18:01:29] martink_, quitting. (Ping timeout: 252 seconds)
 [2014-01-09 18:04:40] ddary: oskoryk: I executed the two failing tests in the NativeChildElementFindingTest and they are passing if I executed them manually
 [2014-01-09 18:05:06] nirvdrum: Cool.  I guess my problem was my avd had a bad snapshot or something.
+[2014-01-09 18:10:03] oskoryk: ddary: I've applied your patch, if it supposed to change something
+[2014-01-09 18:10:38] oskoryk: I'm executing steps from http://selendroid.io/architecture.html exactly as they are
+[2014-01-09 18:11:24] oskoryk: with one more action: I'm also doing "adb forward tcp:38080 tcp:8080"
+[2014-01-09 18:12:12] oskoryk: and I still have the same output running "mvn install -DskipTests=false -DtestngGroups=native"
+[2014-01-09 18:13:47] ddary: after my change you have to execute;
+[2014-01-09 18:13:57] ddary: adb forward tcp:8080 tcp:8080
+[2014-01-09 18:14:28] lukeis: he corrected the code to match the docs ;)
