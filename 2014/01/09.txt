@@ -99,3 +99,4 @@
 [2014-01-09 18:51:36] jlipps: lukeis:  IIRC it worked via selendroid standalone though
 [2014-01-09 18:51:47] lukeis: ah, then truly odd
 [2014-01-09 18:52:00] jlipps: i'll try it again to make sure selendroid standalone wasn't actually using a different emu
+[2014-01-09 18:58:27] jlipps, quitting. (Ping timeout: 272 seconds)
