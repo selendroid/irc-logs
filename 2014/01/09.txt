@@ -232,3 +232,4 @@
 [2014-01-09 22:32:01] lukeis: and the dev's use real devices primarily
 [2014-01-09 22:37:00] jlipps, joining. (#selendroid)
 [2014-01-09 23:25:10] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-09 23:36:24] jlipps, quitting. (Quit: Leaving.)
