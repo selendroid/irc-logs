@@ -114,3 +114,4 @@
 [2014-01-10 16:35:49] ddary: looking at that now
 [2014-01-10 16:36:15] simonstewart: Meeting time. Going offline
 [2014-01-10 16:36:20] simonstewart, leaving. (#selendroid)
+[2014-01-10 16:51:50] smccarthy, quitting. (Ping timeout: 264 seconds)
