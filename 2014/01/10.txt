@@ -12,3 +12,5 @@
 [2014-01-10 08:48:10] ddary, quitting. (Quit: ddary)
 [2014-01-10 09:12:26] freynaud, joining. (#selendroid)
 [2014-01-10 11:34:44] ddary, joining. (#selendroid)
+[2014-01-10 11:51:08] ddary, quitting. (Quit: ddary)
+[2014-01-10 11:51:27] ddary, joining. (#selendroid)
