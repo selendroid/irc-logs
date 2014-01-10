@@ -77,3 +77,7 @@
 [2014-01-10 14:22:57] ddary: thanks
 [2014-01-10 14:23:19] ddary: will have a look later at that one
 [2014-01-10 14:40:48] nirvdrum, joining. (#selendroid)
+[2014-01-10 15:01:50] Pepe: thanks I'll check it out later then
+[2014-01-10 15:02:37] oskoryk: @ddary: as I told before, I have problems running Selendroid's tests. Some of tests fail randomly (not always), but others - absolutely always (for me). You told that you've managed them to work well. Could you please confirm that, lets say, io.selendroid.nativetests.GetWindowSourceTest passes on your machine?
+[2014-01-10 15:03:48] ddary: I have currently also more issues to run the full suite together
+[2014-01-10 15:04:45] oskoryk: for io.selendroid.nativetests.GetWindowSourceTest I have the following issue: http://paste.ubuntu.com/6726727/
