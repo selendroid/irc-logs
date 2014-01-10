@@ -10,3 +10,4 @@
 [2014-01-10 08:13:20] ddary, joining. (#selendroid)
 [2014-01-10 08:48:06] ddary: :note oskoryk I have updated: http://selendroid.io/architecture.html Currently you can only run all the tests.
 [2014-01-10 08:48:10] ddary, quitting. (Quit: ddary)
+[2014-01-10 09:12:26] freynaud, joining. (#selendroid)
