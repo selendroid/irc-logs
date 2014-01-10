@@ -48,3 +48,19 @@
 [2014-01-10 14:04:40] Pepe: I see I will need the standalone jar and client in my project.
 [2014-01-10 14:05:15] Pepe: do they exist prepackaged as jars?
 [2014-01-10 14:12:21] ddary: the standalone jar you can download at github and the client you can just use the selenium ones
+[2014-01-10 14:17:09] Pepe: INFO: executing command: /opt/android-sdk/platform-tools/adb devices
+[2014-01-10 14:17:09] Pepe: Jan 10, 2014 2:16:19 PM io.selendroid.SelendroidLauncher lauchServer
+[2014-01-10 14:17:09] Pepe: SEVERE: Error occurred while building server: 1
+[2014-01-10 14:17:09] Pepe: java.lang.ArrayIndexOutOfBoundsException: 1
+[2014-01-10 14:17:26] Pepe: then there is this error too :)
+[2014-01-10 14:17:52] Pepe: device is plugged via usb and adb devices shows it in the terminal
+[2014-01-10 14:17:52] ddary: do you have emulators running on your machine?
+[2014-01-10 14:18:03] Pepe: no emu, using devices
+[2014-01-10 14:18:25] ddary: what happens if you remove the device and start the server?
+[2014-01-10 14:18:34] ddary: do you get then as well the index out of bound?
+[2014-01-10 14:18:36] Pepe: same error IIRC, let me test again
+[2014-01-10 14:19:31] Pepe: yes
+[2014-01-10 14:19:38] Pepe: lang.ArrayIndexOutOfBoundsException: 1
+[2014-01-10 14:19:38] Pepe: 	at io.selendroid.server.model.DeviceStore.addEmulators(DeviceStore.java:150)
+[2014-01-10 14:19:38] Pepe: 	at io.selendroid.server.model.SelendroidStandaloneDriver.initAndroidDevices(SelendroidStandaloneDriver.java:184)
+[2014-01-10 14:19:40] Pepe: might help
