@@ -167,3 +167,7 @@
 [2014-01-10 20:28:49] lukeis: but the differences are minor, but maybe key
 [2014-01-10 20:28:59] jlipps: iiinteresting
 [2014-01-10 20:29:02] lukeis: doesn't have android:debuggable="true"
+[2014-01-10 20:30:14] jlipps: interesting.
+[2014-01-10 20:30:20] jlipps: lukeis:  could we safely use the standalone server one instead?
+[2014-01-10 20:30:26] lukeis: yes
+[2014-01-10 20:30:34] jlipps: ok let me see if that does the trick
