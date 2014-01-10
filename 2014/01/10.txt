@@ -193,3 +193,5 @@
 [2014-01-10 20:56:57] lukeis: `mvn clean package -DskipTests=true`
 [2014-01-10 20:57:10] lukeis: unless you want to run the tests ;)
 [2014-01-10 20:59:22] jlipps: haha
+[2014-01-10 21:04:25] jlipps: oh n/m lukeis it's not empty, it's just binary
+[2014-01-10 21:04:56] jlipps: how do i gist this?
