@@ -81,3 +81,12 @@
 [2014-01-10 15:02:37] oskoryk: @ddary: as I told before, I have problems running Selendroid's tests. Some of tests fail randomly (not always), but others - absolutely always (for me). You told that you've managed them to work well. Could you please confirm that, lets say, io.selendroid.nativetests.GetWindowSourceTest passes on your machine?
 [2014-01-10 15:03:48] ddary: I have currently also more issues to run the full suite together
 [2014-01-10 15:04:45] oskoryk: for io.selendroid.nativetests.GetWindowSourceTest I have the following issue: http://paste.ubuntu.com/6726727/
+[2014-01-10 15:05:32] ddary: have you seen: https://github.com/selendroid/selendroid/blob/master/selendroid-test-app/src/test/java/io/selendroid/nativetests/GetWindowSourceTest.java#L41
+[2014-01-10 15:05:51] ddary: it is not meant to run currently
+[2014-01-10 15:06:25] ddary: the thing is also that with selenium 3 the source format will change to xml and then this needs to be rewritten anyway
+[2014-01-10 15:06:38] ddary: that was the reason why it is commented out
+[2014-01-10 15:06:58] oskoryk: nativeUiTreeIsBuildCorrectly() was commented out
+[2014-01-10 15:07:09] oskoryk: but testShouldBeAbleToFindHiddenElementAndGetShownState() was not
+[2014-01-10 15:08:04] ddary: my mistake
+[2014-01-10 15:08:05] ddary: sorry
+[2014-01-10 15:08:28] ddary: the whole test class must be refactored
