@@ -109,3 +109,8 @@
 [2014-01-10 16:33:27] simonstewart, quitting. (Ping timeout: 245 seconds)
 [2014-01-10 16:33:27] simonstewart_, changing nick to simonstewart.
 [2014-01-10 16:34:59] ddary: SelendroidUnknownCommandHandlingTest.java#L68
+[2014-01-10 16:35:02] ddary: yes.
+[2014-01-10 16:35:45] ddary: i guess the reason is that in the past we used AndroidDriver as a base class and then it was refactored to remoteWebdriver.
+[2014-01-10 16:35:49] ddary: looking at that now
+[2014-01-10 16:36:15] simonstewart: Meeting time. Going offline
+[2014-01-10 16:36:20] simonstewart, leaving. (#selendroid)
