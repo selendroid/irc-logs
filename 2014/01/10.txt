@@ -21,3 +21,4 @@
 [2014-01-10 12:34:06] oskoryk: I switched to Android-17 as Simon suggested. But tests are still not running well. Investigating..
 [2014-01-10 12:35:26] ddary: ok
 [2014-01-10 12:35:36] ddary: currently also looking at this
+[2014-01-10 12:59:52] oskoryk: Can you reproduce this issue on your machine?
