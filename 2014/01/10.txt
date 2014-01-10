@@ -162,3 +162,8 @@
 [2014-01-10 20:20:46] jlipps: yeah. and we definitely use that file, we haven't made our own
 [2014-01-10 20:22:42] lukeis: this is the one the standalone server uses https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/resources/AndroidManifest.xml
 [2014-01-10 20:24:08] lukeis: maybe… i need to look through some code
+[2014-01-10 20:27:13] jlipps: it uses a different one?
+[2014-01-10 20:28:38] lukeis: yep, it uses that one I just linked as it's template
+[2014-01-10 20:28:49] lukeis: but the differences are minor, but maybe key
+[2014-01-10 20:28:59] jlipps: iiinteresting
+[2014-01-10 20:29:02] lukeis: doesn't have android:debuggable="true"
