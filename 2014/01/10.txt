@@ -38,3 +38,8 @@
 [2014-01-10 13:48:42] ddary: have you looked at: http://selendroid.io/quickStart.html
 [2014-01-10 13:49:05] ddary: and https://github.com/selendroid/demoproject-selendroid/blob/master/src/main/java/io/selendroid/demo/mobileweb/MobileWebTest.java
 [2014-01-10 13:49:07] ddary: ?
+[2014-01-10 13:51:24] Pepe: yes there is some code which does not yield in a working test
+[2014-01-10 13:51:46] Pepe: driver is not created etc. Thats where I thought I'd ask if it is supposed to work at all
+[2014-01-10 13:52:56] ddary: yes
+[2014-01-10 13:53:28] ddary: if you clone the demoproject and import it into eclipse and run the MobileWebTest it should work fine
+[2014-01-10 13:54:24] ddary: before i released the 0.7.0 I tested it and it worked at least on my machine ;-)
