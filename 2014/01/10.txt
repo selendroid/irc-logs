@@ -8,3 +8,5 @@
 [2014-01-10 07:52:09] jlipps, joining. (#selendroid)
 [2014-01-10 08:08:01] jlipps, quitting. (Quit: Leaving.)
 [2014-01-10 08:13:20] ddary, joining. (#selendroid)
+[2014-01-10 08:48:06] ddary: :note oskoryk I have updated: http://selendroid.io/architecture.html Currently you can only run all the tests.
+[2014-01-10 08:48:10] ddary, quitting. (Quit: ddary)
