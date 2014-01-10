@@ -46,3 +46,4 @@
 [2014-01-10 13:56:44] ddary: did you cloned the project and tried it?
 [2014-01-10 14:02:03] Pepe: maven only, did not want to go there
 [2014-01-10 14:04:40] Pepe: I see I will need the standalone jar and client in my project.
+[2014-01-10 14:05:15] Pepe: do they exist prepackaged as jars?
