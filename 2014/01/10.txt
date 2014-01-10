@@ -124,3 +124,17 @@
 [2014-01-10 18:14:16] selendroid-git: selendroid/master f7ada51 Dominik Dary: using old version of webbit #155, #177, #163, #210 to avoidorg.webbitserver.WebbitException: cannot send more responses than requests on.
 [2014-01-10 18:14:16] selendroid-git: selendroid/master d17ba51 Dominik Dary: fix #202
 [2014-01-10 18:14:16] selendroid-git, leaving. (#selendroid)
+[2014-01-10 18:15:37] ddary: oskoryk: with that changes I was able to run the 91 native tests of the native test suite. I used an emulator with target version 15.
+[2014-01-10 18:16:26] lukeis: ddary: fyi the current year is 2014 (if you're adding / adjusting copyrights) :)
+[2014-01-10 18:17:07] ddary: copy and paste without thinking is not helping :D
+[2014-01-10 18:17:22] lukeis: ;) I figured, since it says 2012-2013
+[2014-01-10 18:17:57] lukeis: i mean really, who wrote code for this project in 2012?! :-D
+[2014-01-10 18:17:58] ddary: at least at selendroid.io is is right, there i was able to do it right ;-)
+[2014-01-10 18:18:05] lukeis: hehe
+[2014-01-10 18:18:05] ddary: me
+[2014-01-10 18:18:09] lukeis: i know
+[2014-01-10 18:18:14] lukeis: you and only you :)
+[2014-01-10 18:18:18] ddary: yeah
+[2014-01-10 18:18:33] ddary: it was another repo, but there it started
+[2014-01-10 18:18:41] ddary: i have it still ;-)
+[2014-01-10 18:18:45] lukeis: (thus the class written by simon… was a not likely in 2012 :) )
