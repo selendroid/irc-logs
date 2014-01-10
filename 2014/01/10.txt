@@ -64,3 +64,15 @@
 [2014-01-10 14:19:38] Pepe: 	at io.selendroid.server.model.DeviceStore.addEmulators(DeviceStore.java:150)
 [2014-01-10 14:19:38] Pepe: 	at io.selendroid.server.model.SelendroidStandaloneDriver.initAndroidDevices(SelendroidStandaloneDriver.java:184)
 [2014-01-10 14:19:40] Pepe: might help
+[2014-01-10 14:20:17] ddary: what is the output of adb devices?
+[2014-01-10 14:20:45] ddary: asking because we have an open bug about that and I'm not able to reproduce it
+[2014-01-10 14:20:51] Pepe: exactly one device
+[2014-01-10 14:21:18] Pepe: List of devices attached
+[2014-01-10 14:21:18] Pepe: <serialno>	device
+[2014-01-10 14:22:17] Pepe: galaxy S3, just tried with razr I and same thing
+[2014-01-10 14:22:34] ddary: and you on mac or linux?
+[2014-01-10 14:22:44] Pepe: and they both work with debugging in eclipse
+[2014-01-10 14:22:50] Pepe: osx 10.9
+[2014-01-10 14:22:54] Pepe: mac
+[2014-01-10 14:22:57] ddary: thanks
+[2014-01-10 14:23:19] ddary: will have a look later at that one
