@@ -26,3 +26,4 @@
 [2014-01-10 13:22:17] ddary, quitting. (Read error: Connection reset by peer)
 [2014-01-10 13:35:53] ddary, joining. (#selendroid)
 [2014-01-10 13:36:38] ddary: :log
+[2014-01-10 13:42:54] oskoryk: I'm sorry for not answering for a while. I found that certain tests sometimes run well, but sometimes fail because of certain side-effect. I'm trying to go deeper in this issue
