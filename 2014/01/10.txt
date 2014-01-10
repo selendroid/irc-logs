@@ -103,3 +103,9 @@
 [2014-01-10 16:28:03] freynaud, quitting. (Quit: freynaud)
 [2014-01-10 16:29:45] oskoryk: @ddary: are you talking about ServerInstrumentation.startActivity(Class) method?
 [2014-01-10 16:29:58] ddary: yes
+[2014-01-10 16:31:06] ddary: http://paste.ubuntu.com/6727126/
+[2014-01-10 16:32:18] simonstewart_, joining. (#selendroid)
+[2014-01-10 16:32:32] oskoryk: thanks. could you also confirm that the test I've talked before fails on your machine?
+[2014-01-10 16:33:27] simonstewart, quitting. (Ping timeout: 245 seconds)
+[2014-01-10 16:33:27] simonstewart_, changing nick to simonstewart.
+[2014-01-10 16:34:59] ddary: SelendroidUnknownCommandHandlingTest.java#L68
