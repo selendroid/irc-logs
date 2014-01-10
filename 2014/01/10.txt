@@ -47,3 +47,4 @@
 [2014-01-10 14:02:03] Pepe: maven only, did not want to go there
 [2014-01-10 14:04:40] Pepe: I see I will need the standalone jar and client in my project.
 [2014-01-10 14:05:15] Pepe: do they exist prepackaged as jars?
+[2014-01-10 14:12:21] ddary: the standalone jar you can download at github and the client you can just use the selenium ones
