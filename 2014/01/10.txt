@@ -92,3 +92,6 @@
 [2014-01-10 15:08:28] ddary: the whole test class must be refactored
 [2014-01-10 16:01:11] Pepe, quitting. (Quit: Leaving.)
 [2014-01-10 16:02:45] simonstewart, joining. (#selendroid)
+[2014-01-10 16:10:13] simonstewart: Can someone spin up an x86 emulator and run the native tests against the test app?
+[2014-01-10 16:10:24] simonstewart: oskoryk and I are both seeing numerous failures
+[2014-01-10 16:13:17] smccarthy, joining. (#selendroid)
