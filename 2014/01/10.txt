@@ -99,3 +99,7 @@
 [2014-01-10 16:17:52] ddary: simonstewart: I have currently issues but i was able to remove most of them by closing all the open activities, when a new driver.get(URL) is called
 [2014-01-10 16:19:00] ddary: added the statement: finishAllActivities(); before the intent is instantiated in the ServerInstrumentation Class
 [2014-01-10 16:23:27] nirvdrum, quitting. (Ping timeout: 245 seconds)
+[2014-01-10 16:26:24] simonstewart: Thanks, ddary
+[2014-01-10 16:28:03] freynaud, quitting. (Quit: freynaud)
+[2014-01-10 16:29:45] oskoryk: @ddary: are you talking about ServerInstrumentation.startActivity(Class) method?
+[2014-01-10 16:29:58] ddary: yes
