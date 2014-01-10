@@ -27,3 +27,14 @@
 [2014-01-10 13:35:53] ddary, joining. (#selendroid)
 [2014-01-10 13:36:38] ddary: :log
 [2014-01-10 13:42:54] oskoryk: I'm sorry for not answering for a while. I found that certain tests sometimes run well, but sometimes fail because of certain side-effect. I'm trying to go deeper in this issue
+[2014-01-10 13:45:33] Pepe, joining. (#selendroid)
+[2014-01-10 13:45:35] ddary: k
+[2014-01-10 13:45:46] Pepe: hi
+[2014-01-10 13:47:07] Pepe: I want to write tests for a mobile webpage, been doing it with selenium android webdriver, which is removed now and users are forwarded to selendroid
+[2014-01-10 13:47:07] ddary: hi Pepe
+[2014-01-10 13:47:29] ddary: ok, what is your question?
+[2014-01-10 13:47:46] Pepe: I am having difficulties to write those test, because there is no clear complete documentation that would work.
+[2014-01-10 13:48:14] Pepe: Project setup, building or location of jars that should be used in the project etc.
+[2014-01-10 13:48:42] ddary: have you looked at: http://selendroid.io/quickStart.html
+[2014-01-10 13:49:05] ddary: and https://github.com/selendroid/demoproject-selendroid/blob/master/src/main/java/io/selendroid/demo/mobileweb/MobileWebTest.java
+[2014-01-10 13:49:07] ddary: ?
