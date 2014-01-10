@@ -171,3 +171,4 @@
 [2014-01-10 20:30:20] jlipps: lukeis:  could we safely use the standalone server one instead?
 [2014-01-10 20:30:26] lukeis: yes
 [2014-01-10 20:30:34] jlipps: ok let me see if that does the trick
+[2014-01-10 20:37:09] jlipps: hmm, now i'm getting 'instrumentation failed'
