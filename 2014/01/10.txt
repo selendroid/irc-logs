@@ -90,3 +90,5 @@
 [2014-01-10 15:08:04] ddary: my mistake
 [2014-01-10 15:08:05] ddary: sorry
 [2014-01-10 15:08:28] ddary: the whole test class must be refactored
+[2014-01-10 16:01:11] Pepe, quitting. (Quit: Leaving.)
+[2014-01-10 16:02:45] simonstewart, joining. (#selendroid)
