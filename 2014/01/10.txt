@@ -118,3 +118,9 @@
 [2014-01-10 17:20:31] jlipps, joining. (#selendroid)
 [2014-01-10 17:27:43] lukeis, joining. (#selendroid)
 [2014-01-10 17:32:50] smccarthy, joining. (#selendroid)
+[2014-01-10 18:14:15] selendroid-git, joining. (#selendroid)
+[2014-01-10 18:14:16] selendroid-git: [selendroid] DominikDary pushed 3 new commits to master: http://git.io/EUkJpg
+[2014-01-10 18:14:16] selendroid-git: selendroid/master bca7277 Dominik Dary: Refactoring tests to execute by test suite grouped by native and web tests.
+[2014-01-10 18:14:16] selendroid-git: selendroid/master f7ada51 Dominik Dary: using old version of webbit #155, #177, #163, #210 to avoidorg.webbitserver.WebbitException: cannot send more responses than requests on.
+[2014-01-10 18:14:16] selendroid-git: selendroid/master d17ba51 Dominik Dary: fix #202
+[2014-01-10 18:14:16] selendroid-git, leaving. (#selendroid)
