@@ -24,3 +24,5 @@
 [2014-01-10 12:59:52] oskoryk: Can you reproduce this issue on your machine?
 [2014-01-10 13:05:06] ddary: what issue do you mean exactly?
 [2014-01-10 13:22:17] ddary, quitting. (Read error: Connection reset by peer)
+[2014-01-10 13:35:53] ddary, joining. (#selendroid)
+[2014-01-10 13:36:38] ddary: :log
