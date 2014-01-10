@@ -140,3 +140,21 @@
 [2014-01-10 18:18:45] lukeis: (thus the class written by simon… was a not likely in 2012 :) )
 [2014-01-10 18:23:11] ddary: so, going offline now. Have a good weekend!
 [2014-01-10 18:23:22] ddary, leaving. (#selendroid)
+[2014-01-10 20:16:34] jlipps: lukeis:  i confirmed that trying to find that element by id in 4.4 with selendroid standalone worked fine
+[2014-01-10 20:16:52] jlipps: so i'm baffled as to why it would fail when proxying from appium
+[2014-01-10 20:16:57] lukeis: weird
+[2014-01-10 20:17:09] jlipps: sometimes i wish selendroid had more logs
+[2014-01-10 20:17:20] lukeis: -verbose
+[2014-01-10 20:17:34] jlipps: i mean the instrumented server
+[2014-01-10 20:17:43] jlipps: not the standalone
+[2014-01-10 20:17:46] lukeis: ah
+[2014-01-10 20:17:49] jlipps: adb logcat | grep System
+[2014-01-10 20:17:55] lukeis: well, stuff goes to logcat...
+[2014-01-10 20:18:08] jlipps: yeah, it detects that i'm finding the right thing by id
+[2014-01-10 20:18:10] lukeis: just not very much sometimes :)
+[2014-01-10 20:18:18] jlipps: but the response it sends is a 'not found' message
+[2014-01-10 20:18:46] jlipps: has the way you rebuild the app with selendroid perms changed at all?
+[2014-01-10 20:19:10] lukeis: i don't believe so
+[2014-01-10 20:19:19] lukeis: well, since when? :)
+[2014-01-10 20:19:46] jlipps: like, the last 6 months
+[2014-01-10 20:19:57] lukeis: nope
