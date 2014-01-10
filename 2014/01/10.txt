@@ -183,3 +183,13 @@
 [2014-01-10 20:52:47] jlipps: ah ok
 [2014-01-10 20:53:07] nirvdrum, joining. (#selendroid)
 [2014-01-10 20:53:47] jlipps: lol it's empty
+[2014-01-10 20:55:36] lukeis: huh, maybe it does use the selendroid-server one… this is weird
+[2014-01-10 20:55:49] jlipps: well, all i'm doing to build selendroid.apk is running mvn
+[2014-01-10 20:56:07] jlipps: `mvn clean install` to be exact
+[2014-01-10 20:56:21] lukeis: yeah, that's fine (install is excessive… package is all you need
+[2014-01-10 20:56:28] jlipps: orly
+[2014-01-10 20:56:34] jlipps: `mvn clean package`?
+[2014-01-10 20:56:46] lukeis: install copies the artifacts to ~/.m2/repository/....
+[2014-01-10 20:56:57] lukeis: `mvn clean package -DskipTests=true`
+[2014-01-10 20:57:10] lukeis: unless you want to run the tests ;)
+[2014-01-10 20:59:22] jlipps: haha
