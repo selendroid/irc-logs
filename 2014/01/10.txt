@@ -176,3 +176,4 @@
 [2014-01-10 20:43:30] lukeis: mine
 [2014-01-10 20:43:35] lukeis: 'lukeis'
 [2014-01-10 20:43:41] jlipps: ok thanks
+[2014-01-10 20:49:35] jlipps: lukeis:  any idea why that manifest would cause instrumentation to fail?
