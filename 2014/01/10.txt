@@ -197,3 +197,7 @@
 [2014-01-10 21:04:56] jlipps: how do i gist this?
 [2014-01-10 21:06:05] lukeis: umm, can you grab the xml file before it's dex'd into the apk?
 [2014-01-10 21:06:31] lukeis: for example this is what it is when running selendroid standalone against the (new) android driver apk included in the project - https://gist.github.com/lukeis/8361610
+[2014-01-10 23:36:30] jlipps: lukeis:  how do i grab it before it's dex'd? i'm just running the mvn clean package command
+[2014-01-10 23:36:39] jlipps: and opening up the resulting selendroid-server-7.0.apk
+[2014-01-10 23:38:26] lukeis: doesn't appium modify the AndroidManifest.xml and repackage for eash aut?
+[2014-01-10 23:38:29] lukeis: each*
