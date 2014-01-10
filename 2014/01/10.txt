@@ -195,3 +195,5 @@
 [2014-01-10 20:59:22] jlipps: haha
 [2014-01-10 21:04:25] jlipps: oh n/m lukeis it's not empty, it's just binary
 [2014-01-10 21:04:56] jlipps: how do i gist this?
+[2014-01-10 21:06:05] lukeis: umm, can you grab the xml file before it's dex'd into the apk?
+[2014-01-10 21:06:31] lukeis: for example this is what it is when running selendroid standalone against the (new) android driver apk included in the project - https://gist.github.com/lukeis/8361610
