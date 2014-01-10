@@ -76,3 +76,4 @@
 [2014-01-10 14:22:54] Pepe: mac
 [2014-01-10 14:22:57] ddary: thanks
 [2014-01-10 14:23:19] ddary: will have a look later at that one
+[2014-01-10 14:40:48] nirvdrum, joining. (#selendroid)
