@@ -22,3 +22,4 @@
 [2014-01-10 12:35:26] ddary: ok
 [2014-01-10 12:35:36] ddary: currently also looking at this
 [2014-01-10 12:59:52] oskoryk: Can you reproduce this issue on your machine?
+[2014-01-10 13:05:06] ddary: what issue do you mean exactly?
