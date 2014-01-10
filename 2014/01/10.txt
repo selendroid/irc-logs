@@ -98,3 +98,4 @@
 [2014-01-10 16:15:52] oskoryk: @ddary: One more failing test is the following: https://github.com/selendroid/selendroid/blob/master/selendroid-test-app/src/test/java/io/selendroid/nativetests/SelendroidUnknownCommandHandlingTest.java#L68 It expects UnsupportedCommandException to be thrown, but nothing happens. All other tests from SelendroidUnknownCommandHandlingTest group go well.
 [2014-01-10 16:17:52] ddary: simonstewart: I have currently issues but i was able to remove most of them by closing all the open activities, when a new driver.get(URL) is called
 [2014-01-10 16:19:00] ddary: added the statement: finishAllActivities(); before the intent is instantiated in the ServerInstrumentation Class
+[2014-01-10 16:23:27] nirvdrum, quitting. (Ping timeout: 245 seconds)
