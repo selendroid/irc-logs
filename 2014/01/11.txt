@@ -13,3 +13,4 @@
 [2014-01-11 14:43:23] oskoryk, quitting. (Remote host closed the connection)
 [2014-01-11 14:45:36] oskoryk, joining. (#selendroid)
 [2014-01-11 14:46:56] oskoryk, quitting. (Read error: Operation timed out)
+[2014-01-11 18:14:33] smccarthy, joining. (#selendroid)
