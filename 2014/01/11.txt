@@ -6,3 +6,5 @@
 [2014-01-11 02:57:10] jlipps, quitting. (Quit: Leaving.)
 [2014-01-11 03:19:11] nirvdrum, joining. (#selendroid)
 [2014-01-11 06:20:04] jlipps, joining. (#selendroid)
+[2014-01-11 06:35:18] jlipps, quitting. (Quit: Leaving.)
+[2014-01-11 06:35:58] jlipps, joining. (#selendroid)
