@@ -11,3 +11,5 @@
 [2014-01-11 06:40:52] jlipps, quitting. (Client Quit)
 [2014-01-11 06:44:05] nirvdrum, quitting. (Ping timeout: 248 seconds)
 [2014-01-11 14:43:23] oskoryk, quitting. (Remote host closed the connection)
+[2014-01-11 14:45:36] oskoryk, joining. (#selendroid)
+[2014-01-11 14:46:56] oskoryk, quitting. (Read error: Operation timed out)
