@@ -3,3 +3,4 @@
 [2014-01-11 01:39:17] lukeis, quitting. (Ping timeout: 272 seconds)
 [2014-01-11 01:43:05] nirvdrum, quitting. (Ping timeout: 272 seconds)
 [2014-01-11 02:46:37] smccarthy2, quitting. (Remote host closed the connection)
+[2014-01-11 02:57:10] jlipps, quitting. (Quit: Leaving.)
