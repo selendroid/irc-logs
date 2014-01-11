@@ -20,3 +20,6 @@
 [2014-01-11 20:15:11] selendroid-git: selendroid/master 6968348 Luke Inman-Semerau: ignore SSL errors in the webview app....
 [2014-01-11 20:15:11] selendroid-git: selendroid/master a584567 Luke Inman-Semerau: don't need to override shouldOverrideUrlLoading...
 [2014-01-11 20:15:11] selendroid-git, leaving. (#selendroid)
+[2014-01-11 21:37:55] oskoryk, joining. (#selendroid)
+[2014-01-11 21:38:17] oskoryk, quitting. (Remote host closed the connection)
+[2014-01-11 21:38:39] oskoryk, joining. (#selendroid)
