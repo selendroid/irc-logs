@@ -8,3 +8,5 @@
 [2014-01-11 06:20:04] jlipps, joining. (#selendroid)
 [2014-01-11 06:35:18] jlipps, quitting. (Quit: Leaving.)
 [2014-01-11 06:35:58] jlipps, joining. (#selendroid)
+[2014-01-11 06:40:52] jlipps, quitting. (Client Quit)
+[2014-01-11 06:44:05] nirvdrum, quitting. (Ping timeout: 248 seconds)
