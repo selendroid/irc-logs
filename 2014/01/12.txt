@@ -8,3 +8,4 @@
 [2014-01-12 15:32:18] rami, joining. (#selendroid)
 [2014-01-12 15:32:26] rami, leaving. (#selendroid)
 [2014-01-12 15:41:44] nirvdrum, joining. (#selendroid)
+[2014-01-12 16:23:05] smccarthy, joining. (#selendroid)
