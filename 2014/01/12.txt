@@ -7,3 +7,4 @@
 [2014-01-12 12:48:14] AutomatedTester, joining. (#selendroid)
 [2014-01-12 15:32:18] rami, joining. (#selendroid)
 [2014-01-12 15:32:26] rami, leaving. (#selendroid)
+[2014-01-12 15:41:44] nirvdrum, joining. (#selendroid)
