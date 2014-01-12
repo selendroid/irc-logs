@@ -3,3 +3,4 @@
 [2014-01-12 04:07:29] nirvdrum, joining. (#selendroid)
 [2014-01-12 06:10:50] nirvdrum, quitting. (Ping timeout: 245 seconds)
 [2014-01-12 08:18:43] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-12 12:07:16] AutomatedTester, quitting. (*.net *.split)
