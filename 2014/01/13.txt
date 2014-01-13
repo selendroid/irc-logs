@@ -43,3 +43,6 @@
 [2014-01-13 20:23:01] lukeis: they aren't widely publicized for a reason… they should be avoided as they're not apart of the standard way to extend the selenium protocol
 [2014-01-13 20:23:23] julian__: ah. ok.
 [2014-01-13 20:23:25] lukeis: (it's a horrible hack that they're there to begin with)
+[2014-01-13 20:31:35] julian__, leaving. (#selendroid)
+[2014-01-13 20:31:58] julian__, joining. (#selendroid)
+[2014-01-13 20:33:19] julian__, leaving. (#selendroid)
