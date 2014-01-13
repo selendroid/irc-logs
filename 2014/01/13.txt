@@ -27,3 +27,7 @@
 [2014-01-13 16:58:31] smccarthy, joining. (#selendroid)
 [2014-01-13 18:08:49] ddary, quitting. (Quit: ddary)
 [2014-01-13 18:22:57] lukeis, joining. (#selendroid)
+[2014-01-13 18:28:01] selendroid-git, joining. (#selendroid)
+[2014-01-13 18:28:02] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/OV67DQ
+[2014-01-13 18:28:02] selendroid-git: selendroid/master 3b533dc Dominik Dary: avoiding references to previous screen elements.
+[2014-01-13 18:28:02] selendroid-git, leaving. (#selendroid)
