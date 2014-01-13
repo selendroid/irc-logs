@@ -32,3 +32,4 @@
 [2014-01-13 18:28:02] selendroid-git: selendroid/master 3b533dc Dominik Dary: avoiding references to previous screen elements.
 [2014-01-13 18:28:02] selendroid-git, leaving. (#selendroid)
 [2014-01-13 19:15:28] nirvdrum, quitting. (Ping timeout: 272 seconds)
+[2014-01-13 19:43:18] jlipps, joining. (#selendroid)
