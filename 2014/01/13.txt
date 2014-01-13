@@ -37,3 +37,9 @@
 [2014-01-13 20:17:12] julian__, joining. (#selendroid)
 [2014-01-13 20:18:41] julian__: does selendroid accept commands via "execute()"?
 [2014-01-13 20:19:16] lukeis: there's a few in 'native' mode, but 'webview' should be just like regular selenium
+[2014-01-13 20:20:51] julian__: cool. thanks. can you point me to where i might find a list of them?  my searches come up empty.  maybe i'm not using the correct terms.
+[2014-01-13 20:21:27] lukeis: https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/model/DefaultSelendroidDriver.java#L379
+[2014-01-13 20:22:00] julian__: awesome! thanks.
+[2014-01-13 20:23:01] lukeis: they aren't widely publicized for a reason… they should be avoided as they're not apart of the standard way to extend the selenium protocol
+[2014-01-13 20:23:23] julian__: ah. ok.
+[2014-01-13 20:23:25] lukeis: (it's a horrible hack that they're there to begin with)
