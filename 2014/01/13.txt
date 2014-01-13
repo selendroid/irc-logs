@@ -31,3 +31,4 @@
 [2014-01-13 18:28:02] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/OV67DQ
 [2014-01-13 18:28:02] selendroid-git: selendroid/master 3b533dc Dominik Dary: avoiding references to previous screen elements.
 [2014-01-13 18:28:02] selendroid-git, leaving. (#selendroid)
+[2014-01-13 19:15:28] nirvdrum, quitting. (Ping timeout: 272 seconds)
