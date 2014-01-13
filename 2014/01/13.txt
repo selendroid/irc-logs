@@ -25,3 +25,4 @@
 [2014-01-13 15:53:15] mwalton: thanks ddary. I'll give that a shot.
 [2014-01-13 15:53:56] ddary: a full example you see here: https://github.com/selendroid/demoproject-selendroid/blob/master/src/main/java/io/selendroid/demo/nativeui/UserRegistrationTest.java#L53
 [2014-01-13 16:58:31] smccarthy, joining. (#selendroid)
+[2014-01-13 18:08:49] ddary, quitting. (Quit: ddary)
