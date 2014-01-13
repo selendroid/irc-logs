@@ -47,3 +47,6 @@
 [2014-01-13 20:31:58] julian__, joining. (#selendroid)
 [2014-01-13 20:33:19] julian__, leaving. (#selendroid)
 [2014-01-13 20:36:37] jlipps1, joining. (#selendroid)
+[2014-01-13 20:40:02] jlipps, quitting. (Ping timeout: 252 seconds)
+[2014-01-13 20:40:15] jlipps, joining. (#selendroid)
+[2014-01-13 20:43:02] jlipps1, quitting. (Ping timeout: 245 seconds)
