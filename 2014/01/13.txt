@@ -18,3 +18,9 @@
 [2014-01-13 14:46:15] mwalton, quitting. (Quit: Leaving)
 [2014-01-13 15:33:29] mwalton, joining. (#selendroid)
 [2014-01-13 15:44:54] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-13 15:51:33] mwalton: Hello. I'm trying to write some selendroid tests for a native android app, I'm quite impressed with it so far, but I have a question. In between test scenarios I'm like to return to a known state (i.e. return to the apps home screen). Is there a simple way to do this using the selendroid api?
+[2014-01-13 15:52:09] ddary: hi mwalton
+[2014-01-13 15:52:29] ddary: yes, you can just open the home activity of your app via
+[2014-01-13 15:52:58] ddary: driver.get("and-activity://com.your.package.YourMainActivity")
+[2014-01-13 15:53:15] mwalton: thanks ddary. I'll give that a shot.
+[2014-01-13 15:53:56] ddary: a full example you see here: https://github.com/selendroid/demoproject-selendroid/blob/master/src/main/java/io/selendroid/demo/nativeui/UserRegistrationTest.java#L53
