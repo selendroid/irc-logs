@@ -10,3 +10,4 @@
 [2014-01-13 12:26:36] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/1pGx4g
 [2014-01-13 12:26:36] selendroid-git: selendroid/master 28543a4 Dominik Dary: An emulator will now be shutdown after mobile web test is finished #214.
 [2014-01-13 12:26:36] selendroid-git, leaving. (#selendroid)
+[2014-01-13 13:36:35] ddary, quitting. (Quit: ddary)
