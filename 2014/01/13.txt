@@ -55,3 +55,4 @@
 [2014-01-13 23:05:40] oskoryk, quitting. (Remote host closed the connection)
 [2014-01-13 23:06:07] oskoryk, joining. (#selendroid)
 [2014-01-13 23:10:19] oskoryk, quitting. (Ping timeout: 246 seconds)
+[2014-01-13 23:21:48] oskoryk, joining. (#selendroid)
