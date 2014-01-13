@@ -12,3 +12,4 @@
 [2014-01-13 12:26:36] selendroid-git, leaving. (#selendroid)
 [2014-01-13 13:36:35] ddary, quitting. (Quit: ddary)
 [2014-01-13 13:55:48] ddary, joining. (#selendroid)
+[2014-01-13 14:01:25] oskoryk, joining. (#selendroid)
