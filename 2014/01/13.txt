@@ -17,3 +17,4 @@
 [2014-01-13 14:37:27] smccarthy, joining. (#selendroid)
 [2014-01-13 14:46:15] mwalton, quitting. (Quit: Leaving)
 [2014-01-13 15:33:29] mwalton, joining. (#selendroid)
+[2014-01-13 15:44:54] smccarthy, quitting. (Remote host closed the connection)
