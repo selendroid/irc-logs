@@ -62,3 +62,6 @@
 [2014-01-14 17:12:51] ddary: maybe what you can do is to have a look at the adb logcat and return the error that is displayed there
 [2014-01-14 17:14:31] ddary: the logs are here: https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/android/impl/AbstractDevice.java#L319
 [2014-01-14 17:14:46] oskoryk: thanks
+[2014-01-14 17:18:52] oskoryk: now I'm trying to get better understanding of the codebase. And in parallel thinking about the above problem
+[2014-01-14 17:19:29] smccarthy, joining. (#selendroid)
+[2014-01-14 17:19:57] oskoryk: if you will suddenly come up with another good approach to do this - please share it with me :)
