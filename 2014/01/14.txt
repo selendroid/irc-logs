@@ -128,3 +128,14 @@
 [2014-01-14 18:58:51] ddary: super
 [2014-01-14 18:59:25] ddary: then i need to update the docu in some places, but then it is consistent and easier to use it with python
 [2014-01-14 18:59:52] lukeis: true… i'm not sure why python fails when trying to connect on 5555
+[2014-01-14 19:00:58] jlipps, quitting. (Quit: Leaving.)
+[2014-01-14 19:01:33] ddary: in the past i used something like:
+[2014-01-14 19:02:01] ddary: d=webdriver.Remote(command_executor='http://127.0.0.1:5555/wd/hub',desired_capabilities={'aut': 'com.ebay.mobile:2.4.0.23'}) but with the newer versions of the python bindings it was not working anymore
+[2014-01-14 19:02:42] lukeis: yeah, something with the keep-alives maybe, i'm not sure
+[2014-01-14 19:03:15] ddary: btw: did you have seen I have given you access to google analytics?
+[2014-01-14 19:03:22] lukeis: yes, i did :)
+[2014-01-14 19:03:46] lukeis: and saw the spike in traffic after Dec. 26 (when I closed all the Selenium issues and linked the project)
+[2014-01-14 19:03:52] ddary: :)
+[2014-01-14 19:04:00] lukeis: lots of india ;)
+[2014-01-14 19:04:06] ddary: yeah
+[2014-01-14 19:04:08] ddary: and US
