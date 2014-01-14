@@ -26,3 +26,7 @@
 [2014-01-14 10:28:41] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/J--uCg
 [2014-01-14 10:28:41] selendroid-git: selendroid/master 228da53 Dominik Dary: When loading URLs, SelendroidWebDriver will wait until page is loaded. #211
 [2014-01-14 10:28:41] selendroid-git, leaving. (#selendroid)
+[2014-01-14 11:16:00] selendroid-git, joining. (#selendroid)
+[2014-01-14 11:16:00] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/r5Jqzw
+[2014-01-14 11:16:00] selendroid-git: selendroid/master 8d7e5b9 Dominik Dary: Using more defensive programming to avoid NPE. #184
+[2014-01-14 11:16:00] selendroid-git, leaving. (#selendroid)
