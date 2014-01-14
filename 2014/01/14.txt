@@ -124,3 +124,7 @@
 [2014-01-14 18:50:18] ddary, joining. (#selendroid)
 [2014-01-14 18:51:52] ddary: hi lukeis
 [2014-01-14 18:52:02] ddary: what do you think about #218
+[2014-01-14 18:58:34] lukeis: fine by me :) Everywhere I use selendroid I use `-port 4444`
+[2014-01-14 18:58:51] ddary: super
+[2014-01-14 18:59:25] ddary: then i need to update the docu in some places, but then it is consistent and easier to use it with python
+[2014-01-14 18:59:52] lukeis: true… i'm not sure why python fails when trying to connect on 5555
