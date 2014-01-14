@@ -121,3 +121,6 @@
 [2014-01-14 18:21:51] oskoryk, joining. (#selendroid)
 [2014-01-14 18:23:55] oskoryk_, joining. (#selendroid)
 [2014-01-14 18:24:04] oskoryk, quitting. (Read error: No route to host)
+[2014-01-14 18:50:18] ddary, joining. (#selendroid)
+[2014-01-14 18:51:52] ddary: hi lukeis
+[2014-01-14 18:52:02] ddary: what do you think about #218
