@@ -73,3 +73,5 @@
 [2014-01-14 17:23:32] oskoryk: I'm also trying to read their codebase and get some ideas from there
 [2014-01-14 17:24:02] ddary: sometimes it happens that the wrong app is installed: what I mean with that is that the selendroid server and the  app under test are not signed with the same certificate. that would be great, if we could handle that as well
 [2014-01-14 17:24:37] ddary: yeah, i can remember. Simon said this, but I did not had a chance to look at Espresso
+[2014-01-14 17:25:17] *ddary feels good because the new test method names are so easy to understand :)'
+[2014-01-14 17:26:45] oskoryk: there is no more testShouldBeAbleTo*** prefix?
