@@ -75,3 +75,14 @@
 [2014-01-14 17:24:37] ddary: yeah, i can remember. Simon said this, but I did not had a chance to look at Espresso
 [2014-01-14 17:25:17] *ddary feels good because the new test method names are so easy to understand :)'
 [2014-01-14 17:26:45] oskoryk: there is no more testShouldBeAbleTo*** prefix?
+[2014-01-14 17:30:22] ddary: it is like:
+[2014-01-14 17:30:23] ddary: shouldFindInvisibleElemenByText
+[2014-01-14 17:30:53] ddary: beAbleTo is nice but verbose
+[2014-01-14 17:31:22] ddary: as well without the "test" word it is shorter, especially in the outline of the IDE
+[2014-01-14 17:33:00] selendroid-git, joining. (#selendroid)
+[2014-01-14 17:33:01] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/nFkQ8g
+[2014-01-14 17:33:01] selendroid-git: selendroid/master cf30ec2 Dominik Dary: Refactored waiting tests to wait for a shorting time frame.
+[2014-01-14 17:33:01] selendroid-git: selendroid/master ff57ce2 Dominik Dary: Refactoring method names of native tests. No logical change.
+[2014-01-14 17:33:01] selendroid-git, leaving. (#selendroid)
+[2014-01-14 17:33:24] ddary: there you see the changes.
+[2014-01-14 17:34:04] mariusb, quitting. (Quit: Page closed)
