@@ -139,3 +139,10 @@
 [2014-01-14 19:04:00] lukeis: lots of india ;)
 [2014-01-14 19:04:06] ddary: yeah
 [2014-01-14 19:04:08] ddary: and US
+[2014-01-14 19:06:10] selendroid-git, joining. (#selendroid)
+[2014-01-14 19:06:11] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/8pjIbA
+[2014-01-14 19:06:11] selendroid-git: selendroid/master 27ee22b Dominik Dary: Changing default port to 4444. #218
+[2014-01-14 19:06:11] selendroid-git, leaving. (#selendroid)
+[2014-01-14 19:06:21] lukeis: and so much Windows usage...
+[2014-01-14 19:06:46] lukeis: at least mainly Chrome (and not IE) ;)
+[2014-01-14 19:07:15] ddary: --> India
