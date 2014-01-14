@@ -102,3 +102,5 @@
 [2014-01-14 17:50:33] ddary: is sauce planning to support selendroid-standalone?
 [2014-01-14 17:51:25] oskoryk, quitting. (Ping timeout: 272 seconds)
 [2014-01-14 17:51:40] oskoryk, joining. (#selendroid)
+[2014-01-14 17:55:14] jlipps: ddary: not that i have heard of in our roadmap, no
+[2014-01-14 17:55:28] ddary: ok
