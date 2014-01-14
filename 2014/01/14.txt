@@ -9,3 +9,4 @@
 [2014-01-14 07:13:51] selendroid-git, joining. (#selendroid)
 [2014-01-14 07:13:51] selendroid-git: [selendroid] skyisle opened pull request #216: Kill logcat process after test is finished (master...master) http://git.io/fRmV1w
 [2014-01-14 07:13:51] selendroid-git, leaving. (#selendroid)
+[2014-01-14 08:32:30] ddary, joining. (#selendroid)
