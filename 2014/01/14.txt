@@ -55,3 +55,10 @@
 [2014-01-14 17:09:33] oskoryk: what do you think about the following
 [2014-01-14 17:09:50] mariusb, joining. (#selendroid)
 [2014-01-14 17:09:56] oskoryk: when application which we are trying to test suddenly crashes - we receive "org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died." exception
+[2014-01-14 17:10:27] oskoryk: but it is only one of different cases when we can receive it
+[2014-01-14 17:11:06] oskoryk: now I'm thinking about whether it's possible or not to clearly distinguish crashes
+[2014-01-14 17:11:32] oskoryk: and as one option to throw specific exception in this case
+[2014-01-14 17:12:16] ddary: that sounds good
+[2014-01-14 17:12:51] ddary: maybe what you can do is to have a look at the adb logcat and return the error that is displayed there
+[2014-01-14 17:14:31] ddary: the logs are here: https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/android/impl/AbstractDevice.java#L319
+[2014-01-14 17:14:46] oskoryk: thanks
