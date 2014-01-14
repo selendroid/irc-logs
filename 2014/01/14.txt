@@ -117,3 +117,7 @@
 [2014-01-14 18:13:05] ddary: didn't had the time yet to have a look
 [2014-01-14 18:13:55] ddary: we have no dinner time with the family, will be online later
 [2014-01-14 18:14:01] ddary, quitting. (Quit: ddary)
+[2014-01-14 18:21:16] oskoryk, quitting. (Remote host closed the connection)
+[2014-01-14 18:21:51] oskoryk, joining. (#selendroid)
+[2014-01-14 18:23:55] oskoryk_, joining. (#selendroid)
+[2014-01-14 18:24:04] oskoryk, quitting. (Read error: No route to host)
