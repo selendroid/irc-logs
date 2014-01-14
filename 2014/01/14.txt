@@ -151,3 +151,8 @@
 [2014-01-14 19:54:22] jlipps, joining. (#selendroid)
 [2014-01-14 19:54:28] jlipps, quitting. (Client Quit)
 [2014-01-14 20:11:14] julian__, joining. (#selendroid)
+[2014-01-14 20:15:27] julian__: under the hood, does selendroid use uiautomator?
+[2014-01-14 20:15:39] lukeis: no, Instrumentation
+[2014-01-14 20:15:47] julian__: ah, thanks.
+[2014-01-14 20:18:08] oskoryk_, quitting. (Remote host closed the connection)
+[2014-01-14 20:18:44] oskoryk, joining. (#selendroid)
