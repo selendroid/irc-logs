@@ -31,3 +31,4 @@
 [2014-01-14 11:16:00] selendroid-git: selendroid/master 8d7e5b9 Dominik Dary: Using more defensive programming to avoid NPE. #184
 [2014-01-14 11:16:00] selendroid-git, leaving. (#selendroid)
 [2014-01-14 12:44:06] oskoryk, joining. (#selendroid)
+[2014-01-14 13:36:16] ddary: :log
