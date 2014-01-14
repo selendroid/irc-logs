@@ -86,3 +86,6 @@
 [2014-01-14 17:33:01] selendroid-git, leaving. (#selendroid)
 [2014-01-14 17:33:24] ddary: there you see the changes.
 [2014-01-14 17:34:04] mariusb, quitting. (Quit: Page closed)
+[2014-01-14 17:40:52] jlipps, joining. (#selendroid)
+[2014-01-14 17:43:10] ddary: hi jlipps
+[2014-01-14 17:44:58] jlipps: heya ddary
