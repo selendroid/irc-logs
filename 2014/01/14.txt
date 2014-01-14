@@ -1,3 +1,4 @@
 [2014-01-14 00:19:44] coreyg, quitting. (Quit: coreyg)
 [2014-01-14 00:34:08] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-14 01:51:38] lukeis, quitting. (Quit: Leaving.)
+[2014-01-14 02:13:38] jlipps, quitting. (Quit: Leaving.)
