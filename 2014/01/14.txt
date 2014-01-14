@@ -41,3 +41,11 @@
 [2014-01-14 16:58:20] oskoryk: and pushed small changes which make 99% test running well on my machine
 [2014-01-14 16:58:21] ddary: on my machine currently nearly all the tests are passing on Android16
 [2014-01-14 16:58:22] oskoryk: https://github.com/skorknure/selendroid
+[2014-01-14 17:00:03] ddary: ok
+[2014-01-14 17:00:15] ddary: i currently rename test methods
+[2014-01-14 17:00:34] ddary: looks like we will have merging fun
+[2014-01-14 17:01:10] ddary: the reason for doing it, names are too long and with the shorter method names it is easier to understand, what is actually tested
+[2014-01-14 17:02:55] ddary: On what platform are you testing?
+[2014-01-14 17:03:45] oskoryk: on mac os x 10.9.1. For now mostly on Android-17
+[2014-01-14 17:04:18] ddary: ok
+[2014-01-14 17:04:54] ddary: good to know that you are on a different (Android) platform, then we have a better coverage
