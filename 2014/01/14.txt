@@ -12,3 +12,13 @@
 [2014-01-14 08:32:30] ddary, joining. (#selendroid)
 [2014-01-14 08:38:19] ddary, quitting. (Quit: ddary)
 [2014-01-14 08:43:15] ddary, joining. (#selendroid)
+[2014-01-14 09:30:51] selendroid-git, joining. (#selendroid)
+[2014-01-14 09:30:52] selendroid-git: [selendroid] DominikDary pushed 3 new commits to master: http://git.io/AA-46A
+[2014-01-14 09:30:52] selendroid-git: selendroid/master c09e367 Alan Jeon: Kill logcat process after test is finished...
+[2014-01-14 09:30:52] selendroid-git: selendroid/master b2674bd Alan Jeon: Fix typo
+[2014-01-14 09:30:52] selendroid-git: selendroid/master c7e9d60 Dominik Dary: Merge pull request #216 from skyisle/master...
+[2014-01-14 09:30:52] selendroid-git, leaving. (#selendroid)
+[2014-01-14 09:31:54] selendroid-git, joining. (#selendroid)
+[2014-01-14 09:31:55] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/TIS1vw
+[2014-01-14 09:31:55] selendroid-git: selendroid/master ed9d3a7 Dominik Dary: Update AUTHORS
+[2014-01-14 09:31:55] selendroid-git, leaving. (#selendroid)
