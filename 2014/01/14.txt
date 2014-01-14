@@ -159,3 +159,5 @@
 [2014-01-14 20:22:58] oskoryk, quitting. (Ping timeout: 252 seconds)
 [2014-01-14 21:00:37] julian__, quitting. (Ping timeout: 248 seconds)
 [2014-01-14 21:17:46] julian__, joining. (#selendroid)
+[2014-01-14 21:20:29] oskoryk, joining. (#selendroid)
+[2014-01-14 21:21:28] oskoryk, quitting. (Client Quit)
