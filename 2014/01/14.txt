@@ -89,3 +89,13 @@
 [2014-01-14 17:40:52] jlipps, joining. (#selendroid)
 [2014-01-14 17:43:10] ddary: hi jlipps
 [2014-01-14 17:44:58] jlipps: heya ddary
+[2014-01-14 17:45:21] ddary: you submitted an issue a while ago to selendroid
+[2014-01-14 17:45:46] ddary: do you have a specific environment where I can reproduce the error?
+[2014-01-14 17:45:50] oskoryk, quitting. (Remote host closed the connection)
+[2014-01-14 17:46:12] ddary: I tried it on different machines with different emulators but in my case it was working fine
+[2014-01-14 17:46:23] oskoryk, joining. (#selendroid)
+[2014-01-14 17:46:36] jlipps: which issue was it? :-)
+[2014-01-14 17:48:33] ddary: #167
+[2014-01-14 17:49:19] jlipps: hmm, i think i was noticing this on sauce.
+[2014-01-14 17:49:33] jlipps: i haven't run into it in a while though. i'll close and reopen if i can repro again
+[2014-01-14 17:49:51] ddary: ok
