@@ -162,3 +162,4 @@
 [2014-01-14 21:20:29] oskoryk, joining. (#selendroid)
 [2014-01-14 21:21:28] oskoryk, quitting. (Client Quit)
 [2014-01-14 23:46:21] lukeis: :note ddary fyi the atoms build for selendroid is tested in selenium's ci http://ci.seleniumhq.org:8080/job/thirdparty-dependent-atoms-build/
+[2014-01-14 23:50:51] smccarthy, quitting. (Remote host closed the connection)
