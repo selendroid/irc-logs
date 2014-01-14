@@ -99,3 +99,6 @@
 [2014-01-14 17:49:19] jlipps: hmm, i think i was noticing this on sauce.
 [2014-01-14 17:49:33] jlipps: i haven't run into it in a while though. i'll close and reopen if i can repro again
 [2014-01-14 17:49:51] ddary: ok
+[2014-01-14 17:50:33] ddary: is sauce planning to support selendroid-standalone?
+[2014-01-14 17:51:25] oskoryk, quitting. (Ping timeout: 272 seconds)
+[2014-01-14 17:51:40] oskoryk, joining. (#selendroid)
