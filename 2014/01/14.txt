@@ -22,3 +22,7 @@
 [2014-01-14 09:31:55] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/TIS1vw
 [2014-01-14 09:31:55] selendroid-git: selendroid/master ed9d3a7 Dominik Dary: Update AUTHORS
 [2014-01-14 09:31:55] selendroid-git, leaving. (#selendroid)
+[2014-01-14 10:28:41] selendroid-git, joining. (#selendroid)
+[2014-01-14 10:28:41] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/J--uCg
+[2014-01-14 10:28:41] selendroid-git: selendroid/master 228da53 Dominik Dary: When loading URLs, SelendroidWebDriver will wait until page is loaded. #211
+[2014-01-14 10:28:41] selendroid-git, leaving. (#selendroid)
