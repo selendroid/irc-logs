@@ -105,3 +105,15 @@
 [2014-01-14 17:55:14] jlipps: ddary: not that i have heard of in our roadmap, no
 [2014-01-14 17:55:28] ddary: ok
 [2014-01-14 18:09:27] lukeis, joining. (#selendroid)
+[2014-01-14 18:11:17] selendroid-git, joining. (#selendroid)
+[2014-01-14 18:11:17] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/mfLBag
+[2014-01-14 18:11:17] selendroid-git: selendroid/master 464a0f3 Dominik Dary: Refactoring method names of webview tests. No logical change.
+[2014-01-14 18:11:17] selendroid-git, leaving. (#selendroid)
+[2014-01-14 18:11:18] ddary: hi lukeis
+[2014-01-14 18:11:24] lukeis: hi
+[2014-01-14 18:11:56] ddary: i refactored all the test method names to make them less verbose and easier to understand
+[2014-01-14 18:12:23] lukeis: sgtm :)
+[2014-01-14 18:12:51] ddary: the tests are passing, except the CookieHandlerTest
+[2014-01-14 18:13:05] ddary: didn't had the time yet to have a look
+[2014-01-14 18:13:55] ddary: we have no dinner time with the family, will be online later
+[2014-01-14 18:14:01] ddary, quitting. (Quit: ddary)
