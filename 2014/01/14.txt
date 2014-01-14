@@ -49,3 +49,9 @@
 [2014-01-14 17:03:45] oskoryk: on mac os x 10.9.1. For now mostly on Android-17
 [2014-01-14 17:04:18] ddary: ok
 [2014-01-14 17:04:54] ddary: good to know that you are on a different (Android) platform, then we have a better coverage
+[2014-01-14 17:05:19] ddary: with regards to the merge, if there are conflicts, i will take care of it
+[2014-01-14 17:05:48] oskoryk: yes. but I tried Android-16 and -19 as well, as far as I remember all issues were about the same
+[2014-01-14 17:07:58] ddary: ok
+[2014-01-14 17:09:33] oskoryk: what do you think about the following
+[2014-01-14 17:09:50] mariusb, joining. (#selendroid)
+[2014-01-14 17:09:56] oskoryk: when application which we are trying to test suddenly crashes - we receive "org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died." exception
