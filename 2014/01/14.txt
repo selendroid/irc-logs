@@ -150,3 +150,4 @@
 [2014-01-14 19:13:33] ddary, leaving. (#selendroid)
 [2014-01-14 19:54:22] jlipps, joining. (#selendroid)
 [2014-01-14 19:54:28] jlipps, quitting. (Client Quit)
+[2014-01-14 20:11:14] julian__, joining. (#selendroid)
