@@ -8,3 +8,7 @@
 [2014-01-15 07:46:22] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/vZ8ufw
 [2014-01-15 07:46:23] selendroid-git: selendroid/master 85b0504 Luke Inman-Semerau: forgot to update the package of the Atoms on the last update
 [2014-01-15 07:46:23] selendroid-git, leaving. (#selendroid)
+[2014-01-15 07:59:48] selendroid-git, joining. (#selendroid)
+[2014-01-15 07:59:49] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/RqhO5Q
+[2014-01-15 07:59:49] selendroid-git: selendroid/master 1ba7cab Luke Inman-Semerau: fixing switch to default content
+[2014-01-15 07:59:49] selendroid-git, leaving. (#selendroid)
