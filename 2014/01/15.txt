@@ -14,3 +14,7 @@
 [2014-01-15 07:59:49] selendroid-git, leaving. (#selendroid)
 [2014-01-15 08:29:48] ddary, joining. (#selendroid)
 [2014-01-15 08:43:40] ddary: :note lukeis thanks also for updating the atoms. I was about to do it as well, but I had issues building them based on the 2.39 tag. Can you please also add a test class for the frame switching?
+[2014-01-15 09:52:58] selendroid-git, joining. (#selendroid)
+[2014-01-15 09:52:59] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/DZP0Nw
+[2014-01-15 09:52:59] selendroid-git: selendroid/master f61dd1a Dominik Dary: Adding constructor that used default endpoint with port 4444.
+[2014-01-15 09:52:59] selendroid-git, leaving. (#selendroid)
