@@ -56,3 +56,4 @@
 [2014-01-15 21:05:58] jlipps, quitting. (Quit: Leaving.)
 [2014-01-15 21:18:39] jlipps, joining. (#selendroid)
 [2014-01-15 21:34:46] jack090, joining. (#selendroid)
+[2014-01-15 21:46:57] oskoryk, quitting. (Remote host closed the connection)
