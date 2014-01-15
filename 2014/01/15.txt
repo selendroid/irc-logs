@@ -54,3 +54,4 @@
 [2014-01-15 19:40:55] simonstewart, leaving. (#selendroid)
 [2014-01-15 19:42:28] jlipps, joining. (#selendroid)
 [2014-01-15 21:05:58] jlipps, quitting. (Quit: Leaving.)
+[2014-01-15 21:18:39] jlipps, joining. (#selendroid)
