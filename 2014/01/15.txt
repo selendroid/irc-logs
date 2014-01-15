@@ -4,3 +4,7 @@
 [2014-01-15 07:42:44] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/-_0KVg
 [2014-01-15 07:42:44] selendroid-git: selendroid/master 5faccbf Luke Inman-Semerau: adding switch to frame support in webview...
 [2014-01-15 07:42:44] selendroid-git, leaving. (#selendroid)
+[2014-01-15 07:46:22] selendroid-git, joining. (#selendroid)
+[2014-01-15 07:46:22] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/vZ8ufw
+[2014-01-15 07:46:23] selendroid-git: selendroid/master 85b0504 Luke Inman-Semerau: forgot to update the package of the Atoms on the last update
+[2014-01-15 07:46:23] selendroid-git, leaving. (#selendroid)
