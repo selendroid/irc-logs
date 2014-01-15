@@ -44,3 +44,10 @@
 [2014-01-15 17:48:01] lukeis: hi ddary… tests? what's a test? ;)
 [2014-01-15 17:48:12] lukeis: yes, i'll look into that
 [2014-01-15 17:49:40] Johnd, joining. (#selendroid)
+[2014-01-15 17:50:03] Johnd, quitting. (Client Quit)
+[2014-01-15 17:51:03] ddary: lukeis: i have no idea ;-)
+[2014-01-15 17:52:36] ddary, quitting. (Quit: ddary)
+[2014-01-15 17:53:56] selendroid-git, joining. (#selendroid)
+[2014-01-15 17:53:56] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/L_-gbg
+[2014-01-15 17:53:56] selendroid-git: selendroid/master 1ceddb3 Martin Konicek: Naming the thread pools for easier debugging....
+[2014-01-15 17:53:56] selendroid-git, leaving. (#selendroid)
