@@ -28,3 +28,8 @@
 [2014-01-15 15:25:29] selendroid-git: selendroid/master 3a8a1a6 Dominik Dary: Support for navigating back, forward and refresh
 [2014-01-15 15:25:29] selendroid-git, leaving. (#selendroid)
 [2014-01-15 16:44:52] mwalton, quitting. (Remote host closed the connection)
+[2014-01-15 16:45:34] simonstewart, joining. (#selendroid)
+[2014-01-15 16:45:39] simonstewart: Greetings all
+[2014-01-15 16:45:45] ddary: Hi simon
+[2014-01-15 16:49:25] ddary, leaving. (#selendroid)
+[2014-01-15 16:49:45] ddary, joining. (#selendroid)
