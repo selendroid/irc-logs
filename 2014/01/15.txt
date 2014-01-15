@@ -12,3 +12,4 @@
 [2014-01-15 07:59:49] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/RqhO5Q
 [2014-01-15 07:59:49] selendroid-git: selendroid/master 1ba7cab Luke Inman-Semerau: fixing switch to default content
 [2014-01-15 07:59:49] selendroid-git, leaving. (#selendroid)
+[2014-01-15 08:29:48] ddary, joining. (#selendroid)
