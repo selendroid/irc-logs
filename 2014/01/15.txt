@@ -13,3 +13,4 @@
 [2014-01-15 07:59:49] selendroid-git: selendroid/master 1ba7cab Luke Inman-Semerau: fixing switch to default content
 [2014-01-15 07:59:49] selendroid-git, leaving. (#selendroid)
 [2014-01-15 08:29:48] ddary, joining. (#selendroid)
+[2014-01-15 08:43:40] ddary: :note lukeis thanks also for updating the atoms. I was about to do it as well, but I had issues building them based on the 2.39 tag. Can you please also add a test class for the frame switching?
