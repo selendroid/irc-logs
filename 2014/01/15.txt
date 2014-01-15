@@ -41,3 +41,6 @@
 [2014-01-15 16:54:55] ddary, joining. (#selendroid)
 [2014-01-15 17:08:34] smccarthy, joining. (#selendroid)
 [2014-01-15 17:10:51] lukeis, joining. (#selendroid)
+[2014-01-15 17:48:01] lukeis: hi ddary… tests? what's a test? ;)
+[2014-01-15 17:48:12] lukeis: yes, i'll look into that
+[2014-01-15 17:49:40] Johnd, joining. (#selendroid)
