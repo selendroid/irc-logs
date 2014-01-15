@@ -18,3 +18,7 @@
 [2014-01-15 09:52:59] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/DZP0Nw
 [2014-01-15 09:52:59] selendroid-git: selendroid/master f61dd1a Dominik Dary: Adding constructor that used default endpoint with port 4444.
 [2014-01-15 09:52:59] selendroid-git, leaving. (#selendroid)
+[2014-01-15 11:12:34] selendroid-git, joining. (#selendroid)
+[2014-01-15 11:12:35] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/o4K24Q
+[2014-01-15 11:12:35] selendroid-git: selendroid/master e5931c8 Dominik Dary: updating changelog
+[2014-01-15 11:12:35] selendroid-git, leaving. (#selendroid)
