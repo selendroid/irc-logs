@@ -27,3 +27,4 @@
 [2014-01-15 15:25:29] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/2QfDEg
 [2014-01-15 15:25:29] selendroid-git: selendroid/master 3a8a1a6 Dominik Dary: Support for navigating back, forward and refresh
 [2014-01-15 15:25:29] selendroid-git, leaving. (#selendroid)
+[2014-01-15 16:44:52] mwalton, quitting. (Remote host closed the connection)
