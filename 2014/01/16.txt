@@ -47,3 +47,16 @@
 [2014-01-16 19:04:36] ddary, joining. (#selendroid)
 [2014-01-16 19:09:50] ddary: hi lukeis
 [2014-01-16 19:12:07] ddary: do you have an example about how I can rotate a device with the Python bindings?
+[2014-01-16 19:16:48] lukeis: driver.orientation = "LANDSCAPE"   I think
+[2014-01-16 19:17:16] lukeis: i haven't tested orientation changes with selendroid
+[2014-01-16 19:17:30] ddary: ok
+[2014-01-16 19:17:50] ddary: yeah, you should not yet be able to test it, it was not there
+[2014-01-16 19:17:57] ddary: but i have implemented it today
+[2014-01-16 19:18:06] lukeis: cool :)
+[2014-01-16 19:18:19] ddary: tried to find it in the python doc, but was not able to find something
+[2014-01-16 19:19:18] ddary: the pull requests are looking fine for me, need just to try it out first
+[2014-01-16 19:19:34] ddary: he signed the cla, so it can be merged in
+[2014-01-16 19:19:36] selendroid-git, joining. (#selendroid)
+[2014-01-16 19:19:37] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/mw44Sg
+[2014-01-16 19:19:37] selendroid-git: selendroid/master 7a96104 Luke Inman-Semerau: linking the issues fixed
+[2014-01-16 19:19:37] selendroid-git, leaving. (#selendroid)
