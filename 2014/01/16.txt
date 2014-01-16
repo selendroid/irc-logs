@@ -60,3 +60,10 @@
 [2014-01-16 19:19:37] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/mw44Sg
 [2014-01-16 19:19:37] selendroid-git: selendroid/master 7a96104 Luke Inman-Semerau: linking the issues fixed
 [2014-01-16 19:19:37] selendroid-git, leaving. (#selendroid)
+[2014-01-16 19:20:24] ddary: good idea to do that!
+[2014-01-16 19:21:55] lukeis: huh, there's a bug in pydoc that the orientation setter isn't listed
+[2014-01-16 19:22:49] lukeis: clicking on 'source' next to the property one, links to the setter :)
+[2014-01-16 19:22:50] lukeis: http://selenium.googlecode.com/git/docs/api/py/webdriver_remote/selenium.webdriver.remote.webdriver.html#selenium.webdriver.remote.webdriver.WebDriver.orientation
+[2014-01-16 19:23:40] ddary: driver.orientation works ;-)
+[2014-01-16 19:23:47] lukeis: cool
+[2014-01-16 19:24:50] ddary: driver.orientation = "LANDSCAPE" as well
