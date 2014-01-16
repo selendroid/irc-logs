@@ -32,3 +32,4 @@
 [2014-01-16 16:52:29] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2014-01-16 17:09:06] lukeis, joining. (#selendroid)
 [2014-01-16 17:09:54] smccarthy, joining. (#selendroid)
+[2014-01-16 17:37:19] martink_, joining. (#selendroid)
