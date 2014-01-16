@@ -33,3 +33,8 @@
 [2014-01-16 17:09:06] lukeis, joining. (#selendroid)
 [2014-01-16 17:09:54] smccarthy, joining. (#selendroid)
 [2014-01-16 17:37:19] martink_, joining. (#selendroid)
+[2014-01-16 17:50:09] martink_: Hi, I'd like to ask about the reasoning behind sleeping for 500ms after opening an activity. Thank you. https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/model/SelendroidNativeDriver.java#L116
+[2014-01-16 17:52:26] lukeis: because when we tried to connect immediate afterwards we would get exceptions and android needed a beat for it to be 'ready' to accept new requests
+[2014-01-16 17:52:58] lukeis: i try not to sleep if i can find some mechanism to see if it's ready
+[2014-01-16 17:53:40] lukeis: i remember looking and it wouldn't work… and when the exception happened (not every time if i recall) the selendroid server would be halted
+[2014-01-16 17:53:44] jlipps, joining. (#selendroid)
