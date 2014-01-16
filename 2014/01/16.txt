@@ -6,3 +6,7 @@
 [2014-01-16 10:29:16] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/PeoHgg
 [2014-01-16 10:29:16] selendroid-git: selendroid/master ba83b9d Dominik Dary: Removing -restartAdb option
 [2014-01-16 10:29:16] selendroid-git, leaving. (#selendroid)
+[2014-01-16 12:05:36] selendroid-git, joining. (#selendroid)
+[2014-01-16 12:05:36] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/iNetzQ
+[2014-01-16 12:05:36] selendroid-git: selendroid/master 1b16cb1 Dominik Dary: Adding convenient method to create Android capabilities for a specific Android platform.
+[2014-01-16 12:05:36] selendroid-git, leaving. (#selendroid)
