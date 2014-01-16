@@ -93,3 +93,4 @@
 [2014-01-16 19:47:34] martink_, joining. (#selendroid)
 [2014-01-16 19:58:14] jlipps, quitting. (Remote host closed the connection)
 [2014-01-16 20:00:00] jlipps, joining. (#selendroid)
+[2014-01-16 20:00:19] martink_, quitting. (Ping timeout: 246 seconds)
