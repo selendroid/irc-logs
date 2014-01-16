@@ -78,3 +78,10 @@
 [2014-01-16 19:27:37] ddary: but will look next week on CI topic
 [2014-01-16 19:27:56] ddary: I want to have our ci be able to run as well emulators
 [2014-01-16 19:28:42] lukeis: i saw julian harty demo how to run an android emulator on travis-ci and then run (the old) android driver
+[2014-01-16 19:30:24] ddary: to be honest I did not made that good experiences with Travis CI and android emulators
+[2014-01-16 19:30:34] lukeis: https://github.com/julianharty/android-webdriver-vm-demo/blob/master/.travis.yml
+[2014-01-16 19:30:56] ddary: because you had to download, at least in the past, always the android sdk, it was a bit slow
+[2014-01-16 19:31:00] lukeis: yep
+[2014-01-16 19:31:12] lukeis: would be ideal to have the CI already have the sdk :)
+[2014-01-16 19:31:26] ddary: :)
+[2014-01-16 19:31:39] ddary: should contact the travis guys
