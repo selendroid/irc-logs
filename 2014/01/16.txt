@@ -42,3 +42,4 @@
 [2014-01-16 18:18:04] martink_, joining. (#selendroid)
 [2014-01-16 18:21:06] martink_: OK thanks for the explanation.
 [2014-01-16 18:43:56] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-01-16 18:47:19] martink_, joining. (#selendroid)
