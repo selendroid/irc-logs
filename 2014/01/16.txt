@@ -91,3 +91,5 @@
 [2014-01-16 19:44:04] ddary: going offline now, I'm not happy with rotation, that works currently only on activity basis. so is fine for androiddriver, but not for app testing. will have a look tomorrow.
 [2014-01-16 19:44:13] ddary, quitting. (Quit: ddary)
 [2014-01-16 19:47:34] martink_, joining. (#selendroid)
+[2014-01-16 19:58:14] jlipps, quitting. (Remote host closed the connection)
+[2014-01-16 20:00:00] jlipps, joining. (#selendroid)
