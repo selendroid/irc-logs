@@ -2,3 +2,7 @@
 [2014-01-16 01:03:32] lukeis, quitting. (Quit: Leaving.)
 [2014-01-16 02:25:56] jlipps, quitting. (Quit: Leaving.)
 [2014-01-16 10:05:24] ddary, joining. (#selendroid)
+[2014-01-16 10:29:16] selendroid-git, joining. (#selendroid)
+[2014-01-16 10:29:16] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/PeoHgg
+[2014-01-16 10:29:16] selendroid-git: selendroid/master ba83b9d Dominik Dary: Removing -restartAdb option
+[2014-01-16 10:29:16] selendroid-git, leaving. (#selendroid)
