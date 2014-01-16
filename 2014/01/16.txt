@@ -85,3 +85,6 @@
 [2014-01-16 19:31:12] lukeis: would be ideal to have the CI already have the sdk :)
 [2014-01-16 19:31:26] ddary: :)
 [2014-01-16 19:31:39] ddary: should contact the travis guys
+[2014-01-16 19:35:06] lukeis: and I hope you pardon me if I get a bit snippy with the users on the mailing lists when they AREN'T EVEN READING THE ERROR MESSAGE…. this is why i stopped responding on the Se Users list
+[2014-01-16 19:38:50] ddary: I understand you totally. the best thing was #224
+[2014-01-16 19:39:15] ddary: it is fine that you have an error, but please tell me your problem and a log ;-)
