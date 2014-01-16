@@ -10,3 +10,5 @@
 [2014-01-16 12:05:36] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/iNetzQ
 [2014-01-16 12:05:36] selendroid-git: selendroid/master 1b16cb1 Dominik Dary: Adding convenient method to create Android capabilities for a specific Android platform.
 [2014-01-16 12:05:36] selendroid-git, leaving. (#selendroid)
+[2014-01-16 12:58:15] oskoryk, joining. (#selendroid)
+[2014-01-16 12:59:12] oskoryk, quitting. (Remote host closed the connection)
