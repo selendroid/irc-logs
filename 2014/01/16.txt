@@ -29,3 +29,4 @@
 [2014-01-16 16:48:57] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/MaXSKw
 [2014-01-16 16:48:57] selendroid-git: selendroid/master 15a6d49 Dominik Dary: Update changelog.md
 [2014-01-16 16:48:57] selendroid-git, leaving. (#selendroid)
+[2014-01-16 16:52:29] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
