@@ -21,3 +21,5 @@
 [2014-01-16 13:46:28] selendroid-git, joining. (#selendroid)
 [2014-01-16 13:46:28] selendroid-git: [selendroid] mbarsocchi opened pull request #226: Update CookieHandlerTest.java (master...patch-2) http://git.io/1Vzpfg
 [2014-01-16 13:46:28] selendroid-git, leaving. (#selendroid)
+[2014-01-16 13:55:02] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2014-01-16 13:56:13] ddary, joining. (#selendroid)
