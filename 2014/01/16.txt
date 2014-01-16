@@ -67,3 +67,14 @@
 [2014-01-16 19:23:40] ddary: driver.orientation works ;-)
 [2014-01-16 19:23:47] lukeis: cool
 [2014-01-16 19:24:50] ddary: driver.orientation = "LANDSCAPE" as well
+[2014-01-16 19:25:37] lukeis: nice, looking forward to it :)
+[2014-01-16 19:25:50] ddary: :)
+[2014-01-16 19:25:58] lukeis: I had an internal story (low on priority) in my backlog to implement that ;)
+[2014-01-16 19:26:23] ddary: I just looked in the protocol and imlemented stuff that is missing and helpful for mobile web testing
+[2014-01-16 19:26:32] lukeis: alert handling in webviews is on my more immediate TODO  (after you know, putting together tests for the frame switching)
+[2014-01-16 19:27:11] ddary: +1 on alert handling
+[2014-01-16 19:27:17] ddary: i thought about that one as well
+[2014-01-16 19:27:25] lukeis: it'll actually be relatively easy to do :)
+[2014-01-16 19:27:37] ddary: but will look next week on CI topic
+[2014-01-16 19:27:56] ddary: I want to have our ci be able to run as well emulators
+[2014-01-16 19:28:42] lukeis: i saw julian harty demo how to run an android emulator on travis-ci and then run (the old) android driver
