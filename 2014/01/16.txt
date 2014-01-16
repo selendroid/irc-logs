@@ -12,3 +12,5 @@
 [2014-01-16 12:05:36] selendroid-git, leaving. (#selendroid)
 [2014-01-16 12:58:15] oskoryk, joining. (#selendroid)
 [2014-01-16 12:59:12] oskoryk, quitting. (Remote host closed the connection)
+[2014-01-16 13:00:28] oskoryk, joining. (#selendroid)
+[2014-01-16 13:04:53] oskoryk, quitting. (Ping timeout: 252 seconds)
