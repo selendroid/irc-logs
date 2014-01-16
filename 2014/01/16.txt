@@ -88,3 +88,5 @@
 [2014-01-16 19:35:06] lukeis: and I hope you pardon me if I get a bit snippy with the users on the mailing lists when they AREN'T EVEN READING THE ERROR MESSAGE…. this is why i stopped responding on the Se Users list
 [2014-01-16 19:38:50] ddary: I understand you totally. the best thing was #224
 [2014-01-16 19:39:15] ddary: it is fine that you have an error, but please tell me your problem and a log ;-)
+[2014-01-16 19:44:04] ddary: going offline now, I'm not happy with rotation, that works currently only on activity basis. so is fine for androiddriver, but not for app testing. will have a look tomorrow.
+[2014-01-16 19:44:13] ddary, quitting. (Quit: ddary)
