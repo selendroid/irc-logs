@@ -39,3 +39,4 @@
 [2014-01-16 17:53:40] lukeis: i remember looking and it wouldn't work… and when the exception happened (not every time if i recall) the selendroid server would be halted
 [2014-01-16 17:53:44] jlipps, joining. (#selendroid)
 [2014-01-16 17:57:31] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-01-16 18:18:04] martink_, joining. (#selendroid)
