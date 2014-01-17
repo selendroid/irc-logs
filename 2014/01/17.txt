@@ -17,3 +17,7 @@
 [2014-01-17 14:26:41] jlipps, quitting. (Quit: Leaving.)
 [2014-01-17 16:39:39] smccarthy, joining. (#selendroid)
 [2014-01-17 17:31:39] lukeis, joining. (#selendroid)
+[2014-01-17 17:43:25] selendroid-git, joining. (#selendroid)
+[2014-01-17 17:43:26] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/xzaPgw
+[2014-01-17 17:43:26] selendroid-git: selendroid/master 29bcc44 Luke Inman-Semerau: link the other issues referenced in older releases too
+[2014-01-17 17:43:26] selendroid-git, leaving. (#selendroid)
