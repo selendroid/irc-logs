@@ -3,3 +3,4 @@
 [2014-01-17 00:56:14] oskoryk, quitting. ()
 [2014-01-17 01:52:49] smccarthy, joining. (#selendroid)
 [2014-01-17 04:03:38] jlipps, quitting. (Quit: Leaving.)
+[2014-01-17 04:21:15] jlipps, joining. (#selendroid)
