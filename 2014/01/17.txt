@@ -12,3 +12,4 @@
 [2014-01-17 09:02:14] ddary: :log
 [2014-01-17 09:13:09] ddary, leaving. (#selendroid)
 [2014-01-17 09:55:53] ddary, joining. (#selendroid)
+[2014-01-17 10:50:25] ddary, quitting. (Quit: ddary)
