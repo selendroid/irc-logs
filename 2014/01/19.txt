@@ -18,3 +18,4 @@
 [2014-01-19 17:00:46] freynaud, quitting. (Ping timeout: 272 seconds)
 [2014-01-19 17:00:46] freynaud__, changing nick to freynaud.
 [2014-01-19 17:45:01] smccarthy, joining. (#selendroid)
+[2014-01-19 18:16:51] freynaud, quitting. (Ping timeout: 272 seconds)
