@@ -25,3 +25,4 @@
 [2014-01-19 20:19:42] freynaud, quitting. (Read error: Connection reset by peer)
 [2014-01-19 20:47:27] freynaud, joining. (#selendroid)
 [2014-01-19 20:47:36] freynaud, leaving. (#selendroid)
+[2014-01-19 21:21:26] smccarthy, quitting. (Remote host closed the connection)
