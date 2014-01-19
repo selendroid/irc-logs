@@ -6,3 +6,6 @@
 [2014-01-19 10:31:50] freynaud__, joining. (#selendroid)
 [2014-01-19 10:31:50] freynaud, quitting. (Read error: Connection reset by peer)
 [2014-01-19 10:31:50] freynaud__, changing nick to freynaud.
+[2014-01-19 14:56:33] freynaud__, joining. (#selendroid)
+[2014-01-19 14:56:33] freynaud, quitting. (Read error: Connection reset by peer)
+[2014-01-19 14:56:34] freynaud__, changing nick to freynaud.
