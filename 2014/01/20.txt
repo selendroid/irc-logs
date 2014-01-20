@@ -1,3 +1,5 @@
 [2014-01-20 04:56:16] bykoff, joining. (#selendroid)
 [2014-01-20 05:14:05] bykoff, quitting. (Remote host closed the connection)
 [2014-01-20 06:26:21] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-20 06:48:38] freynaud, joining. (#selendroid)
+[2014-01-20 06:49:44] freynaud, quitting. (Client Quit)
