@@ -14,3 +14,8 @@
 [2014-01-20 15:14:11] oskoryk, joining. (#selendroid)
 [2014-01-20 15:42:19] oskoryk, quitting. (Remote host closed the connection)
 [2014-01-20 15:43:34] martink_, joining. (#selendroid)
+[2014-01-20 16:28:03] simonstewart, joining. (#selendroid)
+[2014-01-20 16:28:11] simonstewart: I LIVE!
+[2014-01-20 16:28:31] simonstewart: So, I'm about to start on my plan of making the input event generation in selendroid pluggable
+[2014-01-20 16:28:45] simonstewart: First thing I notice: we have two ways of generating keyboard events
+[2014-01-20 16:29:26] sagallv, joining. (#selendroid)
