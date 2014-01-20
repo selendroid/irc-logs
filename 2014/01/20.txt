@@ -26,3 +26,4 @@
 [2014-01-20 16:43:41] martink_, joining. (#selendroid)
 [2014-01-20 16:51:01] sagallv, quitting. (Ping timeout: 248 seconds)
 [2014-01-20 16:51:05] ludoed, quitting. (Ping timeout: 252 seconds)
+[2014-01-20 17:00:05] oskoryk, joining. (#selendroid)
