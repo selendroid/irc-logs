@@ -22,3 +22,5 @@
 [2014-01-20 16:31:42] smccarthy, joining. (#selendroid)
 [2014-01-20 16:32:33] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-01-20 16:34:04] simonstewart: Which appear to be cut-and-pasted from each other
+[2014-01-20 16:43:09] ludoed, joining. (#selendroid)
+[2014-01-20 16:43:41] martink_, joining. (#selendroid)
