@@ -11,3 +11,4 @@
 [2014-01-20 14:51:15] oskoryk, quitting. (Remote host closed the connection)
 [2014-01-20 14:55:25] oskoryk_, joining. (#selendroid)
 [2014-01-20 15:06:52] oskoryk_, quitting. (Remote host closed the connection)
+[2014-01-20 15:14:11] oskoryk, joining. (#selendroid)
