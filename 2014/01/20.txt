@@ -42,3 +42,4 @@
 [2014-01-20 19:24:48] selendroid-git: selendroid/master da71d95 Simon Stewart: Introduce an abstraction for sending motion events....
 [2014-01-20 19:24:48] selendroid-git: selendroid/master 05ac434 Simon Stewart: Code clean up. No logical changes.
 [2014-01-20 19:24:49] selendroid-git, leaving. (#selendroid)
+[2014-01-20 19:53:28] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
