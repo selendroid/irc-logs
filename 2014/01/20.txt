@@ -31,3 +31,7 @@
 [2014-01-20 17:29:34] oskoryk, joining. (#selendroid)
 [2014-01-20 17:52:36] patronat, joining. (#selendroid)
 [2014-01-20 18:10:17] patronat, quitting. (Ping timeout: 252 seconds)
+[2014-01-20 18:17:49] selendroid-git, joining. (#selendroid)
+[2014-01-20 18:17:50] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/BUWUcQ
+[2014-01-20 18:17:50] selendroid-git: selendroid/master 3bb21bd Simon Stewart: Force all keyboard events to go through the KeySender
+[2014-01-20 18:17:50] selendroid-git, leaving. (#selendroid)
