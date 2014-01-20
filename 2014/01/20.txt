@@ -28,3 +28,4 @@
 [2014-01-20 16:51:05] ludoed, quitting. (Ping timeout: 252 seconds)
 [2014-01-20 17:00:05] oskoryk, joining. (#selendroid)
 [2014-01-20 17:14:07] oskoryk, quitting. (Remote host closed the connection)
+[2014-01-20 17:29:34] oskoryk, joining. (#selendroid)
