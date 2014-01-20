@@ -30,3 +30,4 @@
 [2014-01-20 17:14:07] oskoryk, quitting. (Remote host closed the connection)
 [2014-01-20 17:29:34] oskoryk, joining. (#selendroid)
 [2014-01-20 17:52:36] patronat, joining. (#selendroid)
+[2014-01-20 18:10:17] patronat, quitting. (Ping timeout: 252 seconds)
