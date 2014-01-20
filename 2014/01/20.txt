@@ -3,3 +3,4 @@
 [2014-01-20 06:26:21] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-20 06:48:38] freynaud, joining. (#selendroid)
 [2014-01-20 06:49:44] freynaud, quitting. (Client Quit)
+[2014-01-20 11:53:18] oskoryk, joining. (#selendroid)
