@@ -36,3 +36,9 @@
 [2014-01-20 18:17:50] selendroid-git: selendroid/master 3bb21bd Simon Stewart: Force all keyboard events to go through the KeySender
 [2014-01-20 18:17:50] selendroid-git, leaving. (#selendroid)
 [2014-01-20 18:22:45] simonstewart, quitting. (Ping timeout: 272 seconds)
+[2014-01-20 19:24:48] selendroid-git, joining. (#selendroid)
+[2014-01-20 19:24:48] selendroid-git: [selendroid] shs96c pushed 3 new commits to master: http://git.io/z5WFAg
+[2014-01-20 19:24:48] selendroid-git: selendroid/master 464d640 Simon Stewart: Make KeySender an interface....
+[2014-01-20 19:24:48] selendroid-git: selendroid/master da71d95 Simon Stewart: Introduce an abstraction for sending motion events....
+[2014-01-20 19:24:48] selendroid-git: selendroid/master 05ac434 Simon Stewart: Code clean up. No logical changes.
+[2014-01-20 19:24:49] selendroid-git, leaving. (#selendroid)
