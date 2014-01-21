@@ -3,3 +3,4 @@
 [2014-01-21 02:12:11] jlipps, quitting. (Quit: Leaving.)
 [2014-01-21 05:41:05] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-21 12:48:19] martink_, joining. (#selendroid)
+[2014-01-21 13:23:01] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
