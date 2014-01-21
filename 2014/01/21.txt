@@ -12,3 +12,4 @@
 [2014-01-21 14:30:25] jlipps, quitting. (Client Quit)
 [2014-01-21 16:51:12] smccarthy, joining. (#selendroid)
 [2014-01-21 17:58:46] lukeis, joining. (#selendroid)
+[2014-01-21 18:30:47] jlipps, joining. (#selendroid)
