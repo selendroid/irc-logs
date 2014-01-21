@@ -6,3 +6,4 @@
 [2014-01-21 13:23:01] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-01-21 13:50:02] martink_, joining. (#selendroid)
 [2014-01-21 14:05:11] martink_, quitting. (Ping timeout: 272 seconds)
+[2014-01-21 14:14:56] jlipps, joining. (#selendroid)
