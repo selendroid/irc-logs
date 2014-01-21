@@ -18,3 +18,4 @@
 [2014-01-21 20:41:12] freynaud, joining. (#selendroid)
 [2014-01-21 20:41:30] freynaud, quitting. (Client Quit)
 [2014-01-21 21:38:07] jlipps, quitting. (Quit: Leaving.)
+[2014-01-21 21:42:13] jlipps, joining. (#selendroid)
