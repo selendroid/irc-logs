@@ -8,3 +8,5 @@
 [2014-01-21 14:05:11] martink_, quitting. (Ping timeout: 272 seconds)
 [2014-01-21 14:14:56] jlipps, joining. (#selendroid)
 [2014-01-21 14:26:38] jlipps, quitting. (Quit: Leaving.)
+[2014-01-21 14:30:06] jlipps, joining. (#selendroid)
+[2014-01-21 14:30:25] jlipps, quitting. (Client Quit)
