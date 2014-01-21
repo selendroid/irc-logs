@@ -10,3 +10,4 @@
 [2014-01-21 14:26:38] jlipps, quitting. (Quit: Leaving.)
 [2014-01-21 14:30:06] jlipps, joining. (#selendroid)
 [2014-01-21 14:30:25] jlipps, quitting. (Client Quit)
+[2014-01-21 16:51:12] smccarthy, joining. (#selendroid)
