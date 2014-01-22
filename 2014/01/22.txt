@@ -18,3 +18,5 @@
 [2014-01-22 18:57:21] smccarthy, joining. (#selendroid)
 [2014-01-22 21:52:04] freynaud, joining. (#selendroid)
 [2014-01-22 21:54:52] freynaud__, joining. (#selendroid)
+[2014-01-22 21:55:50] freynaud__, leaving. (#selendroid)
+[2014-01-22 21:58:20] freynaud, quitting. (Ping timeout: 245 seconds)
