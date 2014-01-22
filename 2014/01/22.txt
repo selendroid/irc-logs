@@ -10,3 +10,4 @@
 [2014-01-22 17:31:37] guest0815, joining. (#selendroid)
 [2014-01-22 17:32:14] lukeis, joining. (#selendroid)
 [2014-01-22 17:33:13] lukeis: :seen ddary
+[2014-01-22 17:35:23] guest0815, leaving. (#selendroid)
