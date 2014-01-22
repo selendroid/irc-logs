@@ -16,3 +16,5 @@
 [2014-01-22 18:37:03] selendroid-git: selendroid/master 83847b8 Luke Inman-Semerau: F* keys needs to be handled specially too
 [2014-01-22 18:37:03] selendroid-git, leaving. (#selendroid)
 [2014-01-22 18:57:21] smccarthy, joining. (#selendroid)
+[2014-01-22 21:52:04] freynaud, joining. (#selendroid)
+[2014-01-22 21:54:52] freynaud__, joining. (#selendroid)
