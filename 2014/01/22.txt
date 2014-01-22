@@ -15,3 +15,4 @@
 [2014-01-22 18:37:03] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/z1pn0w
 [2014-01-22 18:37:03] selendroid-git: selendroid/master 83847b8 Luke Inman-Semerau: F* keys needs to be handled specially too
 [2014-01-22 18:37:03] selendroid-git, leaving. (#selendroid)
+[2014-01-22 18:57:21] smccarthy, joining. (#selendroid)
