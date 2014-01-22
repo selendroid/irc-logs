@@ -11,3 +11,7 @@
 [2014-01-22 17:32:14] lukeis, joining. (#selendroid)
 [2014-01-22 17:33:13] lukeis: :seen ddary
 [2014-01-22 17:35:23] guest0815, leaving. (#selendroid)
+[2014-01-22 18:37:02] selendroid-git, joining. (#selendroid)
+[2014-01-22 18:37:03] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/z1pn0w
+[2014-01-22 18:37:03] selendroid-git: selendroid/master 83847b8 Luke Inman-Semerau: F* keys needs to be handled specially too
+[2014-01-22 18:37:03] selendroid-git, leaving. (#selendroid)
