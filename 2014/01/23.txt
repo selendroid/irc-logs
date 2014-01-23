@@ -6,3 +6,4 @@
 [2014-01-23 07:46:22] selendroid-git: selendroid/master c53ad5c Luke Inman-Semerau: adding -noClearData option to avoid calling shell pm clear on app...
 [2014-01-23 07:46:22] selendroid-git, leaving. (#selendroid)
 [2014-01-23 08:04:37] ddary, joining. (#selendroid)
+[2014-01-23 08:08:17] ddary: :spec
