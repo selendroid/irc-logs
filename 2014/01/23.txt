@@ -41,3 +41,12 @@
 [2014-01-23 16:54:10] AdrienG, joining. (#selendroid)
 [2014-01-23 16:54:24] AdrienG: Hello !
 [2014-01-23 16:54:57] AdrienG: I have encountered a problem with selendroid standalone server, is there anyone here to help me ?
+[2014-01-23 16:55:09] ddary: hello
+[2014-01-23 16:55:14] ddary: was is your issue?
+[2014-01-23 16:55:35] AdrienG: After test execution the server crashes with the folowing exception :
+[2014-01-23 16:56:01] AdrienG: WebkitException : cannot send more responses than requests on
+[2014-01-23 16:56:25] AdrienG: It's looping and leaking memory I think :/
+[2014-01-23 16:57:02] ddary: can you try to use this snapshot version of the standalone server:
+[2014-01-23 16:57:03] ddary: http://ci.selendroid.io/job/selendroid/ws/selendroid-standalone/target/
+[2014-01-23 16:57:09] ddary: that should fix that issue
+[2014-01-23 16:57:37] AdrienG: Gonna try right away ! Thanks
