@@ -66,3 +66,6 @@
 [2014-01-23 17:14:44] ddary: hi lukeis
 [2014-01-23 17:15:23] ddary: spent to much time today with jenkins - so had no time to look into the touch actions stuff
 [2014-01-23 17:16:41] ddary__, leaving. (#selendroid)
+[2014-01-23 17:25:12] AdrienG, joining. (#selendroid)
+[2014-01-23 17:25:12] lukeis: that happens to me more often than i like too :(
+[2014-01-23 17:28:23] lukeis: ddary: also http://ci.selendroid.io/job/selendroid/ isn't trigger automatically (and I don't have perms or an account there yet to help look at the job configuration)
