@@ -73,3 +73,11 @@
 [2014-01-23 18:19:07] ddary, quitting. (Quit: ddary)
 [2014-01-23 20:18:26] lukeis, joining. (#selendroid)
 [2014-01-23 21:01:25] AdrienG, quitting. (Ping timeout: 272 seconds)
+[2014-01-23 21:26:50] ddary, joining. (#selendroid)
+[2014-01-23 21:27:01] ddary: hi lukeis
+[2014-01-23 21:27:07] lukeis: hi
+[2014-01-23 21:27:16] ddary: you should now how full access to CI
+[2014-01-23 21:27:24] lukeis: do i have a login?
+[2014-01-23 21:27:26] ddary: if you sign in as luke.semerai
+[2014-01-23 21:27:36] lukeis: i? or a u at the end?
+[2014-01-23 21:28:06] lukeis: (semerau is the name… well, half of my last name)
