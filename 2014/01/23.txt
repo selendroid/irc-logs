@@ -37,3 +37,7 @@
 [2014-01-23 16:44:09] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/mrbOIg
 [2014-01-23 16:44:09] selendroid-git: selendroid/master c0d352f Dominik Dary: adding new logo to test app.
 [2014-01-23 16:44:09] selendroid-git, leaving. (#selendroid)
+[2014-01-23 16:53:25] smccarthy, joining. (#selendroid)
+[2014-01-23 16:54:10] AdrienG, joining. (#selendroid)
+[2014-01-23 16:54:24] AdrienG: Hello !
+[2014-01-23 16:54:57] AdrienG: I have encountered a problem with selendroid standalone server, is there anyone here to help me ?
