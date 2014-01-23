@@ -1,2 +1,7 @@
 [2014-01-23 01:05:00] lukeis, quitting. (Quit: Leaving.)
 [2014-01-23 06:20:55] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-23 07:46:21] selendroid-git, joining. (#selendroid)
+[2014-01-23 07:46:22] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/8q7Gkg
+[2014-01-23 07:46:22] selendroid-git: selendroid/master 9487eba Luke Inman-Semerau: slight refactor to reduce lines of code, no logical changes
+[2014-01-23 07:46:22] selendroid-git: selendroid/master c53ad5c Luke Inman-Semerau: adding -noClearData option to avoid calling shell pm clear on app...
+[2014-01-23 07:46:22] selendroid-git, leaving. (#selendroid)
