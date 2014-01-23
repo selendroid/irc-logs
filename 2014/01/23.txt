@@ -55,3 +55,10 @@
 [2014-01-23 17:02:57] AdrienG: Error: Invalid or corrupt jarfile D:\Dev\Selendroid\selendroid-standalone-0.8.0-SNAPSHOT-with-dependencies.jar
 [2014-01-23 17:03:10] AdrienG: Gonna redownload and retry
 [2014-01-23 17:04:01] ddary: i try as well
+[2014-01-23 17:05:04] AdrienG: If I try to open with Winrar I get the error message :
+[2014-01-23 17:05:04] AdrienG: !   D:\Dev\Selendroid\selendroid-standalone-0.8.0-SNAPSHOT-with-dependencies.jar: Fin de l'archive incorrecte
+[2014-01-23 17:05:25] AdrienG: Translation : Incorrect end of archive
+[2014-01-23 17:06:34] ddary: I just downloaded it and was able to start the server via: java -jar selendroid-standalone-0.8.0-SNAPSHOT-with-dependencies.jar
+[2014-01-23 17:07:17] AdrienG: Hmm, ok, the problem is on my side, will investigate, thanks for your time again !
+[2014-01-23 17:08:05] lukeis, joining. (#selendroid)
+[2014-01-23 17:08:36] lukeis: hiya ddary__ wb ;)
