@@ -72,3 +72,4 @@
 [2014-01-23 18:10:46] lukeis, quitting. (Quit: Leaving.)
 [2014-01-23 18:19:07] ddary, quitting. (Quit: ddary)
 [2014-01-23 20:18:26] lukeis, joining. (#selendroid)
+[2014-01-23 21:01:25] AdrienG, quitting. (Ping timeout: 272 seconds)
