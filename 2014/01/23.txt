@@ -64,3 +64,5 @@
 [2014-01-23 17:08:36] lukeis: hiya ddary__ wb ;)
 [2014-01-23 17:14:41] AdrienG, quitting. (Ping timeout: 272 seconds)
 [2014-01-23 17:14:44] ddary: hi lukeis
+[2014-01-23 17:15:23] ddary: spent to much time today with jenkins - so had no time to look into the touch actions stuff
+[2014-01-23 17:16:41] ddary__, leaving. (#selendroid)
