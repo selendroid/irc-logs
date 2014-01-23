@@ -8,3 +8,13 @@
 [2014-01-23 08:04:37] ddary, joining. (#selendroid)
 [2014-01-23 08:08:17] ddary: :spec
 [2014-01-23 08:18:45] ddary, quitting. (Ping timeout: 245 seconds)
+[2014-01-23 08:45:51] selendroid-git, joining. (#selendroid)
+[2014-01-23 08:45:52] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/YgeiQA
+[2014-01-23 08:45:52] selendroid-git: selendroid/master 7cd6b40 Miro Barsocchi: Update SessionCookieManager.java...
+[2014-01-23 08:45:52] selendroid-git: selendroid/master 974b71e Dominik Dary: Merge pull request #225 from mbarsocchi/patch-1...
+[2014-01-23 08:45:52] selendroid-git, leaving. (#selendroid)
+[2014-01-23 08:46:01] selendroid-git, joining. (#selendroid)
+[2014-01-23 08:46:02] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/ZEssdA
+[2014-01-23 08:46:02] selendroid-git: selendroid/master d27a109 Miro Barsocchi: Update CookieHandlerTest.java...
+[2014-01-23 08:46:02] selendroid-git: selendroid/master 64b9891 Dominik Dary: Merge pull request #226 from mbarsocchi/patch-2...
+[2014-01-23 08:46:02] selendroid-git, leaving. (#selendroid)
