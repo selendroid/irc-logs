@@ -50,3 +50,8 @@
 [2014-01-23 16:57:03] ddary: http://ci.selendroid.io/job/selendroid/ws/selendroid-standalone/target/
 [2014-01-23 16:57:09] ddary: that should fix that issue
 [2014-01-23 16:57:37] AdrienG: Gonna try right away ! Thanks
+[2014-01-23 17:00:10] ddary: welcome
+[2014-01-23 17:02:55] AdrienG: Ouch I get an error :
+[2014-01-23 17:02:57] AdrienG: Error: Invalid or corrupt jarfile D:\Dev\Selendroid\selendroid-standalone-0.8.0-SNAPSHOT-with-dependencies.jar
+[2014-01-23 17:03:10] AdrienG: Gonna redownload and retry
+[2014-01-23 17:04:01] ddary: i try as well
