@@ -24,3 +24,7 @@
 [2014-01-23 08:56:15] selendroid-git, leaving. (#selendroid)
 [2014-01-23 10:42:39] ddary__, joining. (#selendroid)
 [2014-01-23 10:43:02] ddary__: :log
+[2014-01-23 11:31:58] selendroid-git, joining. (#selendroid)
+[2014-01-23 11:31:59] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/mBxBfQ
+[2014-01-23 11:31:59] selendroid-git: selendroid/master ab3228e Dominik Dary: Update changelog.md
+[2014-01-23 11:31:59] selendroid-git, leaving. (#selendroid)
