@@ -33,3 +33,7 @@
 [2014-01-23 16:35:05] selendroid-git: [selendroid] DominikDary created orientation (+1 new commit): http://git.io/s41kQQ
 [2014-01-23 16:35:05] selendroid-git: selendroid/orientation 6fc8b20 Dominik Dary: Adding implementation for setting the orientation. Works fine, but it works only on the current activity.
 [2014-01-23 16:35:05] selendroid-git, leaving. (#selendroid)
+[2014-01-23 16:44:09] selendroid-git, joining. (#selendroid)
+[2014-01-23 16:44:09] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/mrbOIg
+[2014-01-23 16:44:09] selendroid-git: selendroid/master c0d352f Dominik Dary: adding new logo to test app.
+[2014-01-23 16:44:09] selendroid-git, leaving. (#selendroid)
