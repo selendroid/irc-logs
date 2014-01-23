@@ -62,3 +62,5 @@
 [2014-01-23 17:07:17] AdrienG: Hmm, ok, the problem is on my side, will investigate, thanks for your time again !
 [2014-01-23 17:08:05] lukeis, joining. (#selendroid)
 [2014-01-23 17:08:36] lukeis: hiya ddary__ wb ;)
+[2014-01-23 17:14:41] AdrienG, quitting. (Ping timeout: 272 seconds)
+[2014-01-23 17:14:44] ddary: hi lukeis
