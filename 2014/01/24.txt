@@ -9,3 +9,4 @@
 [2014-01-24 10:00:24] ddary_, joining. (#selendroid)
 [2014-01-24 10:06:04] ddary, quitting. (Quit: ddary)
 [2014-01-24 10:06:05] ddary_, changing nick to ddary.
+[2014-01-24 13:13:38] ddary, quitting. (Quit: ddary)
