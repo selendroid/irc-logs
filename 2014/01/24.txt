@@ -35,3 +35,4 @@
 [2014-01-24 22:53:09] lukeis, quitting. (Quit: Leaving.)
 [2014-01-24 23:00:14] lukeis, joining. (#selendroid)
 [2014-01-24 23:02:07] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-24 23:09:40] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
