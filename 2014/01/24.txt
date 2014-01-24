@@ -23,3 +23,5 @@
 [2014-01-24 16:25:50] ddary, quitting. (Quit: ddary)
 [2014-01-24 16:26:40] jlipps, joining. (#selendroid)
 [2014-01-24 16:55:51] smccarthy, joining. (#selendroid)
+[2014-01-24 17:20:11] jlipps, quitting. (Quit: Leaving.)
+[2014-01-24 17:23:24] smccarthy2, joining. (#selendroid)
