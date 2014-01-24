@@ -19,3 +19,4 @@
 [2014-01-24 14:49:09] ddary: :note lukeis we should get this release 0.8.0 out. this webbit error annoys me ;-) All people I told they should use the new one told me it works. do you want to try to push the release? I'm fine to do it as well, but I would find it good, if you did it at least one time
 [2014-01-24 14:50:39] ddary, quitting. (Quit: ddary)
 [2014-01-24 14:51:25] AutomatedTester, joining. (#selendroid)
+[2014-01-24 15:46:08] ddary, joining. (#selendroid)
