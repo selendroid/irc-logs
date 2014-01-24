@@ -29,3 +29,5 @@
 [2014-01-24 17:42:35] smccarthy2, quitting. (Remote host closed the connection)
 [2014-01-24 17:43:11] smccarthy, joining. (#selendroid)
 [2014-01-24 18:14:53] jlipps, joining. (#selendroid)
+[2014-01-24 18:18:08] lukeis, joining. (#selendroid)
+[2014-01-24 18:19:26] lukeis: :note ddary I have not yet taken the time to get access to push to maven central for selendroid. I would like a new release soon too, so I'm fine with you doing it now and I'll try to go through the motions so I can do it in the future
