@@ -3,3 +3,4 @@
 [2014-01-24 03:42:47] jlipps, joining. (#selendroid)
 [2014-01-24 04:34:59] jlipps, quitting. (Quit: Leaving.)
 [2014-01-24 06:08:39] smccarthy, quitting. (Remote host closed the connection)
+[2014-01-24 07:54:00] ddary, joining. (#selendroid)
