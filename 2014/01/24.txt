@@ -14,3 +14,4 @@
 [2014-01-24 13:30:53] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/YwmxKQ
 [2014-01-24 13:30:53] selendroid-git: selendroid/master 7e1a057 Dominik Dary: fixing typos and cleaning imports. no logical change.
 [2014-01-24 13:30:53] selendroid-git, leaving. (#selendroid)
+[2014-01-24 14:37:42] ddary, joining. (#selendroid)
