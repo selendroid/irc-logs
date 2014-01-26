@@ -1,0 +1,4 @@
+[2014-01-26 07:20:56] selendroid-git, joining. (#selendroid)
+[2014-01-26 07:20:56] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/IpYi4w
+[2014-01-26 07:20:56] selendroid-git: selendroid/master 7b4ba70 Luke Inman-Semerau: if trying to click on a webelement in a frame, use synthetic events as it is not easy to calculate the location of the element if there are nested frames...
+[2014-01-26 07:20:56] selendroid-git, leaving. (#selendroid)
