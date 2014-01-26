@@ -6,3 +6,4 @@
 [2014-01-26 08:24:01] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/ZCIO6g
 [2014-01-26 08:24:01] selendroid-git: selendroid/master f064a0a Luke Inman-Semerau: adding test for clicking element in frame...
 [2014-01-26 08:24:01] selendroid-git, leaving. (#selendroid)
+[2014-01-26 08:44:20] smccarthy, quitting. (Remote host closed the connection)
