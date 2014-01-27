@@ -81,3 +81,9 @@
 [2014-01-27 18:30:36] ddary: I'm fine to change that
 [2014-01-27 18:32:08] lukeis: hmm, i appear to have done that… and I don't recall exactly why
 [2014-01-27 18:33:01] lukeis: but that is the likely cause of the last test I checked in's failure
+[2014-01-27 18:36:57] ddary: going offline now. have a good evening /day!
+[2014-01-27 18:37:07] ddary, leaving. (#selendroid)
+[2014-01-27 18:38:52] selendroid-git, joining. (#selendroid)
+[2014-01-27 18:38:52] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/li314Q
+[2014-01-27 18:38:52] selendroid-git: selendroid/master 19ea66e Luke Inman-Semerau: correcting my name / username in pom - authors
+[2014-01-27 18:38:52] selendroid-git, leaving. (#selendroid)
