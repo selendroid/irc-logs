@@ -22,3 +22,12 @@
 [2014-01-27 12:24:21] ddary: yeah, have seen that
 [2014-01-27 12:24:52] simonstewart: We're aiming to increase the speed of tests by reducing the number of "wait until idles"
 [2014-01-27 12:24:59] simonstewart: It'll take a while
+[2014-01-27 12:25:13] simonstewart: But we'll get there.
+[2014-01-27 12:25:24] simonstewart: Some questions about AndroidServlet, if you have time?
+[2014-01-27 12:25:36] ddary: with regards to the touch events we have this one open #213
+[2014-01-27 12:25:57] ddary: https://github.com/selendroid/selendroid/issues/213
+[2014-01-27 12:26:13] simonstewart: scrolling is also fairly janky
+[2014-01-27 12:26:22] ddary: currently not that much time. After 2pm CET i have time
+[2014-01-27 12:26:47] ddary: would that work for you?
+[2014-01-27 12:26:53] simonstewart: Sure
+[2014-01-27 12:27:46] ddary: ok
