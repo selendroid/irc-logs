@@ -113,3 +113,4 @@
 [2014-01-27 19:48:06] simonstewart: (go take a look)
 [2014-01-27 19:48:12] simonstewart: But this way we have more control
 [2014-01-27 19:53:06] simonstewart, leaving. (#selendroid)
+[2014-01-27 21:00:36] smccarthy, quitting. (Remote host closed the connection)
