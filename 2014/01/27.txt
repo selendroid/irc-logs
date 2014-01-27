@@ -46,3 +46,4 @@
 [2014-01-27 12:46:17] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/eyiroQ
 [2014-01-27 12:46:17] selendroid-git: selendroid/master e89306b Simon Stewart: Make the returned SelendroidResponse exception match the requirements of the RemoteWebDriver....
 [2014-01-27 12:46:17] selendroid-git, leaving. (#selendroid)
+[2014-01-27 13:02:35] ddary, quitting. (Ping timeout: 260 seconds)
