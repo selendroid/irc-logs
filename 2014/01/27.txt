@@ -91,3 +91,4 @@
 [2014-01-27 19:29:56] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/7hyhDQ
 [2014-01-27 19:29:56] selendroid-git: selendroid/master 1c766d2 skorknure: Added facilities to inject base-level UI operations with more advanced synchronization...
 [2014-01-27 19:29:56] selendroid-git, leaving. (#selendroid)
+[2014-01-27 19:31:09] simonstewart: OK. That's the change that lets us spot the AUT crashing
