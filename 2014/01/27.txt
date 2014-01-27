@@ -2,3 +2,7 @@
 [2014-01-27 06:03:53] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-27 07:51:29] ddary, joining. (#selendroid)
 [2014-01-27 09:26:02] ddary, quitting. (Ping timeout: 264 seconds)
+[2014-01-27 10:29:53] selendroid-git, joining. (#selendroid)
+[2014-01-27 10:29:53] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vE4kWA
+[2014-01-27 10:29:53] selendroid-git: selendroid/master fb38523 Dominik Dary: Use a wait until the server on the device is started in the e-2-e tests.
+[2014-01-27 10:29:53] selendroid-git, leaving. (#selendroid)
