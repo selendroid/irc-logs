@@ -78,3 +78,6 @@
 [2014-01-27 18:27:50] simonstewart: But there's a specific check for it
 [2014-01-27 18:29:13] ddary: :spec
 [2014-01-27 18:30:01] ddary: error code must be 10
+[2014-01-27 18:30:36] ddary: I'm fine to change that
+[2014-01-27 18:32:08] lukeis: hmm, i appear to have done that… and I don't recall exactly why
+[2014-01-27 18:33:01] lukeis: but that is the likely cause of the last test I checked in's failure
