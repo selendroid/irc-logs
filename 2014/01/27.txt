@@ -31,3 +31,13 @@
 [2014-01-27 12:26:47] ddary: would that work for you?
 [2014-01-27 12:26:53] simonstewart: Sure
 [2014-01-27 12:27:46] ddary: ok
+[2014-01-27 12:37:27] simonstewart: ddary: just pushed two diffs
+[2014-01-27 12:37:37] selendroid-git, joining. (#selendroid)
+[2014-01-27 12:37:38] selendroid-git: [selendroid] shs96c pushed 2 new commits to master: http://git.io/s0VQ_A
+[2014-01-27 12:37:38] selendroid-git: selendroid/master f455f2a Simon Stewart: Correct spelling in error message. No logical change.
+[2014-01-27 12:37:38] selendroid-git: selendroid/master 46d2ebf Simon Stewart: Correctly capitalize "stackTrace" so that responses now print them out.
+[2014-01-27 12:37:38] selendroid-git, leaving. (#selendroid)
+[2014-01-27 12:37:43] simonstewart: The second one will mean that exceptions thrown by selendroid will properly contain stack traces.
+[2014-01-27 12:37:45] simonstewart: Which is nice
+[2014-01-27 12:38:04] ddary: very nice!
+[2014-01-27 12:38:14] ddary: will have a look later
