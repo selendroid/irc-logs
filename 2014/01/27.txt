@@ -47,3 +47,5 @@
 [2014-01-27 12:46:17] selendroid-git: selendroid/master e89306b Simon Stewart: Make the returned SelendroidResponse exception match the requirements of the RemoteWebDriver....
 [2014-01-27 12:46:17] selendroid-git, leaving. (#selendroid)
 [2014-01-27 13:02:35] ddary, quitting. (Ping timeout: 260 seconds)
+[2014-01-27 14:12:46] ddary, joining. (#selendroid)
+[2014-01-27 14:13:54] ddary: Hi simonstewart, now I have time
