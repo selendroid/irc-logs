@@ -56,3 +56,15 @@
 [2014-01-27 16:58:05] smccarthy, joining. (#selendroid)
 [2014-01-27 17:25:27] lukeis, joining. (#selendroid)
 [2014-01-27 17:27:57] ddary, joining. (#selendroid)
+[2014-01-27 18:20:19] lukeis: ddary: thanks for correcting that test launch waiter bit :)
+[2014-01-27 18:21:05] *lukeis always worried to see simonstewart touch the code ;)'
+[2014-01-27 18:21:20] lukeis: :whobrokeit  ?
+[2014-01-27 18:21:21] ddary: lukeis: welcome, I needed that part as well and implemented it already for running it in ci
+[2014-01-27 18:21:48] lukeis: ahh, selendroidbot__ doesn't have whobrokeit ;)
+[2014-01-27 18:22:03] ddary: yeah, need to update it at some time
+[2014-01-27 18:22:26] lukeis: well, at least you could poll ci ;)
+[2014-01-27 18:22:43] lukeis: we could probably do that for selenium too… but it would be complicated
+[2014-01-27 18:23:56] ddary: the issue is, that our ci server cannot run emulators
+[2014-01-27 18:24:26] ddary: i don't know yet the details, but the virtualization platform has some limitations
+[2014-01-27 18:24:53] lukeis: well… if we made a deal with the devil, i'm sure we could run them in saucelabs :)
+[2014-01-27 18:25:00] ddary: :)
