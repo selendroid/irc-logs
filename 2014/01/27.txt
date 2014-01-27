@@ -52,3 +52,4 @@
 [2014-01-27 15:09:41] simonstewart, quitting. (Ping timeout: 248 seconds)
 [2014-01-27 15:35:59] simonstewart, joining. (#selendroid)
 [2014-01-27 16:12:09] AutomatedTester, joining. (#selendroid)
+[2014-01-27 16:24:15] ddary, leaving. (#selendroid)
