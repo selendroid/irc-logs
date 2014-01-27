@@ -68,3 +68,13 @@
 [2014-01-27 18:24:26] ddary: i don't know yet the details, but the virtualization platform has some limitations
 [2014-01-27 18:24:53] lukeis: well… if we made a deal with the devil, i'm sure we could run them in saucelabs :)
 [2014-01-27 18:25:00] ddary: :)
+[2014-01-27 18:25:46] lukeis: I'll bring it up with jlipps next time i see him about
+[2014-01-27 18:26:09] simonstewart: lukeis: It's okay
+[2014-01-27 18:26:30] simonstewart: ddary: I've some questions about AndroidServlet
+[2014-01-27 18:27:07] simonstewart: In "handleRequest" it currently takes a StaleElementReferenceException and returns it as a unknown excpetion (type 13)
+[2014-01-27 18:27:35] ddary: that sounds wrong, right
+[2014-01-27 18:27:37] ddary: ?
+[2014-01-27 18:27:42] simonstewart: Yeah. That looks odd
+[2014-01-27 18:27:50] simonstewart: But there's a specific check for it
+[2014-01-27 18:29:13] ddary: :spec
+[2014-01-27 18:30:01] ddary: error code must be 10
