@@ -98,3 +98,17 @@
 [2014-01-27 19:44:33] simonstewart: Meh
 [2014-01-27 19:44:46] simonstewart: I just ran that change with all the tests at facebook and the selendroid ones
 [2014-01-27 19:44:49] simonstewart: I think it's solid
+[2014-01-27 19:45:02] simonstewart: You may want to check with the SalesForce suites
+[2014-01-27 19:45:26] lukeis: will do
+[2014-01-27 19:45:37] lukeis: UiThreadController  also is missing the copyright header
+[2014-01-27 19:45:46] simonstewart: There are no lint checks
+[2014-01-27 19:45:55] simonstewart: This manual linting sounds good, though
+[2014-01-27 19:45:56] *lukeis is the manual linter ;)'
+[2014-01-27 19:46:24] *lukeis still trying to grok exactly what you guys have done here ;)'
+[2014-01-27 19:46:48] simonstewart: Replaced the normal instruementation injection with one where we control the message processing
+[2014-01-27 19:47:01] simonstewart: That allows us to catch the exception when an input causes the app to crash
+[2014-01-27 19:47:07] simonstewart: And propogate it
+[2014-01-27 19:47:28] lukeis: hmm, ok
+[2014-01-27 19:48:02] simonstewart: Under the covers, we're basically doing what Instrumentation does
+[2014-01-27 19:48:06] simonstewart: (go take a look)
+[2014-01-27 19:48:12] simonstewart: But this way we have more control
