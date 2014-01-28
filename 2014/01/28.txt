@@ -13,3 +13,14 @@
 [2014-01-28 17:22:29] ddary, joining. (#selendroid)
 [2014-01-28 17:23:46] lukeis, joining. (#selendroid)
 [2014-01-28 17:24:39] lukeis: ddary: that's correct
+[2014-01-28 17:25:07] lukeis: but the example in java should be about the same… new Actions(driver).sendKeys(…..).perform();
+[2014-01-28 17:25:09] ddary: lukeis: Hi, thanks for letting me know, then I can add it to the documentation#
+[2014-01-28 17:25:22] lukeis: driver.getKeyboard() <- is supposed to be an internal class
+[2014-01-28 17:25:37] ddary: with the remote driver that works fine ;-)
+[2014-01-28 17:25:47] ddary: and ruby as well
+[2014-01-28 17:25:48] lukeis: yes, only because you use the concrete class
+[2014-01-28 17:25:57] lukeis: WebDriver interface does not expose the keyboard
+[2014-01-28 17:25:59] ddary: k
+[2014-01-28 17:26:22] lukeis: ruby can also do the Action way
+[2014-01-28 17:26:29] lukeis: (it's recommended :) )
+[2014-01-28 17:27:03] lukeis: the action api won't be changing it's interface… while the underlying keyboards could :) (but really they won't...)
