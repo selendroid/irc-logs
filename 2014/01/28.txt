@@ -5,3 +5,5 @@
 [2014-01-28 08:41:49] ddary, quitting. (Ping timeout: 252 seconds)
 [2014-01-28 09:53:13] ddary, joining. (#selendroid)
 [2014-01-28 10:24:47] ddary: :note lukeis Sending in python special keys looks a bit verbose compared to Java: https://gist.github.com/DominikDary/8664538 Do I miss something?
+[2014-01-28 10:57:01] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2014-01-28 10:58:21] ddary, joining. (#selendroid)
