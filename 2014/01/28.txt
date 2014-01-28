@@ -28,3 +28,7 @@
 [2014-01-28 17:52:43] ddary, quitting. (Quit: ddary)
 [2014-01-28 18:03:33] simonstewart, quitting. (Ping timeout: 248 seconds)
 [2014-01-28 18:50:25] lukeis: :note simonstewart the change yesterday is causing us to add INJECT_EVENTS to our app's androidmanifest, do you guys already have that in there for permissions?
+[2014-01-28 19:00:39] selendroid-git, joining. (#selendroid)
+[2014-01-28 19:00:40] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/3Cq7wg
+[2014-01-28 19:00:40] selendroid-git: selendroid/master 3003e92 Luke Inman-Semerau: an illegal state can happen due to line AndroidNativeElement.getView()...
+[2014-01-28 19:00:40] selendroid-git, leaving. (#selendroid)
