@@ -10,3 +10,6 @@
 [2014-01-28 14:35:32] simonstewart, joining. (#selendroid)
 [2014-01-28 16:57:27] smccarthy, joining. (#selendroid)
 [2014-01-28 17:16:46] ddary, quitting. (Ping timeout: 252 seconds)
+[2014-01-28 17:22:29] ddary, joining. (#selendroid)
+[2014-01-28 17:23:46] lukeis, joining. (#selendroid)
+[2014-01-28 17:24:39] lukeis: ddary: that's correct
