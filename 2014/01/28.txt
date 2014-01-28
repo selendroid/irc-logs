@@ -27,3 +27,4 @@
 [2014-01-28 17:36:25] ddary: yeah, you are right :)
 [2014-01-28 17:52:43] ddary, quitting. (Quit: ddary)
 [2014-01-28 18:03:33] simonstewart, quitting. (Ping timeout: 248 seconds)
+[2014-01-28 18:50:25] lukeis: :note simonstewart the change yesterday is causing us to add INJECT_EVENTS to our app's androidmanifest, do you guys already have that in there for permissions?
