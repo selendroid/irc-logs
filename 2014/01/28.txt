@@ -25,3 +25,4 @@
 [2014-01-28 17:26:29] lukeis: (it's recommended :) )
 [2014-01-28 17:27:03] lukeis: the action api won't be changing it's interface… while the underlying keyboards could :) (but really they won't...)
 [2014-01-28 17:36:25] ddary: yeah, you are right :)
+[2014-01-28 17:52:43] ddary, quitting. (Quit: ddary)
