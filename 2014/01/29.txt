@@ -86,3 +86,14 @@
 [2014-01-29 14:24:12] ddary: you mean that is part of the github buck?
 [2014-01-29 14:24:27] simonstewart: We also spend time pairing with teams that are just adopting the framework
 [2014-01-29 14:24:46] simonstewart: The changes to buck? Yes, the ones on github
+[2014-01-29 14:25:52] ddary: ok, will have a look there
+[2014-01-29 14:25:57] simonstewart: Working through some new ideas in our test code too. Once they look good, I'll ask to talk about them publicly
+[2014-01-29 14:26:24] ddary: i have seen users that are coming from robotium and that have issues to get started with selendroid.
+[2014-01-29 14:27:16] ddary: the issue was e.g. that they don't know how webdriver works and then they are looking for documentation in selendroid that is just webdriver basic stuff and I don't want to repeat stuff
+[2014-01-29 14:27:46] simonstewart: Point them at the webdriver docs
+[2014-01-29 14:27:48] simonstewart: ?
+[2014-01-29 14:27:49] ddary: thinking about to add a "key concepts" page to the docu
+[2014-01-29 14:28:03] simonstewart: I've an "idiomatic webdriver" page on our internal docs
+[2014-01-29 14:28:07] ddary: it is too much to read
+[2014-01-29 14:28:22] simonstewart: Introduces waits, locators and the interactions api
+[2014-01-29 14:28:52] ddary: yeah, i think we need something like that in the public
