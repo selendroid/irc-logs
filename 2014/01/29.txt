@@ -97,3 +97,5 @@
 [2014-01-29 14:28:07] ddary: it is too much to read
 [2014-01-29 14:28:22] simonstewart: Introduces waits, locators and the interactions api
 [2014-01-29 14:28:52] ddary: yeah, i think we need something like that in the public
+[2014-01-29 15:00:48] simonstewart, quitting. (Quit: simonstewart)
+[2014-01-29 15:04:15] simonstewart, joining. (#selendroid)
