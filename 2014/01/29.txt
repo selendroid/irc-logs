@@ -5,3 +5,5 @@
 [2014-01-29 08:15:52] ddary, joining. (#selendroid)
 [2014-01-29 09:57:06] ddary, quitting. (Quit: ddary)
 [2014-01-29 10:09:15] ddary, joining. (#selendroid)
+[2014-01-29 10:12:28] ddary: :Spec
+[2014-01-29 10:12:31] ddary: :spec
