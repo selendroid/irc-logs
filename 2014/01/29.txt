@@ -69,3 +69,4 @@
 [2014-01-29 13:53:55] ddary: welcome
 [2014-01-29 13:54:20] ddary: in  general, if you are on a 64bit linux you have to install: sudo apt-get install ia32-libs
 [2014-01-29 13:54:56] razielsd: ok
+[2014-01-29 14:13:50] simonstewart, joining. (#selendroid)
