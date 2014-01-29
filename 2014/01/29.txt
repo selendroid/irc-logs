@@ -40,3 +40,5 @@
 [2014-01-29 13:31:03] ddary: and then you can chose as another attribute
 [2014-01-29 13:31:10] ddary: "androidTarget":"ANDROID18"
 [2014-01-29 13:32:10] ddary: just a sec, will try it at my computer
+[2014-01-29 13:35:54] ddary: so, tried it, works fine. I used this command: https://gist.github.com/DominikDary/8687010
+[2014-01-29 13:39:36] razielsd: error :( http://devtest.ru/tmp/selendroid.txt
