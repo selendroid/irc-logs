@@ -114,3 +114,4 @@
 [2014-01-29 15:55:41] ddary: sounds good
 [2014-01-29 15:56:14] ddary: do you have pointers what need to be done to enable it?
 [2014-01-29 16:31:47] razielsd, quitting. (Quit: Page closed)
+[2014-01-29 17:28:46] ddary, quitting. (Quit: ddary)
