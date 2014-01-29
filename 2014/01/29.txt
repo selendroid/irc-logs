@@ -4,3 +4,4 @@
 [2014-01-29 04:18:37] smccarthy, quitting. (Remote host closed the connection)
 [2014-01-29 08:15:52] ddary, joining. (#selendroid)
 [2014-01-29 09:57:06] ddary, quitting. (Quit: ddary)
+[2014-01-29 10:09:15] ddary, joining. (#selendroid)
