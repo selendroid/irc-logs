@@ -7,3 +7,7 @@
 [2014-01-29 10:09:15] ddary, joining. (#selendroid)
 [2014-01-29 10:12:28] ddary: :Spec
 [2014-01-29 10:12:31] ddary: :spec
+[2014-01-29 10:31:47] razielsd, joining. (#selendroid)
+[2014-01-29 10:33:25] razielsd: hello
+[2014-01-29 10:33:25] ddary, quitting. (Ping timeout: 248 seconds)
+[2014-01-29 10:34:07] razielsd: can you help me for using selendroid ?
