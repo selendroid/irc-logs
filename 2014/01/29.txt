@@ -33,3 +33,10 @@
 [2014-01-29 13:28:05] ddary: browser name-> android
 [2014-01-29 13:28:24] ddary: version -> "" (so empty)
 [2014-01-29 13:29:18] ddary: Platform ->  android
+[2014-01-29 13:30:21] razielsd: work "fine", i have new error :)
+[2014-01-29 13:30:27] ddary: the section with the emulator is wrong
+[2014-01-29 13:30:34] ddary: you have to use
+[2014-01-29 13:30:45] ddary: emulator -> can be true or false
+[2014-01-29 13:31:03] ddary: and then you can chose as another attribute
+[2014-01-29 13:31:10] ddary: "androidTarget":"ANDROID18"
+[2014-01-29 13:32:10] ddary: just a sec, will try it at my computer
