@@ -115,3 +115,4 @@
 [2014-01-29 15:56:14] ddary: do you have pointers what need to be done to enable it?
 [2014-01-29 16:31:47] razielsd, quitting. (Quit: Page closed)
 [2014-01-29 17:28:46] ddary, quitting. (Quit: ddary)
+[2014-01-29 18:53:41] simonstewart, leaving. (#selendroid)
