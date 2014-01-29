@@ -11,3 +11,5 @@
 [2014-01-29 10:33:25] razielsd: hello
 [2014-01-29 10:33:25] ddary, quitting. (Ping timeout: 248 seconds)
 [2014-01-29 10:34:07] razielsd: can you help me for using selendroid ?
+[2014-01-29 10:35:21] razielsd: can't create session, how valid parameters for desiredCapabilities ?
+[2014-01-29 10:36:04] razielsd: i'm asked here with full trace: http://stackoverflow.com/questions/21426301/selendoid-create-session
