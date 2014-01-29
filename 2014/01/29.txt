@@ -42,3 +42,15 @@
 [2014-01-29 13:32:10] ddary: just a sec, will try it at my computer
 [2014-01-29 13:35:54] ddary: so, tried it, works fine. I used this command: https://gist.github.com/DominikDary/8687010
 [2014-01-29 13:39:36] razielsd: error :( http://devtest.ru/tmp/selendroid.txt
+[2014-01-29 13:40:11] razielsd:  No devices are found. This can happen if the devices are in use or no device screen matches the required capabilities.
+[2014-01-29 13:40:25] ddary: do you have an emulator on your machine?
+[2014-01-29 13:41:04] razielsd: need only emulator ? i have virtualbox  with android
+[2014-01-29 13:41:33] ddary: you need to have an emulator
+[2014-01-29 13:41:39] ddary: or hardware device
+[2014-01-29 13:41:45] razielsd: oppss, sory, fixed param, other error
+[2014-01-29 13:42:16] razielsd: The base package name of the apk resigned-android-driver2476820283798682961.apk cannot be extracted.
+[2014-01-29 13:43:02] razielsd: INFO: executing command: /home/razielsd/soft/adt-bundle-linux-x86_64-20131030/sdk/build-tools/android-4.4/aapt dump badging /tmp/resigned-android-driver2476820283798682961.apk янв 29, 2014 4:41:18 PM io.selendroid.server.handler.CreateSessionHandler handle SEVERE: Error while creating new session: The base package name of the apk resigned-android-driver2476820283798682961.apk cannot be extracted. io.selendroid.exceptions.Sel
+[2014-01-29 13:43:35] razielsd:  the apk resigned-android-driver2476820283798682961.apk cannot be extracted.
+[2014-01-29 13:43:41] ddary: have you setup your android sdk correct? exported ANDROID_HOME  to /home/razielsd/soft/adt-bundle-linux-x86_64-20131030/sdk/
+[2014-01-29 13:43:43] ddary: ?
+[2014-01-29 13:44:34] razielsd: android_home is correct
