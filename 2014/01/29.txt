@@ -16,3 +16,5 @@
 [2014-01-29 11:33:31] bhans1, joining. (#selendroid)
 [2014-01-29 11:34:07] bhans1: hello
 [2014-01-29 11:56:15] bhans1, quitting. (Quit: Page closed)
+[2014-01-29 13:06:46] razielsd, quitting. (Quit: Page closed)
+[2014-01-29 13:07:33] razielsd, joining. (#selendroid)
