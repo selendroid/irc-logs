@@ -61,3 +61,11 @@
 [2014-01-29 13:47:54] ddary: what is the result if you execute: /home/razielsd/soft/adt-bundle-linux-x86_64-20131030/sdk/build-tools/android-4.4/aapt dump badging /tmp/resigned-android-driver2476820283798682961.apk
 [2014-01-29 13:49:34] razielsd: hmmm, test
 [2014-01-29 13:50:00] razielsd: error while loading shared libraries: libz.so.1: cannot open shared object file: No such file or directory
+[2014-01-29 13:50:40] razielsd: sdk/build-tools/android-4.4/aapt:
+[2014-01-29 13:52:04] ddary: you are on a 64bit linux machine, right?
+[2014-01-29 13:53:33] razielsd: work fine, after install lib
+[2014-01-29 13:53:36] razielsd: sudo apt-get install lib32z1
+[2014-01-29 13:53:43] razielsd: thx
+[2014-01-29 13:53:55] ddary: welcome
+[2014-01-29 13:54:20] ddary: in  general, if you are on a 64bit linux you have to install: sudo apt-get install ia32-libs
+[2014-01-29 13:54:56] razielsd: ok
