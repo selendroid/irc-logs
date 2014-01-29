@@ -18,3 +18,11 @@
 [2014-01-29 11:56:15] bhans1, quitting. (Quit: Page closed)
 [2014-01-29 13:06:46] razielsd, quitting. (Quit: Page closed)
 [2014-01-29 13:07:33] razielsd, joining. (#selendroid)
+[2014-01-29 13:21:57] ddary, joining. (#selendroid)
+[2014-01-29 13:22:44] ddary: :log
+[2014-01-29 13:23:06] ddary: hi razielsd
+[2014-01-29 13:23:15] razielsd: hi
+[2014-01-29 13:23:51] razielsd: can you help me ?
+[2014-01-29 13:23:59] ddary: with regards to testing the mobile web
+[2014-01-29 13:24:16] ddary: we use just the default Android capabilities of the selenium project for that
+[2014-01-29 13:24:51] razielsd: i'm not java use, php
