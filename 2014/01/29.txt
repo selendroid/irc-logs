@@ -71,3 +71,18 @@
 [2014-01-29 13:54:56] razielsd: ok
 [2014-01-29 14:13:50] simonstewart, joining. (#selendroid)
 [2014-01-29 14:18:54] simonstewart: note: lukeis I don't think so.
+[2014-01-29 14:22:08] ddary: hi simonstewart
+[2014-01-29 14:22:14] simonstewart: ddary: hi
+[2014-01-29 14:22:35] ddary: the devs that are using selendroid in your company, do they know webdriver api and concepts?
+[2014-01-29 14:22:47] simonstewart: Some of them do. Some of them don't.
+[2014-01-29 14:23:07] ddary: and do they can get started easily?
+[2014-01-29 14:23:12] simonstewart: Yeah.
+[2014-01-29 14:23:21] simonstewart: We've built out the infrastructure and libraries for them
+[2014-01-29 14:23:28] ddary: :)
+[2014-01-29 14:23:36] simonstewart: We've modified buck so it's just a case of "buck test" to run a test
+[2014-01-29 14:23:44] simonstewart: (those changes are already OSS)
+[2014-01-29 14:23:56] simonstewart: And we've written Page Objects and Workflows
+[2014-01-29 14:24:07] simonstewart: So most new tests are just bolting together bits and pieces
+[2014-01-29 14:24:12] ddary: you mean that is part of the github buck?
+[2014-01-29 14:24:27] simonstewart: We also spend time pairing with teams that are just adopting the framework
+[2014-01-29 14:24:46] simonstewart: The changes to buck? Yes, the ones on github
