@@ -54,3 +54,10 @@
 [2014-01-29 13:43:41] ddary: have you setup your android sdk correct? exported ANDROID_HOME  to /home/razielsd/soft/adt-bundle-linux-x86_64-20131030/sdk/
 [2014-01-29 13:43:43] ddary: ?
 [2014-01-29 13:44:34] razielsd: android_home is correct
+[2014-01-29 13:46:10] ddary: do you run the selendroid-standalone.jar ?
+[2014-01-29 13:46:22] ddary: i mean from the command line?
+[2014-01-29 13:46:46] razielsd: java -jar selendroid-standalone-0.7.0-with-dependencies.jar -port 4444
+[2014-01-29 13:47:12] ddary: that is weird
+[2014-01-29 13:47:54] ddary: what is the result if you execute: /home/razielsd/soft/adt-bundle-linux-x86_64-20131030/sdk/build-tools/android-4.4/aapt dump badging /tmp/resigned-android-driver2476820283798682961.apk
+[2014-01-29 13:49:34] razielsd: hmmm, test
+[2014-01-29 13:50:00] razielsd: error while loading shared libraries: libz.so.1: cannot open shared object file: No such file or directory
