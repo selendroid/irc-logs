@@ -26,3 +26,10 @@
 [2014-01-29 13:23:59] ddary: with regards to testing the mobile web
 [2014-01-29 13:24:16] ddary: we use just the default Android capabilities of the selenium project for that
 [2014-01-29 13:24:51] razielsd: i'm not java use, php
+[2014-01-29 13:25:17] ddary: just a sec
+[2014-01-29 13:25:50] razielsd: i'm extract hhtp request for repoduce problem
+[2014-01-29 13:26:05] razielsd: *http*
+[2014-01-29 13:27:44] ddary: you have to use capalities with this attributes:
+[2014-01-29 13:28:05] ddary: browser name-> android
+[2014-01-29 13:28:24] ddary: version -> "" (so empty)
+[2014-01-29 13:29:18] ddary: Platform ->  android
