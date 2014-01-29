@@ -100,3 +100,6 @@
 [2014-01-29 15:00:48] simonstewart, quitting. (Quit: simonstewart)
 [2014-01-29 15:04:15] simonstewart, joining. (#selendroid)
 [2014-01-29 15:30:39] razielsd: How can create screenshot of full page, not only viewed on display ?
+[2014-01-29 15:37:58] ddary: what do you mean with full page?
+[2014-01-29 15:38:47] ddary: per default the screenshot is taken on the device and that includes the phone status bar and the app dialog
+[2014-01-29 15:39:43] ddary: :spec
