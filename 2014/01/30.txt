@@ -90,3 +90,5 @@
 [2014-01-30 18:01:44] selendroid-git: selendroid/master 8479428 Simon Stewart: Reduce length of output result logs.
 [2014-01-30 18:01:44] selendroid-git, leaving. (#selendroid)
 [2014-01-30 18:02:35] ddary: looks similiar to the AndroidServlet and the and the SelendroidServlet https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/server/SelendroidServlet.java
+[2014-01-30 18:08:37] simonstewart: Right
+[2014-01-30 18:09:07] simonstewart: The JsonHttpRemoteConfig was designed to be abstract from whether you're using webbit or a j2ee continainer
