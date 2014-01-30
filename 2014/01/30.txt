@@ -48,3 +48,15 @@
 [2014-01-30 17:43:50] ddary: hi all
 [2014-01-30 17:44:08] lukeis1: hi :)
 [2014-01-30 17:44:15] lukeis1, changing nick to lukeis.
+[2014-01-30 17:46:16] ddary: do you guys know any hacky way how to change the locale of an android hardware device via command line?
+[2014-01-30 17:47:00] simonstewart: Nope
+[2014-01-30 17:47:22] simonstewart: Anyone mind if I reduce the length of some of the logging output?
+[2014-01-30 17:47:45] simonstewart: If you take a screenshot when your test fails, approximately a billion lines of output are logged to the console
+[2014-01-30 17:47:54] ddary: you mean of the standalone component`
+[2014-01-30 17:47:58] simonstewart: (well, the base64 encoded PNG is shown)
+[2014-01-30 17:47:59] simonstewart: yeah
+[2014-01-30 17:48:12] lukeis: i don't mind ;)
+[2014-01-30 17:48:19] simonstewart: Was thinking of showing something like two lines of output (160 chars)
+[2014-01-30 17:48:26] ddary: everything that makes it simpler is good
+[2014-01-30 17:48:35] simonstewart: Groovy
+[2014-01-30 17:48:38] simonstewart: One moment, pelase
