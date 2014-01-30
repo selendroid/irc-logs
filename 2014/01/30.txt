@@ -60,3 +60,13 @@
 [2014-01-30 17:48:26] ddary: everything that makes it simpler is good
 [2014-01-30 17:48:35] simonstewart: Groovy
 [2014-01-30 17:48:38] simonstewart: One moment, pelase
+[2014-01-30 17:50:49] simonstewart: Damn it
+[2014-01-30 17:50:53] simonstewart: Enabled 2fac auth
+[2014-01-30 17:51:02] simonstewart: Now I need to figure out how to get my account working again
+[2014-01-30 17:51:10] lukeis: heh
+[2014-01-30 17:52:32] simonstewart: In other news: with the normal selenium server, it's easy to register new handlers at run time
+[2014-01-30 17:52:55] simonstewart: There's some facebook specific handlers I'd like to wire up neatly.
+[2014-01-30 17:53:11] ddary: another very verbose thing is in general the command execution. in the past, when we did not had the verbose option that ws helpful, but now i think this could be done in a non verbose way. e.g. when the server tries to identify if the device is started. here properly it would be easier just to print one dot on the command line.
+[2014-01-30 17:53:13] simonstewart: But I don't want to have to impact the regular OSS code base.
+[2014-01-30 17:53:28] simonstewart: Any suggestions about how to go about it
+[2014-01-30 17:53:36] simonstewart: Or should I just hack around until I figure it out
