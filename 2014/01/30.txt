@@ -9,3 +9,9 @@
 [2014-01-30 14:28:41] ddary, joining. (#selendroid)
 [2014-01-30 14:29:09] ddary: :log
 [2014-01-30 14:37:53] razielsd: ddary do you use virtual machines for testing android apps ?
+[2014-01-30 14:46:34] ddary: hi razielsd
+[2014-01-30 14:46:45] ddary: yes
+[2014-01-30 14:48:17] razielsd: what version of android use ? and virtual machine ?
+[2014-01-30 14:48:33] ddary: 10, 16 and 17
+[2014-01-30 14:48:44] ddary: i use linux mint
+[2014-01-30 14:49:52] razielsd: virtual machine name (virtualbox, qemu ....) ?
