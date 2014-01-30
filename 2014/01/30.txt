@@ -15,3 +15,8 @@
 [2014-01-30 14:48:33] ddary: 10, 16 and 17
 [2014-01-30 14:48:44] ddary: i use linux mint
 [2014-01-30 14:49:52] razielsd: virtual machine name (virtualbox, qemu ....) ?
+[2014-01-30 14:50:07] ddary: esxi
+[2014-01-30 14:50:51] ddary: http://de.slideshare.net/DominikDary/mobile-webdriver-selendroid
+[2014-01-30 14:50:54] ddary: slide 15
+[2014-01-30 14:52:02] razielsd: thx
+[2014-01-30 14:54:37] ddary: what are you using?
