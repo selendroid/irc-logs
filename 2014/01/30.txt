@@ -97,3 +97,4 @@
 [2014-01-30 18:13:16] ddary: that was about a year ago, but in the mean time the project has grown a bit and it anyway complex. so i'm fine to switch to the selenium solution if we have there already everything build in
 [2014-01-30 18:13:58] simonstewart: The question is, how do we dynamically add new handlers to the APK?
 [2014-01-30 18:18:08] ddary: maybe we can use aapt to add jars to the apk.
+[2014-01-30 18:21:06] lukeis, quitting. (Quit: Leaving.)
