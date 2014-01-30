@@ -70,3 +70,16 @@
 [2014-01-30 17:53:13] simonstewart: But I don't want to have to impact the regular OSS code base.
 [2014-01-30 17:53:28] simonstewart: Any suggestions about how to go about it
 [2014-01-30 17:53:36] simonstewart: Or should I just hack around until I figure it out
+[2014-01-30 17:55:08] ddary: you mean then larger parts of the standalone server can be deleted because we use stuff from the selenium-server?
+[2014-01-30 17:56:09] simonstewart: Nope
+[2014-01-30 17:56:26] simonstewart: I mean things like "query the internal state of the app via a particular intent"
+[2014-01-30 17:56:35] simonstewart: Or "flush all facebook databases"
+[2014-01-30 17:56:37] simonstewart: Or similar
+[2014-01-30 17:57:12] simonstewart: The selenium-standalone-server has an "addConfig" command to handle that case
+[2014-01-30 17:57:32] ddary: that feature you are talking about sounds interesting
+[2014-01-30 17:57:34] simonstewart: Which does some jiggery-pokery to register a new handler
+[2014-01-30 17:57:41] simonstewart: Lemme get you a link to the source
+[2014-01-30 17:58:15] simonstewart: https://code.google.com/p/selenium/source/browse/java/server/src/org/openqa/selenium/remote/server/handler/AddConfig.java
+[2014-01-30 17:58:34] simonstewart: Oh. Hang on
+[2014-01-30 17:58:49] simonstewart: That's just for registering a new browser type
+[2014-01-30 17:59:18] simonstewart: Hmmm…
