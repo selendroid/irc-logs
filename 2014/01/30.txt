@@ -98,3 +98,5 @@
 [2014-01-30 18:13:58] simonstewart: The question is, how do we dynamically add new handlers to the APK?
 [2014-01-30 18:18:08] ddary: maybe we can use aapt to add jars to the apk.
 [2014-01-30 18:21:06] lukeis, quitting. (Quit: Leaving.)
+[2014-01-30 18:26:14] ddary: simonstewart: the just arrived and we will now have dinner. will think about it...
+[2014-01-30 18:26:47] ddary: ^^ the word boy is missing even if I'm sure that i wrote it
