@@ -28,3 +28,6 @@
 [2014-01-30 15:03:26] ddary: yes
 [2014-01-30 15:03:50] ddary: luckily i don't depend on the google apis
 [2014-01-30 15:04:23] razielsd: no, our system administrator manage lxc
+[2014-01-30 15:05:24] ddary: ok, I'm looking for something to manage lxc containers via api
+[2014-01-30 15:06:07] razielsd: you have question ? i can ask
+[2014-01-30 15:07:20] ddary: would be great to get some additional input
