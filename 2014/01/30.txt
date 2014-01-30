@@ -83,3 +83,10 @@
 [2014-01-30 17:58:34] simonstewart: Oh. Hang on
 [2014-01-30 17:58:49] simonstewart: That's just for registering a new browser type
 [2014-01-30 17:59:18] simonstewart: Hmmm…
+[2014-01-30 18:00:51] simonstewart: https://code.google.com/p/selenium/source/browse/java/server/src/org/openqa/selenium/remote/server/JsonHttpRemoteConfig.java
+[2014-01-30 18:01:06] simonstewart: That's the hook point
+[2014-01-30 18:01:44] selendroid-git, joining. (#selendroid)
+[2014-01-30 18:01:44] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/AKb4bQ
+[2014-01-30 18:01:44] selendroid-git: selendroid/master 8479428 Simon Stewart: Reduce length of output result logs.
+[2014-01-30 18:01:44] selendroid-git, leaving. (#selendroid)
+[2014-01-30 18:02:35] ddary: looks similiar to the AndroidServlet and the and the SelendroidServlet https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/server/SelendroidServlet.java
