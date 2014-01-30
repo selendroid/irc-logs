@@ -34,3 +34,4 @@
 [2014-01-30 15:13:56] razielsd: we using config files, no using api
 [2014-01-30 15:43:38] selendroidbot__, joining. (#selendroid)
 [2014-01-30 15:46:13] ddary: razielsd: thanks
+[2014-01-30 16:41:33] ddary, quitting. (Quit: Page closed)
