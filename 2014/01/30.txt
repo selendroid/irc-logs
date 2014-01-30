@@ -102,3 +102,4 @@
 [2014-01-30 18:26:47] ddary: ^^ the word boy is missing even if I'm sure that i wrote it
 [2014-01-30 18:30:25] simonstewart: :)
 [2014-01-30 18:31:03] ddary, quitting. (Ping timeout: 245 seconds)
+[2014-01-30 20:07:00] simonstewart, quitting. (Quit: simonstewart)
