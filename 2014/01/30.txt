@@ -6,3 +6,5 @@
 [2014-01-30 11:49:05] ddary, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2014-01-30 12:37:56] razielsd, quitting. (Quit: Page closed)
 [2014-01-30 12:39:04] razielsd, joining. (#selendroid)
+[2014-01-30 14:28:41] ddary, joining. (#selendroid)
+[2014-01-30 14:29:09] ddary: :log
