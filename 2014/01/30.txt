@@ -42,3 +42,9 @@
 [2014-01-30 17:27:20] selendroid-git: selendroid/master e22d105 Dominik Dary: Adding comstructor just for app testing if users have no preference with regards to device type.
 [2014-01-30 17:27:20] selendroid-git, leaving. (#selendroid)
 [2014-01-30 17:38:30] lukeis1, joining. (#selendroid)
+[2014-01-30 17:40:41] lukeis, quitting. (Ping timeout: 252 seconds)
+[2014-01-30 17:40:58] simonstewart, joining. (#selendroid)
+[2014-01-30 17:43:37] ddary, joining. (#selendroid)
+[2014-01-30 17:43:50] ddary: hi all
+[2014-01-30 17:44:08] lukeis1: hi :)
+[2014-01-30 17:44:15] lukeis1, changing nick to lukeis.
