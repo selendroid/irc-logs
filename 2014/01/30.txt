@@ -20,3 +20,11 @@
 [2014-01-30 14:50:54] ddary: slide 15
 [2014-01-30 14:52:02] razielsd: thx
 [2014-01-30 14:54:37] ddary: what are you using?
+[2014-01-30 15:01:29] razielsd: lxc
+[2014-01-30 15:01:54] razielsd: but we not testing android, i'm started :)
+[2014-01-30 15:02:45] ddary: lxc is good choice
+[2014-01-30 15:03:16] razielsd: do you use android x86 ?
+[2014-01-30 15:03:25] ddary: how do manage the lxc container?
+[2014-01-30 15:03:26] ddary: yes
+[2014-01-30 15:03:50] ddary: luckily i don't depend on the google apis
+[2014-01-30 15:04:23] razielsd: no, our system administrator manage lxc
