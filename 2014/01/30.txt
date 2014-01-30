@@ -41,3 +41,4 @@
 [2014-01-30 17:27:20] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/rkh1Hg
 [2014-01-30 17:27:20] selendroid-git: selendroid/master e22d105 Dominik Dary: Adding comstructor just for app testing if users have no preference with regards to device type.
 [2014-01-30 17:27:20] selendroid-git, leaving. (#selendroid)
+[2014-01-30 17:38:30] lukeis1, joining. (#selendroid)
