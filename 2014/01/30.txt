@@ -92,3 +92,7 @@
 [2014-01-30 18:02:35] ddary: looks similiar to the AndroidServlet and the and the SelendroidServlet https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/server/SelendroidServlet.java
 [2014-01-30 18:08:37] simonstewart: Right
 [2014-01-30 18:09:07] simonstewart: The JsonHttpRemoteConfig was designed to be abstract from whether you're using webbit or a j2ee continainer
+[2014-01-30 18:11:07] ddary: the idea was, when I created it, be specific and not very abstract because then it is hopefully easier to understand so that it is easier for others to contribute
+[2014-01-30 18:11:22] simonstewart: I get that
+[2014-01-30 18:13:16] ddary: that was about a year ago, but in the mean time the project has grown a bit and it anyway complex. so i'm fine to switch to the selenium solution if we have there already everything build in
+[2014-01-30 18:13:58] simonstewart: The question is, how do we dynamically add new handlers to the APK?
