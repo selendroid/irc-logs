@@ -31,3 +31,4 @@
 [2014-01-30 15:05:24] ddary: ok, I'm looking for something to manage lxc containers via api
 [2014-01-30 15:06:07] razielsd: you have question ? i can ask
 [2014-01-30 15:07:20] ddary: would be great to get some additional input
+[2014-01-30 15:13:56] razielsd: we using config files, no using api
