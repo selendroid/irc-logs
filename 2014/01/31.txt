@@ -24,3 +24,7 @@
 [2014-01-31 09:20:09] selendroid-git: selendroid/experimental 5c4c0fb Dominik Dary: adding experimenttal script support for dynamically loading classes.
 [2014-01-31 09:20:09] selendroid-git, leaving. (#selendroid)
 [2014-01-31 09:29:11] ddary, joining. (#selendroid)
+[2014-01-31 10:47:11] selendroid-git, joining. (#selendroid)
+[2014-01-31 10:47:11] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/F0gacw
+[2014-01-31 10:47:11] selendroid-git: selendroid/master c2ec19f Dominik Dary: Using a different property to identify that the emulator boot is done which seems to work more reliable.
+[2014-01-31 10:47:11] selendroid-git, leaving. (#selendroid)
