@@ -5,3 +5,4 @@
 [2014-01-31 01:27:22] lukeis: gonna need the latest of selendroid installed in saucelabs soonish :)  (we're using the F5 key for some tests and that was fixed relatively recently)
 [2014-01-31 01:27:50] lukeis: i'll see about getting 0.8 released soon ;)
 [2014-01-31 01:29:01] lukeis: is there a better way to go about this 'request' ? like would you like me to log a support request?
+[2014-01-31 01:54:58] jlipps: lukeis:  best place is to create an appium issue
