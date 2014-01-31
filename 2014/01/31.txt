@@ -19,3 +19,7 @@
 [2014-01-31 09:10:52] selendroid-git: [selendroid] DominikDary created experimental (+1 new commit): http://git.io/SqQlHg
 [2014-01-31 09:10:52] selendroid-git: selendroid/experimental 9e1579f Dominik Dary: adding experimenttal script support for dynamically loading classes.
 [2014-01-31 09:10:52] selendroid-git, leaving. (#selendroid)
+[2014-01-31 09:20:09] selendroid-git, joining. (#selendroid)
+[2014-01-31 09:20:09] selendroid-git: [selendroid] DominikDary force-pushed experimental from 9e1579f to 5c4c0fb: http://git.io/F1XCRg
+[2014-01-31 09:20:09] selendroid-git: selendroid/experimental 5c4c0fb Dominik Dary: adding experimenttal script support for dynamically loading classes.
+[2014-01-31 09:20:09] selendroid-git, leaving. (#selendroid)
