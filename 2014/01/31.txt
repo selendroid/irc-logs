@@ -31,3 +31,7 @@
 [2014-01-31 10:51:03] ddary, quitting. (Ping timeout: 245 seconds)
 [2014-01-31 14:08:31] ddary, joining. (#selendroid)
 [2014-01-31 14:10:19] jlipps, joining. (#selendroid)
+[2014-01-31 14:16:23] selendroid-git, joining. (#selendroid)
+[2014-01-31 14:16:23] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/oE9YAQ
+[2014-01-31 14:16:23] selendroid-git: selendroid/master 98194e9 Dominik Dary: Update README.md
+[2014-01-31 14:16:23] selendroid-git, leaving. (#selendroid)
