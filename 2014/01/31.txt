@@ -28,3 +28,4 @@
 [2014-01-31 10:47:11] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/F0gacw
 [2014-01-31 10:47:11] selendroid-git: selendroid/master c2ec19f Dominik Dary: Using a different property to identify that the emulator boot is done which seems to work more reliable.
 [2014-01-31 10:47:11] selendroid-git, leaving. (#selendroid)
+[2014-01-31 10:51:03] ddary, quitting. (Ping timeout: 245 seconds)
