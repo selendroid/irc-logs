@@ -30,3 +30,4 @@
 [2014-01-31 10:47:11] selendroid-git, leaving. (#selendroid)
 [2014-01-31 10:51:03] ddary, quitting. (Ping timeout: 245 seconds)
 [2014-01-31 14:08:31] ddary, joining. (#selendroid)
+[2014-01-31 14:10:19] jlipps, joining. (#selendroid)
