@@ -62,3 +62,18 @@
 [2014-01-31 15:39:24] simonstewart: And right now I control both ends of the tes
 [2014-01-31 15:39:25] simonstewart: t
 [2014-01-31 15:39:50] ddary: that is the reason why i put it to the experimental branch..
+[2014-01-31 15:40:35] simonstewart: :)
+[2014-01-31 15:40:38] simonstewart: I know.
+[2014-01-31 15:41:21] simonstewart: These are going to be used for performance tests
+[2014-01-31 15:41:29] simonstewart: So what I really want to do is set up the server
+[2014-01-31 15:41:40] simonstewart: And then fire things along
+[2014-01-31 15:42:00] simonstewart: Any dynamic code in the execution of the test can have an impact on the performance measurements
+[2014-01-31 15:42:22] simonstewart: And reflection on android performs like garbage
+[2014-01-31 15:42:54] simonstewart: (which is the reason for my query about why we don't bind the handler instances to the mappers at init time)
+[2014-01-31 15:43:25] ddary: there is no reason that I'm aware of not to do it
+[2014-01-31 15:43:32] simonstewart: k
+[2014-01-31 15:43:51] simonstewart: I'll start hacking on that next, then
+[2014-01-31 15:43:54] simonstewart: If you're okay with it
+[2014-01-31 15:43:57] ddary: k
+[2014-01-31 15:44:04] simonstewart: Thank you!
+[2014-01-31 15:44:21] ddary: what I don't like is the the selendroid-standalone the createSession method
