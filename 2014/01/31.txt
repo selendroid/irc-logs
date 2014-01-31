@@ -36,3 +36,4 @@
 [2014-01-31 14:16:23] selendroid-git: selendroid/master 98194e9 Dominik Dary: Update README.md
 [2014-01-31 14:16:23] selendroid-git, leaving. (#selendroid)
 [2014-01-31 14:24:15] jlipps, quitting. (Quit: Leaving.)
+[2014-01-31 15:02:49] ddary, leaving. (#selendroid)
