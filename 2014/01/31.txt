@@ -39,3 +39,26 @@
 [2014-01-31 15:02:49] ddary, leaving. (#selendroid)
 [2014-01-31 15:16:24] smccarthy, joining. (#selendroid)
 [2014-01-31 15:24:30] simonstewart, joining. (#selendroid)
+[2014-01-31 15:35:25] ddary, joining. (#selendroid)
+[2014-01-31 15:35:29] simonstewart: I note with interest that the AndroidServlet instantiates handlers using reflection
+[2014-01-31 15:35:40] simonstewart: Reflection on Android isn't terribly efficient
+[2014-01-31 15:35:56] simonstewart: Any reason not to have stateless handlers and instantiate them in the init method?
+[2014-01-31 15:35:59] ddary: hi simonstewart
+[2014-01-31 15:36:05] simonstewart: Oh! Hi ddary :)
+[2014-01-31 15:36:21] simonstewart: I'm having a bash at hacking in dynamic loading
+[2014-01-31 15:36:28] simonstewart: By adding a custom end point
+[2014-01-31 15:36:34] ddary: ok
+[2014-01-31 15:36:39] ddary: have you seen my mail?
+[2014-01-31 15:36:42] simonstewart: Yup
+[2014-01-31 15:36:49] ddary: k
+[2014-01-31 15:36:53] simonstewart: The DexClassLoader is a key part of this
+[2014-01-31 15:37:07] simonstewart: Was thinking of adding two custom end points.
+[2014-01-31 15:37:25] simonstewart: The first would allow a user to add a dex to the selendroid classpath on the device
+[2014-01-31 15:37:42] simonstewart: The second would specify a URL, HTTP method and handler class to bind
+[2014-01-31 15:38:12] ddary: don'T you like the approach of execute script?
+[2014-01-31 15:38:38] ddary: the nice thing is, you can just use it and don't need to modify the clients
+[2014-01-31 15:38:50] ddary: but it looks like a bit hacky, i know
+[2014-01-31 15:38:58] simonstewart: Right. But overloading executeScript makes me feel sad :)
+[2014-01-31 15:39:24] simonstewart: And right now I control both ends of the tes
+[2014-01-31 15:39:25] simonstewart: t
+[2014-01-31 15:39:50] ddary: that is the reason why i put it to the experimental branch..
