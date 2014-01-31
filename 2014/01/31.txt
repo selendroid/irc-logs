@@ -38,3 +38,4 @@
 [2014-01-31 14:24:15] jlipps, quitting. (Quit: Leaving.)
 [2014-01-31 15:02:49] ddary, leaving. (#selendroid)
 [2014-01-31 15:16:24] smccarthy, joining. (#selendroid)
+[2014-01-31 15:24:30] simonstewart, joining. (#selendroid)
