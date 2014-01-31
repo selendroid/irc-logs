@@ -85,3 +85,6 @@
 [2014-01-31 15:48:33] ddary: it is just 200 lines ;-) but please explain it in all variants in 2 minutes… would propably take longer
 [2014-01-31 15:51:12] simonstewart: *clears throat*
 [2014-01-31 15:51:20] simonstewart: *gives up on that idea*
+[2014-01-31 16:28:18] ddary: :log
+[2014-01-31 16:29:17] ddary: simonstewart: finishing the work week now. Have a good weekend!
+[2014-01-31 16:29:55] ddary, quitting. (Quit: ddary)
