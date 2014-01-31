@@ -35,3 +35,4 @@
 [2014-01-31 14:16:23] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/oE9YAQ
 [2014-01-31 14:16:23] selendroid-git: selendroid/master 98194e9 Dominik Dary: Update README.md
 [2014-01-31 14:16:23] selendroid-git, leaving. (#selendroid)
+[2014-01-31 14:24:15] jlipps, quitting. (Quit: Leaving.)
