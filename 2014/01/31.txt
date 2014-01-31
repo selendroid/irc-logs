@@ -77,3 +77,9 @@
 [2014-01-31 15:43:57] ddary: k
 [2014-01-31 15:44:04] simonstewart: Thank you!
 [2014-01-31 15:44:21] ddary: what I don't like is the the selendroid-standalone the createSession method
+[2014-01-31 15:45:07] ddary: it has grown over time, that is no excuse, i know, but if I have finished my current task i want to look at that
+[2014-01-31 15:45:10] simonstewart: The special-case handling in "BaseServlet.handleResponse()"?
+[2014-01-31 15:45:23] ddary: no
+[2014-01-31 15:46:16] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/server/model/SelendroidStandaloneDriver.java#L243
+[2014-01-31 15:47:33] simonstewart: jeepers
+[2014-01-31 15:48:33] ddary: it is just 200 lines ;-) but please explain it in all variants in 2 minutes… would propably take longer
