@@ -11,3 +11,4 @@
 [2014-02-01 10:01:01] AutomatedTester, joining. (#selendroid)
 [2014-02-01 15:56:24] jlipps, joining. (#selendroid)
 [2014-02-01 16:24:05] jlipps, quitting. (Quit: Leaving.)
+[2014-02-01 17:08:25] smccarthy, joining. (#selendroid)
