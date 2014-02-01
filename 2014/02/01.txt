@@ -4,3 +4,5 @@
 [2014-02-01 03:03:23] jlipps, quitting. (Quit: Leaving.)
 [2014-02-01 05:35:21] Aniket, joining. (#selendroid)
 [2014-02-01 05:36:12] Aniket: hi
+[2014-02-01 05:40:47] Aniket: Failed to execute goal com.jayway.maven.plugins.android.generation2:android-maven-plugin:3.6.0:dex (default-dex) on project android-driver-app: MojoExecutionException: ANDROID-040-001: Could not execute: Command = cmd.exe /X /C ""C:\Program Files\Java\jdk1.7.0_02\jre\bin\java" -Xmx1024M -jar "C:\Program Files\Android\android-sdk\build-tools\19.0.0\lib\dx.jar" --dex --output=C:\Amdocs\Automation_Frameworks\Appium\Git\appium\submodul
+[2014-02-01 05:41:03] Aniket: getting this error while doing mvn clean build
