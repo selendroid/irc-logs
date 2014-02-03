@@ -1,1 +1,2 @@
 [2014-02-04 00:04:51] jlipps, quitting. (Remote host closed the connection)
+[2014-02-04 00:07:08] jlipps, joining. (#selendroid)
