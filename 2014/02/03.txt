@@ -81,3 +81,8 @@
 [2014-02-03 16:27:33] ddary, joining. (#selendroid)
 [2014-02-03 16:36:01] smccarthy2, joining. (#selendroid)
 [2014-02-03 16:37:47] smccarthy2, quitting. (Excess Flood)
+[2014-02-03 16:40:03] smccarthy, quitting. (Ping timeout: 272 seconds)
+[2014-02-03 16:40:53] oskoryk_, joining. (#selendroid)
+[2014-02-03 16:40:56] oskoryk, quitting. (Ping timeout: 272 seconds)
+[2014-02-03 16:41:02] smccarthy, joining. (#selendroid)
+[2014-02-03 16:44:23] ddary, quitting. (Ping timeout: 245 seconds)
