@@ -55,3 +55,4 @@
 [2014-02-03 12:34:53] oskoryk_, joining. (#selendroid)
 [2014-02-03 12:36:00] AutomatedTester, joining. (#selendroid)
 [2014-02-03 12:45:59] AutomatedTester, quitting. (Ping timeout: 272 seconds)
+[2014-02-03 13:35:00] oskoryk_: hi @ddary
