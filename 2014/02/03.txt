@@ -4,3 +4,5 @@
 [2014-02-03 02:14:34] AutomatedTester, joining. (#selendroid)
 [2014-02-03 02:14:44] AutomatedTester, quitting. (*.net *.split)
 [2014-02-03 02:14:45] AutomatedTester, joining. (#selendroid)
+[2014-02-03 02:18:07] AutomatedTester, quitting. (*.net *.split)
+[2014-02-03 02:18:08] smccarthy2, quitting. (*.net *.split)
