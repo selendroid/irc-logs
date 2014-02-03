@@ -6,3 +6,5 @@
 [2014-02-03 02:14:45] AutomatedTester, joining. (#selendroid)
 [2014-02-03 02:18:07] AutomatedTester, quitting. (*.net *.split)
 [2014-02-03 02:18:08] smccarthy2, quitting. (*.net *.split)
+[2014-02-03 02:21:09] selendroidbot__, quitting. (Ping timeout: 265 seconds)
+[2014-02-03 02:24:31] selendroidbot__, joining. (#selendroid)
