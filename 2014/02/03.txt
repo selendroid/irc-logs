@@ -94,3 +94,7 @@
 [2014-02-03 17:36:34] smccarthy, quitting. (*.net *.split)
 [2014-02-03 17:59:22] lukeis, joining. (#selendroid)
 [2014-02-03 18:00:37] smccarthy, joining. (#selendroid)
+[2014-02-03 18:22:38] selendroid-git, joining. (#selendroid)
+[2014-02-03 18:22:38] selendroid-git: [selendroid] shs96c pushed 1 new commit to master: http://git.io/Z3qGqg
+[2014-02-03 18:22:38] selendroid-git: selendroid/master 1913d17 Simon Stewart: Implement a slighter smoother scroll by slowing things down a bit.
+[2014-02-03 18:22:38] selendroid-git, leaving. (#selendroid)
