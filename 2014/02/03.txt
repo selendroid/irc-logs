@@ -32,3 +32,5 @@
 [2014-02-03 06:19:12] 23LAAZ99W, joining. (#selendroid)
 [2014-02-03 06:21:43] selendroidbot___, quitting. (Ping timeout: 260 seconds)
 [2014-02-03 06:23:09] selendroidbot___, joining. (#selendroid)
+[2014-02-03 06:30:35] AutomatedTester, quitting. (*.net *.split)
+[2014-02-03 06:31:20] 23LAAZ99W, quitting. (*.net *.split)
