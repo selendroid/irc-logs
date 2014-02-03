@@ -79,3 +79,5 @@
 [2014-02-03 16:22:08] AutomatedTester, joining. (#selendroid)
 [2014-02-03 16:24:23] ddary, quitting. (Ping timeout: 245 seconds)
 [2014-02-03 16:27:33] ddary, joining. (#selendroid)
+[2014-02-03 16:36:01] smccarthy2, joining. (#selendroid)
+[2014-02-03 16:37:47] smccarthy2, quitting. (Excess Flood)
