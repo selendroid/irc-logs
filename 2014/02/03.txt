@@ -27,3 +27,6 @@
 [2014-02-03 04:50:40] selendroidbot___, joining. (#selendroid)
 [2014-02-03 04:51:01] ChanServ, joining. (#selendroid)
 [2014-02-03 05:28:14] selendroidbot___, joining. (#selendroid)
+[2014-02-03 06:17:08] selendroidbot___, joining. (#selendroid)
+[2014-02-03 06:19:12] AutomatedTester, joining. (#selendroid)
+[2014-02-03 06:19:12] 23LAAZ99W, joining. (#selendroid)
