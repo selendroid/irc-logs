@@ -1,0 +1,2 @@
+[2014-02-03 01:28:24] smccarthy, quitting. (*.net *.split)
+[2014-02-03 01:28:25] AutomatedTester, quitting. (*.net *.split)
