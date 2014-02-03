@@ -53,3 +53,4 @@
 [2014-02-03 10:22:10] ddary: :w3c
 [2014-02-03 12:11:11] AutomatedTester, quitting. (Ping timeout: 249 seconds)
 [2014-02-03 12:34:53] oskoryk_, joining. (#selendroid)
+[2014-02-03 12:36:00] AutomatedTester, joining. (#selendroid)
