@@ -47,3 +47,6 @@
 [2014-02-03 08:40:00] selendroidbot, joining. (#selendroid)
 [2014-02-03 08:40:00] selendroidbot, joining. (#selendroid)
 [2014-02-03 10:00:27] selendroidbot, joining. (#selendroid)
+[2014-02-03 10:15:35] selendroidbot, joining. (#selendroid)
+[2014-02-03 10:19:14] ddary, joining. (#selendroid)
+[2014-02-03 10:19:21] ddary: :log
