@@ -56,3 +56,5 @@
 [2014-02-03 12:36:00] AutomatedTester, joining. (#selendroid)
 [2014-02-03 12:45:59] AutomatedTester, quitting. (Ping timeout: 272 seconds)
 [2014-02-03 13:35:00] oskoryk_: hi @ddary
+[2014-02-03 13:39:03] oskoryk_: I've found several places in Selendroid with an inappropriate usage of instrumentation.runOnUiThread()
+[2014-02-03 13:39:53] oskoryk_: could you take a quick look to the following commit: https://github.com/skorknure/selendroid/commit/1c0062a6fe46f812f5d61556306dd0973761d233 (my fork)
