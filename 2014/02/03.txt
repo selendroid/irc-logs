@@ -99,3 +99,5 @@
 [2014-02-03 18:22:38] selendroid-git: selendroid/master 1913d17 Simon Stewart: Implement a slighter smoother scroll by slowing things down a bit.
 [2014-02-03 18:22:38] selendroid-git, leaving. (#selendroid)
 [2014-02-03 19:36:47] oskoryk, joining. (#selendroid)
+[2014-02-03 20:36:33] oskoryk, quitting. (Remote host closed the connection)
+[2014-02-03 20:37:08] oskoryk, joining. (#selendroid)
