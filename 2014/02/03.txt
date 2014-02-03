@@ -63,3 +63,4 @@
 [2014-02-03 13:45:58] oskoryk_: what do you think about removing ServerInstrumentation.runOnUiThread() or at least renaming it to ServerInstrumentation.runOnUiThreadSync()? Why not just to use Insturmentation.runOnMainSync() directly?
 [2014-02-03 14:05:04] ddary: hi oskoryk_
 [2014-02-03 14:05:09] ddary: will have a look
+[2014-02-03 14:14:56] ddary: oskoryk_: i looked at the stuff and I would delete the method: ServerInstrumentation.runOnUiThread() and use the method Insturmentation.runOnMainSync() directly
