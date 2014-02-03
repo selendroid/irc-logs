@@ -75,3 +75,6 @@
 [2014-02-03 16:15:03] oskoryk, joining. (#selendroid)
 [2014-02-03 16:20:00] oskoryk_, quitting. (Ping timeout: 297 seconds)
 [2014-02-03 16:20:01] AutomatedTester, quitting. (Ping timeout: 251 seconds)
+[2014-02-03 16:21:00] smccarthy, joining. (#selendroid)
+[2014-02-03 16:22:08] AutomatedTester, joining. (#selendroid)
+[2014-02-03 16:24:23] ddary, quitting. (Ping timeout: 245 seconds)
