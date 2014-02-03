@@ -105,3 +105,4 @@
 [2014-02-03 21:13:21] oskoryk, joining. (#selendroid)
 [2014-02-03 21:14:42] oskoryk_, joining. (#selendroid)
 [2014-02-03 21:14:42] oskoryk, quitting. (Read error: Connection reset by peer)
+[2014-02-03 21:39:34] oskoryk_, quitting. (Remote host closed the connection)
