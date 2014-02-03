@@ -71,3 +71,4 @@
 [2014-02-03 15:07:41] AutomatedTester, joining. (#selendroid)
 [2014-02-03 15:08:14] ddary, quitting. (Changing host)
 [2014-02-03 15:08:14] ddary, joining. (#selendroid)
+[2014-02-03 15:50:53] ddary: oskoryk_: nice, it is already pushed!
