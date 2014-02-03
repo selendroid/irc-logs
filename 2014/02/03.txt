@@ -64,3 +64,4 @@
 [2014-02-03 14:05:04] ddary: hi oskoryk_
 [2014-02-03 14:05:09] ddary: will have a look
 [2014-02-03 14:14:56] ddary: oskoryk_: i looked at the stuff and I would delete the method: ServerInstrumentation.runOnUiThread() and use the method Insturmentation.runOnMainSync() directly
+[2014-02-03 14:38:31] oskoryk_: That is what I supposed to do. Thanks
