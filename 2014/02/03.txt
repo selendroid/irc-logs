@@ -72,3 +72,6 @@
 [2014-02-03 15:08:14] ddary, quitting. (Changing host)
 [2014-02-03 15:08:14] ddary, joining. (#selendroid)
 [2014-02-03 15:50:53] ddary: oskoryk_: nice, it is already pushed!
+[2014-02-03 16:15:03] oskoryk, joining. (#selendroid)
+[2014-02-03 16:20:00] oskoryk_, quitting. (Ping timeout: 297 seconds)
+[2014-02-03 16:20:01] AutomatedTester, quitting. (Ping timeout: 251 seconds)
