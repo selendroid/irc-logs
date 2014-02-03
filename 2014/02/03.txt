@@ -93,3 +93,4 @@
 [2014-02-03 17:27:34] oskoryk_, quitting. (Remote host closed the connection)
 [2014-02-03 17:36:34] smccarthy, quitting. (*.net *.split)
 [2014-02-03 17:59:22] lukeis, joining. (#selendroid)
+[2014-02-03 18:00:37] smccarthy, joining. (#selendroid)
