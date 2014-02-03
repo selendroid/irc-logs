@@ -19,3 +19,5 @@
 [2014-02-03 03:48:33] AutomatedTester, joining. (#selendroid)
 [2014-02-03 04:02:47] AutomatedTester, quitting. (Ping timeout: 272 seconds)
 [2014-02-03 04:21:28] AutomatedTester, joining. (#selendroid)
+[2014-02-03 04:35:31] selendroidbot___, quitting. (Ping timeout: 272 seconds)
+[2014-02-03 04:35:38] selendroidbot___, joining. (#selendroid)
