@@ -110,3 +110,4 @@
 [2014-02-03 22:36:52] oskoryk, joining. (#selendroid)
 [2014-02-03 22:41:24] oskoryk, quitting. (Ping timeout: 252 seconds)
 [2014-02-03 22:42:56] smccarthy, quitting. (Quit: Leaving...)
+[2014-02-03 23:37:35] oskoryk, joining. (#selendroid)
