@@ -23,3 +23,6 @@
 [2014-02-03 04:35:38] selendroidbot___, joining. (#selendroid)
 [2014-02-03 04:44:39] selendroidbot___, quitting. (Ping timeout: 272 seconds)
 [2014-02-03 04:45:20] selendroidbot___, joining. (#selendroid)
+[2014-02-03 04:50:21] selendroidbot___, quitting. (Ping timeout: 272 seconds)
+[2014-02-03 04:50:40] selendroidbot___, joining. (#selendroid)
+[2014-02-03 04:51:01] ChanServ, joining. (#selendroid)
