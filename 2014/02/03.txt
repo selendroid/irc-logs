@@ -86,3 +86,7 @@
 [2014-02-03 16:40:56] oskoryk, quitting. (Ping timeout: 272 seconds)
 [2014-02-03 16:41:02] smccarthy, joining. (#selendroid)
 [2014-02-03 16:44:23] ddary, quitting. (Ping timeout: 245 seconds)
+[2014-02-03 17:00:13] oskoryk_, quitting. (Remote host closed the connection)
+[2014-02-03 17:00:34] oskoryk, joining. (#selendroid)
+[2014-02-03 17:02:54] oskoryk_, joining. (#selendroid)
+[2014-02-03 17:02:54] oskoryk, quitting. (Read error: Connection reset by peer)
