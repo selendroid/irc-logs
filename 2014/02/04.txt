@@ -41,3 +41,7 @@
 [2014-02-04 16:29:35] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/3E7ALw
 [2014-02-04 16:29:35] selendroid-git: selendroid/master 077e674 Dominik Dary: Fixing touch actions for webviews. #213
 [2014-02-04 16:29:35] selendroid-git, leaving. (#selendroid)
+[2014-02-04 16:34:35] selendroid-git, joining. (#selendroid)
+[2014-02-04 16:34:35] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/c6r0Cw
+[2014-02-04 16:34:35] selendroid-git: selendroid/master 6158ea2 Dominik Dary: updating changelog
+[2014-02-04 16:34:35] selendroid-git, leaving. (#selendroid)
