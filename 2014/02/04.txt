@@ -82,3 +82,4 @@
 [2014-02-04 22:58:44] lukeis: shouldn't need to be, depends on your command line options I suppose (using -installedApp I would say having it started already is prefered)
 [2014-02-04 23:06:50] smccarthy2, quitting. (Remote host closed the connection)
 [2014-02-04 23:07:46] smccarthy, joining. (#selendroid)
+[2014-02-04 23:13:54] smccarthy: lukeis: I am just testing mobile web, so I just do java -jar selendroid-standalone-0.7.0-with-dependencies.jar
