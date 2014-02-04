@@ -26,3 +26,4 @@
 [2014-02-04 06:59:46] ddary, joining. (#selendroid)
 [2014-02-04 07:02:05] ddary, quitting. (Client Quit)
 [2014-02-04 07:32:50] oskoryk_, joining. (#selendroid)
+[2014-02-04 07:38:44] oskoryk, quitting. (*.net *.split)
