@@ -51,3 +51,16 @@
 [2014-02-04 16:49:56] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/7oSBIQ
 [2014-02-04 16:49:56] selendroid-git: selendroid/master b12da8f Dominik Dary: Update README.md
 [2014-02-04 16:49:56] selendroid-git, leaving. (#selendroid)
+[2014-02-04 16:52:08] selendroid-git, joining. (#selendroid)
+[2014-02-04 16:52:08] selendroid-git: selendroid/master c958012 Dominik Dary: Update README.md
+[2014-02-04 16:52:08] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/IOR6WA
+[2014-02-04 16:52:08] selendroid-git, leaving. (#selendroid)
+[2014-02-04 16:52:15] selendroid-git, joining. (#selendroid)
+[2014-02-04 16:52:15] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/GJkSMg
+[2014-02-04 16:52:15] selendroid-git: selendroid/master 64ec597 Dominik Dary: Update README.md
+[2014-02-04 16:52:15] selendroid-git, leaving. (#selendroid)
+[2014-02-04 16:52:33] selendroid-git, joining. (#selendroid)
+[2014-02-04 16:52:33] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/tG1j5A
+[2014-02-04 16:52:33] selendroid-git: selendroid/master d7de5c8 Dominik Dary: Update README.md
+[2014-02-04 16:52:33] selendroid-git, leaving. (#selendroid)
+[2014-02-04 16:52:57] ddary, quitting. (Quit: ddary)
