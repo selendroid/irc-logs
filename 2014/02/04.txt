@@ -21,3 +21,4 @@
 [2014-02-04 05:44:36] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-04 05:48:21] oskoryk, quitting. (Ping timeout: 265 seconds)
 [2014-02-04 05:50:59] oskoryk, joining. (#selendroid)
+[2014-02-04 06:16:45] jlipps, joining. (#selendroid)
