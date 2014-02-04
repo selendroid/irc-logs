@@ -94,3 +94,10 @@
 [2014-02-04 23:28:22] smccarthy: yea i dont know. I think I have it right, but still I get the ANDROID_HOME not found when I run the mobileWebTest : https://github.com/selendroid/demoproject-selendroid/blob/master/src/main/java/io/selendroid/demo/mobileweb/MobileWebTest.java
 [2014-02-04 23:32:51] lukeis: make sure you `. ~/.bash_profile`  before you run it?
 [2014-02-04 23:33:06] lukeis: and echo $ANDROID_HOME ?
+[2014-02-04 23:46:57] smccarthy: lukeis: would this work as well : System.setProperty("ANDROID_HOME", "/Users/shawn.mccarthy/android-sdk-macosx");
+[2014-02-04 23:46:57] smccarthy: before I try and start the server
+[2014-02-04 23:47:22] lukeis: you start the server via java?
+[2014-02-04 23:47:45] smccarthy: if I start it via java, like the MobileWebTest in github, it gives me the error about ANDROID_HOME not set
+[2014-02-04 23:49:07] lukeis: lemme guess, you run your tests with maven?
+[2014-02-04 23:49:30] smccarthy: lukeis: well I am running from eclipse now (just runAs TestNG test)
+[2014-02-04 23:49:40] smccarthy: but i do use maven for dependencies
