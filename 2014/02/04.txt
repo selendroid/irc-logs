@@ -79,3 +79,4 @@
 [2014-02-04 22:42:39] smccarthy2: SEVERE: Error occurred while building server: 1
 [2014-02-04 22:42:39] smccarthy2: java.lang.ArrayIndexOutOfBoundsException: 1
 [2014-02-04 22:42:40] smccarthy2: does an AVD have to be started to run the selendroid server from the command line. When the AVD isnt started first, I get :
+[2014-02-04 22:58:44] lukeis: shouldn't need to be, depends on your command line options I suppose (using -installedApp I would say having it started already is prefered)
