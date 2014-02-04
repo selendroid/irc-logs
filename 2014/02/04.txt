@@ -37,3 +37,7 @@
 [2014-02-04 14:21:17] selendroid-git: selendroid/master d6217c0 Dominik Dary: Adding new logo to AndroidDriver.
 [2014-02-04 14:21:17] selendroid-git, leaving. (#selendroid)
 [2014-02-04 14:25:58] ddary, joining. (#selendroid)
+[2014-02-04 16:29:35] selendroid-git, joining. (#selendroid)
+[2014-02-04 16:29:35] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/3E7ALw
+[2014-02-04 16:29:35] selendroid-git: selendroid/master 077e674 Dominik Dary: Fixing touch actions for webviews. #213
+[2014-02-04 16:29:35] selendroid-git, leaving. (#selendroid)
