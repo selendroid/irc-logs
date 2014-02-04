@@ -69,3 +69,4 @@
 [2014-02-04 19:38:09] lukeis: yes
 [2014-02-04 19:38:26] lukeis: you can pass in the API level, and I think the avd name too
 [2014-02-04 20:10:58] jlipps, joining. (#selendroid)
+[2014-02-04 20:52:09] smccarthy: lukeis: ok thanks. I'll try that now out.
