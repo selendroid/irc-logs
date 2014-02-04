@@ -45,3 +45,5 @@
 [2014-02-04 16:34:35] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/c6r0Cw
 [2014-02-04 16:34:35] selendroid-git: selendroid/master 6158ea2 Dominik Dary: updating changelog
 [2014-02-04 16:34:35] selendroid-git, leaving. (#selendroid)
+[2014-02-04 16:36:06] ddary: :snapshot
+[2014-02-04 16:38:00] smccarthy, joining. (#selendroid)
