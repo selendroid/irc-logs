@@ -3,3 +3,4 @@
 [2014-02-04 00:10:38] lukeis, quitting. (Quit: Leaving.)
 [2014-02-04 00:38:08] oskoryk, joining. (#selendroid)
 [2014-02-04 00:43:01] oskoryk, quitting. (Ping timeout: 272 seconds)
+[2014-02-04 01:39:00] oskoryk, joining. (#selendroid)
