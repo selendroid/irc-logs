@@ -68,3 +68,4 @@
 [2014-02-04 19:26:19] smccarthy: how does selendroid know which AVD to use when I run a test? Do I need to set it in the DesiredCapabilities ?
 [2014-02-04 19:38:09] lukeis: yes
 [2014-02-04 19:38:26] lukeis: you can pass in the API level, and I think the avd name too
+[2014-02-04 20:10:58] jlipps, joining. (#selendroid)
