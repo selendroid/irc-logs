@@ -101,3 +101,5 @@
 [2014-02-04 23:49:07] lukeis: lemme guess, you run your tests with maven?
 [2014-02-04 23:49:30] smccarthy: lukeis: well I am running from eclipse now (just runAs TestNG test)
 [2014-02-04 23:49:40] smccarthy: but i do use maven for dependencies
+[2014-02-04 23:50:18] lukeis: it's a lot easier in my experience to start the standalone server externally and then run your tests connecting to the "remote" instance
+[2014-02-04 23:53:00] smccarthy: ok cool. I will do that now as well.
