@@ -92,3 +92,5 @@
 [2014-02-04 23:18:14] smccarthy: do you know of any issue in 0.7 where starting the server from the code gave an error about ANDROID_HOME not being set ? in my .bash_profile I have export ANDROID_HOME="/Users/shawn.mccarthy/android-sdk-macosx"
 [2014-02-04 23:19:35] lukeis: no, if you have the variable properly exported, there's no reason i can think of why it would complain… unless the path is somehow not correctly pointing to the sdk?
 [2014-02-04 23:28:22] smccarthy: yea i dont know. I think I have it right, but still I get the ANDROID_HOME not found when I run the mobileWebTest : https://github.com/selendroid/demoproject-selendroid/blob/master/src/main/java/io/selendroid/demo/mobileweb/MobileWebTest.java
+[2014-02-04 23:32:51] lukeis: make sure you `. ~/.bash_profile`  before you run it?
+[2014-02-04 23:33:06] lukeis: and echo $ANDROID_HOME ?
