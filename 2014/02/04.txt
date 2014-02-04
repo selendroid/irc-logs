@@ -83,3 +83,11 @@
 [2014-02-04 23:06:50] smccarthy2, quitting. (Remote host closed the connection)
 [2014-02-04 23:07:46] smccarthy, joining. (#selendroid)
 [2014-02-04 23:13:54] smccarthy: lukeis: I am just testing mobile web, so I just do java -jar selendroid-standalone-0.7.0-with-dependencies.jar
+[2014-02-04 23:16:12] lukeis: ah, yeah, there was a bug related to that which was fixed
+[2014-02-04 23:16:18] lukeis: will be in 0.8
+[2014-02-04 23:16:38] lukeis: so, 0.7 it wants the emulator started already i think
+[2014-02-04 23:17:03] smccarthy: oh sweet k :)
+[2014-02-04 23:17:10] smccarthy: thanks !
+[2014-02-04 23:17:27] lukeis: np
+[2014-02-04 23:18:14] smccarthy: do you know of any issue in 0.7 where starting the server from the code gave an error about ANDROID_HOME not being set ? in my .bash_profile I have export ANDROID_HOME="/Users/shawn.mccarthy/android-sdk-macosx"
+[2014-02-04 23:19:35] lukeis: no, if you have the variable properly exported, there's no reason i can think of why it would complain… unless the path is somehow not correctly pointing to the sdk?
