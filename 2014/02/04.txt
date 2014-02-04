@@ -14,3 +14,4 @@
 [2014-02-04 03:40:32] oskoryk, joining. (#selendroid)
 [2014-02-04 03:42:13] oskoryk_, joining. (#selendroid)
 [2014-02-04 03:42:13] oskoryk, quitting. (Read error: Connection reset by peer)
+[2014-02-04 03:47:02] oskoryk_, quitting. (Ping timeout: 265 seconds)
