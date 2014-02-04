@@ -75,3 +75,7 @@
 [2014-02-04 22:10:06] lukeis: :note ddary let me know if there's anything more you want for 0.8, otherwise I'll do the the release tomorrow?  (I just did a dry run for 0.8 against oss.sonatype and everything looks good)
 [2014-02-04 22:37:59] jlipps, quitting. (Quit: Leaving.)
 [2014-02-04 22:38:13] jlipps, joining. (#selendroid)
+[2014-02-04 22:42:39] smccarthy2: Feb 04, 2014 2:41:46 PM io.selendroid.SelendroidLauncher lauchServer
+[2014-02-04 22:42:39] smccarthy2: SEVERE: Error occurred while building server: 1
+[2014-02-04 22:42:39] smccarthy2: java.lang.ArrayIndexOutOfBoundsException: 1
+[2014-02-04 22:42:40] smccarthy2: does an AVD have to be started to run the selendroid server from the command line. When the AVD isnt started first, I get :
