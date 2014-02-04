@@ -30,3 +30,9 @@
 [2014-02-04 08:35:04] ddary, joining. (#selendroid)
 [2014-02-04 11:09:19] oskoryk_, quitting. ()
 [2014-02-04 13:23:17] ddary, quitting. (Ping timeout: 246 seconds)
+[2014-02-04 14:21:17] selendroid-git, joining. (#selendroid)
+[2014-02-04 14:21:17] selendroid-git: [selendroid] DominikDary pushed 3 new commits to master: http://git.io/3_Ka9Q
+[2014-02-04 14:21:17] selendroid-git: selendroid/master a614a14 Dominik Dary: sending temporary redirects for inspector uri to avoid issues when the session id changes.
+[2014-02-04 14:21:17] selendroid-git: selendroid/master d03b233 Dominik Dary: removing log to sysout.
+[2014-02-04 14:21:17] selendroid-git: selendroid/master d6217c0 Dominik Dary: Adding new logo to AndroidDriver.
+[2014-02-04 14:21:17] selendroid-git, leaving. (#selendroid)
