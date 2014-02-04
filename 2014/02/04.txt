@@ -10,3 +10,4 @@
 [2014-02-04 02:22:47] jlipps1, quitting. (Quit: Leaving.)
 [2014-02-04 02:39:47] oskoryk, joining. (#selendroid)
 [2014-02-04 02:44:41] oskoryk, quitting. (Ping timeout: 265 seconds)
+[2014-02-04 02:45:46] smccarthy, joining. (#selendroid)
