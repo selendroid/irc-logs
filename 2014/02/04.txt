@@ -28,3 +28,4 @@
 [2014-02-04 07:32:50] oskoryk_, joining. (#selendroid)
 [2014-02-04 07:38:44] oskoryk, quitting. (*.net *.split)
 [2014-02-04 08:35:04] ddary, joining. (#selendroid)
+[2014-02-04 11:09:19] oskoryk_, quitting. ()
