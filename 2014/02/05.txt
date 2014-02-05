@@ -170,3 +170,10 @@
 [2014-02-05 20:13:11] ddary: will be back in a second
 [2014-02-05 20:17:24] ddary: back
 [2014-02-05 20:18:40] lukeis: ddary: hmm, do you code sign? what command do you use to deploy?
+[2014-02-05 20:50:40] lukeis: figured it out… :-D
+[2014-02-05 20:53:09] selendroid-git, joining. (#selendroid)
+[2014-02-05 20:53:09] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/MjGjkA
+[2014-02-05 20:53:09] selendroid-git: selendroid/master 9de9e83 Luke Inman-Semerau: making 0.8.0 release
+[2014-02-05 20:53:09] selendroid-git: selendroid/master 4dc047e Luke Inman-Semerau: adding sign profile for the gpg plugin...
+[2014-02-05 20:53:09] selendroid-git, leaving. (#selendroid)
+[2014-02-05 20:53:46] lukeis: ddary: read the full description of that last commit
