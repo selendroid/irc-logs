@@ -65,3 +65,11 @@
 [2014-02-05 10:29:57] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/KyJzXg
 [2014-02-05 10:29:57] selendroid-git: selendroid/master ba09447 Dominik Dary: Native elements only are asked about visibility and ancestors are ignored.
 [2014-02-05 10:29:57] selendroid-git, leaving. (#selendroid)
+[2014-02-05 10:31:35] selendroid-git, joining. (#selendroid)
+[2014-02-05 10:31:35] selendroid-git: [selendroid] DominikDary force-pushed master from ba09447 to 6135c23: http://git.io/nEcQZw
+[2014-02-05 10:31:35] selendroid-git: selendroid/master 6135c23 Dominik Dary: Native elements only are asked about visibility and ancestors are...
+[2014-02-05 10:31:35] selendroid-git, leaving. (#selendroid)
+[2014-02-05 10:33:39] selendroid-git, joining. (#selendroid)
+[2014-02-05 10:33:40] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/jOb8Sg
+[2014-02-05 10:33:40] selendroid-git: selendroid/master d53346e Dominik Dary: Update changelog.md
+[2014-02-05 10:33:40] selendroid-git, leaving. (#selendroid)
