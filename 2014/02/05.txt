@@ -134,3 +134,5 @@
 [2014-02-05 17:49:19] smccarthy: ddary: thanks !
 [2014-02-05 17:49:32] ddary: :)
 [2014-02-05 17:54:31] ddary, quitting. (Quit: ddary)
+[2014-02-05 18:29:03] jlipps, joining. (#selendroid)
+[2014-02-05 18:29:17] jlipps, quitting. (Client Quit)
