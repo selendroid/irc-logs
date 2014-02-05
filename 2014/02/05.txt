@@ -177,3 +177,24 @@
 [2014-02-05 20:53:09] selendroid-git: selendroid/master 4dc047e Luke Inman-Semerau: adding sign profile for the gpg plugin...
 [2014-02-05 20:53:09] selendroid-git, leaving. (#selendroid)
 [2014-02-05 20:53:46] lukeis: ddary: read the full description of that last commit
+[2014-02-05 20:55:46] ddary: lukeis: thanks! added https://github.com/selendroid/selendroid/wiki/Release-It
+[2014-02-05 20:55:55] ddary: before i forget it how to do it
+[2014-02-05 20:56:00] simonstewart, leaving. (#selendroid)
+[2014-02-05 20:56:06] simonstewart, joining. (#selendroid)
+[2014-02-05 20:57:12] selendroid-git, joining. (#selendroid)
+[2014-02-05 20:57:12] selendroid-git: [selendroid] lukeis tagged 0.8.0 at master: http://git.io/Gqf27w
+[2014-02-05 20:57:12] selendroid-git, leaving. (#selendroid)
+[2014-02-05 20:57:41] simonstewart: lukeis: is that the release done?
+[2014-02-05 20:58:23] selendroid-git, joining. (#selendroid)
+[2014-02-05 20:58:23] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/k7j5vA
+[2014-02-05 20:58:23] selendroid-git: selendroid/master b997391 Luke Inman-Semerau: bumping version to 0.9.0-SNAPSHOT
+[2014-02-05 20:58:23] selendroid-git, leaving. (#selendroid)
+[2014-02-05 20:58:26] lukeis: now it is :)
+[2014-02-05 20:59:25] simonstewart: Sweet
+[2014-02-05 20:59:29] selendroid-git, joining. (#selendroid)
+[2014-02-05 20:59:29] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/3TXC_A
+[2014-02-05 20:59:29] selendroid-git: selendroid/master 54f0b55 Luke Inman-Semerau: updating changelog
+[2014-02-05 20:59:29] selendroid-git, leaving. (#selendroid)
+[2014-02-05 20:59:38] *simonstewart preps his big Diif Of Doom'
+[2014-02-05 20:59:41] simonstewart: Diff
+[2014-02-05 20:59:43] simonstewart: even
