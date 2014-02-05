@@ -146,3 +146,13 @@
 [2014-02-05 19:42:44] simonstewart: Groovy
 [2014-02-05 19:50:54] ddary, joining. (#selendroid)
 [2014-02-05 19:54:46] jlipps, quitting. (Quit: Leaving.)
+[2014-02-05 19:55:26] ddary: Hi lukeis
+[2014-02-05 19:55:33] lukeis: hi ddary
+[2014-02-05 19:55:45] lukeis: release time :)
+[2014-02-05 19:55:52] ddary: :)
+[2014-02-05 19:56:18] lukeis: are you ok with 0.8  or do you want it to have 3 points? 0.8.0 ?
+[2014-02-05 19:57:16] ddary: I have always use the longer syntax because then we can also easily ship fixes
+[2014-02-05 19:57:49] lukeis: we can either way ;) but I'll stick with your convention
+[2014-02-05 19:57:55] ddary: why do you want to use the short version? Selenium uses as well three digits, right?
+[2014-02-05 19:58:46] lukeis: selenium does it for a particular purpose (since there's really like 6 projects in one)
+[2014-02-05 19:59:35] lukeis: i don't really have an argument for or against either way
