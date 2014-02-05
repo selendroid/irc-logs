@@ -206,3 +206,5 @@
 [2014-02-05 21:03:50] simonstewart: Go ahead
 [2014-02-05 21:04:05] *lukeis teasing :) oh how i love to tease...'
 [2014-02-05 21:04:15] ddary: :)
+[2014-02-05 21:06:12] lukeis: wow, that is the fastest sync to central i've ever seen
+[2014-02-05 21:07:29] lukeis: sonatype must finally be *doing something* about that bad reputation to get releases out
