@@ -14,3 +14,14 @@
 [2014-02-05 08:51:14] ddary, quitting. (Ping timeout: 246 seconds)
 [2014-02-05 09:25:07] ddary, joining. (#selendroid)
 [2014-02-05 09:33:35] ddary: Hi bhans1
+[2014-02-05 09:37:38] bhans1: hi ddary :)
+[2014-02-05 09:37:44] ddary: Hi
+[2014-02-05 09:37:52] ddary: you have written the tweet, right?
+[2014-02-05 09:37:56] bhans1: yep haha
+[2014-02-05 09:37:57] bhans1: :D
+[2014-02-05 09:38:00] ddary: :)
+[2014-02-05 09:38:13] ddary: glad you like the framework
+[2014-02-05 09:38:21] bhans1: yep, it's pretty good
+[2014-02-05 09:38:43] ddary: what do you really want to do? was robolectric the stuff you are looking for?
+[2014-02-05 09:39:31] bhans1: been using robotium and robolectric. just thought if selendroid does support those things :D
+[2014-02-05 09:39:53] bhans1: but the thing that no need of source code is pretty self-explainable
