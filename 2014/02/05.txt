@@ -114,3 +114,11 @@
 [2014-02-05 17:31:42] Ragnaroek: the documentation around Mobile Web testing is a little unclear: Does selendroid use a special WebView app or the native browser?
 [2014-02-05 17:33:09] ddary: Ragnoroek: a special web view app
 [2014-02-05 17:34:34] ddary: Ragnoroek: https://github.com/selendroid/selendroid/tree/master/android-driver
+[2014-02-05 17:35:27] simonstewart: ddary: Pushed changes
+[2014-02-05 17:35:35] selendroid-git, joining. (#selendroid)
+[2014-02-05 17:35:35] selendroid-git: selendroid/master e7b1af3 Oleksandr Skoryk: Optimizing performance of HTTP requests handling....
+[2014-02-05 17:35:35] selendroid-git: [selendroid] shs96c pushed 2 new commits to master: http://git.io/wzYoJg
+[2014-02-05 17:35:35] selendroid-git: selendroid/master fa94483 Oleksandr Skoryk: Optimizing performance of generation random UUIDs....
+[2014-02-05 17:35:35] selendroid-git, leaving. (#selendroid)
+[2014-02-05 17:35:40] Ragnaroek: do you plan to use the native browser?
+[2014-02-05 17:35:48] Ragnaroek: support
