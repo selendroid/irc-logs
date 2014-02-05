@@ -111,3 +111,6 @@
 [2014-02-05 17:24:28] simonstewart: I'm cleaning up a diff that does something similar
 [2014-02-05 17:24:43] ddary: ok
 [2014-02-05 17:25:01] simonstewart: I'll stick it up on my fork for you to take a look at before I do anything with it
+[2014-02-05 17:31:42] Ragnaroek: the documentation around Mobile Web testing is a little unclear: Does selendroid use a special WebView app or the native browser?
+[2014-02-05 17:33:09] ddary: Ragnoroek: a special web view app
+[2014-02-05 17:34:34] ddary: Ragnoroek: https://github.com/selendroid/selendroid/tree/master/android-driver
