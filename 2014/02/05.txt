@@ -139,3 +139,4 @@
 [2014-02-05 18:30:15] lukeis, joining. (#selendroid)
 [2014-02-05 18:30:56] lukeis: i think selendroidbot has some issues with notes ;) at least logging works
 [2014-02-05 18:37:49] Ragnaroek, quitting. (Ping timeout: 250 seconds)
+[2014-02-05 19:15:08] jlipps, joining. (#selendroid)
