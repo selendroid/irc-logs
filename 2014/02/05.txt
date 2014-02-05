@@ -168,3 +168,5 @@
 [2014-02-05 20:07:13] lukeis: me + ruby have a long sorted history… we don't always play nice together ;)
 [2014-02-05 20:08:30] ddary: with regards to the web view touch tests: i have seen in the selenium project are quite some tests. would be nice to have them as well in our project. So, what is the suggested approach: just copy it or how can they be easily executed?
 [2014-02-05 20:13:11] ddary: will be back in a second
+[2014-02-05 20:17:24] ddary: back
+[2014-02-05 20:18:40] lukeis: ddary: hmm, do you code sign? what command do you use to deploy?
