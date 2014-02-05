@@ -103,3 +103,11 @@
 [2014-02-05 17:19:38] simonstewart: Should be landing today
 [2014-02-05 17:19:42] simonstewart: Before I go into meetings :)
 [2014-02-05 17:19:58] ddary: :)
+[2014-02-05 17:20:28] ddary: have you seen the tweet about stickers? i know it is not the most important thing in the world...
+[2014-02-05 17:20:54] simonstewart: Not seen it, but I bloody love stickers :)
+[2014-02-05 17:21:44] simonstewart: I've also got a change that reduces the use of reflection in the servlets, but I'll wait for the release before landing that
+[2014-02-05 17:22:49] ddary: ok
+[2014-02-05 17:23:58] ddary: The latest add on from my side (execute script) is not optimal and I know you don't like it ;-) but I got an internal request. now my customers are happy, so that is also important..
+[2014-02-05 17:24:28] simonstewart: I'm cleaning up a diff that does something similar
+[2014-02-05 17:24:43] ddary: ok
+[2014-02-05 17:25:01] simonstewart: I'll stick it up on my fork for you to take a look at before I do anything with it
