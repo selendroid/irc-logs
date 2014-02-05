@@ -226,3 +226,12 @@
 [2014-02-05 21:24:47] lukeis: webview bits don't get instantiated until your request to switch to a webview right?
 [2014-02-05 21:24:57] simonstewart: Dunno
 [2014-02-05 21:24:59] ddary: exactly
+[2014-02-05 21:25:01] simonstewart: It's on my list of things to read
+[2014-02-05 21:25:28] lukeis: i recall seeing that… can't point right to the code place
+[2014-02-05 21:25:43] *simonstewart gestures vaguely in the direction of the codebase'
+[2014-02-05 21:26:05] simonstewart: "over there"
+[2014-02-05 21:26:12] lukeis: yeah… somewhere in there… https://github.com/selendroid/selendroid/tree/master/selendroid-server
+[2014-02-05 21:26:15] lukeis: ;)
+[2014-02-05 21:27:21] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/model/DefaultSelendroidDriver.java#L334
+[2014-02-05 21:27:46] lukeis: lookie there ;)
+[2014-02-05 21:28:24] simonstewart: Aye
