@@ -140,3 +140,7 @@
 [2014-02-05 18:30:56] lukeis: i think selendroidbot has some issues with notes ;) at least logging works
 [2014-02-05 18:37:49] Ragnaroek, quitting. (Ping timeout: 250 seconds)
 [2014-02-05 19:15:08] jlipps, joining. (#selendroid)
+[2014-02-05 19:40:11] simonstewart: lukeis: when's the release push happening?
+[2014-02-05 19:40:32] simonstewart: I've got a change I'd like to land soon, but would prefer it to be after the release
+[2014-02-05 19:42:30] lukeis: 'soon' :) was just in meetings, can do it in a min
+[2014-02-05 19:42:44] simonstewart: Groovy
