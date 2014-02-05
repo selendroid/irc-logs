@@ -53,3 +53,7 @@
 [2014-02-05 09:54:17] bhans1: errors
 [2014-02-05 09:58:21] bhans1: wait, let me just send you ;)
 [2014-02-05 10:17:11] bhans1: here you go: http://pastebin.com/G66p9ZB7
+[2014-02-05 10:22:10] bhans1: btw, that's in selendroid-standalone
+[2014-02-05 10:23:17] ddary: thanks for the pointer, now i know that you mean exactly
+[2014-02-05 10:23:53] ddary: can you create an issue for it?
+[2014-02-05 10:24:18] ddary: than we will probably change it before we release the 0.8.0
