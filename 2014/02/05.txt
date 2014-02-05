@@ -4,3 +4,4 @@
 [2014-02-05 03:24:56] smccarthy, joining. (#selendroid)
 [2014-02-05 03:31:00] bhans1, joining. (#selendroid)
 [2014-02-05 03:31:26] bhans1: hi, does selendroid supports white-box testing?
+[2014-02-05 03:45:22] bhans1: :D
