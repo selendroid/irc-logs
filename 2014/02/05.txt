@@ -249,3 +249,11 @@
 [2014-02-05 21:34:20] simonstewart: d
 [2014-02-05 21:34:27] simonstewart: Those last messages are filthy lies
 [2014-02-05 21:34:42] simonstewart: r187eff3c was the interesting diff
+[2014-02-05 21:35:23] lukeis:  187eff3c
+[2014-02-05 21:35:36] lukeis: oh yeah, the bot doesn't have that update
+[2014-02-05 21:36:18] lukeis: that was already in there?
+[2014-02-05 21:36:23] simonstewart: Apparently
+[2014-02-05 21:36:27] simonstewart: Oh well.
+[2014-02-05 21:36:30] simonstewart: It's a nice change :)
+[2014-02-05 21:36:41] lukeis: heh and in 0.8
+[2014-02-05 21:39:10] ddary: lukeis: with regards to the web view touch tests: i have seen in the selenium project are quite some tests. would be nice to have them as well in our project. So, what is the suggested approach: just copy it or how can they be easily executed?
