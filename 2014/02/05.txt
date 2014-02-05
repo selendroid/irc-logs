@@ -8,3 +8,5 @@
 [2014-02-05 05:52:45] jlipps, joining. (#selendroid)
 [2014-02-05 05:58:03] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-05 06:05:29] jlipps, quitting. (Quit: Leaving.)
+[2014-02-05 08:20:46] ddary, joining. (#selendroid)
+[2014-02-05 08:22:13] ddary: :note lukeis Oh cool! no, i have not anything important in the pipeline.
