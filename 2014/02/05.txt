@@ -122,3 +122,9 @@
 [2014-02-05 17:35:35] selendroid-git, leaving. (#selendroid)
 [2014-02-05 17:35:40] Ragnaroek: do you plan to use the native browser?
 [2014-02-05 17:35:48] Ragnaroek: support
+[2014-02-05 17:40:24] ddary: chromedriver on newer devices can do it. for older devices you can only go with web view approach as far as I know.
+[2014-02-05 17:41:01] ddary: As far as I know, adding chromedriver as a dependency it not planned at the moment
+[2014-02-05 17:41:17] ddary: but I would ask lukeis for that.
+[2014-02-05 17:41:45] ddary: he usally arrives in 20 min from now
+[2014-02-05 17:44:41] smccarthy: On http://selendroid.io/setup.html#DesiredCapabilities , it has a link for Intel x86 Emulator Accelerator that doesn't work. Should the link be updated to : http://software.intel.com/en-us/android/articles/installation-instructions-for-intel-hardware-accelerated-execution-manager-windows
+[2014-02-05 17:44:41] smccarthy: ?
