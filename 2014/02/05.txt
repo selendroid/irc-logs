@@ -79,3 +79,6 @@
 [2014-02-05 12:34:17] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/ii2_jw
 [2014-02-05 12:34:17] selendroid-git: selendroid/master e731513 Dominik Dary: Merging in changelog updates.
 [2014-02-05 12:34:17] selendroid-git, leaving. (#selendroid)
+[2014-02-05 13:57:21] ddary, quitting. (Write error: Broken pipe)
+[2014-02-05 13:58:27] ddary, joining. (#selendroid)
+[2014-02-05 13:58:35] ddary: :snapshot
