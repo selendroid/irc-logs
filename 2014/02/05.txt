@@ -267,3 +267,6 @@
 [2014-02-05 21:46:34] lukeis: :)
 [2014-02-05 22:19:36] jlipps, joining. (#selendroid)
 [2014-02-05 22:30:26] jlipps, quitting. (Quit: Leaving.)
+[2014-02-05 22:46:45] simonstewart, leaving. (#selendroid)
+[2014-02-05 22:48:32] jlipps, joining. (#selendroid)
+[2014-02-05 22:48:40] jlipps, quitting. (Remote host closed the connection)
