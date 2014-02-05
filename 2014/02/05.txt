@@ -7,3 +7,4 @@
 [2014-02-05 03:45:22] bhans1: :D
 [2014-02-05 05:52:45] jlipps, joining. (#selendroid)
 [2014-02-05 05:58:03] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-05 06:05:29] jlipps, quitting. (Quit: Leaving.)
