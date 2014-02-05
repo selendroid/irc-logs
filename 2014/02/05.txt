@@ -44,3 +44,10 @@
 [2014-02-05 09:49:29] ddary: hearing the first time
 [2014-02-05 09:49:38] ddary: so, what are the changes you did?
 [2014-02-05 09:49:47] bhans1: just changed all localhost to 127.0.0.1
+[2014-02-05 09:50:21] bhans1: been searching about mac, they restricted using localhost, but other versions maybe unrestricted or devs just open it
+[2014-02-05 09:50:33] bhans1: im currently on 10.9.1
+[2014-02-05 09:51:32] ddary: you changed it in your tests in the demoproject, right?
+[2014-02-05 09:53:32] ddary: btw: with the release of the 0.8.0 you don't have to specify anymore the url of the selendroid-standalone because we are now using selenium's default port 4444
+[2014-02-05 09:54:00] bhans1: yes, but still not locating locahost
+[2014-02-05 09:54:16] bhans1: when I recompiled it with 127.0.0.1, then no more unresolved host
+[2014-02-05 09:54:17] bhans1: errors
