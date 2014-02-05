@@ -128,3 +128,8 @@
 [2014-02-05 17:41:45] ddary: he usally arrives in 20 min from now
 [2014-02-05 17:44:41] smccarthy: On http://selendroid.io/setup.html#DesiredCapabilities , it has a link for Intel x86 Emulator Accelerator that doesn't work. Should the link be updated to : http://software.intel.com/en-us/android/articles/installation-instructions-for-intel-hardware-accelerated-execution-manager-windows
 [2014-02-05 17:44:41] smccarthy: ?
+[2014-02-05 17:45:43] ddary: smccarthy: of course! thanks, i will just fix it
+[2014-02-05 17:48:00] smccarthy: np !
+[2014-02-05 17:49:01] ddary: smccarthy: done
+[2014-02-05 17:49:19] smccarthy: ddary: thanks !
+[2014-02-05 17:49:32] ddary: :)
