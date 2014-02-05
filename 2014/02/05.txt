@@ -260,3 +260,8 @@
 [2014-02-05 21:41:29] lukeis: we can likely execute them from the selenium project
 [2014-02-05 21:41:56] lukeis: it's a minor adventure in 'crazy-fun' and maybe a little bit a java-ing
 [2014-02-05 21:44:04] ddary: k
+[2014-02-05 21:45:26] ddary: finishing the day with a Gin Tonic. good night!
+[2014-02-05 21:45:48] ddary, quitting. (Quit: ddary)
+[2014-02-05 21:46:22] simonstewart: G'night
+[2014-02-05 21:46:26] simonstewart: Just us here, then
+[2014-02-05 21:46:34] lukeis: :)
