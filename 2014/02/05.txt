@@ -34,3 +34,13 @@
 [2014-02-05 09:41:58] ddary: I created it, but without the community the tool would not be where it is
 [2014-02-05 09:42:09] bhans1: ahh.. nice :D
 [2014-02-05 09:43:03] bhans1: I really appreciate it! hehehe
+[2014-02-05 09:45:36] ddary: thanks
+[2014-02-05 09:45:54] bhans1: btw, I encountered about the 0.8.0
+[2014-02-05 09:46:11] bhans1: a problem*
+[2014-02-05 09:46:29] bhans1: usually, mac doesnt accept "localhost" but instead 127.0.0.1
+[2014-02-05 09:46:40] bhans1: i mean, not all machine are configured that way
+[2014-02-05 09:47:01] bhans1: so, I recompiled and made changes, then it worked
+[2014-02-05 09:47:29] bhans1: am I the only one who encountered this problem? haha
+[2014-02-05 09:49:29] ddary: hearing the first time
+[2014-02-05 09:49:38] ddary: so, what are the changes you did?
+[2014-02-05 09:49:47] bhans1: just changed all localhost to 127.0.0.1
