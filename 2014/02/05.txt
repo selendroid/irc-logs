@@ -257,3 +257,6 @@
 [2014-02-05 21:36:30] simonstewart: It's a nice change :)
 [2014-02-05 21:36:41] lukeis: heh and in 0.8
 [2014-02-05 21:39:10] ddary: lukeis: with regards to the web view touch tests: i have seen in the selenium project are quite some tests. would be nice to have them as well in our project. So, what is the suggested approach: just copy it or how can they be easily executed?
+[2014-02-05 21:41:29] lukeis: we can likely execute them from the selenium project
+[2014-02-05 21:41:56] lukeis: it's a minor adventure in 'crazy-fun' and maybe a little bit a java-ing
+[2014-02-05 21:44:04] ddary: k
