@@ -25,3 +25,12 @@
 [2014-02-05 09:38:43] ddary: what do you really want to do? was robolectric the stuff you are looking for?
 [2014-02-05 09:39:31] bhans1: been using robotium and robolectric. just thought if selendroid does support those things :D
 [2014-02-05 09:39:53] bhans1: but the thing that no need of source code is pretty self-explainable
+[2014-02-05 09:40:03] ddary: yeah, it is just build for end-to-end testing
+[2014-02-05 09:40:08] ddary: ok
+[2014-02-05 09:40:19] bhans1: hahaha, I was just wondering if I could use it for white-box, coz I really loved it :D
+[2014-02-05 09:40:40] bhans1: are you the only one who commits?
+[2014-02-05 09:41:06] ddary: but we are currently thinking about adding support for user extensions: https://github.com/selendroid/selendroid/commit/5c4c0fbe14fded2dcc773303ab1b52b21ccd7921
+[2014-02-05 09:41:36] ddary: no, I'm not the only one who does the work: https://github.com/selendroid/selendroid/blob/master/AUTHORS
+[2014-02-05 09:41:58] ddary: I created it, but without the community the tool would not be where it is
+[2014-02-05 09:42:09] bhans1: ahh.. nice :D
+[2014-02-05 09:43:03] bhans1: I really appreciate it! hehehe
