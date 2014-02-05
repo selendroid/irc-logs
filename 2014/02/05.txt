@@ -74,3 +74,8 @@
 [2014-02-05 10:33:40] selendroid-git: selendroid/master d53346e Dominik Dary: Update changelog.md
 [2014-02-05 10:33:40] selendroid-git, leaving. (#selendroid)
 [2014-02-05 11:39:20] Ragnaroek, joining. (#selendroid)
+[2014-02-05 12:34:17] selendroid-git, joining. (#selendroid)
+[2014-02-05 12:34:17] selendroid-git: selendroid/master 71bed78 Dominik Dary: Adding custom native script to check if an element is displayed on viewport.
+[2014-02-05 12:34:17] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/ii2_jw
+[2014-02-05 12:34:17] selendroid-git: selendroid/master e731513 Dominik Dary: Merging in changelog updates.
+[2014-02-05 12:34:17] selendroid-git, leaving. (#selendroid)
