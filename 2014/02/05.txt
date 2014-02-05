@@ -82,3 +82,5 @@
 [2014-02-05 13:57:21] ddary, quitting. (Write error: Broken pipe)
 [2014-02-05 13:58:27] ddary, joining. (#selendroid)
 [2014-02-05 13:58:35] ddary: :snapshot
+[2014-02-05 14:35:28] ddary, quitting. (Quit: ddary)
+[2014-02-05 14:37:22] smccarthy, joining. (#selendroid)
