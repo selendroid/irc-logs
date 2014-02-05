@@ -213,3 +213,16 @@
 [2014-02-05 21:16:06] ddary: i don't think so. And if it will happen, we just release again
 [2014-02-05 21:17:52] simonstewart: Just cleaned up the patch
 [2014-02-05 21:17:54] simonstewart: Running tests
+[2014-02-05 21:21:48] simonstewart: BTW, I had someone ask me if it was possible to build selendroid without the web bits
+[2014-02-05 21:21:57] simonstewart: so just the native code
+[2014-02-05 21:22:00] simonstewart: I had a bit of a weep
+[2014-02-05 21:22:26] lukeis: heh
+[2014-02-05 21:22:51] lukeis: i would just tell them "no" and turn back around
+[2014-02-05 21:23:19] simonstewart: It was to do with performance testing. They were concerned by the amount of memory that the selendroid server takes up
+[2014-02-05 21:23:39] lukeis: -noWebViewApp  (or whatever that option was)
+[2014-02-05 21:23:47] ddary: do you know what the resin behind that question was?
+[2014-02-05 21:24:09] simonstewart: The memory consumption of the selendroid process
+[2014-02-05 21:24:14] lukeis: ah
+[2014-02-05 21:24:47] lukeis: webview bits don't get instantiated until your request to switch to a webview right?
+[2014-02-05 21:24:57] simonstewart: Dunno
+[2014-02-05 21:24:59] ddary: exactly
