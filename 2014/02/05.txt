@@ -235,3 +235,17 @@
 [2014-02-05 21:27:21] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/model/DefaultSelendroidDriver.java#L334
 [2014-02-05 21:27:46] lukeis: lookie there ;)
 [2014-02-05 21:28:24] simonstewart: Aye
+[2014-02-05 21:31:40] selendroid-git, joining. (#selendroid)
+[2014-02-05 21:31:40] selendroid-git: [selendroid] shs96c pushed 3 new commits to master: http://git.io/AJKBAA
+[2014-02-05 21:31:40] selendroid-git: selendroid/master 13c08b6 Simon Stewart: Modify the handlers to accept the HttpRequest in the handle() method....
+[2014-02-05 21:31:40] selendroid-git: selendroid/master f3a0672 Simon Stewart: Switch to instantiating all request handlers at iniitialization time....
+[2014-02-05 21:31:40] selendroid-git: selendroid/master b3ba8e1 Simon Stewart: Bumping snapshot number in manifests.
+[2014-02-05 21:31:40] selendroid-git, leaving. (#selendroid)
+[2014-02-05 21:32:05] simonstewart: Wait
+[2014-02-05 21:32:09] simonstewart: That's totally fucked up
+[2014-02-05 21:34:12] simonstewart: Furrfu
+[2014-02-05 21:34:17] simonstewart: Right. Fine.
+[2014-02-05 21:34:20] simonstewart: Sorte
+[2014-02-05 21:34:20] simonstewart: d
+[2014-02-05 21:34:27] simonstewart: Those last messages are filthy lies
+[2014-02-05 21:34:42] simonstewart: r187eff3c was the interesting diff
