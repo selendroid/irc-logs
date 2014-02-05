@@ -52,3 +52,4 @@
 [2014-02-05 09:54:16] bhans1: when I recompiled it with 127.0.0.1, then no more unresolved host
 [2014-02-05 09:54:17] bhans1: errors
 [2014-02-05 09:58:21] bhans1: wait, let me just send you ;)
+[2014-02-05 10:17:11] bhans1: here you go: http://pastebin.com/G66p9ZB7
