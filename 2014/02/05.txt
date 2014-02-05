@@ -136,3 +136,5 @@
 [2014-02-05 17:54:31] ddary, quitting. (Quit: ddary)
 [2014-02-05 18:29:03] jlipps, joining. (#selendroid)
 [2014-02-05 18:29:17] jlipps, quitting. (Client Quit)
+[2014-02-05 18:30:15] lukeis, joining. (#selendroid)
+[2014-02-05 18:30:56] lukeis: i think selendroidbot has some issues with notes ;) at least logging works
