@@ -84,3 +84,4 @@
 [2014-02-05 13:58:35] ddary: :snapshot
 [2014-02-05 14:35:28] ddary, quitting. (Quit: ddary)
 [2014-02-05 14:37:22] smccarthy, joining. (#selendroid)
+[2014-02-05 15:18:11] ddary, joining. (#selendroid)
