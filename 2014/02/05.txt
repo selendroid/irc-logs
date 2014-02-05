@@ -87,3 +87,19 @@
 [2014-02-05 15:18:11] ddary, joining. (#selendroid)
 [2014-02-05 15:49:25] ddary, quitting. (Ping timeout: 272 seconds)
 [2014-02-05 17:10:42] ddary, joining. (#selendroid)
+[2014-02-05 17:16:38] simonstewart, joining. (#selendroid)
+[2014-02-05 17:17:01] simonstewart: ddary: oleks has been profiling selendroid. Expect some performance tweaks to land soon
+[2014-02-05 17:17:22] ddary: hi simonstewart
+[2014-02-05 17:17:31] ddary: sounds good
+[2014-02-05 17:17:41] ddary: what are the main issues?
+[2014-02-05 17:17:52] simonstewart: Using SecureRandom lots when we generate UUID
+[2014-02-05 17:17:53] simonstewart: s
+[2014-02-05 17:18:14] simonstewart: and the code in "isFor" when matching a URL to the handler is also super-churny
+[2014-02-05 17:18:30] ddary: note: lukeis it is probably a good idea to wait until simonstewart has landed the performance tweaks
+[2014-02-05 17:18:49] ddary: :note lukeis it is probably a good idea to wait until simonstewart has landed the performance tweaks
+[2014-02-05 17:19:04] ddary: simonstewart: ok
+[2014-02-05 17:19:14] simonstewart: Thanks
+[2014-02-05 17:19:19] ddary: lukeis had planned to ship the release today
+[2014-02-05 17:19:38] simonstewart: Should be landing today
+[2014-02-05 17:19:42] simonstewart: Before I go into meetings :)
+[2014-02-05 17:19:58] ddary: :)
