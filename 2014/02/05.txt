@@ -11,3 +11,4 @@
 [2014-02-05 08:20:46] ddary, joining. (#selendroid)
 [2014-02-05 08:22:13] ddary: :note lukeis Oh cool! no, i have not anything important in the pipeline.
 [2014-02-05 08:33:12] ddary: :note lukeis the only thing that needs to be updated as well before we annouce the release is the documentation. Biggest change is the usage of port 4444.
+[2014-02-05 08:51:14] ddary, quitting. (Ping timeout: 246 seconds)
