@@ -57,3 +57,11 @@
 [2014-02-05 10:23:17] ddary: thanks for the pointer, now i know that you mean exactly
 [2014-02-05 10:23:53] ddary: can you create an issue for it?
 [2014-02-05 10:24:18] ddary: than we will probably change it before we release the 0.8.0
+[2014-02-05 10:26:07] bhans1: in github?
+[2014-02-05 10:26:21] ddary: yep
+[2014-02-05 10:26:31] bhans1: sure :)
+[2014-02-05 10:27:33] ddary: thanks
+[2014-02-05 10:29:56] selendroid-git, joining. (#selendroid)
+[2014-02-05 10:29:57] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/KyJzXg
+[2014-02-05 10:29:57] selendroid-git: selendroid/master ba09447 Dominik Dary: Native elements only are asked about visibility and ancestors are ignored.
+[2014-02-05 10:29:57] selendroid-git, leaving. (#selendroid)
