@@ -74,3 +74,4 @@
 [2014-02-06 20:55:12] smccarthy: Ok cool. Thanks, will try this out in a few! :)
 [2014-02-06 20:58:17] ddary, joining. (#selendroid)
 [2014-02-06 20:58:51] ddary, quitting. (Client Quit)
+[2014-02-06 21:17:35] jlipps, joining. (#selendroid)
