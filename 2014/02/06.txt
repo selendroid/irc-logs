@@ -15,3 +15,4 @@
 [2014-02-06 16:38:01] ddary: smccarthy: that is a good question
 [2014-02-06 16:38:17] ddary: i think it has something to do with github image caching
 [2014-02-06 16:38:46] smccarthy: ddary: oh cool k! :)
+[2014-02-06 16:42:27] ddary, quitting. (Quit: Page closed)
