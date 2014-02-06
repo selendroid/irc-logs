@@ -4,3 +4,4 @@
 [2014-02-06 09:32:04] sascha_, joining. (#selendroid)
 [2014-02-06 10:25:32] ddary_, joining. (#selendroid)
 [2014-02-06 10:25:35] ddary_, leaving. (#selendroid)
+[2014-02-06 11:01:51] ddary, quitting. (Quit: ddary)
