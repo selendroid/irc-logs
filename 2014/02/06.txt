@@ -56,3 +56,5 @@
 [2014-02-06 19:55:14] julian__: ah, interesting.  i haven't tried that.
 [2014-02-06 20:00:53] julian__: ah, ok. i was wrong.  i am using explicit waits, but didn't realize it.  i'm using the python bindings (i think that's the term) and see in the library's source a loop controlled by a thread timeout that uses an elapsed time that i provide as a limit.
 [2014-02-06 20:08:09] lukeis: unless you set the implicit wait to 0, selendroid has a default (of 5 seconds i think)
+[2014-02-06 20:13:04] julian__: cool. i was using the explicit wait for the specific element poll, but not setting the driver's implicit wait beforehand.
+[2014-02-06 20:14:36] julian__: thanks so much for your assistance.  you've given me some ideas about options to try out.
