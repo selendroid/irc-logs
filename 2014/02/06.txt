@@ -47,3 +47,9 @@
 [2014-02-06 19:48:54] julian__: ok, likely you can't offer more information, but i'm using addium with selendroid, switching to the webdriver, and polling for an element.  what i see is that, if the page doesn't complete loading, the polling timeout is never reached.  furthermore, the poll only occurs once.
 [2014-02-06 19:49:47] lukeis: addium? or appium?
 [2014-02-06 19:49:55] julian__: hahaha!
+[2014-02-06 19:50:01] julian__: crap!  yes!  appium!!
+[2014-02-06 19:50:16] julian__: i am using addium, but only to chat.  haha!
+[2014-02-06 19:50:36] lukeis: s/addium/adium/ :)
+[2014-02-06 19:52:53] julian__: anyway, from what i observed, it seemed like proper polling behavior may be dependent on a successful page load.
+[2014-02-06 19:54:32] lukeis: i recommend using Explicit waits and setting implicit to 0 ;)
+[2014-02-06 19:54:40] lukeis: (that's what I do)
