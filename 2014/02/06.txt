@@ -60,3 +60,6 @@
 [2014-02-06 20:14:36] julian__: thanks so much for your assistance.  you've given me some ideas about options to try out.
 [2014-02-06 20:21:21] julian__: yup!!  that worked.  setting the "global" implicit wait to 0, combined with an explicit wait for the element.  thanks again!!
 [2014-02-06 20:24:55] lukeis: you're welcome :)
+[2014-02-06 20:40:18] smccarthy: Is it possible to leave the Android AVD open for all my tests ?
+[2014-02-06 20:41:15] lukeis: locally running, yes, that's what I do (but only 1 test at a time)
+[2014-02-06 20:41:57] smccarthy: yea, i only want 1 test at at time, but i dont want to turn off the emulator for each test. I just want to close the browser/web view (only doing mobile web stuff). How do you keep it open ? Mine closes
