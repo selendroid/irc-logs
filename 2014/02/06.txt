@@ -26,3 +26,16 @@
 [2014-02-06 19:38:42] julian__: i was actually looking for a way to set it, and couldn't find one.  and noticed in the API docs at https://github.com/selendroid/selendroid/wiki/JSON-Wire-Protocol:-Supported-Methods only timeouts/implicit_wait is listed.
 [2014-02-06 19:39:29] lukeis: it's still a very much experimental thing even for the desktop browsers
 [2014-02-06 19:39:45] lukeis: firefox has a partial implementation, i think chrome does too
+[2014-02-06 19:40:08] lukeis: it's intended to be set through DesiredCapabilities i believe
+[2014-02-06 19:40:24] ddary: ah
+[2014-02-06 19:40:30] ddary: i haven't found it
+[2014-02-06 19:40:49] julian__: ah. ok. but selendroid doesn't support it with WebViews, right?
+[2014-02-06 19:40:54] lukeis: correct :)
+[2014-02-06 19:41:17] julian__: ok. np.
+[2014-02-06 19:41:19] lukeis: (it's not high on my priority list to implement either)
+[2014-02-06 19:42:25] lukeis: and it may prove too difficult to implement properly
+[2014-02-06 19:43:38] julian__: when using selendroid to automate a WebView, if a command to find an element is issued, but the page WebView hasn't completed loading, what's selendroid's expected behavior?
+[2014-02-06 19:44:07] lukeis: element not found…. maybe ;)
+[2014-02-06 19:44:14] lukeis: at that point we're using Selenium's atoms
+[2014-02-06 19:44:14] julian__: haha! ok.
+[2014-02-06 19:44:49] julian__: ah, new concept for me.
