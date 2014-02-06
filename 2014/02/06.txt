@@ -20,3 +20,9 @@
 [2014-02-06 17:33:24] lukeis, joining. (#selendroid)
 [2014-02-06 19:31:06] ddary, joining. (#selendroid)
 [2014-02-06 19:33:32] julian__, joining. (#selendroid)
+[2014-02-06 19:35:11] julian__: it seems pageLoadTimeout isn't supported for WebViews, is that right?
+[2014-02-06 19:37:11] ddary: how are you setting it?
+[2014-02-06 19:37:41] lukeis: i don't believe that is supported as defined in the spec
+[2014-02-06 19:38:42] julian__: i was actually looking for a way to set it, and couldn't find one.  and noticed in the API docs at https://github.com/selendroid/selendroid/wiki/JSON-Wire-Protocol:-Supported-Methods only timeouts/implicit_wait is listed.
+[2014-02-06 19:39:29] lukeis: it's still a very much experimental thing even for the desktop browsers
+[2014-02-06 19:39:45] lukeis: firefox has a partial implementation, i think chrome does too
