@@ -11,3 +11,7 @@
 [2014-02-06 14:41:20] smccarthy, joining. (#selendroid)
 [2014-02-06 15:19:48] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-06 16:31:31] smccarthy, joining. (#selendroid)
+[2014-02-06 16:36:23] smccarthy: Why does https://github.com/selendroid/selendroid show the build as failing, when the last job on http://ci.selendroid.io/job/selendroid/ is passing ?
+[2014-02-06 16:38:01] ddary: smccarthy: that is a good question
+[2014-02-06 16:38:17] ddary: i think it has something to do with github image caching
+[2014-02-06 16:38:46] smccarthy: ddary: oh cool k! :)
