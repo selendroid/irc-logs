@@ -39,3 +39,11 @@
 [2014-02-06 19:44:14] lukeis: at that point we're using Selenium's atoms
 [2014-02-06 19:44:14] julian__: haha! ok.
 [2014-02-06 19:44:49] julian__: ah, new concept for me.
+[2014-02-06 19:45:05] julian__: but basically, it's out of your hands.
+[2014-02-06 19:47:08] lukeis: it's all in my hands! (muhahahah) :)
+[2014-02-06 19:47:21] julian__: haha! careful what claims you make!!
+[2014-02-06 19:47:22] *lukeis has plenty of control of Selenium's atoms too'
+[2014-02-06 19:47:43] ddary, leaving. (#selendroid)
+[2014-02-06 19:48:54] julian__: ok, likely you can't offer more information, but i'm using addium with selendroid, switching to the webdriver, and polling for an element.  what i see is that, if the page doesn't complete loading, the polling timeout is never reached.  furthermore, the poll only occurs once.
+[2014-02-06 19:49:47] lukeis: addium? or appium?
+[2014-02-06 19:49:55] julian__: hahaha!
