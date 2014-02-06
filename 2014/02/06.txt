@@ -75,3 +75,12 @@
 [2014-02-06 20:58:17] ddary, joining. (#selendroid)
 [2014-02-06 20:58:51] ddary, quitting. (Client Quit)
 [2014-02-06 21:17:35] jlipps, joining. (#selendroid)
+[2014-02-06 21:20:59] lukeis: hiya jlipps, i have a manager asking me repeatedly…. when do you think the latest selendroid will be available in saucelabs?  (they don't like seeing failing tests, i don't mind, but apparently they do :) )
+[2014-02-06 21:21:19] jlipps: haha. well i'm working on that right now.
+[2014-02-06 21:21:28] jlipps: we haven't had a release of appium in a while so i'm running the full test suite
+[2014-02-06 21:21:35] jlipps: when that's done i'll cut the release and then get it into our build
+[2014-02-06 21:21:41] lukeis: i gave them a general "early next week" if it's before that I'll be happy ;)
+[2014-02-06 21:21:47] jlipps: i'm not anticipating huge problems so i'd imagine by the end of the day
+[2014-02-06 21:21:52] lukeis: sweet
+[2014-02-06 21:23:01] lukeis: i want to reply to them, "it'll be there when it's there and you'll know because these tests will magically start passing. so stop bugging me." :)
+[2014-02-06 21:23:30] jlipps: that sounds like a diplomatic response
