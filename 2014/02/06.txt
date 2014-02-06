@@ -71,3 +71,6 @@
 [2014-02-06 20:52:49] lukeis: and you have to have the emulator *already running* before you start the selendroid server
 [2014-02-06 20:53:47] smccarthy: ok cool. I thought I read somewhere that if the AVD is running before you start the selendroid server, the selendroid server will remove that running AVD from some list ?
 [2014-02-06 20:54:07] lukeis: correct… when not using -installedApp :)
+[2014-02-06 20:55:12] smccarthy: Ok cool. Thanks, will try this out in a few! :)
+[2014-02-06 20:58:17] ddary, joining. (#selendroid)
+[2014-02-06 20:58:51] ddary, quitting. (Client Quit)
