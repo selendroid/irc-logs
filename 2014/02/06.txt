@@ -16,3 +16,4 @@
 [2014-02-06 16:38:17] ddary: i think it has something to do with github image caching
 [2014-02-06 16:38:46] smccarthy: ddary: oh cool k! :)
 [2014-02-06 16:42:27] ddary, quitting. (Quit: Page closed)
+[2014-02-06 17:18:02] sascha_, quitting. (Read error: Operation timed out)
