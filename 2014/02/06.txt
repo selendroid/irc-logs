@@ -53,3 +53,4 @@
 [2014-02-06 19:52:53] julian__: anyway, from what i observed, it seemed like proper polling behavior may be dependent on a successful page load.
 [2014-02-06 19:54:32] lukeis: i recommend using Explicit waits and setting implicit to 0 ;)
 [2014-02-06 19:54:40] lukeis: (that's what I do)
+[2014-02-06 19:55:14] julian__: ah, interesting.  i haven't tried that.
