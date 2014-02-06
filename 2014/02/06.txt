@@ -64,3 +64,10 @@
 [2014-02-06 20:41:15] lukeis: locally running, yes, that's what I do (but only 1 test at a time)
 [2014-02-06 20:41:57] smccarthy: yea, i only want 1 test at at time, but i dont want to turn off the emulator for each test. I just want to close the browser/web view (only doing mobile web stuff). How do you keep it open ? Mine closes
 [2014-02-06 20:49:56] lukeis: see the -installedApp option
+[2014-02-06 20:50:03] julian__, leaving. (#selendroid)
+[2014-02-06 20:51:07] smccarthy: so my installedApp will be the default browser on Android ?
+[2014-02-06 20:51:57] lukeis: um, just put anything for now…. -installedApp blah.blah.blah/Blah  :)
+[2014-02-06 20:52:03] smccarthy: oh ok :)
+[2014-02-06 20:52:49] lukeis: and you have to have the emulator *already running* before you start the selendroid server
+[2014-02-06 20:53:47] smccarthy: ok cool. I thought I read somewhere that if the AVD is running before you start the selendroid server, the selendroid server will remove that running AVD from some list ?
+[2014-02-06 20:54:07] lukeis: correct… when not using -installedApp :)
