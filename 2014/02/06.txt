@@ -54,3 +54,4 @@
 [2014-02-06 19:54:32] lukeis: i recommend using Explicit waits and setting implicit to 0 ;)
 [2014-02-06 19:54:40] lukeis: (that's what I do)
 [2014-02-06 19:55:14] julian__: ah, interesting.  i haven't tried that.
+[2014-02-06 20:00:53] julian__: ah, ok. i was wrong.  i am using explicit waits, but didn't realize it.  i'm using the python bindings (i think that's the term) and see in the library's source a loop controlled by a thread timeout that uses an elapsed time that i provide as a limit.
