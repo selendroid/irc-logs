@@ -84,3 +84,4 @@
 [2014-02-06 21:21:52] lukeis: sweet
 [2014-02-06 21:23:01] lukeis: i want to reply to them, "it'll be there when it's there and you'll know because these tests will magically start passing. so stop bugging me." :)
 [2014-02-06 21:23:30] jlipps: that sounds like a diplomatic response
+[2014-02-06 23:44:55] smccarthy2, joining. (#selendroid)
