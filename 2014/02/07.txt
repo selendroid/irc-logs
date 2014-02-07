@@ -10,3 +10,17 @@
 [2014-02-07 11:38:08] bhans1, quitting. (Ping timeout: 245 seconds)
 [2014-02-07 13:37:45] ddary, joining. (#selendroid)
 [2014-02-07 14:11:47] oskoryk, joining. (#selendroid)
+[2014-02-07 14:17:14] oskoryk: hi @ddary
+[2014-02-07 14:17:29] ddary: Hi oskoryk
+[2014-02-07 14:17:30] oskoryk: I think that your recent commit to Selendroid become a reason of failures in our FB-android tests.
+[2014-02-07 14:17:36] oskoryk: Here is a link to your commit and place, which I assume is problematic:
+[2014-02-07 14:17:43] oskoryk: https://github.com/skorknure/selendroid/commit/6135c23ddc79dfb60619c02ee7229305b5bbde74#diff-c992c47aea57491eb451b5ee4c0fca71L88
+[2014-02-07 14:17:51] oskoryk: Test was doing the following:
+[2014-02-07 14:17:55] oskoryk: - logout from FB app;
+[2014-02-07 14:18:01] oskoryk: - type into the username field to soon (before the transition has completed), which does nothing;
+[2014-02-07 14:18:05] oskoryk: - type into the password field
+[2014-02-07 14:18:10] oskoryk: logging in then fails.
+[2014-02-07 14:18:15] oskoryk: So waiting for UI to become idle is broken in Selendroid.
+[2014-02-07 14:19:10] oskoryk: It works for all commits before the one I mentioned above. And fails on that and all more recent
+[2014-02-07 14:19:32] ddary: the main change is line 99
+[2014-02-07 14:19:57] ddary: in the past the full ui hierarchy was checked and that caused errors on fragments
