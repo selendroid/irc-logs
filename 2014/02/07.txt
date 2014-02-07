@@ -141,3 +141,4 @@
 [2014-02-07 16:17:18] ddary: thanks
 [2014-02-07 16:17:55] ddary: :note lukeis do you face this issue as well #268
 [2014-02-07 16:19:46] ddary, quitting. (Quit: ddary)
+[2014-02-07 16:23:38] smccarthy, joining. (#selendroid)
