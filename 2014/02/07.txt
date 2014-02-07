@@ -137,3 +137,7 @@
 [2014-02-07 15:52:42] oskoryk: as you told, problem with View.VISIBLE == getView().getVisibility() was that it didn't work in all cases
 [2014-02-07 15:53:49] oskoryk: so if problem is not in performance - should we consider checking "isVisible = (View.VISIBLE == getView().getVisibility()) || getView().isShown()" ?
 [2014-02-07 16:03:10] ddary: would be an option
+[2014-02-07 16:16:08] oskoryk: @ddary: https://github.com/selendroid/selendroid/issues/268
+[2014-02-07 16:17:18] ddary: thanks
+[2014-02-07 16:17:55] ddary: :note lukeis do you face this issue as well #268
+[2014-02-07 16:19:46] ddary, quitting. (Quit: ddary)
