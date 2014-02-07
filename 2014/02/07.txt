@@ -82,3 +82,16 @@
 [2014-02-07 14:53:18] ddary: emulator i haven't use in this flow, give me a sec
 [2014-02-07 14:53:34] simonstewart: That exception says you're sending the event to another application
 [2014-02-07 14:53:50] simonstewart: (line 53)
+[2014-02-07 14:55:03] oskoryk: btw, FYI, if you are right - then Espresso framework won't work as well in this case
+[2014-02-07 14:55:29] oskoryk: because our event injections uses 1% of what is implemented in Espresso.
+[2014-02-07 14:55:30] simonstewart: Indeed
+[2014-02-07 14:56:51] ddary: The situation is that during the flow a fragment is displayed which opens a window and there i enter text, but clicking throws that error
+[2014-02-07 14:57:02] ddary: everything is ebay app.
+[2014-02-07 14:57:08] simonstewart: Interesting
+[2014-02-07 14:57:19] simonstewart: Wonder why that exception gets thrown, then?
+[2014-02-07 14:57:41] simonstewart: Seems like an android bug if it doesn't happen consistently
+[2014-02-07 14:57:42] ddary: with regards to other application: my guess is, that selendroid server is one apk and the ebay another one
+[2014-02-07 14:57:57] ddary: or a bug
+[2014-02-07 14:58:27] simonstewart: But aren't we using instrumentation? And therefore are "part" of the ebay app at that point?
+[2014-02-07 14:59:15] ddary: yeah, but for starting an activity we have to use the targetContext
+[2014-02-07 14:59:48] simonstewart: Bah!
