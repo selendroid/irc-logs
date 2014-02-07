@@ -30,3 +30,12 @@
 [2014-02-07 14:23:08] ddary: In my experience the isShown method is not working reliable. so we had false positives.
 [2014-02-07 14:23:46] ddary: But i have no example I can give you where you can see, where it should work but fails
 [2014-02-07 14:24:17] ddary: do you have issues with clicking buttons and getting this permission error in the facebook app?
+[2014-02-07 14:25:03] oskoryk: no
+[2014-02-07 14:25:45] ddary: ok
+[2014-02-07 14:25:46] oskoryk: can it be related to android.permission.INJECT_EVENTS?
+[2014-02-07 14:25:55] ddary: yes
+[2014-02-07 14:26:07] ddary: the issue is, before we did not need that permission
+[2014-02-07 14:26:35] ddary: we don't have that one in our app, so now i have one scenario that fails
+[2014-02-07 14:26:45] oskoryk: we have this permission
+[2014-02-07 14:27:54] oskoryk: but I'm can't confirm that it is necessary. For some reason we had it a long time ago
+[2014-02-07 14:28:16] oskoryk: I mean, necessary for my changes with event handling
