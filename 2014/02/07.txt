@@ -9,3 +9,4 @@
 [2014-02-07 09:22:45] sascha_, joining. (#selendroid)
 [2014-02-07 11:38:08] bhans1, quitting. (Ping timeout: 245 seconds)
 [2014-02-07 13:37:45] ddary, joining. (#selendroid)
+[2014-02-07 14:11:47] oskoryk, joining. (#selendroid)
