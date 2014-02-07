@@ -115,3 +115,19 @@
 [2014-02-07 15:04:18] simonstewart: Or just the case you mentioned?
 [2014-02-07 15:04:43] ddary: the case i mentioned, but there are a lot of clicks before to come to that point
 [2014-02-07 15:04:57] simonstewart: Put another way: should we detect we're in an emulator and use event injection, and on a device and use the original mechanism?
+[2014-02-07 15:05:31] simonstewart: Or would it be better to always try event injection, but fall back to the original mechanism only when the root cause of a failure is that security exception?
+[2014-02-07 15:05:43] ddary: would be an option
+[2014-02-07 15:06:44] simonstewart: Well, that's two options :)
+[2014-02-07 15:06:57] simonstewart: I think my preference is the fallback approach
+[2014-02-07 15:06:57] ddary: to be honest, i don't understand the issue completely. just see some effects and before we change stuff, would be better to have the full picture and also see what the other customers are reporting
+[2014-02-07 15:07:05] simonstewart: OK
+[2014-02-07 15:07:44] simonstewart: It's your project. It'd be terribly sad to lose the ability to detect app crashes and report the cause
+[2014-02-07 15:08:23] ddary: i'm fine with: try the new approach, if that fails use the old one
+[2014-02-07 15:08:37] simonstewart: Cool. That's what we'll do then
+[2014-02-07 15:08:39] simonstewart: Thank you!
+[2014-02-07 15:08:48] ddary: thank you!
+[2014-02-07 15:09:16] ddary: and with the isDisplayed issue: I will have a look again
+[2014-02-07 15:09:23] simonstewart: And now, back to my deathbed!
+[2014-02-07 15:09:28] simonstewart: Cheerio
+[2014-02-07 15:09:34] simonstewart, leaving. (#selendroid)
+[2014-02-07 15:09:39] ddary: bye
