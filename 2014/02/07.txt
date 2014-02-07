@@ -55,3 +55,18 @@
 [2014-02-07 14:43:54] simonstewart: So, what can I do to help?
 [2014-02-07 14:44:04] simonstewart: oskoryk asked me to drop by
 [2014-02-07 14:44:37] oskoryk: @ddary: regarding to android.permission.INJECT_EVENTS. I've just tried to remove it from selendroid (both places we have it) and tests still run well
+[2014-02-07 14:45:15] simonstewart: Is that our Android tests? Or the selendroid ones?
+[2014-02-07 14:45:29] oskoryk: selendroid ones
+[2014-02-07 14:45:49] ddary: simonstewart: we have at one fragment an window and when I click there the button, selendroid get the exception that in the ebay app we don't have the inject events permisson
+[2014-02-07 14:45:53] simonstewart: OK. And that doesn't ask for that permission in its manifest, right?
+[2014-02-07 14:46:12] simonstewart: Which version of android?
+[2014-02-07 14:46:25] oskoryk: @simonstewart: it doesn't
+[2014-02-07 14:46:32] ddary: yeah, the ebay app does not have the permisson. Android15 Samsung galaxy nexus device
+[2014-02-07 14:46:58] simonstewart: 4.0.3?
+[2014-02-07 14:47:19] ddary: 4.0.4
+[2014-02-07 14:47:25] simonstewart: Hmm...
+[2014-02-07 14:47:40] ddary: will try with a htc one
+[2014-02-07 14:47:53] simonstewart: OK
+[2014-02-07 14:48:14] simonstewart: Is there a simple check we can do to see whether the event injection should work?
+[2014-02-07 14:49:21] ddary: i thought about sending it, and it we get an ExecutionException then use the way we used before
+[2014-02-07 14:49:47] simonstewart: Does it happen all the time in the ebay app? Or just sometimes?
