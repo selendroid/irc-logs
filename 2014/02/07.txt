@@ -150,3 +150,5 @@
 [2014-02-07 18:14:17] jlipps, quitting. (Remote host closed the connection)
 [2014-02-07 18:47:30] lukeis, joining. (#selendroid)
 [2014-02-07 18:49:25] lukeis: :note ddary no, i don't think i've had extra visibility issues. I have however had the developers complain every once in a while about the inject events thing
+[2014-02-07 19:57:37] oskoryk, quitting. (Remote host closed the connection)
+[2014-02-07 19:58:09] oskoryk, joining. (#selendroid)
