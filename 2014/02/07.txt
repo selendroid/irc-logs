@@ -95,3 +95,23 @@
 [2014-02-07 14:58:27] simonstewart: But aren't we using instrumentation? And therefore are "part" of the ebay app at that point?
 [2014-02-07 14:59:15] ddary: yeah, but for starting an activity we have to use the targetContext
 [2014-02-07 14:59:48] simonstewart: Bah!
+[2014-02-07 15:00:05] simonstewart: With the event injection we do, we can catch and report app crashes
+[2014-02-07 15:00:09] simonstewart: (which is _huge_ for us)
+[2014-02-07 15:00:26] simonstewart: And not only catch them, but also get the cause of the crash
+[2014-02-07 15:00:46] ddary: and that is great
+[2014-02-07 15:01:19] simonstewart: Right
+[2014-02-07 15:01:28] simonstewart: So removing it entirely would be suboptimal
+[2014-02-07 15:01:32] ddary: sometimes i hate android
+[2014-02-07 15:01:40] simonstewart: "sometimes"
+[2014-02-07 15:01:43] ddary: on the devices it fails
+[2014-02-07 15:01:47] simonstewart: FFS
+[2014-02-07 15:01:56] simonstewart: But only sometimes, in that case?
+[2014-02-07 15:01:56] ddary: emulator Android17 it is fine
+[2014-02-07 15:02:09] simonstewart: Not "every time you try and use event injection"?
+[2014-02-07 15:02:52] ddary: on the devices it was not working at all
+[2014-02-07 15:03:03] ddary: on the emulator now it was the first try
+[2014-02-07 15:03:12] ddary: and there it worked :)
+[2014-02-07 15:03:34] simonstewart: For every input?
+[2014-02-07 15:04:18] simonstewart: Or just the case you mentioned?
+[2014-02-07 15:04:43] ddary: the case i mentioned, but there are a lot of clicks before to come to that point
+[2014-02-07 15:04:57] simonstewart: Put another way: should we detect we're in an emulator and use event injection, and on a device and use the original mechanism?
