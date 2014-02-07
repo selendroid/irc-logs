@@ -70,3 +70,15 @@
 [2014-02-07 14:48:14] simonstewart: Is there a simple check we can do to see whether the event injection should work?
 [2014-02-07 14:49:21] ddary: i thought about sending it, and it we get an ExecutionException then use the way we used before
 [2014-02-07 14:49:47] simonstewart: Does it happen all the time in the ebay app? Or just sometimes?
+[2014-02-07 14:50:31] ddary: only in one particular place:
+[2014-02-07 14:50:47] ddary: test runs on the htc one
+[2014-02-07 14:50:54] simonstewart: Jeepers.
+[2014-02-07 14:51:03] simonstewart: Sounds like falling back because of that exception makes sense
+[2014-02-07 14:51:48] simonstewart: It'd be nice if Android wasn't a mess
+[2014-02-07 14:52:14] ddary: it fails as well on android17
+[2014-02-07 14:52:50] ddary: and the stacktrace is: https://gist.github.com/DominikDary/8862929
+[2014-02-07 14:52:53] simonstewart: The x86 emulator?
+[2014-02-07 14:52:59] ddary: real device
+[2014-02-07 14:53:18] ddary: emulator i haven't use in this flow, give me a sec
+[2014-02-07 14:53:34] simonstewart: That exception says you're sending the event to another application
+[2014-02-07 14:53:50] simonstewart: (line 53)
