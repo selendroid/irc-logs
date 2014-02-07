@@ -143,3 +143,5 @@
 [2014-02-07 16:19:46] ddary, quitting. (Quit: ddary)
 [2014-02-07 16:23:38] smccarthy, joining. (#selendroid)
 [2014-02-07 16:27:49] oskoryk: @ddary: sorry, possible solution is "boolean isElementDisplayed = (View.VISIBLE == getView().getVisibility()) && getView().isShown();". &&, not ||
+[2014-02-07 17:05:55] jlipps, joining. (#selendroid)
+[2014-02-07 17:09:47] sascha_, quitting. (Ping timeout: 250 seconds)
