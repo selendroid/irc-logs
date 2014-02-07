@@ -39,3 +39,8 @@
 [2014-02-07 14:26:45] oskoryk: we have this permission
 [2014-02-07 14:27:54] oskoryk: but I'm can't confirm that it is necessary. For some reason we had it a long time ago
 [2014-02-07 14:28:16] oskoryk: I mean, necessary for my changes with event handling
+[2014-02-07 14:31:19] oskoryk: do you have any suggestions on how to fix getView().getVisibility() problem?
+[2014-02-07 14:31:50] oskoryk: should we consider turning back to getView().isShown() instead?
+[2014-02-07 14:32:57] ddary: i would prefer not to go back to is shown because it was not working in all the cases
+[2014-02-07 14:33:24] ddary: currently I have no better suggestion than getVisibility()
+[2014-02-07 14:33:47] ddary: on my end i'm blocked with that permission problem
