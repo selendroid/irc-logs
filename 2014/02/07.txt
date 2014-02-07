@@ -1,0 +1,2 @@
+[2014-02-07 01:00:17] smccarthy2, quitting. (Remote host closed the connection)
+[2014-02-07 01:04:10] lukeis, quitting. (Quit: Leaving.)
