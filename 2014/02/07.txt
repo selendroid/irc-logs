@@ -44,3 +44,14 @@
 [2014-02-07 14:32:57] ddary: i would prefer not to go back to is shown because it was not working in all the cases
 [2014-02-07 14:33:24] ddary: currently I have no better suggestion than getVisibility()
 [2014-02-07 14:33:47] ddary: on my end i'm blocked with that permission problem
+[2014-02-07 14:41:30] ddary: oskoryk: the issue you have, is that occurring once in on part of the test suite or on different places
+[2014-02-07 14:41:34] ddary: ?
+[2014-02-07 14:42:16] simonstewart, joining. (#selendroid)
+[2014-02-07 14:42:24] simonstewart: Here now
+[2014-02-07 14:42:25] simonstewart: 'sup
+[2014-02-07 14:42:26] simonstewart: ?
+[2014-02-07 14:42:46] oskoryk: @ddary I'm not sure. At least once, but in a very basic and simple case
+[2014-02-07 14:42:57] ddary: hi
+[2014-02-07 14:43:54] simonstewart: So, what can I do to help?
+[2014-02-07 14:44:04] simonstewart: oskoryk asked me to drop by
+[2014-02-07 14:44:37] oskoryk: @ddary: regarding to android.permission.INJECT_EVENTS. I've just tried to remove it from selendroid (both places we have it) and tests still run well
