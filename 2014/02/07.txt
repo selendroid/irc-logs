@@ -132,3 +132,7 @@
 [2014-02-07 15:09:34] simonstewart, leaving. (#selendroid)
 [2014-02-07 15:09:39] ddary: bye
 [2014-02-07 15:15:11] ddary: oskoryk: I will have a look at this isDisplayed() topic again. Can you file a bug? And if you have really a showstopper, we will find a solution!
+[2014-02-07 15:52:21] oskoryk: @ddary: yes, I'll do it soon
+[2014-02-07 15:52:38] ddary: ok
+[2014-02-07 15:52:42] oskoryk: as you told, problem with View.VISIBLE == getView().getVisibility() was that it didn't work in all cases
+[2014-02-07 15:53:49] oskoryk: so if problem is not in performance - should we consider checking "isVisible = (View.VISIBLE == getView().getVisibility()) || getView().isShown()" ?
