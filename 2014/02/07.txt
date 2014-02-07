@@ -24,3 +24,9 @@
 [2014-02-07 14:19:10] oskoryk: It works for all commits before the one I mentioned above. And fails on that and all more recent
 [2014-02-07 14:19:32] ddary: the main change is line 99
 [2014-02-07 14:19:57] ddary: in the past the full ui hierarchy was checked and that caused errors on fragments
+[2014-02-07 14:20:50] ddary: is there any similiar ui element in the ui tree? so maybe interacting with the wrong one?
+[2014-02-07 14:21:21] oskoryk: Simon suggested me to fix this problem if I can. But as it was your change - I decided to ask you, what do you think
+[2014-02-07 14:21:49] ddary: with regards to the event handling i have now somethings issues that I cannot click a button. The error message then  is: you don't have the permission inject events
+[2014-02-07 14:23:08] ddary: In my experience the isShown method is not working reliable. so we had false positives.
+[2014-02-07 14:23:46] ddary: But i have no example I can give you where you can see, where it should work but fails
+[2014-02-07 14:24:17] ddary: do you have issues with clicking buttons and getting this permission error in the facebook app?
