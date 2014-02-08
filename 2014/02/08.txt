@@ -6,3 +6,9 @@
 [2014-02-08 17:21:15] ddary: :note lukeis The inject events mechanism of simon works fine in my app. no big issues, except one window, there I cannot click a button. But the plan is to have a mechanism if injecting events fails, use the old approach.
 [2014-02-08 17:35:22] ddary, quitting. (Quit: ddary)
 [2014-02-08 17:55:49] smccarthy, joining. (#selendroid)
+[2014-02-08 20:34:13] midopa, joining. (#selendroid)
+[2014-02-08 20:34:14] midopa, quitting. (Read error: Connection reset by peer)
+[2014-02-08 20:34:29] midopa, joining. (#selendroid)
+[2014-02-08 20:34:41] midopa: heyo
+[2014-02-08 20:34:49] midopa: im trying to build selendroid with mvn 3.1x
+[2014-02-08 20:34:57] midopa: this is a known issue
