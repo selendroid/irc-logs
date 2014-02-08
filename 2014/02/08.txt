@@ -24,3 +24,4 @@
 [2014-02-08 20:41:15] midopa: ref https://code.google.com/p/maven-android-plugin/issues/detail?id=395
 [2014-02-08 20:41:35] midopa: anyway, just fyi
 [2014-02-08 21:02:55] midopa, leaving. (#selendroid)
+[2014-02-08 21:44:46] sascha_, quitting. (Ping timeout: 245 seconds)
