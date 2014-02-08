@@ -12,3 +12,12 @@
 [2014-02-08 20:34:41] midopa: heyo
 [2014-02-08 20:34:49] midopa: im trying to build selendroid with mvn 3.1x
 [2014-02-08 20:34:57] midopa: this is a known issue
+[2014-02-08 20:35:16] midopa: but i read some bug from the android-maven-plugin project
+[2014-02-08 20:35:23] midopa: and apparently they've fixed it in 3.8.0
+[2014-02-08 20:35:23] midopa: so i updated hte pom
+[2014-02-08 20:35:26] midopa: cleaned, rebuilt, and tested
+[2014-02-08 20:35:27] midopa: everything passes
+[2014-02-08 20:35:30] midopa: thoguhts?
+[2014-02-08 20:39:05] smccarthy: apache maven 3.8.0 ?
+[2014-02-08 20:39:24] smccarthy: oh nm android-maven-plugin
+[2014-02-08 20:39:53] midopa: yeah
