@@ -3,3 +3,4 @@
 [2014-02-08 08:23:01] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-08 08:29:49] sascha_, joining. (#selendroid)
 [2014-02-08 17:19:10] ddary, joining. (#selendroid)
+[2014-02-08 17:21:15] ddary: :note lukeis The inject events mechanism of simon works fine in my app. no big issues, except one window, there I cannot click a button. But the plan is to have a mechanism if injecting events fails, use the old approach.
