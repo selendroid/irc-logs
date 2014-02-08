@@ -25,3 +25,4 @@
 [2014-02-08 20:41:35] midopa: anyway, just fyi
 [2014-02-08 21:02:55] midopa, leaving. (#selendroid)
 [2014-02-08 21:44:46] sascha_, quitting. (Ping timeout: 245 seconds)
+[2014-02-08 22:57:27] lukeis, joining. (#selendroid)
