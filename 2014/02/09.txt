@@ -7,3 +7,4 @@
 [2014-02-09 09:34:14] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/SURvfg
 [2014-02-09 09:34:14] selendroid-git: selendroid/master 8c08042 Dominik Dary: Update README.md
 [2014-02-09 09:34:14] selendroid-git, leaving. (#selendroid)
+[2014-02-09 09:39:27] ddary, quitting. (Quit: ddary)
