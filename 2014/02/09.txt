@@ -9,3 +9,4 @@
 [2014-02-09 09:34:14] selendroid-git, leaving. (#selendroid)
 [2014-02-09 09:39:27] ddary, quitting. (Quit: ddary)
 [2014-02-09 15:35:54] smccarthy, joining. (#selendroid)
+[2014-02-09 22:12:31] smccarthy, quitting. (Remote host closed the connection)
