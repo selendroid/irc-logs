@@ -36,3 +36,4 @@
 [2014-02-10 15:57:53] ddary_, changing nick to ddary.
 [2014-02-10 16:52:40] smccarthy, joining. (#selendroid)
 [2014-02-10 16:57:33] simonstewart, leaving. (#selendroid)
+[2014-02-10 17:43:38] ddary, quitting. (Quit: ddary)
