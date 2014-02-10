@@ -20,3 +20,11 @@
 [2014-02-10 12:14:46] simonstewart: Yeah, I can do that
 [2014-02-10 12:14:50] simonstewart: bloody maven
 [2014-02-10 12:15:27] ddary: k
+[2014-02-10 15:19:33] 64MAACV80, joining. (#selendroid)
+[2014-02-10 15:19:33] 64MAACV80: [selendroid] DominikDary closed pull request #271: Update maven-android-plugin (master...update_maven_android) http://git.io/mDH3RQ
+[2014-02-10 15:19:33] 64MAACV80, leaving. (#selendroid)
+[2014-02-10 15:19:34] 18WAFRKQI, joining. (#selendroid)
+[2014-02-10 15:19:34] 18WAFRKQI: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/WYG9Yw
+[2014-02-10 15:19:34] 18WAFRKQI: selendroid/master 27cc030 bootstraponline: Update maven-android-plugin...
+[2014-02-10 15:19:34] 18WAFRKQI: selendroid/master b23d3b8 Dominik Dary: Merge pull request #271 from bootstraponline/update_maven_android...
+[2014-02-10 15:19:34] 18WAFRKQI, leaving. (#selendroid)
