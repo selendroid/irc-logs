@@ -6,3 +6,16 @@
 [2014-02-10 10:10:37] sascha_, joining. (#selendroid)
 [2014-02-10 11:26:53] bhans1, quitting. (Ping timeout: 245 seconds)
 [2014-02-10 12:00:49] simonstewart, joining. (#selendroid)
+[2014-02-10 12:10:37] ddary, joining. (#selendroid)
+[2014-02-10 12:11:53] ddary: hi simonstewart, when we met last august you said that in bully you have the source format in XML. Would it be possible that you can send me a sample?
+[2014-02-10 12:12:18] simonstewart: Blimey. I'll need to dig that code out of source control.
+[2014-02-10 12:12:29] simonstewart: We basically nuked almost everything when we switched to selendroid
+[2014-02-10 12:12:39] ddary: ok
+[2014-02-10 12:13:17] ddary: i will reply to the mail of jonathan lipps about the source format. ios-driver and selendroid are using the same format...
+[2014-02-10 12:13:22] ddary: xml and json
+[2014-02-10 12:13:24] simonstewart: Fair enough
+[2014-02-10 12:13:50] ddary: but i think generally it is better if the reply is in XML
+[2014-02-10 12:14:27] ddary: are you happy to update your maven installation? https://github.com/selendroid/selendroid/issues/270
+[2014-02-10 12:14:37] ddary: ;-)
+[2014-02-10 12:14:46] simonstewart: Yeah, I can do that
+[2014-02-10 12:14:50] simonstewart: bloody maven
