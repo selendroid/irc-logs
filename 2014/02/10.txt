@@ -31,3 +31,6 @@
 [2014-02-10 15:32:19] ddary, quitting. (Quit: Page closed)
 [2014-02-10 15:32:23] ddary_, joining. (#selendroid)
 [2014-02-10 15:40:49] ddary_: :spec
+[2014-02-10 15:56:46] ddary, joining. (#selendroid)
+[2014-02-10 15:57:12] ddary, quitting. (Client Quit)
+[2014-02-10 15:57:53] ddary_, changing nick to ddary.
