@@ -30,3 +30,4 @@
 [2014-02-10 15:19:34] 18WAFRKQI, leaving. (#selendroid)
 [2014-02-10 15:32:19] ddary, quitting. (Quit: Page closed)
 [2014-02-10 15:32:23] ddary_, joining. (#selendroid)
+[2014-02-10 15:40:49] ddary_: :spec
