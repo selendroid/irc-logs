@@ -251,3 +251,4 @@
 [2014-02-11 20:45:33] simonstewart: Very cool
 [2014-02-11 20:45:52] lukeis: the bump came from me closing all the selenium android issues and pointing them to selendroid ;)
 [2014-02-11 20:46:30] lukeis: (i did that on boxing day i think?)
+[2014-02-11 21:12:58] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
