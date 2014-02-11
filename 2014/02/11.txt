@@ -248,3 +248,6 @@
 [2014-02-11 20:35:57] simonstewart: That's great news
 [2014-02-11 20:43:31] lukeis: 17,454 unique vistors ;)
 [2014-02-11 20:44:51] lukeis: simonstewart: https://www.evernote.com/shard/s307/sh/3ed1df09-f443-48a9-b73d-071c531a075f/3f3258ff4edb944be8b5f38d53590608
+[2014-02-11 20:45:33] simonstewart: Very cool
+[2014-02-11 20:45:52] lukeis: the bump came from me closing all the selenium android issues and pointing them to selendroid ;)
+[2014-02-11 20:46:30] lukeis: (i did that on boxing day i think?)
