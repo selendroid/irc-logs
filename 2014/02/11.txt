@@ -14,3 +14,7 @@
 [2014-02-11 12:07:45] ddary, joining. (#selendroid)
 [2014-02-11 12:07:55] ddary: :spec
 [2014-02-11 12:09:02] friscodelrosario, joining. (#selendroid)
+[2014-02-11 12:13:31] yashas: emualtor android version 4.3
+[2014-02-11 12:13:35] yashas: ADT
+[2014-02-11 12:14:24] yashas: selendorid version 0.8.0
+[2014-02-11 12:14:52] yashas: is there anything in particular that i  have to do to get that view/snapshot
