@@ -184,3 +184,15 @@
 [2014-02-11 17:06:23] simonstewart_, changing nick to simonstewart.
 [2014-02-11 17:06:50] ddary: :spec
 [2014-02-11 17:23:49] lukeis, joining. (#selendroid)
+[2014-02-11 17:25:59] lukeis: oooh, ddary sent me 20! stickers (I'll have to be selective who I hand these out to ;) )
+[2014-02-11 17:26:14] ddary: :)
+[2014-02-11 17:26:33] ddary: good that you are here.
+[2014-02-11 17:26:37] lukeis: :)
+[2014-02-11 17:27:10] ddary: Simon asked the obvious question today:
+[2014-02-11 17:27:18] lukeis: grumble grumble buck… grumble grumble maven works just fine
+[2014-02-11 17:27:18] ddary: lukeis: guess what?
+[2014-02-11 17:27:24] lukeis: ;)
+[2014-02-11 17:28:18] ddary: i said: with regards to your "build tool change request" i'm personally fine to use it. We should probably also ask lukeis and think about the impact to appium. In the past they have used only the selendroid-server, but currently i'm not sure. I have seen some messages that looked like they are using the standalone server.
+[2014-02-11 17:28:35] lukeis: we'll still need to keep the maven build until buck grows the ability to deploy artifacts to maven central
+[2014-02-11 17:29:03] lukeis: honestly couldn't care less about how appium is consuming selendroid, they can adapt to however we change our build
+[2014-02-11 17:29:58] ddary: I think the best way would be if they grab the maven central version.
