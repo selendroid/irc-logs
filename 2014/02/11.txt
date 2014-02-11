@@ -163,3 +163,4 @@
 [2014-02-11 16:12:36] ddary: k
 [2014-02-11 16:13:55] ddary: we used for a while the version 0.4.15. but there is a issue about sending multiple responses for a request. after we have downgraded to 0.4.14 the issue is gone.
 [2014-02-11 16:14:35] ddary: I didn't had the time to dig deeper into webbit to solve the issue
+[2014-02-11 16:24:34] smccarthy, joining. (#selendroid)
