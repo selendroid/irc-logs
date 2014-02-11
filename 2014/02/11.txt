@@ -183,3 +183,4 @@
 [2014-02-11 17:06:23] simonstewart, quitting. (Read error: Connection reset by peer)
 [2014-02-11 17:06:23] simonstewart_, changing nick to simonstewart.
 [2014-02-11 17:06:50] ddary: :spec
+[2014-02-11 17:23:49] lukeis, joining. (#selendroid)
