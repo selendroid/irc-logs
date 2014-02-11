@@ -117,3 +117,7 @@
 [2014-02-11 12:59:01] ddary: my assumption is,that because the base package of the selendroid-server is 'io.selendroid' and the ServerInstrumentation class is in that package, you can remove that base package
 [2014-02-11 12:59:16] simonstewart: Shame that doesn't work :)
 [2014-02-11 12:59:42] ddary: you mean the buck build in general?
+[2014-02-11 13:00:23] simonstewart: I mean that when the standalone server installs the selendroid server on the device, the instrumentation package lacks "io.selendroid" prefixed to ".ServerInstrumentation"
+[2014-02-11 13:00:47] simonstewart: AbstractDevice appears to be getting the aut base package name correcrly
+[2014-02-11 13:03:28] ddary: the AndroidApplication.xml of the selendroid-server will be generated dynamically for the aut: https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/builder/SelendroidServerBuilder.java?source=c#L138
+[2014-02-11 13:04:44] ddary: lunch break, will be back soon
