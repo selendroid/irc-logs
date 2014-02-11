@@ -196,3 +196,15 @@
 [2014-02-11 17:28:35] lukeis: we'll still need to keep the maven build until buck grows the ability to deploy artifacts to maven central
 [2014-02-11 17:29:03] lukeis: honestly couldn't care less about how appium is consuming selendroid, they can adapt to however we change our build
 [2014-02-11 17:29:58] ddary: I think the best way would be if they grab the maven central version.
+[2014-02-11 17:30:11] lukeis: you could submit a pull request ;)
+[2014-02-11 17:30:12] ddary: everything else does not make sense
+[2014-02-11 17:30:28] lukeis: personally i hate git submodules with a passion of a thousand suns :)
+[2014-02-11 17:30:35] ddary: or let me rephrase it: i wouldn't do it
+[2014-02-11 17:30:54] lukeis: our app uses git submodules… worst mistake EVER
+[2014-02-11 17:31:08] ddary: clear interfaces, minimizing complexity
+[2014-02-11 17:31:14] lukeis: (they went a bit hog-wild with them… so many nested submodules it hurts)
+[2014-02-11 17:31:25] ddary: yeah
+[2014-02-11 17:33:30] ddary: simonstewart: with regards to moving to netty: if it is really just simple like that: http://netty.io/5.0/xref/io/netty/example/http/snoop/package-summary.html
+[2014-02-11 17:33:56] ddary: we should do it. And I'm happy to do it.
+[2014-02-11 17:34:46] simonstewart: git submodules can go die in a fire
+[2014-02-11 17:34:58] simonstewart: moving to netty is probably a good thing too
