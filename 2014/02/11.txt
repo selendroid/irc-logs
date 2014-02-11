@@ -42,3 +42,23 @@
 [2014-02-11 12:29:05] yashas: the ram size and vm ?
 [2014-02-11 12:29:23] yashas: is that necessay to be 1gb ram and 32 mb
 [2014-02-11 12:29:43] ddary: i made the best results with it
+[2014-02-11 12:30:08] ddary: what is your host setup, which OS you use?
+[2014-02-11 12:30:33] yashas: have u tried with lower settings.. will that effect anyway the image in inspector
+[2014-02-11 12:31:22] simonstewart, joining. (#selendroid)
+[2014-02-11 12:31:44] selendroid-git, joining. (#selendroid)
+[2014-02-11 12:31:44] selendroid-git: [selendroid] DominikDary pushed 3 new commits to master: http://git.io/qhAQXw
+[2014-02-11 12:31:44] selendroid-git: selendroid/master 298d84a Dominik Dary: Removing inject-events permission to be able to identify motion event issues.
+[2014-02-11 12:31:44] selendroid-git: selendroid/master ff97bba Dominik Dary: Adding test pages for mobile web touch tests.
+[2014-02-11 12:31:44] selendroid-git: selendroid/master 0e0a86a Dominik Dary: Fixing invalid return codes in case an exception will happen.
+[2014-02-11 12:31:44] selendroid-git, leaving. (#selendroid)
+[2014-02-11 12:31:46] yashas: host os is windows 7 pro
+[2014-02-11 12:31:50] friscodelrosario: Hi, Simon.
+[2014-02-11 12:32:06] simonstewart: hi
+[2014-02-11 12:32:07] simonstewart: :)
+[2014-02-11 12:32:08] ddary: yashas: does this run inside a vm?
+[2014-02-11 12:32:28] yashas: no
+[2014-02-11 12:32:50] yashas: its on my laptop(intel based)
+[2014-02-11 12:33:27] simonstewart: ddary: I'm working on getting selendroid building using buck
+[2014-02-11 12:34:06] ddary: simonstewart: I already wondered how long it will take until you work on it ;-)
+[2014-02-11 12:34:48] simonstewart: And I'm seeing that the name used for the ServerInstrumentation on the device is "instrumentation:io.selendroid/.ServerInstrumentation"
+[2014-02-11 12:34:50] ddary: i tried it a while ago and built the selendroid-server
