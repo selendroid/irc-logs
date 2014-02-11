@@ -8,3 +8,6 @@
 [2014-02-11 11:36:03] bhans1, quitting. (Ping timeout: 245 seconds)
 [2014-02-11 11:54:48] yashas, joining. (#selendroid)
 [2014-02-11 11:54:58] yashas: hi
+[2014-02-11 11:55:02] yashas: i have a issue
+[2014-02-11 11:55:31] yashas: The selendroid inspector is not showing the Android View/snapshot in the left side of the browser
+[2014-02-11 11:56:19] yashas: I have also added issue in git as  #275
