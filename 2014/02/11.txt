@@ -238,3 +238,4 @@
 [2014-02-11 18:36:59] _sascha, joining. (#selendroid)
 [2014-02-11 18:40:17] ddary, joining. (#selendroid)
 [2014-02-11 18:41:19] ddary, quitting. (Client Quit)
+[2014-02-11 19:13:04] friscodelrosario, joining. (#selendroid)
