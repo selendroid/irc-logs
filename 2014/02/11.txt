@@ -156,3 +156,10 @@
 [2014-02-11 16:08:47] simonstewart: last commit was two months ago
 [2014-02-11 16:09:42] ddary: yeah,
 [2014-02-11 16:09:52] ddary: some open pull requests
+[2014-02-11 16:10:29] simonstewart: Not that many though
+[2014-02-11 16:10:35] simonstewart: And three of them are relatively recent
+[2014-02-11 16:10:47] simonstewart: joejoejoe recently broke a bone or two
+[2014-02-11 16:10:54] simonstewart: so he may not be looking at the PRs much right now
+[2014-02-11 16:12:36] ddary: k
+[2014-02-11 16:13:55] ddary: we used for a while the version 0.4.15. but there is a issue about sending multiple responses for a request. after we have downgraded to 0.4.14 the issue is gone.
+[2014-02-11 16:14:35] ddary: I didn't had the time to dig deeper into webbit to solve the issue
