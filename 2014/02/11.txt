@@ -164,3 +164,12 @@
 [2014-02-11 16:13:55] ddary: we used for a while the version 0.4.15. but there is a issue about sending multiple responses for a request. after we have downgraded to 0.4.14 the issue is gone.
 [2014-02-11 16:14:35] ddary: I didn't had the time to dig deeper into webbit to solve the issue
 [2014-02-11 16:24:34] smccarthy, joining. (#selendroid)
+[2014-02-11 16:26:24] selendroid-git, joining. (#selendroid)
+[2014-02-11 16:26:24] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/G_YCtw
+[2014-02-11 16:26:24] selendroid-git: selendroid/master 46b84d8 Dominik Dary: Adding implementation for setting the orientation. Works fine, but it works only on the current activity.
+[2014-02-11 16:26:24] selendroid-git, leaving. (#selendroid)
+[2014-02-11 16:26:53] selendroid-git, joining. (#selendroid)
+[2014-02-11 16:26:53] selendroid-git: [selendroid] DominikDary deleted orientation at 6fc8b20: http://git.io/uyJxpQ
+[2014-02-11 16:26:53] selendroid-git, leaving. (#selendroid)
+[2014-02-11 16:27:46] simonstewart, quitting. (Quit: simonstewart)
+[2014-02-11 16:29:17] simonstewart, joining. (#selendroid)
