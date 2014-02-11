@@ -208,3 +208,20 @@
 [2014-02-11 17:33:56] ddary: we should do it. And I'm happy to do it.
 [2014-02-11 17:34:46] simonstewart: git submodules can go die in a fire
 [2014-02-11 17:34:58] simonstewart: moving to netty is probably a good thing too
+[2014-02-11 17:35:10] simonstewart: Just writing up a guide for the chaps here at work on how to extend selendroid
+[2014-02-11 17:35:14] simonstewart: Then I might pick it up
+[2014-02-11 17:35:41] simonstewart: qq: are all communications with the running selendroid server on the device mediated by the standalone server?
+[2014-02-11 17:35:57] ddary: simonstewart: you mean the this dynamic class loading topic?
+[2014-02-11 17:36:07] ddary: yes
+[2014-02-11 17:36:12] simonstewart: Well, that too.
+[2014-02-11 17:36:26] simonstewart: We'll be doing some high speed experimentation and picking the good bits
+[2014-02-11 17:37:52] lukeis: if you know the port the server is running on, you can communicate directly to it and not have the standalone acting as a proxy
+[2014-02-11 17:37:58] ddary: simonstewart: the appraoch your intern suggested for https://github.com/selendroid/selendroid/issues/268 works fine for me. If that works well you guys as well, then I will commit it.
+[2014-02-11 17:38:11] simonstewart: SGTM
+[2014-02-11 17:38:13] simonstewart: Thank you!
+[2014-02-11 17:38:51] ddary: kukeis, simonstewart: the only thing that will not work fine is taking screenshots, inspector, list sessions
+[2014-02-11 17:39:00] simonstewart: I have a patch for screenshots
+[2014-02-11 17:39:08] simonstewart: Similar to the approach taken by Spoon
+[2014-02-11 17:39:28] lukeis: (and logs from logcat need the standalone server)
+[2014-02-11 17:39:38] ddary: simonstewart: on the device , framebuffer or ddmlib?
+[2014-02-11 17:39:48] simonstewart: Lemme bounce you it
