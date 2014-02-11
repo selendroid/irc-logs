@@ -177,3 +177,4 @@
 [2014-02-11 16:30:08] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/D47j1A
 [2014-02-11 16:30:08] selendroid-git: selendroid/master 5af12fc Dominik Dary: Update changelog.md
 [2014-02-11 16:30:08] selendroid-git, leaving. (#selendroid)
+[2014-02-11 16:59:26] simonstewart, quitting. (Quit: simonstewart)
