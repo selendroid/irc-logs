@@ -245,3 +245,4 @@
 [2014-02-11 20:06:55] ddary: simonstewart: ok
 [2014-02-11 20:08:27] ddary: we crossed an hour ago 100000 page impression (in the last year) on the selendroid documentation page.
 [2014-02-11 20:21:35] ddary, quitting. (Quit: ddary)
+[2014-02-11 20:35:57] simonstewart: That's great news
