@@ -240,3 +240,4 @@
 [2014-02-11 18:41:19] ddary, quitting. (Client Quit)
 [2014-02-11 19:13:04] friscodelrosario, joining. (#selendroid)
 [2014-02-11 19:29:58] simonstewart, joining. (#selendroid)
+[2014-02-11 19:30:22] simonstewart: :note ddary I'd like your feedback. Happy to land the code myself
