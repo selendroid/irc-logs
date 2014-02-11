@@ -178,3 +178,4 @@
 [2014-02-11 16:30:08] selendroid-git: selendroid/master 5af12fc Dominik Dary: Update changelog.md
 [2014-02-11 16:30:08] selendroid-git, leaving. (#selendroid)
 [2014-02-11 16:59:26] simonstewart, quitting. (Quit: simonstewart)
+[2014-02-11 17:02:16] simonstewart, joining. (#selendroid)
