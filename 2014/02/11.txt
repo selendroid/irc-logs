@@ -241,3 +241,6 @@
 [2014-02-11 19:13:04] friscodelrosario, joining. (#selendroid)
 [2014-02-11 19:29:58] simonstewart, joining. (#selendroid)
 [2014-02-11 19:30:22] simonstewart: :note ddary I'd like your feedback. Happy to land the code myself
+[2014-02-11 20:06:35] ddary, joining. (#selendroid)
+[2014-02-11 20:06:55] ddary: simonstewart: ok
+[2014-02-11 20:08:27] ddary: we crossed an hour ago 100000 page impression (in the last year) on the selendroid documentation page.
