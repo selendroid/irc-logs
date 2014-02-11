@@ -236,3 +236,5 @@
 [2014-02-11 18:18:34] _sascha, quitting. (Ping timeout: 250 seconds)
 [2014-02-11 18:19:15] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-02-11 18:36:59] _sascha, joining. (#selendroid)
+[2014-02-11 18:40:17] ddary, joining. (#selendroid)
+[2014-02-11 18:41:19] ddary, quitting. (Client Quit)
