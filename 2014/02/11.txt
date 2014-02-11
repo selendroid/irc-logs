@@ -18,3 +18,10 @@
 [2014-02-11 12:13:35] yashas: ADT
 [2014-02-11 12:14:24] yashas: selendorid version 0.8.0
 [2014-02-11 12:14:52] yashas: is there anything in particular that i  have to do to get that view/snapshot
+[2014-02-11 12:15:04] yashas: Also i have to test a native android app
+[2014-02-11 12:16:31] yashas: I am just running a simple test case with breakpoints to get the inspector to have a look at automation via selendorid
+[2014-02-11 12:17:15] friscodelrosar-1, joining. (#selendroid)
+[2014-02-11 12:17:25] friscodelrosario, quitting. (Ping timeout: 248 seconds)
+[2014-02-11 12:17:44] yashas: The selendroid inspector is not showing the Android View/snapshot in the left side of the browser
+[2014-02-11 12:17:50] yashas: help
+[2014-02-11 12:18:21] yashas: #275
