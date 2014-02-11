@@ -106,3 +106,14 @@
 [2014-02-11 12:53:34] friscodelrosario: I'll ask him for one.
 [2014-02-11 12:53:41] ddary: great
 [2014-02-11 12:54:22] ddary: so, i guess it will take some more days until they arrive. shipped them last wednesday from Germany
+[2014-02-11 12:55:36] yashas: @ddary: Is there a way record and play back functionality in selendroid possible?
+[2014-02-11 12:56:11] ddary: :yt selendroid inspector
+[2014-02-11 12:56:55] ddary: ^^ there you can see how the very basic recording works. there is no playback planned...
+[2014-02-11 12:56:59] ddary: simonstewart: "instrumentation:io.selendroid/io.selendroid.ServerInstrumentation"
+[2014-02-11 12:57:23] simonstewart: Right. That's the name I expect to see
+[2014-02-11 12:57:31] ddary:                                   ^^ that out put you get by running adb
+[2014-02-11 12:57:47] simonstewart: "instrumentation:io.selendroid/.ServerInstrumentation"
+[2014-02-11 12:57:51] simonstewart: That's what I get from adb
+[2014-02-11 12:59:01] ddary: my assumption is,that because the base package of the selendroid-server is 'io.selendroid' and the ServerInstrumentation class is in that package, you can remove that base package
+[2014-02-11 12:59:16] simonstewart: Shame that doesn't work :)
+[2014-02-11 12:59:42] ddary: you mean the buck build in general?
