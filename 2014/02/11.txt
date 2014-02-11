@@ -233,3 +233,5 @@
 [2014-02-11 17:57:02] friscodelrosario, joining. (#selendroid)
 [2014-02-11 18:04:34] simonstewart, quitting. (Read error: Operation timed out)
 [2014-02-11 18:05:59] ddary, quitting. (Quit: ddary)
+[2014-02-11 18:18:34] _sascha, quitting. (Ping timeout: 250 seconds)
+[2014-02-11 18:19:15] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
