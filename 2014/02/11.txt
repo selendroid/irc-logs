@@ -229,3 +229,4 @@
 [2014-02-11 17:44:17] simonstewart: Mailed it to your ebay address
 [2014-02-11 17:44:54] ddary: the implementation we have currently:  https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/model/DefaultSelendroidDriver.java#L234 doesn't work in all cases. that is the reason why the ddmlib appraoch is the default one.
 [2014-02-11 17:44:55] ddary: ok
+[2014-02-11 17:46:51] ddary: thanks for the mail. will have a look. will you commit it or should I work with it and add it?
