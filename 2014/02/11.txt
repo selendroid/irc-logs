@@ -231,3 +231,4 @@
 [2014-02-11 17:44:55] ddary: ok
 [2014-02-11 17:46:51] ddary: thanks for the mail. will have a look. will you commit it or should I work with it and add it?
 [2014-02-11 17:57:02] friscodelrosario, joining. (#selendroid)
+[2014-02-11 18:04:34] simonstewart, quitting. (Read error: Operation timed out)
