@@ -25,3 +25,5 @@
 [2014-02-11 12:17:44] yashas: The selendroid inspector is not showing the Android View/snapshot in the left side of the browser
 [2014-02-11 12:17:50] yashas: help
 [2014-02-11 12:18:21] yashas: #275
+[2014-02-11 12:22:48] friscodelrosar-1, leaving. (#selendroid)
+[2014-02-11 12:24:18] friscodelrosario, joining. (#selendroid)
