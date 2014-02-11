@@ -179,3 +179,7 @@
 [2014-02-11 16:30:08] selendroid-git, leaving. (#selendroid)
 [2014-02-11 16:59:26] simonstewart, quitting. (Quit: simonstewart)
 [2014-02-11 17:02:16] simonstewart, joining. (#selendroid)
+[2014-02-11 17:06:10] simonstewart_, joining. (#selendroid)
+[2014-02-11 17:06:23] simonstewart, quitting. (Read error: Connection reset by peer)
+[2014-02-11 17:06:23] simonstewart_, changing nick to simonstewart.
+[2014-02-11 17:06:50] ddary: :spec
