@@ -92,3 +92,7 @@
 [2014-02-11 12:43:32] ddary: do you see an error/exception there
 [2014-02-11 12:43:34] yashas: and yes
 [2014-02-11 12:44:38] yashas: i dont see a error message as such
+[2014-02-11 12:47:11] yashas: let me try to restart adb server and adt
+[2014-02-11 12:47:34] yashas: from morning trying to fix this issue
+[2014-02-11 12:48:23] yashas: Do i have to use firefox or any browser is good to go?
+[2014-02-11 12:49:18] sascha_, joining. (#selendroid)
