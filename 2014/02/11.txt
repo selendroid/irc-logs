@@ -141,3 +141,4 @@
 [2014-02-11 15:33:46] _sascha, joining. (#selendroid)
 [2014-02-11 15:45:53] simonstewart: ddary: I've fixed it now
 [2014-02-11 15:46:13] friscodelrosario, quitting. (Quit: friscodelrosario)
+[2014-02-11 15:51:21] ddary: simonstewart: cool!
