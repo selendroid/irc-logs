@@ -253,3 +253,6 @@
 [2014-02-11 20:46:30] lukeis: (i did that on boxing day i think?)
 [2014-02-11 21:12:58] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-02-11 21:15:14] friscodelrosario, joining. (#selendroid)
+[2014-02-11 21:50:52] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-02-11 21:52:50] simonstewart, quitting. (Quit: simonstewart)
+[2014-02-11 21:53:09] friscodelrosario, joining. (#selendroid)
