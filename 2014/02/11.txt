@@ -135,3 +135,4 @@
 [2014-02-11 14:36:36] ddary: and i can start the instrumentation via: adb shell am instrument -e main_activity 'io.selendroid.testapp.HomeScreenActivity' io.selendroid/.ServerInstrumentation
 [2014-02-11 14:36:53] ddary: I can give you access to the the repo if you want...
 [2014-02-11 14:39:51] sascha_, quitting. (Ping timeout: 245 seconds)
+[2014-02-11 15:01:54] ddary, quitting. (Ping timeout: 260 seconds)
