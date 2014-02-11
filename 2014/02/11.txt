@@ -129,3 +129,9 @@
 [2014-02-11 13:29:47] yashas: Thanks once again
 [2014-02-11 13:33:58] yashas, quitting. (Ping timeout: 245 seconds)
 [2014-02-11 14:28:03] friscodelrosario, quitting. (Quit: friscodelrosario)
+[2014-02-11 14:35:43] ddary: simonstewart: I looked into my old repository. If I'm building the server I'm able to use it for testing.
+[2014-02-11 14:35:52] ddary: when I execute: adb shell pm list instrumentation
+[2014-02-11 14:36:03] ddary: the result is: instrumentation:io.selendroid/.ServerInstrumentation (target=io.selendroid.testapp)
+[2014-02-11 14:36:36] ddary: and i can start the instrumentation via: adb shell am instrument -e main_activity 'io.selendroid.testapp.HomeScreenActivity' io.selendroid/.ServerInstrumentation
+[2014-02-11 14:36:53] ddary: I can give you access to the the repo if you want...
+[2014-02-11 14:39:51] sascha_, quitting. (Ping timeout: 245 seconds)
