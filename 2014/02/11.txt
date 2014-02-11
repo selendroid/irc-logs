@@ -142,3 +142,17 @@
 [2014-02-11 15:45:53] simonstewart: ddary: I've fixed it now
 [2014-02-11 15:46:13] friscodelrosario, quitting. (Quit: friscodelrosario)
 [2014-02-11 15:51:21] ddary: simonstewart: cool!
+[2014-02-11 16:05:29] simonstewart: ddary: how would you feel about moving from webbit to just straight netty?
+[2014-02-11 16:06:27] ddary: simonstewart: as long as I don't have to implement that, I'm fine
+[2014-02-11 16:06:35] ddary: ;-)
+[2014-02-11 16:06:40] simonstewart: hahahaha
+[2014-02-11 16:06:43] simonstewart: yeah
+[2014-02-11 16:06:58] ddary: selenium is moving to it as well, irght?
+[2014-02-11 16:07:08] ddary: ^ right
+[2014-02-11 16:07:16] simonstewart: webbit
+[2014-02-11 16:07:20] simonstewart: probably
+[2014-02-11 16:07:26] simonstewart: but the version of netty is pretty ancient
+[2014-02-11 16:08:06] ddary: to be honest, I don't know how active the webbit project is.
+[2014-02-11 16:08:47] simonstewart: last commit was two months ago
+[2014-02-11 16:09:42] ddary: yeah,
+[2014-02-11 16:09:52] ddary: some open pull requests
