@@ -11,3 +11,6 @@
 [2014-02-11 11:55:02] yashas: i have a issue
 [2014-02-11 11:55:31] yashas: The selendroid inspector is not showing the Android View/snapshot in the left side of the browser
 [2014-02-11 11:56:19] yashas: I have also added issue in git as  #275
+[2014-02-11 12:07:45] ddary, joining. (#selendroid)
+[2014-02-11 12:07:55] ddary: :spec
+[2014-02-11 12:09:02] friscodelrosario, joining. (#selendroid)
