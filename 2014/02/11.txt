@@ -246,3 +246,5 @@
 [2014-02-11 20:08:27] ddary: we crossed an hour ago 100000 page impression (in the last year) on the selendroid documentation page.
 [2014-02-11 20:21:35] ddary, quitting. (Quit: ddary)
 [2014-02-11 20:35:57] simonstewart: That's great news
+[2014-02-11 20:43:31] lukeis: 17,454 unique vistors ;)
+[2014-02-11 20:44:51] lukeis: simonstewart: https://www.evernote.com/shard/s307/sh/3ed1df09-f443-48a9-b73d-071c531a075f/3f3258ff4edb944be8b5f38d53590608
