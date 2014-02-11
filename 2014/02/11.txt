@@ -62,3 +62,14 @@
 [2014-02-11 12:34:06] ddary: simonstewart: I already wondered how long it will take until you work on it ;-)
 [2014-02-11 12:34:48] simonstewart: And I'm seeing that the name used for the ServerInstrumentation on the device is "instrumentation:io.selendroid/.ServerInstrumentation"
 [2014-02-11 12:34:50] ddary: i tried it a while ago and built the selendroid-server
+[2014-02-11 12:35:04] simonstewart: whereas I'm expecting it to be "instrumentation:io.selendroid/io.selendroid.ServerInstrumentation"
+[2014-02-11 12:35:13] simonstewart: Any idea how that instrumentation name is selected?
+[2014-02-11 12:35:27] ddary: from a timing perspective the build time compared to maven was the same. so i kept the current version.
+[2014-02-11 12:35:40] simonstewart: OK
+[2014-02-11 12:35:52] simonstewart: There are other reasons why I need to get it working with buck :)
+[2014-02-11 12:36:20] simonstewart: So: any idea how that instrumentation name is selected or generated?
+[2014-02-11 12:36:44] ddary: no, i don't know - sorry
+[2014-02-11 12:36:48] simonstewart: maven appears to be inscrutable to me.
+[2014-02-11 12:36:50] simonstewart: OK.
+[2014-02-11 12:36:54] simonstewart: I'll use "google" then :)
+[2014-02-11 12:37:10] ddary: :)
