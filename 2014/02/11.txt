@@ -124,3 +124,6 @@
 [2014-02-11 13:07:55] yashas: Guys one more thing that is painful to handle , is if emulator closes due to some reasons, the error messages given my selendroid server hog my system to still
 [2014-02-11 13:09:53] yashas: c:\Software\adt-bundle-windows-x86_64-20131030\adt-bundle-windows-x86_64-20131030\sdk\platform-tools>java -jar selendroid-standalone -0.7.0-with-dependencies.jar -deviceScreenshot -aut selendroid-test-app-0.7.0.apk
 [2014-02-11 13:10:08] yashas: this is the command i am using to run server
+[2014-02-11 13:29:02] yashas: Thanks guys
+[2014-02-11 13:29:36] yashas: selendorid inspector is now showing the image after decreasing screen size of emulator significantly ..
+[2014-02-11 13:29:47] yashas: Thanks once again
