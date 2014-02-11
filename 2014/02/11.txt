@@ -27,3 +27,18 @@
 [2014-02-11 12:18:21] yashas: #275
 [2014-02-11 12:22:48] friscodelrosar-1, leaving. (#selendroid)
 [2014-02-11 12:24:18] friscodelrosario, joining. (#selendroid)
+[2014-02-11 12:25:04] ddary: hi yashas, just have seen your messages
+[2014-02-11 12:25:08] ddary: :log
+[2014-02-11 12:25:25] yashas: hey
+[2014-02-11 12:26:07] yashas: if u need any other info just let me know
+[2014-02-11 12:26:14] ddary: first: what you can try it that u use an emulator with a smaller screen size e.g. 320x480
+[2014-02-11 12:26:27] yashas: ok
+[2014-02-11 12:26:35] ddary: second: in your browser are diffeent timeouts used
+[2014-02-11 12:26:54] yashas: mobile or pc browser?
+[2014-02-11 12:27:37] ddary: the issue is, that reading the framebuffer of the device will take a while, too long to display it in the browser. what can happen is, that no image or only a partial image is displayed
+[2014-02-11 12:27:52] ddary: the android emualor screen size
+[2014-02-11 12:28:26] ddary: i found until now no good way to load the images asyncronously
+[2014-02-11 12:28:41] ddary: if you have a good way, please let me know
+[2014-02-11 12:29:05] yashas: the ram size and vm ?
+[2014-02-11 12:29:23] yashas: is that necessay to be 1gb ram and 32 mb
+[2014-02-11 12:29:43] ddary: i made the best results with it
