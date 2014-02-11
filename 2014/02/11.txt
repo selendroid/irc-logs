@@ -73,3 +73,22 @@
 [2014-02-11 12:36:50] simonstewart: OK.
 [2014-02-11 12:36:54] simonstewart: I'll use "google" then :)
 [2014-02-11 12:37:10] ddary: :)
+[2014-02-11 12:40:34] ddary: with regards to your "build tool change request" i'm personally fine to use it. We should probably also ask lukeis and think about the impact to appium. In the past they have used only the selendroid-server, but currently i'm not sure. I have seen some messages that looked like they are using the standalone server.
+[2014-02-11 12:40:43] simonstewart: Oh.
+[2014-02-11 12:41:02] simonstewart: I'm not going to push for selendroid to switch to buck until I can get selenium built using it
+[2014-02-11 12:41:08] ddary: But from a coupling perspective it would be probably better if they just rely on the maven artifacts.
+[2014-02-11 12:41:30] ddary: ok
+[2014-02-11 12:41:33] simonstewart: Though it might be nice to move to gradle, because there's always room in my life for another tool
+[2014-02-11 12:41:34] simonstewart: :)
+[2014-02-11 12:41:38] yashas: I decresed the screen size to 3.7 but still not getting the image in inspector?
+[2014-02-11 12:41:57] ddary: and if they need more frequent updates, we can push to the sonatype snapshot repository
+[2014-02-11 12:42:44] yashas:  #275 gus have a look at this in git
+[2014-02-11 12:42:52] yashas: i have also added snapshot of it
+[2014-02-11 12:42:54] ddary: simonstewart: gradle, mhh, i don't know. My preference it then buck
+[2014-02-11 12:43:01] simonstewart: Ha!
+[2014-02-11 12:43:04] simonstewart: Fair enough :)
+[2014-02-11 12:43:20] ddary: yashas: if you run adb logcat
+[2014-02-11 12:43:31] yashas: I am really very sorry in interference in betweeen
+[2014-02-11 12:43:32] ddary: do you see an error/exception there
+[2014-02-11 12:43:34] yashas: and yes
+[2014-02-11 12:44:38] yashas: i dont see a error message as such
