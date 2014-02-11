@@ -225,3 +225,7 @@
 [2014-02-11 17:39:28] lukeis: (and logs from logcat need the standalone server)
 [2014-02-11 17:39:38] ddary: simonstewart: on the device , framebuffer or ddmlib?
 [2014-02-11 17:39:48] simonstewart: Lemme bounce you it
+[2014-02-11 17:43:25] ddary: if we take the screenshots on the device, the important thing is that it works with popups and windows fine ass well.
+[2014-02-11 17:44:17] simonstewart: Mailed it to your ebay address
+[2014-02-11 17:44:54] ddary: the implementation we have currently:  https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/model/DefaultSelendroidDriver.java#L234 doesn't work in all cases. that is the reason why the ddmlib appraoch is the default one.
+[2014-02-11 17:44:55] ddary: ok
