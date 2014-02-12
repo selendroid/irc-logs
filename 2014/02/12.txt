@@ -21,3 +21,8 @@
 [2014-02-12 08:10:03] selendroid-git: selendroid/master 5b1a2b7 Dominik Dary: Fix #268
 [2014-02-12 08:10:03] selendroid-git, leaving. (#selendroid)
 [2014-02-12 08:14:55] ddary, quitting. (Ping timeout: 260 seconds)
+[2014-02-12 09:16:36] selendroid-git, joining. (#selendroid)
+[2014-02-12 09:16:36] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/H94ZaA
+[2014-02-12 09:16:36] selendroid-git: selendroid/master 4cc8688 Dominik Dary: addig fix to changelog.
+[2014-02-12 09:16:36] selendroid-git: selendroid/master 80a5c88 Dominik Dary: Adding orientation test and adding convenience methods to the selendroid client driver.
+[2014-02-12 09:16:36] selendroid-git, leaving. (#selendroid)
