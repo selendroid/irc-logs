@@ -31,3 +31,4 @@
 [2014-02-12 11:33:25] bhans1, quitting. (Quit: Page closed)
 [2014-02-12 11:45:21] simonstewart, joining. (#selendroid)
 [2014-02-12 12:44:26] ddary, joining. (#selendroid)
+[2014-02-12 12:49:06] ddary, quitting. (Client Quit)
