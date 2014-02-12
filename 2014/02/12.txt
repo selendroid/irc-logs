@@ -39,3 +39,4 @@
 [2014-02-12 15:06:13] ddary: ti?
 [2014-02-12 15:07:16] simonstewart: it
 [2014-02-12 15:08:43] ddary: the weird thing is, that when I used nativedriver over 2 years ago, it was working fine.
+[2014-02-12 15:17:22] simonstewart: Hmph! Bit rot
