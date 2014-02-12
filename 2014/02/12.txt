@@ -27,3 +27,5 @@
 [2014-02-12 09:16:36] selendroid-git: selendroid/master 80a5c88 Dominik Dary: Adding orientation test and adding convenience methods to the selendroid client driver.
 [2014-02-12 09:16:36] selendroid-git, leaving. (#selendroid)
 [2014-02-12 10:20:26] ddary, joining. (#selendroid)
+[2014-02-12 11:32:47] ddary, quitting. (Ping timeout: 260 seconds)
+[2014-02-12 11:33:25] bhans1, quitting. (Quit: Page closed)
