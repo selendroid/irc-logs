@@ -26,3 +26,4 @@
 [2014-02-12 09:16:36] selendroid-git: selendroid/master 4cc8688 Dominik Dary: addig fix to changelog.
 [2014-02-12 09:16:36] selendroid-git: selendroid/master 80a5c88 Dominik Dary: Adding orientation test and adding convenience methods to the selendroid client driver.
 [2014-02-12 09:16:36] selendroid-git, leaving. (#selendroid)
+[2014-02-12 10:20:26] ddary, joining. (#selendroid)
