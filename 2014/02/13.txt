@@ -11,3 +11,4 @@
 [2014-02-13 03:58:56] Android-PH, changing nick to bhans1.
 [2014-02-13 05:40:06] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-13 07:23:40] ddary, joining. (#selendroid)
+[2014-02-13 07:37:53] ddary, quitting. (Ping timeout: 260 seconds)
