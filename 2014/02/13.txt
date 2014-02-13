@@ -17,3 +17,4 @@
 [2014-02-13 11:27:18] simonstewart, joining. (#selendroid)
 [2014-02-13 11:29:48] bhans1, quitting. (Ping timeout: 245 seconds)
 [2014-02-13 13:38:29] ddary, joining. (#selendroid)
+[2014-02-13 14:34:55] ddary, quitting. (Ping timeout: 260 seconds)
