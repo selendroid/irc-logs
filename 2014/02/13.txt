@@ -22,3 +22,8 @@
 [2014-02-13 15:44:07] jlipps, joining. (#selendroid)
 [2014-02-13 15:53:34] jlipps, quitting. (Quit: Leaving.)
 [2014-02-13 16:17:27] ddary, joining. (#selendroid)
+[2014-02-13 16:22:27] simonstewart: ddary: I'm spiking a netty server
+[2014-02-13 16:22:33] simonstewart: Will see if I can make it work nicely
+[2014-02-13 16:23:41] ddary: simonstewart: cool - so far, waht you can see, is it that simple like the sample? or are some important pieces missing?
+[2014-02-13 16:24:10] simonstewart: I'll find out
+[2014-02-13 16:24:18] ddary: k
