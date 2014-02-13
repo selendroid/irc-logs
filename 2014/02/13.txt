@@ -37,3 +37,4 @@
 [2014-02-13 18:27:05] lukeis: :)
 [2014-02-13 18:40:31] lukeis: well shit-fuck…. a click on an element for me (native or not) and then hitting back isn't doing the same thing as if i do it 'manually'
 [2014-02-13 19:29:56] simonstewart, quitting. (Quit: simonstewart)
+[2014-02-13 19:43:46] jlipps, joining. (#selendroid)
