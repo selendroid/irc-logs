@@ -35,3 +35,4 @@
 [2014-02-13 18:26:46] *lukeis wonders what I could convince simon to do in the vulnerable state...'
 [2014-02-13 18:27:01] simonstewart: a blank canvas. Not an idiot
 [2014-02-13 18:27:05] lukeis: :)
+[2014-02-13 18:40:31] lukeis: well shit-fuck…. a click on an element for me (native or not) and then hitting back isn't doing the same thing as if i do it 'manually'
