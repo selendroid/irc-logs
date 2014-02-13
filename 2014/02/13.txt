@@ -9,3 +9,4 @@
 [2014-02-13 03:56:25] bhans1, changing nick to Philippine-Andro.
 [2014-02-13 03:57:37] Philippine-Andro, changing nick to Android-PH.
 [2014-02-13 03:58:56] Android-PH, changing nick to bhans1.
+[2014-02-13 05:40:06] smccarthy, quitting. (Remote host closed the connection)
