@@ -45,3 +45,4 @@
 [2014-02-13 22:07:17] freynaud, quitting. (Ping timeout: 248 seconds)
 [2014-02-13 22:19:10] freynaud, joining. (#selendroid)
 [2014-02-13 22:51:55] simonstewart, joining. (#selendroid)
+[2014-02-13 23:25:33] freynaud, quitting. (Quit: freynaud)
