@@ -27,3 +27,4 @@
 [2014-02-13 16:23:41] ddary: simonstewart: cool - so far, waht you can see, is it that simple like the sample? or are some important pieces missing?
 [2014-02-13 16:24:10] simonstewart: I'll find out
 [2014-02-13 16:24:18] ddary: k
+[2014-02-13 17:25:19] lukeis, joining. (#selendroid)
