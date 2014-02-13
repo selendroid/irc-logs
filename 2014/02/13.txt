@@ -29,3 +29,9 @@
 [2014-02-13 16:24:18] ddary: k
 [2014-02-13 17:25:19] lukeis, joining. (#selendroid)
 [2014-02-13 17:31:53] ddary, quitting. (Ping timeout: 245 seconds)
+[2014-02-13 18:25:50] lukeis: simonstewart: any thoughts on me adding the "nativeEvents" capability (for now, locally i've just surrounded AndroidWebElement.click() to use atoms instead…)
+[2014-02-13 18:26:10] simonstewart: no thoughts at all.
+[2014-02-13 18:26:16] simonstewart: I am a blank canvas
+[2014-02-13 18:26:46] *lukeis wonders what I could convince simon to do in the vulnerable state...'
+[2014-02-13 18:27:01] simonstewart: a blank canvas. Not an idiot
+[2014-02-13 18:27:05] lukeis: :)
