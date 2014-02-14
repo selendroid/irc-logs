@@ -16,3 +16,4 @@
 [2014-02-14 14:16:10] selendroid-git, leaving. (#selendroid)
 [2014-02-14 14:38:31] ddary, quitting. (Quit: Page closed)
 [2014-02-14 16:27:03] smccarthy, joining. (#selendroid)
+[2014-02-14 18:14:10] lukeis, joining. (#selendroid)
