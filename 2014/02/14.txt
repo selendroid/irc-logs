@@ -8,3 +8,4 @@
 [2014-02-14 08:30:42] freynaud, quitting. (Client Quit)
 [2014-02-14 09:06:28] ddary, quitting. (Ping timeout: 245 seconds)
 [2014-02-14 11:50:49] ddary, joining. (#selendroid)
+[2014-02-14 13:59:34] _sascha, joining. (#selendroid)
