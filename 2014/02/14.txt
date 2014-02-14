@@ -5,3 +5,4 @@
 [2014-02-14 06:26:53] Guest3088, quitting. (Ping timeout: 245 seconds)
 [2014-02-14 07:00:35] ddary, joining. (#selendroid)
 [2014-02-14 08:26:25] freynaud, joining. (#selendroid)
+[2014-02-14 08:30:42] freynaud, quitting. (Client Quit)
