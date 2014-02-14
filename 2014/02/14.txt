@@ -14,3 +14,4 @@
 [2014-02-14 14:16:10] selendroid-git: selendroid/master 37eaf6c Dominik Dary: Cleaning imports.
 [2014-02-14 14:16:10] selendroid-git: selendroid/master a6a93a8 Dominik Dary: Using URL type instead of String to specify remote endpoint. #233
 [2014-02-14 14:16:10] selendroid-git, leaving. (#selendroid)
+[2014-02-14 14:38:31] ddary, quitting. (Quit: Page closed)
