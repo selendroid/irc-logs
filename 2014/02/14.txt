@@ -20,3 +20,4 @@
 [2014-02-14 18:27:30] lukeis: :note ddary got the stickers yesterday, thanks!
 [2014-02-14 19:42:42] simonstewart: Seriously starting to think selendroid should be treated as an embedded app, and written using the techniques applied to those
 [2014-02-14 19:56:12] simonstewart, leaving. (#selendroid)
+[2014-02-14 20:27:45] smccarthy, quitting. (Remote host closed the connection)
