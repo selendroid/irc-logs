@@ -9,3 +9,8 @@
 [2014-02-14 09:06:28] ddary, quitting. (Ping timeout: 245 seconds)
 [2014-02-14 11:50:49] ddary, joining. (#selendroid)
 [2014-02-14 13:59:34] _sascha, joining. (#selendroid)
+[2014-02-14 14:16:10] selendroid-git, joining. (#selendroid)
+[2014-02-14 14:16:10] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/cw2ckA
+[2014-02-14 14:16:10] selendroid-git: selendroid/master 37eaf6c Dominik Dary: Cleaning imports.
+[2014-02-14 14:16:10] selendroid-git: selendroid/master a6a93a8 Dominik Dary: Using URL type instead of String to specify remote endpoint. #233
+[2014-02-14 14:16:10] selendroid-git, leaving. (#selendroid)
