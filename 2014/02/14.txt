@@ -1,3 +1,5 @@
 [2014-02-14 01:03:41] lukeis, quitting. (Quit: Leaving.)
 [2014-02-14 03:12:54] bhans1, joining. (#selendroid)
 [2014-02-14 05:41:40] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-14 06:26:05] bhans1, changing nick to Guest3088.
+[2014-02-14 06:26:53] Guest3088, quitting. (Ping timeout: 245 seconds)
