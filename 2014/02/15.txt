@@ -10,3 +10,4 @@
 [2014-02-15 18:46:24] midopa, joining. (#selendroid)
 [2014-02-15 18:46:50] midopa, quitting. (Client Quit)
 [2014-02-15 18:53:17] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-15 21:10:09] smccarthy, joining. (#selendroid)
