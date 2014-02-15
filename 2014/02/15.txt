@@ -7,3 +7,5 @@
 [2014-02-15 16:20:06] ddary, joining. (#selendroid)
 [2014-02-15 16:35:28] smccarthy, joining. (#selendroid)
 [2014-02-15 16:44:33] ddary, quitting. (Quit: ddary)
+[2014-02-15 18:46:24] midopa, joining. (#selendroid)
+[2014-02-15 18:46:50] midopa, quitting. (Client Quit)
