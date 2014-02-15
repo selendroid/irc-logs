@@ -1,3 +1,5 @@
 [2014-02-15 00:03:18] lukeis, quitting. (Quit: Leaving.)
 [2014-02-15 00:49:46] _sascha, quitting. (Ping timeout: 252 seconds)
 [2014-02-15 02:38:26] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-15 08:01:30] ddary, joining. (#selendroid)
+[2014-02-15 08:01:59] ddary: :note lukeis cool :)
