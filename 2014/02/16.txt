@@ -3,3 +3,4 @@
 [2014-02-16 16:39:22] smccarthy, joining. (#selendroid)
 [2014-02-16 18:43:29] ddary, joining. (#selendroid)
 [2014-02-16 19:39:06] Kidman, joining. (#selendroid)
+[2014-02-16 19:40:25] Kidman, quitting. (Client Quit)
