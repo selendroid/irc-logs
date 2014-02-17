@@ -14,3 +14,4 @@
 [2014-02-17 17:19:05] _sascha, quitting. (Ping timeout: 252 seconds)
 [2014-02-17 18:03:15] ddary, joining. (#selendroid)
 [2014-02-17 18:19:14] ddary, quitting. (Quit: ddary)
+[2014-02-17 18:32:16] smccarthy, quitting. (Remote host closed the connection)
