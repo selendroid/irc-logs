@@ -5,3 +5,4 @@
 [2014-02-17 10:06:14] ddary, quitting. (Ping timeout: 252 seconds)
 [2014-02-17 10:07:53] ddary, joining. (#selendroid)
 [2014-02-17 10:34:05] ddary, quitting. (Ping timeout: 265 seconds)
+[2014-02-17 11:29:23] bhans1, quitting. (Ping timeout: 245 seconds)
