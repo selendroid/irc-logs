@@ -18,3 +18,4 @@
 [2014-02-18 19:07:24] phoenixw, joining. (#selendroid)
 [2014-02-18 19:32:25] jlipps, joining. (#selendroid)
 [2014-02-18 22:11:28] phoenixw, quitting. (Ping timeout: 245 seconds)
+[2014-02-18 22:55:38] smccarthy, quitting. (Remote host closed the connection)
