@@ -19,3 +19,5 @@
 [2014-02-18 19:32:25] jlipps, joining. (#selendroid)
 [2014-02-18 22:11:28] phoenixw, quitting. (Ping timeout: 245 seconds)
 [2014-02-18 22:55:38] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-18 23:40:48] simonstewart, joining. (#selendroid)
+[2014-02-18 23:40:54] simonstewart: Hi
