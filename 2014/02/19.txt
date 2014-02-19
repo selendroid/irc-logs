@@ -16,3 +16,5 @@
 [2014-02-19 11:16:53] bhans1, quitting. (Ping timeout: 245 seconds)
 [2014-02-19 12:47:26] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
 [2014-02-19 13:05:58] AutomatedTester, joining. (#selendroid)
+[2014-02-19 13:35:11] ddary: :spec
+[2014-02-19 13:39:37] smiklosovic, joining. (#selendroid)
