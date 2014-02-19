@@ -145,3 +145,5 @@
 [2014-02-19 18:05:50] ddary: ok
 [2014-02-19 18:09:54] ddary: simonstewart: what about you, would thursday, 27th work for you?
 [2014-02-19 18:10:32] jlipps, joining. (#selendroid)
+[2014-02-19 18:15:07] ddary_, joining. (#selendroid)
+[2014-02-19 18:15:20] ddary, leaving. (#selendroid)
