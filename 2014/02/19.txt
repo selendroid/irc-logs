@@ -34,3 +34,16 @@
 [2014-02-19 13:44:04] ddary: well,
 [2014-02-19 13:44:13] ddary: that is the next good questions
 [2014-02-19 13:44:38] ddary: just that I understood you correctly
+[2014-02-19 13:45:50] ddary: when you hide the keyboard you can click the element,
+[2014-02-19 13:46:02] ddary: when the text field is there, you get the exception
+[2014-02-19 13:46:08] smiklosovic: yes, when i do not hide it, keyboard covers that field
+[2014-02-19 13:46:10] ddary: or do you get the exception all the time
+[2014-02-19 13:47:09] smiklosovic: 1. I click to username field 2. keyboard appears 3. i write keys to it 4. i want to click to email field but keyboard covers it 5. exception occurs
+[2014-02-19 13:47:17] ddary: can you please double check the latest selendrioid-server? directly from the github page please, because there we changed something to the visibility of elements
+[2014-02-19 13:48:05] smiklosovic: 1. i click to username field, 2. keyboard appears 3. i write keys to username 4. -> I hide keyboard <- 5. i click to email field and send keys 6. exception does not occur
+[2014-02-19 13:48:06] ddary: yeah, that was the next question. why do you click in the text field? that is simething that selendroid should do automatically
+[2014-02-19 13:48:48] smiklosovic: aha
+[2014-02-19 13:48:50] smiklosovic: hmm
+[2014-02-19 13:49:08] smiklosovic: didnt know that, maybe just to somehow grab a focus
+[2014-02-19 13:49:25] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/model/AndroidNativeElement.java#L161
+[2014-02-19 13:49:42] ddary: should work out of the box
