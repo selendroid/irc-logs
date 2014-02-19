@@ -52,3 +52,4 @@
 [2014-02-19 13:51:23] smiklosovic: yeah i have it in that aut
 [2014-02-19 13:51:44] ddary: we thought about it and will probably add something like try the new and better way and then, if it fails, use the old way
 [2014-02-19 13:54:36] ddary: AutomatedTester: is there a way (protocol endpoint) that can and should be used to terminate the whole driver instance process?
+[2014-02-19 13:58:21] smiklosovic: ddary: it works without clicking, thanks, i would never figure it out on my own
