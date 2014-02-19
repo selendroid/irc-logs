@@ -70,3 +70,4 @@
 [2014-02-19 14:29:20] ddary: he has implemented his own endpoint and is calling system.exit(0)
 [2014-02-19 14:29:59] ddary: how can the firefox driver be stopped completely?
 [2014-02-19 14:30:17] AutomatedTester: when you call quit() we delete the session and terminate the process
+[2014-02-19 14:35:07] ddary: AutomatedTester: ok
