@@ -18,3 +18,19 @@
 [2014-02-19 13:05:58] AutomatedTester, joining. (#selendroid)
 [2014-02-19 13:35:11] ddary: :spec
 [2014-02-19 13:39:37] smiklosovic, joining. (#selendroid)
+[2014-02-19 13:40:05] smiklosovic: ddary: hey, would you have few minutes please?
+[2014-02-19 13:40:11] ddary: sure
+[2014-02-19 13:41:19] smiklosovic: great
+[2014-02-19 13:41:24] smiklosovic: i am doing some testing
+[2014-02-19 13:41:29] smiklosovic: http://pastebin.com/raw.php?i=eJjm0MPr
+[2014-02-19 13:41:51] smiklosovic: problem is that when i do "this.username.sendKeys(username);"
+[2014-02-19 13:42:02] smiklosovic: virtual keyboard appears on a screen
+[2014-02-19 13:42:27] smiklosovic: without invoking "driver.getKeyboard().sendKeys(SelendroidKeys.BACK);" after it, that exception occurs
+[2014-02-19 13:43:02] smiklosovic: however when i hide that keyboard it proceeds and fails when I try to write something to email field
+[2014-02-19 13:43:22] smiklosovic: i set permissions as INJECT_EVENTS into manifest so that is not a problem i guess
+[2014-02-19 13:43:39] smiklosovic: do i have to hide keyboard manually every time?
+[2014-02-19 13:43:48] smiklosovic: not sure if it is bug of feature
+[2014-02-19 13:43:51] ddary: ha, that is interesting
+[2014-02-19 13:44:04] ddary: well,
+[2014-02-19 13:44:13] ddary: that is the next good questions
+[2014-02-19 13:44:38] ddary: just that I understood you correctly
