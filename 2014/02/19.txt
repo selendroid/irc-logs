@@ -155,3 +155,4 @@
 [2014-02-19 21:35:46] jlipps, quitting. (Quit: Leaving.)
 [2014-02-19 21:36:12] ddary, quitting. (Quit: ddary)
 [2014-02-19 21:42:39] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-02-19 21:51:38] jlipps, joining. (#selendroid)
