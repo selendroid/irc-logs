@@ -57,3 +57,15 @@
 [2014-02-19 14:06:50] jlipps, joining. (#selendroid)
 [2014-02-19 14:08:14] smiklosovic: i just used 0.8.0 release
 [2014-02-19 14:22:27] jlipps, quitting. (Quit: Leaving.)
+[2014-02-19 14:25:53] ddary: yeah, the bug has been implemented after the release
+[2014-02-19 14:26:46] smiklosovic: aha
+[2014-02-19 14:27:03] AutomatedTester: ddary: https://code.google.com/p/selenium/wiki/JsonWireProtocol#/session/:sessionId
+[2014-02-19 14:27:08] AutomatedTester: the DELETE command
+[2014-02-19 14:27:36] ddary: AutomatedTester: but that is only to kill the sessio.
+[2014-02-19 14:27:39] ddary: n
+[2014-02-19 14:28:06] ddary: that mean, killing the driver itself it not supported.
+[2014-02-19 14:28:13] AutomatedTester: no
+[2014-02-19 14:28:34] AutomatedTester: since its done in different ways by different drivers
+[2014-02-19 14:28:36] ddary: I don't need that "feature", it is a customer who is asking for it
+[2014-02-19 14:29:20] ddary: he has implemented his own endpoint and is calling system.exit(0)
+[2014-02-19 14:29:59] ddary: how can the firefox driver be stopped completely?
