@@ -12,3 +12,4 @@
 [2014-02-19 08:57:13] ddary: I'm wondering why the people have to much issues not finding the aapt program
 [2014-02-19 09:36:00] ddary: :snapshot
 [2014-02-19 10:03:39] bhans1: maybe they didn't configure their environment variables clearly?
+[2014-02-19 10:53:56] ddary: bhans1: maybe, or not start the android application and download all the needed files
