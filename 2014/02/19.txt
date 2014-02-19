@@ -71,3 +71,4 @@
 [2014-02-19 14:29:59] ddary: how can the firefox driver be stopped completely?
 [2014-02-19 14:30:17] AutomatedTester: when you call quit() we delete the session and terminate the process
 [2014-02-19 14:35:07] ddary: AutomatedTester: ok
+[2014-02-19 14:43:56] ddary: smiklosovic: do you have any number on how many people are using droidium?
