@@ -56,3 +56,4 @@
 [2014-02-19 14:00:16] ddary: have you tried the new server? would be great if that works better. the issue we work on was: https://github.com/selendroid/selendroid/issues/268
 [2014-02-19 14:06:50] jlipps, joining. (#selendroid)
 [2014-02-19 14:08:14] smiklosovic: i just used 0.8.0 release
+[2014-02-19 14:22:27] jlipps, quitting. (Quit: Leaving.)
