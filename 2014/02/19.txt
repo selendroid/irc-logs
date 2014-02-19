@@ -14,3 +14,4 @@
 [2014-02-19 10:03:39] bhans1: maybe they didn't configure their environment variables clearly?
 [2014-02-19 10:53:56] ddary: bhans1: maybe, or not start the android application and download all the needed files
 [2014-02-19 11:16:53] bhans1, quitting. (Ping timeout: 245 seconds)
+[2014-02-19 12:47:26] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
