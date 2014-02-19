@@ -152,3 +152,5 @@
 [2014-02-19 19:34:12] simonstewart, joining. (#selendroid)
 [2014-02-19 19:42:25] friscodelrosario, joining. (#selendroid)
 [2014-02-19 21:24:59] ddary, joining. (#selendroid)
+[2014-02-19 21:35:46] jlipps, quitting. (Quit: Leaving.)
+[2014-02-19 21:36:12] ddary, quitting. (Quit: ddary)
