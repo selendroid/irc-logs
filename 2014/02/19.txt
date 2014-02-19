@@ -150,3 +150,4 @@
 [2014-02-19 18:33:58] simonstewart, quitting. (Read error: Operation timed out)
 [2014-02-19 18:52:18] ddary_, leaving. (#selendroid)
 [2014-02-19 19:34:12] simonstewart, joining. (#selendroid)
+[2014-02-19 19:42:25] friscodelrosario, joining. (#selendroid)
