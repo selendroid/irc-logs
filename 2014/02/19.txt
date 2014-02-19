@@ -147,3 +147,4 @@
 [2014-02-19 18:10:32] jlipps, joining. (#selendroid)
 [2014-02-19 18:15:07] ddary_, joining. (#selendroid)
 [2014-02-19 18:15:20] ddary, leaving. (#selendroid)
+[2014-02-19 18:33:58] simonstewart, quitting. (Read error: Operation timed out)
