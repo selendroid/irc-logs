@@ -87,3 +87,10 @@
 [2014-02-19 15:22:09] smiklosovic, quitting. (Quit: Page closed)
 [2014-02-19 16:30:20] smccarthy, joining. (#selendroid)
 [2014-02-19 17:13:38] lukeis, joining. (#selendroid)
+[2014-02-19 17:18:57] ddary: hi lukeis
+[2014-02-19 17:19:08] lukeis: hello ddary
+[2014-02-19 17:19:17] ddary: how are you?
+[2014-02-19 17:19:23] lukeis: very well :)
+[2014-02-19 17:19:38] ddary: sounds good :)
+[2014-02-19 17:19:45] ddary: have you seen my mail?
+[2014-02-19 17:19:50] lukeis: spent last night in carmel (my wedding anniversary)
