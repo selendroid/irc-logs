@@ -83,3 +83,5 @@
 [2014-02-19 15:10:18] smiklosovic: selendroid is a leader here
 [2014-02-19 15:11:19] smiklosovic: i was on few conferences with it but unless we have at least first final release serious propagation is out of scope
 [2014-02-19 15:16:48] smiklosovic: right now we want to drop deprecated android server from selenium and align with selendroid's android-driver.apk and some other issues are blocking us like releases of other tooling on which droidium depends
+[2014-02-19 15:22:03] ddary: k
+[2014-02-19 15:22:09] smiklosovic, quitting. (Quit: Page closed)
