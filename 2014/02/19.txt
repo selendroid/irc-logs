@@ -135,3 +135,10 @@
 [2014-02-19 17:57:12] lukeis: better to find out today than on monday? :)
 [2014-02-19 17:59:28] ddary_, joining. (#selendroid)
 [2014-02-19 17:59:38] ddary_: :log
+[2014-02-19 18:00:13] ddary, quitting. (Ping timeout: 245 seconds)
+[2014-02-19 18:00:14] ddary_, changing nick to ddary.
+[2014-02-19 18:00:22] ddary: my client died, so now idea, what message I sent last.
+[2014-02-19 18:00:43] ddary: wanted to ask if thursday, 27th would be fine?
+[2014-02-19 18:00:53] lukeis: log is now current if you refresh
+[2014-02-19 18:01:45] ddary: yeah, have seen it and my message was not sent
+[2014-02-19 18:02:06] lukeis: thursday would be fine with me
