@@ -72,3 +72,11 @@
 [2014-02-19 14:30:17] AutomatedTester: when you call quit() we delete the session and terminate the process
 [2014-02-19 14:35:07] ddary: AutomatedTester: ok
 [2014-02-19 14:43:56] ddary: smiklosovic: do you have any number on how many people are using droidium?
+[2014-02-19 15:07:07] ddary: :seen lukeis
+[2014-02-19 15:08:23] smiklosovic: ddary: i dont
+[2014-02-19 15:08:55] smiklosovic: ddary: we are using it internally heavilly
+[2014-02-19 15:09:07] ddary: good to know
+[2014-02-19 15:09:20] smiklosovic: ddary: plus i do not think that number of "stars" in gh is good number
+[2014-02-19 15:09:32] ddary: very true
+[2014-02-19 15:09:57] smiklosovic: but i think that number will not be high at all, lets be realistic :)
+[2014-02-19 15:09:57] ddary: users on the documentation pages / download numbers is better, but still
