@@ -113,3 +113,8 @@
 [2014-02-19 17:37:36] simonstewart: I may well take you up on the offer
 [2014-02-19 17:37:45] simonstewart: But it's not even 9 yet, and they don't exist
 [2014-02-19 17:38:02] lukeis: indeed… i quite enjoy the empty office at this time of day
+[2014-02-19 17:40:49] smikloso, joining. (#selendroid)
+[2014-02-19 17:41:38] simonstewart: I would, but everyone I know is awake and churning out code
+[2014-02-19 17:41:54] smikloso: ddary: i tried 0.9.0-SNAPSHOT with these clicks and it works, it works on popup menus as well, even that element is covered with keyboard, it is found without problems
+[2014-02-19 17:42:56] smikloso, quitting. (Client Quit)
+[2014-02-19 17:43:26] ddary: :note smikloso that sounds good, thanks for the feedback
