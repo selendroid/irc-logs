@@ -80,3 +80,5 @@
 [2014-02-19 15:09:32] ddary: very true
 [2014-02-19 15:09:57] smiklosovic: but i think that number will not be high at all, lets be realistic :)
 [2014-02-19 15:09:57] ddary: users on the documentation pages / download numbers is better, but still
+[2014-02-19 15:10:18] smiklosovic: selendroid is a leader here
+[2014-02-19 15:11:19] smiklosovic: i was on few conferences with it but unless we have at least first final release serious propagation is out of scope
