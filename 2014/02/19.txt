@@ -119,3 +119,19 @@
 [2014-02-19 17:42:56] smikloso, quitting. (Client Quit)
 [2014-02-19 17:43:26] ddary: :note smikloso that sounds good, thanks for the feedback
 [2014-02-19 17:54:45] ddary: simonstewart & lukeis: what do you think about having a hangout: tuesday 25, Feb.
+[2014-02-19 17:55:06] lukeis: next tue / wed is the W3C F2F for webdriver
+[2014-02-19 17:55:09] simonstewart: That's going to be a w3c f2f day
+[2014-02-19 17:55:23] simonstewart: Mon/Tue, no?
+[2014-02-19 17:55:31] simonstewart: 24/25th, right?
+[2014-02-19 17:55:34] lukeis: tue /wed i was certain..
+[2014-02-19 17:55:49] ddary: ah, ok then wednesday 26?
+[2014-02-19 17:56:16] lukeis: nope, wed the 26th is still the w3c f2f
+[2014-02-19 17:56:38] lukeis: simonstewart: https://www.w3.org/wiki/WebDriver/2014-February-F2F#Agenda
+[2014-02-19 17:56:41] simonstewart: Ah. 25-26th
+[2014-02-19 17:56:42] simonstewart: Yeah
+[2014-02-19 17:56:44] simonstewart: Got it
+[2014-02-19 17:56:46] simonstewart: Fuck nuts
+[2014-02-19 17:56:53] lukeis: oops ;)
+[2014-02-19 17:57:12] lukeis: better to find out today than on monday? :)
+[2014-02-19 17:59:28] ddary_, joining. (#selendroid)
+[2014-02-19 17:59:38] ddary_: :log
