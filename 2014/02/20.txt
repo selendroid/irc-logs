@@ -10,3 +10,5 @@
 [2014-02-20 03:07:23] friscodelrosario, quitting. (Quit: My iMac has gone to sleep. ZZZzzz…)
 [2014-02-20 03:08:26] friscodelrosario, joining. (#selendroid)
 [2014-02-20 03:08:26] friscodelrosario, quitting. (Client Quit)
+[2014-02-20 05:06:44] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-20 05:07:03] friscodelrosario, joining. (#selendroid)
