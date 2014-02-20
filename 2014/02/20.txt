@@ -38,3 +38,4 @@
 [2014-02-20 21:39:58] jlipps1, joining. (#selendroid)
 [2014-02-20 21:42:00] jlipps, quitting. (Ping timeout: 265 seconds)
 [2014-02-20 21:43:04] jlipps1, quitting. (Client Quit)
+[2014-02-20 22:04:09] AutomatedTester_, joining. (#selendroid)
