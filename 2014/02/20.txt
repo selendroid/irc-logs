@@ -42,3 +42,4 @@
 [2014-02-20 22:05:17] smccarthy, quitting. (*.net *.split)
 [2014-02-20 22:05:17] AutomatedTester, quitting. (*.net *.split)
 [2014-02-20 22:05:31] AutomatedTester_, changing nick to AutomatedTester.
+[2014-02-20 22:33:55] friscodelrosario, joining. (#selendroid)
