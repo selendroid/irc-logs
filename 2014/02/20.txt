@@ -32,3 +32,4 @@
 [2014-02-20 21:09:20] jlipps, joining. (#selendroid)
 [2014-02-20 21:11:45] jlipps1, joining. (#selendroid)
 [2014-02-20 21:13:36] jlipps, quitting. (Ping timeout: 245 seconds)
+[2014-02-20 21:15:29] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
