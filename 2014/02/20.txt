@@ -29,3 +29,4 @@
 [2014-02-20 20:18:53] jlipps, quitting. (Quit: Leaving.)
 [2014-02-20 20:30:09] jlipps, joining. (#selendroid)
 [2014-02-20 20:55:40] jlipps, quitting. (Quit: Leaving.)
+[2014-02-20 21:09:20] jlipps, joining. (#selendroid)
