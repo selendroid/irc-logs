@@ -1,3 +1,4 @@
 [2014-02-20 00:21:58] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-02-20 00:23:16] friscodelrosario, joining. (#selendroid)
 [2014-02-20 00:28:05] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-20 01:28:18] lukeis, quitting. (Quit: Leaving.)
