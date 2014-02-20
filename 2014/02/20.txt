@@ -36,3 +36,5 @@
 [2014-02-20 21:33:22] jlipps, joining. (#selendroid)
 [2014-02-20 21:35:51] jlipps1, quitting. (Ping timeout: 260 seconds)
 [2014-02-20 21:39:58] jlipps1, joining. (#selendroid)
+[2014-02-20 21:42:00] jlipps, quitting. (Ping timeout: 265 seconds)
+[2014-02-20 21:43:04] jlipps1, quitting. (Client Quit)
