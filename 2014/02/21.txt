@@ -20,3 +20,9 @@
 [2014-02-21 14:59:16] ddary, joining. (#selendroid)
 [2014-02-21 14:59:57] ddary: :log
 [2014-02-21 15:25:29] ddary: :spec
+[2014-02-21 15:57:09] thu2004: Hi ddary
+[2014-02-21 15:57:17] ddary: hi
+[2014-02-21 15:58:37] ddary: :ask
+[2014-02-21 15:59:19] thu2004: yes, I am using selendroid to test Android application using Python mapping via Appium.
+[2014-02-21 15:59:29] ddary: pl
+[2014-02-21 15:59:34] ddary: sorry: ok
