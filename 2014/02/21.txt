@@ -58,3 +58,6 @@
 [2014-02-21 16:17:14] thu2004: I did sign the CLA earlier today.
 [2014-02-21 16:18:03] thu2004: via a web form. Did you received it ?
 [2014-02-21 16:19:00] ddary: great, will have a look!
+[2014-02-21 16:20:22] ddary: received it
+[2014-02-21 16:22:03] thu2004: Great.
+[2014-02-21 16:22:44] thu2004, quitting. (Quit: Textual IRC Client: www.textualapp.com)
