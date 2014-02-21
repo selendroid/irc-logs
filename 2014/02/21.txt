@@ -1,2 +1,3 @@
 [2014-02-21 00:56:28] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-21 01:00:41] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-02-21 01:08:44] smccarthy, joining. (#selendroid)
