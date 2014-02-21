@@ -26,3 +26,11 @@
 [2014-02-21 15:59:19] thu2004: yes, I am using selendroid to test Android application using Python mapping via Appium.
 [2014-02-21 15:59:29] ddary: pl
 [2014-02-21 15:59:34] ddary: sorry: ok
+[2014-02-21 16:00:14] thu2004: I need to test pinch in och out gesture.
+[2014-02-21 16:01:04] ddary: multi touch is currently not support
+[2014-02-21 16:01:21] thu2004: currently the selendroid does not support multiple touch
+[2014-02-21 16:01:29] ddary: exactly
+[2014-02-21 16:02:15] ddary: the plan is the implement it with the mobile webdriver spec. until this is not finalized, things will change and i want to avoid doing things multiple times
+[2014-02-21 16:03:11] ddary: details how it may will look like you find here: https://docs.google.com/document/d/1yXXsQo3z7lUVl3ZthAx39h4xBlF62x7q_NZd3NA9jnU/
+[2014-02-21 16:03:33] ddary: has appium that already built in?
+[2014-02-21 16:04:27] thu2004: I have done an implementation (prototype) by adding support in AndroidTouchScreen class.
