@@ -74,3 +74,4 @@
 [2014-02-21 20:23:29] selendroid-git, leaving. (#selendroid)
 [2014-02-21 20:26:24] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-02-21 20:27:33] friscodelrosario, joining. (#selendroid)
+[2014-02-21 20:43:14] lukeis: simonstewart: my question in #selenium is related to that PR ^
