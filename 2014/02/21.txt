@@ -34,3 +34,11 @@
 [2014-02-21 16:03:11] ddary: details how it may will look like you find here: https://docs.google.com/document/d/1yXXsQo3z7lUVl3ZthAx39h4xBlF62x7q_NZd3NA9jnU/
 [2014-02-21 16:03:33] ddary: has appium that already built in?
 [2014-02-21 16:04:27] thu2004: I have done an implementation (prototype) by adding support in AndroidTouchScreen class.
+[2014-02-21 16:06:01] ddary: sounds interesting
+[2014-02-21 16:06:14] thu2004: the question is which is the best way to export this support in selendroid ?
+[2014-02-21 16:07:01] ddary: good question
+[2014-02-21 16:07:08] ddary: :)
+[2014-02-21 16:07:31] ddary: the best way would be to implement the multitouch api
+[2014-02-21 16:08:03] ddary: but it is maybe a kind of a overhead
+[2014-02-21 16:08:04] thu2004: is there any plan to extend the selenium API for multiple touch ?
+[2014-02-21 16:08:23] ddary: yes, the link above: section gestures
