@@ -81,3 +81,5 @@
 [2014-02-21 21:58:53] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-02-21 22:00:19] friscodelrosario, joining. (#selendroid)
 [2014-02-21 22:46:41] midopa, quitting. (Ping timeout: 252 seconds)
+[2014-02-21 23:07:50] midopa, joining. (#selendroid)
+[2014-02-21 23:08:28] midopa, leaving. (#selendroid)
