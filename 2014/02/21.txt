@@ -19,3 +19,4 @@
 [2014-02-21 13:52:28] thu2004, joining. (#selendroid)
 [2014-02-21 14:59:16] ddary, joining. (#selendroid)
 [2014-02-21 14:59:57] ddary: :log
+[2014-02-21 15:25:29] ddary: :spec
