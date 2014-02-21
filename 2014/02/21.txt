@@ -61,3 +61,4 @@
 [2014-02-21 16:20:22] ddary: received it
 [2014-02-21 16:22:03] thu2004: Great.
 [2014-02-21 16:22:44] thu2004, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-02-21 16:29:40] smccarthy, joining. (#selendroid)
