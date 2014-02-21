@@ -42,3 +42,13 @@
 [2014-02-21 16:08:03] ddary: but it is maybe a kind of a overhead
 [2014-02-21 16:08:04] thu2004: is there any plan to extend the selenium API for multiple touch ?
 [2014-02-21 16:08:23] ddary: yes, the link above: section gestures
+[2014-02-21 16:10:34] ddary: http://www.youtube.com/watch?v=Ro0k-btUZDM
+[2014-02-21 16:10:35] thu2004: other option is add a custom execute_script command.
+[2014-02-21 16:10:48] ddary: exactly, a bit hacky
+[2014-02-21 16:11:40] ddary: but the best would be if you can create a pull request for the execute script and then we will continue the discussion there
+[2014-02-21 16:11:42] thu2004: good link. I will watch it later.
+[2014-02-21 16:12:13] thu2004: yes, that was exactly my plan.
+[2014-02-21 16:13:34] thu2004: I will add an execute script action : TwoPointerGesture(startP1X, startP1Y, endP1X, endP1Y, startP2X, startP2Y, endP2X, endP2Y, step)
+[2014-02-21 16:14:01] ddary: ok
+[2014-02-21 16:14:15] ddary: then we can have a look at the code and discuss it there
+[2014-02-21 16:14:28] thu2004: and send a pull request to selendroid in Github.
