@@ -77,3 +77,4 @@
 [2014-02-21 20:43:14] lukeis: simonstewart: my question in #selenium is related to that PR ^
 [2014-02-21 21:39:35] midopa, joining. (#selendroid)
 [2014-02-21 21:43:47] midopa, quitting. (Ping timeout: 252 seconds)
+[2014-02-21 21:46:59] midopa, joining. (#selendroid)
