@@ -16,3 +16,4 @@
 [2014-02-21 13:05:07] ddary, joining. (#selendroid)
 [2014-02-21 13:05:39] ddary: :log
 [2014-02-21 13:13:52] ddary, leaving. (#selendroid)
+[2014-02-21 13:52:28] thu2004, joining. (#selendroid)
