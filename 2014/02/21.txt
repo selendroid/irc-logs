@@ -9,3 +9,4 @@
 [2014-02-21 03:50:13] friscodelrosario, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-02-21 04:02:56] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-21 04:42:59] bhans1: :log
+[2014-02-21 07:46:00] ddary, joining. (#selendroid)
