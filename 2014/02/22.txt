@@ -15,3 +15,4 @@
 [2014-02-22 17:24:38] smccarthy2, joining. (#selendroid)
 [2014-02-22 17:25:08] smccarthy, quitting. (*.net *.split)
 [2014-02-22 18:12:24] smccarthy2, quitting. (*.net *.split)
+[2014-02-22 18:38:00] smccarthy, joining. (#selendroid)
