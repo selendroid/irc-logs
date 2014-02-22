@@ -2,3 +2,4 @@
 [2014-02-22 00:00:40] friscodelrosario, joining. (#selendroid)
 [2014-02-22 00:14:51] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-02-22 00:59:30] smccarthy, joining. (#selendroid)
+[2014-02-22 01:44:48] lukeis, quitting. (Quit: Leaving.)
