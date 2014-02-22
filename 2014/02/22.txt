@@ -12,3 +12,4 @@
 [2014-02-22 17:02:45] smccarthy, joining. (#selendroid)
 [2014-02-22 17:05:24] smccarthy, quitting. (Excess Flood)
 [2014-02-22 17:13:50] smccarthy, joining. (#selendroid)
+[2014-02-22 17:24:38] smccarthy2, joining. (#selendroid)
