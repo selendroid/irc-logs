@@ -4,3 +4,4 @@
 [2014-02-22 00:59:30] smccarthy, joining. (#selendroid)
 [2014-02-22 01:44:48] lukeis, quitting. (Quit: Leaving.)
 [2014-02-22 01:46:01] jlipps, quitting. (Quit: Leaving.)
+[2014-02-22 04:34:57] simonstewart, quitting. (Quit: simonstewart)
