@@ -63,3 +63,12 @@
 [2014-02-24 19:52:05] ddary: hi all
 [2014-02-24 19:52:11] lukeis: hi
 [2014-02-24 19:52:50] ddary: are the selenium artifacts for 2.40 available somewhere?
+[2014-02-24 19:55:31] lukeis: in maven? :)
+[2014-02-24 19:55:40] lukeis: and do you want the standalone server?
+[2014-02-24 19:56:14] lukeis: http://ci.seleniumhq.org/selenium-server-4c5c0568b004f67810ee41c459549aa4b09c651e.jar
+[2014-02-24 19:56:55] lukeis: I have the next two days to physically hold simonstewart by the neck to get the downloads thing fully resolved ;)
+[2014-02-24 19:57:28] lukeis: ddary: did you send simon selendroid stickers? (wondering who I need to give some to :) )
+[2014-02-24 19:58:07] ddary: lukeis: i have sent simonstewart stickers,  but have not yet heard back from him if they arrived
+[2014-02-24 19:58:33] lukeis: ok ;) then I will not be giving one to him! :-D
+[2014-02-24 19:58:39] ddary: :D
+[2014-02-24 19:59:14] ddary: so basically from the 100 i have ordered I have 10 left, so the next order has been already made
