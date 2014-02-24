@@ -38,3 +38,5 @@
 [2014-02-24 11:35:24] ddary: great and thanks for your understanding!
 [2014-02-24 12:37:10] thu2004, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-02-24 15:16:29] ddary, quitting. (Ping timeout: 240 seconds)
+[2014-02-24 15:31:55] smccarthy, joining. (#selendroid)
+[2014-02-24 15:31:59] AutomatedTester, joining. (#selendroid)
