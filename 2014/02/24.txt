@@ -103,3 +103,5 @@
 [2014-02-24 23:48:59] jlipps: (also, this is a matter for the spec lukeis, but you guys seem to return entire app source + webview source when using source in webview mode. we just return the html when asking for source in webview mode. which is better?)
 [2014-02-24 23:49:42] lukeis: yeah, i know… i've been meaning to fix that
 [2014-02-24 23:49:50] lukeis: should only return html from the webview
+[2014-02-24 23:50:39] lukeis: btw you're html is cut off above ^   :gist :)
+[2014-02-24 23:54:09] jlipps: lukeis:  https://gist.github.com/jlipps/c4a003707bce68be1915
