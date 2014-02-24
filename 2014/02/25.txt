@@ -1,0 +1,4 @@
+[2014-02-25 00:05:23] lukeis: jlipps: i'm currently seeing a large black area at the top of the webview with the latest code… do you see that or does all appear ok?
+[2014-02-25 00:05:42] jlipps: lukeis:  i don't see that. i'm on 0.8 release i think
+[2014-02-25 00:05:53] lukeis: might just be my emulator...
+[2014-02-25 00:05:59] lukeis: damn thnigs ;)
