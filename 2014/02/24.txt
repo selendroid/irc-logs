@@ -59,3 +59,4 @@
 [2014-02-24 18:38:32] simonstewart, joining. (#selendroid)
 [2014-02-24 18:40:08] martink, quitting. (Ping timeout: 246 seconds)
 [2014-02-24 18:44:17] jlipps, joining. (#selendroid)
+[2014-02-24 19:44:11] ddary, joining. (#selendroid)
