@@ -56,3 +56,4 @@
 [2014-02-24 18:05:50] AutomatedTester, joining. (#selendroid)
 [2014-02-24 18:06:17] smccarthy, joining. (#selendroid)
 [2014-02-24 18:07:52] ddary_, quitting. (Quit: ddary_)
+[2014-02-24 18:38:32] simonstewart, joining. (#selendroid)
