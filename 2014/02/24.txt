@@ -22,3 +22,4 @@
 [2014-02-24 10:48:09] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/_jgPbg
 [2014-02-24 10:48:09] selendroid-git: selendroid/master f21dea3 Dominik Dary: Package of Session should be the model package.
 [2014-02-24 10:48:09] selendroid-git, leaving. (#selendroid)
+[2014-02-24 11:19:11] thu2004, joining. (#selendroid)
