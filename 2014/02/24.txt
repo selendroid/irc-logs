@@ -9,3 +9,7 @@
 [2014-02-24 09:31:13] selendroid-git: selendroid/master 4a1d35f Dominik Dary: Browsers are asking usually for favicons when using the inspector and we answer correctly:  we do not have one.
 [2014-02-24 09:31:13] selendroid-git, leaving. (#selendroid)
 [2014-02-24 09:34:26] _sascha, joining. (#selendroid)
+[2014-02-24 10:12:56] selendroid-git, joining. (#selendroid)
+[2014-02-24 10:12:56] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/zdjz3A
+[2014-02-24 10:12:56] selendroid-git: selendroid/master 1675861 Dominik Dary: Selendroid inspector can now load the tree as well if only selendroid-server is used and it is running on a different port than the default one.
+[2014-02-24 10:12:56] selendroid-git, leaving. (#selendroid)
