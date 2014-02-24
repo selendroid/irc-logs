@@ -98,3 +98,8 @@
 [2014-02-24 23:43:40] lukeis: html for that webview?
 [2014-02-24 23:43:46] lukeis: visibility checks changed
 [2014-02-24 23:44:12] lukeis: i have a bug in native land regarding visibility right now too
+[2014-02-24 23:46:33] jlipps: lukeis:
+[2014-02-24 23:46:34] jlipps: <html><head><title>Say Hello Demo<\/title><\/head><body>Hello, can you please tell me your name?<form name=\"myform\" action=\"http:\/\/localhost:4450\/sayhello\" method=\"get\"><div align=\"center\"><br><br><input type=\"text\" id=\"name_input\" name=\"name\" size=\"25\" value=\"Enter your name here!\"><br><p>Prefered Car:<br><select name=\"car\"><option value=\"volvo\">Volvo<\/option><option value=\"mercedes\">Mercedes<\/option><opt
+[2014-02-24 23:48:59] jlipps: (also, this is a matter for the spec lukeis, but you guys seem to return entire app source + webview source when using source in webview mode. we just return the html when asking for source in webview mode. which is better?)
+[2014-02-24 23:49:42] lukeis: yeah, i know… i've been meaning to fix that
+[2014-02-24 23:49:50] lukeis: should only return html from the webview
