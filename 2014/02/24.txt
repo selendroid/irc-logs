@@ -23,3 +23,13 @@
 [2014-02-24 10:48:09] selendroid-git: selendroid/master f21dea3 Dominik Dary: Package of Session should be the model package.
 [2014-02-24 10:48:09] selendroid-git, leaving. (#selendroid)
 [2014-02-24 11:19:11] thu2004, joining. (#selendroid)
+[2014-02-24 11:25:11] thu2004: Hi ddary
+[2014-02-24 11:25:24] ddary: hi thu2004
+[2014-02-24 11:25:48] thu2004: Did you have a chance to review my pull request ?
+[2014-02-24 11:25:49] ddary: thanks for the PR, i have seen it
+[2014-02-24 11:26:38] ddary: the commiters will soon have a conversation about some technical topics.
+[2014-02-24 11:27:27] thu2004: sound good.
+[2014-02-24 11:27:36] ddary: i will then bring up the PR and I want to understand first, what is the state of multi touch gestures in the webdriver spec and see, if that is something that can be implemented soon.
+[2014-02-24 11:27:43] bhans1, quitting. (Ping timeout: 245 seconds)
+[2014-02-24 11:28:43] ddary: if it is there and we can implement it in the right way, i prefer to do that. if it is not clear, how long it will take until we have the spec, i'm fine to accept the PR
+[2014-02-24 11:28:53] ddary: does this makes sense to you?
