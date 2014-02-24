@@ -72,3 +72,7 @@
 [2014-02-24 19:58:33] lukeis: ok ;) then I will not be giving one to him! :-D
 [2014-02-24 19:58:39] ddary: :D
 [2014-02-24 19:59:14] ddary: so basically from the 100 i have ordered I have 10 left, so the next order has been already made
+[2014-02-24 20:01:19] ddary: lukeis: we had all the time issues entering some special characters. it turned out that there is no easy way to solve the issue. What I now have done is to implement a handling where you can configure nativeEvents true/false for certain commands and with that, you are then able e.g. to enter japanese characters
+[2014-02-24 20:02:09] lukeis: ahh, cool, i have a local native events implementation that I was testing out, but can likely discard now ;)
+[2014-02-24 20:03:06] ddary: you can have a look and improve my version
+[2014-02-24 20:03:10] ddary: :D
