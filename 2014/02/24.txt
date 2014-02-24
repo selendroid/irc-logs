@@ -77,3 +77,4 @@
 [2014-02-24 20:03:06] ddary: you can have a look and improve my version
 [2014-02-24 20:03:10] ddary: :D
 [2014-02-24 20:28:39] lukeis, quitting. (Quit: Leaving.)
+[2014-02-24 20:30:41] lukeis, joining. (#selendroid)
