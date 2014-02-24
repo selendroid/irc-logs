@@ -35,3 +35,4 @@
 [2014-02-24 11:28:53] ddary: does this makes sense to you?
 [2014-02-24 11:30:50] thu2004: Yes, I do prefer to do it in the correct way if the webdriver spec is ready in near future.
 [2014-02-24 11:32:29] thu2004: Totally agree on your comments.
+[2014-02-24 11:35:24] ddary: great and thanks for your understanding!
