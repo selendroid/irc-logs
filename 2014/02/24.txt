@@ -40,3 +40,4 @@
 [2014-02-24 15:16:29] ddary, quitting. (Ping timeout: 240 seconds)
 [2014-02-24 15:31:55] smccarthy, joining. (#selendroid)
 [2014-02-24 15:31:59] AutomatedTester, joining. (#selendroid)
+[2014-02-24 15:48:09] martink, joining. (#selendroid)
