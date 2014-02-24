@@ -44,3 +44,4 @@
 [2014-02-24 16:27:42] ddary, joining. (#selendroid)
 [2014-02-24 16:28:43] ddary: :log
 [2014-02-24 16:29:45] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-02-24 16:35:41] martink, joining. (#selendroid)
