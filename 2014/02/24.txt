@@ -33,3 +33,5 @@
 [2014-02-24 11:27:43] bhans1, quitting. (Ping timeout: 245 seconds)
 [2014-02-24 11:28:43] ddary: if it is there and we can implement it in the right way, i prefer to do that. if it is not clear, how long it will take until we have the spec, i'm fine to accept the PR
 [2014-02-24 11:28:53] ddary: does this makes sense to you?
+[2014-02-24 11:30:50] thu2004: Yes, I do prefer to do it in the correct way if the webdriver spec is ready in near future.
+[2014-02-24 11:32:29] thu2004: Totally agree on your comments.
