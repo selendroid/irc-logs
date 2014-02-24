@@ -105,3 +105,6 @@
 [2014-02-24 23:49:50] lukeis: should only return html from the webview
 [2014-02-24 23:50:39] lukeis: btw you're html is cut off above ^   :gist :)
 [2014-02-24 23:54:09] jlipps: lukeis:  https://gist.github.com/jlipps/c4a003707bce68be1915
+[2014-02-24 23:55:36] lukeis: danke :)
+[2014-02-24 23:55:43] lukeis: i'll try to take a look soonish
+[2014-02-24 23:56:16] jlipps: k. i'll quarantine our selendroid tests for now
