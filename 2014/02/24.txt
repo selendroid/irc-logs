@@ -83,3 +83,18 @@
 [2014-02-24 21:03:28] selendroid-git: selendroid/master 281084c Dominik Dary: Adding support to configure selendroid commands. This allows to disable native events when a text with special characters like German umlauts (like öü) or japanese characters should be entered into a text field. The test "CommandConfigurationTest" demonstrates about how this can be used. Fix #7, #110
 [2014-02-24 21:03:28] selendroid-git, leaving. (#selendroid)
 [2014-02-24 21:58:00] ddary, leaving. (#selendroid)
+[2014-02-24 23:41:03] jlipps: hey lukeis when running our selendroid tests on the 0.8 test app, i'm getting a bunch of weird errors, like this one:
+[2014-02-24 23:41:05] jlipps: Element is not currently interactable and may not be manipulated
+[2014-02-24 23:41:10] jlipps: (when trying to clear a textfield in a webview)
+[2014-02-24 23:41:22] jlipps: or getting text() as "" from an element that clearly has text (also in a webview)
+[2014-02-24 23:41:28] jlipps: have you guys seen any of this?
+[2014-02-24 23:41:42] lukeis: that means it thinks the element isn't visible
+[2014-02-24 23:41:55] lukeis: sample test case for me to look at?
+[2014-02-24 23:42:00] jlipps: i was able to click in it
+[2014-02-24 23:42:23] lukeis: click might have a defect that we don't check visibility then....
+[2014-02-24 23:42:42] lukeis: click gets coordinates and then tells instrumentation to click there
+[2014-02-24 23:42:59] jlipps: lukeis:  https://gist.github.com/jlipps/96aabd7ad2b20df2944c
+[2014-02-24 23:43:18] jlipps: the thing is, these same tests used to work. so the app may have changed.
+[2014-02-24 23:43:40] lukeis: html for that webview?
+[2014-02-24 23:43:46] lukeis: visibility checks changed
+[2014-02-24 23:44:12] lukeis: i have a bug in native land regarding visibility right now too
