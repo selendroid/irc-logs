@@ -53,3 +53,6 @@
 [2014-02-24 17:38:46] ddary_, joining. (#selendroid)
 [2014-02-24 18:00:15] smccarthy, quitting. (*.net *.split)
 [2014-02-24 18:00:32] AutomatedTester, quitting. (*.net *.split)
+[2014-02-24 18:05:50] AutomatedTester, joining. (#selendroid)
+[2014-02-24 18:06:17] smccarthy, joining. (#selendroid)
+[2014-02-24 18:07:52] ddary_, quitting. (Quit: ddary_)
