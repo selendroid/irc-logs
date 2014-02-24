@@ -78,3 +78,7 @@
 [2014-02-24 20:03:10] ddary: :D
 [2014-02-24 20:28:39] lukeis, quitting. (Quit: Leaving.)
 [2014-02-24 20:30:41] lukeis, joining. (#selendroid)
+[2014-02-24 21:03:28] selendroid-git, joining. (#selendroid)
+[2014-02-24 21:03:28] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/7pND0w
+[2014-02-24 21:03:28] selendroid-git: selendroid/master 281084c Dominik Dary: Adding support to configure selendroid commands. This allows to disable native events when a text with special characters like German umlauts (like öü) or japanese characters should be entered into a text field. The test "CommandConfigurationTest" demonstrates about how this can be used. Fix #7, #110
+[2014-02-24 21:03:28] selendroid-git, leaving. (#selendroid)
