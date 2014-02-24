@@ -3,3 +3,9 @@
 [2014-02-24 08:25:12] ddary, joining. (#selendroid)
 [2014-02-24 08:43:18] ddary: :log
 [2014-02-24 08:55:12] ddary, quitting. (Ping timeout: 240 seconds)
+[2014-02-24 09:31:13] selendroid-git, joining. (#selendroid)
+[2014-02-24 09:31:13] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/mPEB0A
+[2014-02-24 09:31:13] selendroid-git: selendroid/master 84979f0 Dominik Dary: Fixing enncoding handling. #284
+[2014-02-24 09:31:13] selendroid-git: selendroid/master 4a1d35f Dominik Dary: Browsers are asking usually for favicons when using the inspector and we answer correctly:  we do not have one.
+[2014-02-24 09:31:13] selendroid-git, leaving. (#selendroid)
+[2014-02-24 09:34:26] _sascha, joining. (#selendroid)
