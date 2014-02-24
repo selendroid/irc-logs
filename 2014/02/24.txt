@@ -76,3 +76,4 @@
 [2014-02-24 20:02:09] lukeis: ahh, cool, i have a local native events implementation that I was testing out, but can likely discard now ;)
 [2014-02-24 20:03:06] ddary: you can have a look and improve my version
 [2014-02-24 20:03:10] ddary: :D
+[2014-02-24 20:28:39] lukeis, quitting. (Quit: Leaving.)
