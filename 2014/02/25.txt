@@ -45,3 +45,4 @@
 [2014-02-25 17:08:29] ddary: tbh: have lost track
 [2014-02-25 17:16:43] sascha_, quitting. (Ping timeout: 244 seconds)
 [2014-02-25 17:32:47] ddary, quitting. (Quit: ddary)
+[2014-02-25 17:59:09] lukeis, joining. (#selendroid)
