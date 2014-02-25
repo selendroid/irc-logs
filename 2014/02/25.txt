@@ -32,3 +32,10 @@
 [2014-02-25 16:56:08] ddary: does anyone need a function to upload or download files from/to the device?
 [2014-02-25 16:58:25] ddary: :spec
 [2014-02-25 16:59:32] AutomatedTester: ddary: there is a bug about adding special case for uploading to the spec
+[2014-02-25 17:00:27] ddary: AutomatedTester: not sure about what you mean...
+[2014-02-25 17:00:36] AutomatedTester: for uploading files
+[2014-02-25 17:00:41] ddary: do you mean there is in the spec a section about file uploads?
+[2014-02-25 17:00:51] ddary: because, have not seen it :)
+[2014-02-25 17:00:58] AutomatedTester: thats what I am saying
+[2014-02-25 17:01:01] AutomatedTester: there is a bug to add it
+[2014-02-25 17:01:16] ddary: ok
