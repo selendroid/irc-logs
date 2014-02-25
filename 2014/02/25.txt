@@ -47,3 +47,4 @@
 [2014-02-25 17:32:47] ddary, quitting. (Quit: ddary)
 [2014-02-25 17:59:09] lukeis, joining. (#selendroid)
 [2014-02-25 18:07:44] simonstewart, joining. (#selendroid)
+[2014-02-25 18:23:00] jlipps, joining. (#selendroid)
