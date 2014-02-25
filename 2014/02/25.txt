@@ -28,3 +28,7 @@
 [2014-02-25 16:07:26] ddary, quitting. (Ping timeout: 246 seconds)
 [2014-02-25 16:11:28] smccarthy, joining. (#selendroid)
 [2014-02-25 16:36:00] ddary, joining. (#selendroid)
+[2014-02-25 16:55:31] ddary: hi
+[2014-02-25 16:56:08] ddary: does anyone need a function to upload or download files from/to the device?
+[2014-02-25 16:58:25] ddary: :spec
+[2014-02-25 16:59:32] AutomatedTester: ddary: there is a bug about adding special case for uploading to the spec
