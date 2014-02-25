@@ -39,3 +39,7 @@
 [2014-02-25 17:00:58] AutomatedTester: thats what I am saying
 [2014-02-25 17:01:01] AutomatedTester: there is a bug to add it
 [2014-02-25 17:01:16] ddary: ok
+[2014-02-25 17:06:51] ddary: AutomatedTester: what are the topics of today's meeting?
+[2014-02-25 17:07:15] AutomatedTester: ddary: https://www.w3.org/wiki/WebDriver/2014-February-F2F#Agenda
+[2014-02-25 17:08:20] ddary: btw: what is the state of the multi touch gestures api?
+[2014-02-25 17:08:29] ddary: tbh: have lost track
