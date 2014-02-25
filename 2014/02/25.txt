@@ -56,3 +56,6 @@
 [2014-02-25 20:09:48] jlipps, quitting. (Ping timeout: 244 seconds)
 [2014-02-25 20:18:30] jlipps, joining. (#selendroid)
 [2014-02-25 20:21:14] jlipps1, quitting. (Ping timeout: 264 seconds)
+[2014-02-25 20:29:05] joel, joining. (#selendroid)
+[2014-02-25 20:29:18] joel: hi guys
+[2014-02-25 20:29:27] joel, changing nick to Guest35404.
