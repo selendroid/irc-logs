@@ -60,3 +60,5 @@
 [2014-02-25 20:29:18] joel: hi guys
 [2014-02-25 20:29:27] joel, changing nick to Guest35404.
 [2014-02-25 20:30:07] Guest35404: how's it going over here?
+[2014-02-25 20:38:30] Guest35404, quitting. (Quit: Leaving)
+[2014-02-25 20:38:53] joel_, joining. (#selendroid)
