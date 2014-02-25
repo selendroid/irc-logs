@@ -24,3 +24,4 @@
 [2014-02-25 08:16:28] ddary, quitting. (Quit: ddary)
 [2014-02-25 09:33:39] sascha_, joining. (#selendroid)
 [2014-02-25 12:23:24] ddary, joining. (#selendroid)
+[2014-02-25 12:36:28] ddary: :log
