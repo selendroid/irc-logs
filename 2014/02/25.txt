@@ -52,3 +52,5 @@
 [2014-02-25 19:55:38] jlipps, quitting. (Ping timeout: 246 seconds)
 [2014-02-25 19:59:08] jlipps1, quitting. (Ping timeout: 246 seconds)
 [2014-02-25 19:59:33] jlipps, joining. (#selendroid)
+[2014-02-25 20:07:01] jlipps1, joining. (#selendroid)
+[2014-02-25 20:09:48] jlipps, quitting. (Ping timeout: 244 seconds)
