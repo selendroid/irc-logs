@@ -63,3 +63,4 @@
 [2014-02-25 20:38:30] Guest35404, quitting. (Quit: Leaving)
 [2014-02-25 20:38:53] joel_, joining. (#selendroid)
 [2014-02-25 21:02:46] joel_: anyone can help me out with an error creating new session on selendroid server?
+[2014-02-25 21:52:13] jlipps, quitting. (Quit: Leaving.)
