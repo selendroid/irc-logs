@@ -57,3 +57,4 @@
 [2014-02-26 15:14:18] joel_: is there anything else we can do?
 [2014-02-26 15:18:38] ddary: no, without the apk it is hard, sorry
 [2014-02-26 15:21:12] joel_: let me check what I can do about this...
+[2014-02-26 15:33:19] smccarthy, quitting. (Remote host closed the connection)
