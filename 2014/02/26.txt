@@ -62,3 +62,4 @@
 [2014-02-26 15:44:22] lukeis, quitting. (Client Quit)
 [2014-02-26 15:44:35] lukeis, joining. (#selendroid)
 [2014-02-26 15:44:35] lukeis, quitting. (Client Quit)
+[2014-02-26 15:48:08] ddary, quitting. (Ping timeout: 245 seconds)
