@@ -64,3 +64,4 @@
 [2014-02-26 15:44:35] lukeis, quitting. (Client Quit)
 [2014-02-26 15:48:08] ddary, quitting. (Ping timeout: 245 seconds)
 [2014-02-26 16:16:53] gimpneek, joining. (#selendroid)
+[2014-02-26 16:20:41] joel_, quitting. (Read error: Connection reset by peer)
