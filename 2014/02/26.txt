@@ -11,3 +11,4 @@
 [2014-02-26 03:11:16] simonstewart, quitting. (Quit: simonstewart)
 [2014-02-26 05:33:14] lukeis, joining. (#selendroid)
 [2014-02-26 08:14:09] ddary, joining. (#selendroid)
+[2014-02-26 08:15:12] lukeis, quitting. (Ping timeout: 244 seconds)
