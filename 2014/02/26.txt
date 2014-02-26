@@ -76,3 +76,6 @@
 [2014-02-26 16:57:30] joel, joining. (#selendroid)
 [2014-02-26 16:57:53] joel, changing nick to Guest70467.
 [2014-02-26 16:59:29] ddary, quitting. (Ping timeout: 246 seconds)
+[2014-02-26 17:07:16] ddary, joining. (#selendroid)
+[2014-02-26 17:07:16] simonstewart, quitting. (Read error: Connection reset by peer)
+[2014-02-26 17:08:52] ddary: :log
