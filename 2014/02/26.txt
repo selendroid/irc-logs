@@ -4,3 +4,5 @@
 [2014-02-26 00:14:41] lukeis, joining. (#selendroid)
 [2014-02-26 00:57:04] lukeis, quitting. (Ping timeout: 244 seconds)
 [2014-02-26 01:00:33] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-26 01:33:17] simonstewart, quitting. (Quit: simonstewart)
+[2014-02-26 01:34:40] simonstewart, joining. (#selendroid)
