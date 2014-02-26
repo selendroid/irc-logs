@@ -17,3 +17,8 @@
 [2014-02-26 08:25:22] ddary: how can i help you?
 [2014-02-26 09:10:26] ddary, quitting. (Ping timeout: 264 seconds)
 [2014-02-26 10:30:56] ddary, joining. (#selendroid)
+[2014-02-26 13:53:27] joel_: Hi!
+[2014-02-26 13:53:32] joel_: Sorry, just got in the office.
+[2014-02-26 13:53:48] joel_: I'm having issues with selendroid, getting an error while creating new session.
+[2014-02-26 13:54:02] joel_: I posted an issue on github
+[2014-02-26 13:54:52] joel_: I think you replied to add the appId as the desired capability. I did, but still got the same error.
