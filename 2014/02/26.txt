@@ -30,3 +30,5 @@
 [2014-02-26 14:33:30] joel_: https://github.com/selendroid/selendroid/issues/294
 [2014-02-26 14:34:11] ddary: you have to look what you see at http://localhost:4444/wd/hub/status
 [2014-02-26 14:34:22] ddary: what the id is
+[2014-02-26 14:39:11] joel_: this is on the status page
+[2014-02-26 14:39:11] joel_: "appId":"com.coolappz.Bantasy:1.0.0"
