@@ -102,3 +102,5 @@
 [2014-02-26 21:27:49] simonstewart, joining. (#selendroid)
 [2014-02-26 21:49:59] simonstewart, quitting. (Read error: Connection reset by peer)
 [2014-02-26 21:51:00] simonstewart, joining. (#selendroid)
+[2014-02-26 22:34:42] Guest70467, quitting. (Excess Flood)
+[2014-02-26 22:35:00] Guest70467, joining. (#selendroid)
