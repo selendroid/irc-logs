@@ -58,3 +58,7 @@
 [2014-02-26 15:18:38] ddary: no, without the apk it is hard, sorry
 [2014-02-26 15:21:12] joel_: let me check what I can do about this...
 [2014-02-26 15:33:19] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-26 15:44:18] lukeis, joining. (#selendroid)
+[2014-02-26 15:44:22] lukeis, quitting. (Client Quit)
+[2014-02-26 15:44:35] lukeis, joining. (#selendroid)
+[2014-02-26 15:44:35] lukeis, quitting. (Client Quit)
