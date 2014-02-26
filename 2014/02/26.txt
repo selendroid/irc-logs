@@ -108,3 +108,5 @@
 [2014-02-26 23:01:54] simonstewart, joining. (#selendroid)
 [2014-02-26 23:06:18] simonstewart, quitting. (Read error: Connection reset by peer)
 [2014-02-26 23:08:07] simonstewart, joining. (#selendroid)
+[2014-02-26 23:13:43] lukeis, quitting. (Quit: Leaving.)
+[2014-02-26 23:13:57] lukeis, joining. (#selendroid)
