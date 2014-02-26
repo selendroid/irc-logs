@@ -67,3 +67,4 @@
 [2014-02-26 16:20:41] joel_, quitting. (Read error: Connection reset by peer)
 [2014-02-26 16:25:26] sascha_, quitting. (Ping timeout: 264 seconds)
 [2014-02-26 16:32:49] gimpneek, quitting. (Quit: Leaving.)
+[2014-02-26 16:37:20] sascha_, joining. (#selendroid)
