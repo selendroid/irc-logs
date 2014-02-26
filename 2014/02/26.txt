@@ -32,3 +32,14 @@
 [2014-02-26 14:34:22] ddary: what the id is
 [2014-02-26 14:39:11] joel_: this is on the status page
 [2014-02-26 14:39:11] joel_: "appId":"com.coolappz.Bantasy:1.0.0"
+[2014-02-26 14:40:41] joel_: the test is set to desired_capabilities = {'appId':'com.coolappz.Bantasy:1.0.0'}
+[2014-02-26 14:40:51] ddary: then that is the id you have to use
+[2014-02-26 14:41:49] joel_: that's the id I'm using on  the test, but it's still giving me the same error.
+[2014-02-26 14:42:02] joel_: is there any other parameter to the desired capabilities that I should add
+[2014-02-26 14:42:06] joel_: besides the appId?
+[2014-02-26 14:43:29] ddary: no
+[2014-02-26 14:43:33] ddary: that is the only one
+[2014-02-26 14:44:21] ddary: when you run the selendroid-standalone in
+[2014-02-26 14:44:25] ddary: -verbose
+[2014-02-26 14:44:26] ddary: mode
+[2014-02-26 14:44:42] ddary: do you see then there something strange?
