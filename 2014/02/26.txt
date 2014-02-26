@@ -97,3 +97,4 @@
 [2014-02-26 20:58:39] lukeis, joining. (#selendroid)
 [2014-02-26 20:59:07] lukeis, quitting. (*.net *.split)
 [2014-02-26 21:01:26] 20WABEB8S, quitting. (Read error: Connection reset by peer)
+[2014-02-26 21:05:17] lukeis, joining. (#selendroid)
