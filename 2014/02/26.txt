@@ -79,3 +79,4 @@
 [2014-02-26 17:07:16] ddary, joining. (#selendroid)
 [2014-02-26 17:07:16] simonstewart, quitting. (Read error: Connection reset by peer)
 [2014-02-26 17:08:52] ddary: :log
+[2014-02-26 17:12:23] ddary, quitting. (Quit: ddary)
