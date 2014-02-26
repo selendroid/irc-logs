@@ -50,3 +50,4 @@
 [2014-02-26 14:51:01] ddary: the scenario i described helped always
 [2014-02-26 14:51:30] joel_: is very strange indeed. I could run a test on the testapp without any problem
 [2014-02-26 14:51:44] joel_: is it possible it has something to do with the app/apk itself?
+[2014-02-26 15:02:42] ddary: can you send me the apk?
