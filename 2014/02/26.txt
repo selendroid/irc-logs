@@ -43,3 +43,6 @@
 [2014-02-26 14:44:25] ddary: -verbose
 [2014-02-26 14:44:26] ddary: mode
 [2014-02-26 14:44:42] ddary: do you see then there something strange?
+[2014-02-26 14:45:23] joel_: let me run it on verbose and check
+[2014-02-26 14:47:35] joel_: no luck, same thing
+[2014-02-26 14:47:35] joel_: http://pastebin.com/DhbG1KQn
