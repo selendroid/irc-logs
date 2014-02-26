@@ -13,3 +13,5 @@
 [2014-02-26 08:14:09] ddary, joining. (#selendroid)
 [2014-02-26 08:15:12] lukeis, quitting. (Ping timeout: 244 seconds)
 [2014-02-26 08:24:26] ddary: :log
+[2014-02-26 08:25:12] ddary: hi joel_
+[2014-02-26 08:25:22] ddary: how can i help you?
