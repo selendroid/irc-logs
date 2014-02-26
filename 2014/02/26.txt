@@ -92,3 +92,4 @@
 [2014-02-26 19:37:45] smccarthy2, quitting. (Remote host closed the connection)
 [2014-02-26 19:38:21] smccarthy, joining. (#selendroid)
 [2014-02-26 19:49:10] ddary, joining. (#selendroid)
+[2014-02-26 19:54:06] ddary, quitting. (Quit: ddary)
