@@ -22,3 +22,4 @@
 [2014-02-26 13:53:48] joel_: I'm having issues with selendroid, getting an error while creating new session.
 [2014-02-26 13:54:02] joel_: I posted an issue on github
 [2014-02-26 13:54:52] joel_: I think you replied to add the appId as the desired capability. I did, but still got the same error.
+[2014-02-26 14:14:54] ddary: what was the issue id?
