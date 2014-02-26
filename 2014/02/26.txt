@@ -6,3 +6,4 @@
 [2014-02-26 01:00:33] smccarthy, quitting. (Remote host closed the connection)
 [2014-02-26 01:33:17] simonstewart, quitting. (Quit: simonstewart)
 [2014-02-26 01:34:40] simonstewart, joining. (#selendroid)
+[2014-02-26 01:42:32] simonstewart, quitting. (Quit: simonstewart)
