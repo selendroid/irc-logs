@@ -80,3 +80,4 @@
 [2014-02-26 17:07:16] simonstewart, quitting. (Read error: Connection reset by peer)
 [2014-02-26 17:08:52] ddary: :log
 [2014-02-26 17:12:23] ddary, quitting. (Quit: ddary)
+[2014-02-26 17:46:44] sascha_, quitting. (Ping timeout: 246 seconds)
