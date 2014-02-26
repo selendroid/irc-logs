@@ -83,3 +83,4 @@
 [2014-02-26 17:46:44] sascha_, quitting. (Ping timeout: 246 seconds)
 [2014-02-26 17:59:30] sascha_, joining. (#selendroid)
 [2014-02-26 18:00:00] smccarthy2, joining. (#selendroid)
+[2014-02-26 18:02:39] smccarthy, quitting. (Ping timeout: 244 seconds)
