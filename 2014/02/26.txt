@@ -25,3 +25,8 @@
 [2014-02-26 14:14:54] ddary: what was the issue id?
 [2014-02-26 14:21:34] sascha_, joining. (#selendroid)
 [2014-02-26 14:25:23] joel_: 294
+[2014-02-26 14:31:59] ddary: #294
+[2014-02-26 14:32:05] ddary: selbot
+[2014-02-26 14:33:30] joel_: https://github.com/selendroid/selendroid/issues/294
+[2014-02-26 14:34:11] ddary: you have to look what you see at http://localhost:4444/wd/hub/status
+[2014-02-26 14:34:22] ddary: what the id is
