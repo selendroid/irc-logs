@@ -66,3 +66,16 @@
 [2014-02-27 16:14:44] ddary: who ever has the time :)
 [2014-02-27 16:14:52] martink: It should be possible to determine why the server failed to start when starting it, right?
 [2014-02-27 16:15:00] ddary: sure
+[2014-02-27 16:15:07] martink: Do you have any time? :)
+[2014-02-27 16:15:20] ddary: you can add an issue and we will see what we can do
+[2014-02-27 16:15:26] martink: ok
+[2014-02-27 16:15:35] martink: thanks!
+[2014-02-27 16:15:41] ddary: i have currently other more important things in the pipeline
+[2014-02-27 16:16:02] ddary: but with the issue we will not forget it
+[2014-02-27 16:16:06] gimpneek, quitting. (Ping timeout: 265 seconds)
+[2014-02-27 16:16:08] martink: What features are you working on?
+[2014-02-27 16:16:29] ddary: - sending adb commands
+[2014-02-27 16:16:54] ddary:  - giving the users the possibility to extend selendroid on their own
+[2014-02-27 16:17:16] ddary:  -use a different http server
+[2014-02-27 16:17:28] ddary:  - work on the source format
+[2014-02-27 16:17:39] ddary: -fix some stuff in the inspector
