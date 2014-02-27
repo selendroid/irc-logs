@@ -93,3 +93,4 @@
 [2014-02-27 16:25:55] ddary: and we can just enable it for certain commands
 [2014-02-27 16:25:57] martink: Yes I think that's fine.
 [2014-02-27 16:28:39] ddary: k
+[2014-02-27 16:34:42] gimpneek, joining. (#selendroid)
