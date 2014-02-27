@@ -1,1 +1,2 @@
 [2014-02-27 00:36:53] smccarthy, quitting. (Remote host closed the connection)
+[2014-02-27 02:55:21] simonstewart, leaving. (#selendroid)
