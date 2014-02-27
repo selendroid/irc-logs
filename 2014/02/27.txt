@@ -79,3 +79,12 @@
 [2014-02-27 16:17:16] ddary:  -use a different http server
 [2014-02-27 16:17:28] ddary:  - work on the source format
 [2014-02-27 16:17:39] ddary: -fix some stuff in the inspector
+[2014-02-27 16:22:05] martink: Interesting! I think Simon had some things in mind regarding the extensibility and using different HTTP server.
+[2014-02-27 16:22:20] ddary: exactly
+[2014-02-27 16:22:25] martink: Created the issue: https://github.com/selendroid/selendroid/issues/301
+[2014-02-27 16:22:46] ddary: ok
+[2014-02-27 16:23:08] ddary: have you seen, i work on this encoding issue?
+[2014-02-27 16:24:13] martink: For the Umlauts. Yes I saw the discussion, cool!
+[2014-02-27 16:24:25] martink: Saw the unit test with Japanese characters.
+[2014-02-27 16:24:35] martink: Cool!
+[2014-02-27 16:24:59] ddary: it is not perfect
