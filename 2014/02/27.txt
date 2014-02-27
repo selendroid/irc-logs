@@ -14,3 +14,16 @@
 [2014-02-27 13:06:49] ddary, joining. (#selendroid)
 [2014-02-27 14:12:42] ddary_, joining. (#selendroid)
 [2014-02-27 14:16:22] ddary_, quitting. (Client Quit)
+[2014-02-27 14:20:09] gimpneek: What's the best way to tell selendroid to wait for a page to reload / verify a page reload? I'm using Cucumber and Scala Play! with selendroid as a remote driver and it keeps failing a page reload step
+[2014-02-27 14:20:24] gimpneek: works fine in a local browser like chrome
+[2014-02-27 14:20:47] ddary: what are you testing, an app or mobile web?
+[2014-02-27 14:20:58] gimpneek: mobile web
+[2014-02-27 14:21:20] gimpneek: I've tried using pageloadtimeout but says it's not implement
+[2014-02-27 14:21:31] ddary: yep
+[2014-02-27 14:21:58] ddary: do you say driver.refresh()
+[2014-02-27 14:21:59] ddary: ?
+[2014-02-27 14:22:33] gimpneek: no, so the scenario is a popup comes up to say that the page is out of date, clicking ok reloads the page
+[2014-02-27 14:22:46] gimpneek: so I've added the click
+[2014-02-27 14:23:04] gimpneek: and then after the click I wait 10 seconds to see if a page element is present
+[2014-02-27 14:23:35] gimpneek: but I think it's tripping up on the this as it fires off the subsequent commands straight away
+[2014-02-27 14:24:31] ddary: what i use is in that kind of situations: https://github.com/selendroid/selendroid/blob/master/selendroid-client/src/main/java/io/selendroid/waiter/TestWaiter.java
