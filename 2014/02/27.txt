@@ -41,3 +41,9 @@
 [2014-02-27 15:56:14] martink, joining. (#selendroid)
 [2014-02-27 15:58:51] martink: Hi, I'd like to ask about the comment in SelendroidLogger (// TODO ddary rethink logging concept that works also on jvm). Why not just use Android's Log class? Thank you.
 [2014-02-27 15:59:53] ddary: hi martink
+[2014-02-27 16:01:04] ddary: i guess the command is from old days
+[2014-02-27 16:01:11] ddary: ^^comment
+[2014-02-27 16:01:46] ddary: some classes are used on android and on the jvm, and i guess that is the brackround
+[2014-02-27 16:02:01] ddary: gimpgeek: thanks, will have a look
+[2014-02-27 16:04:43] martink: OK thanks Dominik.
+[2014-02-27 16:04:58] martink: I'd like to ask one more thing: do you know what typical reasons are for "Selendroid server on the device didn't come up after 20sec"?
