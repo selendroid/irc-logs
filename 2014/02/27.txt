@@ -123,3 +123,8 @@
 [2014-02-27 17:32:00] ddary: the good thing of adb is, it is independent from the process, so also other apps can be clicked
 [2014-02-27 17:32:33] ddary: if you send a motion event and say, just click here, then there will be an exception about wrong process id
 [2014-02-27 17:33:02] lukeis: hmmm
+[2014-02-27 17:35:25] ddary: one of the approaches i tried was also, to call a specific method on the activity that is usually called by android to simulate that event. the issue was, that in the selendroid test app it was working fine, but sadly not in the company app. there it is based on fragments and kind of special.
+[2014-02-27 17:37:48] ddary: lukeis: do you have a better idea?
+[2014-02-27 17:38:16] ddary: btw: i tried also to use multiple instrumentation servers, but that was not that easy as I thought
+[2014-02-27 17:38:18] lukeis: not especially, other than trying to use that UIAutomator hook, but that's only in certain api levels
+[2014-02-27 17:38:26] ddary: exactly
