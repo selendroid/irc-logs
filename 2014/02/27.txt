@@ -97,3 +97,21 @@
 [2014-02-27 16:45:47] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-02-27 16:48:55] martink, joining. (#selendroid)
 [2014-02-27 17:13:08] lukeis, joining. (#selendroid)
+[2014-02-27 17:26:43] ddary: hi lukeis
+[2014-02-27 17:26:51] lukeis: hi ddary
+[2014-02-27 17:27:00] ddary: how was the f2f?
+[2014-02-27 17:27:06] lukeis: really good :)
+[2014-02-27 17:27:23] ddary: yeah, the one I attended in London was good as well
+[2014-02-27 17:27:43] lukeis: https://github.com/w3c/web-platform-tests/blob/master/webdriver/webdriver.cfg#L10  ;)
+[2014-02-27 17:28:10] lukeis: i've been running the w3c webdriver conformance tests against selendroid ;)
+[2014-02-27 17:28:29] ddary: and?
+[2014-02-27 17:28:35] lukeis: we're not *too* bad
+[2014-02-27 17:28:42] lukeis: chrome and ff have ~ 11 failures
+[2014-02-27 17:28:48] lukeis: we have ~20
+[2014-02-27 17:28:57] ddary: and the others?
+[2014-02-27 17:28:59] lukeis: but there's only like 50 tests ;)
+[2014-02-27 17:29:01] lukeis: i don't know
+[2014-02-27 17:29:03] ddary: ah
+[2014-02-27 17:29:04] lukeis: haven't run it
+[2014-02-27 17:29:08] ddary: ok, but good to know
+[2014-02-27 17:29:26] ddary: the image selection issue from the galerie:
