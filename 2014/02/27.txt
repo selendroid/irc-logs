@@ -34,3 +34,5 @@
 [2014-02-27 14:31:14] ddary: could you file an enhancement request/issue on github?
 [2014-02-27 14:31:31] gimpneek: sure will do when back from lunch :0
 [2014-02-27 14:31:37] ddary: ok
+[2014-02-27 14:42:29] gimpneek, quitting. (Ping timeout: 241 seconds)
+[2014-02-27 14:43:48] gimpneek, joining. (#selendroid)
