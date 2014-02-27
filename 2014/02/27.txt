@@ -30,3 +30,7 @@
 [2014-02-27 14:25:08] ddary: it is waiting on the client side and trying multiple time to find the element. if it is there, it continoues, it it is timing out, there will be an error
 [2014-02-27 14:25:57] ddary: it not perfect, but sometimes when the server response time are difference (e.g. qa is usually slow), it helps
 [2014-02-27 14:26:18] gimpneek: awesome cheers will give it a go
+[2014-02-27 14:30:58] ddary: with regards to the pageloadtimeout, it would be probably a good idea to implement that.
+[2014-02-27 14:31:14] ddary: could you file an enhancement request/issue on github?
+[2014-02-27 14:31:31] gimpneek: sure will do when back from lunch :0
+[2014-02-27 14:31:37] ddary: ok
