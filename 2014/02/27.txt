@@ -139,3 +139,5 @@
 [2014-02-27 18:48:44] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-02-27 18:51:40] martink, joining. (#selendroid)
 [2014-02-27 19:27:28] ddary, joining. (#selendroid)
+[2014-02-27 19:35:21] jlipps, joining. (#selendroid)
+[2014-02-27 19:37:19] gimpneek, quitting. (Remote host closed the connection)
