@@ -60,3 +60,9 @@
 [2014-02-27 16:09:17] martink: And that gets rewritten before installing selendroid-server on the device I suppose.
 [2014-02-27 16:09:33] ddary: yes, by:
 [2014-02-27 16:09:34] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/builder/SelendroidServerBuilder.java
+[2014-02-27 16:10:03] martink: I see, thanks!
+[2014-02-27 16:10:38] ddary: welcome
+[2014-02-27 16:14:16] martink: Who do you think should improve the error reporting?
+[2014-02-27 16:14:44] ddary: who ever has the time :)
+[2014-02-27 16:14:52] martink: It should be possible to determine why the server failed to start when starting it, right?
+[2014-02-27 16:15:00] ddary: sure
