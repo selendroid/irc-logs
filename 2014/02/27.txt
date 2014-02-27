@@ -135,3 +135,4 @@
 [2014-02-27 17:41:55] ddary: sent a mail some days ago
 [2014-02-27 17:41:58] ddary: will see
 [2014-02-27 17:43:07] martink, joining. (#selendroid)
+[2014-02-27 18:39:16] ddary, quitting. (Quit: ddary)
