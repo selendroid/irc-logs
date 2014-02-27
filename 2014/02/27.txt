@@ -36,3 +36,4 @@
 [2014-02-27 14:31:37] ddary: ok
 [2014-02-27 14:42:29] gimpneek, quitting. (Ping timeout: 241 seconds)
 [2014-02-27 14:43:48] gimpneek, joining. (#selendroid)
+[2014-02-27 15:23:19] ddary: :spec
