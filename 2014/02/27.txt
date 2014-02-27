@@ -37,3 +37,4 @@
 [2014-02-27 14:42:29] gimpneek, quitting. (Ping timeout: 241 seconds)
 [2014-02-27 14:43:48] gimpneek, joining. (#selendroid)
 [2014-02-27 15:23:19] ddary: :spec
+[2014-02-27 15:53:23] gimpneek: @ddary Have posted enhancement request. Apologies if not in correct format (first time doing this)
