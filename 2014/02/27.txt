@@ -27,3 +27,6 @@
 [2014-02-27 14:23:04] gimpneek: and then after the click I wait 10 seconds to see if a page element is present
 [2014-02-27 14:23:35] gimpneek: but I think it's tripping up on the this as it fires off the subsequent commands straight away
 [2014-02-27 14:24:31] ddary: what i use is in that kind of situations: https://github.com/selendroid/selendroid/blob/master/selendroid-client/src/main/java/io/selendroid/waiter/TestWaiter.java
+[2014-02-27 14:25:08] ddary: it is waiting on the client side and trying multiple time to find the element. if it is there, it continoues, it it is timing out, there will be an error
+[2014-02-27 14:25:57] ddary: it not perfect, but sometimes when the server response time are difference (e.g. qa is usually slow), it helps
+[2014-02-27 14:26:18] gimpneek: awesome cheers will give it a go
