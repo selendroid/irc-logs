@@ -115,3 +115,11 @@
 [2014-02-27 17:29:04] lukeis: haven't run it
 [2014-02-27 17:29:08] ddary: ok, but good to know
 [2014-02-27 17:29:26] ddary: the image selection issue from the galerie:
+[2014-02-27 17:30:04] ddary: i found no sustainable way how to generate the event, that is usually send be the gallery app
+[2014-02-27 17:30:28] ddary: what I curently do is, i use adb to tap a location on screen
+[2014-02-27 17:30:44] ddary: in my case, i have just to select one image, it is just the one click
+[2014-02-27 17:30:54] ddary: and for that I use the adb thing
+[2014-02-27 17:31:34] ddary: currently adding a interface and extension to selendroid
+[2014-02-27 17:32:00] ddary: the good thing of adb is, it is independent from the process, so also other apps can be clicked
+[2014-02-27 17:32:33] ddary: if you send a motion event and say, just click here, then there will be an exception about wrong process id
+[2014-02-27 17:33:02] lukeis: hmmm
