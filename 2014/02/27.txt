@@ -128,3 +128,10 @@
 [2014-02-27 17:38:16] ddary: btw: i tried also to use multiple instrumentation servers, but that was not that easy as I thought
 [2014-02-27 17:38:18] lukeis: not especially, other than trying to use that UIAutomator hook, but that's only in certain api levels
 [2014-02-27 17:38:26] ddary: exactly
+[2014-02-27 17:40:11] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-02-27 17:40:34] lukeis: added in api level 18 :-/  (man… i just need to support 17 right now!)
+[2014-02-27 17:40:55] ddary: lukeis: we wanted to do today ( in about 20min) the hangout, right?
+[2014-02-27 17:41:25] lukeis: oh, right… i highly doubt simon remembered, unless you reminded him… he seems to have a busy day today
+[2014-02-27 17:41:55] ddary: sent a mail some days ago
+[2014-02-27 17:41:58] ddary: will see
+[2014-02-27 17:43:07] martink, joining. (#selendroid)
