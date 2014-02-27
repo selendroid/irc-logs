@@ -47,3 +47,16 @@
 [2014-02-27 16:02:01] ddary: gimpgeek: thanks, will have a look
 [2014-02-27 16:04:43] martink: OK thanks Dominik.
 [2014-02-27 16:04:58] martink: I'd like to ask one more thing: do you know what typical reasons are for "Selendroid server on the device didn't come up after 20sec"?
+[2014-02-27 16:05:36] ddary: I would say the target package does not match the aut
+[2014-02-27 16:06:04] ddary: or there was an issue like: selendroid server is running for another other app
+[2014-02-27 16:06:29] martink: Can you expand on what you mean by target package doesn't match the aut please?
+[2014-02-27 16:07:05] ddary: sure
+[2014-02-27 16:07:32] ddary: selendroid-server has in the AndroidApplication.xml and target package defined.
+[2014-02-27 16:07:37] martink: Do you think we could improve the error reporting so we'd get a specific message? There are probably several different causes to "Selendroid server on the device didn't come up".
+[2014-02-27 16:08:17] ddary: so if you want to test the ebay app, you have to create a special selendroid server that has the target package of the ebay app and both apks must have the same certificate
+[2014-02-27 16:08:47] ddary: sure, that should be possible
+[2014-02-27 16:08:48] martink: I see android:targetPackage="io.selendroid.testapp"
+[2014-02-27 16:08:58] ddary: yes, exactly
+[2014-02-27 16:09:17] martink: And that gets rewritten before installing selendroid-server on the device I suppose.
+[2014-02-27 16:09:33] ddary: yes, by:
+[2014-02-27 16:09:34] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/builder/SelendroidServerBuilder.java
