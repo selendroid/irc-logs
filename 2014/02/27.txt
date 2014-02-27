@@ -147,3 +147,4 @@
 [2014-02-27 20:19:14] ddary, quitting. (Quit: ddary)
 [2014-02-27 23:01:34] friscodelrosario, joining. (#selendroid)
 [2014-02-27 23:03:55] simonstewart, joining. (#selendroid)
+[2014-02-27 23:19:19] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
