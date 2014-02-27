@@ -88,3 +88,8 @@
 [2014-02-27 16:24:25] martink: Saw the unit test with Japanese characters.
 [2014-02-27 16:24:35] martink: Cool!
 [2014-02-27 16:24:59] ddary: it is not perfect
+[2014-02-27 16:25:02] ddary: i know that
+[2014-02-27 16:25:34] ddary: but with that approach we are able to use the special charaters, we can just set the text.
+[2014-02-27 16:25:55] ddary: and we can just enable it for certain commands
+[2014-02-27 16:25:57] martink: Yes I think that's fine.
+[2014-02-27 16:28:39] ddary: k
