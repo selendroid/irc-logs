@@ -10,3 +10,4 @@
 [2014-02-27 11:45:35] gimpneek, joining. (#selendroid)
 [2014-02-27 12:37:25] ddary, joining. (#selendroid)
 [2014-02-27 12:38:53] ddary: :log
+[2014-02-27 13:04:23] ddary, quitting. (Quit: ddary)
