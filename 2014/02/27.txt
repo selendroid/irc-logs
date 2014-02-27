@@ -38,3 +38,6 @@
 [2014-02-27 14:43:48] gimpneek, joining. (#selendroid)
 [2014-02-27 15:23:19] ddary: :spec
 [2014-02-27 15:53:23] gimpneek: @ddary Have posted enhancement request. Apologies if not in correct format (first time doing this)
+[2014-02-27 15:56:14] martink, joining. (#selendroid)
+[2014-02-27 15:58:51] martink: Hi, I'd like to ask about the comment in SelendroidLogger (// TODO ddary rethink logging concept that works also on jvm). Why not just use Android's Log class? Thank you.
+[2014-02-27 15:59:53] ddary: hi martink
