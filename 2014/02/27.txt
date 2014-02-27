@@ -96,3 +96,4 @@
 [2014-02-27 16:34:42] gimpneek, joining. (#selendroid)
 [2014-02-27 16:45:47] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-02-27 16:48:55] martink, joining. (#selendroid)
+[2014-02-27 17:13:08] lukeis, joining. (#selendroid)
