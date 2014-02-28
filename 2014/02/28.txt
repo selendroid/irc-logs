@@ -20,3 +20,4 @@
 [2014-02-28 12:13:19] martink, joining. (#selendroid)
 [2014-02-28 12:16:19] gimpneek, joining. (#selendroid)
 [2014-02-28 13:04:58] ddary, joining. (#selendroid)
+[2014-02-28 13:34:20] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
