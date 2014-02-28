@@ -5,3 +5,4 @@
 [2014-02-28 01:52:58] simonstewart, quitting. (Ping timeout: 240 seconds)
 [2014-02-28 03:11:55] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-02-28 03:12:30] friscodelrosario, joining. (#selendroid)
+[2014-02-28 05:12:30] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
