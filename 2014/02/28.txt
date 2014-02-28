@@ -18,3 +18,4 @@
 [2014-02-28 10:21:15] sascha_, joining. (#selendroid)
 [2014-02-28 11:15:54] ddary, quitting. (Quit: Page closed)
 [2014-02-28 12:13:19] martink, joining. (#selendroid)
+[2014-02-28 12:16:19] gimpneek, joining. (#selendroid)
