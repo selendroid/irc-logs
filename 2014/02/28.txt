@@ -72,3 +72,4 @@
 [2014-02-28 19:57:24] ddary, joining. (#selendroid)
 [2014-02-28 20:01:26] ddary, quitting. (Client Quit)
 [2014-02-28 20:24:27] lukeis, joining. (#selendroid)
+[2014-02-28 20:54:38] simonstewart, joining. (#selendroid)
