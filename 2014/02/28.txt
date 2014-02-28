@@ -9,3 +9,4 @@
 [2014-02-28 06:08:09] ddary, joining. (#selendroid)
 [2014-02-28 06:15:22] ddary, quitting. (Read error: Operation timed out)
 [2014-02-28 06:16:04] ddary, joining. (#selendroid)
+[2014-02-28 06:27:59] ddary, quitting. (Ping timeout: 330 seconds)
