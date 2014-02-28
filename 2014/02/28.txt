@@ -69,3 +69,4 @@
 [2014-02-28 19:43:30] simonstewart, quitting. (Client Quit)
 [2014-02-28 19:53:12] lukeis, quitting. (Ping timeout: 240 seconds)
 [2014-02-28 19:53:28] joel_, quitting. (Quit: Leaving)
+[2014-02-28 19:57:24] ddary, joining. (#selendroid)
