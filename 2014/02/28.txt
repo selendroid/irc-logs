@@ -80,3 +80,4 @@
 [2014-02-28 22:01:26] ddary, quitting. (Quit: ddary)
 [2014-02-28 22:07:35] simonstewart, quitting. (Quit: simonstewart)
 [2014-02-28 22:57:31] lukeis1, joining. (#selendroid)
+[2014-02-28 23:08:36] lukeis, quitting. (*.net *.split)
