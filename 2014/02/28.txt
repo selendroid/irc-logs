@@ -16,3 +16,4 @@
 [2014-02-28 09:52:44] ddary, joining. (#selendroid)
 [2014-02-28 10:08:00] sascha_, quitting. (Ping timeout: 240 seconds)
 [2014-02-28 10:21:15] sascha_, joining. (#selendroid)
+[2014-02-28 11:15:54] ddary, quitting. (Quit: Page closed)
