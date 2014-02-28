@@ -49,3 +49,4 @@
 [2014-02-28 16:57:43] ddary: you can also ask the mailing list
 [2014-02-28 16:57:48] ddary: have a good day
 [2014-02-28 16:57:53] ddary, quitting. (Quit: ddary)
+[2014-02-28 17:15:32] sascha_, quitting. (Ping timeout: 244 seconds)
