@@ -38,3 +38,4 @@
 [2014-02-28 16:30:10] ddary, leaving. (#selendroid)
 [2014-02-28 16:30:22] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-02-28 16:32:47] martink, joining. (#selendroid)
+[2014-02-28 16:42:53] smccarthy, joining. (#selendroid)
