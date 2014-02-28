@@ -35,3 +35,6 @@
 [2014-02-28 15:29:12] martink, joining. (#selendroid)
 [2014-02-28 15:40:39] ddary, quitting. (Ping timeout: 325 seconds)
 [2014-02-28 15:59:53] ddary, joining. (#selendroid)
+[2014-02-28 16:30:10] ddary, leaving. (#selendroid)
+[2014-02-28 16:30:22] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-02-28 16:32:47] martink, joining. (#selendroid)
