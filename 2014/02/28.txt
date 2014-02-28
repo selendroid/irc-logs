@@ -59,3 +59,5 @@
 [2014-02-28 18:42:44] joel__, quitting. (*.net *.split)
 [2014-02-28 18:42:45] lukeis, quitting. (*.net *.split)
 [2014-02-28 18:42:56] smccarthy, quitting. (*.net *.split)
+[2014-02-28 18:50:38] lukeis, joining. (#selendroid)
+[2014-02-28 18:50:46] joel__, joining. (#selendroid)
