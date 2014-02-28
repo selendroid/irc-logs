@@ -30,3 +30,4 @@
 [2014-02-28 15:04:11] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/hD-vag
 [2014-02-28 15:04:11] selendroid-git: selendroid/master 14862ab Dominik Dary: Added support for sending key events, sending text and tap via adb connection
 [2014-02-28 15:04:11] selendroid-git, leaving. (#selendroid)
+[2014-02-28 15:09:33] Guest70467, quitting. (Quit: Leaving)
