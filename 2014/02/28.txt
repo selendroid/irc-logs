@@ -40,3 +40,8 @@
 [2014-02-28 16:32:47] martink, joining. (#selendroid)
 [2014-02-28 16:42:53] smccarthy, joining. (#selendroid)
 [2014-02-28 16:45:52] ddary, joining. (#selendroid)
+[2014-02-28 16:52:04] joel_, joining. (#selendroid)
+[2014-02-28 16:52:11] joel_: hello everyone!
+[2014-02-28 16:52:23] joel_: can anyone help out with a question? I haven't found much online...
+[2014-02-28 16:52:46] joel_: how can I accept an alert? I'm coding the tests in python
+[2014-02-28 16:54:49] ddary: what do you test? mobile web or hybrid apps?
