@@ -24,3 +24,4 @@
 [2014-02-28 14:00:22] martink, joining. (#selendroid)
 [2014-02-28 14:03:25] martink, quitting. (Client Quit)
 [2014-02-28 14:29:32] martink, joining. (#selendroid)
+[2014-02-28 14:42:04] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
