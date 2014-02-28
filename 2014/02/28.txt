@@ -26,3 +26,7 @@
 [2014-02-28 14:29:32] martink, joining. (#selendroid)
 [2014-02-28 14:42:04] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-02-28 14:48:18] martink, joining. (#selendroid)
+[2014-02-28 15:04:11] selendroid-git, joining. (#selendroid)
+[2014-02-28 15:04:11] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/hD-vag
+[2014-02-28 15:04:11] selendroid-git: selendroid/master 14862ab Dominik Dary: Added support for sending key events, sending text and tap via adb connection
+[2014-02-28 15:04:11] selendroid-git, leaving. (#selendroid)
