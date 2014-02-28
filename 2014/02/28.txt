@@ -7,3 +7,5 @@
 [2014-02-28 03:12:30] friscodelrosario, joining. (#selendroid)
 [2014-02-28 05:12:30] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-02-28 06:08:09] ddary, joining. (#selendroid)
+[2014-02-28 06:15:22] ddary, quitting. (Read error: Operation timed out)
+[2014-02-28 06:16:04] ddary, joining. (#selendroid)
