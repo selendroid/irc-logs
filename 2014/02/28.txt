@@ -61,3 +61,5 @@
 [2014-02-28 18:42:56] smccarthy, quitting. (*.net *.split)
 [2014-02-28 18:50:38] lukeis, joining. (#selendroid)
 [2014-02-28 18:50:46] joel__, joining. (#selendroid)
+[2014-02-28 19:00:37] gimpneek, leaving. (#selendroid)
+[2014-02-28 19:01:31] joel__, quitting. (Ping timeout: 240 seconds)
