@@ -1,3 +1,4 @@
 [2014-03-01 00:31:00] lukeis1, changing nick to lukeis.
 [2014-03-01 01:51:05] lukeis, quitting. (Quit: Leaving.)
 [2014-03-01 02:35:41] smccarthy, joining. (#selendroid)
+[2014-03-01 05:28:56] smccarthy, quitting. (Ping timeout: 252 seconds)
