@@ -70,3 +70,5 @@
 [2014-03-03 20:43:42] lukeis: and assertions belong in one place, the 'test' :)
 [2014-03-03 20:47:18] joel__: yeah, this would be in the test itself
 [2014-03-03 20:53:27] lukeis: a rule I have about use of page objects… a 'test' has no webdriver commands run in it directly
+[2014-03-03 21:04:46] joel__: I'm testing a hybrid mobile app
+[2014-03-03 21:04:53] joel__: that's built on PhoneGap
