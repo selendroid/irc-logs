@@ -48,3 +48,5 @@
 [2014-03-03 20:12:01] lukeis: just keep that in mind in the future :)
 [2014-03-03 20:13:06] joel__: definitely!
 [2014-03-03 20:13:24] joel__: alright, let's see what happens with this...
+[2014-03-03 20:18:22] joel__: oops... ran into a totally different wall...NameError: global name 'assertEquals' is not defined
+[2014-03-03 20:18:49] lukeis: i was giving you pseudo code, i don't know what language / framework you are using :)
