@@ -69,3 +69,4 @@
 [2014-03-03 20:43:11] lukeis: in general all of my code does not have any driver commands close to an assertion statement :)  (use Page Object design pattern instead)
 [2014-03-03 20:43:42] lukeis: and assertions belong in one place, the 'test' :)
 [2014-03-03 20:47:18] joel__: yeah, this would be in the test itself
+[2014-03-03 20:53:27] lukeis: a rule I have about use of page objects… a 'test' has no webdriver commands run in it directly
