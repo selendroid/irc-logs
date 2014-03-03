@@ -55,3 +55,5 @@
 [2014-03-03 20:20:59] joel__: no 's'
 [2014-03-03 20:21:02] joel__: let's see
 [2014-03-03 20:24:53] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-03-03 20:26:29] joel__: alright, it worked. I needed to use self.assertEqual()... It threw AssertionError: u'' != 'Please enter at least 3 characters.'
+[2014-03-03 20:27:38] lukeis: cool, so that means it thinks your label is not displayed
