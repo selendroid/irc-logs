@@ -37,3 +37,14 @@
 [2014-03-03 20:09:51] lukeis: element.text should work, is it returning nothing?
 [2014-03-03 20:09:57] joel__: I'm not sure
 [2014-03-03 20:10:00] lukeis: heh
+[2014-03-03 20:10:08] joel__: it just says assertion failed
+[2014-03-03 20:10:27] lukeis: assertTrue  element.text == 'something'    <- is a horrible assertion
+[2014-03-03 20:10:33] joel__: I'm using selendroid through appium, so I'm not sure how I can make it print the content of element.text
+[2014-03-03 20:10:45] lukeis: assertEquals element.text, 'something'   <— much better
+[2014-03-03 20:10:51] joel__: ooh...
+[2014-03-03 20:11:00] joel__: let me try that and see what happens
+[2014-03-03 20:11:12] lukeis: should tell you what element.text actually is
+[2014-03-03 20:11:42] joel__: I was using the horrible one lol
+[2014-03-03 20:12:01] lukeis: just keep that in mind in the future :)
+[2014-03-03 20:13:06] joel__: definitely!
+[2014-03-03 20:13:24] joel__: alright, let's see what happens with this...
