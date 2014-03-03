@@ -60,3 +60,11 @@
 [2014-03-03 20:31:15] joel__: oh man...
 [2014-03-03 20:31:30] joel__: how can I assert that an element is present?
 [2014-03-03 20:31:49] joel__: can I do assertTrue(driver.find_element_by_whatever('whatever')) ?
+[2014-03-03 20:40:15] lukeis: the find_element will throw an exception if the element doesn't exist
+[2014-03-03 20:41:01] lukeis: btw, i'm often away from chat and these questions are mostly generic testing + selenium ones, you can ask in #selenium and will likely get a quicker response (i'm in there too)
+[2014-03-03 20:41:18] joel__: so, I don't even need to assert it? just try to find the element
+[2014-03-03 20:41:23] joel__: oh, cool. Thanks!
+[2014-03-03 20:41:41] joel__: I'll go there then for any future general selenium stuff :)
+[2014-03-03 20:42:29] lukeis: if you're ok with have the exception bubble up if the element doesn't exist, then yes, you don't need an assertion (but when it fails it may be hard to trace why it's failing)
+[2014-03-03 20:43:11] lukeis: in general all of my code does not have any driver commands close to an assertion statement :)  (use Page Object design pattern instead)
+[2014-03-03 20:43:42] lukeis: and assertions belong in one place, the 'test' :)
