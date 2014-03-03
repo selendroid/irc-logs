@@ -2,3 +2,4 @@
 [2014-03-03 05:57:36] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-03 07:58:11] sascha_, joining. (#selendroid)
 [2014-03-03 08:10:25] sascha_, quitting. (Ping timeout: 240 seconds)
+[2014-03-03 08:24:03] ddary, joining. (#selendroid)
