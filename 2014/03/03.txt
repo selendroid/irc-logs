@@ -28,3 +28,12 @@
 [2014-03-03 18:26:09] simonstewart, quitting. (Quit: simonstewart)
 [2014-03-03 19:49:00] ddary, joining. (#selendroid)
 [2014-03-03 19:56:46] ddary, quitting. (Quit: ddary)
+[2014-03-03 20:07:40] joel__, joining. (#selendroid)
+[2014-03-03 20:08:22] joel__: hello everyone!
+[2014-03-03 20:08:34] lukeis: hello
+[2014-03-03 20:08:48] joel__: I was wondering if someone could help me out with something
+[2014-03-03 20:09:02] joel__: how can I read the text between <label...></label>
+[2014-03-03 20:09:15] joel__: I tried with element.text but the assertion is failing
+[2014-03-03 20:09:51] lukeis: element.text should work, is it returning nothing?
+[2014-03-03 20:09:57] joel__: I'm not sure
+[2014-03-03 20:10:00] lukeis: heh
