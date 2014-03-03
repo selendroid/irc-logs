@@ -50,3 +50,8 @@
 [2014-03-03 20:13:24] joel__: alright, let's see what happens with this...
 [2014-03-03 20:18:22] joel__: oops... ran into a totally different wall...NameError: global name 'assertEquals' is not defined
 [2014-03-03 20:18:49] lukeis: i was giving you pseudo code, i don't know what language / framework you are using :)
+[2014-03-03 20:20:47] joel__: python
+[2014-03-03 20:20:56] joel__: it's supposed to be assertEqual
+[2014-03-03 20:20:59] joel__: no 's'
+[2014-03-03 20:21:02] joel__: let's see
+[2014-03-03 20:24:53] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
