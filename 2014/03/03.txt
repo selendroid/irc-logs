@@ -77,3 +77,4 @@
 [2014-03-03 21:09:29] joel__: I might be doing something wrong here
 [2014-03-03 21:09:47] joel__: I'll see how I can get around this thing, it should be able to compare the text within the label
 [2014-03-03 21:09:59] joel__: thanks for the tips, lukeis
+[2014-03-03 21:18:37] gimpneek, leaving. (#selendroid)
