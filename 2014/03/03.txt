@@ -26,3 +26,4 @@
 [2014-03-03 17:28:44] lukeis, joining. (#selendroid)
 [2014-03-03 18:24:45] friscodelrosario, joining. (#selendroid)
 [2014-03-03 18:26:09] simonstewart, quitting. (Quit: simonstewart)
+[2014-03-03 19:49:00] ddary, joining. (#selendroid)
