@@ -80,3 +80,4 @@
 [2014-03-03 21:18:37] gimpneek, leaving. (#selendroid)
 [2014-03-03 22:02:49] lukeis, quitting. (Remote host closed the connection)
 [2014-03-03 22:03:59] lukeis, joining. (#selendroid)
+[2014-03-03 22:11:02] jlipps, joining. (#selendroid)
