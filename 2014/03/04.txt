@@ -6,3 +6,4 @@
 [2014-03-04 03:36:26] oskoryk, joining. (#selendroid)
 [2014-03-04 03:36:26] oskoryk, quitting. (Client Quit)
 [2014-03-04 03:47:08] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-03-04 04:14:39] friscodelrosario, joining. (#selendroid)
