@@ -46,3 +46,4 @@
 [2014-03-04 19:49:38] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-04 19:55:56] simonstewart, joining. (#selendroid)
 [2014-03-04 20:00:26] lukeis: ahoy simonstewart, have you talked to ddary in the past week?
+[2014-03-04 20:22:40] simonstewart, leaving. (#selendroid)
