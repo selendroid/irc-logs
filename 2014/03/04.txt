@@ -10,3 +10,4 @@
 [2014-03-04 06:14:42] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-03-04 07:35:03] ddary, joining. (#selendroid)
 [2014-03-04 07:42:31] ddary: :log
+[2014-03-04 08:41:45] ddary, quitting. (Quit: ddary)
