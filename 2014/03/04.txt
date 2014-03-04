@@ -39,3 +39,4 @@
 [2014-03-04 18:22:44] jlipps, quitting. (Client Quit)
 [2014-03-04 18:57:20] lukeis, quitting. (Quit: Leaving.)
 [2014-03-04 18:57:37] lukeis, joining. (#selendroid)
+[2014-03-04 19:03:55] gimpneek, leaving. (#selendroid)
