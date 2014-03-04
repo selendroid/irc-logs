@@ -29,3 +29,5 @@
 [2014-03-04 11:29:09] simonstewart, joining. (#selendroid)
 [2014-03-04 15:03:13] joel__, quitting. (Read error: Connection reset by peer)
 [2014-03-04 15:36:13] simonstewart, quitting. (Quit: simonstewart)
+[2014-03-04 16:32:00] ddary, quitting. (Ping timeout: 264 seconds)
+[2014-03-04 16:33:48] smccarthy, joining. (#selendroid)
