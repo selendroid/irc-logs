@@ -19,3 +19,7 @@
 [2014-03-04 10:12:39] selendroid-git, leaving. (#selendroid)
 [2014-03-04 10:13:28] ddary, joining. (#selendroid)
 [2014-03-04 10:33:20] simonstewart, quitting. (Ping timeout: 265 seconds)
+[2014-03-04 10:47:07] selendroid-git, joining. (#selendroid)
+[2014-03-04 10:47:07] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/pgYOUw
+[2014-03-04 10:47:07] selendroid-git: selendroid/master 9f9c24d Dominik Dary: Simplifying DeviceStore test, no logical change.
+[2014-03-04 10:47:07] selendroid-git, leaving. (#selendroid)
