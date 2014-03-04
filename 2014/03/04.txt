@@ -40,3 +40,4 @@
 [2014-03-04 18:57:20] lukeis, quitting. (Quit: Leaving.)
 [2014-03-04 18:57:37] lukeis, joining. (#selendroid)
 [2014-03-04 19:03:55] gimpneek, leaving. (#selendroid)
+[2014-03-04 19:28:38] ddary, joining. (#selendroid)
