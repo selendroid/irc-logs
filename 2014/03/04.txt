@@ -44,3 +44,4 @@
 [2014-03-04 19:36:49] ddary, quitting. (Ping timeout: 240 seconds)
 [2014-03-04 19:47:45] friscodelrosario, joining. (#selendroid)
 [2014-03-04 19:49:38] smccarthy, quitting. (Remote host closed the connection)
+[2014-03-04 19:55:56] simonstewart, joining. (#selendroid)
