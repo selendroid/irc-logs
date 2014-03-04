@@ -27,3 +27,4 @@
 [2014-03-04 10:53:02] ddary_, quitting. (Client Quit)
 [2014-03-04 11:22:39] gimpneek, joining. (#selendroid)
 [2014-03-04 11:29:09] simonstewart, joining. (#selendroid)
+[2014-03-04 15:03:13] joel__, quitting. (Read error: Connection reset by peer)
