@@ -50,3 +50,4 @@
 [2014-03-04 21:45:17] selendroidbot, joining. (#selendroid)
 [2014-03-04 21:47:53] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-03-04 22:09:46] lukeis, quitting. (Quit: Leaving.)
+[2014-03-04 22:19:06] lukeis, joining. (#selendroid)
