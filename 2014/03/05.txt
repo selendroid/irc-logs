@@ -20,3 +20,4 @@
 [2014-03-05 10:01:07] sascha_, joining. (#selendroid)
 [2014-03-05 10:09:46] ddary: :snapshot
 [2014-03-05 10:18:49] sascha_, quitting. (Ping timeout: 240 seconds)
+[2014-03-05 10:24:11] ddary: Selendroid Protocol Extension's are now documented here: https://github.com/selendroid/selendroid/wiki/Selendroid-Protocol-Extension
