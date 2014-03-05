@@ -168,3 +168,20 @@
 [2014-03-05 21:53:51] lukeis: well, when you start the selendroid server and read all the output does it list your devices?
 [2014-03-05 21:54:40] friscodelrosario: Aha.
 [2014-03-05 21:54:53] friscodelrosario: Says it can't find an emulator or device at server startup.
+[2014-03-05 21:55:07] lukeis: then what does `adb devices` show?
+[2014-03-05 21:55:25] lukeis: if nothing, you need to do `adb kill-server`
+[2014-03-05 21:55:28] friscodelrosario: shows the emulator
+[2014-03-05 21:57:27] linagee: does selendroid support the get command for anything other than its default browser? (when you do DesiredCapabilities.android())
+[2014-03-05 21:57:48] lukeis: or if you have an app with a webview and have switched to it
+[2014-03-05 21:58:10] linagee: aha. so the default "Internet" application on my browser would work, it just have to be active?
+[2014-03-05 21:58:13] lukeis: remember we are not automating the "default browser"
+[2014-03-05 21:58:18] linagee: or wait
+[2014-03-05 21:58:23] linagee: Webview, not Webkit. :)
+[2014-03-05 21:58:26] lukeis: you can't do it ;)
+[2014-03-05 21:58:37] lukeis: you can't automate the "default browser"
+[2014-03-05 21:58:56] lukeis: you can only run against a "WebView" that's embedded in an app
+[2014-03-05 21:59:12] lukeis: selendroid provides a very simple app that just contains a webview...
+[2014-03-05 21:59:25] linagee: "or if you have an app with a webview and have switched to it"  <-- how do I do that? is there a way to say aut = currently active app?
+[2014-03-05 21:59:27] lukeis: https://github.com/selendroid/selendroid/tree/master/android-driver
+[2014-03-05 21:59:41] lukeis: no, you can't do that ;)
+[2014-03-05 21:59:45] linagee: :)
