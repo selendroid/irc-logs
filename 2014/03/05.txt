@@ -35,3 +35,4 @@
 [2014-03-05 15:38:14] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/fTIgKg
 [2014-03-05 15:38:14] selendroid-git: selendroid/master 4123601 Dominik Dary: Refactoring to support already started emulators:...
 [2014-03-05 15:38:14] selendroid-git, leaving. (#selendroid)
+[2014-03-05 15:45:41] ddary, leaving. (#selendroid)
