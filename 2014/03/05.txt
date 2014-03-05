@@ -85,3 +85,10 @@
 [2014-03-05 19:54:13] lukeis: we don't say it's only java anywhere?
 [2014-03-05 19:54:22] linagee: ah, I thought this was selendroid code
 [2014-03-05 19:54:56] lukeis: selendroid speaks the "JSONWireProtocol" which is just a REST API
+[2014-03-05 19:55:09] lukeis: http + json ;)
+[2014-03-05 19:55:34] lukeis: i use Java and python personally
+[2014-03-05 19:56:02] linagee: if you don't specify the correct capabilities, will it just hand you whatever is closest, or is that a required thing?
+[2014-03-05 19:57:34] linagee: ah, I think I have my answer. :) SEVERE: Error while creating new session: The requested application under test is not configured in selendroid server.
+[2014-03-05 19:58:33] linagee: ah, how would it know the aut unless you told it. :)
+[2014-03-05 19:59:47] linagee: I got it to do something! awesome! :)
+[2014-03-05 19:59:54] friscodelrosario: Got it do what?
