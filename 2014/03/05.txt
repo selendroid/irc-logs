@@ -132,3 +132,4 @@
 [2014-03-05 20:10:14] friscodelrosario: If the Webview app was installed on your device, you ought to be OK for whatever else you want to do.
 [2014-03-05 20:24:18] jlipps, quitting. (Quit: Leaving.)
 [2014-03-05 20:34:50] ddary, quitting. (Quit: ddary)
+[2014-03-05 21:06:54] rentik, quitting. (Remote host closed the connection)
