@@ -160,3 +160,11 @@
 [2014-03-05 21:48:34] lukeis: SelendroidCapabilities
 [2014-03-05 21:49:09] lukeis: unless you're talking about running against just a normal webview app? then the androidTarget part should be optional
 [2014-03-05 21:49:23] lukeis: against *the* webview app
+[2014-03-05 21:51:18] friscodelrosario: Adding "androidTarget" => '18' to the desired capabilities did not help.
+[2014-03-05 21:51:57] lukeis: "androidTarget" => "ANDROID18"
+[2014-03-05 21:52:02] lukeis: need "ANDROID"
+[2014-03-05 21:52:16] lukeis: don't ask me why ;)
+[2014-03-05 21:53:11] friscodelrosario: Nuts, that didn't help, either.
+[2014-03-05 21:53:51] lukeis: well, when you start the selendroid server and read all the output does it list your devices?
+[2014-03-05 21:54:40] friscodelrosario: Aha.
+[2014-03-05 21:54:53] friscodelrosario: Says it can't find an emulator or device at server startup.
