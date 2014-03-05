@@ -92,3 +92,30 @@
 [2014-03-05 19:58:33] linagee: ah, how would it know the aut unless you told it. :)
 [2014-03-05 19:59:47] linagee: I got it to do something! awesome! :)
 [2014-03-05 19:59:54] friscodelrosario: Got it do what?
+[2014-03-05 20:00:01] linagee: just open the test app. :)
+[2014-03-05 20:00:15] lukeis: :)
+[2014-03-05 20:00:35] friscodelrosario: I think you're unblocked for everything then.
+[2014-03-05 20:00:51] linagee: yes its simple. :) http://pastebin.com/zPWySEtZ
+[2014-03-05 20:01:16] linagee: probably don't even need the 127.0.0.1 and 4444, those are probably the default. :)
+[2014-03-05 20:01:24] friscodelrosario: And you're right about specifying the AUT.
+[2014-03-05 20:01:45] linagee: it should give a more meaningful error. :)  "YOU NEED TO SPECIFY THE AUT, HOW WOULD WE KNOW WHAT TO DO?" :)
+[2014-03-05 20:02:00] friscodelrosario: Sometimes I'm tricked by the command line wanting the apk, while the capabilities want package plus version no.
+[2014-03-05 20:02:20] ddary, joining. (#selendroid)
+[2014-03-05 20:02:26] friscodelrosario: Right about leaving localhost:4444 off.
+[2014-03-05 20:02:31] linagee: lol. "Android driver webview app"
+[2014-03-05 20:02:42] linagee: (on http://selendroid.io/setup.html)
+[2014-03-05 20:03:00] ddary: hi all
+[2014-03-05 20:03:01] linagee: I think you should call it "the Native Android Browser which has no name, sometimes confused as 'Internet'"
+[2014-03-05 20:03:08] friscodelrosario: Hi Dominik.
+[2014-03-05 20:03:16] linagee: hello
+[2014-03-05 20:03:33] ddary: made some larger changes today
+[2014-03-05 20:03:45] lukeis: linagee: it's not the same as that even ;) it's truly only the embedded webview in an app
+[2014-03-05 20:03:54] ddary: so from now on it should be easier to use already running devices
+[2014-03-05 20:03:57] lukeis: ddary: hiya… oooh, "large changes"
+[2014-03-05 20:04:01] lukeis: :)
+[2014-03-05 20:04:02] friscodelrosario: Yes!
+[2014-03-05 20:04:07] ddary: lukeis: yes
+[2014-03-05 20:04:23] ddary: hopefully not too much is broken ;-)
+[2014-03-05 20:04:26] lukeis: heh
+[2014-03-05 20:04:56] ddary: i tested different scenarios and they were looking good
+[2014-03-05 20:05:00] rentik, joining. (#selendroid)
