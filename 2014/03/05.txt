@@ -190,3 +190,5 @@
 [2014-03-05 22:08:40] friscodelrosario: Luke, turning off the emulator, then restarting the server got my script running again, but it timeouts during the emulator startup.
 [2014-03-05 22:09:19] linagee: (AndroidDriver)
 [2014-03-05 22:09:49] gimpneek, leaving. (#selendroid)
+[2014-03-05 22:11:01] lukeis: linagee: no… it was simply another android apk with embedded webview (and http server that could understand selenium commands)
+[2014-03-05 22:11:55] linagee: ah
