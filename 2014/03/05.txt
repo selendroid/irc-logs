@@ -119,3 +119,13 @@
 [2014-03-05 20:04:26] lukeis: heh
 [2014-03-05 20:04:56] ddary: i tested different scenarios and they were looking good
 [2014-03-05 20:05:00] rentik, joining. (#selendroid)
+[2014-03-05 20:05:55] linagee: lukeis: ah. so if I want to run the one I'm talking about, you have to find the application name first? (or trigger some sort of intent)
+[2014-03-05 20:06:24] lukeis: no, DesiredCapabilities.android() will map it
+[2014-03-05 20:06:44] lukeis: so,  "browserName": "android"  will auto set the "aut" to the selendroid driver webview app
+[2014-03-05 20:06:53] friscodelrosario: Linagee, when you get the server running, go to localhost:4444/wd/hub/status to see if your app is ready to use.
+[2014-03-05 20:07:31] linagee: friscodelrosario: I get a bunch of JSON-ish output from there just as in the demo
+[2014-03-05 20:08:11] friscodelrosario: Is your app there?
+[2014-03-05 20:08:51] linagee: trying to do mobile web testing
+[2014-03-05 20:09:17] friscodelrosario: Oh. Sorry.
+[2014-03-05 20:09:28] lukeis: linagee: http://selendroid.io/mobileWeb.html  :)
+[2014-03-05 20:09:56] lukeis: it is *just that simple*  :) (made sure it was)
