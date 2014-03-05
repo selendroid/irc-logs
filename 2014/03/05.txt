@@ -46,3 +46,4 @@
 [2014-03-05 19:02:09] simonstewart, joining. (#selendroid)
 [2014-03-05 19:02:59] simonstewart, leaving. (#selendroid)
 [2014-03-05 19:11:57] friscodelrosario, joining. (#selendroid)
+[2014-03-05 19:34:45] linagee, joining. (#selendroid)
