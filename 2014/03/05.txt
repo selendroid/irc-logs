@@ -205,3 +205,6 @@
 [2014-03-05 23:00:58] smccarthy, quitting. (Ping timeout: 265 seconds)
 [2014-03-05 23:03:06] linagee: ack. does someone rebuilt the Android ADT with the current chrome or something? :(
 [2014-03-05 23:03:55] linagee: annoying
+[2014-03-05 23:05:05] linagee: or wait, n/m
+[2014-03-05 23:06:20] friscodelrosario, quitting. (Quit: My iMac has gone to sleep. ZZZzzz…)
+[2014-03-05 23:07:50] friscodelrosario, joining. (#selendroid)
