@@ -1,2 +1,5 @@
 [2014-03-05 01:00:02] jlipps, joining. (#selendroid)
 [2014-03-05 01:03:45] lukeis, quitting. (Quit: Leaving.)
+[2014-03-05 03:21:58] jlipps, quitting. (Quit: Leaving.)
+[2014-03-05 03:23:29] jlipps, joining. (#selendroid)
+[2014-03-05 03:23:43] jlipps1, joining. (#selendroid)
