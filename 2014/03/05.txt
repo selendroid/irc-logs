@@ -196,3 +196,4 @@
 [2014-03-05 22:16:52] lukeis: -installedApp
 [2014-03-05 22:17:28] lukeis: if you're trying to do the webview thing, you can put a dummy -installedApp c.c.c/C
 [2014-03-05 22:17:56] friscodelrosario: Oh yes.
+[2014-03-05 22:28:26] friscodelrosario: On the second run, it can't find the emulator. And if I remember right, Luke answered a question about this on the forum.
