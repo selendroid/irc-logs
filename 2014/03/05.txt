@@ -202,3 +202,6 @@
 [2014-03-05 22:57:48] smccarthy2, joining. (#selendroid)
 [2014-03-05 22:57:53] smccarthy2, quitting. (Read error: Connection reset by peer)
 [2014-03-05 22:58:51] smccarthy2, joining. (#selendroid)
+[2014-03-05 23:00:58] smccarthy, quitting. (Ping timeout: 265 seconds)
+[2014-03-05 23:03:06] linagee: ack. does someone rebuilt the Android ADT with the current chrome or something? :(
+[2014-03-05 23:03:55] linagee: annoying
