@@ -186,3 +186,7 @@
 [2014-03-05 21:59:41] lukeis: no, you can't do that ;)
 [2014-03-05 21:59:45] linagee: :)
 [2014-03-05 22:00:17] lukeis: i have my company's apk, and run against that… we have webviews in it, and thus can do driver.get on them if I so choosed
+[2014-03-05 22:08:34] linagee: was the older android-server.apk able to do WebDriver on the default web browser?
+[2014-03-05 22:08:40] friscodelrosario: Luke, turning off the emulator, then restarting the server got my script running again, but it timeouts during the emulator startup.
+[2014-03-05 22:09:19] linagee: (AndroidDriver)
+[2014-03-05 22:09:49] gimpneek, leaving. (#selendroid)
