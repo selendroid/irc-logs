@@ -133,3 +133,6 @@
 [2014-03-05 20:24:18] jlipps, quitting. (Quit: Leaving.)
 [2014-03-05 20:34:50] ddary, quitting. (Quit: ddary)
 [2014-03-05 21:06:54] rentik, quitting. (Remote host closed the connection)
+[2014-03-05 21:11:50] friscodelrosario: adb devices shows my emulator, emulator yes is in my capabilities, yet Selendroid won't start a session because it can't find a device or emulator.
+[2014-03-05 21:11:50] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-03-05 21:12:29] friscodelrosario, joining. (#selendroid)
