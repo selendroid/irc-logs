@@ -12,3 +12,6 @@
 [2014-03-05 07:24:40] jlipps, joining. (#selendroid)
 [2014-03-05 07:29:54] jlipps, quitting. (Quit: Leaving.)
 [2014-03-05 08:26:14] ddary, joining. (#selendroid)
+[2014-03-05 08:38:43] ddary, quitting. (Quit: ddary)
+[2014-03-05 08:39:02] ddary, joining. (#selendroid)
+[2014-03-05 08:39:19] ddary: :log
