@@ -185,3 +185,4 @@
 [2014-03-05 21:59:27] lukeis: https://github.com/selendroid/selendroid/tree/master/android-driver
 [2014-03-05 21:59:41] lukeis: no, you can't do that ;)
 [2014-03-05 21:59:45] linagee: :)
+[2014-03-05 22:00:17] lukeis: i have my company's apk, and run against that… we have webviews in it, and thus can do driver.get on them if I so choosed
