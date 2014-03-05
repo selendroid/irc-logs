@@ -192,3 +192,7 @@
 [2014-03-05 22:09:49] gimpneek, leaving. (#selendroid)
 [2014-03-05 22:11:01] lukeis: linagee: no… it was simply another android apk with embedded webview (and http server that could understand selenium commands)
 [2014-03-05 22:11:55] linagee: ah
+[2014-03-05 22:16:21] friscodelrosario: How can I run my test on an already-running emulator or device?
+[2014-03-05 22:16:52] lukeis: -installedApp
+[2014-03-05 22:17:28] lukeis: if you're trying to do the webview thing, you can put a dummy -installedApp c.c.c/C
+[2014-03-05 22:17:56] friscodelrosario: Oh yes.
