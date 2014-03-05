@@ -145,3 +145,18 @@
 [2014-03-05 21:44:14] lukeis: "androidTarget" : "ANDROID18"
 [2014-03-05 21:44:27] lukeis: linagee: no
 [2014-03-05 21:44:35] lukeis: use chromedriver directly, not selendroid ;)
+[2014-03-05 21:45:14] lukeis: linagee: https://sites.google.com/a/chromium.org/chromedriver/getting-started/getting-started---android
+[2014-03-05 21:46:35] linagee: lukeis: I still haven't been able to find the package name of the default "Internet" browser. :(
+[2014-03-05 21:46:43] lukeis: I intend to have selendroid use chromedriver inside webview apps running on KitKat (API level 4.4) but that's the future...
+[2014-03-05 21:46:44] linagee: I was able to get a package list dump
+[2014-03-05 21:46:53] lukeis: linagee: you won't be able to do it
+[2014-03-05 21:47:06] linagee: lukeis: its not even a system .apk?
+[2014-03-05 21:47:18] lukeis: i don't believe so
+[2014-03-05 21:47:47] friscodelrosario: That's not listed among the command line parameters in the Setup doc.
+[2014-03-05 21:47:59] friscodelrosario: Shall I add it to the doc?
+[2014-03-05 21:48:05] lukeis: what's not listed?
+[2014-03-05 21:48:19] friscodelrosario: androidTarget
+[2014-03-05 21:48:27] lukeis: it's a DesiredCapability
+[2014-03-05 21:48:34] lukeis: SelendroidCapabilities
+[2014-03-05 21:49:09] lukeis: unless you're talking about running against just a normal webview app? then the androidTarget part should be optional
+[2014-03-05 21:49:23] lukeis: against *the* webview app
