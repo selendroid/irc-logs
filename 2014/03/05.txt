@@ -37,3 +37,4 @@
 [2014-03-05 15:38:14] selendroid-git, leaving. (#selendroid)
 [2014-03-05 15:45:41] ddary, leaving. (#selendroid)
 [2014-03-05 16:22:36] smccarthy, joining. (#selendroid)
+[2014-03-05 16:50:01] ddary, joining. (#selendroid)
