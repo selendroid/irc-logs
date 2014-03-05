@@ -64,3 +64,13 @@
 [2014-03-05 19:44:30] linagee: 404 Not Found
 [2014-03-05 19:44:43] lukeis: oh, you need to use WebDriver, not RC style
 [2014-03-05 19:44:53] linagee: (http://localhost:4444/wd/hub/status does work)
+[2014-03-05 19:45:52] linagee: ack. " Selenium Remote Control which has been officially deprecated"
+[2014-03-05 19:47:05] linagee: I am thinking maybe I need to use this insetad.... http://search.cpan.org/~chowes/Selenium-Remote-Driver-0.17/lib/Selenium/Remote/Driver.pm
+[2014-03-05 19:47:31] linagee: when I look at the demo selendroid code though, the first two lines make me uneasy
+[2014-03-05 19:47:38] linagee: SelendroidCapabilities capa = new SelendroidCapabilities("io.selendroid.testapp:0.8.0");
+[2014-03-05 19:47:41] linagee: WebDriver driver = new SelendroidDriver(capa);
+[2014-03-05 19:47:57] lukeis: there's this:  https://github.com/aivaturi/Selenium-Remote-Driver
+[2014-03-05 19:48:49] linagee: ^ I think thats the same as the CPAN link I had above
+[2014-03-05 19:49:26] linagee: but still confused because - that's not going to have a SelendroidCapabilities....
+[2014-03-05 19:49:38] lukeis: linagee: https://gist.github.com/lukeis/9373910
+[2014-03-05 19:49:48] lukeis: you don't *need* "SelendroidCapabilities"
