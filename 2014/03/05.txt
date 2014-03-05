@@ -138,3 +138,10 @@
 [2014-03-05 21:12:29] friscodelrosario, joining. (#selendroid)
 [2014-03-05 21:36:24] lukeis: same API level as being requested?
 [2014-03-05 21:39:44] friscodelrosario: Let me check. I hope that's the answer.
+[2014-03-05 21:40:15] linagee: should this not work?   "aut": "com.android.chrome:33.0.1750.136",
+[2014-03-05 21:40:55] linagee: (tried it without the version number and also got SEVERE: Error while creating new session: The requested application under test is not configured in selendroid server.)
+[2014-03-05 21:43:10] friscodelrosario: Luke, I don't understand the question. API level 18 is set in AVD, but where else should it be (in order to match)?
+[2014-03-05 21:44:01] lukeis: "androidTarget" capability is typically set
+[2014-03-05 21:44:14] lukeis: "androidTarget" : "ANDROID18"
+[2014-03-05 21:44:27] lukeis: linagee: no
+[2014-03-05 21:44:35] lukeis: use chromedriver directly, not selendroid ;)
