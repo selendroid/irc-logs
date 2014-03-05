@@ -27,3 +27,5 @@
 [2014-03-05 11:23:09] gimpneek, joining. (#selendroid)
 [2014-03-05 11:25:38] sascha_, quitting. (Ping timeout: 240 seconds)
 [2014-03-05 11:38:07] sascha_, joining. (#selendroid)
+[2014-03-05 12:55:27] _sascha, joining. (#selendroid)
+[2014-03-05 12:56:48] sascha_, quitting. (Ping timeout: 265 seconds)
