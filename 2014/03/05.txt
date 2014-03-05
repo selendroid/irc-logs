@@ -129,3 +129,4 @@
 [2014-03-05 20:09:17] friscodelrosario: Oh. Sorry.
 [2014-03-05 20:09:28] lukeis: linagee: http://selendroid.io/mobileWeb.html  :)
 [2014-03-05 20:09:56] lukeis: it is *just that simple*  :) (made sure it was)
+[2014-03-05 20:10:14] friscodelrosario: If the Webview app was installed on your device, you ought to be OK for whatever else you want to do.
