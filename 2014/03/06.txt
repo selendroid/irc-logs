@@ -39,3 +39,13 @@
 [2014-03-06 17:12:04] ddary, joining. (#selendroid)
 [2014-03-06 17:36:53] lukeis, joining. (#selendroid)
 [2014-03-06 17:40:00] lukeis: hiya ddary, you seem to be busy today ;)
+[2014-03-06 18:02:26] smikloso, leaving. (#selendroid)
+[2014-03-06 18:02:35] ddary: hi
+[2014-03-06 18:02:42] ddary: a bit
+[2014-03-06 18:02:48] lukeis: :)
+[2014-03-06 18:02:51] ddary: how are things?
+[2014-03-06 18:02:54] lukeis: well
+[2014-03-06 18:03:24] ddary: sounds good
+[2014-03-06 18:03:59] *lukeis currently working on adding async execute script support (which means adding support for the timeouts endpoints too)'
+[2014-03-06 18:04:32] ddary: ah, is that a big thing?
+[2014-03-06 18:04:56] lukeis: it shouldn't be… but my changes keep growing ;)
