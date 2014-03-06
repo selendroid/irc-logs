@@ -116,3 +116,4 @@
 [2014-03-06 19:21:58] ddary: i know mainly two scenarios:
 [2014-03-06 19:22:21] ddary: - the installed selendroid server has the wrong target package
 [2014-03-06 19:22:46] ddary: - or another selendroid process is still running
+[2014-03-06 19:25:38] ddary, leaving. (#selendroid)
