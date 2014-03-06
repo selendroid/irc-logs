@@ -26,3 +26,5 @@
 [2014-03-06 13:54:17] smikloso, joining. (#selendroid)
 [2014-03-06 14:18:59] ddary, joining. (#selendroid)
 [2014-03-06 15:04:34] ddary, quitting. (Quit: ddary)
+[2014-03-06 16:01:51] _sascha, quitting. (Read error: Operation timed out)
+[2014-03-06 16:04:19] ddary, joining. (#selendroid)
