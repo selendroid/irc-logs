@@ -89,3 +89,17 @@
 [2014-03-06 18:34:32] lukeis: i'll have them try ;)
 [2014-03-06 18:34:50] ddary: the started emulators can be used
 [2014-03-06 18:35:01] lukeis: and it doesn't shut them down?
+[2014-03-06 18:35:02] lukeis: :)
+[2014-03-06 18:35:13] ddary: but also the ones that got started after the server got started
+[2014-03-06 18:35:16] ddary: no
+[2014-03-06 18:35:31] ddary: if selendroid is starting an emulator
+[2014-03-06 18:35:38] ddary: it shuts them down
+[2014-03-06 18:35:46] lukeis: ok :)
+[2014-03-06 18:35:52] ddary: if it was started externally: not
+[2014-03-06 18:36:32] ddary: only the app get closed
+[2014-03-06 18:36:55] lukeis: yep, that's the expected behavior for me :)
+[2014-03-06 18:37:47] ddary: good
+[2014-03-06 18:38:25] lukeis: i'll 'fix' things when my developers start complaining… otherwise I'm not looking into it ;)  3 other things I'm working on right now! :-D
+[2014-03-06 18:39:20] ddary: ok
+[2014-03-06 18:39:34] ddary: what are you working on?
+[2014-03-06 18:39:59] ddary: - the async script
