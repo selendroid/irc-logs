@@ -34,3 +34,5 @@
 [2014-03-06 16:59:11] joel, joining. (#selendroid)
 [2014-03-06 16:59:18] joel: hi guys
 [2014-03-06 16:59:33] joel, changing nick to Guest67982.
+[2014-03-06 17:00:24] Guest67982: I'm stuck with an instrumentation failed error that I have no idea where it came from
+[2014-03-06 17:00:36] Guest67982: yesterday everything was working fine
