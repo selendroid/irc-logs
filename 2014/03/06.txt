@@ -13,3 +13,7 @@
 [2014-03-06 10:18:50] selendroid-git: selendroid/master 9cebd8e Dominik Dary: Installed apps can now be verified as well via package name.
 [2014-03-06 10:18:50] selendroid-git: selendroid/master 6a3c974 Dominik Dary: Fixing XML source generation that failed when the type of an element contained a $ character.
 [2014-03-06 10:18:51] selendroid-git, leaving. (#selendroid)
+[2014-03-06 10:24:31] selendroid-git, joining. (#selendroid)
+[2014-03-06 10:24:31] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/MlWhWw
+[2014-03-06 10:24:31] selendroid-git: selendroid/master 9a684a9 Dominik Dary: adding fix for #309 into changelog.
+[2014-03-06 10:24:31] selendroid-git, leaving. (#selendroid)
