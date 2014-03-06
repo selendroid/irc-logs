@@ -111,3 +111,4 @@
 [2014-03-06 18:42:31] lukeis: (i have a jenkins job to do it and i'm having the test code remotely trigger a job to get the appropriate apk)
 [2014-03-06 18:42:36] lukeis: this is my current 'fun' ;)
 [2014-03-06 18:46:45] ddary: :)
+[2014-03-06 19:18:01] Guest67982: hey guys... is there any way to trace an INSTRUMENTATION_FAILED error?
