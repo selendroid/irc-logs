@@ -7,3 +7,9 @@
 [2014-03-06 07:40:49] Chirag, quitting. (Ping timeout: 240 seconds)
 [2014-03-06 07:51:45] ddary, joining. (#selendroid)
 [2014-03-06 07:56:26] Chirag, joining. (#selendroid)
+[2014-03-06 10:18:50] selendroid-git, joining. (#selendroid)
+[2014-03-06 10:18:50] selendroid-git: [selendroid] DominikDary pushed 3 new commits to master: http://git.io/Lyrt0w
+[2014-03-06 10:18:50] selendroid-git: selendroid/master 0a1fc28 Dominik Dary: Adding missing interface for finding elements by XPath.
+[2014-03-06 10:18:50] selendroid-git: selendroid/master 9cebd8e Dominik Dary: Installed apps can now be verified as well via package name.
+[2014-03-06 10:18:50] selendroid-git: selendroid/master 6a3c974 Dominik Dary: Fixing XML source generation that failed when the type of an element contained a $ character.
+[2014-03-06 10:18:51] selendroid-git, leaving. (#selendroid)
