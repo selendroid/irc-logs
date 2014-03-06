@@ -37,3 +37,5 @@
 [2014-03-06 17:00:24] Guest67982: I'm stuck with an instrumentation failed error that I have no idea where it came from
 [2014-03-06 17:00:36] Guest67982: yesterday everything was working fine
 [2014-03-06 17:12:04] ddary, joining. (#selendroid)
+[2014-03-06 17:36:53] lukeis, joining. (#selendroid)
+[2014-03-06 17:40:00] lukeis: hiya ddary, you seem to be busy today ;)
