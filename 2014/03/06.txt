@@ -49,3 +49,22 @@
 [2014-03-06 18:03:59] *lukeis currently working on adding async execute script support (which means adding support for the timeouts endpoints too)'
 [2014-03-06 18:04:32] ddary: ah, is that a big thing?
 [2014-03-06 18:04:56] lukeis: it shouldn't be… but my changes keep growing ;)
+[2014-03-06 18:05:02] ddary: just asking because i have not looked into it
+[2014-03-06 18:05:08] ddary: i know
+[2014-03-06 18:05:11] ddary: the problem
+[2014-03-06 18:05:20] lukeis: there's an Atom for it, but it needs to be called in a custom way for us
+[2014-03-06 18:05:44] ddary: sounds like you have fun ;-)
+[2014-03-06 18:06:22] selendroid-git, joining. (#selendroid)
+[2014-03-06 18:06:22] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/sObO0w
+[2014-03-06 18:06:22] selendroid-git: selendroid/master c64e160 Luke Inman-Semerau: allow nativeEvents to be set on the desired capabilities, like Firefox does.
+[2014-03-06 18:06:22] selendroid-git, leaving. (#selendroid)
+[2014-03-06 18:06:29] ddary: currently i don't know how to exactly fix some of the emulator issues
+[2014-03-06 18:06:31] lukeis: have a review of that ^ :)
+[2014-03-06 18:07:24] ddary: good you added it
+[2014-03-06 18:07:31] ddary: i forgot it
+[2014-03-06 18:08:06] lukeis: i see you modeled the native events after ios-driver
+[2014-03-06 18:08:09] ddary: simon said he has a diff for moving to betty
+[2014-03-06 18:08:13] ddary: yep
+[2014-03-06 18:08:25] ddary: i had a chat with francois ;-)
+[2014-03-06 18:08:46] lukeis: this should be brought up in a spec discussion
+[2014-03-06 18:09:54] lukeis: netty*  (not betty?) :)
