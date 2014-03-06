@@ -135,3 +135,6 @@
 [2014-03-06 19:43:59] Guest67982: thanks, guys!
 [2014-03-06 19:45:58] pubuno, quitting. (Ping timeout: 240 seconds)
 [2014-03-06 20:23:19] Guest67982, quitting. (Quit: Leaving)
+[2014-03-06 21:02:03] AutomatedTester_, joining. (#selendroid)
+[2014-03-06 21:03:28] AutomatedTester, quitting. (Ping timeout: 265 seconds)
+[2014-03-06 21:03:29] AutomatedTester_, changing nick to AutomatedTester.
