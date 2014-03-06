@@ -110,3 +110,4 @@
 [2014-03-06 18:42:06] lukeis: our app doesn't allow you to specify an insecure server to connect to… so I have to rebuild it for every instance url in our testing environment
 [2014-03-06 18:42:31] lukeis: (i have a jenkins job to do it and i'm having the test code remotely trigger a job to get the appropriate apk)
 [2014-03-06 18:42:36] lukeis: this is my current 'fun' ;)
+[2014-03-06 18:46:45] ddary: :)
