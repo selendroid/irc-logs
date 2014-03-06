@@ -20,3 +20,4 @@
 [2014-03-06 11:09:24] Chirag, quitting. (Quit: ChatZilla 0.9.90.1 [Firefox 27.0.1/20140212131424])
 [2014-03-06 11:17:58] ddary, quitting. (Ping timeout: 240 seconds)
 [2014-03-06 11:26:27] Pepe, joining. (#selendroid)
+[2014-03-06 12:52:49] Pepe, leaving. (#selendroid)
