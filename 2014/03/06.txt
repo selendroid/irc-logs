@@ -69,3 +69,6 @@
 [2014-03-06 18:08:46] lukeis: this should be brought up in a spec discussion
 [2014-03-06 18:09:54] lukeis: netty*  (not betty?) :)
 [2014-03-06 18:10:27] ddary: ;-)
+[2014-03-06 18:25:04] lukeis: ddary: so, you broke -installedApp ?
+[2014-03-06 18:25:12] lukeis: err, removed it? or something
+[2014-03-06 18:25:17] lukeis: i have to look into it...
