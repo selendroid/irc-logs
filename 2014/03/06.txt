@@ -72,3 +72,20 @@
 [2014-03-06 18:25:04] lukeis: ddary: so, you broke -installedApp ?
 [2014-03-06 18:25:12] lukeis: err, removed it? or something
 [2014-03-06 18:25:17] lukeis: i have to look into it...
+[2014-03-06 18:30:44] ddary: removed it completely
+[2014-03-06 18:30:50] ddary: :)
+[2014-03-06 18:30:54] lukeis: ddary: ok, you removed it… (I could have used a bit of fair warning there :) ) and likely others who depend on it will not realize either
+[2014-03-06 18:31:03] lukeis: also… it doesn't 'work' ;)
+[2014-03-06 18:31:34] lukeis: co-worker got:   SEVERE: Ignoring app because it was not found: /home/d.chang/dev/android/com.salesforce.chatter/Chatter
+[2014-03-06 18:31:48] lukeis: oh, nm
+[2014-03-06 18:32:30] lukeis: he didn't pass in the apk he passed in what he did to -installedApp ;)
+[2014-03-06 18:33:06] ddary: yeah
+[2014-03-06 18:33:16] ddary: i know that could have been smoother
+[2014-03-06 18:33:20] ddary: sorry
+[2014-03-06 18:33:21] lukeis: ok… now i have to retrain the android team :-/
+[2014-03-06 18:34:01] ddary: the thing is, it turned out to be better to have it clean
+[2014-03-06 18:34:18] ddary: so, if he passes the apt, everything should be the same
+[2014-03-06 18:34:26] lukeis: sounds good
+[2014-03-06 18:34:32] lukeis: i'll have them try ;)
+[2014-03-06 18:34:50] ddary: the started emulators can be used
+[2014-03-06 18:35:01] lukeis: and it doesn't shut them down?
