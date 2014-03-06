@@ -112,3 +112,7 @@
 [2014-03-06 18:42:36] lukeis: this is my current 'fun' ;)
 [2014-03-06 18:46:45] ddary: :)
 [2014-03-06 19:18:01] Guest67982: hey guys... is there any way to trace an INSTRUMENTATION_FAILED error?
+[2014-03-06 19:20:56] lukeis: adb logcat should have something in it
+[2014-03-06 19:21:58] ddary: i know mainly two scenarios:
+[2014-03-06 19:22:21] ddary: - the installed selendroid server has the wrong target package
+[2014-03-06 19:22:46] ddary: - or another selendroid process is still running
