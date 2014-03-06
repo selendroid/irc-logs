@@ -68,3 +68,4 @@
 [2014-03-06 18:08:25] ddary: i had a chat with francois ;-)
 [2014-03-06 18:08:46] lukeis: this should be brought up in a spec discussion
 [2014-03-06 18:09:54] lukeis: netty*  (not betty?) :)
+[2014-03-06 18:10:27] ddary: ;-)
