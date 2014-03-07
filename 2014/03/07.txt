@@ -38,3 +38,4 @@
 [2014-03-07 17:10:37] lukeis, joining. (#selendroid)
 [2014-03-07 17:17:38] _sascha, quitting. (Ping timeout: 240 seconds)
 [2014-03-07 17:31:38] simonstewart, joining. (#selendroid)
+[2014-03-07 17:49:24] _sascha, joining. (#selendroid)
