@@ -49,3 +49,5 @@
 [2014-03-07 18:01:18] ddary: the solves the issue in the inspector of half displayed screenshots
 [2014-03-07 18:03:19] simonstewart: Interesting.
 [2014-03-07 18:03:21] simonstewart: I have no idea how
+[2014-03-07 18:06:03] ddary: the web bit version we use and latest one has issues, so looking forward to your diff ;-)
+[2014-03-07 18:08:25] simonstewart: I'm sure we'll introduce new nastiness :)
