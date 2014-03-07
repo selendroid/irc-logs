@@ -58,3 +58,5 @@
 [2014-03-07 18:50:48] ddary, quitting. (Quit: ddary)
 [2014-03-07 19:01:00] friscodelrosario, joining. (#selendroid)
 [2014-03-07 19:04:00] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2014-03-07 19:05:01] smccarthy, joining. (#selendroid)
+[2014-03-07 19:07:36] gimpneek, quitting. (Remote host closed the connection)
