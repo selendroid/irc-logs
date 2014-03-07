@@ -18,3 +18,4 @@
 [2014-03-07 10:03:20] selendroid-git: selendroid/master a2dd1fe Dominik Dary: Merge branch 'master' of https://github.com/selendroid/selendroid
 [2014-03-07 10:03:20] selendroid-git, leaving. (#selendroid)
 [2014-03-07 10:09:11] ddary, quitting. (Ping timeout: 264 seconds)
+[2014-03-07 11:25:56] ddary, joining. (#selendroid)
