@@ -9,3 +9,4 @@
 [2014-03-07 04:24:39] pomelnikov, quitting. (*.net *.split)
 [2014-03-07 07:18:15] ddary, joining. (#selendroid)
 [2014-03-07 07:21:13] ddary: :log
+[2014-03-07 07:35:54] ddary, quitting. (Quit: ddary)
