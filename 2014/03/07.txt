@@ -7,3 +7,4 @@
 [2014-03-07 04:06:13] selendroidbot, quitting. (Ping timeout: 244 seconds)
 [2014-03-07 04:12:15] pomelnikov, joining. (#selendroid)
 [2014-03-07 04:24:39] pomelnikov, quitting. (*.net *.split)
+[2014-03-07 07:18:15] ddary, joining. (#selendroid)
