@@ -35,3 +35,4 @@
 [2014-03-07 16:58:22] selendroid-git: selendroid/master 71c5e50 Dominik Dary: update changelog
 [2014-03-07 16:58:22] selendroid-git, leaving. (#selendroid)
 [2014-03-07 17:02:52] ddary, quitting. (Quit: ddary)
+[2014-03-07 17:10:37] lukeis, joining. (#selendroid)
