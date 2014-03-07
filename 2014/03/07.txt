@@ -28,3 +28,4 @@
 [2014-03-07 16:24:48] selendroid-git: selendroid/master d433130 Dominik Dary: adding selendroid logo to render selendroid nodes with the rigt logo.
 [2014-03-07 16:24:48] selendroid-git: selendroid/master 3184a4a Dominik Dary: Fixing inspector issue of half displayed images/source files. This is more like a hack, but because we have a diff in the pipeline to switch to the netty server it should be fine. The webbit version we use has a bug https://github.com/webbit/webbit/issues/104 with regards to the gzip compression. That is the reason why this is swiched off in the response.
 [2014-03-07 16:24:48] selendroid-git, leaving. (#selendroid)
+[2014-03-07 16:25:20] smccarthy, joining. (#selendroid)
