@@ -29,3 +29,8 @@
 [2014-03-07 16:24:48] selendroid-git: selendroid/master 3184a4a Dominik Dary: Fixing inspector issue of half displayed images/source files. This is more like a hack, but because we have a diff in the pipeline to switch to the netty server it should be fine. The webbit version we use has a bug https://github.com/webbit/webbit/issues/104 with regards to the gzip compression. That is the reason why this is swiched off in the response.
 [2014-03-07 16:24:48] selendroid-git, leaving. (#selendroid)
 [2014-03-07 16:25:20] smccarthy, joining. (#selendroid)
+[2014-03-07 16:58:22] selendroid-git, joining. (#selendroid)
+[2014-03-07 16:58:22] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/zraCUg
+[2014-03-07 16:58:22] selendroid-git: selendroid/master cf22457 Dominik Dary: Same same but different: prevent NPE.
+[2014-03-07 16:58:22] selendroid-git: selendroid/master 71c5e50 Dominik Dary: update changelog
+[2014-03-07 16:58:22] selendroid-git, leaving. (#selendroid)
