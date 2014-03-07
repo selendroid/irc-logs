@@ -43,3 +43,9 @@
 [2014-03-07 17:57:17] ddary: hello all
 [2014-03-07 17:57:59] _sascha, quitting. (Ping timeout: 240 seconds)
 [2014-03-07 17:58:04] simonstewart: Greetings ddary
+[2014-03-07 18:00:17] ddary: simonstewart i pushed today a jacky hack to fix one issue i had with webbit: https://github.com/selendroid/selendroid/commit/3184a4acbbe16ecf006d6c34f68fadd6be3d3523
+[2014-03-07 18:00:39] ddary: it is this line: webbitResponse.header("Content-Encoding", "none");
+[2014-03-07 18:00:50] simonstewart: Right. Saw that. Wat?
+[2014-03-07 18:01:18] ddary: the solves the issue in the inspector of half displayed screenshots
+[2014-03-07 18:03:19] simonstewart: Interesting.
+[2014-03-07 18:03:21] simonstewart: I have no idea how
