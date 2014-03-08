@@ -6,3 +6,4 @@
 [2014-03-08 05:29:28] friscodelrosario, joining. (#selendroid)
 [2014-03-08 07:29:25] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-03-08 13:49:11] nocavity, joining. (#selendroid)
+[2014-03-08 14:30:07] nocavity, quitting. (Remote host closed the connection)
