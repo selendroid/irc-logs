@@ -19,3 +19,7 @@
 [2014-03-10 12:58:13] sascha_: ?
 [2014-03-10 12:58:38] ddary: we have not yet implemented that
 [2014-03-10 12:58:58] ddary: do you have an example about you can disable/enable it via adb?
+[2014-03-10 13:00:15] sascha_: I wanted to try this one here: http://stackoverflow.com/questions/10033757/how-to-turn-off-wifi-via-adb
+[2014-03-10 13:01:09] ddary: what we can do is to let you execute this shell scripts
+[2014-03-10 13:01:43] ddary: via https://github.com/selendroid/selendroid/blob/master/selendroid-client/src/main/java/io/selendroid/adb/AdbConnection.java
+[2014-03-10 13:04:52] sascha_: ok, I see that the SelendroidDriver implements the AdbSupport in the master branch but not on the 0.8.0 tag :(
