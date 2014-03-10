@@ -27,3 +27,8 @@
 [2014-03-10 13:12:07] ddary: that is a new feature for the next release
 [2014-03-10 13:13:38] ddary: but the good thing is, i can add you the shell execution support
 [2014-03-10 13:14:06] ddary: then you have everything when next version is there
+[2014-03-10 13:43:01] sascha_: where is the snapshot repository located? I tried this url: http://dominikdary.github.io/selendroid/ but I get an 404
+[2014-03-10 13:43:41] ddary: out github location is http://github.com/selendroid/selendroid
+[2014-03-10 13:43:53] ddary: the latest snapshots you fine here
+[2014-03-10 13:43:56] ddary: :snapshot
+[2014-03-10 13:44:50] sascha_: I wanted to use 0.9.0-SNAPSHOT directly in maven
