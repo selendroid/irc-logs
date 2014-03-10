@@ -42,3 +42,4 @@
 [2014-03-10 14:12:49] ddary: welcome
 [2014-03-10 14:13:04] ddary: let me know if it works like you expected it
 [2014-03-10 14:15:52] sascha_: ok
+[2014-03-10 14:30:00] sascha_, quitting. (Ping timeout: 265 seconds)
