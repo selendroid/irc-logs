@@ -85,3 +85,5 @@
 [2014-03-10 22:11:36] smccarthy2, joining. (#selendroid)
 [2014-03-10 22:15:14] smccarthy, quitting. (Ping timeout: 244 seconds)
 [2014-03-10 22:48:15] jlipps, joining. (#selendroid)
+[2014-03-10 22:53:41] smccarthy2, quitting. (Remote host closed the connection)
+[2014-03-10 22:54:17] smccarthy, joining. (#selendroid)
