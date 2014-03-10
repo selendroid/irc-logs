@@ -59,3 +59,9 @@
 [2014-03-10 16:28:00] smccarthy, joining. (#selendroid)
 [2014-03-10 16:30:17] sascha_: but this feature is still usefull if you have to set the time of the emulator for example
 [2014-03-10 16:59:50] lukeis, joining. (#selendroid)
+[2014-03-10 17:07:09] lukeis: hiya ddary, this looks like it's going to be a very productive month for selendroid for you ;) it's like you'll be working on the project full time :-D
+[2014-03-10 17:07:23] ddary: hi lukeis
+[2014-03-10 17:07:36] ddary: hopefully it is productive
+[2014-03-10 17:07:56] ddary: :)
+[2014-03-10 17:08:19] lukeis: i just saw your discussion with sascha_ about offline… that's what this is supposed to be for:  https://code.google.com/p/selenium/source/browse/spec-draft.md?repo=mobile#104
+[2014-03-10 17:08:40] lukeis: (and I have a story at work to work on it next week)
