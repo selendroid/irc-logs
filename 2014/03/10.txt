@@ -49,3 +49,4 @@
 [2014-03-10 15:15:14] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/LVLglA
 [2014-03-10 15:15:14] selendroid-git: selendroid/master 4baa5bf Dominik Dary: fixing recorded java webdriver commands.
 [2014-03-10 15:15:14] selendroid-git, leaving. (#selendroid)
+[2014-03-10 15:49:45] linagee, quitting. (Ping timeout: 265 seconds)
