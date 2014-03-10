@@ -52,3 +52,4 @@
 [2014-03-10 15:49:45] linagee, quitting. (Ping timeout: 265 seconds)
 [2014-03-10 15:50:18] linagee, joining. (#selendroid)
 [2014-03-10 16:01:41] gimpneek, joining. (#selendroid)
+[2014-03-10 16:24:04] sascha_, joining. (#selendroid)
