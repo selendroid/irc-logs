@@ -33,3 +33,11 @@
 [2014-03-10 13:43:56] ddary: :snapshot
 [2014-03-10 13:44:50] sascha_: I wanted to use 0.9.0-SNAPSHOT directly in maven
 [2014-03-10 13:45:46] ddary: then you have ti build it locally
+[2014-03-10 14:11:11] selendroid-git, joining. (#selendroid)
+[2014-03-10 14:11:11] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/n7aKYg
+[2014-03-10 14:11:11] selendroid-git: selendroid/master 6967265 Dominik Dary: added support for executing shell commands via adb on the device under test.
+[2014-03-10 14:11:11] selendroid-git, leaving. (#selendroid)
+[2014-03-10 14:11:50] ddary: sasha_: for you ^^
+[2014-03-10 14:12:39] sascha_: thanks ;)
+[2014-03-10 14:12:49] ddary: welcome
+[2014-03-10 14:13:04] ddary: let me know if it works like you expected it
