@@ -53,3 +53,7 @@
 [2014-03-10 15:50:18] linagee, joining. (#selendroid)
 [2014-03-10 16:01:41] gimpneek, joining. (#selendroid)
 [2014-03-10 16:24:04] sascha_, joining. (#selendroid)
+[2014-03-10 16:26:18] sascha_: ddary, your shell execution feature works, unfortunately if i run 'adb shell "svc data disable"' the selendroid test app is no longer reachable by the SelendroidDriver
+[2014-03-10 16:27:13] ddary: :)
+[2014-03-10 16:27:44] ddary: good that it works, but not the effect we expectect
+[2014-03-10 16:28:00] smccarthy, joining. (#selendroid)
