@@ -58,3 +58,4 @@
 [2014-03-10 16:27:44] ddary: good that it works, but not the effect we expectect
 [2014-03-10 16:28:00] smccarthy, joining. (#selendroid)
 [2014-03-10 16:30:17] sascha_: but this feature is still usefull if you have to set the time of the emulator for example
+[2014-03-10 16:59:50] lukeis, joining. (#selendroid)
