@@ -7,3 +7,4 @@
 [2014-03-10 05:37:21] linagee, joining. (#selendroid)
 [2014-03-10 07:07:38] sharpcat, quitting. (Ping timeout: 240 seconds)
 [2014-03-10 07:29:51] ddary, joining. (#selendroid)
+[2014-03-10 07:30:05] ddary: :log
