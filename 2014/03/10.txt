@@ -73,3 +73,7 @@
 [2014-03-10 17:12:53] lukeis: i assumed we might be just able to get away with it since we're using the USB connection for a real device
 [2014-03-10 17:14:17] lukeis: also, i might try a different approach than adb commands… a co-worker of mine wrote this a long time ago (he's not sure it works anymore for later versions) but it may be an option: http://dustinbreese.blogspot.com/2009/04/andoid-controlling-airplane-mode.html
 [2014-03-10 17:14:58] lukeis: would mean the app needs an extra setting, but I'm ok with that ;)
+[2014-03-10 17:15:01] lukeis: brb
+[2014-03-10 17:15:55] ddary: extra permissions, i don't know
+[2014-03-10 17:16:30] ddary: maybe this is somehting for the "add extension" at runtome?
+[2014-03-10 17:16:37] ddary: runtime
