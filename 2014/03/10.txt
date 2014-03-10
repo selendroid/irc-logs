@@ -82,3 +82,4 @@
 [2014-03-10 19:53:12] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-03-10 20:02:16] friscodelrosario, joining. (#selendroid)
 [2014-03-10 22:02:17] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-03-10 22:11:36] smccarthy2, joining. (#selendroid)
