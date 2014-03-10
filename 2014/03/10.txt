@@ -3,3 +3,5 @@
 [2014-03-10 02:08:18] selendroid-git: selendroid/master 761e9ba Luke Inman-Semerau: Async Execute Script + timeout handlers...
 [2014-03-10 02:08:18] selendroid-git, leaving. (#selendroid)
 [2014-03-10 05:19:55] smccarthy, quitting. (Remote host closed the connection)
+[2014-03-10 05:37:05] linagee, quitting. (Read error: Operation timed out)
+[2014-03-10 05:37:21] linagee, joining. (#selendroid)
