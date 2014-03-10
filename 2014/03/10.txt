@@ -44,3 +44,4 @@
 [2014-03-10 14:15:52] sascha_: ok
 [2014-03-10 14:30:00] sascha_, quitting. (Ping timeout: 265 seconds)
 [2014-03-10 14:42:40] sascha_, joining. (#selendroid)
+[2014-03-10 15:07:56] sascha_, quitting. (Remote host closed the connection)
