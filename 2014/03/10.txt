@@ -14,3 +14,8 @@
 [2014-03-10 10:04:19] ddary, joining. (#selendroid)
 [2014-03-10 10:12:59] ddary, quitting. (Ping timeout: 240 seconds)
 [2014-03-10 10:40:40] ddary, joining. (#selendroid)
+[2014-03-10 12:57:29] sascha_, joining. (#selendroid)
+[2014-03-10 12:58:11] sascha_: Hi ddary, how to execute an adb command to enable/disable the network connection for example
+[2014-03-10 12:58:13] sascha_: ?
+[2014-03-10 12:58:38] ddary: we have not yet implemented that
+[2014-03-10 12:58:58] ddary: do you have an example about you can disable/enable it via adb?
