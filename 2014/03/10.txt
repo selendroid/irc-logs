@@ -23,3 +23,7 @@
 [2014-03-10 13:01:09] ddary: what we can do is to let you execute this shell scripts
 [2014-03-10 13:01:43] ddary: via https://github.com/selendroid/selendroid/blob/master/selendroid-client/src/main/java/io/selendroid/adb/AdbConnection.java
 [2014-03-10 13:04:52] sascha_: ok, I see that the SelendroidDriver implements the AdbSupport in the master branch but not on the 0.8.0 tag :(
+[2014-03-10 13:11:53] ddary: exactly
+[2014-03-10 13:12:07] ddary: that is a new feature for the next release
+[2014-03-10 13:13:38] ddary: but the good thing is, i can add you the shell execution support
+[2014-03-10 13:14:06] ddary: then you have everything when next version is there
