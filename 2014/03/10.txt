@@ -9,3 +9,4 @@
 [2014-03-10 07:29:51] ddary, joining. (#selendroid)
 [2014-03-10 07:30:05] ddary: :log
 [2014-03-10 07:41:51] sascha_, joining. (#selendroid)
+[2014-03-10 08:05:08] sascha_, quitting. (Remote host closed the connection)
