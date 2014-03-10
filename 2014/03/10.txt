@@ -2,3 +2,4 @@
 [2014-03-10 02:08:18] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/9aFahA
 [2014-03-10 02:08:18] selendroid-git: selendroid/master 761e9ba Luke Inman-Semerau: Async Execute Script + timeout handlers...
 [2014-03-10 02:08:18] selendroid-git, leaving. (#selendroid)
+[2014-03-10 05:19:55] smccarthy, quitting. (Remote host closed the connection)
