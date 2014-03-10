@@ -32,3 +32,4 @@
 [2014-03-10 13:43:53] ddary: the latest snapshots you fine here
 [2014-03-10 13:43:56] ddary: :snapshot
 [2014-03-10 13:44:50] sascha_: I wanted to use 0.9.0-SNAPSHOT directly in maven
+[2014-03-10 13:45:46] ddary: then you have ti build it locally
