@@ -65,3 +65,11 @@
 [2014-03-10 17:07:56] ddary: :)
 [2014-03-10 17:08:19] lukeis: i just saw your discussion with sascha_ about offline… that's what this is supposed to be for:  https://code.google.com/p/selenium/source/browse/spec-draft.md?repo=mobile#104
 [2014-03-10 17:08:40] lukeis: (and I have a story at work to work on it next week)
+[2014-03-10 17:10:16] ddary: awesome
+[2014-03-10 17:10:44] ddary: the good thing with execute shell script is, that now a lot of thing can be done by the users
+[2014-03-10 17:11:11] ddary: the interesting thing about the flight mode is actually how to make sure we can connect to the selendroid server :D
+[2014-03-10 17:11:22] ddary: any idea?
+[2014-03-10 17:11:42] lukeis: not certain :)
+[2014-03-10 17:12:53] lukeis: i assumed we might be just able to get away with it since we're using the USB connection for a real device
+[2014-03-10 17:14:17] lukeis: also, i might try a different approach than adb commands… a co-worker of mine wrote this a long time ago (he's not sure it works anymore for later versions) but it may be an option: http://dustinbreese.blogspot.com/2009/04/andoid-controlling-airplane-mode.html
+[2014-03-10 17:14:58] lukeis: would mean the app needs an extra setting, but I'm ok with that ;)
