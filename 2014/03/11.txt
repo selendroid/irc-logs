@@ -127,3 +127,4 @@
 [2014-03-11 19:49:05] lukeis, joining. (#selendroid)
 [2014-03-11 20:05:55] drones, joining. (#selendroid)
 [2014-03-11 20:09:20] drones, quitting. (Remote host closed the connection)
+[2014-03-11 20:14:57] gimpneek, leaving. (#selendroid)
