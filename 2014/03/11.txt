@@ -139,3 +139,5 @@
 [2014-03-11 22:19:07] lukeis, joining. (#selendroid)
 [2014-03-11 22:27:06] scalar, joining. (#selendroid)
 [2014-03-11 22:30:45] scalar, quitting. (Remote host closed the connection)
+[2014-03-11 23:45:52] smccarthy2, joining. (#selendroid)
+[2014-03-11 23:49:08] smccarthy, quitting. (Ping timeout: 265 seconds)
