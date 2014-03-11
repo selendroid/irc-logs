@@ -5,3 +5,5 @@
 [2014-03-11 02:04:40] jlipps, joining. (#selendroid)
 [2014-03-11 02:24:00] gimpneek, quitting. (Remote host closed the connection)
 [2014-03-11 02:54:55] jlipps, quitting. (Quit: Leaving.)
+[2014-03-11 04:41:45] lukeis, joining. (#selendroid)
+[2014-03-11 04:42:10] lukeis, quitting. (Client Quit)
