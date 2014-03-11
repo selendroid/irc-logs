@@ -77,3 +77,23 @@
 [2014-03-11 16:44:40] lukeis: please do so :)
 [2014-03-11 16:44:53] ddary: tests is another thibng
 [2014-03-11 16:44:54] lukeis: i was just mentioning the issue (and that I added failing tests)
+[2014-03-11 16:45:09] ddary: :)
+[2014-03-11 16:45:35] ddary: wanted to update the atoms and the selenium version as well
+[2014-03-11 16:46:15] ddary: looked also at context stuff: http://code.google.com/p/selenium/source/browse/spec-draft.md?repo=mobile#135
+[2014-03-11 16:46:48] ddary: seems like we just need to register the handlers we have to the additional endpoints
+[2014-03-11 16:47:17] lukeis: yes
+[2014-03-11 16:47:36] lukeis: and that we'll need to add them to the selenium client bindings
+[2014-03-11 16:48:25] ddary: to the official ones, right?
+[2014-03-11 16:48:31] lukeis: yes
+[2014-03-11 16:48:45] ddary: does not make sense to add it to ours
+[2014-03-11 16:48:54] lukeis: there is no driver.switchTo().context()
+[2014-03-11 16:49:01] ddary: exactly
+[2014-03-11 16:49:12] ddary: maybe i do a pull request
+[2014-03-11 16:49:16] ddary: :)
+[2014-03-11 16:49:22] lukeis: you have commit rights? :)
+[2014-03-11 16:49:27] ddary: yes
+[2014-03-11 16:49:33] lukeis: then push it!
+[2014-03-11 16:49:37] lukeis: (if you change it)
+[2014-03-11 16:49:37] ddary: but doing something the first time...
+[2014-03-11 16:49:45] lukeis: meh
+[2014-03-11 16:49:52] lukeis: we know how to revert changes ;)
