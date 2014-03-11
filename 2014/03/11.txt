@@ -35,3 +35,18 @@
 [2014-03-11 15:38:11] ddary: driver.get("and-activity://io.selendroid.testapp.HomeScreenActivity")
 [2014-03-11 16:26:27] lukeis, joining. (#selendroid)
 [2014-03-11 16:29:46] smccarthy, joining. (#selendroid)
+[2014-03-11 16:31:05] selendroid-git, joining. (#selendroid)
+[2014-03-11 16:31:05] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/y-ZcwA
+[2014-03-11 16:31:05] selendroid-git: selendroid/master 8ec4b43 Dominik Dary: Introducing 'platformVersion' into the SelendroidCpabilities....
+[2014-03-11 16:31:05] selendroid-git, leaving. (#selendroid)
+[2014-03-11 16:31:29] ddary: hi lukeis
+[2014-03-11 16:31:35] lukeis: hi
+[2014-03-11 16:31:43] lukeis: platformVersion makes much more sense :)
+[2014-03-11 16:32:03] ddary: :)
+[2014-03-11 16:32:31] ddary: so i tested the different variants and it seems like i dodn't break something
+[2014-03-11 16:32:45] lukeis: doesn't look like you made it reverse compatible though
+[2014-03-11 16:33:00] lukeis: can you pass in "ANDROIDTARGET" ?
+[2014-03-11 16:33:27] ddary: yes, if still androidTarget is used
+[2014-03-11 16:33:36] ddary: it is still supported
+[2014-03-11 16:33:54] ddary: even if you enter ANDROID17 or just 17
+[2014-03-11 16:34:02] ddary: all cases should work
