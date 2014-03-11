@@ -98,3 +98,6 @@
 [2014-03-11 16:49:45] lukeis: meh
 [2014-03-11 16:49:52] lukeis: we know how to revert changes ;)
 [2014-03-11 16:52:27] ddary: :)
+[2014-03-11 17:08:35] ddary: lukeis: is there a trick how i can add at runtime to the client driver a new command info to the commandExecutor?
+[2014-03-11 17:08:58] lukeis: i know how in python
+[2014-03-11 17:09:29] ddary: ok
