@@ -22,3 +22,4 @@
 [2014-03-11 12:24:09] selendroid-git: selendroid/master 4d55dc4 Dominik Dary: UI improvements for the inspector....
 [2014-03-11 12:24:09] selendroid-git, leaving. (#selendroid)
 [2014-03-11 13:33:21] ddary: :snapshot
+[2014-03-11 15:17:55] sascha_: Hi, how do I restart the app without creating a new driver?
