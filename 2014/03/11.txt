@@ -57,3 +57,23 @@
 [2014-03-11 16:35:59] ddary: because currently we return at the standalone x86
 [2014-03-11 16:36:47] ddary: or just 'android'?
 [2014-03-11 16:36:47] ddary: http://code.google.com/p/selenium/source/browse/spec-draft.md?repo=mobile#53
+[2014-03-11 16:40:34] lukeis: looks like either will work… https://github.com/SeleniumHQ/selenium/blob/selenium-2.25.0/java/client/src/org/openqa/selenium/Platform.java#L77
+[2014-03-11 16:40:41] lukeis: we can stick with 'android' :)
+[2014-03-11 16:41:13] ddary: ok
+[2014-03-11 16:41:20] ddary: then i will add this as well
+[2014-03-11 16:41:21] lukeis: heh, was looking at android code on an old tag… master link: https://github.com/SeleniumHQ/selenium/blob/master/java/client/src/org/openqa/selenium/Platform.java#L88
+[2014-03-11 16:41:57] ddary: the other thing i want to work on is the source format thing
+[2014-03-11 16:42:32] lukeis: ok :)
+[2014-03-11 16:42:46] ddary: i want to change it that the default return type for native is xml
+[2014-03-11 16:42:53] ddary: and for web html
+[2014-03-11 16:43:02] ddary: like is is described here:
+[2014-03-11 16:43:03] ddary: http://code.google.com/p/selenium/source/browse/spec-draft.md?repo=mobile#83
+[2014-03-11 16:43:24] ddary: I will keep the insopector internal format as json
+[2014-03-11 16:43:32] lukeis: have you been running the integration tests against the test app? I was getting a lot of failures when running it over the weekend. (also two of the tests I checked in have failures that we need to figure out the issue to :) )
+[2014-03-11 16:43:50] lukeis: sounds good :)
+[2014-03-11 16:43:54] ddary: ok
+[2014-03-11 16:44:20] lukeis: if you are in a webview and find the <body> element… it's immediately stale :)
+[2014-03-11 16:44:32] ddary: will work then first on the page source
+[2014-03-11 16:44:40] lukeis: please do so :)
+[2014-03-11 16:44:53] ddary: tests is another thibng
+[2014-03-11 16:44:54] lukeis: i was just mentioning the issue (and that I added failing tests)
