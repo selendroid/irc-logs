@@ -105,3 +105,7 @@
 [2014-03-11 17:13:15] lukeis: in python… driver.command_executor._commands['NEWCOMMAND'] = ('METHOD', '/session/.….');   driver.execute('NEWCOMMAND')
 [2014-03-11 17:13:42] lukeis: where method is get/post/delete :)
 [2014-03-11 17:14:37] lukeis: the url actually is '/session/$sessionId/...'  (just to help you with the variable substitution :)
+[2014-03-11 17:15:42] ddary: ok
+[2014-03-11 17:16:02] ddary: i just used for know the HttpClientUtil
+[2014-03-11 17:16:25] ddary: going some layers down
+[2014-03-11 17:16:37] lukeis: ok ;) that works too
