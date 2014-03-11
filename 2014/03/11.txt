@@ -135,3 +135,4 @@
 [2014-03-11 21:41:59] joel10: hello guys :)
 [2014-03-11 21:42:22] joel10: how can I do a swipe or flick on the screen using python?
 [2014-03-11 21:43:34] kuchmina, joining. (#selendroid)
+[2014-03-11 21:47:26] kuchmina, quitting. (Remote host closed the connection)
