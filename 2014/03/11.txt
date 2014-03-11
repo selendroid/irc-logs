@@ -50,3 +50,10 @@
 [2014-03-11 16:33:36] ddary: it is still supported
 [2014-03-11 16:33:54] ddary: even if you enter ANDROID17 or just 17
 [2014-03-11 16:34:02] ddary: all cases should work
+[2014-03-11 16:35:09] ddary: do you know, what should be returned as a platform name, if we hit the status servlet?
+[2014-03-11 16:35:28] lukeis: i think dalvik
+[2014-03-11 16:35:34] ddary: i guess there should be the name of the platform we automate, right?
+[2014-03-11 16:35:35] ddary: ok
+[2014-03-11 16:35:59] ddary: because currently we return at the standalone x86
+[2014-03-11 16:36:47] ddary: or just 'android'?
+[2014-03-11 16:36:47] ddary: http://code.google.com/p/selenium/source/browse/spec-draft.md?repo=mobile#53
