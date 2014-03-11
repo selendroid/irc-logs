@@ -131,3 +131,7 @@
 [2014-03-11 20:43:18] belunin, joining. (#selendroid)
 [2014-03-11 20:46:25] belunin, quitting. (Remote host closed the connection)
 [2014-03-11 21:17:54] lukeis, quitting. (Quit: Leaving.)
+[2014-03-11 21:41:46] joel10, joining. (#selendroid)
+[2014-03-11 21:41:59] joel10: hello guys :)
+[2014-03-11 21:42:22] joel10: how can I do a swipe or flick on the screen using python?
+[2014-03-11 21:43:34] kuchmina, joining. (#selendroid)
