@@ -33,3 +33,5 @@
 [2014-03-11 15:35:58] sascha_: ok driver.get(driver.getCurrentUrl()); seems to work for a hybrid app
 [2014-03-11 15:37:31] ddary: if you are in native mode, it is
 [2014-03-11 15:38:11] ddary: driver.get("and-activity://io.selendroid.testapp.HomeScreenActivity")
+[2014-03-11 16:26:27] lukeis, joining. (#selendroid)
+[2014-03-11 16:29:46] smccarthy, joining. (#selendroid)
