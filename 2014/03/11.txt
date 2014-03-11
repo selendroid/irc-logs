@@ -137,3 +137,4 @@
 [2014-03-11 21:43:34] kuchmina, joining. (#selendroid)
 [2014-03-11 21:47:26] kuchmina, quitting. (Remote host closed the connection)
 [2014-03-11 22:19:07] lukeis, joining. (#selendroid)
+[2014-03-11 22:27:06] scalar, joining. (#selendroid)
