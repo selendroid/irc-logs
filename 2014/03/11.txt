@@ -13,3 +13,4 @@
 [2014-03-11 08:16:10] ddary, joining. (#selendroid)
 [2014-03-11 09:03:25] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-03-11 09:15:59] sascha_, quitting. (Ping timeout: 240 seconds)
+[2014-03-11 09:31:28] sascha_, joining. (#selendroid)
