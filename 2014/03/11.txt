@@ -123,3 +123,4 @@
 [2014-03-11 18:07:44] lukeis: ooh, i didn't know about 10.0.2.2 before!
 [2014-03-11 18:51:14] lukeis, quitting. (Quit: Leaving.)
 [2014-03-11 19:02:49] lukeis, joining. (#selendroid)
+[2014-03-11 19:13:43] lukeis, quitting. (Quit: Leaving.)
