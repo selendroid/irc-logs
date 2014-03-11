@@ -3,3 +3,4 @@
 [2014-03-11 01:04:33] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-11 01:44:50] jlipps, quitting. (Quit: Leaving.)
 [2014-03-11 02:04:40] jlipps, joining. (#selendroid)
+[2014-03-11 02:24:00] gimpneek, quitting. (Remote host closed the connection)
