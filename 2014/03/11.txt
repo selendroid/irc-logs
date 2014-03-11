@@ -130,3 +130,4 @@
 [2014-03-11 20:14:57] gimpneek, leaving. (#selendroid)
 [2014-03-11 20:43:18] belunin, joining. (#selendroid)
 [2014-03-11 20:46:25] belunin, quitting. (Remote host closed the connection)
+[2014-03-11 21:17:54] lukeis, quitting. (Quit: Leaving.)
