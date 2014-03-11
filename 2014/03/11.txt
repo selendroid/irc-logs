@@ -23,3 +23,10 @@
 [2014-03-11 12:24:09] selendroid-git, leaving. (#selendroid)
 [2014-03-11 13:33:21] ddary: :snapshot
 [2014-03-11 15:17:55] sascha_: Hi, how do I restart the app without creating a new driver?
+[2014-03-11 15:26:06] sascha_: ddary, *highlight* :)
+[2014-03-11 15:26:33] ddary: hi sasha_
+[2014-03-11 15:26:55] ddary: there is currently no way to do it
+[2014-03-11 15:27:03] sascha_: ok
+[2014-03-11 15:27:15] ddary: i guess you know that you can start activities via driver.get()
+[2014-03-11 15:27:36] ddary: what you can do is, that you start the main activity manually
+[2014-03-11 15:28:06] ddary: but that will just start the activity and is of course not an fresh start
