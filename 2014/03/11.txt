@@ -21,3 +21,4 @@
 [2014-03-11 12:24:09] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/R0Gggw
 [2014-03-11 12:24:09] selendroid-git: selendroid/master 4d55dc4 Dominik Dary: UI improvements for the inspector....
 [2014-03-11 12:24:09] selendroid-git, leaving. (#selendroid)
+[2014-03-11 13:33:21] ddary: :snapshot
