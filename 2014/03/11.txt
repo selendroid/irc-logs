@@ -109,3 +109,14 @@
 [2014-03-11 17:16:02] ddary: i just used for know the HttpClientUtil
 [2014-03-11 17:16:25] ddary: going some layers down
 [2014-03-11 17:16:37] lukeis: ok ;) that works too
+[2014-03-11 17:52:04] selendroid-git, joining. (#selendroid)
+[2014-03-11 17:52:04] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/KxZUIg
+[2014-03-11 17:52:04] selendroid-git: selendroid/master 4455efb Dominik Dary: Implementing additional context switching endpoint in order to support Selenium 3.0.
+[2014-03-11 17:52:04] selendroid-git, leaving. (#selendroid)
+[2014-03-11 17:52:09] ddary: there it is
+[2014-03-11 17:52:19] lukeis: :)
+[2014-03-11 17:52:52] ddary: with regards to the java bindings stuff, will have a look tomorrow
+[2014-03-11 17:53:00] ddary: have a good day!
+[2014-03-11 17:53:06] lukeis: have a good night!
+[2014-03-11 17:53:11] ddary: :)
+[2014-03-11 17:53:15] ddary, leaving. (#selendroid)
