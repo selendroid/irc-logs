@@ -48,3 +48,4 @@
 [2014-03-12 18:02:21] ddary, quitting. (Quit: ddary)
 [2014-03-12 18:05:00] ddary, joining. (#selendroid)
 [2014-03-12 19:22:58] friscodelrosario, joining. (#selendroid)
+[2014-03-12 19:26:13] ddary: :snapshot
