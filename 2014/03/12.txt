@@ -31,3 +31,14 @@
 [2014-03-12 17:52:54] ddary: ok
 [2014-03-12 17:54:10] lukeis: (and only that)
 [2014-03-12 17:54:20] lukeis: ContextSwitchingTest.java :)
+[2014-03-12 17:55:39] lukeis: otherwise looks good… would love to see "working" tests rather than expected failures, but that's ok ;)
+[2014-03-12 17:56:10] ddary: updated it: https://github.com/DominikDary/selenium/commit/8b6b1719469fabc7ad7650e8bb70c8f422b73124
+[2014-03-12 17:56:32] lukeis: we'll have to implement it in the other 4 languages (or have the binding owners do so…) I can easily handle python
+[2014-03-12 17:56:36] ddary: yeah, i was not sure how to do it
+[2014-03-12 17:56:43] lukeis: thx :)
+[2014-03-12 17:56:53] lukeis: push this change and then email the dev list
+[2014-03-12 17:57:04] ddary: maybe add selendroid as a test dependency?
+[2014-03-12 17:57:18] lukeis: we don't have it in CI for selenium though
+[2014-03-12 17:57:30] lukeis: hold off on that for now...
+[2014-03-12 17:57:53] lukeis: ideally the tests should be expecting the positive behavior and we'd @ignore the browsers that wouldn't work with it
+[2014-03-12 17:59:44] lukeis: meeting time… back in while..
