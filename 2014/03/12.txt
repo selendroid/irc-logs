@@ -7,3 +7,7 @@
 [2014-03-12 09:38:39] ddary, quitting. (Quit: ddary)
 [2014-03-12 09:39:39] ddary, joining. (#selendroid)
 [2014-03-12 11:54:15] gimpneek, joining. (#selendroid)
+[2014-03-12 12:12:23] selendroid-git, joining. (#selendroid)
+[2014-03-12 12:12:23] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/RuToZQ
+[2014-03-12 12:12:23] selendroid-git: selendroid/master 6a126ab Dominik Dary: In order to support Selenium 3, Page source is now returned as an XML (or HTML in the case of HTML-based platforms) document representing the UI hierarchy.
+[2014-03-12 12:12:23] selendroid-git, leaving. (#selendroid)
