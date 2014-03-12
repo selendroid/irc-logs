@@ -49,3 +49,8 @@
 [2014-03-12 18:05:00] ddary, joining. (#selendroid)
 [2014-03-12 19:22:58] friscodelrosario, joining. (#selendroid)
 [2014-03-12 19:26:13] ddary: :snapshot
+[2014-03-12 19:46:33] ddary: friscodelrosario: you had this message sent to the mailing list about the apps drawer
+[2014-03-12 19:46:55] ddary: friscodelrosario: the only way to do this should be to use this methods:
+[2014-03-12 19:47:26] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-client/src/main/java/io/selendroid/adb/AdbConnection.java#L24
+[2014-03-12 19:47:55] ddary: or just use shell commands directly:
+[2014-03-12 19:47:56] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-client/src/main/java/io/selendroid/adb/AdbConnection.java#L40
