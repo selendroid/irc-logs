@@ -16,3 +16,10 @@
 [2014-03-12 16:46:54] ddary, joining. (#selendroid)
 [2014-03-12 16:47:00] smccarthy, joining. (#selendroid)
 [2014-03-12 17:01:27] ddary: :note lukeis I have now a commit ready to push for context switching in the java client bindings. Can you may have a look upfront?
+[2014-03-12 17:37:27] lukeis, joining. (#selendroid)
+[2014-03-12 17:38:32] lukeis: ddary: ok :) want to push it to a fork in github?
+[2014-03-12 17:38:58] ddary: lukeis: i have a diff
+[2014-03-12 17:39:19] ddary: because i'm working directly with the google code system
+[2014-03-12 17:39:33] lukeis: you can push from any git repo to any git repo ;)
+[2014-03-12 17:39:51] ddary: right
+[2014-03-12 17:40:00] lukeis: click the 'fork' link from the seleniumhq repo so you don't have to push the 4+GB of data yourself
