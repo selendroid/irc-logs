@@ -24,3 +24,10 @@
 [2014-03-12 17:39:51] ddary: right
 [2014-03-12 17:40:00] lukeis: click the 'fork' link from the seleniumhq repo so you don't have to push the 4+GB of data yourself
 [2014-03-12 17:48:28] ddary: there you have the graphical diff: https://github.com/DominikDary/selenium/commit/33a19894fd73a4506acc4869c7e8f4dc8be986e4
+[2014-03-12 17:50:50] lukeis: thx :)
+[2014-03-12 17:51:07] ddary: :)
+[2014-03-12 17:51:36] ddary: as i wrote, i tested with a running selendroid server and it worked fine
+[2014-03-12 17:51:44] lukeis: the copyright should be  2014 Software Freedom Conservancy  :)
+[2014-03-12 17:52:54] ddary: ok
+[2014-03-12 17:54:10] lukeis: (and only that)
+[2014-03-12 17:54:20] lukeis: ContextSwitchingTest.java :)
