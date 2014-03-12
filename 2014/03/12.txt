@@ -6,3 +6,4 @@
 [2014-03-12 08:29:20] ddary: :snapshot
 [2014-03-12 09:38:39] ddary, quitting. (Quit: ddary)
 [2014-03-12 09:39:39] ddary, joining. (#selendroid)
+[2014-03-12 11:54:15] gimpneek, joining. (#selendroid)
