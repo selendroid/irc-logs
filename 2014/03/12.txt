@@ -56,3 +56,4 @@
 [2014-03-12 19:47:56] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-client/src/main/java/io/selendroid/adb/AdbConnection.java#L40
 [2014-03-12 19:52:57] ddary, quitting. (Quit: ddary)
 [2014-03-12 20:31:49] gimpneek, leaving. (#selendroid)
+[2014-03-12 21:22:54] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
