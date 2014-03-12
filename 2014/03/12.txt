@@ -15,3 +15,4 @@
 [2014-03-12 16:14:05] ddary, quitting. (Ping timeout: 252 seconds)
 [2014-03-12 16:46:54] ddary, joining. (#selendroid)
 [2014-03-12 16:47:00] smccarthy, joining. (#selendroid)
+[2014-03-12 17:01:27] ddary: :note lukeis I have now a commit ready to push for context switching in the java client bindings. Can you may have a look upfront?
