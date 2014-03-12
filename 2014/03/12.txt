@@ -42,3 +42,8 @@
 [2014-03-12 17:57:30] lukeis: hold off on that for now...
 [2014-03-12 17:57:53] lukeis: ideally the tests should be expecting the positive behavior and we'd @ignore the browsers that wouldn't work with it
 [2014-03-12 17:59:44] lukeis: meeting time… back in while..
+[2014-03-12 18:00:12] ddary: ok, waiting until i push
+[2014-03-12 18:00:22] ddary: i have anyway issues pushing to google code
+[2014-03-12 18:02:12] jlipps, joining. (#selendroid)
+[2014-03-12 18:02:21] ddary, quitting. (Quit: ddary)
+[2014-03-12 18:05:00] ddary, joining. (#selendroid)
