@@ -11,3 +11,4 @@
 [2014-03-12 12:12:23] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/RuToZQ
 [2014-03-12 12:12:23] selendroid-git: selendroid/master 6a126ab Dominik Dary: In order to support Selenium 3, Page source is now returned as an XML (or HTML in the case of HTML-based platforms) document representing the UI hierarchy.
 [2014-03-12 12:12:23] selendroid-git, leaving. (#selendroid)
+[2014-03-12 13:18:46] sascha_, quitting. (Remote host closed the connection)
