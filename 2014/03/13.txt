@@ -4,3 +4,4 @@
 [2014-03-13 00:37:12] AutomatedTester, quitting. (Ping timeout: 252 seconds)
 [2014-03-13 00:37:24] AutomatedTester, joining. (#selendroid)
 [2014-03-13 01:13:33] friscodelrosario, joining. (#selendroid)
+[2014-03-13 01:23:38] jlipps, quitting. (Quit: Leaving.)
