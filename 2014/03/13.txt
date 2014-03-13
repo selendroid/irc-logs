@@ -95,3 +95,6 @@
 [2014-03-13 16:38:59] ddary: ok
 [2014-03-13 16:39:32] ddary: wow 90 min build
 [2014-03-13 16:39:51] lukeis: well, build + starting server
+[2014-03-13 16:40:44] lukeis: (this is from scratch… which i do on weekly basis, although I'd love to do it daily, but can't cause it takes too long!)
+[2014-03-13 16:42:55] lukeis: :snapshot
+[2014-03-13 16:44:50] lukeis: oh :(  ddary you merged #292
