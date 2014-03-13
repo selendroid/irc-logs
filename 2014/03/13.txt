@@ -102,3 +102,7 @@
 [2014-03-13 16:45:24] lukeis: so, i really don't like using executeScript for things
 [2014-03-13 16:45:34] *lukeis gonna rip that out soon enough ;)'
 [2014-03-13 16:57:32] *lukeis just sent simon stewart a linkedin request for the pure purpose of 'endorsing' him for maven :)'
+[2014-03-13 17:11:13] ddary: lukeis: i have the same opinion like you about that. but implement multi touch is i guess a larger task (with creation of the acticity in the testapp for testing)
+[2014-03-13 17:11:41] lukeis: yep
+[2014-03-13 17:11:42] ddary: and for that, we have it know there, when people ask we can say, we are working on it
+[2014-03-13 17:13:21] ddary, quitting. (Quit: ddary)
