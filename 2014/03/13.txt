@@ -3,3 +3,4 @@
 [2014-03-13 00:28:35] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-03-13 00:37:12] AutomatedTester, quitting. (Ping timeout: 252 seconds)
 [2014-03-13 00:37:24] AutomatedTester, joining. (#selendroid)
+[2014-03-13 01:13:33] friscodelrosario, joining. (#selendroid)
