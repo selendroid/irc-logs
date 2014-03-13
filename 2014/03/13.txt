@@ -16,3 +16,5 @@
 [2014-03-13 05:10:04] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-13 07:15:23] ddary, joining. (#selendroid)
 [2014-03-13 07:15:36] ddary: :log
+[2014-03-13 08:16:28] joel10, quitting. (Read error: No route to host)
+[2014-03-13 08:17:32] joel10, joining. (#selendroid)
