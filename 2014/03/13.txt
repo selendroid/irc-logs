@@ -127,3 +127,5 @@
 [2014-03-13 19:29:57] friscodelrosario: Just like that, in fact. :)
 [2014-03-13 19:30:30] jlipps, quitting. (Read error: Connection reset by peer)
 [2014-03-13 19:30:43] jlipps, joining. (#selendroid)
+[2014-03-13 19:37:47] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-03-13 19:38:12] friscodelrosario, joining. (#selendroid)
