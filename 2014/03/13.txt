@@ -48,3 +48,4 @@
 [2014-03-13 13:54:51] selendroid-git: [selendroid] DominikDary force-pushed master from bf0e016 to 6a7001c: http://git.io/nEcQZw
 [2014-03-13 13:54:51] selendroid-git: selendroid/master 6a7001c Dominik Dary: Introducing a sessionTimeout (in seconds) that will automatically stop a session. Default value is 30 minutes.
 [2014-03-13 13:54:51] selendroid-git, leaving. (#selendroid)
+[2014-03-13 14:43:05] jlipps, joining. (#selendroid)
