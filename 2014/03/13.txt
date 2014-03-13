@@ -88,3 +88,10 @@
 [2014-03-13 16:34:03] AutomatedTester: ago
 [2014-03-13 16:34:08] ddary: my old one had this as well ;-)
 [2014-03-13 16:34:41] lukeis: `mvn clean install -DskipTests=true`  on my machine just took 34s
+[2014-03-13 16:36:06] lukeis: changing it to be 10s  feels like such a micro optimization to me…. comparing my current work build which takes ~90min (and everyone knows could / should be mere minutes or less)
+[2014-03-13 16:37:43] lukeis: i have 16GB of ram
+[2014-03-13 16:37:48] lukeis: MBP
+[2014-03-13 16:38:38] lukeis: got this one ~9 months ago
+[2014-03-13 16:38:59] ddary: ok
+[2014-03-13 16:39:32] ddary: wow 90 min build
+[2014-03-13 16:39:51] lukeis: well, build + starting server
