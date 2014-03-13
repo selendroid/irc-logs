@@ -22,3 +22,7 @@
 [2014-03-13 09:17:01] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/NuwWOQ
 [2014-03-13 09:17:01] selendroid-git: selendroid/master 4e358a8 Dominik Dary: adding missing tests to the corresponding suites.
 [2014-03-13 09:17:01] selendroid-git, leaving. (#selendroid)
+[2014-03-13 10:15:01] selendroid-git, joining. (#selendroid)
+[2014-03-13 10:15:01] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/fZ7BQw
+[2014-03-13 10:15:01] selendroid-git: selendroid/master 3f45390 Dominik Dary: Refactored tests to make them more robust.
+[2014-03-13 10:15:01] selendroid-git, leaving. (#selendroid)
