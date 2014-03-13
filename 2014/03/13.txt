@@ -135,3 +135,4 @@
 [2014-03-13 21:46:55] friscodelrosario, joining. (#selendroid)
 [2014-03-13 22:20:53] linagee, quitting. (Changing host)
 [2014-03-13 22:20:54] linagee, joining. (#selendroid)
+[2014-03-13 23:46:58] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
