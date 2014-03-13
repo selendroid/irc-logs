@@ -101,3 +101,4 @@
 [2014-03-13 16:45:08] lukeis: the spec finally has batching in it
 [2014-03-13 16:45:24] lukeis: so, i really don't like using executeScript for things
 [2014-03-13 16:45:34] *lukeis gonna rip that out soon enough ;)'
+[2014-03-13 16:57:32] *lukeis just sent simon stewart a linkedin request for the pure purpose of 'endorsing' him for maven :)'
