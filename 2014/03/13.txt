@@ -18,3 +18,7 @@
 [2014-03-13 07:15:36] ddary: :log
 [2014-03-13 08:16:28] joel10, quitting. (Read error: No route to host)
 [2014-03-13 08:17:32] joel10, joining. (#selendroid)
+[2014-03-13 09:17:01] selendroid-git, joining. (#selendroid)
+[2014-03-13 09:17:01] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/NuwWOQ
+[2014-03-13 09:17:01] selendroid-git: selendroid/master 4e358a8 Dominik Dary: adding missing tests to the corresponding suites.
+[2014-03-13 09:17:01] selendroid-git, leaving. (#selendroid)
