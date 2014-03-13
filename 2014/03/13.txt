@@ -54,3 +54,11 @@
 [2014-03-13 16:24:08] lukeis, joining. (#selendroid)
 [2014-03-13 16:24:34] lukeis: ddary: 17
 [2014-03-13 16:24:50] ddary: lukeis hi, ok i see
+[2014-03-13 16:25:37] lukeis: also, did you see this? https://github.com/lukeis/selendroid/commit/c5aa40270f4fee1c7013563165ac5d06b8696dab  what do you think about it?
+[2014-03-13 16:26:48] ddary: nope, what does it does?
+[2014-03-13 16:27:02] lukeis: i'll likely need someone from FB to chime in if they don't want any of those things suppressed
+[2014-03-13 16:27:18] lukeis: it suppresses the logcat info from those services listed
+[2014-03-13 16:27:51] lukeis: (eliminates the 'extra' stuff no one ever cares about)
+[2014-03-13 16:28:36] lukeis: S is 'Silent' (i believe)
+[2014-03-13 16:29:10] ddary: sounds good to me
+[2014-03-13 16:29:23] lukeis: for example my dev team typically only looks at logcat like this:  `adb logcat Chatter:D  *:S`   (ignoring everything but chatter)
