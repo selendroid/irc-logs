@@ -62,3 +62,29 @@
 [2014-03-13 16:28:36] lukeis: S is 'Silent' (i believe)
 [2014-03-13 16:29:10] ddary: sounds good to me
 [2014-03-13 16:29:23] lukeis: for example my dev team typically only looks at logcat like this:  `adb logcat Chatter:D  *:S`   (ignoring everything but chatter)
+[2014-03-13 16:30:34] ddary: awesome: but why you have not told me that thing before ;-)
+[2014-03-13 16:30:42] lukeis: heh :)
+[2014-03-13 16:30:46] ddary: could have saved so much time
+[2014-03-13 16:30:50] ddary: also build time
+[2014-03-13 16:31:22] ddary: on my machine, build the whole project: mvn install -DskipTests is 40 seconds
+[2014-03-13 16:31:52] ddary: it is a mac bought in august, 8gb or ram +ssd
+[2014-03-13 16:31:56] smccarthy, joining. (#selendroid)
+[2014-03-13 16:32:12] ddary: simon wrote 10 seconds when he builds it with buck, right?
+[2014-03-13 16:32:21] ddary: how long is the build time on your machine?
+[2014-03-13 16:32:22] AutomatedTester: they sell MBP with 8GB still?
+[2014-03-13 16:32:24] lukeis: i don't know
+[2014-03-13 16:32:53] selendroid-git, joining. (#selendroid)
+[2014-03-13 16:32:53] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/4m0T0g
+[2014-03-13 16:32:53] selendroid-git: selendroid/master 8fd84d7 Luke Inman-Semerau: updating logcat logging to ignore system things
+[2014-03-13 16:32:53] selendroid-git, leaving. (#selendroid)
+[2014-03-13 16:33:02] ddary: AutomatedTester: the new ones have a maximum of 8gb afaik
+[2014-03-13 16:33:16] lukeis: :note simonstewart please review 8fd84d75afad624c9c6f03c2f59564b969d3d4f4 in case you guys actually needed to see any of that stuff in the logcat that is now suppressed
+[2014-03-13 16:33:33] AutomatedTester: ddary: MBA or MBP?
+[2014-03-13 16:33:39] AutomatedTester: ddary: my MBP has 16GB
+[2014-03-13 16:33:42] ddary: MBP
+[2014-03-13 16:33:54] AutomatedTester: MBP has max of 16GB
+[2014-03-13 16:33:55] ddary: is this a new new one?
+[2014-03-13 16:34:02] AutomatedTester: I got this 18 months
+[2014-03-13 16:34:03] AutomatedTester: ago
+[2014-03-13 16:34:08] ddary: my old one had this as well ;-)
+[2014-03-13 16:34:41] lukeis: `mvn clean install -DskipTests=true`  on my machine just took 34s
