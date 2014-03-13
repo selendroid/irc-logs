@@ -118,3 +118,6 @@
 [2014-03-13 19:11:54] lukeis: yes
 [2014-03-13 19:14:01] jlipps, quitting. (Read error: Connection reset by peer)
 [2014-03-13 19:14:12] jlipps, joining. (#selendroid)
+[2014-03-13 19:20:35] friscodelrosario: "Selendroid server on the device didn't came up after 20sec:"
+[2014-03-13 19:20:43] friscodelrosario: Isn't someone on the mailing list running into this?
+[2014-03-13 19:23:06] friscodelrosario: Hi, Jonathan. Lunching at Borrone?
