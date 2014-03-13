@@ -50,3 +50,4 @@
 [2014-03-13 13:54:51] selendroid-git, leaving. (#selendroid)
 [2014-03-13 14:43:05] jlipps, joining. (#selendroid)
 [2014-03-13 14:59:19] joel10, quitting. (Quit: Leaving)
+[2014-03-13 15:00:29] jlipps, quitting. (Quit: Leaving.)
