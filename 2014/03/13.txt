@@ -130,3 +130,4 @@
 [2014-03-13 19:37:47] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-03-13 19:38:12] friscodelrosario, joining. (#selendroid)
 [2014-03-13 19:42:46] jlipps, quitting. (Quit: Leaving.)
+[2014-03-13 20:53:57] lukeis: https://github.com/selendroid/selendroid/issues/323#issuecomment-37565602 "I must be doing something wrong." … yes, you're using selendroid to automate chrome on android. o.0
