@@ -125,3 +125,5 @@
 [2014-03-13 19:27:47] *lukeis doesn't know how to be more clear that they need to run `adb logcat`'
 [2014-03-13 19:29:50] friscodelrosario: I turned on logcat.
 [2014-03-13 19:29:57] friscodelrosario: Just like that, in fact. :)
+[2014-03-13 19:30:30] jlipps, quitting. (Read error: Connection reset by peer)
+[2014-03-13 19:30:43] jlipps, joining. (#selendroid)
