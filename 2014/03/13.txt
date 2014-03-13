@@ -98,3 +98,6 @@
 [2014-03-13 16:40:44] lukeis: (this is from scratch… which i do on weekly basis, although I'd love to do it daily, but can't cause it takes too long!)
 [2014-03-13 16:42:55] lukeis: :snapshot
 [2014-03-13 16:44:50] lukeis: oh :(  ddary you merged #292
+[2014-03-13 16:45:08] lukeis: the spec finally has batching in it
+[2014-03-13 16:45:24] lukeis: so, i really don't like using executeScript for things
+[2014-03-13 16:45:34] *lukeis gonna rip that out soon enough ;)'
