@@ -30,3 +30,11 @@
 [2014-03-13 11:52:59] selendroid-git, joining. (#selendroid)
 [2014-03-13 11:52:59] selendroid-git: [selendroid] DominikDary closed pull request #292: Add native execute script action TwoPointerGesture (master...master) http://git.io/70U6CA
 [2014-03-13 11:52:59] selendroid-git, leaving. (#selendroid)
+[2014-03-13 11:55:19] selendroid-git, joining. (#selendroid)
+[2014-03-13 11:55:19] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/5DKW2Q
+[2014-03-13 11:55:19] selendroid-git: selendroid/master ec9fefa Dominik Dary: Update changelog.md
+[2014-03-13 11:55:19] selendroid-git, leaving. (#selendroid)
+[2014-03-13 11:57:08] selendroid-git, joining. (#selendroid)
+[2014-03-13 11:57:08] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/VZQUhg
+[2014-03-13 11:57:08] selendroid-git: selendroid/master ba84154 Dominik Dary: Update AUTHORS
+[2014-03-13 11:57:08] selendroid-git, leaving. (#selendroid)
