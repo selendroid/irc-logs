@@ -115,3 +115,6 @@
 [2014-03-13 19:07:30] lukeis: hi
 [2014-03-13 19:08:02] friscodelrosario: If I want to run Selendroid against an app that's already installed on my device, do I have to pull it and re-sign it?
 [2014-03-13 19:08:09] jlipps, joining. (#selendroid)
+[2014-03-13 19:11:54] lukeis: yes
+[2014-03-13 19:14:01] jlipps, quitting. (Read error: Connection reset by peer)
+[2014-03-13 19:14:12] jlipps, joining. (#selendroid)
