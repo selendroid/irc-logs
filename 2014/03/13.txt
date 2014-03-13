@@ -27,3 +27,6 @@
 [2014-03-13 10:15:01] selendroid-git: selendroid/master 3f45390 Dominik Dary: Refactored tests to make them more robust.
 [2014-03-13 10:15:01] selendroid-git, leaving. (#selendroid)
 [2014-03-13 10:16:40] ddary: :note lukeis I just have executed all 212 end-to-end tests on platformVersion 18 and all passed. What platformVersion did you have used when you faces test failures ?
+[2014-03-13 11:52:59] selendroid-git, joining. (#selendroid)
+[2014-03-13 11:52:59] selendroid-git: [selendroid] DominikDary closed pull request #292: Add native execute script action TwoPointerGesture (master...master) http://git.io/70U6CA
+[2014-03-13 11:52:59] selendroid-git, leaving. (#selendroid)
