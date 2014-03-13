@@ -39,3 +39,4 @@
 [2014-03-13 11:57:08] selendroid-git: selendroid/master ba84154 Dominik Dary: Update AUTHORS
 [2014-03-13 11:57:08] selendroid-git, leaving. (#selendroid)
 [2014-03-13 12:03:37] ddary, quitting. (Ping timeout: 240 seconds)
+[2014-03-13 13:02:12] ddary, joining. (#selendroid)
