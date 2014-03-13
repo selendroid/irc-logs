@@ -40,3 +40,11 @@
 [2014-03-13 11:57:08] selendroid-git, leaving. (#selendroid)
 [2014-03-13 12:03:37] ddary, quitting. (Ping timeout: 240 seconds)
 [2014-03-13 13:02:12] ddary, joining. (#selendroid)
+[2014-03-13 13:50:37] selendroid-git, joining. (#selendroid)
+[2014-03-13 13:50:37] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/4Tr6bg
+[2014-03-13 13:50:37] selendroid-git: selendroid/master bf0e016 Dominik Dary: Introducing a sessionTimeout (in seconds) that will automatically stop a session. Default value is 30 minutes.
+[2014-03-13 13:50:37] selendroid-git, leaving. (#selendroid)
+[2014-03-13 13:54:51] selendroid-git, joining. (#selendroid)
+[2014-03-13 13:54:51] selendroid-git: [selendroid] DominikDary force-pushed master from bf0e016 to 6a7001c: http://git.io/nEcQZw
+[2014-03-13 13:54:51] selendroid-git: selendroid/master 6a7001c Dominik Dary: Introducing a sessionTimeout (in seconds) that will automatically stop a session. Default value is 30 minutes.
+[2014-03-13 13:54:51] selendroid-git, leaving. (#selendroid)
