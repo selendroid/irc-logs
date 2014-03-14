@@ -23,3 +23,11 @@
 [2014-03-14 11:49:16] gimpneek, joining. (#selendroid)
 [2014-03-14 13:49:19] ddary, leaving. (#selendroid)
 [2014-03-14 14:06:57] ddary, joining. (#selendroid)
+[2014-03-14 14:28:47] selendroid-git, joining. (#selendroid)
+[2014-03-14 14:28:47] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/gljRSw
+[2014-03-14 14:28:47] selendroid-git: selendroid/master 6537bb1 Dominik Dary: Adding an experimental travis file.
+[2014-03-14 14:28:47] selendroid-git, leaving. (#selendroid)
+[2014-03-14 14:29:12] selendroid-git, joining. (#selendroid)
+[2014-03-14 14:29:12] selendroid-git: [selendroid] DominikDary created travis (+1 new commit): http://git.io/UfbZUA
+[2014-03-14 14:29:12] selendroid-git: selendroid/travis 20524f3 Dominik Dary: adding maven settings file.
+[2014-03-14 14:29:12] selendroid-git, leaving. (#selendroid)
