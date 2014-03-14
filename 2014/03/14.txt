@@ -48,3 +48,8 @@
 [2014-03-14 16:10:38] joel, changing nick to joel10.
 [2014-03-14 16:10:51] joel10: hiya! anyone here?
 [2014-03-14 16:18:52] ddary, joining. (#selendroid)
+[2014-03-14 16:23:12] selendroid-git, joining. (#selendroid)
+[2014-03-14 16:23:12] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/sz7ecA
+[2014-03-14 16:23:12] selendroid-git: selendroid/master e9d5c5b Dominik Dary: adding snapshot repo.
+[2014-03-14 16:23:12] selendroid-git, leaving. (#selendroid)
+[2014-03-14 16:24:07] joel10, quitting. (Remote host closed the connection)
