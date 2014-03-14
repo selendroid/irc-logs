@@ -72,3 +72,13 @@
 [2014-03-14 16:32:33] joel10: alright
 [2014-03-14 16:32:55] joel10: is there a list of all officially supported touch actions?
 [2014-03-14 16:34:20] ddary: yes: http://selendroid.io/gestures.html#java
+[2014-03-14 16:35:16] joel10: thanks! would the flick help me scroll on a screen?
+[2014-03-14 16:35:21] joel10: I'm trying to scroll down on content
+[2014-03-14 16:36:12] ddary: yeah, that should work
+[2014-03-14 16:37:14] joel10: I'll try that and see what happens, thanks!
+[2014-03-14 16:37:37] ddary: welcome
+[2014-03-14 16:38:47] smccarthy, joining. (#selendroid)
+[2014-03-14 16:39:30] selendroid-git, joining. (#selendroid)
+[2014-03-14 16:39:30] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/W0mgyQ
+[2014-03-14 16:39:30] selendroid-git: selendroid/master f1f00c4 Dominik Dary: Update .travis.yml
+[2014-03-14 16:39:30] selendroid-git, leaving. (#selendroid)
