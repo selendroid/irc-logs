@@ -7,3 +7,4 @@
 [2014-03-14 01:18:55] AutomatedTester_, changing nick to AutomatedTester.
 [2014-03-14 07:30:46] ddary, joining. (#selendroid)
 [2014-03-14 08:49:47] ddary: :log
+[2014-03-14 09:42:32] ddary: :spec
