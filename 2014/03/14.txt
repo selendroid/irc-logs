@@ -8,3 +8,5 @@
 [2014-03-14 07:30:46] ddary, joining. (#selendroid)
 [2014-03-14 08:49:47] ddary: :log
 [2014-03-14 09:42:32] ddary: :spec
+[2014-03-14 10:35:19] ddary, quitting. (Ping timeout: 264 seconds)
+[2014-03-14 10:39:03] ddary, joining. (#selendroid)
