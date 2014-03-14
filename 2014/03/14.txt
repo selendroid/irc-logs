@@ -31,3 +31,7 @@
 [2014-03-14 14:29:12] selendroid-git: [selendroid] DominikDary created travis (+1 new commit): http://git.io/UfbZUA
 [2014-03-14 14:29:12] selendroid-git: selendroid/travis 20524f3 Dominik Dary: adding maven settings file.
 [2014-03-14 14:29:12] selendroid-git, leaving. (#selendroid)
+[2014-03-14 14:50:35] selendroid-git, joining. (#selendroid)
+[2014-03-14 14:50:35] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/d0AlHQ
+[2014-03-14 14:50:35] selendroid-git: selendroid/master b4e86b4 Dominik Dary: Update .travis.yml
+[2014-03-14 14:50:35] selendroid-git, leaving. (#selendroid)
