@@ -53,3 +53,15 @@
 [2014-03-14 16:23:12] selendroid-git: selendroid/master e9d5c5b Dominik Dary: adding snapshot repo.
 [2014-03-14 16:23:12] selendroid-git, leaving. (#selendroid)
 [2014-03-14 16:24:07] joel10, quitting. (Remote host closed the connection)
+[2014-03-14 16:26:04] joel10, joining. (#selendroid)
+[2014-03-14 16:27:01] joel10: ddary: hi dominik
+[2014-03-14 16:27:11] ddary: hi joel10
+[2014-03-14 16:27:22] joel10: how's it going?
+[2014-03-14 16:27:47] ddary: fine
+[2014-03-14 16:27:52] ddary: and you?
+[2014-03-14 16:27:58] joel10: fine, thanks
+[2014-03-14 16:28:00] joel10: got a question
+[2014-03-14 16:28:10] ddary: :)
+[2014-03-14 16:28:19] ddary: :ask
+[2014-03-14 16:28:46] joel10: how can I simulate a swipe (down-up) with selendroid?
+[2014-03-14 16:28:49] joel10: haha nice!
