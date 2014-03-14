@@ -35,3 +35,7 @@
 [2014-03-14 14:50:35] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/d0AlHQ
 [2014-03-14 14:50:35] selendroid-git: selendroid/master b4e86b4 Dominik Dary: Update .travis.yml
 [2014-03-14 14:50:35] selendroid-git, leaving. (#selendroid)
+[2014-03-14 15:06:40] selendroid-git, joining. (#selendroid)
+[2014-03-14 15:06:40] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/Bl9aCg
+[2014-03-14 15:06:40] selendroid-git: selendroid/master 0119ff5 Dominik Dary: Update .travis.yml
+[2014-03-14 15:06:40] selendroid-git, leaving. (#selendroid)
