@@ -87,3 +87,5 @@
 [2014-03-14 16:51:21] selendroid-git: selendroid/master 24ffcfd Dominik Dary: Update README.md
 [2014-03-14 16:51:21] selendroid-git, leaving. (#selendroid)
 [2014-03-14 16:52:59] ddary: :note lukeis I created a travis config that is building the project for us. The new thing is, that it is also pushing snapshot jars to https://oss.sonatype.org/content/repositories/snapshots/io/selendroid/ The jenkins ci server will be deleted soon.
+[2014-03-14 17:00:59] ddary: :note lukeis ci.selendroid.io is now disabled.
+[2014-03-14 17:01:09] ddary, leaving. (#selendroid)
