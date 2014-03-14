@@ -82,3 +82,8 @@
 [2014-03-14 16:39:30] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/W0mgyQ
 [2014-03-14 16:39:30] selendroid-git: selendroid/master f1f00c4 Dominik Dary: Update .travis.yml
 [2014-03-14 16:39:30] selendroid-git, leaving. (#selendroid)
+[2014-03-14 16:51:21] selendroid-git, joining. (#selendroid)
+[2014-03-14 16:51:21] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/krRtpg
+[2014-03-14 16:51:21] selendroid-git: selendroid/master 24ffcfd Dominik Dary: Update README.md
+[2014-03-14 16:51:21] selendroid-git, leaving. (#selendroid)
+[2014-03-14 16:52:59] ddary: :note lukeis I created a travis config that is building the project for us. The new thing is, that it is also pushing snapshot jars to https://oss.sonatype.org/content/repositories/snapshots/io/selendroid/ The jenkins ci server will be deleted soon.
