@@ -16,3 +16,7 @@
 [2014-03-14 11:15:04] selendroid-git: selendroid/master e992b48 Dominik Dary: implementing handler get element location in viewport.
 [2014-03-14 11:15:04] selendroid-git: selendroid/master 7f9e7ed Dominik Dary: Adding touch tests for webview mode.
 [2014-03-14 11:15:04] selendroid-git, leaving. (#selendroid)
+[2014-03-14 11:37:42] selendroid-git, joining. (#selendroid)
+[2014-03-14 11:37:42] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/a194gw
+[2014-03-14 11:37:42] selendroid-git: selendroid/master 3f7663f Dominik Dary: Adding selenium3 properties to SelendroidCapabilties.
+[2014-03-14 11:37:42] selendroid-git, leaving. (#selendroid)
