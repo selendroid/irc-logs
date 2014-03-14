@@ -10,3 +10,9 @@
 [2014-03-14 09:42:32] ddary: :spec
 [2014-03-14 10:35:19] ddary, quitting. (Ping timeout: 264 seconds)
 [2014-03-14 10:39:03] ddary, joining. (#selendroid)
+[2014-03-14 11:15:04] selendroid-git, joining. (#selendroid)
+[2014-03-14 11:15:04] selendroid-git: [selendroid] DominikDary pushed 3 new commits to master: http://git.io/k27ubw
+[2014-03-14 11:15:04] selendroid-git: selendroid/master 124f635 Dominik Dary: Adding new selenium3 properties to the capabilties.
+[2014-03-14 11:15:04] selendroid-git: selendroid/master e992b48 Dominik Dary: implementing handler get element location in viewport.
+[2014-03-14 11:15:04] selendroid-git: selendroid/master 7f9e7ed Dominik Dary: Adding touch tests for webview mode.
+[2014-03-14 11:15:04] selendroid-git, leaving. (#selendroid)
