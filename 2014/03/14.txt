@@ -94,3 +94,4 @@
 [2014-03-14 18:27:19] ddary, joining. (#selendroid)
 [2014-03-14 18:27:19] ddary, quitting. (Client Quit)
 [2014-03-14 18:40:30] friscodelrosario, joining. (#selendroid)
+[2014-03-14 18:59:08] friscodelrosario, quitting. (Quit: My iMac has gone to sleep. ZZZzzz…)
