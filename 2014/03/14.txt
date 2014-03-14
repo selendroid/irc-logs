@@ -21,3 +21,4 @@
 [2014-03-14 11:37:42] selendroid-git: selendroid/master 3f7663f Dominik Dary: Adding selenium3 properties to SelendroidCapabilties.
 [2014-03-14 11:37:42] selendroid-git, leaving. (#selendroid)
 [2014-03-14 11:49:16] gimpneek, joining. (#selendroid)
+[2014-03-14 13:49:19] ddary, leaving. (#selendroid)
