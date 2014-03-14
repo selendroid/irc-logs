@@ -65,3 +65,10 @@
 [2014-03-14 16:28:19] ddary: :ask
 [2014-03-14 16:28:46] joel10: how can I simulate a swipe (down-up) with selendroid?
 [2014-03-14 16:28:49] joel10: haha nice!
+[2014-03-14 16:30:28] ddary: currently we only support officially single touch actions
+[2014-03-14 16:30:37] ddary: but you can have a look here:
+[2014-03-14 16:31:08] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/model/internal/execute_native/TwoPointerGestureAction.java
+[2014-03-14 16:31:29] ddary: i have not used it personally, so i can give you only the pointer ;-)
+[2014-03-14 16:32:33] joel10: alright
+[2014-03-14 16:32:55] joel10: is there a list of all officially supported touch actions?
+[2014-03-14 16:34:20] ddary: yes: http://selendroid.io/gestures.html#java
