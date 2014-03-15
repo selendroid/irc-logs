@@ -7,3 +7,5 @@
 [2014-03-15 17:44:09] smccarthy, joining. (#selendroid)
 [2014-03-15 19:53:06] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-15 20:48:35] mummana, joining. (#selendroid)
+[2014-03-15 20:50:56] mummana: hie anyone using python for selendroid
+[2014-03-15 20:52:56] mummana, quitting. (Client Quit)
