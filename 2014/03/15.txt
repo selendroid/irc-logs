@@ -9,3 +9,4 @@
 [2014-03-15 20:48:35] mummana, joining. (#selendroid)
 [2014-03-15 20:50:56] mummana: hie anyone using python for selendroid
 [2014-03-15 20:52:56] mummana, quitting. (Client Quit)
+[2014-03-15 21:27:04] smccarthy, joining. (#selendroid)
