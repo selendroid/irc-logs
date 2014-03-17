@@ -38,3 +38,7 @@
 [2014-03-17 15:58:16] ddary: martink_ you work for Facebook, right?
 [2014-03-17 15:58:27] martink_: Yes yes :)
 [2014-03-17 15:58:37] ddary: :)
+[2014-03-17 16:01:50] selendroid-git, joining. (#selendroid)
+[2014-03-17 16:01:50] selendroid-git: [selendroid] mkonicek opened pull request #328: Get a more detailed error message when instrumentation fails (master...master) http://git.io/yG0VWA
+[2014-03-17 16:01:50] selendroid-git, leaving. (#selendroid)
+[2014-03-17 16:02:35] martink_: (that's the pull request adding -w to get more details on failure)
