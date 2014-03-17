@@ -1,0 +1,3 @@
+[2014-03-17 08:21:14] ddary, joining. (#selendroid)
+[2014-03-17 08:21:23] ddary: :sepc
+[2014-03-17 08:21:30] ddary: :spec
