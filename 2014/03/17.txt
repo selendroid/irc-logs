@@ -4,3 +4,7 @@
 [2014-03-17 09:58:00] ddary, quitting. (Quit: ddary)
 [2014-03-17 11:36:20] gimpneek, joining. (#selendroid)
 [2014-03-17 13:01:12] martink_, joining. (#selendroid)
+[2014-03-17 13:08:09] martink_: Good morning, Dominik thank you for including the message when 'shell am instrument' fails. I was finally able to reproduce the error locally. When I run the command that we run:
+[2014-03-17 13:08:18] martink_: adb -s emulator-5554 shell am instrument -w -e main_activity com.facebook.katana.LogoutActivity -e server_port 9179 io.selendroid.com.facebook.katana/io.selendroid.ServerInstrumentation
+[2014-03-17 13:08:32] martink_: (added -w to get more output)
+[2014-03-17 13:08:46] martink_: I get: INSTRUMENTATION_STATUS: Error=Unable to find instrumentation target package: com.facebook.katana
