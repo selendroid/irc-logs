@@ -8,3 +8,7 @@
 [2014-03-17 13:08:18] martink_: adb -s emulator-5554 shell am instrument -w -e main_activity com.facebook.katana.LogoutActivity -e server_port 9179 io.selendroid.com.facebook.katana/io.selendroid.ServerInstrumentation
 [2014-03-17 13:08:32] martink_: (added -w to get more output)
 [2014-03-17 13:08:46] martink_: I get: INSTRUMENTATION_STATUS: Error=Unable to find instrumentation target package: com.facebook.katana
+[2014-03-17 13:10:01] martink_: I stepped through SelendroidServerBuilder and SelendroidStandaloneDriver in the debugger and at a first glance everything seemed to work as it should. Any ideas what might be causing "Unable to find instrumentation target package"?
+[2014-03-17 13:10:03] martink_: Thank you!
+[2014-03-17 13:10:56] ddary, joining. (#selendroid)
+[2014-03-17 13:14:06] ddary: hi all
