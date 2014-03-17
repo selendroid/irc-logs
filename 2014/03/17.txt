@@ -33,3 +33,5 @@
 [2014-03-17 15:00:14] martink_: To be more accurate, the command times out after 20s with -w, so yes, let's not add -w.
 [2014-03-17 15:41:44] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-03-17 15:43:39] martink_, joining. (#selendroid)
+[2014-03-17 15:52:05] ddary, joining. (#selendroid)
+[2014-03-17 15:53:27] ddary: martiink_; thanks for the details
