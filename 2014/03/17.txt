@@ -71,3 +71,4 @@
 [2014-03-17 20:37:52] martink_, joining. (#selendroid)
 [2014-03-17 20:51:40] lukeis, quitting. (Quit: Leaving.)
 [2014-03-17 21:45:05] lukeis, joining. (#selendroid)
+[2014-03-17 22:05:48] friscodelrosario, joining. (#selendroid)
