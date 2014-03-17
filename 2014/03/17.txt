@@ -13,3 +13,13 @@
 [2014-03-17 13:10:56] ddary, joining. (#selendroid)
 [2014-03-17 13:14:06] ddary: hi all
 [2014-03-17 13:16:59] martink_: hi :)
+[2014-03-17 13:20:21] martink_: Oh wait it might be simply because the app under test wasn't installed for some reason.
+[2014-03-17 13:20:36] martink_: Then the error makes perfect sense.
+[2014-03-17 13:21:10] ddary: wait, need to read the :log first
+[2014-03-17 13:21:40] martink_: okok :)
+[2014-03-17 13:22:20] ddary: so, have read your messages
+[2014-03-17 13:22:36] ddary: good to know, that the option -w displays more details
+[2014-03-17 13:22:48] ddary: do you know if this has any drawbacks?
+[2014-03-17 13:23:09] ddary: otherwise i would add this just as a default
+[2014-03-17 13:23:45] ddary: back to your questions: I would guess, the aut was not installed on the device
+[2014-03-17 13:24:42] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
