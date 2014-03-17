@@ -23,3 +23,4 @@
 [2014-03-17 13:23:09] ddary: otherwise i would add this just as a default
 [2014-03-17 13:23:45] ddary: back to your questions: I would guess, the aut was not installed on the device
 [2014-03-17 13:24:42] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-03-17 13:51:13] martink_, joining. (#selendroid)
