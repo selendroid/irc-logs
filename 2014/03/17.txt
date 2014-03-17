@@ -49,3 +49,7 @@
 [2014-03-17 16:07:07] martink_: Cool, thanks for merging! :)
 [2014-03-17 16:07:18] ddary: welcome
 [2014-03-17 16:07:38] ddary: :)
+[2014-03-17 16:10:31] martink_: Oh I've missed an import, do we get Travis build status for pull requests? https://github.com/selendroid/selendroid/pull/328
+[2014-03-17 16:12:48] selendroid-git, joining. (#selendroid)
+[2014-03-17 16:12:48] selendroid-git: [selendroid] mkonicek opened pull request #329: Add missing import. (master...master) http://git.io/NtTDmg
+[2014-03-17 16:12:48] selendroid-git, leaving. (#selendroid)
