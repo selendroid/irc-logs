@@ -31,3 +31,5 @@
 [2014-03-17 14:49:30] martink_, joining. (#selendroid)
 [2014-03-17 14:54:47] martink_: Yes, the AUT was not installed actually. -w stands for "wait for instrumentation to finish". It works but it's slower, so let's no include it by default.
 [2014-03-17 15:00:14] martink_: To be more accurate, the command times out after 20s with -w, so yes, let's not add -w.
+[2014-03-17 15:41:44] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-03-17 15:43:39] martink_, joining. (#selendroid)
