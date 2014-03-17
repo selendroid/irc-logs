@@ -42,3 +42,10 @@
 [2014-03-17 16:01:50] selendroid-git: [selendroid] mkonicek opened pull request #328: Get a more detailed error message when instrumentation fails (master...master) http://git.io/yG0VWA
 [2014-03-17 16:01:50] selendroid-git, leaving. (#selendroid)
 [2014-03-17 16:02:35] martink_: (that's the pull request adding -w to get more details on failure)
+[2014-03-17 16:05:12] ddary: that is awesome, thanks!
+[2014-03-17 16:05:32] selendroid-git, joining. (#selendroid)
+[2014-03-17 16:05:32] selendroid-git: [selendroid] DominikDary closed pull request #328: Get a more detailed error message when instrumentation fails (master...master) http://git.io/yG0VWA
+[2014-03-17 16:05:32] selendroid-git, leaving. (#selendroid)
+[2014-03-17 16:07:07] martink_: Cool, thanks for merging! :)
+[2014-03-17 16:07:18] ddary: welcome
+[2014-03-17 16:07:38] ddary: :)
