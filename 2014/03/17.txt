@@ -53,3 +53,6 @@
 [2014-03-17 16:12:48] selendroid-git, joining. (#selendroid)
 [2014-03-17 16:12:48] selendroid-git: [selendroid] mkonicek opened pull request #329: Add missing import. (master...master) http://git.io/NtTDmg
 [2014-03-17 16:12:48] selendroid-git, leaving. (#selendroid)
+[2014-03-17 16:17:12] selendroid-git, joining. (#selendroid)
+[2014-03-17 16:17:13] selendroid-git: [selendroid] DominikDary closed pull request #329: Add missing import. (master...master) http://git.io/NtTDmg
+[2014-03-17 16:17:13] selendroid-git, leaving. (#selendroid)
