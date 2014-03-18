@@ -216,3 +216,4 @@
 [2014-03-18 19:59:19] lukeis: appium is just wraps selendroid when testing against webviews (i'm not sure if they've incorporated chromedriver support for API19+ yet, but they likely will)
 [2014-03-18 19:59:39] lukeis: i intend to have selendroid use chromedriver for API19+ too though :)
 [2014-03-18 20:05:32] smccarthy: lukeis: awesome k.
+[2014-03-18 20:22:46] jlipps, joining. (#selendroid)
