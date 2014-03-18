@@ -170,3 +170,4 @@
 [2014-03-18 14:24:57] ddary, joining. (#selendroid)
 [2014-03-18 14:47:47] Dnilekkb, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-03-18 14:53:06] Dnilekkb, joining. (#selendroid)
+[2014-03-18 16:24:58] lukeis, joining. (#selendroid)
