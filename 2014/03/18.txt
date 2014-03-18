@@ -200,3 +200,4 @@
 [2014-03-18 17:39:43] *lukeis doesn't know the answer there'
 [2014-03-18 17:40:13] *lukeis only uses appium in saucelabs and doesn't rely on screenshots, instead I enjoy the videos :)'
 [2014-03-18 17:40:30] ddary: ah, I see
+[2014-03-18 17:59:40] ddary, quitting. (Quit: ddary)
