@@ -40,3 +40,16 @@
 [2014-03-18 09:08:59] mummana: nope it doesnt work similar to java
 [2014-03-18 09:09:06] mummana: code
 [2014-03-18 09:09:40] mummana: when i tried that python  code it was like starting the server in command prompt
+[2014-03-18 09:10:26] mummana: i need something which could start the sever as launchselendroid() does
+[2014-03-18 09:10:37] ddary: use jython
+[2014-03-18 09:10:37] mummana: in python bindings
+[2014-03-18 09:11:06] *ddary will not write the standalone in python'
+[2014-03-18 09:11:26] mummana: i have to wrte the code in python
+[2014-03-18 09:11:44] ddary: if i understand you correctly, you should have a look into jython
+[2014-03-18 09:12:01] ddary: there you can call java classes from pyhton
+[2014-03-18 09:12:27] ddary: i looked into that a while ago and it was relatively easy
+[2014-03-18 09:12:47] mummana: okay but i have python driver which will only drive the python code only thats y
+[2014-03-18 09:13:09] ddary: like that one: http://www.jython.org/archive/21/docs/usejava.html
+[2014-03-18 09:13:29] ddary: sorry, i still don't get your problem
+[2014-03-18 09:13:47] ddary: you can use the python driver to write the tests
+[2014-03-18 09:14:14] ddary: and if you wan to control the standalone, use jython to start the server
