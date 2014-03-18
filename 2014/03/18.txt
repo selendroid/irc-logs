@@ -222,3 +222,5 @@
 [2014-03-18 21:15:00] *lukeis can buy you a drink for the afternoon :)'
 [2014-03-18 21:15:04] jlipps: haha
 [2014-03-18 21:15:26] jlipps: yes sometime you owe me one
+[2014-03-18 21:52:35] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-03-18 21:53:57] friscodelrosario, joining. (#selendroid)
