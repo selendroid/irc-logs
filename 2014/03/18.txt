@@ -157,3 +157,4 @@
 [2014-03-18 09:48:09] mummana, quitting. (Quit: Page closed)
 [2014-03-18 09:48:11] ddary: you find it in the main readme
 [2014-03-18 09:48:16] Dnilekkb: cool
+[2014-03-18 09:59:05] ddary, leaving. (#selendroid)
