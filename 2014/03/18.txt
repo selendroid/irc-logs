@@ -164,3 +164,5 @@
 [2014-03-18 12:12:56] Dnilekkb, joining. (#selendroid)
 [2014-03-18 12:44:21] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-03-18 12:50:22] martink_, joining. (#selendroid)
+[2014-03-18 13:08:48] simonstewart, joining. (#selendroid)
+[2014-03-18 13:09:45] martink_, quitting. (Read error: Connection reset by peer)
