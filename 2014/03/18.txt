@@ -186,3 +186,5 @@
 [2014-03-18 16:29:58] ddary: that is a good one :)
 [2014-03-18 17:00:43] ddary, quitting. (Ping timeout: 264 seconds)
 [2014-03-18 17:14:56] lukeis: :snapshots
+[2014-03-18 17:15:07] lukeis: that link needs updating :)
+[2014-03-18 17:16:40] smccarthy, joining. (#selendroid)
