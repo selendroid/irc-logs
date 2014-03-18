@@ -118,3 +118,30 @@
 [2014-03-18 09:39:36] Dnilekkb: ?
 [2014-03-18 09:39:38] Dnilekkb: K
 [2014-03-18 09:39:40] ddary: :)
+[2014-03-18 09:40:06] Dnilekkb: thanks for the quick reply and all
+[2014-03-18 09:40:16] ddary: as i wrote on twitter, the emulator starting got improved
+[2014-03-18 09:40:24] ddary: what is currently not yet done
+[2014-03-18 09:40:39] Dnilekkb: i see
+[2014-03-18 09:40:40] ddary: is do check if the apps are installed already
+[2014-03-18 09:40:45] Dnilekkb: yea, i tried the emulator as well
+[2014-03-18 09:40:49] Dnilekkb: and things got a little messy
+[2014-03-18 09:41:06] Dnilekkb: the server seem to be quering "adb shell -s device_id ps" non stop
+[2014-03-18 09:41:12] ddary: that can lead to issues, if the installed app has not the same certificate than the selendroid-server
+[2014-03-18 09:41:15] Dnilekkb: while i did get a reply to that command
+[2014-03-18 09:41:40] Dnilekkb: with the emulator i tried to install with selendroid
+[2014-03-18 09:42:10] ddary: whould be great, if you can try with the latest selendroid-standalone 0.9-0 Snaphsot with the emulator and see if it works better
+[2014-03-18 09:42:40] Dnilekkb: ill have a look at that
+[2014-03-18 09:42:49] ddary: comming back to my previous point: but that should make it faster in most cases
+[2014-03-18 09:42:55] ddary: great
+[2014-03-18 09:43:09] ddary: the issue with this:  "adb shell -s device_id ps" non stop
+[2014-03-18 09:43:10] ddary: is
+[2014-03-18 09:43:29] ddary: i have not seen it yet, so therefore i cannot reproduce it
+[2014-03-18 09:43:39] ddary: and then it is hard to fix it
+[2014-03-18 09:43:40] Dnilekkb: scenario is:
+[2014-03-18 09:43:47] Dnilekkb: api 14 emulator
+[2014-03-18 09:44:03] Dnilekkb: 1024mb ram , 512 internal memory
+[2014-03-18 09:44:23] Dnilekkb: try to upload the app with selendroid standalone
+[2014-03-18 09:44:31] Dnilekkb: and you should be getting it
+[2014-03-18 09:44:36] Dnilekkb: using osx btw
+[2014-03-18 09:44:38] ddary: :note lukeis do you had the scenario where "adb shell -s device_id ps" runs non stop? Users seems still to have it, but i have never seen it.
+[2014-03-18 09:44:50] ddary: ok
