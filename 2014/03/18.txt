@@ -25,3 +25,10 @@
 [2014-03-18 08:49:32] mummana: so do we somethong like that in python
 [2014-03-18 08:49:33] mummana: ?
 [2014-03-18 08:49:47] ddary: yes, that works
+[2014-03-18 08:50:12] mummana: thats in java i want in python
+[2014-03-18 08:50:14] ddary: lukeis told you that a while ago, right?
+[2014-03-18 08:51:21] mummana: he dint told me about starting the server withing the code
+[2014-03-18 08:51:59] ddary: he did: https://github.com/selendroid/irc-logs/blob/56a728bcb7b21a05fe80194a975588a24eda5a05/2013/11/05.txt#L44
+[2014-03-18 08:52:00] ddary: :)
+[2014-03-18 08:53:09] mummana: but that aint working for me
+[2014-03-18 08:54:37] ddary: why?
