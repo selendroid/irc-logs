@@ -209,3 +209,9 @@
 [2014-03-18 18:59:08] lukeis: jlipps: umm, no it's not, i'll turn it back on in a bit… something killed the connection last night ;)
 [2014-03-18 19:09:04] jlipps, quitting. (Quit: Leaving.)
 [2014-03-18 19:15:19] smccarthy: what is the advantage of selendroid over appium ? If I am only concerned about Android, and mobile web testing (not an app, besides the default browser)
+[2014-03-18 19:55:10] friscodelrosario, joining. (#selendroid)
+[2014-03-18 19:57:33] friscodelrosario, quitting. (Client Quit)
+[2014-03-18 19:58:21] lukeis: smccarthy: appium uses selendroid for test Web on android.
+[2014-03-18 19:58:28] friscodelrosario, joining. (#selendroid)
+[2014-03-18 19:59:19] lukeis: appium is just wraps selendroid when testing against webviews (i'm not sure if they've incorporated chromedriver support for API19+ yet, but they likely will)
+[2014-03-18 19:59:39] lukeis: i intend to have selendroid use chromedriver for API19+ too though :)
