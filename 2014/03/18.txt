@@ -208,3 +208,4 @@
 [2014-03-18 18:42:27] jlipps: ddary in appium, screenshot commands are proxied to selendroid i believe
 [2014-03-18 18:59:08] lukeis: jlipps: umm, no it's not, i'll turn it back on in a bit… something killed the connection last night ;)
 [2014-03-18 19:09:04] jlipps, quitting. (Quit: Leaving.)
+[2014-03-18 19:15:19] smccarthy: what is the advantage of selendroid over appium ? If I am only concerned about Android, and mobile web testing (not an app, besides the default browser)
