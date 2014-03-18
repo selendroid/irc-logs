@@ -67,3 +67,18 @@
 [2014-03-18 09:27:16] ddary: As i said, i'm able to verify that a toast with a specific text is displayed.
 [2014-03-18 09:28:33] mummana: i dnt know how you did it even lukeis failed to verify the toast issue right>
 [2014-03-18 09:29:16] ddary: it was working in my app, maybe there is something special
+[2014-03-18 09:30:51] mummana: lol
+[2014-03-18 09:31:18] Dnilekkb, joining. (#selendroid)
+[2014-03-18 09:32:08] Dnilekkb: hey,
+[2014-03-18 09:32:11] Dnilekkb: anyone here?
+[2014-03-18 09:33:10] ddary: hi Dnilekkb
+[2014-03-18 09:33:17] Dnilekkb: hi ddary
+[2014-03-18 09:33:30] Dnilekkb: i was asking on twitter,
+[2014-03-18 09:33:39] ddary: about the speed, right?
+[2014-03-18 09:33:42] Dnilekkb: im having some serious speed issues
+[2014-03-18 09:33:44] Dnilekkb: indeed
+[2014-03-18 09:33:52] Dnilekkb: testive native apps on android 4.0.4 real device
+[2014-03-18 09:33:57] Dnilekkb: *testing
+[2014-03-18 09:34:12] ddary: is it only that platform Version?
+[2014-03-18 09:34:20] Dnilekkb: indeed
+[2014-03-18 09:34:34] Dnilekkb: well, for versions > 4.0.4 i use appium
