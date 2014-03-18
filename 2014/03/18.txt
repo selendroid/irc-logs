@@ -82,3 +82,39 @@
 [2014-03-18 09:34:12] ddary: is it only that platform Version?
 [2014-03-18 09:34:20] Dnilekkb: indeed
 [2014-03-18 09:34:34] Dnilekkb: well, for versions > 4.0.4 i use appium
+[2014-03-18 09:35:16] ddary: what is exactly slow
+[2014-03-18 09:35:21] Dnilekkb: are there any logs/info i can provide to see if there is actually an issue or is it simply slow because of the hw?
+[2014-03-18 09:35:27] Dnilekkb: wel,,
+[2014-03-18 09:35:39] ddary: because on my api version 15 device i have not seen the effecgt
+[2014-03-18 09:35:40] Dnilekkb: when a real device iis connected,
+[2014-03-18 09:35:42] ddary: *effect
+[2014-03-18 09:36:01] Dnilekkb: it seems it takes an awful lot of time to sign and install
+[2014-03-18 09:36:03] ddary: not really
+[2014-03-18 09:36:13] ddary: you can only grab the adb logcat
+[2014-03-18 09:36:20] Dnilekkb: i can do that
+[2014-03-18 09:36:33] ddary: sure, that is a thing you need to do
+[2014-03-18 09:36:40] ddary: you have to resign
+[2014-03-18 09:36:48] ddary: but if everyhting is installed
+[2014-03-18 09:36:53] Dnilekkb: im aware
+[2014-03-18 09:36:59] ddary: it is pretty fast, right?
+[2014-03-18 09:37:07] Dnilekkb: used to have a robo-remote setup with robotium
+[2014-03-18 09:37:18] ddary: because in some of my tests I can't even see how fast the interaction is
+[2014-03-18 09:37:48] Dnilekkb: i see
+[2014-03-18 09:37:51] Dnilekkb: well,
+[2014-03-18 09:38:04] Dnilekkb: the overall experience i got is not the fastest
+[2014-03-18 09:38:06] Dnilekkb: again,
+[2014-03-18 09:38:11] Dnilekkb: this might be because of the hw
+[2014-03-18 09:38:37] ddary: :note jlipps do you use in appium only the selendroid-server or the selendroid-standalone?
+[2014-03-18 09:38:53] Dnilekkb: with appium i dont use selendroid.
+[2014-03-18 09:38:54] ddary: what device do you use?
+[2014-03-18 09:38:59] Dnilekkb: right now im using selendroid standalone
+[2014-03-18 09:39:03] ddary: ok
+[2014-03-18 09:39:15] ddary: you should move to the latest snapshot version
+[2014-03-18 09:39:17] Dnilekkb: im using a philco 500 device
+[2014-03-18 09:39:24] ddary: sorry
+[2014-03-18 09:39:28] Dnilekkb: im on 0.8.0
+[2014-03-18 09:39:32] ddary: forget it
+[2014-03-18 09:39:34] ddary: my fault
+[2014-03-18 09:39:36] Dnilekkb: ?
+[2014-03-18 09:39:38] Dnilekkb: K
+[2014-03-18 09:39:40] ddary: :)
