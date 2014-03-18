@@ -32,3 +32,5 @@
 [2014-03-18 08:52:00] ddary: :)
 [2014-03-18 08:53:09] mummana: but that aint working for me
 [2014-03-18 08:54:37] ddary: why?
+[2014-03-18 09:03:16] mummana: its like stratin the server in cmd
+[2014-03-18 09:04:11] ddary: sorry, i don't get you
