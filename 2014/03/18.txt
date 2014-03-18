@@ -34,3 +34,9 @@
 [2014-03-18 08:54:37] ddary: why?
 [2014-03-18 09:03:16] mummana: its like stratin the server in cmd
 [2014-03-18 09:04:11] ddary: sorry, i don't get you
+[2014-03-18 09:06:28] mummana: that code similar to starting of server in command prompt
+[2014-03-18 09:07:02] mummana: it doesnt get executed unless and until you dnt open the browser
+[2014-03-18 09:08:26] ddary: don't you have something in like @Before in Junit?
+[2014-03-18 09:08:59] mummana: nope it doesnt work similar to java
+[2014-03-18 09:09:06] mummana: code
+[2014-03-18 09:09:40] mummana: when i tried that python  code it was like starting the server in command prompt
