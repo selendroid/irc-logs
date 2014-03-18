@@ -10,3 +10,18 @@
 [2014-03-18 07:38:41] mummana: hey guys
 [2014-03-18 07:38:43] mummana: i have a doubt
 [2014-03-18 08:43:48] ddary, joining. (#selendroid)
+[2014-03-18 08:45:30] mummana: hi dary
+[2014-03-18 08:45:38] ddary: hi mummana
+[2014-03-18 08:45:51] mummana: how are you
+[2014-03-18 08:45:58] ddary: fine, adn you?
+[2014-03-18 08:46:06] mummana: m good
+[2014-03-18 08:46:18] ddary: :)
+[2014-03-18 08:46:32] mummana: well my doubt is can we intrgrte  selendroid with robotframework>
+[2014-03-18 08:46:57] ddary: i have not used robot framework
+[2014-03-18 08:47:13] ddary: if robotframework uses webdriver it should work
+[2014-03-18 08:47:46] mummana: okay well do we have code for start the serever wihin the script using python
+[2014-03-18 08:48:00] mummana: *starting the server
+[2014-03-18 08:49:20] mummana: like in selendroid website you guys used launchselendroid()
+[2014-03-18 08:49:32] mummana: so do we somethong like that in python
+[2014-03-18 08:49:33] mummana: ?
+[2014-03-18 08:49:47] ddary: yes, that works
