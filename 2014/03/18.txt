@@ -202,3 +202,4 @@
 [2014-03-18 17:40:30] ddary: ah, I see
 [2014-03-18 17:59:40] ddary, quitting. (Quit: ddary)
 [2014-03-18 18:10:44] Dnilekkb, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-03-18 18:32:52] gimpneek, leaving. (#selendroid)
