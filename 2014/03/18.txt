@@ -171,3 +171,16 @@
 [2014-03-18 14:47:47] Dnilekkb, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-03-18 14:53:06] Dnilekkb, joining. (#selendroid)
 [2014-03-18 16:24:58] lukeis, joining. (#selendroid)
+[2014-03-18 16:26:03] lukeis: non-stop? no… that has a timeout built in, unless the process it's looking for is never stopping
+[2014-03-18 16:26:24] ddary: some users are reporting that
+[2014-03-18 16:26:42] ddary: what is it trying to do?
+[2014-03-18 16:26:48] lukeis: can they describe what the emulator is doing?
+[2014-03-18 16:26:52] ddary: :D
+[2014-03-18 16:27:07] lukeis: it's trying to make sure that the emulator is in a 'usable' state before install
+[2014-03-18 16:27:54] lukeis: namely by launching the 'app launcher' button and waiting for the process (that normally is running when android shows the 'busy' icon and is loading the apps that are installed)
+[2014-03-18 16:29:02] ddary: the question is only, how can we help the people to fix the issue, if this runs "endless"
+[2014-03-18 16:29:06] lukeis: we did that because it increased the likelihood of being able to install the apk on the device (without getting strange errors)
+[2014-03-18 16:29:17] ddary: recommend to delete the emulator and recreate it?
+[2014-03-18 16:29:24] lukeis: probably
+[2014-03-18 16:29:44] lukeis: and stop using windows ;)
+[2014-03-18 16:29:58] ddary: that is a good one :)
