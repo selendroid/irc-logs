@@ -6,3 +6,6 @@
 [2014-03-18 02:56:25] friscodelrosario, joining. (#selendroid)
 [2014-03-18 04:56:19] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-03-18 06:20:11] smccarthy, quitting. (Remote host closed the connection)
+[2014-03-18 07:38:15] mummana, joining. (#selendroid)
+[2014-03-18 07:38:41] mummana: hey guys
+[2014-03-18 07:38:43] mummana: i have a doubt
