@@ -224,3 +224,4 @@
 [2014-03-18 21:15:26] jlipps: yes sometime you owe me one
 [2014-03-18 21:52:35] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-03-18 21:53:57] friscodelrosario, joining. (#selendroid)
+[2014-03-18 23:22:07] jlipps, quitting. (Ping timeout: 264 seconds)
