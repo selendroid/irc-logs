@@ -189,3 +189,12 @@
 [2014-03-18 17:15:07] lukeis: that link needs updating :)
 [2014-03-18 17:16:40] smccarthy, joining. (#selendroid)
 [2014-03-18 17:23:45] ddary, joining. (#selendroid)
+[2014-03-18 17:38:20] jlipps, joining. (#selendroid)
+[2014-03-18 17:38:46] lukeis: i could have answered that if I saw it ;)
+[2014-03-18 17:38:50] jlipps: haha
+[2014-03-18 17:38:56] ddary: :)
+[2014-03-18 17:39:01] lukeis: selendroid-server
+[2014-03-18 17:39:06] ddary: ok
+[2014-03-18 17:39:23] ddary: and screenshots are taken via selendroid or appium?
+[2014-03-18 17:39:34] *ddary is just asking'
+[2014-03-18 17:39:43] *lukeis doesn't know the answer there'
