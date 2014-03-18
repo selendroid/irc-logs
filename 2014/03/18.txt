@@ -59,3 +59,11 @@
 [2014-03-18 09:21:30] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/QVdQcQ
 [2014-03-18 09:21:30] selendroid-git: selendroid/master 627eca6 Dominik Dary: Update changelog.md
 [2014-03-18 09:21:30] selendroid-git, leaving. (#selendroid)
+[2014-03-18 09:25:21] mummana: any idea when selenium3.0 will release
+[2014-03-18 09:25:39] ddary: no
+[2014-03-18 09:25:49] ddary: i guess there are still things to do
+[2014-03-18 09:26:03] mummana: okay and wt about that toast issue?
+[2014-03-18 09:26:26] ddary: http://code.google.com/p/selenium/wiki/ShippingSelenium3
+[2014-03-18 09:27:16] ddary: As i said, i'm able to verify that a toast with a specific text is displayed.
+[2014-03-18 09:28:33] mummana: i dnt know how you did it even lukeis failed to verify the toast issue right>
+[2014-03-18 09:29:16] ddary: it was working in my app, maybe there is something special
