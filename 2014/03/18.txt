@@ -53,3 +53,5 @@
 [2014-03-18 09:13:29] ddary: sorry, i still don't get your problem
 [2014-03-18 09:13:47] ddary: you can use the python driver to write the tests
 [2014-03-18 09:14:14] ddary: and if you wan to control the standalone, use jython to start the server
+[2014-03-18 09:15:16] mummana: hmmmm im trying to integrate selendriod with robotframework where robotframework uses python bindings
+[2014-03-18 09:16:15] mummana: so while working on that i came across an issue which could be only solved by using the methond lauchselendroid() in python
