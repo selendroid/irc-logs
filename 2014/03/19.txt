@@ -21,3 +21,12 @@
 [2014-03-19 16:28:01] lukeis, joining. (#selendroid)
 [2014-03-19 16:48:01] smccarthy, joining. (#selendroid)
 [2014-03-19 16:58:32] jlipps, joining. (#selendroid)
+[2014-03-19 17:12:17] lukeis: jlipps: my note apparently didn't work… https://github.com/selendroid/irc-logs/blob/master/2014/03/19.txt#L6
+[2014-03-19 17:12:36] jlipps: lukeis:  oh i did get that when i logged on at 5am this morning
+[2014-03-19 17:12:46] lukeis: ahh :)
+[2014-03-19 17:12:48] jlipps: but i did not understand it. however, i don't need to. free beers are not to be questioned
+[2014-03-19 17:12:56] jlipps: is the issue resolved?
+[2014-03-19 17:13:35] jlipps: or what prompts this generosity
+[2014-03-19 17:13:57] lukeis: yes… my build process due to other developers mucking with it… was uploading 0 byte files for the apk
+[2014-03-19 17:14:00] *lukeis facepalm'
+[2014-03-19 17:14:39] jlipps: lol!
