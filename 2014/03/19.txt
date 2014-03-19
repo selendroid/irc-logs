@@ -92,3 +92,6 @@
 [2014-03-19 20:23:47] ddary: like it :)
 [2014-03-19 20:26:23] jlipps, quitting. (Read error: Connection reset by peer)
 [2014-03-19 20:26:45] jlipps, joining. (#selendroid)
+[2014-03-19 20:31:39] ddary: have a good day/evening !
+[2014-03-19 20:31:43] ddary: bye
+[2014-03-19 20:31:49] ddary, leaving. (#selendroid)
