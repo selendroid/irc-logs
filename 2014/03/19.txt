@@ -44,3 +44,4 @@
 [2014-03-19 17:18:11] lukeis: the last part i wasn't aware of (the build process change) and have scolded the team for that ;)
 [2014-03-19 17:18:33] jlipps: haha. ok
 [2014-03-19 17:18:34] lukeis: change the build! but don't tell the guy who's responsible for making sure it still works!
+[2014-03-19 17:20:35] lukeis: in other news, we had 0 tests fail on the first run when I fixed the apk upload (surprisingly not a normal occurrance ;) )
