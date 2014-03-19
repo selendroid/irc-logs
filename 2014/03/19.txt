@@ -101,3 +101,5 @@
 [2014-03-19 20:59:52] friscodelrosario, joining. (#selendroid)
 [2014-03-19 21:00:55] friscodelrosario: Hi, Luke. Thanks for your Google Group answer. How about I pull those APK, and re-sign them?
 [2014-03-19 21:07:17] jlipps1, joining. (#selendroid)
+[2014-03-19 21:12:08] jlipps, quitting. (Ping timeout: 263 seconds)
+[2014-03-19 21:14:06] lukeis: friscodelrosario: sure, if you can :)
