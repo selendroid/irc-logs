@@ -30,3 +30,17 @@
 [2014-03-19 17:13:57] lukeis: yes… my build process due to other developers mucking with it… was uploading 0 byte files for the apk
 [2014-03-19 17:14:00] *lukeis facepalm'
 [2014-03-19 17:14:39] jlipps: lol!
+[2014-03-19 17:15:39] jlipps: that's awesome. well glad to hear it got resolved. and per your note that there should be a better error message--absolutely
+[2014-03-19 17:15:55] lukeis: :)
+[2014-03-19 17:16:05] jlipps: it's a bad part of our architecture that the error is "browser failed to start" and the appium logs are not saved
+[2014-03-19 17:16:10] jlipps: that's high on my list of things to change!
+[2014-03-19 17:16:27] jlipps: even if the appium logs were still there, it'd be pretty easy to see what's going on
+[2014-03-19 17:16:45] lukeis: yeah, likely
+[2014-03-19 17:17:08] lukeis: there was a perfect storm of change that happened yesterday to cause me to spend far too long narrowing down what was wrong
+[2014-03-19 17:17:18] jlipps: sigh
+[2014-03-19 17:17:29] lukeis: sauce outage + build server swap out + build process change
+[2014-03-19 17:17:30] jlipps: well thanks for following up. glad i can get back to your other issues now :-)
+[2014-03-19 17:17:37] lukeis: ;)
+[2014-03-19 17:18:11] lukeis: the last part i wasn't aware of (the build process change) and have scolded the team for that ;)
+[2014-03-19 17:18:33] jlipps: haha. ok
+[2014-03-19 17:18:34] lukeis: change the build! but don't tell the guy who's responsible for making sure it still works!
