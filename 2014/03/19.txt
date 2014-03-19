@@ -57,3 +57,4 @@
 [2014-03-19 18:27:20] Dnilekkb_, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-03-19 18:36:48] friscodelrosario, joining. (#selendroid)
 [2014-03-19 19:09:31] simonstewart, quitting. (Quit: simonstewart)
+[2014-03-19 19:19:55] simonstewart, joining. (#selendroid)
