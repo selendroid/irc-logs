@@ -64,3 +64,17 @@
 [2014-03-19 20:06:23] ddary: lukeis: with regards to the release: i have nothing pending yet. simon said he has the netty diff in the pipeline...
 [2014-03-19 20:08:48] lukeis: simonstewart: bah, i trust nothing that man says :)
 [2014-03-19 20:09:10] ddary: :)
+[2014-03-19 20:10:05] lukeis: i was hoping to work on offline (airplane) mode very very soon though… and it would a shame to do another release soon after in order to get it into saucelabs :) (jlipps fyi…)
+[2014-03-19 20:10:35] lukeis: but I don't mind doing multiple releases...
+[2014-03-19 20:10:50] ddary: the latest we can do a release is next week wednesday: the day before i leave to russia
+[2014-03-19 20:10:53] jlipps: whenever you guys want a new release in appium, just let me know. you can even do it yourselves if you want!
+[2014-03-19 20:11:32] lukeis: that would likely only be me attempting to do so ;)
+[2014-03-19 20:12:37] lukeis: ddary: you know i can do a release without you, right? :) (i have all the keys! muahhahahah)
+[2014-03-19 20:12:51] ddary: yeah, i know
+[2014-03-19 20:13:06] ddary: i just wanted to annouce the new release on the conference ;-)
+[2014-03-19 20:13:32] lukeis: oh, then yeah… let's do so :)
+[2014-03-19 20:13:53] lukeis: once I kick this current blackberry stuff to the curb i have a few changes i need to do to selendroid
+[2014-03-19 20:14:08] lukeis: (yeah… me… working on blackberry right now… UGH)
+[2014-03-19 20:14:23] ddary: currently the changelog is already long for 0.9.0
+[2014-03-19 20:14:39] lukeis: yeah, i don't mind 0.9 being released as is...
+[2014-03-19 20:14:53] lukeis: the -aut replacement for -installedApp isn't what I'd like it to be though
