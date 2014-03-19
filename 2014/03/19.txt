@@ -99,3 +99,4 @@
 [2014-03-19 20:46:43] ddary, joining. (#selendroid)
 [2014-03-19 20:46:43] ddary, quitting. (Client Quit)
 [2014-03-19 20:59:52] friscodelrosario, joining. (#selendroid)
+[2014-03-19 21:00:55] friscodelrosario: Hi, Luke. Thanks for your Google Group answer. How about I pull those APK, and re-sign them?
