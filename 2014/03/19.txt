@@ -11,3 +11,4 @@
 [2014-03-19 09:07:48] ddary, quitting. (Ping timeout: 255 seconds)
 [2014-03-19 09:54:04] Dnilekkb, joining. (#selendroid)
 [2014-03-19 11:44:27] gimpneek, joining. (#selendroid)
+[2014-03-19 11:51:28] Dnilekkb, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
