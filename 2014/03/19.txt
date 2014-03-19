@@ -12,3 +12,5 @@
 [2014-03-19 09:54:04] Dnilekkb, joining. (#selendroid)
 [2014-03-19 11:44:27] gimpneek, joining. (#selendroid)
 [2014-03-19 11:51:28] Dnilekkb, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-03-19 13:12:13] jlipps, joining. (#selendroid)
+[2014-03-19 13:12:33] ddary, joining. (#selendroid)
