@@ -10,3 +10,4 @@
 [2014-03-19 08:50:59] ddary: :log
 [2014-03-19 09:07:48] ddary, quitting. (Ping timeout: 255 seconds)
 [2014-03-19 09:54:04] Dnilekkb, joining. (#selendroid)
+[2014-03-19 11:44:27] gimpneek, joining. (#selendroid)
