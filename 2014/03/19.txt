@@ -87,3 +87,6 @@
 [2014-03-19 20:17:09] ddary: i started to work on that, but the issue was also, that allways all the apps are installed instead of the needed ones
 [2014-03-19 20:17:40] ddary: there is this map of apps to install, and from my perspective this doesn't make sense
 [2014-03-19 20:17:52] ddary: will see, maybe i have tomorrow some time
+[2014-03-19 20:22:45] lukeis: i'm going to copy / paste that response now… a lot… for the selendroid issues ;)
+[2014-03-19 20:23:07] lukeis: #334
+[2014-03-19 20:23:47] ddary: like it :)
