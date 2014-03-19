@@ -48,3 +48,5 @@
 [2014-03-19 17:26:29] jlipps: wow that's pretty cool
 [2014-03-19 17:29:19] jlipps: when's next selendroid release due?
 [2014-03-19 17:29:48] lukeis: we don't really have dates, just when dominik and I feel like it ;)
+[2014-03-19 17:30:25] lukeis: not sure if he has anything pending he wanted in before releasing, usually I check with him first about it
+[2014-03-19 17:30:41] lukeis: (i've only done one release though :) )
