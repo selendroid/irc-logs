@@ -33,3 +33,11 @@
 [2014-03-20 16:38:23] ddary, joining. (#selendroid)
 [2014-03-20 16:44:38] gimpneek, quitting. (Remote host closed the connection)
 [2014-03-20 17:21:24] gimpneek, joining. (#selendroid)
+[2014-03-20 17:32:34] ddary: hey lukeis
+[2014-03-20 17:32:53] ddary: just wanted to say, i have nothing else now in the pipeline
+[2014-03-20 17:33:13] ddary: so if you are fine with the latest commit, I can do a release
+[2014-03-20 17:33:19] lukeis: ok :) I don't immediately either, so release it :)
+[2014-03-20 17:33:30] ddary: ok
+[2014-03-20 17:33:38] lukeis: i haven't tested the last commit out, but I believe ya it'll work ;)
+[2014-03-20 17:33:50] ddary: ;-)
+[2014-03-20 17:34:23] ddary, quitting. (Quit: ddary)
