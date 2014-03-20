@@ -22,3 +22,5 @@
 [2014-03-20 13:02:40] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/gwVGTQ
 [2014-03-20 13:02:40] selendroid-git: selendroid/master 0d561a5 Dominik Dary: Minimized create session time by skipping installation of the app under...
 [2014-03-20 13:02:40] selendroid-git, leaving. (#selendroid)
+[2014-03-20 13:11:08] ddary, joining. (#selendroid)
+[2014-03-20 13:12:05] ddary: :note lukeis Please have a look at https://github.com/selendroid/selendroid/commit/0d561a51ab2debe3be50b40f9fd1576363420ff6
