@@ -4,3 +4,4 @@
 [2014-03-20 03:40:17] jlipps, joining. (#selendroid)
 [2014-03-20 03:44:42] friscodelrosario, joining. (#selendroid)
 [2014-03-20 03:59:50] friscodelrosario: If I've got an emulator running, how do I change my script so that it doesn't err while looking for an emulator?
+[2014-03-20 05:09:43] smccarthy, quitting. (Remote host closed the connection)
