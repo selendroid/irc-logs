@@ -48,3 +48,4 @@
 [2014-03-20 19:10:58] simonstewart, quitting. (Ping timeout: 240 seconds)
 [2014-03-20 19:23:39] jlipps, joining. (#selendroid)
 [2014-03-20 19:25:31] simonstewart, joining. (#selendroid)
+[2014-03-20 20:09:14] simonstewart, leaving. (#selendroid)
