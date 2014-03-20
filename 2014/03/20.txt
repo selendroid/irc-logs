@@ -6,3 +6,4 @@
 [2014-03-20 03:59:50] friscodelrosario: If I've got an emulator running, how do I change my script so that it doesn't err while looking for an emulator?
 [2014-03-20 05:09:43] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-20 05:19:14] jlipps, quitting. (Quit: Leaving.)
+[2014-03-20 05:44:45] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
