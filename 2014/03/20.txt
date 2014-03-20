@@ -17,3 +17,4 @@
 [2014-03-20 08:28:27] ddary: :log
 [2014-03-20 08:29:31] ddary: :note friscodelrosario if you want to use already started emulators, selendroid version 0.9.0-Snapshot is recommended and then it should work out of the box
 [2014-03-20 09:51:39] ddary, quitting. (Quit: ddary)
+[2014-03-20 11:14:17] gimpneek, joining. (#selendroid)
