@@ -49,3 +49,5 @@
 [2014-03-20 19:23:39] jlipps, joining. (#selendroid)
 [2014-03-20 19:25:31] simonstewart, joining. (#selendroid)
 [2014-03-20 20:09:14] simonstewart, leaving. (#selendroid)
+[2014-03-20 22:03:45] lukeis: :snapshot
+[2014-03-20 22:03:51] lukeis: dang it ;)
