@@ -35,3 +35,8 @@
 [2014-03-21 17:55:43] gimpneek, quitting. (Remote host closed the connection)
 [2014-03-21 18:58:13] ddary, joining. (#selendroid)
 [2014-03-21 19:00:44] ddary: hi all
+[2014-03-21 19:06:19] smccarthy: hi
+[2014-03-21 19:07:58] lukeis: hello, up late on a friday? :)
+[2014-03-21 19:08:26] ddary: we have a scala tech talk in San Jose and I can attend remotely
+[2014-03-21 19:08:37] ddary: will see if it is interesting :-)
+[2014-03-21 19:08:52] lukeis: heh
