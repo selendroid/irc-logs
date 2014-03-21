@@ -16,3 +16,4 @@
 [2014-03-21 08:29:21] selendroid-git: [selendroid] DominikDary tagged 0.9.0 at a477ef9: http://git.io/kUd_AQ
 [2014-03-21 08:29:21] selendroid-git, leaving. (#selendroid)
 [2014-03-21 09:15:06] ddary, quitting. (Quit: ddary)
+[2014-03-21 09:30:49] ddary, joining. (#selendroid)
