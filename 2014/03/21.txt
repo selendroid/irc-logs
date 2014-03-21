@@ -28,3 +28,4 @@
 [2014-03-21 11:43:30] gimpneek, joining. (#selendroid)
 [2014-03-21 15:04:56] ddary, quitting. (Ping timeout: 246 seconds)
 [2014-03-21 15:49:05] ddary, joining. (#selendroid)
+[2014-03-21 16:54:26] ddary, leaving. (#selendroid)
