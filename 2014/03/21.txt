@@ -40,3 +40,4 @@
 [2014-03-21 19:08:26] ddary: we have a scala tech talk in San Jose and I can attend remotely
 [2014-03-21 19:08:37] ddary: will see if it is interesting :-)
 [2014-03-21 19:08:52] lukeis: heh
+[2014-03-21 19:55:31] ddary, quitting. (Quit: ddary)
