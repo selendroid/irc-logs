@@ -34,3 +34,4 @@
 [2014-03-21 17:26:18] smccarthy, joining. (#selendroid)
 [2014-03-21 17:55:43] gimpneek, quitting. (Remote host closed the connection)
 [2014-03-21 18:58:13] ddary, joining. (#selendroid)
+[2014-03-21 19:00:44] ddary: hi all
