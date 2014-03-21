@@ -4,3 +4,4 @@
 [2014-03-21 01:00:38] jlipps: when doing selendroid webview tests
 [2014-03-21 03:06:09] jlipps, quitting. (Quit: Leaving.)
 [2014-03-21 03:23:45] smccarthy, joining. (#selendroid)
+[2014-03-21 05:49:33] smccarthy, quitting. (Remote host closed the connection)
