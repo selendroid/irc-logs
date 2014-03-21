@@ -1,2 +1,4 @@
 [2014-03-21 00:02:58] lukeis, quitting. (Quit: Leaving.)
 [2014-03-21 00:45:45] smccarthy, quitting. (Remote host closed the connection)
+[2014-03-21 01:00:31] jlipps: hey lukeis did you guys change the selendroid test app webserver? i keep getting "webpage not available" at localhost:4450
+[2014-03-21 01:00:38] jlipps: when doing selendroid webview tests
