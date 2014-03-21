@@ -3,3 +3,4 @@
 [2014-03-21 01:00:31] jlipps: hey lukeis did you guys change the selendroid test app webserver? i keep getting "webpage not available" at localhost:4450
 [2014-03-21 01:00:38] jlipps: when doing selendroid webview tests
 [2014-03-21 03:06:09] jlipps, quitting. (Quit: Leaving.)
+[2014-03-21 03:23:45] smccarthy, joining. (#selendroid)
