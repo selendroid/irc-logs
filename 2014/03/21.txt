@@ -17,3 +17,12 @@
 [2014-03-21 08:29:21] selendroid-git, leaving. (#selendroid)
 [2014-03-21 09:15:06] ddary, quitting. (Quit: ddary)
 [2014-03-21 09:30:49] ddary, joining. (#selendroid)
+[2014-03-21 11:41:39] selendroid-git, joining. (#selendroid)
+[2014-03-21 11:41:39] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/Cn6cBg
+[2014-03-21 11:41:39] selendroid-git: selendroid/master 869c0d3 Dominik Dary: returning on the status page 'platformVersion' instead of 'targetVersion'.
+[2014-03-21 11:41:39] selendroid-git, leaving. (#selendroid)
+[2014-03-21 11:42:22] selendroid-git, joining. (#selendroid)
+[2014-03-21 11:42:22] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/oCEtRA
+[2014-03-21 11:42:22] selendroid-git: selendroid/master 20e0fbb Dominik Dary: changelog update
+[2014-03-21 11:42:22] selendroid-git, leaving. (#selendroid)
+[2014-03-21 11:43:30] gimpneek, joining. (#selendroid)
