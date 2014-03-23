@@ -9,3 +9,4 @@
 [2014-03-23 16:00:04] smccarthy, joining. (#selendroid)
 [2014-03-23 17:05:29] Dnilekkb, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-03-23 17:19:38] Dnilekkb, joining. (#selendroid)
+[2014-03-23 17:42:59] Dnilekkb, quitting. (Quit: Textual IRC Client: www.textualapp.com)
