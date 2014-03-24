@@ -22,3 +22,14 @@
 [2014-03-24 16:08:33] ddary, quitting. (Quit: Page closed)
 [2014-03-24 16:23:29] lukeis, joining. (#selendroid)
 [2014-03-24 16:47:50] smccarthy, joining. (#selendroid)
+[2014-03-24 17:50:37] gimpneek: Hi all, Looking for some help with gestures. Anyone have experience using these?
+[2014-03-24 17:52:03] gimpneek: I've kind of fallen at the first hurdle. I've added the "HasTouchScreen" capability when setting up my remoteWebDriver but when I try to use flick on an element I get a cannot cast to HasTouchScreen exception
+[2014-03-24 17:52:19] lukeis: the gesture implementation is still a bit lacking, basically all I do is flick's and touch down / move's
+[2014-03-24 17:52:47] lukeis: you need to Augment your driver then
+[2014-03-24 17:52:54] gimpneek: I've tried that too
+[2014-03-24 17:53:28] lukeis: WebDriver augmentedDriver = new Augmenter().augment(driver);   ?
+[2014-03-24 17:53:55] lukeis: or you can directly consume / use the SelendroidDriver provided by this project
+[2014-03-24 17:53:59] gimpneek: if it helps im using Scala instead of Java for this so I have val augmentedDriver = new Augmenter().augment(Env.browser.webDriver)
+[2014-03-24 17:54:11] lukeis: is that implemented in scala?
+[2014-03-24 17:54:24] *lukeis has no idea about scala or it's implementation with Selenium'
+[2014-03-24 17:54:43] gimpneek: it's using a Java library called Fluentlenium
