@@ -55,3 +55,7 @@
 [2014-03-24 19:11:25] depp: any input/thoughts would be helpful.
 [2014-03-24 20:11:28] depp, quitting. (Ping timeout: 245 seconds)
 [2014-03-24 21:09:44] smccarthy2, quitting. (Remote host closed the connection)
+[2014-03-24 21:10:19] smccarthy, joining. (#selendroid)
+[2014-03-24 21:10:55] smccarthy2, joining. (#selendroid)
+[2014-03-24 21:14:57] smccarthy, quitting. (Ping timeout: 265 seconds)
+[2014-03-24 21:15:01] smccarth_, joining. (#selendroid)
