@@ -41,3 +41,4 @@
 [2014-03-24 18:02:28] gimpneek: Awesome I'll try that thanks
 [2014-03-24 18:14:39] smccarthy2, joining. (#selendroid)
 [2014-03-24 18:18:32] smccarthy, quitting. (Ping timeout: 265 seconds)
+[2014-03-24 18:36:20] gimpneek: lukeis: got it working now thanks mate :)
