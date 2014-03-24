@@ -43,3 +43,10 @@
 [2014-03-24 18:18:32] smccarthy, quitting. (Ping timeout: 265 seconds)
 [2014-03-24 18:36:20] gimpneek: lukeis: got it working now thanks mate :)
 [2014-03-24 18:58:23] gimpneek, quitting. (Remote host closed the connection)
+[2014-03-24 19:06:18] depp, joining. (#selendroid)
+[2014-03-24 19:06:58] depp: Hi Guys, have a question need your help.
+[2014-03-24 19:07:23] depp: I was referring to quick start document at http://selendroid.io/quickStart.html
+[2014-03-24 19:07:41] depp: and noticed this command
+[2014-03-24 19:07:41] depp: java -jar selendroid-standalone-0.9.0-with-dependencies.jar -aut EmployeeDirectory.apk -aut selendroid-test-app-0.9.0.apk"
+[2014-03-24 19:08:16] depp: this command shows that selendroid can take 2 apk as input ( 2 or more, if i pass those, right)?
+[2014-03-24 19:09:19] depp: i am working on automating a set of apk which are kinda of interlinked. that is have a central apk file which is first invoked and then it act as a key provider for other apk files which are launched.
