@@ -40,3 +40,4 @@
 [2014-03-24 17:58:22] lukeis: it's certainly easier to declare an implementation that includes the interfaces
 [2014-03-24 18:02:28] gimpneek: Awesome I'll try that thanks
 [2014-03-24 18:14:39] smccarthy2, joining. (#selendroid)
+[2014-03-24 18:18:32] smccarthy, quitting. (Ping timeout: 265 seconds)
