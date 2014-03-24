@@ -38,3 +38,4 @@
 [2014-03-24 17:57:45] gimpneek: sorry by browser i mean webdriver
 [2014-03-24 17:58:02] lukeis: here's SelendroidDriver:  https://github.com/selendroid/selendroid/blob/master/selendroid-client/src/main/java/io/selendroid/SelendroidDriver.java
 [2014-03-24 17:58:22] lukeis: it's certainly easier to declare an implementation that includes the interfaces
+[2014-03-24 18:02:28] gimpneek: Awesome I'll try that thanks
