@@ -13,3 +13,4 @@
 [2014-03-24 10:07:31] selendroid-git: selendroid/master 83f5fe8 Dominik Dary: Fixing typo, no logical change
 [2014-03-24 10:07:32] selendroid-git: selendroid/master a866684 Dominik Dary: Removing unused code, no logical change
 [2014-03-24 10:07:32] selendroid-git, leaving. (#selendroid)
+[2014-03-24 10:57:02] gimpneek, joining. (#selendroid)
