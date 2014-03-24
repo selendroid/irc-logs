@@ -42,3 +42,4 @@
 [2014-03-24 18:14:39] smccarthy2, joining. (#selendroid)
 [2014-03-24 18:18:32] smccarthy, quitting. (Ping timeout: 265 seconds)
 [2014-03-24 18:36:20] gimpneek: lukeis: got it working now thanks mate :)
+[2014-03-24 18:58:23] gimpneek, quitting. (Remote host closed the connection)
