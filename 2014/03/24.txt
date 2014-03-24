@@ -17,3 +17,4 @@
 [2014-03-24 11:52:33] ddary, leaving. (#selendroid)
 [2014-03-24 13:13:31] martink_, joining. (#selendroid)
 [2014-03-24 13:51:28] sirsteve, joining. (#selendroid)
+[2014-03-24 13:59:19] martink_, quitting. (Ping timeout: 264 seconds)
