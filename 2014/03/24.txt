@@ -53,3 +53,4 @@
 [2014-03-24 19:11:08] depp: now the problem is if how we can create different selendroid server apk and put all of them at same time on our device?
 [2014-03-24 19:11:08] depp: - mvn install -Dandroid.renameInstrumentationTargetPackage=io.selendroid.testapp
 [2014-03-24 19:11:25] depp: any input/thoughts would be helpful.
+[2014-03-24 20:11:28] depp, quitting. (Ping timeout: 245 seconds)
