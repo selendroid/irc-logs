@@ -1,3 +1,5 @@
 [2014-03-25 00:07:05] lukeis, quitting. (Quit: Leaving.)
 [2014-03-25 00:51:36] smccarth_, quitting. (Remote host closed the connection)
 [2014-03-25 03:14:26] smccarthy, joining. (#selendroid)
+[2014-03-25 04:20:01] depp, joining. (#selendroid)
+[2014-03-25 04:21:31] depp, quitting. (Client Quit)
