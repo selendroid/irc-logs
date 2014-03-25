@@ -6,3 +6,4 @@
 [2014-03-25 05:43:20] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-25 10:43:58] Dnilekkb, joining. (#selendroid)
 [2014-03-25 11:33:28] Dnilekkb, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-03-25 11:39:59] gimpneek, joining. (#selendroid)
