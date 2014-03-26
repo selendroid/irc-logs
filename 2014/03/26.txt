@@ -57,3 +57,4 @@
 [2014-03-26 21:59:10] samuelhorwitz: ill see in a few
 [2014-03-26 21:59:58] lukeis: biab… meeting time
 [2014-03-26 22:00:00] lukeis, quitting. (Quit: Leaving.)
+[2014-03-26 23:00:11] lukeis, joining. (#selendroid)
