@@ -25,3 +25,20 @@
 [2014-03-26 21:06:56] samuelhorwitz: yo
 [2014-03-26 21:07:00] samuelhorwitz: haha makes more sense to discuss here
 [2014-03-26 21:07:07] lukeis: yep ;)
+[2014-03-26 21:51:47] samuelhorwitz: hey I just got distracted.. I'm trying to run all this selendroid stuff but when I start it all up I get attempts at async script execution but nothing actually running
+[2014-03-26 21:51:49] samuelhorwitz: i also see a lot of
+[2014-03-26 21:51:51] samuelhorwitz: LOGGER PLS
+[2014-03-26 21:51:57] samuelhorwitz: and
+[2014-03-26 21:51:57] samuelhorwitz: HEREREEEE
+[2014-03-26 21:52:05] samuelhorwitz: is this something residual I left in or is that you
+[2014-03-26 21:52:12] samuelhorwitz: I cant find it in the selendroid checkout I have
+[2014-03-26 21:52:42] lukeis: heh… i don't know? didn't think so, but i can look
+[2014-03-26 21:52:59] samuelhorwitz: dont worry about it lol.. I'm still getting a handle on all this
+[2014-03-26 21:53:00] lukeis: where is the logging at?
+[2014-03-26 21:53:10] samuelhorwitz: W/System.err( 2246): ASYNC SCRIPT EXECUTION I/System.out( 2246): execute async script command I/System.out( 2246): LOGGER PLS W/System.err( 2246): HEREREEEE
+[2014-03-26 21:53:12] samuelhorwitz: things like that
+[2014-03-26 21:53:23] lukeis: ok in logcat
+[2014-03-26 21:53:44] lukeis: running against an app? or just regular selendroid?
+[2014-03-26 21:53:54] lukeis: (selendroid webview that is)
+[2014-03-26 21:54:48] samuelhorwitz: I'm just running it in the webview app
+[2014-03-26 21:55:00] samuelhorwitz: it could very well be something from when i tried to mess around with selendroid a few months ago
