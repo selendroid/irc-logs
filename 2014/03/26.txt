@@ -62,3 +62,8 @@
 [2014-03-26 23:14:02] samuelhorwitz: here is an example payload
 [2014-03-26 23:14:03] samuelhorwitz: INFO: Payload? {"args":[10],"script":"return (function () {\n  var attempts = arguments[0];\n  var asyncCallback = arguments[arguments.length - 1];\n  var callback = function(args) {\n    setTimeout(function() {\n      asyncCallback(args);\n    }, 0);\n  };\n  var check = function(n) {\n    try {\n      if (window.angular && window.angular.resumeBootstrap) {\n        callback([true, null]);\n      } else if (n < 1) {\n
 [2014-03-26 23:14:21] samuelhorwitz: thats what protractor executes asyncronously expecting to get the callback called when appropriate
+[2014-03-26 23:15:05] samuelhorwitz: My webapp unfortuantly is not completing start up in the SE webview app. It works in stock browser but not the app. Is there any way to access the console in the SE webview?
+[2014-03-26 23:15:23] samuelhorwitz: i cant tell if the issue is with the async stuff or some of the fancy things in my webapp not working inside of a webview
+[2014-03-26 23:15:54] samuelhorwitz: hm you know what that got cut off in irc
+[2014-03-26 23:15:56] samuelhorwitz: one sec
+[2014-03-26 23:17:43] samuelhorwitz: https://gist.github.com/samuelhorwitz/88c7f4a9accf2a13056a
