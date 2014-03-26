@@ -78,3 +78,6 @@
 [2014-03-26 23:24:17] lukeis: you can load it with driver.execute_script ;)
 [2014-03-26 23:24:25] samuelhorwitz: hahah
 [2014-03-26 23:24:56] lukeis: I can't recall if i've done so succesfully though… :-/
+[2014-03-26 23:25:15] lukeis: i usually resort to 'alert' debugging...
+[2014-03-26 23:25:49] samuelhorwitz: yeah when it comes down to this level, I do too
+[2014-03-26 23:26:13] samuelhorwitz: Most of the time I use Chrome device emulation on desktop but at the end of the day when you have to test on old mobile devices you have to test on old mobile devices
