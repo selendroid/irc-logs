@@ -42,3 +42,18 @@
 [2014-03-26 21:53:54] lukeis: (selendroid webview that is)
 [2014-03-26 21:54:48] samuelhorwitz: I'm just running it in the webview app
 [2014-03-26 21:55:00] samuelhorwitz: it could very well be something from when i tried to mess around with selendroid a few months ago
+[2014-03-26 21:55:04] lukeis: huh, very weird, i don't see anything like that
+[2014-03-26 21:55:12] lukeis: likely that then :)
+[2014-03-26 21:55:13] samuelhorwitz: I thought I deleted my directory and recloned
+[2014-03-26 21:55:19] samuelhorwitz: but I have no clue, got heavily distracted lol
+[2014-03-26 21:55:25] lukeis: `git status`
+[2014-03-26 21:55:43] samuelhorwitz: yeah thats the thing, its clean and I cant grep for that text anywhere in the project
+[2014-03-26 21:55:50] samuelhorwitz: I'm rebuilding in case I'm just running some outdated build I have
+[2014-03-26 21:56:04] samuelhorwitz: its probably something really dumb im going to realize on my end
+[2014-03-26 21:56:06] samuelhorwitz: no worries
+[2014-03-26 21:56:29] lukeis: ah, yeah, the avd might have the old selendroid server installed? but that should get over-written
+[2014-03-26 21:59:00] samuelhorwitz: could that be it? i have snapshots enabled on avd
+[2014-03-26 21:59:08] samuelhorwitz: im retrying it now after a rebuild
+[2014-03-26 21:59:10] samuelhorwitz: ill see in a few
+[2014-03-26 21:59:58] lukeis: biab… meeting time
+[2014-03-26 22:00:00] lukeis, quitting. (Quit: Leaving.)
