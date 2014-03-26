@@ -20,3 +20,8 @@
 [2014-03-26 18:35:55] martink_, quitting. (Ping timeout: 264 seconds)
 [2014-03-26 19:08:25] gimpneek, quitting. (Remote host closed the connection)
 [2014-03-26 20:55:31] smccarthy, quitting. (Remote host closed the connection)
+[2014-03-26 21:06:44] samuelhorwitz, joining. (#selendroid)
+[2014-03-26 21:06:51] lukeis: hello :)
+[2014-03-26 21:06:56] samuelhorwitz: yo
+[2014-03-26 21:07:00] samuelhorwitz: haha makes more sense to discuss here
+[2014-03-26 21:07:07] lukeis: yep ;)
