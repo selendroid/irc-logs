@@ -67,3 +67,14 @@
 [2014-03-26 23:15:54] samuelhorwitz: hm you know what that got cut off in irc
 [2014-03-26 23:15:56] samuelhorwitz: one sec
 [2014-03-26 23:17:43] samuelhorwitz: https://gist.github.com/samuelhorwitz/88c7f4a9accf2a13056a
+[2014-03-26 23:20:32] lukeis: cool, thanks for that
+[2014-03-26 23:21:30] lukeis: as for getting the console in the webview… try using API level 19 (actually embeds a chrome webview instead) and then you can use chrome remote debugger
+[2014-03-26 23:22:29] samuelhorwitz: nice ill try that
+[2014-03-26 23:23:18] lukeis: the problem will come if it works in 19 but fails in 17 ;)
+[2014-03-26 23:23:34] samuelhorwitz: haha if its using Chrome instead of web view it may very well work
+[2014-03-26 23:23:39] lukeis: then you have to resort to things like use firebug lite or alert debugging
+[2014-03-26 23:24:00] samuelhorwitz: firebug lite is actually a good point
+[2014-03-26 23:24:03] samuelhorwitz: thanks
+[2014-03-26 23:24:17] lukeis: you can load it with driver.execute_script ;)
+[2014-03-26 23:24:25] samuelhorwitz: hahah
+[2014-03-26 23:24:56] lukeis: I can't recall if i've done so succesfully though… :-/
