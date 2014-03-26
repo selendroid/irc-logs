@@ -8,3 +8,4 @@
 [2014-03-26 11:47:50] Dnilekkb, joining. (#selendroid)
 [2014-03-26 14:53:04] ddary, joining. (#selendroid)
 [2014-03-26 15:23:52] ddary, quitting. (Quit: Page closed)
+[2014-03-26 15:44:13] martink_, joining. (#selendroid)
