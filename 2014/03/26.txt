@@ -58,3 +58,7 @@
 [2014-03-26 21:59:58] lukeis: biab… meeting time
 [2014-03-26 22:00:00] lukeis, quitting. (Quit: Leaving.)
 [2014-03-26 23:00:11] lukeis, joining. (#selendroid)
+[2014-03-26 23:13:57] samuelhorwitz: lukeis
+[2014-03-26 23:14:02] samuelhorwitz: here is an example payload
+[2014-03-26 23:14:03] samuelhorwitz: INFO: Payload? {"args":[10],"script":"return (function () {\n  var attempts = arguments[0];\n  var asyncCallback = arguments[arguments.length - 1];\n  var callback = function(args) {\n    setTimeout(function() {\n      asyncCallback(args);\n    }, 0);\n  };\n  var check = function(n) {\n    try {\n      if (window.angular && window.angular.resumeBootstrap) {\n        callback([true, null]);\n      } else if (n < 1) {\n
+[2014-03-26 23:14:21] samuelhorwitz: thats what protractor executes asyncronously expecting to get the callback called when appropriate
