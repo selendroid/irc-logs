@@ -10,3 +10,4 @@
 [2014-03-26 15:23:52] ddary, quitting. (Quit: Page closed)
 [2014-03-26 15:44:13] martink_, joining. (#selendroid)
 [2014-03-26 15:50:45] martink_: Hi guys, I noticed we use port forwarding to talk to the device. What is the reasoning behind it / is it necessary? Thanks! (adb -s I7SS8PVS8DIRIB95 forward tcp:9413 tcp:9413 )
+[2014-03-26 16:30:53] lukeis, joining. (#selendroid)
