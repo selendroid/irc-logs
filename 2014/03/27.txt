@@ -71,3 +71,9 @@
 [2014-03-27 18:47:11] samuelhorwitz: Im still looking because it appears to be available before that point, like alert and settimeout all work...
 [2014-03-27 18:47:19] samuelhorwitz: but thats just sort of a minddump of where I am
 [2014-03-27 18:47:24] samuelhorwitz: ill keep commenting on it with updates
+[2014-03-27 19:12:09] samuelhorwitz: lukeis: just updated after more digging
+[2014-03-27 19:12:14] samuelhorwitz: its not window
+[2014-03-27 19:12:17] samuelhorwitz: its setTimeout
+[2014-03-27 19:12:29] samuelhorwitz: setTimeout does not work except for very small millisecond values
+[2014-03-27 19:12:33] samuelhorwitz: I have absolutely no idea why
+[2014-03-27 19:13:27] samuelhorwitz: https://gist.github.com/samuelhorwitz/5d9b10855d90a5589311#comment-1200610
