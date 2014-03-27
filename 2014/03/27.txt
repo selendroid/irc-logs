@@ -38,3 +38,5 @@
 [2014-03-27 16:43:47] martink_: (with the tag Selendroid)
 [2014-03-27 16:44:13] martink_: Currently messages from Selendroid show up in logcat like this: 03-27 07:42:39.577 I/System.out( 6236): Instrumentation initialized with main activity:
 [2014-03-27 16:44:22] lukeis: don't mind at all, I don't think dominik nor myself are very good 'android developers' ;)
+[2014-03-27 16:45:14] martink_: System.out is hard to distinguish from other processes that might also be doing println().
+[2014-03-27 16:45:17] martink_: OK thanks!
