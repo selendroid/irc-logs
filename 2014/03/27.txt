@@ -117,3 +117,6 @@
 [2014-03-27 21:13:27] lukeis: AutomatedTester: i know it's everyday life for you, but it's currently nice to be working fully on a feature that is mainly all coded in open source projects ;)
 [2014-03-27 21:14:00] AutomatedTester: it is both nice and terrifying at the same time
 [2014-03-27 21:14:37] lukeis: jlipps: btw, the 'offline' thing for selendroid I'm looking into… I'll have to talk with you more on how to do it in appium too (since you know, i'll want this in saucelabs :) )
+[2014-03-27 21:20:52] samuelhorwitz: you know how there are those AndroidAtoms in compressed javascript?
+[2014-03-27 21:20:58] samuelhorwitz: where exactly do those come from
+[2014-03-27 21:21:03] samuelhorwitz: what are they built from
