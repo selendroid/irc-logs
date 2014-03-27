@@ -77,3 +77,6 @@
 [2014-03-27 19:12:29] samuelhorwitz: setTimeout does not work except for very small millisecond values
 [2014-03-27 19:12:33] samuelhorwitz: I have absolutely no idea why
 [2014-03-27 19:13:27] samuelhorwitz: https://gist.github.com/samuelhorwitz/5d9b10855d90a5589311#comment-1200610
+[2014-03-27 19:19:25] lukeis: seems a common problem on android webview?
+[2014-03-27 19:19:27] lukeis: https://developer.appcelerator.com/question/114111/bug-sometimes-settimeout-doesnt-work-on-android
+[2014-03-27 19:19:39] lukeis: http://stackoverflow.com/questions/3488764/settimeout-not-called-in-android-webkit
