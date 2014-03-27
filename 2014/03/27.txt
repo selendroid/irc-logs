@@ -1,1 +1,5 @@
 [2014-03-27 00:04:36] lukeis, quitting. (Quit: Leaving.)
+[2014-03-27 10:35:05] ddary, joining. (#selendroid)
+[2014-03-27 10:35:14] ddary: hi all
+[2014-03-27 10:35:25] ddary: :log
+[2014-03-27 10:37:07] ddary: :note martink that needs to be done in order to make the port selendroid-server port of the device available on the computer where the emulator/device is connected to
