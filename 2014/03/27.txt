@@ -18,3 +18,4 @@
 [2014-03-27 16:13:55] martink_, joining. (#selendroid)
 [2014-03-27 16:14:17] martink_: Hi guys, I noticed we set up port forwarding before talking to the Selendroid server on the device. What is the reasoning behind it / is it necessary? Thanks!
 [2014-03-27 16:14:29] martink_: The command is e.g. 'adb -s I7SS8PVS8DIRIB95 forward tcp:9413 tcp:9413'
+[2014-03-27 16:17:01] sirsteve: 09:37 <@ddary> :note martink that needs to be done in order to make the port selendroid-server port of the device available on the computer where the emulator/device is connected to
