@@ -133,3 +133,4 @@
 [2014-03-27 21:28:39] samuelhorwitz: cool
 [2014-03-27 21:47:12] *lukeis closes bugs like a champ! ;)  #356'
 [2014-03-27 21:47:23] lukeis: https://github.com/selendroid/selendroid/issues/356
+[2014-03-27 23:45:00] lukeis, quitting. (Quit: Leaving.)
