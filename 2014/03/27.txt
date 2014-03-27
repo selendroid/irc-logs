@@ -60,3 +60,4 @@
 [2014-03-27 17:29:30] samuelhorwitz: just got my friend to try opening something up in his Feedify app
 [2014-03-27 17:29:33] samuelhorwitz: on Android
 [2014-03-27 17:29:35] samuelhorwitz: it all looks good
+[2014-03-27 17:30:07] samuelhorwitz: twitter just opens chrome up separately
