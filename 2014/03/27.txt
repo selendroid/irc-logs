@@ -25,3 +25,12 @@
 [2014-03-27 16:29:02] martink_: Port forwarding: OK, thanks!
 [2014-03-27 16:29:14] AutomatedTester: meh... the project I work on at work has millions of downloads (it also has ~14 years of marketing behind it too)
 [2014-03-27 16:29:15] AutomatedTester: :P
+[2014-03-27 16:30:16] lukeis: apples & oranges AutomatedTester ;)
+[2014-03-27 16:30:25] AutomatedTester: most definitely...
+[2014-03-27 16:30:48] AutomatedTester: lukeis: http://www.dilbert.com/dyn/str_strip/000000000/00000000/0000000/200000/10000/1000/300/211322/211322.strip.sunday.gif
+[2014-03-27 16:31:14] lukeis: :)
+[2014-03-27 16:33:39] selendroid-git, joining. (#selendroid)
+[2014-03-27 16:33:39] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/aXGicA
+[2014-03-27 16:33:39] selendroid-git: selendroid/master 3cb6c0a Bob van Toorn: Removed scrollbars from webview in order to allow automated screenshot comparisson
+[2014-03-27 16:33:39] selendroid-git: selendroid/master 652bc20 Luke Inman-Semerau: Merge pull request #355 from bob-v-t/master...
+[2014-03-27 16:33:40] selendroid-git, leaving. (#selendroid)
