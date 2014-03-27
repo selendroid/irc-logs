@@ -120,3 +120,14 @@
 [2014-03-27 21:20:52] samuelhorwitz: you know how there are those AndroidAtoms in compressed javascript?
 [2014-03-27 21:20:58] samuelhorwitz: where exactly do those come from
 [2014-03-27 21:21:03] samuelhorwitz: what are they built from
+[2014-03-27 21:26:01] lukeis: from the Selenium project
+[2014-03-27 21:26:51] jlipps, quitting. (Quit: Leaving.)
+[2014-03-27 21:27:08] jlipps, joining. (#selendroid)
+[2014-03-27 21:27:41] lukeis: samuelhorwitz: if you've cloned the selenium project you can build it yourself with this command:  ./go //javascript/android-atoms:atoms
+[2014-03-27 21:27:59] samuelhorwitz: ah cool
+[2014-03-27 21:28:04] samuelhorwitz: so I assume its this file
+[2014-03-27 21:28:05] samuelhorwitz: https://github.com/SeleniumHQ/selenium/blob/a2a412fc67f4f4fe4cb0a5012224a4a2eb02ad15/javascript/selenium-atoms/inject.js
+[2014-03-27 21:28:06] lukeis: will end up in the build/javascript/adnroid  directory i beileve
+[2014-03-27 21:28:14] samuelhorwitz: executeAsyncScript atom
+[2014-03-27 21:28:30] lukeis: yes, i believe so
+[2014-03-27 21:28:39] samuelhorwitz: cool
