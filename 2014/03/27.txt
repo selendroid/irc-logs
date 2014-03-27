@@ -34,3 +34,7 @@
 [2014-03-27 16:33:39] selendroid-git: selendroid/master 3cb6c0a Bob van Toorn: Removed scrollbars from webview in order to allow automated screenshot comparisson
 [2014-03-27 16:33:39] selendroid-git: selendroid/master 652bc20 Luke Inman-Semerau: Merge pull request #355 from bob-v-t/master...
 [2014-03-27 16:33:40] selendroid-git, leaving. (#selendroid)
+[2014-03-27 16:43:33] martink_: About SelendroidLogger - would you mind using the standard android.util.Log here?
+[2014-03-27 16:43:47] martink_: (with the tag Selendroid)
+[2014-03-27 16:44:13] martink_: Currently messages from Selendroid show up in logcat like this: 03-27 07:42:39.577 I/System.out( 6236): Instrumentation initialized with main activity:
+[2014-03-27 16:44:22] lukeis: don't mind at all, I don't think dominik nor myself are very good 'android developers' ;)
