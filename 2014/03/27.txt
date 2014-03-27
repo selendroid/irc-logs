@@ -95,3 +95,7 @@
 [2014-03-27 19:24:29] samuelhorwitz: that test should be there then lol
 [2014-03-27 19:24:36] samuelhorwitz: I just added one like that to ios-driver yesterday
 [2014-03-27 19:24:53] lukeis: these tests were mostly just copy / pasted from the Selenium project
+[2014-03-27 19:25:17] samuelhorwitz: Yeah I copied my tests from the normal executeScript tests and then just did them all async
+[2014-03-27 19:25:23] samuelhorwitz: And then wrote an extra one
+[2014-03-27 19:25:28] samuelhorwitz: for the timeout stuff
+[2014-03-27 19:26:06] lukeis: well there's a whole set of 'asyncExcecuteScript' tests too :)
