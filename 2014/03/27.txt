@@ -11,3 +11,4 @@
 [2014-03-27 11:10:00] ddary, quitting. (Quit: ddary)
 [2014-03-27 11:15:27] ddary, joining. (#selendroid)
 [2014-03-27 11:30:13] ddary, leaving. (#selendroid)
+[2014-03-27 11:47:47] gimpneek, joining. (#selendroid)
