@@ -57,3 +57,6 @@
 [2014-03-27 17:23:03] lukeis: what about if you hit a link from something like the twitter app and it launches a webview?
 [2014-03-27 17:23:37] samuelhorwitz: hmm that is a good question ill take a look
 [2014-03-27 17:23:41] samuelhorwitz: I know ive tested that on iOS
+[2014-03-27 17:29:30] samuelhorwitz: just got my friend to try opening something up in his Feedify app
+[2014-03-27 17:29:33] samuelhorwitz: on Android
+[2014-03-27 17:29:35] samuelhorwitz: it all looks good
