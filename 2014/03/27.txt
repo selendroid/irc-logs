@@ -99,3 +99,11 @@
 [2014-03-27 19:25:23] samuelhorwitz: And then wrote an extra one
 [2014-03-27 19:25:28] samuelhorwitz: for the timeout stuff
 [2014-03-27 19:26:06] lukeis: well there's a whole set of 'asyncExcecuteScript' tests too :)
+[2014-03-27 19:42:31] samuelhorwitz: hmm I tried making the setTimeout function a reference to a function instead of an anonymous one
+[2014-03-27 19:42:43] samuelhorwitz: It doesnt seem to work
+[2014-03-27 19:42:52] samuelhorwitz: All those issues seem to be from 2011 with the Android 2.x series
+[2014-03-27 19:43:32] samuelhorwitz: Its still very weird because it seems directly tied to timeout time in milliseconds * number of times setTimeout is called
+[2014-03-27 19:43:43] samuelhorwitz: Like if I set it to 10, it works with only 10 calls but not with 100
+[2014-03-27 19:43:50] samuelhorwitz: but if its 1000 it doesnt even work with one call
+[2014-03-27 19:44:02] samuelhorwitz: I really have no clue what this could be lol
+[2014-03-27 19:44:56] lukeis: very odd… sorry, i haven't had time to play around with it today and not likely i will either :-/
