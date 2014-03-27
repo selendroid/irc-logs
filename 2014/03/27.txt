@@ -3,3 +3,4 @@
 [2014-03-27 10:35:14] ddary: hi all
 [2014-03-27 10:35:25] ddary: :log
 [2014-03-27 10:37:07] ddary: :note martink that needs to be done in order to make the port selendroid-server port of the device available on the computer where the emulator/device is connected to
+[2014-03-27 10:46:20] ddary: :note lukeis Have you seen  that we have currently for the 0.9.0 version more than 10000 downloads on github?!
