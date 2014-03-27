@@ -40,3 +40,4 @@
 [2014-03-27 16:44:22] lukeis: don't mind at all, I don't think dominik nor myself are very good 'android developers' ;)
 [2014-03-27 16:45:14] martink_: System.out is hard to distinguish from other processes that might also be doing println().
 [2014-03-27 16:45:17] martink_: OK thanks!
+[2014-03-27 17:02:06] smccarthy, joining. (#selendroid)
