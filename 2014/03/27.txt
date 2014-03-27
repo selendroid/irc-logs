@@ -61,3 +61,4 @@
 [2014-03-27 17:29:33] samuelhorwitz: on Android
 [2014-03-27 17:29:35] samuelhorwitz: it all looks good
 [2014-03-27 17:30:07] samuelhorwitz: twitter just opens chrome up separately
+[2014-03-27 17:36:17] martink_, quitting. (Ping timeout: 240 seconds)
