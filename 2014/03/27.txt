@@ -21,3 +21,7 @@
 [2014-03-27 16:17:01] sirsteve: 09:37 <@ddary> :note martink that needs to be done in order to make the port selendroid-server port of the device available on the computer where the emulator/device is connected to
 [2014-03-27 16:20:47] lukeis, joining. (#selendroid)
 [2014-03-27 16:21:25] lukeis: wow, awesome :)
+[2014-03-27 16:27:41] martink_: Wow, 10000 is a lot!
+[2014-03-27 16:29:02] martink_: Port forwarding: OK, thanks!
+[2014-03-27 16:29:14] AutomatedTester: meh... the project I work on at work has millions of downloads (it also has ~14 years of marketing behind it too)
+[2014-03-27 16:29:15] AutomatedTester: :P
