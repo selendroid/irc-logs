@@ -112,3 +112,8 @@
 [2014-03-27 21:03:53] AutomatedTester: lukeis: it migtht work
 [2014-03-27 21:04:11] AutomatedTester: my problems are around solving it so its cross platform
 [2014-03-27 21:04:40] lukeis: yeah, if other platforms are going to do it with a different mechanism, i'd love to know what that mechanism was :)
+[2014-03-27 21:11:09] gimpneek, quitting. (Remote host closed the connection)
+[2014-03-27 21:11:28] AutomatedTester: lukeis: yup
+[2014-03-27 21:13:27] lukeis: AutomatedTester: i know it's everyday life for you, but it's currently nice to be working fully on a feature that is mainly all coded in open source projects ;)
+[2014-03-27 21:14:00] AutomatedTester: it is both nice and terrifying at the same time
+[2014-03-27 21:14:37] lukeis: jlipps: btw, the 'offline' thing for selendroid I'm looking into… I'll have to talk with you more on how to do it in appium too (since you know, i'll want this in saucelabs :) )
