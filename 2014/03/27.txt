@@ -50,3 +50,10 @@
 [2014-03-27 17:18:33] samuelhorwitz: I'll keep looking into it in my free time, I'm not sure where this actually traces back to still
 [2014-03-27 17:18:57] lukeis: sounds like a bug in the library for android in particular :) (always fun...)
 [2014-03-27 17:19:06] samuelhorwitz: But basically the executeAsyncScript result handler expects an array like [true, null] or [false, 'error message'] and instead gets undefined
+[2014-03-27 17:20:09] samuelhorwitz: Im using emulator btw
+[2014-03-27 17:20:26] samuelhorwitz: I'm able to get chrome debugging on the API level 19 build
+[2014-03-27 17:20:32] samuelhorwitz: And I couldnt see any console errors
+[2014-03-27 17:20:57] samuelhorwitz: I see the basics of my page layed out without continuing to boot up into angular, something that doesnt happen in either Chrome for Android or Stock browser
+[2014-03-27 17:23:03] lukeis: what about if you hit a link from something like the twitter app and it launches a webview?
+[2014-03-27 17:23:37] samuelhorwitz: hmm that is a good question ill take a look
+[2014-03-27 17:23:41] samuelhorwitz: I know ive tested that on iOS
