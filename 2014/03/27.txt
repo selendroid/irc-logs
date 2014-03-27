@@ -108,3 +108,4 @@
 [2014-03-27 19:44:02] samuelhorwitz: I really have no clue what this could be lol
 [2014-03-27 19:44:56] lukeis: very odd… sorry, i haven't had time to play around with it today and not likely i will either :-/
 [2014-03-27 19:46:34] samuelhorwitz: no worries I will keep messing around
+[2014-03-27 20:37:08] lukeis: AutomatedTester: so… with this airplane mode thing, I'm thinking of continuing the communication between the selendroid-standalone-server and the selendroid-server.apk  via the file system (adb push / pull).  Thoughts? or other suggestions?
