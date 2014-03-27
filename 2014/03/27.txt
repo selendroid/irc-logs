@@ -8,3 +8,4 @@
 [2014-03-27 10:58:30] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/2GGU4g
 [2014-03-27 10:58:30] selendroid-git: selendroid/master a3c19f9 Dominik Dary: using again "init.svc.bootanim" property to identify device boot is done. #313 #346
 [2014-03-27 10:58:30] selendroid-git, leaving. (#selendroid)
+[2014-03-27 11:10:00] ddary, quitting. (Quit: ddary)
