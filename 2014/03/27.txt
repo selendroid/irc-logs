@@ -12,3 +12,6 @@
 [2014-03-27 11:15:27] ddary, joining. (#selendroid)
 [2014-03-27 11:30:13] ddary, leaving. (#selendroid)
 [2014-03-27 11:47:47] gimpneek, joining. (#selendroid)
+[2014-03-27 13:03:41] selendroid-git, joining. (#selendroid)
+[2014-03-27 13:03:42] selendroid-git: [selendroid] bob-v-t opened pull request #355: Removed scroll bars from Android driver's WebView in order to allow automated screenshot comparison (master...master) http://git.io/AF-IJQ
+[2014-03-27 13:03:42] selendroid-git, leaving. (#selendroid)
