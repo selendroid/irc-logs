@@ -63,3 +63,6 @@
 [2014-03-27 17:30:07] samuelhorwitz: twitter just opens chrome up separately
 [2014-03-27 17:36:17] martink_, quitting. (Ping timeout: 240 seconds)
 [2014-03-27 18:01:28] samuelhorwitz, quitting. (Ping timeout: 245 seconds)
+[2014-03-27 18:41:54] samuelhorwitz, joining. (#selendroid)
+[2014-03-27 18:42:00] samuelhorwitz: lukeis: https://gist.github.com/samuelhorwitz/5d9b10855d90a5589311
+[2014-03-27 18:42:32] samuelhorwitz: The issue from what I can tell seems to be related to window variable in the executeAsyncScript context
