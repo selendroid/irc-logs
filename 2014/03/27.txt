@@ -80,3 +80,18 @@
 [2014-03-27 19:19:25] lukeis: seems a common problem on android webview?
 [2014-03-27 19:19:27] lukeis: https://developer.appcelerator.com/question/114111/bug-sometimes-settimeout-doesnt-work-on-android
 [2014-03-27 19:19:39] lukeis: http://stackoverflow.com/questions/3488764/settimeout-not-called-in-android-webkit
+[2014-03-27 19:22:02] samuelhorwitz: interesting
+[2014-03-27 19:22:10] samuelhorwitz: let me try doing the var function declaration pattern for this code
+[2014-03-27 19:22:19] samuelhorwitz: I did notice this also in the tests
+[2014-03-27 19:22:21] samuelhorwitz: https://github.com/selendroid/selendroid/blob/761e9ba05cec3834d95078116cab587795b6a1ab/selendroid-test-app/src/test/java/io/selendroid/driver/ExecuteAsyncScriptTest.java#L144
+[2014-03-27 19:22:48] samuelhorwitz: I cant tell if it expects these situations to never arise and handle them as errors?
+[2014-03-27 19:23:01] samuelhorwitz: I dont think it should do that
+[2014-03-27 19:23:03] samuelhorwitz: if it does
+[2014-03-27 19:23:35] lukeis: that's a different use case than yours
+[2014-03-27 19:23:41] samuelhorwitz: okay
+[2014-03-27 19:24:04] lukeis: that one is in particular testing the timeout function (script timeout) where callback isn't called 'in time'
+[2014-03-27 19:24:24] samuelhorwitz: ahh okay
+[2014-03-27 19:24:25] samuelhorwitz: yes
+[2014-03-27 19:24:29] samuelhorwitz: that test should be there then lol
+[2014-03-27 19:24:36] samuelhorwitz: I just added one like that to ios-driver yesterday
+[2014-03-27 19:24:53] lukeis: these tests were mostly just copy / pasted from the Selenium project
