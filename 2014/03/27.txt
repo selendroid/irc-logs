@@ -41,3 +41,12 @@
 [2014-03-27 16:45:14] martink_: System.out is hard to distinguish from other processes that might also be doing println().
 [2014-03-27 16:45:17] martink_: OK thanks!
 [2014-03-27 17:02:06] smccarthy, joining. (#selendroid)
+[2014-03-27 17:16:26] samuelhorwitz: lukeis, I was messing around with all the stuff this morning
+[2014-03-27 17:16:51] samuelhorwitz: The reason why my site wont load through Protractor seems to be that the check for Angular function is somehow eventually getting undefined returned
+[2014-03-27 17:17:08] samuelhorwitz: I cant see any errors on the page itself when inspecting with Chrome debugging
+[2014-03-27 17:17:56] samuelhorwitz: But after the check for angular tests all run until timeout, my Protractor session fails saying it couldnt get index 0 of undefined on a line that indicates the undefined value was supposed to be an array with index 0 indicating successfully finding Angular
+[2014-03-27 17:17:56] lukeis: so it fails in the chrome webview too?
+[2014-03-27 17:17:59] samuelhorwitz: yeah
+[2014-03-27 17:18:33] samuelhorwitz: I'll keep looking into it in my free time, I'm not sure where this actually traces back to still
+[2014-03-27 17:18:57] lukeis: sounds like a bug in the library for android in particular :) (always fun...)
+[2014-03-27 17:19:06] samuelhorwitz: But basically the executeAsyncScript result handler expects an array like [true, null] or [false, 'error message'] and instead gets undefined
