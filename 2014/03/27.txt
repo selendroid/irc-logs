@@ -131,3 +131,5 @@
 [2014-03-27 21:28:14] samuelhorwitz: executeAsyncScript atom
 [2014-03-27 21:28:30] lukeis: yes, i believe so
 [2014-03-27 21:28:39] samuelhorwitz: cool
+[2014-03-27 21:47:12] *lukeis closes bugs like a champ! ;)  #356'
+[2014-03-27 21:47:23] lukeis: https://github.com/selendroid/selendroid/issues/356
