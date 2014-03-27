@@ -15,3 +15,6 @@
 [2014-03-27 13:03:41] selendroid-git, joining. (#selendroid)
 [2014-03-27 13:03:42] selendroid-git: [selendroid] bob-v-t opened pull request #355: Removed scroll bars from Android driver's WebView in order to allow automated screenshot comparison (master...master) http://git.io/AF-IJQ
 [2014-03-27 13:03:42] selendroid-git, leaving. (#selendroid)
+[2014-03-27 16:13:55] martink_, joining. (#selendroid)
+[2014-03-27 16:14:17] martink_: Hi guys, I noticed we set up port forwarding before talking to the Selendroid server on the device. What is the reasoning behind it / is it necessary? Thanks!
+[2014-03-27 16:14:29] martink_: The command is e.g. 'adb -s I7SS8PVS8DIRIB95 forward tcp:9413 tcp:9413'
