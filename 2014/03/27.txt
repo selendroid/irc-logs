@@ -109,3 +109,6 @@
 [2014-03-27 19:44:56] lukeis: very odd… sorry, i haven't had time to play around with it today and not likely i will either :-/
 [2014-03-27 19:46:34] samuelhorwitz: no worries I will keep messing around
 [2014-03-27 20:37:08] lukeis: AutomatedTester: so… with this airplane mode thing, I'm thinking of continuing the communication between the selendroid-standalone-server and the selendroid-server.apk  via the file system (adb push / pull).  Thoughts? or other suggestions?
+[2014-03-27 21:03:53] AutomatedTester: lukeis: it migtht work
+[2014-03-27 21:04:11] AutomatedTester: my problems are around solving it so its cross platform
+[2014-03-27 21:04:40] lukeis: yeah, if other platforms are going to do it with a different mechanism, i'd love to know what that mechanism was :)
