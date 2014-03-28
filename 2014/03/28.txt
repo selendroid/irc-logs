@@ -65,3 +65,4 @@
 [2014-03-28 19:50:50] samuelhorwitz: How to I select the one I want to run my tests on
 [2014-03-28 19:50:52] samuelhorwitz: when running selendroid?
 [2014-03-28 20:02:46] friscodelrosario, joining. (#selendroid)
+[2014-03-28 22:02:48] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
