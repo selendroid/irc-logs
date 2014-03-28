@@ -29,3 +29,4 @@
 [2014-03-28 15:26:38] jlipps, joining. (#selendroid)
 [2014-03-28 16:07:06] smccarthy, joining. (#selendroid)
 [2014-03-28 17:34:12] lukeis, joining. (#selendroid)
+[2014-03-28 17:39:04] lukeis: samuelhorwitz: so, it had to do with inline comments?
