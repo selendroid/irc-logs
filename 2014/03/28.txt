@@ -28,3 +28,4 @@
 [2014-03-28 13:07:52] gimpneek: Over the implicitly waiting for pages to load etc but might not be your use case
 [2014-03-28 15:26:38] jlipps, joining. (#selendroid)
 [2014-03-28 16:07:06] smccarthy, joining. (#selendroid)
+[2014-03-28 17:34:12] lukeis, joining. (#selendroid)
