@@ -23,3 +23,4 @@
 [2014-03-28 12:31:48] Lmx, quitting. (Remote host closed the connection)
 [2014-03-28 12:41:35] Lmx, joining. (#selendroid)
 [2014-03-28 12:49:27] Monty__, quitting. (Quit: Page closed)
+[2014-03-28 12:53:31] Lmx, quitting. (Remote host closed the connection)
