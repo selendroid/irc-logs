@@ -30,3 +30,22 @@
 [2014-03-28 16:07:06] smccarthy, joining. (#selendroid)
 [2014-03-28 17:34:12] lukeis, joining. (#selendroid)
 [2014-03-28 17:39:04] lukeis: samuelhorwitz: so, it had to do with inline comments?
+[2014-03-28 17:40:41] samuelhorwitz: yup
+[2014-03-28 17:41:03] samuelhorwitz: My issue yesterday was separate and had to do with page unloading racing with url checks
+[2014-03-28 17:41:08] lukeis: man… well, thanks for tracking that down :)
+[2014-03-28 17:41:16] samuelhorwitz: and when I fixed that I realized the other issue was inline comments
+[2014-03-28 17:41:19] samuelhorwitz: np
+[2014-03-28 17:41:39] samuelhorwitz: I assume thats something selendroid should fix because I havent seen it as a problem in other drivers
+[2014-03-28 17:41:50] samuelhorwitz: but I made a patch for people to use in the interim as a fork
+[2014-03-28 17:41:54] samuelhorwitz: for protractor
+[2014-03-28 17:42:11] lukeis: maybe… but it kind of comes down to how android executes 'eval'
+[2014-03-28 17:42:16] samuelhorwitz: Yeah
+[2014-03-28 17:42:29] lukeis: i'm not sure I want to parse people's random javascript they try to execute
+[2014-03-28 17:42:37] samuelhorwitz: same with how window.location.assign apparently changes the value of driver.getCurrentUrl() before the actual location change event
+[2014-03-28 17:42:53] samuelhorwitz: but window.location.href is correct
+[2014-03-28 17:42:53] lukeis: ah, yeah… i've seen that :)
+[2014-03-28 17:43:08] samuelhorwitz: well those are both protractor patches, like 4 lines total I have right now
+[2014-03-28 17:43:14] samuelhorwitz: under a selendroid-fixes branch
+[2014-03-28 17:43:15] lukeis: nice
+[2014-03-28 17:43:57] lukeis: i think i want to fix this with 'documentation' but not sure the best place to put it
+[2014-03-28 17:44:10] samuelhorwitz: What do you mean?
