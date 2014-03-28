@@ -4,3 +4,4 @@
 [2014-03-28 03:51:01] jlipps, quitting. (Quit: Leaving.)
 [2014-03-28 05:13:39] smccarthy, joining. (#selendroid)
 [2014-03-28 05:43:26] jlipps, joining. (#selendroid)
+[2014-03-28 06:06:00] jlipps, quitting. (Quit: Leaving.)
