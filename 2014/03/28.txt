@@ -61,3 +61,6 @@
 [2014-03-28 19:01:53] samuelhorwitz, quitting. (Quit: Page closed)
 [2014-03-28 19:02:21] samuelhorwitz, joining. (#selendroid)
 [2014-03-28 19:40:07] gimpneek, quitting. (Remote host closed the connection)
+[2014-03-28 19:50:41] samuelhorwitz: I set up two separate AVDs
+[2014-03-28 19:50:50] samuelhorwitz: How to I select the one I want to run my tests on
+[2014-03-28 19:50:52] samuelhorwitz: when running selendroid?
