@@ -60,3 +60,4 @@
 [2014-03-28 18:00:56] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-28 19:01:53] samuelhorwitz, quitting. (Quit: Page closed)
 [2014-03-28 19:02:21] samuelhorwitz, joining. (#selendroid)
+[2014-03-28 19:40:07] gimpneek, quitting. (Remote host closed the connection)
