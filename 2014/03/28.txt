@@ -49,3 +49,11 @@
 [2014-03-28 17:43:15] lukeis: nice
 [2014-03-28 17:43:57] lukeis: i think i want to fix this with 'documentation' but not sure the best place to put it
 [2014-03-28 17:44:10] samuelhorwitz: What do you mean?
+[2014-03-28 17:45:13] lukeis: "When using selendroid ExecuteScript / Execute Async Script, do not use in-line comments as android may ignore the newline character when evaluating the script and cause more of your code to be commented out than you expect"
+[2014-03-28 17:45:20] lukeis: add something like that too the docs :)
+[2014-03-28 17:47:00] lukeis: in general I don't think I would ever send a comment into the execute script… rather have a comment in the native language next to the string it passes (i understand that angular is all javascript, but I'm sure that's do-able)
+[2014-03-28 17:47:57] samuelhorwitz: yeah I honestly dont know why the comment was there
+[2014-03-28 17:47:58] samuelhorwitz: I agree
+[2014-03-28 17:48:17] samuelhorwitz: I submitted a PR after all
+[2014-03-28 17:48:20] lukeis: :)
+[2014-03-28 17:48:40] samuelhorwitz: its better then speculating whether the angular guys will appreciate it :D
