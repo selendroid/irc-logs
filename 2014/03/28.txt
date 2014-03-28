@@ -57,3 +57,4 @@
 [2014-03-28 17:48:17] samuelhorwitz: I submitted a PR after all
 [2014-03-28 17:48:20] lukeis: :)
 [2014-03-28 17:48:40] samuelhorwitz: its better then speculating whether the angular guys will appreciate it :D
+[2014-03-28 18:00:56] smccarthy, quitting. (Remote host closed the connection)
