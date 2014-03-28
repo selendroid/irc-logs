@@ -22,3 +22,4 @@
 [2014-03-28 12:11:49] Lmx: anyone know of the best way to add implicit waits in selendroid?
 [2014-03-28 12:31:48] Lmx, quitting. (Remote host closed the connection)
 [2014-03-28 12:41:35] Lmx, joining. (#selendroid)
+[2014-03-28 12:49:27] Monty__, quitting. (Quit: Page closed)
