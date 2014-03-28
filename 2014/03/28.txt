@@ -27,3 +27,4 @@
 [2014-03-28 13:07:28] gimpneek: Lmx: I've found that adding waits for elements to be displayed / hidden with a 1 minute timeout has helped.
 [2014-03-28 13:07:52] gimpneek: Over the implicitly waiting for pages to load etc but might not be your use case
 [2014-03-28 15:26:38] jlipps, joining. (#selendroid)
+[2014-03-28 16:07:06] smccarthy, joining. (#selendroid)
