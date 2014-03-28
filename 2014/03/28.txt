@@ -6,3 +6,9 @@
 [2014-03-28 05:43:26] jlipps, joining. (#selendroid)
 [2014-03-28 06:06:00] jlipps, quitting. (Quit: Leaving.)
 [2014-03-28 07:14:54] smccarthy, quitting. (Remote host closed the connection)
+[2014-03-28 10:11:52] Monty__, joining. (#selendroid)
+[2014-03-28 10:12:03] Monty__: Hi
+[2014-03-28 10:12:47] Monty__: I am a newbie to selendroid
+[2014-03-28 10:13:15] Monty__: Is it an open source automation testing tool\
+[2014-03-28 10:13:30] Monty__: may i know what and all can be automated by this tool?
+[2014-03-28 10:13:30] Monty__: please help
