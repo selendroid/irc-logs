@@ -13,3 +13,5 @@
 [2014-03-28 10:13:30] Monty__: may i know what and all can be automated by this tool?
 [2014-03-28 10:13:30] Monty__: please help
 [2014-03-28 11:11:02] ddary, joining. (#selendroid)
+[2014-03-28 11:20:20] ddary: :log
+[2014-03-28 11:21:38] ddary: Monty:: please have a look at the documentation: http://selendroid.io
