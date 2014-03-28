@@ -16,3 +16,4 @@
 [2014-03-28 11:20:20] ddary: :log
 [2014-03-28 11:21:38] ddary: Monty:: please have a look at the documentation: http://selendroid.io
 [2014-03-28 11:25:23] ddary, leaving. (#selendroid)
+[2014-03-28 11:47:56] gimpneek, joining. (#selendroid)
