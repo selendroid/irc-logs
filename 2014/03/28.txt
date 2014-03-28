@@ -12,3 +12,4 @@
 [2014-03-28 10:13:15] Monty__: Is it an open source automation testing tool\
 [2014-03-28 10:13:30] Monty__: may i know what and all can be automated by this tool?
 [2014-03-28 10:13:30] Monty__: please help
+[2014-03-28 11:11:02] ddary, joining. (#selendroid)
