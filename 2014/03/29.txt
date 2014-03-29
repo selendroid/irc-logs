@@ -4,3 +4,4 @@
 [2014-03-29 01:28:26] smccarthy, joining. (#selendroid)
 [2014-03-29 01:28:52] ddary, joining. (#selendroid)
 [2014-03-29 01:29:01] ddary: :log
+[2014-03-29 01:30:49] ddary, quitting. (Client Quit)
