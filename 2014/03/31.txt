@@ -5,3 +5,7 @@
 [2014-03-31 16:18:51] ddary, joining. (#selendroid)
 [2014-03-31 17:29:13] smccarthy, joining. (#selendroid)
 [2014-03-31 17:34:09] lukeis, joining. (#selendroid)
+[2014-03-31 17:41:30] martink_, joining. (#selendroid)
+[2014-03-31 17:43:19] martink_: Hi guys, I realized the assets for the Selendroid Inspector (css and js files) are actually served from the device. Is this necessary? I thought the inspector could be served by selendroid-standalone running locally? Thanks!
+[2014-03-31 17:44:36] ddary: martink: the bennefit it that the inspector can also be used without the standalone
+[2014-03-31 17:44:57] ddary: i know, not much people use it that way
