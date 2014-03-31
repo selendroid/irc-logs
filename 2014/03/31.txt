@@ -42,3 +42,4 @@
 [2014-03-31 22:27:53] smccarthy, joining. (#selendroid)
 [2014-03-31 23:34:25] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-31 23:34:59] smccarthy, joining. (#selendroid)
+[2014-03-31 23:39:22] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
