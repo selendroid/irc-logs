@@ -10,3 +10,4 @@
 [2014-03-31 17:44:36] ddary: martink: the bennefit it that the inspector can also be used without the standalone
 [2014-03-31 17:44:57] ddary: i know, not much people use it that way
 [2014-03-31 17:45:28] ddary: but when i develop only in the selendroid server, i personally usually use only the server
+[2014-03-31 17:55:25] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
