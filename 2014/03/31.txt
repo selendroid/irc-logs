@@ -28,3 +28,4 @@
 [2014-03-31 19:15:14] martink_, joining. (#selendroid)
 [2014-03-31 19:19:42] martink_, quitting. (Ping timeout: 265 seconds)
 [2014-03-31 19:22:25] smccarthy2, joining. (#selendroid)
+[2014-03-31 19:25:47] smccarthy, quitting. (Ping timeout: 255 seconds)
