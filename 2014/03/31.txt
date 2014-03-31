@@ -24,3 +24,4 @@
 [2014-03-31 18:29:06] smccarthy, quitting. (Ping timeout: 255 seconds)
 [2014-03-31 18:31:29] smccarthy, joining. (#selendroid)
 [2014-03-31 18:35:09] smccarthy2, quitting. (Ping timeout: 268 seconds)
+[2014-03-31 19:13:07] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
