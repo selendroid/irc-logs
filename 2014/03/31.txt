@@ -12,3 +12,5 @@
 [2014-03-31 17:45:28] ddary: but when i develop only in the selendroid server, i personally usually use only the server
 [2014-03-31 17:55:25] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-03-31 18:01:34] martink_, joining. (#selendroid)
+[2014-03-31 18:07:44] jlipps, joining. (#selendroid)
+[2014-03-31 18:09:45] smccarthy2, joining. (#selendroid)
