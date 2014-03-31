@@ -34,3 +34,5 @@
 [2014-03-31 20:32:28] smccarthy, joining. (#selendroid)
 [2014-03-31 20:42:14] gimpneek, quitting. (Remote host closed the connection)
 [2014-03-31 21:38:28] samuelhorwitz, quitting. (Remote host closed the connection)
+[2014-03-31 21:56:13] smccarthy2, joining. (#selendroid)
+[2014-03-31 21:57:20] samuelhorwitz, joining. (#selendroid)
