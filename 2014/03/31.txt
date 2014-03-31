@@ -22,3 +22,4 @@
 [2014-03-31 18:25:43] smccarthy2, joining. (#selendroid)
 [2014-03-31 18:28:08] friscodelrosario, joining. (#selendroid)
 [2014-03-31 18:29:06] smccarthy, quitting. (Ping timeout: 255 seconds)
+[2014-03-31 18:31:29] smccarthy, joining. (#selendroid)
