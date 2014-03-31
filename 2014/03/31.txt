@@ -1,2 +1,3 @@
 [2014-03-31 01:12:52] smccarthy, quitting. (Remote host closed the connection)
 [2014-03-31 03:08:28] sirsteve_, joining. (#selendroid)
+[2014-03-31 03:13:40] sirsteve, quitting. (*.net *.split)
