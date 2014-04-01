@@ -14,3 +14,4 @@
 [2014-04-01 13:00:50] samuelhorwitz, quitting. (Ping timeout: 268 seconds)
 [2014-04-01 13:05:05] samuelhorwitz, joining. (#selendroid)
 [2014-04-01 14:52:29] ddary, joining. (#selendroid)
+[2014-04-01 15:43:01] ddary, quitting. (Quit: ddary)
