@@ -23,3 +23,4 @@
 [2014-04-01 18:36:50] friscodelrosario, joining. (#selendroid)
 [2014-04-01 19:00:42] jlipps, joining. (#selendroid)
 [2014-04-01 19:31:01] friscodelrosario, quitting. (Ping timeout: 245 seconds)
+[2014-04-01 21:43:59] jlipps, quitting. (Quit: Leaving.)
