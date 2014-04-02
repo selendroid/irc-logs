@@ -41,3 +41,4 @@
 [2014-04-02 22:58:25] lukeis: but yes, in Instrumentation, i have a way to get the setting it seems but can't confirm it's working as expected
 [2014-04-02 23:00:24] smccarthy2, quitting. (Remote host closed the connection)
 [2014-04-02 23:00:58] smccarthy, joining. (#selendroid)
+[2014-04-02 23:15:06] jlipps1: oh interesting, cool.
