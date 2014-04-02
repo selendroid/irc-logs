@@ -24,3 +24,5 @@
 [2014-04-02 20:55:19] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-04-02 20:56:27] jlipps, quitting. (Ping timeout: 252 seconds)
 [2014-04-02 21:59:51] lukeis1, quitting. (Quit: Leaving.)
+[2014-04-02 22:00:30] smccarthy2, joining. (#selendroid)
+[2014-04-02 22:03:39] smccarthy, quitting. (Ping timeout: 255 seconds)
