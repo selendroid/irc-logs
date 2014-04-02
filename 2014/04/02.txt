@@ -27,3 +27,15 @@
 [2014-04-02 22:00:30] smccarthy2, joining. (#selendroid)
 [2014-04-02 22:03:39] smccarthy, quitting. (Ping timeout: 255 seconds)
 [2014-04-02 22:13:58] lukeis, joining. (#selendroid)
+[2014-04-02 22:55:40] jlipps1: ping lukeis
+[2014-04-02 22:55:49] lukeis: pong :)
+[2014-04-02 22:56:04] lukeis: meetins suck (and then i had a lunch date)
+[2014-04-02 22:56:12] jlipps1: true that!
+[2014-04-02 22:56:20] jlipps1: have you guys implemented airplane_mode in selendroid yet?
+[2014-04-02 22:56:28] lukeis: i'm attempting too
+[2014-04-02 22:56:29] jlipps1: also, since i have your attention: https://groups.google.com/forum/#!topic/mobile-jsonwp-spec/JhKDOBcT-bc
+[2014-04-02 22:56:51] jlipps1: lukeis:  oh ok. we have commands that are able to toggle airplane mode on and off, but not get and set it reliably from any state
+[2014-04-02 22:56:58] jlipps1: was wondering if you had some magic for that
+[2014-04-02 22:57:30] *lukeis trying to conjure magic....'
+[2014-04-02 22:57:45] lukeis: i'll let you know when i have something more, but I don't right now and i'm still experimenting
+[2014-04-02 22:58:25] lukeis: but yes, in Instrumentation, i have a way to get the setting it seems but can't confirm it's working as expected
