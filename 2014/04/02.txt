@@ -6,3 +6,4 @@
 [2014-04-02 10:53:31] ddary, joining. (#selendroid)
 [2014-04-02 10:54:30] ddary, quitting. (Client Quit)
 [2014-04-02 10:54:55] ddary, joining. (#selendroid)
+[2014-04-02 11:00:58] gimpneek, joining. (#selendroid)
