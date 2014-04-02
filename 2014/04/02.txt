@@ -3,3 +3,6 @@
 [2014-04-02 02:26:05] jlipps, quitting. (Quit: Leaving.)
 [2014-04-02 02:26:38] jlipps, joining. (#selendroid)
 [2014-04-02 02:53:36] jlipps, quitting. (Quit: Leaving.)
+[2014-04-02 10:53:31] ddary, joining. (#selendroid)
+[2014-04-02 10:54:30] ddary, quitting. (Client Quit)
+[2014-04-02 10:54:55] ddary, joining. (#selendroid)
