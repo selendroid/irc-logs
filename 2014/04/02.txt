@@ -8,3 +8,5 @@
 [2014-04-02 10:54:55] ddary, joining. (#selendroid)
 [2014-04-02 11:00:58] gimpneek, joining. (#selendroid)
 [2014-04-02 11:22:15] ddary, quitting. (Quit: ddary)
+[2014-04-02 14:30:55] ddary, joining. (#selendroid)
+[2014-04-02 14:31:40] ddary, leaving. (#selendroid)
