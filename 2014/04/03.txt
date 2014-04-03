@@ -50,3 +50,4 @@
 [2014-04-03 20:40:15] ddary, leaving. (#selendroid)
 [2014-04-03 21:12:57] jlipps, quitting. (Quit: Leaving.)
 [2014-04-03 21:58:58] smccarthy2, joining. (#selendroid)
+[2014-04-03 22:02:05] smccarthy, quitting. (Ping timeout: 268 seconds)
