@@ -12,3 +12,4 @@
 [2014-04-03 04:46:38] smccarthy, joining. (#selendroid)
 [2014-04-03 07:00:04] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-03 08:42:12] ddary, joining. (#selendroid)
+[2014-04-03 08:58:01] ddary, quitting. (Ping timeout: 240 seconds)
