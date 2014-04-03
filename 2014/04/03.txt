@@ -9,3 +9,4 @@
 [2014-04-03 02:47:28] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-04-03 03:18:45] jlipps, joining. (#selendroid)
 [2014-04-03 03:27:15] jlipps, quitting. (Quit: Leaving.)
+[2014-04-03 04:46:38] smccarthy, joining. (#selendroid)
