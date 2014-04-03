@@ -46,3 +46,4 @@
 [2014-04-03 19:49:05] ddary: ok
 [2014-04-03 19:53:13] gimpneek, quitting. (Remote host closed the connection)
 [2014-04-03 20:05:01] ddary, quitting. (Quit: ddary)
+[2014-04-03 20:26:03] ddary, joining. (#selendroid)
