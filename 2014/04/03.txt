@@ -45,3 +45,4 @@
 [2014-04-03 19:47:13] lukeis: i will, haven't done it yet… was planning on only a simple set of locators allowed
 [2014-04-03 19:49:05] ddary: ok
 [2014-04-03 19:53:13] gimpneek, quitting. (Remote host closed the connection)
+[2014-04-03 20:05:01] ddary, quitting. (Quit: ddary)
