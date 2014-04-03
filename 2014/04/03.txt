@@ -44,3 +44,4 @@
 [2014-04-03 19:46:31] ddary: lukeis: you said you are working on implementing css locators. How do will you do it? what frameworks can support you? asking becuase have not done it before and i’m interesed
 [2014-04-03 19:47:13] lukeis: i will, haven't done it yet… was planning on only a simple set of locators allowed
 [2014-04-03 19:49:05] ddary: ok
+[2014-04-03 19:53:13] gimpneek, quitting. (Remote host closed the connection)
