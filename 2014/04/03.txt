@@ -41,3 +41,6 @@
 [2014-04-03 19:37:03] ddary: but the idea was also to make it easier for mobile, right?
 [2014-04-03 19:37:31] lukeis: somewhat… but not explicitly… mobile stuff is really going to have it's day in the spec for the 2.0 version
 [2014-04-03 19:39:22] ddary: but it was advertised end of august that selenium 3 will also have e.g. multi touch and harmonized capabilities and locator strategies
+[2014-04-03 19:46:31] ddary: lukeis: you said you are working on implementing css locators. How do will you do it? what frameworks can support you? asking becuase have not done it before and i’m interesed
+[2014-04-03 19:47:13] lukeis: i will, haven't done it yet… was planning on only a simple set of locators allowed
+[2014-04-03 19:49:05] ddary: ok
