@@ -34,3 +34,10 @@
 [2014-04-03 19:30:55] ddary: have seen you had some discussions in the mobile webdriver spec group
 [2014-04-03 19:31:27] ddary: is the w3c spec that is currently a draft, when it will be final the basis for selenium 3?
 [2014-04-03 19:34:23] lukeis: when? i don't have a date ;)
+[2014-04-03 19:35:17] ddary: i wanted to say: final w3c spec is webdriver 3.0 or is this unrelated?
+[2014-04-03 19:36:14] lukeis: W3C webdriver spec 1.0   will be implement in Selenium 3.0  ;)
+[2014-04-03 19:36:25] lukeis: implemented*
+[2014-04-03 19:36:44] ddary: ok
+[2014-04-03 19:37:03] ddary: but the idea was also to make it easier for mobile, right?
+[2014-04-03 19:37:31] lukeis: somewhat… but not explicitly… mobile stuff is really going to have it's day in the spec for the 2.0 version
+[2014-04-03 19:39:22] ddary: but it was advertised end of august that selenium 3 will also have e.g. multi touch and harmonized capabilities and locator strategies
