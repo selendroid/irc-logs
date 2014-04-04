@@ -155,3 +155,6 @@
 [2014-04-04 21:01:23] lukeis, joining. (#selendroid)
 [2014-04-04 21:05:07] lukeis1, joining. (#selendroid)
 [2014-04-04 21:06:58] lukeis, quitting. (Ping timeout: 240 seconds)
+[2014-04-04 22:17:15] snover, joining. (#selendroid)
+[2014-04-04 22:19:37] snover: When trying to do mobile web testing with the default selendroid 0.9.0 webview app, trying to use `touch/longclick` causes an error “java.lang.SecurityException: Injecting to another application requires INJECT_EVENTS permission”. is there some sort of additional configuration or desiredCapability that needs to be set for this event to work?
+[2014-04-04 22:19:43] snover: or is this a bug?
