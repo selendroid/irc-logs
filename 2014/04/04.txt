@@ -165,3 +165,4 @@
 [2014-04-04 23:14:51] peter, changing nick to Guest65874.
 [2014-04-04 23:16:11] Guest65874, quitting. (Client Quit)
 [2014-04-04 23:34:17] lukeis, quitting. (Quit: Leaving.)
+[2014-04-04 23:44:25] smccarthy: I used to do driver = new SelendroidDriver(SELENDROID_HOST, cap); (in 0.8.0). However in 0.9.0, it only takes Capabalities. How do I tell my driver what the host is? It seems to default to localhost, but was just curious
