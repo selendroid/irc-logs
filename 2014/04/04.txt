@@ -159,3 +159,4 @@
 [2014-04-04 22:19:37] snover: When trying to do mobile web testing with the default selendroid 0.9.0 webview app, trying to use `touch/longclick` causes an error “java.lang.SecurityException: Injecting to another application requires INJECT_EVENTS permission”. is there some sort of additional configuration or desiredCapability that needs to be set for this event to work?
 [2014-04-04 22:19:43] snover: or is this a bug?
 [2014-04-04 22:21:59] lukeis1, changing nick to lukeis.
+[2014-04-04 23:08:51] samuelhorwitz: protractor 0.21.0 is out now so the fixes I made to get Protractor to work with Selendroid are live in the newest release
