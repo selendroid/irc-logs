@@ -43,3 +43,19 @@
 [2014-04-04 09:44:42] ddary: I also don't get why people have issues with android list avd
 [2014-04-04 09:44:53] lukeis: right now, I've completely destroyed java on my mac… fun ;)
 [2014-04-04 09:44:59] ddary: oh
+[2014-04-04 09:46:17] lukeis: hopefully I figure it out without having to get a new image installed by IT :-D
+[2014-04-04 09:46:23] ddary: i had fun with linux machines in the cloud and chef
+[2014-04-04 09:46:36] ddary: crossing my fingers
+[2014-04-04 09:46:36] lukeis: nice :)
+[2014-04-04 09:46:44] ddary: getting a new image sucks
+[2014-04-04 09:46:49] ddary: to much work
+[2014-04-04 09:47:01] lukeis: (no java means no Android / no IntelliJ working … :-/ )
+[2014-04-04 09:47:03] ddary: have never seen that backup solutions really work well
+[2014-04-04 09:47:25] lukeis: at least i have a Linux workstation? ;)
+[2014-04-04 09:47:32] ddary: my important backup solution is github
+[2014-04-04 09:47:39] ddary: cool
+[2014-04-04 09:48:29] lukeis: wait… what?  https://github.com/selendroid/selendroid/issues/366#issuecomment-39539245
+[2014-04-04 09:49:05] lukeis: why is this guy caring about these nuances in the JSON wire protocol?
+[2014-04-04 09:49:30] ddary: that is a comment that is perfect for selenium memes
+[2014-04-04 09:49:39] ddary: i dont know
+[2014-04-04 09:49:59] ddary: as i wrote, if people look at the details and would like to make it better, fine
