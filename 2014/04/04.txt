@@ -5,3 +5,16 @@
 [2014-04-04 07:04:54] ddary, quitting. (Quit: ddary)
 [2014-04-04 07:15:52] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-04 07:17:53] ddary, joining. (#selendroid)
+[2014-04-04 09:36:31] lukeis, joining. (#selendroid)
+[2014-04-04 09:36:50] lukeis: hiya ddary
+[2014-04-04 09:36:58] ddary: hi lukeis
+[2014-04-04 09:37:16] ddary: there is some that looks exactly at the spec ;)
+[2014-04-04 09:37:28] lukeis: this current bout of issues against the JSON wire protocol may get on my nerves ;)
+[2014-04-04 09:37:38] lukeis: but that's *not* "the spec" :)
+[2014-04-04 09:38:01] ddary: the issue is that people get confused by all the specs
+[2014-04-04 09:38:10] ddary: me sometimes as well
+[2014-04-04 09:38:17] ddary: to  be honest
+[2014-04-04 09:38:17] lukeis: yep
+[2014-04-04 09:39:00] ddary: but maybe we should define what the spec is that we plan to support
+[2014-04-04 09:39:39] lukeis: that's a bit hard… we support JSON wire, but really only however the main 4 languages implement it
+[2014-04-04 09:40:00] lukeis: and i'll be making us compatible with the WebDriver W3C spec
