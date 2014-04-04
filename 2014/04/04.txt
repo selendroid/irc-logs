@@ -84,3 +84,16 @@
 [2014-04-04 10:09:45] ddary: be ahead of curve and if you have record and playback you're doing the right thing
 [2014-04-04 10:09:54] ddary: ---> not!
 [2014-04-04 10:09:59] lukeis: s/right/wrong/ :)
+[2014-04-04 10:10:38] ddary: it is still interesting what people thing hwat testing is and how it should be done
+[2014-04-04 10:11:13] lukeis: the interactive feature of the inspector still gets me sometimes… i accidentally click on the screenshot and then… ooops! ;)
+[2014-04-04 10:11:44] ddary: sure there are different contexts, but i think the worlf of having test case designers and test case executors is still there, but will end soon
+[2014-04-04 10:12:16] ddary: does the click work in your case? at least for buttons it should work
+[2014-04-04 10:12:17] lukeis: oh yeah, there's plenty of places who still don't even do test automation o.0
+[2014-04-04 10:12:36] lukeis: ddary: it works!  but I don't want it too! :)
+[2014-04-04 10:12:45] ddary: ah
+[2014-04-04 10:12:58] lukeis: i never actually want to use inspector to *do* anything to my app
+[2014-04-04 10:13:11] ddary: me neither
+[2014-04-04 10:13:42] lukeis: i might implement a flag or something to disable it ;)
+[2014-04-04 10:14:00] ddary: but if stupid questions arrive, we can point them to the basic implementation and ask for a contribution: problem solved
+[2014-04-04 10:14:09] ddary: ok
+[2014-04-04 10:14:47] lukeis: true
