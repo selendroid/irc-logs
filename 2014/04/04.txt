@@ -107,3 +107,26 @@
 [2014-04-04 10:18:41] lukeis: the webview causes problems often because the dom is too big for the alert buffer
 [2014-04-04 10:19:10] lukeis: i still need to do batching there to fix it...
 [2014-04-04 10:19:59] ddary: as i wrote, i worked in my spare time more than a year ago in making add javajavascript method happen
+[2014-04-04 10:20:08] ddary: but i failed
+[2014-04-04 10:20:33] lukeis: which api levels did it fail on?
+[2014-04-04 10:20:46] ddary: my conclusion was, that maybe that is not working because there is the selendroid-server and the aut
+[2014-04-04 10:21:01] lukeis: ahhh
+[2014-04-04 10:21:04] ddary: if it is called from the aut like the androiddriver, it works
+[2014-04-04 10:21:23] ddary: if it is kind of extern, then it just is not there
+[2014-04-04 10:21:30] ddary: it drove me nuts
+[2014-04-04 10:21:32] ddary: really
+[2014-04-04 10:21:37] lukeis: i don't mind using the alert method, since our app uses the addJavascript method
+[2014-04-04 10:21:51] lukeis: :)
+[2014-04-04 10:21:51] ddary: and if you loook at calabash and robtoium, they do it in the same way
+[2014-04-04 10:22:14] lukeis: the old android driver did it with alert though
+[2014-04-04 10:22:45] ddary: that is what i said, but the difference was, that there was everything bundled into one app
+[2014-04-04 10:22:57] ddary: with selendroid we have two
+[2014-04-04 10:23:06] lukeis: yep
+[2014-04-04 10:23:18] ddary: i was testing on (if i remember correct) 10,15,16
+[2014-04-04 10:23:36] ddary: with 17 i guess there is this new annotation
+[2014-04-04 10:23:43] lukeis: ¯\_(ツ)_/¯
+[2014-04-04 10:24:41] ddary: one of our managers replied in a good way to a mention of this blind PR:
+[2014-04-04 10:24:46] ddary: Actually we've opened up the whole repo so anyone can commit.
+[2014-04-04 10:24:46] ddary: Go help yourself - push in anything you like
+[2014-04-04 10:24:47] ddary: posted April 1st
+[2014-04-04 10:24:58] ddary: ;)
