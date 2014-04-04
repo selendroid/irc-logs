@@ -160,3 +160,6 @@
 [2014-04-04 22:19:43] snover: or is this a bug?
 [2014-04-04 22:21:59] lukeis1, changing nick to lukeis.
 [2014-04-04 23:08:51] samuelhorwitz: protractor 0.21.0 is out now so the fixes I made to get Protractor to work with Selendroid are live in the newest release
+[2014-04-04 23:13:22] lukeis: nice :)
+[2014-04-04 23:14:31] peter, joining. (#selendroid)
+[2014-04-04 23:14:51] peter, changing nick to Guest65874.
