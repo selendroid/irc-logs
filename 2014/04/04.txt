@@ -146,3 +146,4 @@
 [2014-04-04 16:54:03] selendroid-git: selendroid/master df58bbf Dominik Dary: Added support to switch context between native and webview.
 [2014-04-04 16:54:03] selendroid-git: selendroid/master 6447314 Dominik Dary: cleanup in the capabilities
 [2014-04-04 16:54:03] selendroid-git, leaving. (#selendroid)
+[2014-04-04 17:00:03] ddary, quitting. (Quit: ddary)
