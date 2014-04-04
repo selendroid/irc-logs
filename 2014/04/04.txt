@@ -64,3 +64,4 @@
 [2014-04-04 09:50:47] lukeis: "I'm a Javascript developer, I don't do Java"  ….
 [2014-04-04 09:51:04] *lukeis throws him out of the selendroid project and points him to appium ;)'
 [2014-04-04 09:51:26] ddary: :D
+[2014-04-04 10:03:52] lukeis: ok… i hope my last comment wasn't too bad… but kind of i do ;)
