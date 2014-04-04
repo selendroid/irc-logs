@@ -59,3 +59,8 @@
 [2014-04-04 09:49:30] ddary: that is a comment that is perfect for selenium memes
 [2014-04-04 09:49:39] ddary: i dont know
 [2014-04-04 09:49:59] ddary: as i wrote, if people look at the details and would like to make it better, fine
+[2014-04-04 09:50:22] ddary: if it is just creating noise, i'm not fine
+[2014-04-04 09:50:33] lukeis: it's feeling like that to me though
+[2014-04-04 09:50:47] lukeis: "I'm a Javascript developer, I don't do Java"  ….
+[2014-04-04 09:51:04] *lukeis throws him out of the selendroid project and points him to appium ;)'
+[2014-04-04 09:51:26] ddary: :D
