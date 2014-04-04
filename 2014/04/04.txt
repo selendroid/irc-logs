@@ -164,3 +164,4 @@
 [2014-04-04 23:14:31] peter, joining. (#selendroid)
 [2014-04-04 23:14:51] peter, changing nick to Guest65874.
 [2014-04-04 23:16:11] Guest65874, quitting. (Client Quit)
+[2014-04-04 23:34:17] lukeis, quitting. (Quit: Leaving.)
