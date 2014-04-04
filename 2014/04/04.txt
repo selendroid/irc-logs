@@ -152,3 +152,4 @@
 [2014-04-04 18:19:46] gimpneek, quitting. (Remote host closed the connection)
 [2014-04-04 18:21:53] jlipps, joining. (#selendroid)
 [2014-04-04 20:57:52] lukeis, quitting. (Quit: Leaving.)
+[2014-04-04 21:01:23] lukeis, joining. (#selendroid)
