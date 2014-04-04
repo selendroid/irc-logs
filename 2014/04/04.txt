@@ -18,3 +18,28 @@
 [2014-04-04 09:39:00] ddary: but maybe we should define what the spec is that we plan to support
 [2014-04-04 09:39:39] lukeis: that's a bit hard… we support JSON wire, but really only however the main 4 languages implement it
 [2014-04-04 09:40:00] lukeis: and i'll be making us compatible with the WebDriver W3C spec
+[2014-04-04 09:40:12] lukeis: and I'll be trying to implement the mobile-spec too ;)
+[2014-04-04 09:40:18] ddary: yah i know
+[2014-04-04 09:40:26] ddary: that is the trick
+[2014-04-04 09:40:30] lukeis: so many specs...
+[2014-04-04 09:40:33] ddary: yep
+[2014-04-04 09:40:45] ddary: i looked up the command not mapped etc
+[2014-04-04 09:40:45] lukeis: but the JSON Wire is more like a Guide… not a spec
+[2014-04-04 09:40:50] ddary: and that is really written there
+[2014-04-04 09:40:58] ddary: it does not cause an error
+[2014-04-04 09:41:07] ddary: but it is wrtitten there
+[2014-04-04 09:41:29] ddary: I have next week 3 days of pairing with detro and then we will have a look
+[2014-04-04 09:41:31] lukeis: don't worry about inconsistencies with the JSON Wire document
+[2014-04-04 09:42:01] lukeis: the real thing to worry about is being compatible with the Java bindings :-D
+[2014-04-04 09:42:11] ddary: yep
+[2014-04-04 09:42:22] ddary: i have a stupid question
+[2014-04-04 09:42:32] lukeis: doubtful from you ;)
+[2014-04-04 09:42:45] ddary: but is remote webdriver not any longer compatibale with the webdriver interface?
+[2014-04-04 09:43:00] ddary: i have issues updating the webdriver version in selendroid
+[2014-04-04 09:43:04] lukeis: it's always been an implementation
+[2014-04-04 09:43:29] lukeis: barancev has been mucking with it to deal with Augmenter problems
+[2014-04-04 09:44:18] ddary: ok, then I'll have a look again and can ask him if the isse is still there
+[2014-04-04 09:44:36] lukeis: I can take a stab at the upgrade later to see what the issue is
+[2014-04-04 09:44:42] ddary: I also don't get why people have issues with android list avd
+[2014-04-04 09:44:53] lukeis: right now, I've completely destroyed java on my mac… fun ;)
+[2014-04-04 09:44:59] ddary: oh
