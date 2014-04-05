@@ -9,3 +9,4 @@
 [2014-04-05 03:12:34] Raja: hello there
 [2014-04-05 03:12:50] Raja, changing nick to Guest88731.
 [2014-04-05 03:13:09] Guest88731: hello
+[2014-04-05 03:30:13] Guest88731, quitting. (Quit: Page closed)
