@@ -17,3 +17,4 @@
 [2014-04-05 09:10:46] jlipps, joining. (#selendroid)
 [2014-04-05 09:18:46] jlipps, quitting. (Quit: Leaving.)
 [2014-04-05 09:59:36] samuelhorwitz, quitting. (Read error: Connection reset by peer)
+[2014-04-05 10:00:09] samuelhorwitz, joining. (#selendroid)
