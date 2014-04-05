@@ -4,3 +4,4 @@
 [2014-04-05 02:15:36] jlipps, quitting. (Quit: Leaving.)
 [2014-04-05 02:42:24] jlipps, joining. (#selendroid)
 [2014-04-05 02:58:18] jlipps, quitting. (Quit: Leaving.)
+[2014-04-05 03:07:18] snover, leaving. (#selendroid)
