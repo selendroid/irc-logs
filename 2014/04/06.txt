@@ -23,3 +23,4 @@
 [2014-04-06 22:28:57] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-06 22:40:07] samuelho_, joining. (#selendroid)
 [2014-04-06 22:48:18] samuelhorwitz, quitting. (*.net *.split)
+[2014-04-06 23:10:18] smccarthy, joining. (#selendroid)
