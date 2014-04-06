@@ -12,3 +12,5 @@
 [2014-04-06 17:55:54] smccarthy, joining. (#selendroid)
 [2014-04-06 18:17:11] ddary, joining. (#selendroid)
 [2014-04-06 18:19:50] ddary, quitting. (Client Quit)
+[2014-04-06 19:00:14] jlipps, joining. (#selendroid)
+[2014-04-06 19:04:09] smccarthy, quitting. (Remote host closed the connection)
