@@ -20,3 +20,4 @@
 [2014-04-06 20:41:42] ddary, joining. (#selendroid)
 [2014-04-06 20:42:57] jlipps, quitting. (Quit: Leaving.)
 [2014-04-06 20:47:25] ddary, quitting. (Quit: ddary)
+[2014-04-06 22:28:57] smccarthy, quitting. (Remote host closed the connection)
