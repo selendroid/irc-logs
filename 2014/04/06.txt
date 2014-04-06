@@ -2,3 +2,5 @@
 [2014-04-06 01:50:29] jlipps, quitting. (Quit: Leaving.)
 [2014-04-06 05:10:11] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-04-06 05:10:43] smccarthy, joining. (#selendroid)
+[2014-04-06 08:18:24] ddary, joining. (#selendroid)
+[2014-04-06 08:18:29] ddary, quitting. (Client Quit)
