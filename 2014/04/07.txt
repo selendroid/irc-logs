@@ -99,3 +99,4 @@
 [2014-04-07 16:35:49] ddary, joining. (#selendroid)
 [2014-04-07 17:11:29] TomC, quitting. (Read error: Connection reset by peer)
 [2014-04-07 17:11:42] TomC, joining. (#selendroid)
+[2014-04-07 17:39:27] smccarthy, joining. (#selendroid)
