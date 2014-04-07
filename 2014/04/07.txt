@@ -82,3 +82,6 @@
 [2014-04-07 12:38:08] TomC, quitting. (Ping timeout: 246 seconds)
 [2014-04-07 12:49:01] TomC, joining. (#selendroid)
 [2014-04-07 12:54:22] ddary: TomC have you activated usb debugging?
+[2014-04-07 12:57:22] ddary: TomC: if the device is recognized by
+[2014-04-07 12:57:25] ddary: adb devices
+[2014-04-07 12:57:34] ddary: selendroid must find it
