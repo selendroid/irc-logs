@@ -68,3 +68,5 @@
 [2014-04-07 11:52:59] TomC: let me try specifying a platform version
 [2014-04-07 11:53:21] TomC: i'll let you know...
 [2014-04-07 11:53:41] ddary: ok
+[2014-04-07 12:24:26] TomC: @ddary the problem is that the devices aren't being recognised
+[2014-04-07 12:24:40] TomC: some devices will be recognised, others won't
