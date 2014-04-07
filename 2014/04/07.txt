@@ -58,3 +58,13 @@
 [2014-04-07 11:49:33] TomC: i do not specify a platform version
 [2014-04-07 11:49:45] ddary: that is the issue
 [2014-04-07 11:50:01] ddary: if you have connected multiple devices with different paltform versions
+[2014-04-07 11:50:22] ddary: if you go to the webpage http://localhost:4444/wd/hub/status
+[2014-04-07 11:50:32] ddary: you will see what devices are available
+[2014-04-07 11:50:41] ddary: when you start then your test
+[2014-04-07 11:51:25] ddary: and if you then specifiy the platformVersion e.g. 10 selendroid-standalone tries to find a device with that platform version
+[2014-04-07 11:51:54] ddary: http://selendroid.io/setup.html#androidDevices
+[2014-04-07 11:52:40] TomC: hmm
+[2014-04-07 11:52:48] TomC: OK
+[2014-04-07 11:52:59] TomC: let me try specifying a platform version
+[2014-04-07 11:53:21] TomC: i'll let you know...
+[2014-04-07 11:53:41] ddary: ok
