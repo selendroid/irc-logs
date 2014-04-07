@@ -15,3 +15,6 @@
 [2014-04-07 11:09:24] TomC: but not on 4.1.x
 [2014-04-07 11:11:34] TomC: is there a minimum version requirement?
 [2014-04-07 11:24:28] TomC: anyone there?
+[2014-04-07 11:35:08] TomC, quitting. (Read error: Connection reset by peer)
+[2014-04-07 11:37:45] gimpneek, joining. (#selendroid)
+[2014-04-07 11:38:06] TomC, joining. (#selendroid)
