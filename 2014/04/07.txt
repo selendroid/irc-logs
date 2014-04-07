@@ -26,3 +26,35 @@
 [2014-04-07 11:44:34] TomC: it seems that the AndroidDriver Webvie app
 [2014-04-07 11:44:51] TomC: will not run/install on Android 4.1.x
 [2014-04-07 11:44:53] TomC: get me?
+[2014-04-07 11:45:05] TomC: it WILL install/run on 4.4.x
+[2014-04-07 11:45:41] ddary: how does your capabilities looks like
+[2014-04-07 11:46:10] TomC: i have scaling working on multiple android devices which are 4.4.x
+[2014-04-07 11:46:20] TomC: i am strictlyMOBILE WEB testing only
+[2014-04-07 11:46:25] TomC: NOT app testing
+[2014-04-07 11:46:30] TomC: here's the config JSON
+[2014-04-07 11:46:36] TomC: {
+[2014-04-07 11:46:38] TomC:   "capabilities": [{
+[2014-04-07 11:46:40] TomC:       "browserName": "android",
+[2014-04-07 11:46:41] TomC:       "maxInstances": 2
+[2014-04-07 11:46:42] TomC:   },{
+[2014-04-07 11:46:44] TomC:       "browserName": "chrome",
+[2014-04-07 11:46:45] TomC:       "maxInstances": 2
+[2014-04-07 11:46:47] TomC:   }],
+[2014-04-07 11:46:49] TomC:   "configuration": {
+[2014-04-07 11:46:50] TomC:       "maxSession": 4,
+[2014-04-07 11:46:52] TomC:       "register": true,
+[2014-04-07 11:46:53] TomC:       "hubHost": "localhost",
+[2014-04-07 11:46:55] TomC:       "hubPort": 4444,
+[2014-04-07 11:46:56] TomC:       "remoteHost": "http://localhost:5555",
+[2014-04-07 11:46:58] TomC:       "proxy": "io.selendroid.grid.SelendroidSessionProxy"
+[2014-04-07 11:46:59] TomC:   }
+[2014-04-07 11:47:01] TomC: }
+[2014-04-07 11:47:37] ddary: that is the registration rquest
+[2014-04-07 11:47:43] ddary: to the grid hub
+[2014-04-07 11:48:00] TomC: should the AndroidSriver Webview App install and run on Android4.1.x?
+[2014-04-07 11:48:16] ddary: i mean more like when you want to start the test, how do you specify the platformVersion?
+[2014-04-07 11:48:21] ddary: yes
+[2014-04-07 11:48:32] TomC: OK
+[2014-04-07 11:49:33] TomC: i do not specify a platform version
+[2014-04-07 11:49:45] ddary: that is the issue
+[2014-04-07 11:50:01] ddary: if you have connected multiple devices with different paltform versions
