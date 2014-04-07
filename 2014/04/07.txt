@@ -5,3 +5,11 @@
 [2014-04-07 06:48:17] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-07 10:44:45] ddary, joining. (#selendroid)
 [2014-04-07 10:44:52] ddary: :spec
+[2014-04-07 11:06:58] linagee, quitting. (Ping timeout: 240 seconds)
+[2014-04-07 11:07:00] TomC, joining. (#selendroid)
+[2014-04-07 11:07:24] TomC: good morning from Belfast, N.Ireland
+[2014-04-07 11:07:34] TomC: quick Q about scaling?
+[2014-04-07 11:08:00] linagee, joining. (#selendroid)
+[2014-04-07 11:08:47] TomC: will selendroid/selendroid scaling work only with Android 4.4.x?
+[2014-04-07 11:08:58] TomC: seems to work OK on 4.4.x
+[2014-04-07 11:09:24] TomC: but not on 4.1.x
