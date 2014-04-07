@@ -81,3 +81,4 @@
 [2014-04-07 12:29:07] TomC: back shortly
 [2014-04-07 12:38:08] TomC, quitting. (Ping timeout: 246 seconds)
 [2014-04-07 12:49:01] TomC, joining. (#selendroid)
+[2014-04-07 12:54:22] ddary: TomC have you activated usb debugging?
