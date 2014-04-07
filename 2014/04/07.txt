@@ -94,3 +94,4 @@
 [2014-04-07 15:02:29] selendroid-git: [selendroid] detro pushed 1 new commit to master: http://git.io/BH76Zg
 [2014-04-07 15:02:29] selendroid-git: selendroid/master 700b0e7 Ivan De Marino: Moving AndroidManifest.xml in selendroid-standalone into test resources....
 [2014-04-07 15:02:29] selendroid-git, leaving. (#selendroid)
+[2014-04-07 15:54:29] TomC, quitting. (Ping timeout: 246 seconds)
