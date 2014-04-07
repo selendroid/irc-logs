@@ -90,3 +90,7 @@
 [2014-04-07 13:16:28] ddary, quitting. (Ping timeout: 245 seconds)
 [2014-04-07 14:58:08] TomC, quitting. (Ping timeout: 246 seconds)
 [2014-04-07 14:59:14] TomC, joining. (#selendroid)
+[2014-04-07 15:02:29] selendroid-git, joining. (#selendroid)
+[2014-04-07 15:02:29] selendroid-git: [selendroid] detro pushed 1 new commit to master: http://git.io/BH76Zg
+[2014-04-07 15:02:29] selendroid-git: selendroid/master 700b0e7 Ivan De Marino: Moving AndroidManifest.xml in selendroid-standalone into test resources....
+[2014-04-07 15:02:29] selendroid-git, leaving. (#selendroid)
