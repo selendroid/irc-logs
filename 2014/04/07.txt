@@ -85,3 +85,5 @@
 [2014-04-07 12:57:22] ddary: TomC: if the device is recognized by
 [2014-04-07 12:57:25] ddary: adb devices
 [2014-04-07 12:57:34] ddary: selendroid must find it
+[2014-04-07 13:01:13] TomC: @ddary need to update the SDK manager with some missing packages
+[2014-04-07 13:01:23] TomC: that's probably the issue
