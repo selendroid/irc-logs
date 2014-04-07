@@ -114,3 +114,4 @@
 [2014-04-07 18:45:22] selendroid-git: selendroid/master d4b9945 Dominik Dary: Giving Ivan the official commit and release bit.
 [2014-04-07 18:45:22] selendroid-git, leaving. (#selendroid)
 [2014-04-07 18:49:33] ddary, quitting. (Quit: Page closed)
+[2014-04-07 18:59:45] TomC, quitting. (Quit: ChatZilla 0.9.90.1 [Firefox 28.0/20140314220517])
