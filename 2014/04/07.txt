@@ -108,3 +108,9 @@
 [2014-04-07 18:37:26] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/CM7I9w
 [2014-04-07 18:37:26] selendroid-git: selendroid/master 586465f Dominik Dary: Updates authors and changelog
 [2014-04-07 18:37:26] selendroid-git, leaving. (#selendroid)
+[2014-04-07 18:45:10] detronizator, joining. (#selendroid)
+[2014-04-07 18:45:22] selendroid-git, joining. (#selendroid)
+[2014-04-07 18:45:22] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/aNAP7g
+[2014-04-07 18:45:22] selendroid-git: selendroid/master d4b9945 Dominik Dary: Giving Ivan the official commit and release bit.
+[2014-04-07 18:45:22] selendroid-git, leaving. (#selendroid)
+[2014-04-07 18:49:33] ddary, quitting. (Quit: Page closed)
