@@ -18,3 +18,11 @@
 [2014-04-07 11:35:08] TomC, quitting. (Read error: Connection reset by peer)
 [2014-04-07 11:37:45] gimpneek, joining. (#selendroid)
 [2014-04-07 11:38:06] TomC, joining. (#selendroid)
+[2014-04-07 11:40:21] ddary: Hi TomC
+[2014-04-07 11:40:39] ddary: what do you mean by it scales only at android 4.4?
+[2014-04-07 11:43:13] ddary: in general you can scale by using selenium grid: http://selendroid.io/scale.html
+[2014-04-07 11:43:51] TomC: yes
+[2014-04-07 11:44:14] TomC: the problem is this
+[2014-04-07 11:44:34] TomC: it seems that the AndroidDriver Webvie app
+[2014-04-07 11:44:51] TomC: will not run/install on Android 4.1.x
+[2014-04-07 11:44:53] TomC: get me?
