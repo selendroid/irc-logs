@@ -100,3 +100,7 @@
 [2014-04-07 17:11:29] TomC, quitting. (Read error: Connection reset by peer)
 [2014-04-07 17:11:42] TomC, joining. (#selendroid)
 [2014-04-07 17:39:27] smccarthy, joining. (#selendroid)
+[2014-04-07 18:31:09] selendroid-git: [selendroid] detro pushed 1 new commit to master: http://git.io/PxLGfA
+[2014-04-07 18:31:11] selendroid-git, joining. (#selendroid)
+[2014-04-07 18:31:11] selendroid-git, leaving. (#selendroid)
+[2014-04-07 18:31:11] selendroid-git: selendroid/master f9f7c5a Ivan De Marino: Changed handling of switchContext(WEBVIEW_ID) by normalising the input....
