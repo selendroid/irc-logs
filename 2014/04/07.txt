@@ -79,3 +79,4 @@
 [2014-04-07 12:27:15] TomC: but it does not register on the selendroid server
 [2014-04-07 12:27:47] TomC: i probably need to alter some settings on the 4.1.x devices
 [2014-04-07 12:29:07] TomC: back shortly
+[2014-04-07 12:38:08] TomC, quitting. (Ping timeout: 246 seconds)
