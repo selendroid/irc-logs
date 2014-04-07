@@ -3,3 +3,5 @@
 [2014-04-07 05:21:50] ddary, joining. (#selendroid)
 [2014-04-07 05:30:13] ddary, quitting. (Ping timeout: 240 seconds)
 [2014-04-07 06:48:17] smccarthy, quitting. (Remote host closed the connection)
+[2014-04-07 10:44:45] ddary, joining. (#selendroid)
+[2014-04-07 10:44:52] ddary: :spec
