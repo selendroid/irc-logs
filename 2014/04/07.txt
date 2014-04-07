@@ -104,3 +104,7 @@
 [2014-04-07 18:31:11] selendroid-git, joining. (#selendroid)
 [2014-04-07 18:31:11] selendroid-git, leaving. (#selendroid)
 [2014-04-07 18:31:11] selendroid-git: selendroid/master f9f7c5a Ivan De Marino: Changed handling of switchContext(WEBVIEW_ID) by normalising the input....
+[2014-04-07 18:37:26] selendroid-git, joining. (#selendroid)
+[2014-04-07 18:37:26] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/CM7I9w
+[2014-04-07 18:37:26] selendroid-git: selendroid/master 586465f Dominik Dary: Updates authors and changelog
+[2014-04-07 18:37:26] selendroid-git, leaving. (#selendroid)
