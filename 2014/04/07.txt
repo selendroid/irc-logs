@@ -70,3 +70,12 @@
 [2014-04-07 11:53:41] ddary: ok
 [2014-04-07 12:24:26] TomC: @ddary the problem is that the devices aren't being recognised
 [2014-04-07 12:24:40] TomC: some devices will be recognised, others won't
+[2014-04-07 12:25:05] TomC: it's probably a coincidence that 4.4.x devices will be recognised
+[2014-04-07 12:25:10] TomC: and 4.1.x won't
+[2014-04-07 12:25:39] TomC: when i run the server, it will detect when (for example) a nexus 7 is plugged in or out
+[2014-04-07 12:26:10] TomC: nothing happens when i plug in/out a Samsung S2 Android 4.1.x
+[2014-04-07 12:26:18] TomC: the server does not detect it
+[2014-04-07 12:26:49] TomC: when i plug in a 4.1.x, the Android File Transfer app on my mac opens instead
+[2014-04-07 12:27:15] TomC: but it does not register on the selendroid server
+[2014-04-07 12:27:47] TomC: i probably need to alter some settings on the 4.1.x devices
+[2014-04-07 12:29:07] TomC: back shortly
