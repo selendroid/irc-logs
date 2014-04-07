@@ -88,3 +88,5 @@
 [2014-04-07 13:01:13] TomC: @ddary need to update the SDK manager with some missing packages
 [2014-04-07 13:01:23] TomC: that's probably the issue
 [2014-04-07 13:16:28] ddary, quitting. (Ping timeout: 245 seconds)
+[2014-04-07 14:58:08] TomC, quitting. (Ping timeout: 246 seconds)
+[2014-04-07 14:59:14] TomC, joining. (#selendroid)
