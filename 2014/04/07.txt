@@ -125,3 +125,4 @@
 [2014-04-07 21:54:17] samuelhorwitz, changing nick to samuelhorwitz_.
 [2014-04-07 21:54:45] samuelhorwitz_, changing nick to samuelhorwitz__.
 [2014-04-07 21:54:51] samuelhorwitz__, changing nick to samuelhorwitz.
+[2014-04-07 23:07:53] smccarthy, joining. (#selendroid)
