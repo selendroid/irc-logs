@@ -25,3 +25,7 @@
 [2014-04-08 11:43:56] TomC: this will work OK on Android 4.4.x devices
 [2014-04-08 11:44:07] TomC: but not on 4.1.x
 [2014-04-08 11:44:52] TomC: the AndroidDriver Webview app will produce a 401 Auth Required
+[2014-04-08 11:45:06] TomC: whereas 4.4 will work perfectly well
+[2014-04-08 11:45:13] TomC: any ideas?
+[2014-04-08 11:45:43] TomC: the 4.1 devices will work perfectly well with a URL which does not require authentication
+[2014-04-08 11:45:52] TomC: eg http://www.rte.ie
