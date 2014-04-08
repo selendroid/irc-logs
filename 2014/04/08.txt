@@ -103,3 +103,21 @@
 [2014-04-08 20:40:58] smccarthy2, joining. (#selendroid)
 [2014-04-08 20:44:38] smccarthy, quitting. (Ping timeout: 246 seconds)
 [2014-04-08 22:10:26] modeck, joining. (#selendroid)
+[2014-04-08 22:20:10] modeck: good evening
+[2014-04-08 22:20:28] modeck: i'm a selendroid newbie so please don't shout at my goofy question
+[2014-04-08 22:20:31] modeck: :)
+[2014-04-08 22:20:53] modeck: i've got a grid running 4 android nodes
+[2014-04-08 22:20:57] *lukeis gets ready to yell ;)'
+[2014-04-08 22:21:54] modeck: *strictly* mobile web testing only
+[2014-04-08 22:22:00] modeck: no apps at all
+[2014-04-08 22:22:25] modeck: in the PY file, the broswer is ANDROID in the caps
+[2014-04-08 22:23:21] modeck: am i correct in thinking that when the script executes in the SE Android Driver webview app
+[2014-04-08 22:23:21] lukeis: should be  "browserName": "android"
+[2014-04-08 22:23:39] modeck: what i see is a version of the default android browser?
+[2014-04-08 22:23:40] lukeis: in python… webdriver.DesiredCapabilities.ANDROID
+[2014-04-08 22:23:50] modeck: @lukeis yes, the second
+[2014-04-08 22:23:59] lukeis: heh, it's the same thing :)
+[2014-04-08 22:24:03] modeck: what i want to know is....
+[2014-04-08 22:24:32] modeck: is it possible to do the same for Google Chrome - get it up and running in the SE ADWA ?
+[2014-04-08 22:24:38] lukeis: what you see is a WebView embedded in a "simple" app provided by Selendroid
+[2014-04-08 22:24:47] lukeis: use chromedriver
