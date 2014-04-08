@@ -29,3 +29,6 @@
 [2014-04-08 11:45:13] TomC: any ideas?
 [2014-04-08 11:45:43] TomC: the 4.1 devices will work perfectly well with a URL which does not require authentication
 [2014-04-08 11:45:52] TomC: eg http://www.rte.ie
+[2014-04-08 11:52:09] TomC: also, when you put http://username:password@url.tld/ directly into the address bar of chrome or default browser on a 4.1.x device, it works OK
+[2014-04-08 11:52:36] TomC: it just does not work in the AndroidDriver Webview App
+[2014-04-08 11:52:41] TomC: i hope all of the above is clear
