@@ -129,3 +129,4 @@
 [2014-04-08 22:27:15] lukeis: yes
 [2014-04-08 22:27:19] modeck: OK cool
 [2014-04-08 22:27:22] modeck: good to know, thanks
+[2014-04-08 23:43:00] detronizator, joining. (#selendroid)
