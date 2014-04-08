@@ -94,3 +94,7 @@
 [2014-04-08 17:44:31] lukeis: none what-so-ever :)
 [2014-04-08 18:02:19] smccarthy, joining. (#selendroid)
 [2014-04-08 18:18:48] ddary, quitting. (Ping timeout: 240 seconds)
+[2014-04-08 18:25:00] selendroid-git, joining. (#selendroid)
+[2014-04-08 18:25:00] selendroid-git: [selendroid] DominikDary created logging (+1 new commit): http://git.io/coT84g
+[2014-04-08 18:25:00] selendroid-git: selendroid/logging be1c1a6 Dominik Dary: first version of a new android logger, unit tests on the jvm still fail.
+[2014-04-08 18:25:00] selendroid-git, leaving. (#selendroid)
