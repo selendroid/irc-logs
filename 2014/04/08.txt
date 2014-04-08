@@ -98,3 +98,4 @@
 [2014-04-08 18:25:00] selendroid-git: [selendroid] DominikDary created logging (+1 new commit): http://git.io/coT84g
 [2014-04-08 18:25:00] selendroid-git: selendroid/logging be1c1a6 Dominik Dary: first version of a new android logger, unit tests on the jvm still fail.
 [2014-04-08 18:25:00] selendroid-git, leaving. (#selendroid)
+[2014-04-08 19:02:37] gimpneek, quitting. (Remote host closed the connection)
