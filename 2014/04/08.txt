@@ -41,3 +41,4 @@
 [2014-04-08 12:35:54] selendroid-git: selendroid/master 4f602f8 Ivan De Marino: Added CLI option `-forceReinstall` for Standalone....
 [2014-04-08 12:35:54] selendroid-git, leaving. (#selendroid)
 [2014-04-08 12:36:29] ddary, joining. (#selendroid)
+[2014-04-08 13:08:18] ddary, quitting. (Ping timeout: 240 seconds)
