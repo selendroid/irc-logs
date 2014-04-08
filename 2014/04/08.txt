@@ -57,3 +57,5 @@
 [2014-04-08 16:05:43] TomC, quitting. (Remote host closed the connection)
 [2014-04-08 16:28:34] samuelhorwitz: 3
 [2014-04-08 16:28:45] samuelhorwitz: whoops wrong window
+[2014-04-08 16:45:14] selendroidbot_, joining. (#selendroid)
+[2014-04-08 16:49:11] samuelhorwitz, joining. (#selendroid)
