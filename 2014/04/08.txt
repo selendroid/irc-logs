@@ -62,3 +62,7 @@
 [2014-04-08 16:55:12] lolyzor, quitting. (Quit: Page closed)
 [2014-04-08 17:05:49] linagee, joining. (#selendroid)
 [2014-04-08 17:24:41] lukeis, joining. (#selendroid)
+[2014-04-08 17:25:12] lukeis: detronizator: so, are you going to be the new android / selendroid guy at ebay?
+[2014-04-08 17:25:34] detronizator: more like "doing some work on it"
+[2014-04-08 17:25:49] detronizator: "the" guy it's hard to be: Dominik leaves very large shoes to fill
+[2014-04-08 17:25:56] lukeis: :)
