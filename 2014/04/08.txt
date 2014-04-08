@@ -54,3 +54,4 @@
 [2014-04-08 15:12:27] lolyzor: Hi, whats up ppl,
 [2014-04-08 15:12:45] lolyzor: is there any way to manipulate spinner with selendriod
 [2014-04-08 15:13:00] lolyzor: select it and select an option inside it
+[2014-04-08 16:05:43] TomC, quitting. (Remote host closed the connection)
