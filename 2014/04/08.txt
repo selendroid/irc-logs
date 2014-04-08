@@ -36,3 +36,8 @@
 [2014-04-08 12:29:40] detronizator, joining. (#selendroid)
 [2014-04-08 12:32:26] TomC, quitting. (Ping timeout: 252 seconds)
 [2014-04-08 12:34:13] TomC, joining. (#selendroid)
+[2014-04-08 12:35:54] selendroid-git, joining. (#selendroid)
+[2014-04-08 12:35:54] selendroid-git: [selendroid] detro pushed 1 new commit to master: http://git.io/19LhgQ
+[2014-04-08 12:35:54] selendroid-git: selendroid/master 4f602f8 Ivan De Marino: Added CLI option `-forceReinstall` for Standalone....
+[2014-04-08 12:35:54] selendroid-git, leaving. (#selendroid)
+[2014-04-08 12:36:29] ddary, joining. (#selendroid)
