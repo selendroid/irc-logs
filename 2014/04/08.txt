@@ -121,3 +121,11 @@
 [2014-04-08 22:24:32] modeck: is it possible to do the same for Google Chrome - get it up and running in the SE ADWA ?
 [2014-04-08 22:24:38] lukeis: what you see is a WebView embedded in a "simple" app provided by Selendroid
 [2014-04-08 22:24:47] lukeis: use chromedriver
+[2014-04-08 22:25:04] lukeis: https://sites.google.com/a/chromium.org/chromedriver/getting-started/getting-started---android
+[2014-04-08 22:25:13] modeck: i've used chromedriver for desktop selenium testing, yes
+[2014-04-08 22:25:26] lukeis: read that page i linked, it's for Android
+[2014-04-08 22:26:40] modeck: OK
+[2014-04-08 22:27:03] modeck: so webview is a version of the default android browser - correct?
+[2014-04-08 22:27:15] lukeis: yes
+[2014-04-08 22:27:19] modeck: OK cool
+[2014-04-08 22:27:22] modeck: good to know, thanks
