@@ -15,3 +15,13 @@
 [2014-04-08 11:39:39] AutomatedTester, joining. (#selendroid)
 [2014-04-08 11:39:44] AutomatedTester, quitting. (*.net *.split)
 [2014-04-08 11:39:54] TomC, joining. (#selendroid)
+[2014-04-08 11:40:39] AutomatedTester, joining. (#selendroid)
+[2014-04-08 11:41:43] TomC: hi
+[2014-04-08 11:42:03] TomC: quick Q on HTTP authentication in the AndroidDriver Webview app
+[2014-04-08 11:42:30] TomC: using selendroid for mobile web testing ONLY
+[2014-04-08 11:42:30] TomC: not testing any app
+[2014-04-08 11:43:24] TomC: PY code as follows:
+[2014-04-08 11:43:30] TomC: self.driver.get("http://username:password@url.tld")
+[2014-04-08 11:43:56] TomC: this will work OK on Android 4.4.x devices
+[2014-04-08 11:44:07] TomC: but not on 4.1.x
+[2014-04-08 11:44:52] TomC: the AndroidDriver Webview app will produce a 401 Auth Required
