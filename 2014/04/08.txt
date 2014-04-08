@@ -68,3 +68,16 @@
 [2014-04-08 17:25:56] lukeis: :)
 [2014-04-08 17:31:50] ddary, joining. (#selendroid)
 [2014-04-08 17:32:11] ddary: hi all
+[2014-04-08 17:35:40] lukeis: hi :)
+[2014-04-08 17:37:02] ddary: how are you doing?
+[2014-04-08 17:37:26] lukeis: pretty good, had a team outing yesterday, went on a hot air balloon ride in napa :)
+[2014-04-08 17:37:44] ddary: sounds like you had some fun :)
+[2014-04-08 17:38:02] lukeis: yep, and then jim evans and I went wine tasting :)
+[2014-04-08 17:38:06] ddary: we are doing here paring sessions and it actually very good
+[2014-04-08 17:38:18] ddary: not bad :)
+[2014-04-08 17:38:20] lukeis: yeah, i saw the tweets :)
+[2014-04-08 17:38:29] ddary: :)
+[2014-04-08 17:38:45] lukeis: looks like detronizator is um, inheriting? some responsibilities at ebay? :)
+[2014-04-08 17:38:51] ddary: currently android logging drives me nuts if you run tests on the jvm
+[2014-04-08 17:39:24] ddary: and i don't know how to fix it
+[2014-04-08 17:39:54] ddary: we moved the selendroidlogger in the selendroid-server to use the android logging framework
