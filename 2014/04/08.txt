@@ -46,3 +46,4 @@
 [2014-04-08 14:16:20] detronizator, quitting. (Ping timeout: 252 seconds)
 [2014-04-08 14:19:15] detronizator, joining. (#selendroid)
 [2014-04-08 14:27:28] ddary, joining. (#selendroid)
+[2014-04-08 14:37:18] TomC, joining. (#selendroid)
