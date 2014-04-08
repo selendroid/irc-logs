@@ -100,3 +100,5 @@
 [2014-04-08 18:25:00] selendroid-git, leaving. (#selendroid)
 [2014-04-08 19:02:37] gimpneek, quitting. (Remote host closed the connection)
 [2014-04-08 20:37:52] detronizator, quitting. (Quit: Connection closed for inactivity)
+[2014-04-08 20:40:58] smccarthy2, joining. (#selendroid)
+[2014-04-08 20:44:38] smccarthy, quitting. (Ping timeout: 246 seconds)
