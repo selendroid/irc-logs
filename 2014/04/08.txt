@@ -49,3 +49,8 @@
 [2014-04-08 14:37:18] TomC, joining. (#selendroid)
 [2014-04-08 14:59:22] ddary, quitting. (Quit: Page closed)
 [2014-04-08 15:08:41] TomC, quitting. (Read error: Connection reset by peer)
+[2014-04-08 15:11:22] TomC, joining. (#selendroid)
+[2014-04-08 15:12:10] lolyzor, joining. (#selendroid)
+[2014-04-08 15:12:27] lolyzor: Hi, whats up ppl,
+[2014-04-08 15:12:45] lolyzor: is there any way to manipulate spinner with selendriod
+[2014-04-08 15:13:00] lolyzor: select it and select an option inside it
