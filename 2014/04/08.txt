@@ -92,3 +92,4 @@
 [2014-04-08 17:43:59] ddary: lukeis: ^^do you have an idea?
 [2014-04-08 17:44:15] ddary: i mean the issue and not the log ;-)
 [2014-04-08 17:44:31] lukeis: none what-so-ever :)
+[2014-04-08 18:02:19] smccarthy, joining. (#selendroid)
