@@ -59,3 +59,4 @@
 [2014-04-08 16:28:45] samuelhorwitz: whoops wrong window
 [2014-04-08 16:45:14] selendroidbot_, joining. (#selendroid)
 [2014-04-08 16:49:11] samuelhorwitz, joining. (#selendroid)
+[2014-04-08 16:55:12] lolyzor, quitting. (Quit: Page closed)
