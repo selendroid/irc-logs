@@ -34,3 +34,5 @@
 [2014-04-08 11:52:41] TomC: i hope all of the above is clear
 [2014-04-08 12:27:05] detronizator, quitting. (*.net *.split)
 [2014-04-08 12:29:40] detronizator, joining. (#selendroid)
+[2014-04-08 12:32:26] TomC, quitting. (Ping timeout: 252 seconds)
+[2014-04-08 12:34:13] TomC, joining. (#selendroid)
