@@ -6,3 +6,4 @@
 [2014-04-10 00:16:42] sirsteve: could try to slow it down with some timeouts?
 [2014-04-10 00:18:32] sirsteve: still ugly.. isn't there a wire protocol for scrolling in selenium?
 [2014-04-10 00:19:31] smccarthy2, joining. (#selendroid)
+[2014-04-10 00:22:42] smccarthy, quitting. (Ping timeout: 240 seconds)
