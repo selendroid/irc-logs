@@ -1,2 +1,5 @@
 [2014-04-10 00:00:41] modeck: the first line of the pastebin script is executed once
 [2014-04-10 00:01:15] modeck: the second line is executed every time a new page is  loaded
+[2014-04-10 00:12:08] sirsteve: JQ.src = '//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js';  http://?  how much time does injecting jquery add to your tests? seems excessive just to scroll.. and why are you setting the id of the body?
+[2014-04-10 00:13:14] modeck: not sure how much time it adds
+[2014-04-10 00:13:21] modeck: the regular JS scroll is too quick
