@@ -106,3 +106,5 @@
 [2014-04-09 23:47:14] modeck: i want the each page to scroll slowly
 [2014-04-09 23:47:23] modeck: so we can cast an eye over the content
 [2014-04-09 23:48:30] modeck: http://pastebin.com/QiZP6rJ8
+[2014-04-09 23:50:13] modeck: i hope this makes sense?
+[2014-04-09 23:53:28] modeck: the scroll is a 10-second one, not sure there's an easy way of doing this in raw JS
