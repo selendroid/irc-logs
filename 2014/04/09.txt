@@ -64,3 +64,4 @@
 [2014-04-09 18:26:31] detronizator: https://www.irccloud.com/pastebin/r6ROxhUf
 [2014-04-09 18:31:20] detronizator: Build is green again :)
 [2014-04-09 18:31:24] detronizator: I can go home happy
+[2014-04-09 18:36:30] lukeis: i got the same email
