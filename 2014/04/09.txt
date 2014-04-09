@@ -74,3 +74,4 @@
 [2014-04-09 18:51:03] lukeis: it's relatively rare though on selendroid
 [2014-04-09 18:51:22] lukeis: i'm sure dominik gets a lot more ;)
 [2014-04-09 18:51:54] lukeis: github issues being used like a mailing list forum to ask questions is my pet-peeve though
+[2014-04-09 18:59:02] TomC, quitting. (Quit: ChatZilla 0.9.90.1 [Firefox 28.0/20140314220517])
