@@ -25,3 +25,4 @@
 [2014-04-09 16:57:33] selendroid-git: [selendroid] detro pushed 1 new commit to master: http://git.io/et--jQ
 [2014-04-09 16:57:33] selendroid-git: selendroid/master 03e061f Ivan De Marino: Updating changelog with latest changes
 [2014-04-09 16:57:33] selendroid-git, leaving. (#selendroid)
+[2014-04-09 17:05:40] smccarthy, joining. (#selendroid)
