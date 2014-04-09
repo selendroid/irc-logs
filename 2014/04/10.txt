@@ -14,3 +14,4 @@
 [2014-04-10 00:31:36] modeck: it works fine
 [2014-04-10 00:31:41] modeck: ugly, i agree
 [2014-04-10 00:58:22] lukeis, quitting. (Quit: Leaving.)
+[2014-04-10 01:10:54] modeck, quitting. (Quit: ChatZilla 0.9.90.1 [Firefox 28.0/20140314220517])
