@@ -30,3 +30,4 @@
 [2014-04-09 17:27:55] smccarthy: nm, I see it just changed from a string to a URL
 [2014-04-09 17:29:23] lukeis, joining. (#selendroid)
 [2014-04-09 17:31:50] lukeis: nice work detronizator :)
+[2014-04-09 17:36:06] TomC, quitting. (Ping timeout: 240 seconds)
