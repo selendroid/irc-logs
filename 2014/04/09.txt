@@ -57,3 +57,8 @@
 [2014-04-09 18:08:59] lukeis: nice! and welcome to the project :)
 [2014-04-09 18:12:21] detronizator: thanks
 [2014-04-09 18:17:42] Acemond, quitting. (Remote host closed the connection)
+[2014-04-09 18:25:44] detronizator: few commits and I have ALREADY received a direct email
+[2014-04-09 18:25:51] detronizator: asking me for DETAILED instructions
+[2014-04-09 18:25:54] detronizator: on how to setup selendroid
+[2014-04-09 18:25:58] detronizator: mind you, DETAILED
+[2014-04-09 18:26:31] detronizator: https://www.irccloud.com/pastebin/r6ROxhUf
