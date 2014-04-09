@@ -55,3 +55,4 @@
 [2014-04-09 18:07:49] detronizator: with him was immediate
 [2014-04-09 18:08:10] detronizator: and that's why we manage to do stuff very soon: I had not touch the code base before Monday
 [2014-04-09 18:08:59] lukeis: nice! and welcome to the project :)
+[2014-04-09 18:12:21] detronizator: thanks
