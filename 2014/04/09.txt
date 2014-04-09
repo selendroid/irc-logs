@@ -47,3 +47,11 @@
 [2014-04-09 17:56:24] detronizator: there you go :)
 [2014-04-09 17:56:27] lukeis: ;)
 [2014-04-09 17:57:06] lukeis: man… a german and an italian communicating in english… did you guys actually communicate? :-D
+[2014-04-09 18:07:17] detronizator: Dominik was amazing
+[2014-04-09 18:07:21] detronizator: his english is great
+[2014-04-09 18:07:33] detronizator: it was one of the best Pair-Programming I have ever done
+[2014-04-09 18:07:42] lukeis: awesome :)
+[2014-04-09 18:07:45] detronizator: with some people is really difficult to "think in sync"
+[2014-04-09 18:07:49] detronizator: with him was immediate
+[2014-04-09 18:08:10] detronizator: and that's why we manage to do stuff very soon: I had not touch the code base before Monday
+[2014-04-09 18:08:59] lukeis: nice! and welcome to the project :)
