@@ -3,3 +3,4 @@
 [2014-04-09 01:35:55] smccarthy2, quitting. (Remote host closed the connection)
 [2014-04-09 01:37:41] smccarthy2, joining. (#selendroid)
 [2014-04-09 02:17:52] detronizator, quitting. (Quit: Connection closed for inactivity)
+[2014-04-09 02:34:37] smccarthy2, quitting. (Remote host closed the connection)
