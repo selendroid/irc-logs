@@ -38,3 +38,12 @@
 [2014-04-09 17:54:59] selendroid-git: [selendroid] detro pushed 1 new commit to master: http://git.io/kJCwxA
 [2014-04-09 17:54:59] selendroid-git: selendroid/master 71770ef Ivan De Marino: Fixed test that assumed WebElement ID to be UUID....
 [2014-04-09 17:54:59] selendroid-git, leaving. (#selendroid)
+[2014-04-09 17:55:40] detronizator: lukeis: I just fixed the test I broke
+[2014-04-09 17:55:46] detronizator: Dominik just left here
+[2014-04-09 17:55:49] lukeis: :)
+[2014-04-09 17:55:52] detronizator: he is heading back to Amburg
+[2014-04-09 17:55:58] detronizator: (not sure I spell Amburg right)
+[2014-04-09 17:56:14] lukeis: Hamburg
+[2014-04-09 17:56:24] detronizator: there you go :)
+[2014-04-09 17:56:27] lukeis: ;)
+[2014-04-09 17:57:06] lukeis: man… a german and an italian communicating in english… did you guys actually communicate? :-D
