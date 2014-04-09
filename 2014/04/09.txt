@@ -13,3 +13,4 @@
 [2014-04-09 11:45:00] gimpneek, joining. (#selendroid)
 [2014-04-09 12:17:29] ddary_, quitting. (Quit: Connection closed for inactivity)
 [2014-04-09 15:01:42] TomC, quitting. (Ping timeout: 240 seconds)
+[2014-04-09 15:08:01] TomC, joining. (#selendroid)
