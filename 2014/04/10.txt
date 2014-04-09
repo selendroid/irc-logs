@@ -8,3 +8,8 @@
 [2014-04-10 00:19:31] smccarthy2, joining. (#selendroid)
 [2014-04-10 00:22:42] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2014-04-10 00:29:55] modeck: @sirsteve will look it up, if you've any links you could recommend on the topic i'd be glad to have them
+[2014-04-10 00:31:07] modeck: http://pastebin.com/ASnUheHc
+[2014-04-10 00:31:19] modeck: here's an amended version of script
+[2014-04-10 00:31:33] modeck: which i've just tested on desktop using regular selenium
+[2014-04-10 00:31:36] modeck: it works fine
+[2014-04-10 00:31:41] modeck: ugly, i agree
