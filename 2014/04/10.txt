@@ -3,3 +3,6 @@
 [2014-04-10 00:12:08] sirsteve: JQ.src = '//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js';  http://?  how much time does injecting jquery add to your tests? seems excessive just to scroll.. and why are you setting the id of the body?
 [2014-04-10 00:13:14] modeck: not sure how much time it adds
 [2014-04-10 00:13:21] modeck: the regular JS scroll is too quick
+[2014-04-10 00:16:42] sirsteve: could try to slow it down with some timeouts?
+[2014-04-10 00:18:32] sirsteve: still ugly.. isn't there a wire protocol for scrolling in selenium?
+[2014-04-10 00:19:31] smccarthy2, joining. (#selendroid)
