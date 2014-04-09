@@ -91,3 +91,18 @@
 [2014-04-09 23:44:22] modeck: it's with a snippet of jQuery
 [2014-04-09 23:44:57] modeck:  a script is added to page head
 [2014-04-09 23:45:00] modeck: self.driver.execute_script("var JQ = document.createElement('script'); JQ.src = '//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'; document.getElementsByTagName('head')[0].appendChild(JQ);")
+[2014-04-09 23:45:03] sirsteve: http://youmightnotneedjquery.com/
+[2014-04-09 23:45:28] modeck: the script then iterates through the sitemap
+[2014-04-09 23:45:40] modeck: and there's more JS executed
+[2014-04-09 23:45:46] modeck: as follows:
+[2014-04-09 23:45:48] modeck: self.B2.execute_script("document.querySelector('body').id = 'pre_target'; var scroll_target = document.getElementById('pre_target'); alert('height:  + scroll_target.scrollHeight); $('#pre_target').animate({scrollTop:(scroll_target.scrollHeight)}, 10000);")
+[2014-04-09 23:45:51] sirsteve: pastebin it
+[2014-04-09 23:46:04] modeck: this works fine on desktop
+[2014-04-09 23:46:09] modeck: on selenium grid
+[2014-04-09 23:46:27] modeck: but, in selendroid grid (chromedriver)
+[2014-04-09 23:46:33] modeck: the jquery is not recognised
+[2014-04-09 23:46:51] modeck: i've tried both '$' and 'jQuery'
+[2014-04-09 23:46:54] modeck: neither work
+[2014-04-09 23:47:14] modeck: i want the each page to scroll slowly
+[2014-04-09 23:47:23] modeck: so we can cast an eye over the content
+[2014-04-09 23:48:30] modeck: http://pastebin.com/QiZP6rJ8
