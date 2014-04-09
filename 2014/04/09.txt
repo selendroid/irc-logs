@@ -34,3 +34,7 @@
 [2014-04-09 17:40:28] TomC, joining. (#selendroid)
 [2014-04-09 17:46:52] linagee, quitting. (Changing host)
 [2014-04-09 17:46:52] linagee, joining. (#selendroid)
+[2014-04-09 17:54:59] selendroid-git, joining. (#selendroid)
+[2014-04-09 17:54:59] selendroid-git: [selendroid] detro pushed 1 new commit to master: http://git.io/kJCwxA
+[2014-04-09 17:54:59] selendroid-git: selendroid/master 71770ef Ivan De Marino: Fixed test that assumed WebElement ID to be UUID....
+[2014-04-09 17:54:59] selendroid-git, leaving. (#selendroid)
