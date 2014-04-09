@@ -13,3 +13,4 @@
 [2014-04-10 00:31:33] modeck: which i've just tested on desktop using regular selenium
 [2014-04-10 00:31:36] modeck: it works fine
 [2014-04-10 00:31:41] modeck: ugly, i agree
+[2014-04-10 00:58:22] lukeis, quitting. (Quit: Leaving.)
