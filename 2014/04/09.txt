@@ -15,3 +15,13 @@
 [2014-04-09 15:01:42] TomC, quitting. (Ping timeout: 240 seconds)
 [2014-04-09 15:08:01] TomC, joining. (#selendroid)
 [2014-04-09 16:45:21] Acemond, joining. (#selendroid)
+[2014-04-09 16:55:40] selendroid-git, joining. (#selendroid)
+[2014-04-09 16:55:40] selendroid-git: [selendroid] detro pushed 3 new commits to master: http://git.io/2tsovQ
+[2014-04-09 16:55:40] selendroid-git: selendroid/master 1efe7bd Ivan De Marino: Fixing wrong mapping of StaleElementReferenceException to error code 13....
+[2014-04-09 16:55:40] selendroid-git: selendroid/master d7d4898 Ivan De Marino: Calls to "element.tagName()" should lowercase string....
+[2014-04-09 16:55:40] selendroid-git: selendroid/master 91cbd21 Ivan De Marino: UUID should only be used for Native Element's ID....
+[2014-04-09 16:55:40] selendroid-git, leaving. (#selendroid)
+[2014-04-09 16:57:32] selendroid-git, joining. (#selendroid)
+[2014-04-09 16:57:33] selendroid-git: [selendroid] detro pushed 1 new commit to master: http://git.io/et--jQ
+[2014-04-09 16:57:33] selendroid-git: selendroid/master 03e061f Ivan De Marino: Updating changelog with latest changes
+[2014-04-09 16:57:33] selendroid-git, leaving. (#selendroid)
