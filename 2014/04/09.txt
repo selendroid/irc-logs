@@ -8,3 +8,5 @@
 [2014-04-09 09:57:57] ddary_, joining. (#selendroid)
 [2014-04-09 09:58:07] ddary_: :log
 [2014-04-09 10:13:11] TomC, joining. (#selendroid)
+[2014-04-09 11:36:55] TomC, quitting. (Ping timeout: 240 seconds)
+[2014-04-09 11:37:14] TomC, joining. (#selendroid)
