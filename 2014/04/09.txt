@@ -65,3 +65,12 @@
 [2014-04-09 18:31:20] detronizator: Build is green again :)
 [2014-04-09 18:31:24] detronizator: I can go home happy
 [2014-04-09 18:36:30] lukeis: i got the same email
+[2014-04-09 18:50:10] detronizator: very frequent stuff?
+[2014-04-09 18:50:12] detronizator: or a rarity?
+[2014-04-09 18:50:25] detronizator: I usually ignore this kind of stuff for GhostDriver
+[2014-04-09 18:50:31] lukeis: i ignore it too
+[2014-04-09 18:50:38] lukeis: there's a selendroid mailing list...
+[2014-04-09 18:50:47] lukeis: which goes right to my inbox too ;)
+[2014-04-09 18:51:03] lukeis: it's relatively rare though on selendroid
+[2014-04-09 18:51:22] lukeis: i'm sure dominik gets a lot more ;)
+[2014-04-09 18:51:54] lukeis: github issues being used like a mailing list forum to ask questions is my pet-peeve though
