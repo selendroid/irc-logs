@@ -38,3 +38,8 @@
 [2014-04-10 16:59:18] Acemond: even with the default test code
 [2014-04-10 16:59:29] Acemond: given on selendroid website
 [2014-04-10 17:14:04] Acemond: I mean, I know how to place breakpoints. But they ain't executed..
+[2014-04-10 17:15:26] lukeis: not sure what to say, i use breakpoints in java all the time and works well :)  I don't run python other than command line for the most part and selendroid works as expected there
+[2014-04-10 17:17:42] Acemond: yeah, I'll switch to java for the times I need to use the inspector
+[2014-04-10 17:17:59] Acemond: selendroid works just fine with python
+[2014-04-10 17:18:17] Acemond: but the breakpoints I set into the test code don't stop anything :/
+[2014-04-10 17:18:29] lukeis: sounds like a pdb usage problem?
