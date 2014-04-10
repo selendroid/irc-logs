@@ -55,3 +55,4 @@
 [2014-04-10 17:55:09] jlipps, joining. (#selendroid)
 [2014-04-10 18:36:58] ddary, joining. (#selendroid)
 [2014-04-10 18:38:00] ddary, quitting. (Client Quit)
+[2014-04-10 19:05:00] gimpneek, quitting. (Remote host closed the connection)
