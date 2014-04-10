@@ -31,3 +31,9 @@
 [2014-04-10 16:47:22] Acemond: Hey there
 [2014-04-10 16:48:18] Acemond: I'm using Selendroid in my project, and it works great, tremendously simplifying my work
 [2014-04-10 16:48:57] Acemond: I was wondering if there was a way to breakpoint on python testfile in order to get the inspector to work properly
+[2014-04-10 16:58:08] lukeis: that's a python question, but yes, should be able to
+[2014-04-10 16:58:18] lukeis: otherwise you can use the python command line to do it
+[2014-04-10 16:58:36] Acemond: I tried to execute it with pdb
+[2014-04-10 16:58:54] Acemond: but it didn't work
+[2014-04-10 16:59:18] Acemond: even with the default test code
+[2014-04-10 16:59:29] Acemond: given on selendroid website
