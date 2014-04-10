@@ -48,3 +48,4 @@
 [2014-04-10 17:21:30] Acemond: but couldn't manage to reach the test-related part
 [2014-04-10 17:24:40] Acemond: but it's okay, I'll just use java
 [2014-04-10 17:24:42] Acemond: thanks :)
+[2014-04-10 17:35:40] Acemond: hmm. I'm having the empty inspector issue :(
