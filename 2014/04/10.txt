@@ -43,3 +43,8 @@
 [2014-04-10 17:17:59] Acemond: selendroid works just fine with python
 [2014-04-10 17:18:17] Acemond: but the breakpoints I set into the test code don't stop anything :/
 [2014-04-10 17:18:29] lukeis: sounds like a pdb usage problem?
+[2014-04-10 17:21:03] Acemond: dunnow, it stops just fine if i breakpoint this last line : "unittest.main()"
+[2014-04-10 17:21:11] Acemond: I tried to go into the method call
+[2014-04-10 17:21:30] Acemond: but couldn't manage to reach the test-related part
+[2014-04-10 17:24:40] Acemond: but it's okay, I'll just use java
+[2014-04-10 17:24:42] Acemond: thanks :)
