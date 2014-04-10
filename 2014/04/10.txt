@@ -52,3 +52,4 @@
 [2014-04-10 17:40:29] Acemond: Well I'm done for today, sya and thanks for your time
 [2014-04-10 17:40:30] Acemond, quitting. (Quit: Leaving)
 [2014-04-10 17:49:53] smccarthy, joining. (#selendroid)
+[2014-04-10 17:55:09] jlipps, joining. (#selendroid)
