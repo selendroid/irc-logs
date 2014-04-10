@@ -16,3 +16,4 @@
 [2014-04-10 00:58:22] lukeis, quitting. (Quit: Leaving.)
 [2014-04-10 01:10:54] modeck, quitting. (Quit: ChatZilla 0.9.90.1 [Firefox 28.0/20140314220517])
 [2014-04-10 01:31:53] smccarthy2, quitting. (Remote host closed the connection)
+[2014-04-10 02:57:52] smccarthy, joining. (#selendroid)
