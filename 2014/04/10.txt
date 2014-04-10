@@ -28,3 +28,6 @@
 [2014-04-10 15:56:34] ddary, quitting. (Remote host closed the connection)
 [2014-04-10 16:07:00] Acemond, joining. (#selendroid)
 [2014-04-10 16:33:02] lukeis, joining. (#selendroid)
+[2014-04-10 16:47:22] Acemond: Hey there
+[2014-04-10 16:48:18] Acemond: I'm using Selendroid in my project, and it works great, tremendously simplifying my work
+[2014-04-10 16:48:57] Acemond: I was wondering if there was a way to breakpoint on python testfile in order to get the inspector to work properly
