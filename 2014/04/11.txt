@@ -10,3 +10,6 @@
 [2014-04-11 10:11:22] ddary, joining. (#selendroid)
 [2014-04-11 10:14:49] ddary, leaving. (#selendroid)
 [2014-04-11 11:55:18] gimpneek, joining. (#selendroid)
+[2014-04-11 14:01:27] Acemond: Hey
+[2014-04-11 14:02:08] Acemond: Having two issues with Selendroid right now
+[2014-04-11 14:02:55] Acemond: click() won't work on regular buttons + Inspector now showing up.
