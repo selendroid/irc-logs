@@ -13,3 +13,4 @@
 [2014-04-11 14:01:27] Acemond: Hey
 [2014-04-11 14:02:08] Acemond: Having two issues with Selendroid right now
 [2014-04-11 14:02:55] Acemond: click() won't work on regular buttons + Inspector now showing up.
+[2014-04-11 15:24:35] sirsteve, joining. (#selendroid)
