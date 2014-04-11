@@ -28,3 +28,5 @@
 [2014-04-11 21:49:53] jlipps, quitting. (Quit: Leaving.)
 [2014-04-11 21:59:29] detronizator, joining. (#selendroid)
 [2014-04-11 22:04:30] jlipps, joining. (#selendroid)
+[2014-04-11 23:40:42] jlipps, quitting. (Quit: Leaving.)
+[2014-04-11 23:40:57] jlipps, joining. (#selendroid)
