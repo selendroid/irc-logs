@@ -2,3 +2,5 @@
 [2014-04-12 00:49:49] lukeis, quitting. (Quit: Leaving.)
 [2014-04-12 00:57:05] lukeis, joining. (#selendroid)
 [2014-04-12 01:03:08] lukeis, quitting. (Quit: Leaving.)
+[2014-04-12 01:28:48] jlipps, quitting. (Quit: Leaving.)
+[2014-04-12 01:29:01] jlipps, joining. (#selendroid)
