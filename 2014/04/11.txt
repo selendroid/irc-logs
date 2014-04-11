@@ -16,3 +16,4 @@
 [2014-04-11 15:24:35] sirsteve, joining. (#selendroid)
 [2014-04-11 16:19:17] Acemond, quitting. (Quit: Leaving)
 [2014-04-11 17:36:23] lukeis, joining. (#selendroid)
+[2014-04-11 17:41:44] smccarthy, joining. (#selendroid)
