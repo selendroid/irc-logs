@@ -19,3 +19,5 @@
 [2014-04-11 17:41:44] smccarthy, joining. (#selendroid)
 [2014-04-11 17:55:29] jlipps, joining. (#selendroid)
 [2014-04-11 18:00:24] lukeis: current status: reading through android source code to attempt my current hack
+[2014-04-11 18:13:38] jlipps, quitting. (Quit: Leaving.)
+[2014-04-11 18:13:51] jlipps, joining. (#selendroid)
