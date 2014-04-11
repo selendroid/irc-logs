@@ -22,3 +22,4 @@
 [2014-04-11 18:13:38] jlipps, quitting. (Quit: Leaving.)
 [2014-04-11 18:13:51] jlipps, joining. (#selendroid)
 [2014-04-11 20:14:18] gimpneek, quitting. (Remote host closed the connection)
+[2014-04-11 21:29:15] jlipps, quitting. (Quit: Leaving.)
