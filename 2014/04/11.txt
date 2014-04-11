@@ -7,3 +7,5 @@
 [2014-04-11 08:57:39] detronizator, joining. (#selendroid)
 [2014-04-11 09:15:38] sirsteve, quitting. (Ping timeout: 240 seconds)
 [2014-04-11 10:06:09] Acemond, joining. (#selendroid)
+[2014-04-11 10:11:22] ddary, joining. (#selendroid)
+[2014-04-11 10:14:49] ddary, leaving. (#selendroid)
