@@ -1,1 +1,5 @@
 [2014-04-13 01:49:37] smccarthy, joining. (#selendroid)
+[2014-04-13 05:33:18] smccarthy, quitting. (*.net *.split)
+[2014-04-13 05:33:36] sirsteve, quitting. (*.net *.split)
+[2014-04-13 05:33:37] samuelho_, quitting. (*.net *.split)
+[2014-04-13 05:33:41] AutomatedTester, quitting. (*.net *.split)
