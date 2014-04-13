@@ -7,3 +7,4 @@
 [2014-04-13 07:18:30] sirsteve, joining. (#selendroid)
 [2014-04-13 07:18:30] samuelho_, joining. (#selendroid)
 [2014-04-13 07:18:30] smccarthy, joining. (#selendroid)
+[2014-04-13 08:53:27] smccarthy, quitting. (Remote host closed the connection)
