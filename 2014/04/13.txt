@@ -11,3 +11,4 @@
 [2014-04-13 12:00:10] detronizator, joining. (#selendroid)
 [2014-04-13 17:05:05] smccarthy, joining. (#selendroid)
 [2014-04-13 21:17:53] detronizator, quitting. (Quit: Connection closed for inactivity)
+[2014-04-13 22:38:23] jlipps, joining. (#selendroid)
