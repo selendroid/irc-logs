@@ -13,3 +13,4 @@
 [2014-04-14 18:03:31] samuelhorwitz, quitting. (Ping timeout: 250 seconds)
 [2014-04-14 18:04:36] samuelhorwitz, joining. (#selendroid)
 [2014-04-14 18:45:11] jleyba, joining. (#selendroid)
+[2014-04-14 18:51:43] jlipps, joining. (#selendroid)
