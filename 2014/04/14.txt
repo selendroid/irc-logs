@@ -4,3 +4,4 @@
 [2014-04-14 11:21:32] gimpneek, joining. (#selendroid)
 [2014-04-14 11:36:01] Acemond, joining. (#selendroid)
 [2014-04-14 11:36:15] Acemond: hi there
+[2014-04-14 14:24:05] Acemond, quitting. (Remote host closed the connection)
