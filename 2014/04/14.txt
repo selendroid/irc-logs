@@ -8,3 +8,5 @@
 [2014-04-14 14:33:54] ddary, joining. (#selendroid)
 [2014-04-14 14:34:10] ddary: :log
 [2014-04-14 14:35:37] ddary, quitting. (Client Quit)
+[2014-04-14 17:57:54] samuelho_, quitting. (Ping timeout: 240 seconds)
+[2014-04-14 17:59:14] samuelhorwitz, joining. (#selendroid)
