@@ -15,3 +15,4 @@
 [2014-04-14 18:45:11] jleyba, joining. (#selendroid)
 [2014-04-14 18:51:43] jlipps, joining. (#selendroid)
 [2014-04-14 19:27:09] gimpneek, quitting. (Remote host closed the connection)
+[2014-04-14 19:58:18] jleyba: Can selendroid connect to a running emulator?
