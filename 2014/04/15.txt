@@ -36,3 +36,4 @@
 [2014-04-15 11:11:24] ddary, quitting. (Quit: ddary)
 [2014-04-15 11:17:49] ddary, joining. (#selendroid)
 [2014-04-15 11:31:43] gimpneek, joining. (#selendroid)
+[2014-04-15 11:51:54] detronizator, quitting. (Quit: Connection closed for inactivity)
