@@ -52,3 +52,19 @@
 [2014-04-15 14:54:12] Acemond: and nothing happens
 [2014-04-15 14:54:33] Acemond: but when i use another button's id with : driver.findElement(By.id("2131230735")).click();
 [2014-04-15 14:54:48] Acemond: it clicks the 2131230733 button :o
+[2014-04-15 14:55:14] Acemond: (I triple checked the IDs)
+[2014-04-15 14:55:50] Acemond: (also, I cannot get anything out of the Inspector)
+[2014-04-15 14:55:53] ddary: the id is not the int view id
+[2014-04-15 14:56:11] ddary: it is usual a string given by the devs
+[2014-04-15 14:56:57] ddary: have a look at selendroid.io/native.html
+[2014-04-15 14:57:11] Acemond: the thing is
+[2014-04-15 14:57:23] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-test-app/res/layout/homescreen.xml
+[2014-04-15 14:57:34] Acemond: aButton.getAttribute("id")) returns the int ID
+[2014-04-15 14:57:52] ddary: that is true
+[2014-04-15 14:58:16] ddary: but from selenium perspective the id is mapped to the android:id in the layout xml
+[2014-04-15 14:58:18] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-test-app/res/layout/homescreen.xml#L26
+[2014-04-15 14:58:43] ddary: this would be: driver.findElement(By.id(“buttonTest”))
+[2014-04-15 14:58:56] Acemond: so I can get the int ID but I can't call the button with it ?
+[2014-04-15 14:59:15] ddary: exactly
+[2014-04-15 14:59:27] Acemond: well even when I try to call the buttons with XPATH it doesn't work
+[2014-04-15 14:59:36] Acemond: List<WebElement> buttonList = driver.findElements(By.xpath("//Button"));
