@@ -153,3 +153,4 @@
 [2014-04-15 21:02:50] ddary, joining. (#selendroid)
 [2014-04-15 21:11:17] samuelhorwitz, quitting. (Remote host closed the connection)
 [2014-04-15 21:17:16] samuelhorwitz, joining. (#selendroid)
+[2014-04-15 21:43:19] ddary, quitting. (Quit: ddary)
