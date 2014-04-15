@@ -147,3 +147,4 @@
 [2014-04-15 16:26:23] detronizator, joining. (#selendroid)
 [2014-04-15 16:29:14] ddary: Acemond: going offline now. maybe yu have additional ideas/learning
 [2014-04-15 16:29:19] ddary, leaving. (#selendroid)
+[2014-04-15 17:26:25] Acemond, quitting. (Quit: Leaving)
