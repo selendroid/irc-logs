@@ -28,3 +28,7 @@
 [2014-04-15 09:05:48] Ram___: Could you guide me, How to get started with?
 [2014-04-15 09:06:19] ddary: http://selendroid.io/setup.html and http://selendroid.io/mobileWeb.html
 [2014-04-15 09:07:08] Ram___:  I will go through those links at once, Thanks
+[2014-04-15 09:11:32] Ram___: I am getting this error "SEVERE: Error occurred while building server" when using this cmd "java -jar selendroid-standalone-0.9.0-with-dependencies.jar -app selendroid-test-app-0.9.0.apk"
+[2014-04-15 09:12:21] ddary: can you put the output log to a http://gist.github.com
+[2014-04-15 09:12:27] Ram___: Its seems I have to link this jar with android someway
+[2014-04-15 09:13:02] ddary: read and follow the docu ;-)
