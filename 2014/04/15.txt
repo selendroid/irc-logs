@@ -127,3 +127,6 @@
 [2014-04-15 15:39:29] Acemond: I'm checking gestures out right now
 [2014-04-15 15:40:54] ddary, quitting. (Quit: ddary)
 [2014-04-15 15:58:00] ddary, joining. (#selendroid)
+[2014-04-15 16:11:53] Acemond: I activated the "show touches" option, Selendroid is not touching the right location
+[2014-04-15 16:13:52] ddary: the touch location is identified via the ui element
+[2014-04-15 16:14:08] Acemond: deduced from the XML and screen size ?
