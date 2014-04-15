@@ -42,3 +42,13 @@
 [2014-04-15 14:40:49] Acemond, joining. (#selendroid)
 [2014-04-15 14:42:02] Acemond: hey
 [2014-04-15 14:43:55] ddary: hi
+[2014-04-15 14:51:29] Acemond: I'm currently facing weird behavior from selendroid, I think there is a bug
+[2014-04-15 14:52:32] ddary: k
+[2014-04-15 14:52:54] ddary: so what did you do and how is the bug looking like?
+[2014-04-15 14:53:13] Acemond: I'm basically trying to click a button programmatically
+[2014-04-15 14:53:43] Acemond: the id is 2131230733
+[2014-04-15 14:53:51] Acemond: so in the java test file i'm using
+[2014-04-15 14:54:06] Acemond: driver.findElement(By.id("2131230733")).click();
+[2014-04-15 14:54:12] Acemond: and nothing happens
+[2014-04-15 14:54:33] Acemond: but when i use another button's id with : driver.findElement(By.id("2131230735")).click();
+[2014-04-15 14:54:48] Acemond: it clicks the 2131230733 button :o
