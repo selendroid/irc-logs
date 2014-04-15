@@ -7,3 +7,4 @@
 [2014-04-15 01:32:53] jleyba, quitting. (Quit: Leaving)
 [2014-04-15 01:55:26] AutomatedTester, quitting. (Changing host)
 [2014-04-15 01:55:26] AutomatedTester, joining. (#selendroid)
+[2014-04-15 02:02:47] jlipps1, quitting. (Quit: Leaving.)
