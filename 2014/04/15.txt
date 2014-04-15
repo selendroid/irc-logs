@@ -38,3 +38,4 @@
 [2014-04-15 11:31:43] gimpneek, joining. (#selendroid)
 [2014-04-15 11:51:54] detronizator, quitting. (Quit: Connection closed for inactivity)
 [2014-04-15 12:34:28] ddary, quitting. (Ping timeout: 240 seconds)
+[2014-04-15 12:35:09] ddary, joining. (#selendroid)
