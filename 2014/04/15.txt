@@ -113,3 +113,11 @@
 [2014-04-15 15:10:18] Acemond: how about that ?
 [2014-04-15 15:14:16] Acemond: let me know if you want pieces of the IR representing button declarations and onClickListener linking or the testfile I'm using
 [2014-04-15 15:22:24] Acemond: -> updated db with all you want : https://www.dropbox.com/sh/vmx0nzx53gb7gz7/erERaRYcB7
+[2014-04-15 15:31:05] ddary: when i use the id ‘MenuHelp’ this seems to work
+[2014-04-15 15:31:15] ddary: why the other are not working, no idea
+[2014-04-15 15:31:31] ddary: i guess it has soemthing to do with the app
+[2014-04-15 15:32:14] ddary: what you can do is, you can play with the advanced user interactions http://selendroid.io/gestures.html
+[2014-04-15 15:32:38] ddary: maybe alonger pause between touch down und and touch up will help
+[2014-04-15 15:33:04] ddary: what i have seen in most apps is, that clicking on buttons usually works fine
+[2014-04-15 15:33:30] ddary: maybe there is anything special about the buttons, but without source code, it is ahrd
+[2014-04-15 15:33:34] ddary: ^^hard
