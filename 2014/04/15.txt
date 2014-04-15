@@ -17,3 +17,4 @@
 [2014-04-15 07:18:26] ddary, joining. (#selendroid)
 [2014-04-15 07:28:20] detronizator, joining. (#selendroid)
 [2014-04-15 08:06:03] jlipps, quitting. (Quit: Leaving.)
+[2014-04-15 08:23:36] detronizator, quitting. (Quit: Connection closed for inactivity)
