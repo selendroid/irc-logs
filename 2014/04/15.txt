@@ -121,3 +121,7 @@
 [2014-04-15 15:33:04] ddary: what i have seen in most apps is, that clicking on buttons usually works fine
 [2014-04-15 15:33:30] ddary: maybe there is anything special about the buttons, but without source code, it is ahrd
 [2014-04-15 15:33:34] ddary: ^^hard
+[2014-04-15 15:36:44] Acemond: from what I read from the IR
+[2014-04-15 15:37:31] Acemond: they're android.widget.Button using setOnClickListener method to link what they are meant to do
+[2014-04-15 15:38:48] Acemond: they are animated (my god how horribly), maybe that's a problem
+[2014-04-15 15:39:29] Acemond: I'm checking gestures out right now
