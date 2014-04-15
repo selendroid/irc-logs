@@ -32,3 +32,4 @@
 [2014-04-15 09:12:21] ddary: can you put the output log to a http://gist.github.com
 [2014-04-15 09:12:27] Ram___: Its seems I have to link this jar with android someway
 [2014-04-15 09:13:02] ddary: read and follow the docu ;-)
+[2014-04-15 09:29:18] Ram___, quitting. (Ping timeout: 240 seconds)
