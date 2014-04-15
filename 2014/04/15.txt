@@ -68,3 +68,29 @@
 [2014-04-15 14:59:15] ddary: exactly
 [2014-04-15 14:59:27] Acemond: well even when I try to call the buttons with XPATH it doesn't work
 [2014-04-15 14:59:36] Acemond: List<WebElement> buttonList = driver.findElements(By.xpath("//Button"));
+[2014-04-15 15:00:07] Acemond: i tryed to call click() on every elements stored into it, only one worked
+[2014-04-15 15:00:32] Acemond: I checked the list on debug mode, the 4 buttons are correcly recognized
+[2014-04-15 15:00:44] ddary: in your app or the selendroid test app?
+[2014-04-15 15:01:30] Acemond: in my app. Note that the buttons works manually though
+[2014-04-15 15:01:47] ddary: that driver.findElements(By.xpath("//Button"));  should work if you have default android buttons
+[2014-04-15 15:01:55] Acemond: i mean, when I physically touch them
+[2014-04-15 15:02:02] Acemond: I agree, it should
+[2014-04-15 15:02:15] ddary: what type of buttons do you have?
+[2014-04-15 15:02:18] Acemond: but only the button 2131230733 was triggered
+[2014-04-15 15:02:24] Acemond: basic buttons
+[2014-04-15 15:02:25] ddary: android.widget.Button?
+[2014-04-15 15:02:26] ddary: ok
+[2014-04-15 15:02:27] Acemond: yes
+[2014-04-15 15:02:38] Acemond: the four are android.widget.Button
+[2014-04-15 15:02:50] ddary: can you share the apk?
+[2014-04-15 15:03:10] Acemond: yes
+[2014-04-15 15:03:21] ddary: that is the easiest
+[2014-04-15 15:03:24] Acemond: but note that I don't have the source code
+[2014-04-15 15:03:31] Acemond: I'm working on malwares
+[2014-04-15 15:03:41] Acemond: I only have a IR, Jimple
+[2014-04-15 15:04:00] Acemond: but it's really close to Java and shows the IDs and the types of the buttons
+[2014-04-15 15:04:21] ddary: IR? Jimple?
+[2014-04-15 15:04:28] Acemond: Intermediate Representation
+[2014-04-15 15:04:34] ddary: ah
+[2014-04-15 15:04:35] Acemond: it's a translation of bytecode
+[2014-04-15 15:04:51] Acemond: human readable bytecode basically
