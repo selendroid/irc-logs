@@ -94,3 +94,18 @@
 [2014-04-15 15:04:34] ddary: ah
 [2014-04-15 15:04:35] Acemond: it's a translation of bytecode
 [2014-04-15 15:04:51] Acemond: human readable bytecode basically
+[2014-04-15 15:05:08] ddary: where do i get the apk?
+[2014-04-15 15:05:19] Acemond: let me upload that for you
+[2014-04-15 15:05:21] Acemond: one moment
+[2014-04-15 15:05:24] ddary: k
+[2014-04-15 15:06:05] Acemond: Also, note that I didn't do that sh*t huh
+[2014-04-15 15:06:16] Acemond: it's horrible you'll see
+[2014-04-15 15:06:32] Acemond: be aware that it contains DroidKungFu 3
+[2014-04-15 15:06:54] Acemond: chinese stuff
+[2014-04-15 15:07:38] Acemond: https://mega.co.nz/#!pkxTRC5a!eATZG-3UyM9CdUSW-RpP1GtQde_ot-vlVRK3Tu54nl4
+[2014-04-15 15:07:47] Acemond: how is that working ?
+[2014-04-15 15:08:59] ddary: nothing is happening
+[2014-04-15 15:09:13] ddary: now
+[2014-04-15 15:09:22] Acemond: huh not cool
+[2014-04-15 15:09:30] Acemond: hold on
+[2014-04-15 15:09:39] Acemond: let's try dropbox
