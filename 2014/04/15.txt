@@ -125,3 +125,4 @@
 [2014-04-15 15:37:31] Acemond: they're android.widget.Button using setOnClickListener method to link what they are meant to do
 [2014-04-15 15:38:48] Acemond: they are animated (my god how horribly), maybe that's a problem
 [2014-04-15 15:39:29] Acemond: I'm checking gestures out right now
+[2014-04-15 15:40:54] ddary, quitting. (Quit: ddary)
