@@ -157,3 +157,4 @@
 [2014-04-15 22:51:53] jmiele, joining. (#selendroid)
 [2014-04-15 22:54:40] jmiele, quitting. (Client Quit)
 [2014-04-15 23:12:28] samuelhorwitz, quitting. (Ping timeout: 240 seconds)
+[2014-04-15 23:54:02] samuelhorwitz, joining. (#selendroid)
