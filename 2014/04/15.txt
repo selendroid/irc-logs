@@ -130,3 +130,14 @@
 [2014-04-15 16:11:53] Acemond: I activated the "show touches" option, Selendroid is not touching the right location
 [2014-04-15 16:13:52] ddary: the touch location is identified via the ui element
 [2014-04-15 16:14:08] Acemond: deduced from the XML and screen size ?
+[2014-04-15 16:15:02] Acemond: it seems wrongly scaled, as if the screen was bigger that the server thinks. I checked the numbers though, they are correct
+[2014-04-15 16:15:04] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/model/AndroidNativeElement.java#L193
+[2014-04-15 16:15:20] Acemond: huh
+[2014-04-15 16:15:48] Acemond: ok I see
+[2014-04-15 16:16:10] Acemond: note that it doesn't touch the same location with TouchActions(driver).singleTap(item);
+[2014-04-15 16:16:52] Acemond: that is weird...
+[2014-04-15 16:17:37] ddary: yep
+[2014-04-15 16:19:04] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/handler/SingleTapOnElement.java#L48
+[2014-04-15 16:19:08] Acemond: hey, that may be a track : http://stackoverflow.com/questions/2638342/incorrect-coordinates-from-getlocationonscreen-getlocationinwindow
+[2014-04-15 16:19:39] Acemond: yeah it's not calling the same function
+[2014-04-15 16:19:51] Acemond: getLocationOnScreen vs getCoordinates
