@@ -24,3 +24,7 @@
 [2014-04-15 09:04:42] ddary: hi ram
 [2014-04-15 09:04:51] ddary: what is the issue?
 [2014-04-15 09:05:00] Ram___: Hai Ddary
+[2014-04-15 09:05:30] Ram___: I am new to selendroid , I want to automate mobile web application testing.
+[2014-04-15 09:05:48] Ram___: Could you guide me, How to get started with?
+[2014-04-15 09:06:19] ddary: http://selendroid.io/setup.html and http://selendroid.io/mobileWeb.html
+[2014-04-15 09:07:08] Ram___:  I will go through those links at once, Thanks
