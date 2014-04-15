@@ -109,3 +109,6 @@
 [2014-04-15 15:09:22] Acemond: huh not cool
 [2014-04-15 15:09:30] Acemond: hold on
 [2014-04-15 15:09:39] Acemond: let's try dropbox
+[2014-04-15 15:10:15] Acemond: https://dl.dropboxusercontent.com/u/12883302/org.expressme.love.ui.apk
+[2014-04-15 15:10:18] Acemond: how about that ?
+[2014-04-15 15:14:16] Acemond: let me know if you want pieces of the IR representing button declarations and onClickListener linking or the testfile I'm using
