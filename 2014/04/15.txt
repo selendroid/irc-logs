@@ -141,3 +141,6 @@
 [2014-04-15 16:19:08] Acemond: hey, that may be a track : http://stackoverflow.com/questions/2638342/incorrect-coordinates-from-getlocationonscreen-getlocationinwindow
 [2014-04-15 16:19:39] Acemond: yeah it's not calling the same function
 [2014-04-15 16:19:51] Acemond: getLocationOnScreen vs getCoordinates
+[2014-04-15 16:20:09] Acemond: and both are wrong \o/
+[2014-04-15 16:22:58] ddary: wrong is maybe not the right term: i find it wierd that android elements are returning wrong location
+[2014-04-15 16:24:03] samuelhorwitz, joining. (#selendroid)
