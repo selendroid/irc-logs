@@ -13,3 +13,4 @@
 [2014-04-16 17:06:15] Acemond, quitting. (Quit: Leaving)
 [2014-04-16 18:15:49] lukeis, joining. (#selendroid)
 [2014-04-16 19:01:01] jlipps, joining. (#selendroid)
+[2014-04-16 19:06:38] ddary, joining. (#selendroid)
