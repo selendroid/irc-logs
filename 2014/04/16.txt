@@ -18,3 +18,8 @@
 [2014-04-16 19:47:04] ddary, quitting. (Quit: ddary)
 [2014-04-16 19:47:07] gimpneek, quitting. (Remote host closed the connection)
 [2014-04-16 19:53:07] ddary, joining. (#selendroid)
+[2014-04-16 20:14:16] selendroid-git, joining. (#selendroid)
+[2014-04-16 20:14:16] selendroid-git: [selendroid] DominikDary force-pushed logging from be1c1a6 to 0a553fc: http://git.io/62nq-g
+[2014-04-16 20:14:17] selendroid-git: selendroid/logging 0a553fc Dominik Dary: Introducing log system for all selendroid components....
+[2014-04-16 20:14:17] selendroid-git, leaving. (#selendroid)
+[2014-04-16 20:14:30] jlipps, quitting. (Quit: Leaving.)
