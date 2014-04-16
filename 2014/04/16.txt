@@ -14,3 +14,4 @@
 [2014-04-16 18:15:49] lukeis, joining. (#selendroid)
 [2014-04-16 19:01:01] jlipps, joining. (#selendroid)
 [2014-04-16 19:06:38] ddary, joining. (#selendroid)
+[2014-04-16 19:14:13] ddary: hi lukeis
