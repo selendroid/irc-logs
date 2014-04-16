@@ -41,3 +41,5 @@
 [2014-04-16 20:33:04] lukeis: in favor of doing what?
 [2014-04-16 20:33:20] ddary: -logLevel VERBOSE
 [2014-04-16 20:33:27] lukeis: ok :)
+[2014-04-16 20:36:15] ddary: going offline now, have a good day!
+[2014-04-16 20:36:21] ddary, quitting. (Quit: ddary)
