@@ -27,3 +27,9 @@
 [2014-04-16 20:19:36] lukeis: hiya ddary… i'm still coming back to reality… i was at disneyland the last two days ;)
 [2014-04-16 20:19:47] ddary: :)
 [2014-04-16 20:19:57] ddary: sounds like you had some fun
+[2014-04-16 20:25:47] detronizator, quitting. (Quit: Connection closed for inactivity)
+[2014-04-16 20:28:21] selendroid-git, joining. (#selendroid)
+[2014-04-16 20:28:21] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/XNaDtA
+[2014-04-16 20:28:21] selendroid-git: selendroid/master 9646e2a Dominik Dary: Introducing log system for all selendroid components....
+[2014-04-16 20:28:21] selendroid-git: selendroid/master 11419e8 Dominik Dary: changelog.md
+[2014-04-16 20:28:21] selendroid-git, leaving. (#selendroid)
