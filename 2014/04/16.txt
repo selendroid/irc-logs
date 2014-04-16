@@ -33,3 +33,11 @@
 [2014-04-16 20:28:21] selendroid-git: selendroid/master 9646e2a Dominik Dary: Introducing log system for all selendroid components....
 [2014-04-16 20:28:21] selendroid-git: selendroid/master 11419e8 Dominik Dary: changelog.md
 [2014-04-16 20:28:21] selendroid-git, leaving. (#selendroid)
+[2014-04-16 20:31:03] ddary: lukeis: the logging system got updated
+[2014-04-16 20:31:35] ddary: now most of the console output is skipped, but can be displayed when needed
+[2014-04-16 20:31:42] lukeis: ok
+[2014-04-16 20:31:54] ddary: then thing is it is using as well the android logger
+[2014-04-16 20:32:47] ddary: the verbose option is meant to be removed after the next release
+[2014-04-16 20:33:04] lukeis: in favor of doing what?
+[2014-04-16 20:33:20] ddary: -logLevel VERBOSE
+[2014-04-16 20:33:27] lukeis: ok :)
