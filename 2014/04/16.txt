@@ -4,3 +4,4 @@
 [2014-04-16 03:57:12] jlipps, quitting. (Quit: Leaving.)
 [2014-04-16 08:19:46] ddary, joining. (#selendroid)
 [2014-04-16 08:42:45] ddary: :log
+[2014-04-16 09:23:31] Acemond, joining. (#selendroid)
