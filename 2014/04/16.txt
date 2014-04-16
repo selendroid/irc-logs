@@ -23,3 +23,7 @@
 [2014-04-16 20:14:17] selendroid-git: selendroid/logging 0a553fc Dominik Dary: Introducing log system for all selendroid components....
 [2014-04-16 20:14:17] selendroid-git, leaving. (#selendroid)
 [2014-04-16 20:14:30] jlipps, quitting. (Quit: Leaving.)
+[2014-04-16 20:19:29] jlipps, joining. (#selendroid)
+[2014-04-16 20:19:36] lukeis: hiya ddary… i'm still coming back to reality… i was at disneyland the last two days ;)
+[2014-04-16 20:19:47] ddary: :)
+[2014-04-16 20:19:57] ddary: sounds like you had some fun
