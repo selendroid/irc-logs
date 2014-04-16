@@ -3,3 +3,4 @@
 [2014-04-16 02:44:16] samuelhorwitz, quitting. (Remote host closed the connection)
 [2014-04-16 03:57:12] jlipps, quitting. (Quit: Leaving.)
 [2014-04-16 08:19:46] ddary, joining. (#selendroid)
+[2014-04-16 08:42:45] ddary: :log
