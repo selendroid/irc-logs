@@ -44,3 +44,4 @@
 [2014-04-16 20:36:15] ddary: going offline now, have a good day!
 [2014-04-16 20:36:21] ddary, quitting. (Quit: ddary)
 [2014-04-16 20:55:05] jlipps, quitting. (Quit: Leaving.)
+[2014-04-16 21:02:18] jlipps, joining. (#selendroid)
