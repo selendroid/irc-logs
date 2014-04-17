@@ -14,3 +14,4 @@
 [2014-04-17 09:34:37] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/coo1JQ
 [2014-04-17 09:34:37] selendroid-git: selendroid/master 00d3f70 Dominik Dary: adding a script to automatically create an emulator, starting it, installing selendroid-server and selendroid-test-app, running tests and finally stopping the emulator.
 [2014-04-17 09:34:37] selendroid-git, leaving. (#selendroid)
+[2014-04-17 10:58:00] Acemond, joining. (#selendroid)
