@@ -18,3 +18,4 @@
 [2014-04-17 11:09:11] detronizator, joining. (#selendroid)
 [2014-04-17 11:09:52] ddary, joining. (#selendroid)
 [2014-04-17 11:18:26] ddary, leaving. (#selendroid)
+[2014-04-17 11:52:42] gimpneek, joining. (#selendroid)
