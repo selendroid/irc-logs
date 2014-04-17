@@ -26,3 +26,9 @@
 [2014-04-17 14:54:42] Acemond: Ok found the solution if anyone struggles on the same issue.
 [2014-04-17 16:23:52] sirsteve: sign the apk?
 [2014-04-17 16:26:36] samuelhorwitz, joining. (#selendroid)
+[2014-04-17 17:05:46] Acemond: nope it was signed
+[2014-04-17 17:06:05] Acemond: Selendroid wasn't correcly removing all of the META-INF folder before signing though
+[2014-04-17 17:06:16] Acemond: so the apk wouldn't install correctly
+[2014-04-17 17:06:38] Acemond: gotta go, sya
+[2014-04-17 17:06:39] Acemond, quitting. (Quit: Leaving)
+[2014-04-17 17:06:52] lukeis, joining. (#selendroid)
