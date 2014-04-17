@@ -37,3 +37,4 @@
 [2014-04-17 17:44:27] samuelhorwitz, joining. (#selendroid)
 [2014-04-17 19:35:23] jlipps, joining. (#selendroid)
 [2014-04-17 19:39:11] gimpneek, quitting. (Ping timeout: 250 seconds)
+[2014-04-17 20:54:49] smccarthy, quitting. (Remote host closed the connection)
