@@ -25,3 +25,4 @@
 [2014-04-17 13:57:15] Acemond: (I launch Selendroid with : java -Xmx2048M -Xms2048M -jar ./selendroid-standalone-0.10.0-SNAPSHOT-with-dependencies.jar -forceReinstall -app ./ru.blogspot.playsib.savageknife.apk)
 [2014-04-17 14:54:42] Acemond: Ok found the solution if anyone struggles on the same issue.
 [2014-04-17 16:23:52] sirsteve: sign the apk?
+[2014-04-17 16:26:36] samuelhorwitz, joining. (#selendroid)
