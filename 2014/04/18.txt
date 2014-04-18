@@ -13,3 +13,4 @@
 [2014-04-18 14:56:41] Acemond: So when Selendroid tries to remove it with aapt remove it may fail
 [2014-04-18 14:57:08] Acemond: then will sign it, but it won't install since the old signature will interfer.
 [2014-04-18 15:21:25] Acemond, quitting. (Quit: Leaving)
+[2014-04-18 17:09:12] smccarthy, joining. (#selendroid)
