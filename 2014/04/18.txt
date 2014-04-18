@@ -8,3 +8,4 @@
 [2014-04-18 08:15:13] jlipps, quitting. (Quit: Leaving.)
 [2014-04-18 10:03:27] Acemond, joining. (#selendroid)
 [2014-04-18 12:12:35] detronizator, joining. (#selendroid)
+[2014-04-18 14:37:57] Acemond: Hey, I may have a Selendroid bug to report concerning automatic app signature
