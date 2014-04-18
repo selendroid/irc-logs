@@ -9,3 +9,6 @@
 [2014-04-18 10:03:27] Acemond, joining. (#selendroid)
 [2014-04-18 12:12:35] detronizator, joining. (#selendroid)
 [2014-04-18 14:37:57] Acemond: Hey, I may have a Selendroid bug to report concerning automatic app signature
+[2014-04-18 14:56:18] Acemond: An app signature isn't always META-INF/CERT.SF and META-INF/CERT.RSA
+[2014-04-18 14:56:41] Acemond: So when Selendroid tries to remove it with aapt remove it may fail
+[2014-04-18 14:57:08] Acemond: then will sign it, but it won't install since the old signature will interfer.
