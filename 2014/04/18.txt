@@ -12,3 +12,4 @@
 [2014-04-18 14:56:18] Acemond: An app signature isn't always META-INF/CERT.SF and META-INF/CERT.RSA
 [2014-04-18 14:56:41] Acemond: So when Selendroid tries to remove it with aapt remove it may fail
 [2014-04-18 14:57:08] Acemond: then will sign it, but it won't install since the old signature will interfer.
+[2014-04-18 15:21:25] Acemond, quitting. (Quit: Leaving)
