@@ -4,3 +4,4 @@
 [2014-04-19 06:39:41] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-04-19 06:40:17] smccarthy, joining. (#selendroid)
 [2014-04-19 09:54:09] smccarthy, quitting. (Remote host closed the connection)
+[2014-04-19 19:19:56] smccarthy, joining. (#selendroid)
