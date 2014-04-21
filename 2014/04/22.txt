@@ -4,3 +4,4 @@
 [2014-04-22 00:15:09] jlipps, quitting. (Read error: Connection timed out)
 [2014-04-22 00:15:51] jlipps, joining. (#selendroid)
 [2014-04-22 00:15:58] jlipps, quitting. (Client Quit)
+[2014-04-22 00:21:37] lukeis, joining. (#selendroid)
