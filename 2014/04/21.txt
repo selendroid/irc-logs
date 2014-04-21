@@ -2,3 +2,5 @@
 [2014-04-21 17:47:40] lukeis, joining. (#selendroid)
 [2014-04-21 23:13:09] jlipps, joining. (#selendroid)
 [2014-04-21 23:27:47] smccarthy2, joining. (#selendroid)
+[2014-04-21 23:31:32] smccarthy, quitting. (Ping timeout: 265 seconds)
+[2014-04-21 23:33:57] jlipps, quitting. (Read error: Connection timed out)
