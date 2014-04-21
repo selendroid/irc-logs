@@ -5,3 +5,4 @@
 [2014-04-22 00:15:51] jlipps, joining. (#selendroid)
 [2014-04-22 00:15:58] jlipps, quitting. (Client Quit)
 [2014-04-22 00:21:37] lukeis, joining. (#selendroid)
+[2014-04-22 01:02:57] lukeis, quitting. (Quit: Leaving.)
