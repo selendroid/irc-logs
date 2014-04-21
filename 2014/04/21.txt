@@ -4,3 +4,5 @@
 [2014-04-21 23:27:47] smccarthy2, joining. (#selendroid)
 [2014-04-21 23:31:32] smccarthy, quitting. (Ping timeout: 265 seconds)
 [2014-04-21 23:33:57] jlipps, quitting. (Read error: Connection timed out)
+[2014-04-21 23:35:40] jlipps, joining. (#selendroid)
+[2014-04-21 23:39:33] smccarthy2, quitting. (Remote host closed the connection)
