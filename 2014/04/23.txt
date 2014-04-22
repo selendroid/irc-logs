@@ -5,3 +5,6 @@
 [2014-04-23 00:31:45] check: Thanks in advance
 [2014-04-23 00:32:26] lukeis: hi, there's likely some app setting that needs to get incorporated to auto-switch to the app, but selendroid won't be able to control the app once switched, you'd only be able to try to look at ps list or the activity list through adb commands to see if it switched or not
 [2014-04-23 00:33:04] lukeis: the first app I'm talking about is the "AndroidDriver" app used by selendroid for the webview
+[2014-04-23 00:47:12] check: Few questions based on your comment, 1- I understood currently there is no setting in "Android Driver webview app" to do the auto-switch. 2-  Once auto-switch is supported, then there is no way that I could validate the app is launched programatically, rather I should issue adb call to validate if app is launched. 3- Is there a way to issue adb command programatically? 4- Is there a way to validate the elements on the landing act
+[2014-04-23 00:48:03] check: 5- Is there a way to issue a JSON command as the server communicates via JSON and I could invoke via HTTPClient?
+[2014-04-23 00:48:54] lukeis: 1) correct  2) semi correct because 3) yes, you can call adb commands 4) no, since you're now running a different app that wasn't launched with instrumentation, selendroid doesn't have a way to communicate with it. 5) wat?
