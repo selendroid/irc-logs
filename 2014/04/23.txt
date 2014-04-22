@@ -1,1 +1,7 @@
 [2014-04-23 00:29:26] check, joining. (#selendroid)
+[2014-04-23 00:30:41] check: Hi, I have posted an issue in the forum
+[2014-04-23 00:30:49] check: https://github.com/selendroid/selendroid/issues/389
+[2014-04-23 00:31:35] check: Can any one let me know if there is a solution for issue:389
+[2014-04-23 00:31:45] check: Thanks in advance
+[2014-04-23 00:32:26] lukeis: hi, there's likely some app setting that needs to get incorporated to auto-switch to the app, but selendroid won't be able to control the app once switched, you'd only be able to try to look at ps list or the activity list through adb commands to see if it switched or not
+[2014-04-23 00:33:04] lukeis: the first app I'm talking about is the "AndroidDriver" app used by selendroid for the webview
