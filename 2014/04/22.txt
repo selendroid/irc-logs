@@ -19,3 +19,4 @@
 [2014-04-22 22:36:08] lukeis, joining. (#selendroid)
 [2014-04-22 22:39:14] lukeis, quitting. (Client Quit)
 [2014-04-22 22:41:12] lukeis, joining. (#selendroid)
+[2014-04-22 22:59:30] smccarthy2, joining. (#selendroid)
