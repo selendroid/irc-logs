@@ -18,3 +18,4 @@
 [2014-04-22 22:26:43] lukeis, quitting. (Quit: Leaving.)
 [2014-04-22 22:36:08] lukeis, joining. (#selendroid)
 [2014-04-22 22:39:14] lukeis, quitting. (Client Quit)
+[2014-04-22 22:41:12] lukeis, joining. (#selendroid)
