@@ -31,3 +31,4 @@
 [2014-04-23 00:57:44] lukeis: the test infra that is
 [2014-04-23 00:58:30] check: Nice. Thanks for responding to my question.
 [2014-04-23 01:03:46] lukeis, quitting. (Quit: Leaving.)
+[2014-04-23 01:42:48] check, quitting. (Ping timeout: 240 seconds)
