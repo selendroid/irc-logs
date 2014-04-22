@@ -8,3 +8,13 @@
 [2014-04-23 00:47:12] check: Few questions based on your comment, 1- I understood currently there is no setting in "Android Driver webview app" to do the auto-switch. 2-  Once auto-switch is supported, then there is no way that I could validate the app is launched programatically, rather I should issue adb call to validate if app is launched. 3- Is there a way to issue adb command programatically? 4- Is there a way to validate the elements on the landing act
 [2014-04-23 00:48:03] check: 5- Is there a way to issue a JSON command as the server communicates via JSON and I could invoke via HTTPClient?
 [2014-04-23 00:48:54] lukeis: 1) correct  2) semi correct because 3) yes, you can call adb commands 4) no, since you're now running a different app that wasn't launched with instrumentation, selendroid doesn't have a way to communicate with it. 5) wat?
+[2014-04-23 00:51:06] lukeis: (regarding 3…  https://github.com/selendroid/selendroid/blob/master/selendroid-client/src/main/java/io/selendroid/SelendroidDriver.java#L140    https://github.com/selendroid/selendroid/blob/master/selendroid-client/src/main/java/io/selendroid/SelendroidDriver.java#L170  so…. driver.getAdbConnection().executeShellCommand("shell ps"); or something similar)
+[2014-04-23 00:51:51] check: Great, I was going to ask that question
+[2014-04-23 00:51:52] check: Thanks
+[2014-04-23 00:52:23] check: 1- Shall I go ahead and log an issue to support auto-switch?
+[2014-04-23 00:52:30] check: or is it work in progress?
+[2014-04-23 00:54:21] lukeis: you can log it I suppose? seems like that is your current issue 389 though
+[2014-04-23 00:54:30] lukeis: i'm not currently working on that
+[2014-04-23 00:54:43] lukeis: (and I don't know who else would be...)
+[2014-04-23 00:54:50] lukeis: check: do you work for ebay?
+[2014-04-23 00:55:00] check: Yes
