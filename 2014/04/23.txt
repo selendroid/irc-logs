@@ -18,3 +18,15 @@
 [2014-04-23 00:54:43] lukeis: (and I don't know who else would be...)
 [2014-04-23 00:54:50] lukeis: check: do you work for ebay?
 [2014-04-23 00:55:00] check: Yes
+[2014-04-23 00:55:31] lukeis: do you know Ivan De Marino?
+[2014-04-23 00:55:47] lukeis: you should bug him for bugs in selendroid ;)
+[2014-04-23 00:55:52] check: No, we are from SanJose
+[2014-04-23 00:56:04] check: Sure, I will bug him
+[2014-04-23 00:56:13] check: We use to check with Dominik earlier
+[2014-04-23 00:56:26] lukeis: yep, but he's no longer with you guys :)
+[2014-04-23 00:56:36] check: yes :(
+[2014-04-23 00:56:46] lukeis: i work at Salesforce, in San Francisco
+[2014-04-23 00:57:11] check: Nice to know that, are you a dev or QE
+[2014-04-23 00:57:34] lukeis: dev i suppose? with a QE title?   I work on the infrastructure team
+[2014-04-23 00:57:44] lukeis: the test infra that is
+[2014-04-23 00:58:30] check: Nice. Thanks for responding to my question.
