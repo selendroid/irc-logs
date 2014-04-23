@@ -35,3 +35,4 @@
 [2014-04-23 02:02:36] smccarthy, quitting. (Remote host closed the connection)
 [2014-04-23 10:41:17] Acemond, joining. (#selendroid)
 [2014-04-23 11:29:51] gimpneek, joining. (#selendroid)
+[2014-04-23 16:36:43] smccarthy, joining. (#selendroid)
