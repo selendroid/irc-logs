@@ -41,3 +41,4 @@
 [2014-04-23 17:58:14] Acemond, quitting. (Quit: Leaving)
 [2014-04-23 18:54:33] smccarthy2, joining. (#selendroid)
 [2014-04-23 18:58:01] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2014-04-23 19:45:20] gimpneek, quitting. (Remote host closed the connection)
