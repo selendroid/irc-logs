@@ -44,3 +44,8 @@
 [2014-04-23 19:45:20] gimpneek, quitting. (Remote host closed the connection)
 [2014-04-23 19:53:22] smccarthy2, quitting. (Remote host closed the connection)
 [2014-04-23 19:53:55] smccarthy, joining. (#selendroid)
+[2014-04-23 20:12:22] prabhath, joining. (#selendroid)
+[2014-04-23 20:12:51] prabhath: Hi All
+[2014-04-23 20:13:08] prabhath: am new to selendroid
+[2014-04-23 20:13:29] prabhath: am trying to configure selendroid in my pc but facing issue
+[2014-04-23 20:13:37] prabhath: can any one help me in this
