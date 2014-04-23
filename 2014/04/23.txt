@@ -50,3 +50,4 @@
 [2014-04-23 20:13:29] prabhath: am trying to configure selendroid in my pc but facing issue
 [2014-04-23 20:13:37] prabhath: can any one help me in this
 [2014-04-23 20:21:48] prabhath, leaving. (#selendroid)
+[2014-04-23 21:13:00] jlipps, joining. (#selendroid)
