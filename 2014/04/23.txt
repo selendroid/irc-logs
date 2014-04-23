@@ -55,3 +55,4 @@
 [2014-04-23 22:06:07] lukeis1, quitting. (Read error: Connection reset by peer)
 [2014-04-23 22:08:05] lukeis, quitting. (Ping timeout: 264 seconds)
 [2014-04-23 22:14:54] jlipps, quitting. (Read error: Connection timed out)
+[2014-04-23 22:18:10] jlipps, joining. (#selendroid)
