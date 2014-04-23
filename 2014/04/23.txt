@@ -38,3 +38,4 @@
 [2014-04-23 16:36:43] smccarthy, joining. (#selendroid)
 [2014-04-23 17:23:47] lukeis, joining. (#selendroid)
 [2014-04-23 17:24:33] Acemond: hey
+[2014-04-23 17:58:14] Acemond, quitting. (Quit: Leaving)
