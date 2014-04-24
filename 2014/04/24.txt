@@ -8,3 +8,4 @@
 [2014-04-24 01:11:24] jlipps, joining. (#selendroid)
 [2014-04-24 01:42:07] jlipps, quitting. (Read error: Connection timed out)
 [2014-04-24 01:47:08] jlipps, joining. (#selendroid)
+[2014-04-24 02:10:53] smccarthy2, quitting. (Remote host closed the connection)
