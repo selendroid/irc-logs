@@ -11,3 +11,6 @@
 [2014-04-24 02:10:53] smccarthy2, quitting. (Remote host closed the connection)
 [2014-04-24 02:45:14] jlipps, quitting. (Quit: Leaving.)
 [2014-04-24 12:09:27] gimpneek, joining. (#selendroid)
+[2014-04-24 12:32:07] gimpneek, quitting. (Remote host closed the connection)
+[2014-04-24 12:32:53] gimpneek, joining. (#selendroid)
+[2014-04-24 12:32:57] gimpneek, quitting. (Client Quit)
