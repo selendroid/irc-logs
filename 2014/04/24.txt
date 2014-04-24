@@ -29,3 +29,4 @@
 [2014-04-24 18:58:51] gimpneek, quitting. (Remote host closed the connection)
 [2014-04-24 21:30:30] smccarthy, joining. (#selendroid)
 [2014-04-24 23:01:30] smccarthy2, joining. (#selendroid)
+[2014-04-24 23:05:05] smccarthy, quitting. (Ping timeout: 264 seconds)
