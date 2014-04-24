@@ -14,3 +14,4 @@
 [2014-04-24 12:32:07] gimpneek, quitting. (Remote host closed the connection)
 [2014-04-24 12:32:53] gimpneek, joining. (#selendroid)
 [2014-04-24 12:32:57] gimpneek, quitting. (Client Quit)
+[2014-04-24 12:35:22] gimpneek, joining. (#selendroid)
