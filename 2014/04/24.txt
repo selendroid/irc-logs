@@ -31,3 +31,7 @@
 [2014-04-24 23:01:30] smccarthy2, joining. (#selendroid)
 [2014-04-24 23:05:05] smccarthy, quitting. (Ping timeout: 264 seconds)
 [2014-04-24 23:15:34] check, joining. (#selendroid)
+[2014-04-24 23:45:55] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2014-04-24 23:46:28] smccarthy, joining. (#selendroid)
+[2014-04-24 23:46:57] smccarthy, quitting. (Remote host closed the connection)
+[2014-04-24 23:47:31] smccarthy, joining. (#selendroid)
