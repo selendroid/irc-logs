@@ -1,1 +1,4 @@
 [2014-04-25 00:22:18] check, quitting. (Ping timeout: 240 seconds)
+[2014-04-25 01:03:10] AutomatedTester, quitting. (Read error: Operation timed out)
+[2014-04-25 01:04:29] AutomatedTester, joining. (#selendroid)
+[2014-04-25 01:04:55] lukeis, quitting. (Quit: Leaving.)
