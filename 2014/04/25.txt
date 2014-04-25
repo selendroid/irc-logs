@@ -2,3 +2,4 @@
 [2014-04-25 01:03:10] AutomatedTester, quitting. (Read error: Operation timed out)
 [2014-04-25 01:04:29] AutomatedTester, joining. (#selendroid)
 [2014-04-25 01:04:55] lukeis, quitting. (Quit: Leaving.)
+[2014-04-25 02:00:07] smccarthy, quitting. (Remote host closed the connection)
