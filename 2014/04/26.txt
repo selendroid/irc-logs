@@ -7,3 +7,4 @@
 [2014-04-26 19:50:18] ddary, quitting. (Ping timeout: 240 seconds)
 [2014-04-26 20:41:01] jlipps, joining. (#selendroid)
 [2014-04-26 23:28:11] smccarthy, quitting. (Quit: Leaving...)
+[2014-04-26 23:33:37] jlipps, quitting. (Quit: Leaving.)
