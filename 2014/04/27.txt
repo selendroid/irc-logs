@@ -11,3 +11,4 @@
 [2014-04-27 10:46:40] ddary, joining. (#selendroid)
 [2014-04-27 10:46:49] ddary, leaving. (#selendroid)
 [2014-04-27 17:18:27] smccarthy, joining. (#selendroid)
+[2014-04-27 23:01:46] jlipps, joining. (#selendroid)
