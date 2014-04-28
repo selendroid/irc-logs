@@ -5,3 +5,4 @@
 [2014-04-28 07:50:01] jlipps, quitting. (Quit: Leaving.)
 [2014-04-28 08:32:58] ddary, joining. (#selendroid)
 [2014-04-28 09:13:30] ddary, leaving. (#selendroid)
+[2014-04-28 11:27:31] gimpneek, joining. (#selendroid)
