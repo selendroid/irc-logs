@@ -13,3 +13,4 @@
 [2014-04-29 08:57:26] ddary, joining. (#selendroid)
 [2014-04-29 09:13:19] ddary: :spec
 [2014-04-29 09:18:54] ddary: :log
+[2014-04-29 09:20:38] ddary, leaving. (#selendroid)
