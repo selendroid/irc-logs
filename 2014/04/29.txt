@@ -10,3 +10,4 @@
 [2014-04-29 02:22:42] sirsteve, joining. (#selendroid)
 [2014-04-29 04:32:14] smccarthy, joining. (#selendroid)
 [2014-04-29 06:43:55] smccarthy, quitting. (Quit: Leaving...)
+[2014-04-29 08:57:26] ddary, joining. (#selendroid)
