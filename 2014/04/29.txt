@@ -9,3 +9,4 @@
 [2014-04-29 02:10:18] sirsteve, quitting. (Ping timeout: 240 seconds)
 [2014-04-29 02:22:42] sirsteve, joining. (#selendroid)
 [2014-04-29 04:32:14] smccarthy, joining. (#selendroid)
+[2014-04-29 06:43:55] smccarthy, quitting. (Quit: Leaving...)
