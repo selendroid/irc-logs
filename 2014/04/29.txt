@@ -18,3 +18,4 @@
 [2014-04-29 09:33:07] selendroid-git: [selendroid] DominikDary deleted logging at 0a553fc: http://git.io/hRl55w
 [2014-04-29 09:33:07] selendroid-git, leaving. (#selendroid)
 [2014-04-29 11:43:13] gimpneek, joining. (#selendroid)
+[2014-04-29 17:09:41] smccarthy, joining. (#selendroid)
