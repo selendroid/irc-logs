@@ -11,3 +11,4 @@
 [2014-04-29 04:32:14] smccarthy, joining. (#selendroid)
 [2014-04-29 06:43:55] smccarthy, quitting. (Quit: Leaving...)
 [2014-04-29 08:57:26] ddary, joining. (#selendroid)
+[2014-04-29 09:13:19] ddary: :spec
