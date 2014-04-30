@@ -5,3 +5,4 @@
 [2014-04-30 12:14:28] ddary, quitting. (Quit: ddary)
 [2014-04-30 17:20:24] lukeis, joining. (#selendroid)
 [2014-04-30 18:06:51] smccarthy, joining. (#selendroid)
+[2014-04-30 19:06:16] gimpneek, quitting. (Remote host closed the connection)
