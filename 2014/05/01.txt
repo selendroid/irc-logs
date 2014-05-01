@@ -58,3 +58,4 @@
 [2014-05-01 20:25:50] detronizator, quitting. (Quit: Connection closed for inactivity)
 [2014-05-01 20:54:40] jlipps, joining. (#selendroid)
 [2014-05-01 21:17:54] jlipps, quitting. (Quit: Leaving.)
+[2014-05-01 22:04:06] jlipps1, joining. (#selendroid)
