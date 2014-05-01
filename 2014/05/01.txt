@@ -44,3 +44,5 @@
 [2014-05-01 18:24:52] lukeis: this feature is going to be a headache
 [2014-05-01 18:25:46] ddary: sounds like headache
 [2014-05-01 18:28:29] lukeis: once I get it in, i think 0.10 is in order ;)
+[2014-05-01 18:35:52] ddary: sounds good
+[2014-05-01 18:36:23] ddary: i cannot do a push yet, need to sign the cla first, so would be good if you can do the release
