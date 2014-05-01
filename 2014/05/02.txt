@@ -6,3 +6,4 @@
 [2014-05-02 00:51:04] jlipps1, joining. (#selendroid)
 [2014-05-02 00:51:35] jlipps, quitting. (Ping timeout: 240 seconds)
 [2014-05-02 01:03:02] lukeis, quitting. (Quit: Leaving.)
+[2014-05-02 01:22:03] smccarthy, quitting. (Quit: Leaving...)
