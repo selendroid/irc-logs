@@ -27,3 +27,18 @@
 [2014-05-01 18:19:43] ddary: how are you doing?
 [2014-05-01 18:19:51] lukeis: ok
 [2014-05-01 18:19:58] lukeis: airplane mode has been giving me headaches
+[2014-05-01 18:20:11] ddary: i can imagine
+[2014-05-01 18:20:15] lukeis: i'm going to end up checking in something that will only work in 17+
+[2014-05-01 18:20:19] lukeis: and emulators only
+[2014-05-01 18:20:26] ddary: ok
+[2014-05-01 18:20:30] lukeis: there's going to be so many edge cases
+[2014-05-01 18:20:51] ddary: how do you solved it on that platform versions?
+[2014-05-01 18:21:40] lukeis: well… 17 i haven't solved yet because when you toggle airplane mode  off / on… it doesn't re-enable data (only in 17, the version i care most about)
+[2014-05-01 18:21:57] lukeis: (which is an emulator bug that was fixed)
+[2014-05-01 18:22:26] lukeis: and i haven't figured out how to programmatically turn it back on yet… svc data enable doesn't work :(
+[2014-05-01 18:23:23] lukeis: but otherwise, I basically start the Airplane mode settings activity,  shell input key events for the dpad to select it, and hit the 'back' settings button which switches back to the app ;)
+[2014-05-01 18:23:46] ddary: ok
+[2014-05-01 18:23:59] lukeis: so, real device support needs to be handle per manufacture
+[2014-05-01 18:24:09] lukeis: i may add samsung now, because i have it mostly done
+[2014-05-01 18:24:44] lukeis: (since the UI for the settings page can be different depending on device...)
+[2014-05-01 18:24:52] lukeis: this feature is going to be a headache
