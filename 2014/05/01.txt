@@ -8,3 +8,4 @@
 [2014-05-01 12:11:24] ddary, joining. (#selendroid)
 [2014-05-01 12:12:02] ddary, leaving. (#selendroid)
 [2014-05-01 14:58:32] detronizator, joining. (#selendroid)
+[2014-05-01 17:49:04] smccarthy, joining. (#selendroid)
