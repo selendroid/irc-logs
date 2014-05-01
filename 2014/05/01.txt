@@ -14,3 +14,16 @@
 [2014-05-01 17:53:56] smccarthy2, joining. (#selendroid)
 [2014-05-01 17:56:18] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2014-05-01 18:07:41] lukeis, joining. (#selendroid)
+[2014-05-01 18:16:45] ddary, joining. (#selendroid)
+[2014-05-01 18:18:41] lukeis: oh hai ddary
+[2014-05-01 18:18:47] lukeis: how's the new job? :)
+[2014-05-01 18:18:50] ddary: hi lukeis
+[2014-05-01 18:19:18] ddary: i will have my first working day tomorrow ;-)
+[2014-05-01 18:19:27] lukeis: ah, nice ;)
+[2014-05-01 18:19:29] ddary: today we have a public holiday
+[2014-05-01 18:19:31] lukeis: starting on a friday?
+[2014-05-01 18:19:34] ddary: yeah
+[2014-05-01 18:19:34] lukeis: well played..
+[2014-05-01 18:19:43] ddary: how are you doing?
+[2014-05-01 18:19:51] lukeis: ok
+[2014-05-01 18:19:58] lukeis: airplane mode has been giving me headaches
