@@ -5,3 +5,5 @@
 [2014-05-01 01:37:46] smccarthy2, quitting. (Quit: Leaving...)
 [2014-05-01 01:43:18] check, quitting. (Ping timeout: 240 seconds)
 [2014-05-01 12:06:52] gimpneek, joining. (#selendroid)
+[2014-05-01 12:11:24] ddary, joining. (#selendroid)
+[2014-05-01 12:12:02] ddary, leaving. (#selendroid)
