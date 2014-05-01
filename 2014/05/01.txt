@@ -42,3 +42,5 @@
 [2014-05-01 18:24:09] lukeis: i may add samsung now, because i have it mostly done
 [2014-05-01 18:24:44] lukeis: (since the UI for the settings page can be different depending on device...)
 [2014-05-01 18:24:52] lukeis: this feature is going to be a headache
+[2014-05-01 18:25:46] ddary: sounds like headache
+[2014-05-01 18:28:29] lukeis: once I get it in, i think 0.10 is in order ;)
