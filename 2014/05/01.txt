@@ -46,3 +46,8 @@
 [2014-05-01 18:28:29] lukeis: once I get it in, i think 0.10 is in order ;)
 [2014-05-01 18:35:52] ddary: sounds good
 [2014-05-01 18:36:23] ddary: i cannot do a push yet, need to sign the cla first, so would be good if you can do the release
+[2014-05-01 18:41:01] ddary: do you have heard anything from simon, he wanted to push the move to use netty as http server?
+[2014-05-01 18:41:32] lukeis: no, haven't in a bit, he's working full time on buck now though
+[2014-05-01 18:41:42] ddary: ok
+[2014-05-01 18:41:55] lukeis: and yeah, i can do the next release :)
+[2014-05-01 18:42:09] ddary: cool, thanks!
