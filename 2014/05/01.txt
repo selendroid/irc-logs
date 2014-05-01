@@ -59,3 +59,5 @@
 [2014-05-01 20:54:40] jlipps, joining. (#selendroid)
 [2014-05-01 21:17:54] jlipps, quitting. (Quit: Leaving.)
 [2014-05-01 22:04:06] jlipps1, joining. (#selendroid)
+[2014-05-01 23:06:17] jlipps1, quitting. (Read error: Connection reset by peer)
+[2014-05-01 23:06:55] jlipps, joining. (#selendroid)
