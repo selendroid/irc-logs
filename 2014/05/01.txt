@@ -57,3 +57,4 @@
 [2014-05-01 19:25:32] gimpneek, quitting. (Remote host closed the connection)
 [2014-05-01 20:25:50] detronizator, quitting. (Quit: Connection closed for inactivity)
 [2014-05-01 20:54:40] jlipps, joining. (#selendroid)
+[2014-05-01 21:17:54] jlipps, quitting. (Quit: Leaving.)
