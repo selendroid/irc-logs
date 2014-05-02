@@ -14,3 +14,4 @@
 [2014-05-02 10:34:40] AutomatedTester, quitting. (*.net *.split)
 [2014-05-02 10:36:28] AutomatedTester_, changing nick to AutomatedTester.
 [2014-05-02 12:01:43] gimpneek, joining. (#selendroid)
+[2014-05-02 17:22:54] lukeis, joining. (#selendroid)
