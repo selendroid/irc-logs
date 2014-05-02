@@ -8,3 +8,4 @@
 [2014-05-02 01:03:02] lukeis, quitting. (Quit: Leaving.)
 [2014-05-02 01:22:03] smccarthy, quitting. (Quit: Leaving...)
 [2014-05-02 03:26:16] jlipps1, quitting. (Quit: Leaving.)
+[2014-05-02 05:06:11] smccarthy, joining. (#selendroid)
