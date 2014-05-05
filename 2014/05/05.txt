@@ -6,3 +6,7 @@
 [2014-05-05 18:28:41] smccarthy, quitting. (Quit: Leaving...)
 [2014-05-05 18:40:02] gimpneek, quitting. (Remote host closed the connection)
 [2014-05-05 18:40:09] smccarthy, joining. (#selendroid)
+[2014-05-05 19:45:56] smccarthy2, joining. (#selendroid)
+[2014-05-05 19:47:55] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2014-05-05 19:48:35] smccarthy2, joining. (#selendroid)
+[2014-05-05 19:49:18] smccarthy, quitting. (Ping timeout: 240 seconds)
