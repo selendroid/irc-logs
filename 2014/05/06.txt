@@ -15,3 +15,5 @@
 [2014-05-06 16:35:59] AutomatedTester, joining. (#selendroid)
 [2014-05-06 17:24:45] lukeis, joining. (#selendroid)
 [2014-05-06 18:52:07] smccarthy, quitting. (Quit: Leaving...)
+[2014-05-06 19:26:41] gimpneek, quitting. (Remote host closed the connection)
+[2014-05-06 19:27:01] smccarthy, joining. (#selendroid)
