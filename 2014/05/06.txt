@@ -11,3 +11,4 @@
 [2014-05-06 13:49:42] AutomatedTester, quitting. (Ping timeout: 258 seconds)
 [2014-05-06 13:49:43] AutomatedTester_, changing nick to AutomatedTester.
 [2014-05-06 15:54:16] smccarthy, joining. (#selendroid)
+[2014-05-06 16:33:24] AutomatedTester, quitting. (Ping timeout: 245 seconds)
