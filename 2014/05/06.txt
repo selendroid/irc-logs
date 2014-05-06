@@ -18,3 +18,4 @@
 [2014-05-06 19:26:41] gimpneek, quitting. (Remote host closed the connection)
 [2014-05-06 19:27:01] smccarthy, joining. (#selendroid)
 [2014-05-06 20:51:19] friscodelrosario, joining. (#selendroid)
+[2014-05-06 22:41:09] jlipps, joining. (#selendroid)
