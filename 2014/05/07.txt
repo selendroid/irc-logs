@@ -11,3 +11,4 @@
 [2014-05-07 11:51:13] GopiA, joining. (#selendroid)
 [2014-05-07 12:35:50] jlipps, joining. (#selendroid)
 [2014-05-07 12:45:12] jlipps, quitting. (Quit: Leaving.)
+[2014-05-07 12:52:18] funker, joining. (#selendroid)
