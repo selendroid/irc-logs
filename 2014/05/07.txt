@@ -5,3 +5,6 @@
 [2014-05-07 05:14:30] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-05-07 05:14:57] smccarthy, joining. (#selendroid)
 [2014-05-07 06:21:18] smccarthy, quitting. (Quit: Leaving...)
+[2014-05-07 11:40:43] jlipps, joining. (#selendroid)
+[2014-05-07 11:42:18] gimpneek, joining. (#selendroid)
+[2014-05-07 11:44:25] jlipps, quitting. (Client Quit)
