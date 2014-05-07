@@ -12,3 +12,9 @@
 [2014-05-07 12:35:50] jlipps, joining. (#selendroid)
 [2014-05-07 12:45:12] jlipps, quitting. (Quit: Leaving.)
 [2014-05-07 12:52:18] funker, joining. (#selendroid)
+[2014-05-07 13:00:19] jlipps, joining. (#selendroid)
+[2014-05-07 13:03:01] funker: hi, I trying figure out how to work with Selendroid,
+[2014-05-07 13:03:01] funker: can anyone give me advice how can i register my real device in the GRID2 (device connected to the network via wi-fi)
+[2014-05-07 13:03:01] funker: I cant understand how to run this command "curl -H "Content-Type: application/json" -X POST --data @selendroid-nodes-config.json http://localhost:4444/grid/register"
+[2014-05-07 13:03:01] funker: as described in tutorial
+[2014-05-07 13:03:01] funker: I need connect real device, thanks
