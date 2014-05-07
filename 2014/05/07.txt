@@ -22,3 +22,5 @@
 [2014-05-07 16:52:38] GopiA, quitting. (Quit: Page closed)
 [2014-05-07 17:14:47] smccarthy, joining. (#selendroid)
 [2014-05-07 18:09:52] lukeis, joining. (#selendroid)
+[2014-05-07 19:00:50] smccarthy2, joining. (#selendroid)
+[2014-05-07 19:04:17] smccarthy, quitting. (Ping timeout: 255 seconds)
