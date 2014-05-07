@@ -18,3 +18,4 @@
 [2014-05-07 13:03:01] funker: I cant understand how to run this command "curl -H "Content-Type: application/json" -X POST --data @selendroid-nodes-config.json http://localhost:4444/grid/register"
 [2014-05-07 13:03:01] funker: as described in tutorial
 [2014-05-07 13:03:01] funker: I need connect real device, thanks
+[2014-05-07 13:32:03] jlipps, quitting. (Quit: Leaving.)
