@@ -27,3 +27,5 @@
 [2014-05-07 19:19:45] gimpneek, quitting. (Remote host closed the connection)
 [2014-05-07 20:43:22] ddary, joining. (#selendroid)
 [2014-05-07 21:01:46] ddary, quitting. (Quit: ddary)
+[2014-05-07 22:02:59] smccarthy2, quitting. (Remote host closed the connection)
+[2014-05-07 22:04:21] smccarthy, joining. (#selendroid)
