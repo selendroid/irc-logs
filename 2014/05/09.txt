@@ -1,2 +1,6 @@
 [2014-05-09 00:01:00] jlipps, quitting. (Quit: Leaving.)
 [2014-05-09 00:19:03] niru, joining. (#selendroid)
+[2014-05-09 00:25:27] niru: Hi, I am validating a flow in native app, that opens a widget and there are 3 textview elements displayed in the widget. The click action doesn't work when I try to click on any element in this widget.
+[2014-05-09 00:26:01] niru: Is there a known issue with the click functionality in the widget in native app flow
+[2014-05-09 00:26:04] niru: ?
+[2014-05-09 00:26:22] niru: Any suggestions will be helpful
