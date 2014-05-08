@@ -27,3 +27,4 @@
 [2014-05-08 18:42:46] friscodelrosario, joining. (#selendroid)
 [2014-05-08 20:35:08] jlipps, joining. (#selendroid)
 [2014-05-08 20:42:40] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-05-08 21:24:33] ddary, joining. (#selendroid)
