@@ -8,3 +8,4 @@
 [2014-05-08 07:59:53] jlipps, quitting. (Client Quit)
 [2014-05-08 08:04:23] jlipps, joining. (#selendroid)
 [2014-05-08 08:06:56] jlipps, quitting. (Client Quit)
+[2014-05-08 10:16:30] jlipps, joining. (#selendroid)
