@@ -4,3 +4,5 @@
 [2014-05-08 00:19:08] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2014-05-08 01:35:27] lukeis, quitting. (Quit: Leaving.)
 [2014-05-08 01:53:28] smccarthy2, quitting. (Quit: Leaving...)
+[2014-05-08 07:58:00] jlipps, joining. (#selendroid)
+[2014-05-08 07:59:53] jlipps, quitting. (Client Quit)
