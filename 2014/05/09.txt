@@ -9,3 +9,5 @@
 [2014-05-09 00:49:01] niru: pls ignore my question
 [2014-05-09 00:49:17] niru: instead of click, when I used singleTap(), it worked
 [2014-05-09 00:49:25] niru, quitting. (Quit: Page closed)
+[2014-05-09 01:42:14] smccarthy2, quitting. (Quit: Leaving...)
+[2014-05-09 01:42:57] lukeis, quitting. (Quit: Leaving.)
