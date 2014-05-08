@@ -30,3 +30,4 @@
 [2014-05-08 21:24:33] ddary, joining. (#selendroid)
 [2014-05-08 22:09:40] ddary, quitting. (Quit: Leaving.)
 [2014-05-08 22:46:47] friscodelrosario, joining. (#selendroid)
+[2014-05-08 22:58:16] smccarthy2, joining. (#selendroid)
