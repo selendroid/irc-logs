@@ -5,3 +5,7 @@
 [2014-05-09 00:26:04] niru: ?
 [2014-05-09 00:26:22] niru: Any suggestions will be helpful
 [2014-05-09 00:37:34] friscodelrosario: I don't think that's enough information for anyone to help you.
+[2014-05-09 00:46:51] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-05-09 00:49:01] niru: pls ignore my question
+[2014-05-09 00:49:17] niru: instead of click, when I used singleTap(), it worked
+[2014-05-09 00:49:25] niru, quitting. (Quit: Page closed)
