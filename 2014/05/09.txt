@@ -4,3 +4,4 @@
 [2014-05-09 00:26:01] niru: Is there a known issue with the click functionality in the widget in native app flow
 [2014-05-09 00:26:04] niru: ?
 [2014-05-09 00:26:22] niru: Any suggestions will be helpful
+[2014-05-09 00:37:34] friscodelrosario: I don't think that's enough information for anyone to help you.
