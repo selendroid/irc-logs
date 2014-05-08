@@ -14,3 +14,4 @@
 [2014-05-08 12:38:13] jlipps, joining. (#selendroid)
 [2014-05-08 12:48:12] jlipps, quitting. (Quit: Leaving.)
 [2014-05-08 13:01:42] selendroidbot__, joining. (#selendroid)
+[2014-05-08 13:17:02] jlipps, joining. (#selendroid)
