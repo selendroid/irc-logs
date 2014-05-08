@@ -19,3 +19,4 @@
 [2014-05-08 14:29:06] jlipps, quitting. (Quit: Leaving.)
 [2014-05-08 14:39:33] jlipps, joining. (#selendroid)
 [2014-05-08 15:52:15] jlipps, quitting. (Quit: Leaving.)
+[2014-05-08 16:50:31] AutomatedTester, quitting. (Ping timeout: 252 seconds)
