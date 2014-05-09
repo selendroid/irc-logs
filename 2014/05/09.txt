@@ -32,3 +32,4 @@
 [2014-05-09 23:01:29] detronizator, joining. (#selendroid)
 [2014-05-09 23:02:09] detronizator, quitting. (Client Quit)
 [2014-05-09 23:02:40] detronizator, joining. (#selendroid)
+[2014-05-09 23:35:19] friscodelrosario, joining. (#selendroid)
