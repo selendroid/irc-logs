@@ -1,3 +1,5 @@
 [2014-05-10 00:00:08] smccarthy, quitting. (Quit: Leaving...)
 [2014-05-10 01:16:49] lukeis, quitting. (Quit: Leaving.)
 [2014-05-10 01:35:19] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-05-10 01:44:22] detronizator, quitting. (Quit: ZNC - http://znc.in)
+[2014-05-10 01:44:56] detronizator, joining. (#selendroid)
