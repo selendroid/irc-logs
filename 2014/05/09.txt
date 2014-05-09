@@ -16,3 +16,4 @@
 [2014-05-09 12:06:25] gimpneek, joining. (#selendroid)
 [2014-05-09 12:33:05] GopiA, joining. (#selendroid)
 [2014-05-09 15:12:18] GopiA, quitting. (Ping timeout: 240 seconds)
+[2014-05-09 17:44:07] smccarthy, joining. (#selendroid)
