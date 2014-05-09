@@ -20,3 +20,4 @@
 [2014-05-09 17:53:46] lukeis, joining. (#selendroid)
 [2014-05-09 17:54:31] lukeis, quitting. (Client Quit)
 [2014-05-09 17:57:20] lukeis, joining. (#selendroid)
+[2014-05-09 18:51:33] friscodelrosario, joining. (#selendroid)
