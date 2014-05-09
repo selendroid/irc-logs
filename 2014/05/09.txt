@@ -13,3 +13,4 @@
 [2014-05-09 01:42:57] lukeis, quitting. (Quit: Leaving.)
 [2014-05-09 02:44:24] friscodelrosario, joining. (#selendroid)
 [2014-05-09 04:44:34] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-05-09 12:06:25] gimpneek, joining. (#selendroid)
