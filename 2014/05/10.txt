@@ -11,3 +11,4 @@
 [2014-05-10 02:29:31] selendroid-git, leaving. (#selendroid)
 [2014-05-10 02:42:45] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-05-10 02:50:53] detronizator, joining. (#selendroid)
+[2014-05-10 17:49:27] smccarthy, joining. (#selendroid)
