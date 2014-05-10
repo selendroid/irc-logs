@@ -5,3 +5,7 @@
 [2014-05-10 01:44:56] detronizator, joining. (#selendroid)
 [2014-05-10 02:08:53] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-05-10 02:10:30] detronizator, joining. (#selendroid)
+[2014-05-10 02:29:31] selendroid-git, joining. (#selendroid)
+[2014-05-10 02:29:31] selendroid-git: [selendroid] detro pushed 1 new commit to master: http://git.io/tkt96A
+[2014-05-10 02:29:31] selendroid-git: selendroid/master 4aa1c7b Ivan De Marino: Adding IRC #selendroid notif. to TravisCI build
+[2014-05-10 02:29:31] selendroid-git, leaving. (#selendroid)
