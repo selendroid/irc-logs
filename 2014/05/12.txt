@@ -55,3 +55,4 @@
 [2014-05-12 20:27:29] cylindroid: I'll get back to you with my findings
 [2014-05-12 20:27:32] cylindroid: Thanks lukeis
 [2014-05-12 21:06:47] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-05-12 21:44:18] cylindroid, quitting. (Ping timeout: 240 seconds)
