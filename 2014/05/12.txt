@@ -10,3 +10,4 @@
 [2014-05-12 14:57:51] Acemond, quitting. (Quit: Leaving)
 [2014-05-12 15:16:49] ifunker, joining. (#selendroid)
 [2014-05-12 15:18:28] funker, quitting. (Ping timeout: 276 seconds)
+[2014-05-12 17:36:07] smccarthy, joining. (#selendroid)
