@@ -11,3 +11,4 @@
 [2014-05-12 15:16:49] ifunker, joining. (#selendroid)
 [2014-05-12 15:18:28] funker, quitting. (Ping timeout: 276 seconds)
 [2014-05-12 17:36:07] smccarthy, joining. (#selendroid)
+[2014-05-12 18:08:48] lukeis, joining. (#selendroid)
