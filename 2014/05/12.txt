@@ -21,3 +21,4 @@
 [2014-05-12 19:06:34] cylindroid: (in the case of oAuth for example, where when user chooses to login with Facebook, they will be redirected to a browser to enter their FB credentials)
 [2014-05-12 19:06:53] friscodelrosario, joining. (#selendroid)
 [2014-05-12 19:12:03] gimpneek, quitting. (Remote host closed the connection)
+[2014-05-12 19:29:14] lukeis: cylindroid: if chrome is the default browser in this case, then you may have a chance using both selendroid and chromedriver
