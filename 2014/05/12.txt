@@ -41,3 +41,11 @@
 [2014-05-12 20:14:46] lukeis: i intend to do the same for selendroid (meaning to start up chromedriver for the webview)
 [2014-05-12 20:14:50] cylindroid: The usecase is :  App -> browser -> back to app
 [2014-05-12 20:14:52] lukeis: in api 19+
+[2014-05-12 20:15:18] lukeis: that use case is difficult when the "browser" part is the default browser (not chrome)
+[2014-05-12 20:15:33] cylindroid: but if it's Chrome, it's possible?
+[2014-05-12 20:15:36] lukeis: yes
+[2014-05-12 20:15:49] lukeis: with chromedriver
+[2014-05-12 20:16:35] ddary, joining. (#selendroid)
+[2014-05-12 20:16:51] cylindroid: So. would you use two separate drivers in the same session (chromedriver for Chrome, and another driver for the Native app);  or would you use ChromeDriver for driving both?
+[2014-05-12 20:18:26] lukeis: currently I would use 2 (and probably in the future too)
+[2014-05-12 20:19:49] cylindroid: Ah, i didn't think that was possible
