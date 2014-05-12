@@ -30,3 +30,14 @@
 [2014-05-12 19:54:03] cylindroid: with uiautomator, this is quite doable
 [2014-05-12 19:54:18] cylindroid: except, when I'm in the browser, I can only get the "Webview" of the browser.  And nothing else in it
 [2014-05-12 19:54:33] cylindroid: I think Appium is working on solving that issue; not sure however.
+[2014-05-12 20:12:40] cylindroid: ok.  It appears uiautomator allows webview/browser support in API 18
+[2014-05-12 20:12:42] cylindroid: 19*
+[2014-05-12 20:13:06] lukeis: yeah, because the web view defaults to chrome in 19
+[2014-05-12 20:13:13] cylindroid: ah.
+[2014-05-12 20:13:41] cylindroid: And Appium  is working on exposing that functionality
+[2014-05-12 20:13:50] lukeis: via chromedriver
+[2014-05-12 20:13:57] lukeis: which you could just use directly
+[2014-05-12 20:14:36] cylindroid: the problem with that is, it doesn't allow me to interact with native widgest
+[2014-05-12 20:14:46] lukeis: i intend to do the same for selendroid (meaning to start up chromedriver for the webview)
+[2014-05-12 20:14:50] cylindroid: The usecase is :  App -> browser -> back to app
+[2014-05-12 20:14:52] lukeis: in api 19+
