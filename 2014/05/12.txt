@@ -5,3 +5,5 @@
 [2014-05-12 09:08:39] detronizator, joining. (#selendroid)
 [2014-05-12 10:39:12] Acemond, joining. (#selendroid)
 [2014-05-12 11:47:34] gimpneek, joining. (#selendroid)
+[2014-05-12 12:25:14] funker, joining. (#selendroid)
+[2014-05-12 12:26:45] ifunker, quitting. (Ping timeout: 250 seconds)
