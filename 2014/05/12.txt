@@ -22,3 +22,4 @@
 [2014-05-12 19:06:53] friscodelrosario, joining. (#selendroid)
 [2014-05-12 19:12:03] gimpneek, quitting. (Remote host closed the connection)
 [2014-05-12 19:29:14] lukeis: cylindroid: if chrome is the default browser in this case, then you may have a chance using both selendroid and chromedriver
+[2014-05-12 19:31:22] lukeis: if you want to use the default browser, you *could* 'predict' what you have to do and use 'adb shell' commands like keyevent
