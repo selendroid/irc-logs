@@ -14,3 +14,9 @@
 [2014-05-12 18:08:48] lukeis, joining. (#selendroid)
 [2014-05-12 18:43:07] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2014-05-12 19:04:56] cylindroid, joining. (#selendroid)
+[2014-05-12 19:05:02] cylindroid: Hello
+[2014-05-12 19:05:39] cylindroid: I have a test usecase, for which I believe none of the other frameworks do the job.
+[2014-05-12 19:05:54] cylindroid: And neither does Selendroid, but it may have the best bet of solving it
+[2014-05-12 19:06:07] cylindroid: and that usecase is:  Test an app to browser redirect, and back to the app
+[2014-05-12 19:06:34] cylindroid: (in the case of oAuth for example, where when user chooses to login with Facebook, they will be redirected to a browser to enter their FB credentials)
+[2014-05-12 19:06:53] friscodelrosario, joining. (#selendroid)
