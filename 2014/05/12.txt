@@ -24,3 +24,9 @@
 [2014-05-12 19:29:14] lukeis: cylindroid: if chrome is the default browser in this case, then you may have a chance using both selendroid and chromedriver
 [2014-05-12 19:31:22] lukeis: if you want to use the default browser, you *could* 'predict' what you have to do and use 'adb shell' commands like keyevent
 [2014-05-12 19:36:15] smccarthy, joining. (#selendroid)
+[2014-05-12 19:51:54] cylindroid: Interesting
+[2014-05-12 19:52:20] cylindroid: for chrome, how do you chose two different drivers in the same session?
+[2014-05-12 19:53:43] cylindroid: One other thing to note is that
+[2014-05-12 19:54:03] cylindroid: with uiautomator, this is quite doable
+[2014-05-12 19:54:18] cylindroid: except, when I'm in the browser, I can only get the "Webview" of the browser.  And nothing else in it
+[2014-05-12 19:54:33] cylindroid: I think Appium is working on solving that issue; not sure however.
