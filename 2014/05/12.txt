@@ -49,3 +49,5 @@
 [2014-05-12 20:16:51] cylindroid: So. would you use two separate drivers in the same session (chromedriver for Chrome, and another driver for the Native app);  or would you use ChromeDriver for driving both?
 [2014-05-12 20:18:26] lukeis: currently I would use 2 (and probably in the future too)
 [2014-05-12 20:19:49] cylindroid: Ah, i didn't think that was possible
+[2014-05-12 20:20:31] ddary, quitting. (Client Quit)
+[2014-05-12 20:20:35] cylindroid: I could likely use ChromeDriver from Appium, yes?
