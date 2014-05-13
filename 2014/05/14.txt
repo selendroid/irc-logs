@@ -9,3 +9,4 @@
 [2014-05-14 00:47:19] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/yYOZVg
 [2014-05-14 00:47:19] selendroid-git: selendroid/master 30121b1 Luke Inman-Semerau: bumping to 0.11 snapshot
 [2014-05-14 00:47:19] selendroid-git, leaving. (#selendroid)
+[2014-05-14 00:51:07] funker, quitting. (Ping timeout: 258 seconds)
