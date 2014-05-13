@@ -10,3 +10,4 @@
 [2014-05-13 11:30:07] gimpneek, joining. (#selendroid)
 [2014-05-13 12:55:46] funker, joining. (#selendroid)
 [2014-05-13 12:56:37] ifunker, quitting. (Ping timeout: 250 seconds)
+[2014-05-13 17:22:49] lukeis, joining. (#selendroid)
