@@ -24,3 +24,6 @@
 [2014-05-13 23:09:50] jlipps: now i'm working all the time :-)
 [2014-05-13 23:10:40] lukeis: sounds like an awesome trip none-the-less, i enjoyed scotland when i got to visit
 [2014-05-13 23:12:03] *lukeis about to cut another release of Selendroid and then I'm going to attempt a patch to appium ;)'
+[2014-05-13 23:16:29] jlipps: ooooh nice
+[2014-05-13 23:16:42] jlipps: 0.10?
+[2014-05-13 23:17:53] lukeis: yeah
