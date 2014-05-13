@@ -13,3 +13,4 @@
 [2014-05-13 17:22:49] lukeis, joining. (#selendroid)
 [2014-05-13 17:31:10] smccarthy, joining. (#selendroid)
 [2014-05-13 19:00:32] gimpneek, quitting. (Quit: Leaving.)
+[2014-05-13 20:24:05] friscodelrosario, joining. (#selendroid)
