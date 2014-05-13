@@ -27,3 +27,4 @@
 [2014-05-13 23:16:29] jlipps: ooooh nice
 [2014-05-13 23:16:42] jlipps: 0.10?
 [2014-05-13 23:17:53] lukeis: yeah
+[2014-05-13 23:34:49] friscodelrosario, joining. (#selendroid)
