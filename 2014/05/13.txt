@@ -28,3 +28,6 @@
 [2014-05-13 23:16:42] jlipps: 0.10?
 [2014-05-13 23:17:53] lukeis: yeah
 [2014-05-13 23:34:49] friscodelrosario, joining. (#selendroid)
+[2014-05-13 23:51:36] jlipps, quitting. (Quit: Leaving.)
+[2014-05-13 23:52:46] jlipps, joining. (#selendroid)
+[2014-05-13 23:53:10] jlipps, quitting. (Client Quit)
