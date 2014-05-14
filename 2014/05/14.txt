@@ -41,3 +41,4 @@
 [2014-05-14 22:01:18] smccarthy, quitting. (Ping timeout: 240 seconds)
 [2014-05-14 22:39:02] smccarthy2, quitting. (Remote host closed the connection)
 [2014-05-14 22:39:57] smccarthy, joining. (#selendroid)
+[2014-05-14 22:47:58] lukeis: detronizator: something seems wrong with travis-ci and our config… i tried to 'rebuild' the latest, but that failed and it didn't auto-trigger on my pushes
