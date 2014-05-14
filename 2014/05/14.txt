@@ -38,3 +38,4 @@
 [2014-05-14 20:27:51] ddary, leaving. (#selendroid)
 [2014-05-14 21:22:18] smccarthy, joining. (#selendroid)
 [2014-05-14 21:59:08] smccarthy2, joining. (#selendroid)
+[2014-05-14 22:01:18] smccarthy, quitting. (Ping timeout: 240 seconds)
