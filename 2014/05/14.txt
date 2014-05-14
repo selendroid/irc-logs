@@ -20,3 +20,4 @@
 [2014-05-14 11:20:23] funker, joining. (#selendroid)
 [2014-05-14 11:36:45] gimpneek, joining. (#selendroid)
 [2014-05-14 12:38:26] funker, quitting. ()
+[2014-05-14 18:08:21] lukeis, joining. (#selendroid)
