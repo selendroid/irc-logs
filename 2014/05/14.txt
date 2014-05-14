@@ -19,3 +19,4 @@
 [2014-05-14 03:56:56] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-05-14 11:20:23] funker, joining. (#selendroid)
 [2014-05-14 11:36:45] gimpneek, joining. (#selendroid)
+[2014-05-14 12:38:26] funker, quitting. ()
