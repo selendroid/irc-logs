@@ -22,3 +22,6 @@
 [2014-05-14 12:38:26] funker, quitting. ()
 [2014-05-14 18:08:21] lukeis, joining. (#selendroid)
 [2014-05-14 19:37:48] gimpneek, quitting. (Remote host closed the connection)
+[2014-05-14 20:11:27] ddary, joining. (#selendroid)
+[2014-05-14 20:12:26] ddary: hi lukeis
+[2014-05-14 20:12:47] ddary: have seen you shipped 0.10!
