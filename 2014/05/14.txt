@@ -39,3 +39,5 @@
 [2014-05-14 21:22:18] smccarthy, joining. (#selendroid)
 [2014-05-14 21:59:08] smccarthy2, joining. (#selendroid)
 [2014-05-14 22:01:18] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2014-05-14 22:39:02] smccarthy2, quitting. (Remote host closed the connection)
+[2014-05-14 22:39:57] smccarthy, joining. (#selendroid)
