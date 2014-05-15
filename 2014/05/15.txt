@@ -8,3 +8,4 @@
 [2014-05-15 07:40:36] selendroid-git: selendroid/master 7e48bdd Luke Inman-Semerau: forgot about these, added 'network_connection' to Selenium library, adding here as a stop-gap...
 [2014-05-15 07:40:36] selendroid-git, leaving. (#selendroid)
 [2014-05-15 07:44:47] lukeis: so, is it worth it to make a 0.10.1 for just selendroid-client?
+[2014-05-15 07:45:16] *lukeis doubts anyone is going to attempt to use the airplane mode setting yet ;)'
