@@ -9,3 +9,4 @@
 [2014-05-15 07:40:36] selendroid-git, leaving. (#selendroid)
 [2014-05-15 07:44:47] lukeis: so, is it worth it to make a 0.10.1 for just selendroid-client?
 [2014-05-15 07:45:16] *lukeis doubts anyone is going to attempt to use the airplane mode setting yet ;)'
+[2014-05-15 08:44:26] lukeis, quitting. (Ping timeout: 252 seconds)
