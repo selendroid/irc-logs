@@ -11,3 +11,4 @@
 [2014-05-15 07:45:16] *lukeis doubts anyone is going to attempt to use the airplane mode setting yet ;)'
 [2014-05-15 08:44:26] lukeis, quitting. (Ping timeout: 252 seconds)
 [2014-05-15 11:17:20] gimpneek, joining. (#selendroid)
+[2014-05-15 17:24:00] smccarthy, joining. (#selendroid)
