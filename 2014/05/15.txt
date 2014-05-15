@@ -18,3 +18,4 @@
 [2014-05-15 21:36:36] ddary, joining. (#selendroid)
 [2014-05-15 21:37:02] ddary, quitting. (Client Quit)
 [2014-05-15 21:49:06] lukeis, joining. (#selendroid)
+[2014-05-15 22:40:00] jlipps, joining. (#selendroid)
