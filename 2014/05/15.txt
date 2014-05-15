@@ -3,3 +3,8 @@
 [2014-05-15 00:37:41] friscodelrosario, joining. (#selendroid)
 [2014-05-15 02:37:35] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-05-15 07:21:58] lukeis, joining. (#selendroid)
+[2014-05-15 07:40:36] selendroid-git, joining. (#selendroid)
+[2014-05-15 07:40:36] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/6mlArQ
+[2014-05-15 07:40:36] selendroid-git: selendroid/master 7e48bdd Luke Inman-Semerau: forgot about these, added 'network_connection' to Selenium library, adding here as a stop-gap...
+[2014-05-15 07:40:36] selendroid-git, leaving. (#selendroid)
+[2014-05-15 07:44:47] lukeis: so, is it worth it to make a 0.10.1 for just selendroid-client?
