@@ -14,3 +14,4 @@
 [2014-05-16 08:50:41] ddary, quitting. (Ping timeout: 276 seconds)
 [2014-05-16 08:54:21] jlipps, quitting. (Quit: Leaving.)
 [2014-05-16 09:10:59] jlipps, joining. (#selendroid)
+[2014-05-16 10:10:14] jlipps, quitting. (Quit: Leaving.)
