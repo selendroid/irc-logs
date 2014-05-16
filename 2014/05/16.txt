@@ -27,3 +27,5 @@
 [2014-05-16 18:05:37] lukeis, joining. (#selendroid)
 [2014-05-16 19:14:49] friscodelrosario, joining. (#selendroid)
 [2014-05-16 19:17:38] gimpneek, quitting. (Remote host closed the connection)
+[2014-05-16 19:21:15] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-05-16 19:22:30] friscodelrosario, joining. (#selendroid)
