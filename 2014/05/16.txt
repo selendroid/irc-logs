@@ -17,3 +17,4 @@
 [2014-05-16 10:10:14] jlipps, quitting. (Quit: Leaving.)
 [2014-05-16 10:49:49] jlipps, joining. (#selendroid)
 [2014-05-16 10:49:58] jlipps, quitting. (Client Quit)
+[2014-05-16 11:52:28] gimpneek, joining. (#selendroid)
