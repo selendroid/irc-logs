@@ -18,3 +18,5 @@
 [2014-05-16 10:49:49] jlipps, joining. (#selendroid)
 [2014-05-16 10:49:58] jlipps, quitting. (Client Quit)
 [2014-05-16 11:52:28] gimpneek, joining. (#selendroid)
+[2014-05-16 12:56:29] gimpneek, quitting. (Remote host closed the connection)
+[2014-05-16 12:58:52] gimpneek, joining. (#selendroid)
