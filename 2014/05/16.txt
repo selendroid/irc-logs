@@ -4,3 +4,4 @@
 [2014-05-16 02:02:23] smccarthy2, quitting. (Quit: Leaving...)
 [2014-05-16 04:17:14] smccarthy, joining. (#selendroid)
 [2014-05-16 06:42:18] smccarthy, quitting. (Quit: Leaving...)
+[2014-05-16 07:58:46] ddary, joining. (#selendroid)
