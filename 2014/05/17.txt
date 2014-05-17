@@ -22,3 +22,4 @@
 [2014-05-17 18:21:13] jlipps, joining. (#selendroid)
 [2014-05-17 19:52:53] smccarthy, quitting. (Quit: Leaving...)
 [2014-05-17 22:57:20] detronizator, leaving. (#selendroid)
+[2014-05-17 23:03:23] detronizator, joining. (#selendroid)
