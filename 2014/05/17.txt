@@ -14,3 +14,4 @@
 [2014-05-17 11:21:27] jlipps, quitting. (Client Quit)
 [2014-05-17 11:33:05] ddary, joining. (#selendroid)
 [2014-05-17 11:33:09] ddary, leaving. (#selendroid)
+[2014-05-17 12:32:02] jlipps, joining. (#selendroid)
