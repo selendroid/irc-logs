@@ -15,3 +15,5 @@
 [2014-05-17 11:33:05] ddary, joining. (#selendroid)
 [2014-05-17 11:33:09] ddary, leaving. (#selendroid)
 [2014-05-17 12:32:02] jlipps, joining. (#selendroid)
+[2014-05-17 16:30:14] jlipps, quitting. (Read error: Connection reset by peer)
+[2014-05-17 16:30:28] jlipps, joining. (#selendroid)
