@@ -3,3 +3,4 @@
 [2014-05-17 01:00:00] smccarthy, quitting. (Remote host closed the connection)
 [2014-05-17 01:36:16] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-05-17 02:37:31] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-05-17 03:18:30] friscodelrosario, joining. (#selendroid)
