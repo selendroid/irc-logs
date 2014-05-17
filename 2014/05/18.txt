@@ -4,3 +4,5 @@
 [2014-05-18 01:11:17] jlipps, quitting. (Ping timeout: 276 seconds)
 [2014-05-18 01:11:53] jlipps, joining. (#selendroid)
 [2014-05-18 01:11:54] jlipps2, quitting. (Read error: Connection reset by peer)
+[2014-05-18 01:19:52] jlipps1, joining. (#selendroid)
+[2014-05-18 01:19:52] jlipps, quitting. (Read error: Connection reset by peer)
