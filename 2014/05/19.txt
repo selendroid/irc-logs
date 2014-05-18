@@ -1,3 +1,6 @@
 [2014-05-19 00:14:09] sirsteve, quitting. (*.net *.split)
 [2014-05-19 00:14:09] detronizator, quitting. (*.net *.split)
 [2014-05-19 00:14:09] AutomatedTester, quitting. (*.net *.split)
+[2014-05-19 00:20:10] detronizator, joining. (#selendroid)
+[2014-05-19 00:20:10] AutomatedTester, joining. (#selendroid)
+[2014-05-19 00:20:10] sirsteve, joining. (#selendroid)
