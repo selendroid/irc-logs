@@ -13,3 +13,4 @@
 [2014-05-18 15:28:48] smccarthy, joining. (#selendroid)
 [2014-05-18 21:08:24] jlipps, joining. (#selendroid)
 [2014-05-18 21:10:54] jlipps, quitting. (Client Quit)
+[2014-05-18 23:42:17] selendroidbot__, joining. (#selendroid)
