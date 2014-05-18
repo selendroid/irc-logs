@@ -4,3 +4,4 @@
 [2014-05-19 00:20:10] detronizator, joining. (#selendroid)
 [2014-05-19 00:20:10] AutomatedTester, joining. (#selendroid)
 [2014-05-19 00:20:10] sirsteve, joining. (#selendroid)
+[2014-05-19 00:33:39] selendroidbot__, joining. (#selendroid)
