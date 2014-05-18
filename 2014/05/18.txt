@@ -11,3 +11,4 @@
 [2014-05-18 09:16:48] jlipps, quitting. (Quit: Leaving.)
 [2014-05-18 13:58:04] detronizator: :note lukeis dude - I have seen you looking for me in the buffer of this channel. What's up?
 [2014-05-18 15:28:48] smccarthy, joining. (#selendroid)
+[2014-05-18 21:08:24] jlipps, joining. (#selendroid)
