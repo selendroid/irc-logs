@@ -41,3 +41,5 @@
 [2014-05-19 22:00:34] AutomatedTester, joining. (#selendroid)
 [2014-05-19 22:00:38] AutomatedTester, quitting. (Changing host)
 [2014-05-19 22:00:38] AutomatedTester, joining. (#selendroid)
+[2014-05-19 23:00:35] smccarthy2, joining. (#selendroid)
+[2014-05-19 23:04:09] smccarthy, quitting. (Ping timeout: 252 seconds)
