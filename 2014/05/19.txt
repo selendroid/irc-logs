@@ -35,3 +35,5 @@
 [2014-05-19 20:38:00] lukeis: nope… but he is not working on it, not sure if anyone else at FB has picked it up
 [2014-05-19 20:38:18] lukeis: but I understand they have a few changes there that they haven't pushed back to selendroid yet
 [2014-05-19 20:41:57] ddary: yeah, that is what i heard as well
+[2014-05-19 20:51:20] ddary, quitting. (Quit: Leaving.)
+[2014-05-19 20:54:37] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
