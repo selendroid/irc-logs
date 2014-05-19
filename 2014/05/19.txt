@@ -9,3 +9,13 @@
 [2014-05-19 06:26:06] smccarthy, quitting. (Quit: Leaving...)
 [2014-05-19 11:46:01] gimpneek, joining. (#selendroid)
 [2014-05-19 17:16:51] smccarthy, joining. (#selendroid)
+[2014-05-19 17:25:43] lukeis, joining. (#selendroid)
+[2014-05-19 17:26:30] lukeis: detronizator: was trying to see your opinion on doing the 0.10 release… but I just did it anyway ;)
+[2014-05-19 17:27:01] detronizator: well done
+[2014-05-19 17:27:14] detronizator: unfortunately I'm not a Dominik replacement
+[2014-05-19 17:27:27] lukeis: well, you've at least made some contributions ;)
+[2014-05-19 17:27:44] detronizator: "unfortunately" as in "eBay didn't decide if they want me to work it or not and I'm not picking up another open source project using my free time (non exixtent)"
+[2014-05-19 17:28:01] lukeis: heh ;)
+[2014-05-19 17:28:05] lukeis: understandable :-D
+[2014-05-19 17:28:15] lukeis: free time with family? what's that?
+[2014-05-19 17:28:39] lukeis: (well, especially the little ones)
