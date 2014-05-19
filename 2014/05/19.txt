@@ -38,3 +38,6 @@
 [2014-05-19 20:51:20] ddary, quitting. (Quit: Leaving.)
 [2014-05-19 20:54:37] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-05-19 21:57:17] selendroidbot___, joining. (#selendroid)
+[2014-05-19 22:00:34] AutomatedTester, joining. (#selendroid)
+[2014-05-19 22:00:38] AutomatedTester, quitting. (Changing host)
+[2014-05-19 22:00:38] AutomatedTester, joining. (#selendroid)
