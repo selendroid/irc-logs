@@ -30,3 +30,7 @@
 [2014-05-19 20:33:14] ddary: i'm still in the process of signing the papers
 [2014-05-19 20:34:17] ddary: if this is done, I will be more active
 [2014-05-19 20:34:43] lukeis: :) that would be nice
+[2014-05-19 20:35:09] ddary: definetely
+[2014-05-19 20:37:24] ddary: lukeis: have you heard something about the diff Simon wanted to land about using netty?
+[2014-05-19 20:38:00] lukeis: nope… but he is not working on it, not sure if anyone else at FB has picked it up
+[2014-05-19 20:38:18] lukeis: but I understand they have a few changes there that they haven't pushed back to selendroid yet
