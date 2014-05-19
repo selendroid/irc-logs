@@ -25,3 +25,4 @@
 [2014-05-19 20:24:10] ddary: hi lukeis
 [2014-05-19 20:24:24] lukeis: hi ddary
 [2014-05-19 20:24:48] ddary: how are you doing?
+[2014-05-19 20:26:07] lukeis: pretty well, although i don't like sifting through javascript… work is requiring I get the change I did for selendroid (regarding network connection) into appium (so we can use it in saucelabs)
