@@ -8,3 +8,4 @@
 [2014-05-19 00:43:17] selendroidbot__, joining. (#selendroid)
 [2014-05-19 06:26:06] smccarthy, quitting. (Quit: Leaving...)
 [2014-05-19 11:46:01] gimpneek, joining. (#selendroid)
+[2014-05-19 17:16:51] smccarthy, joining. (#selendroid)
