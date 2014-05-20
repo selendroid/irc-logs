@@ -1,2 +1,3 @@
 [2014-05-21 00:03:34] smccarthy, quitting. (Ping timeout: 276 seconds)
 [2014-05-21 01:04:42] lukeis, quitting. (Quit: Leaving.)
+[2014-05-21 01:10:34] smccarthy2, quitting. (Quit: Leaving...)
