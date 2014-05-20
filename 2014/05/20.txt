@@ -4,3 +4,5 @@
 [2014-05-20 07:52:48] ddary: :note lukeis about the resources you commited after the release: does a bugfix release make sense?
 [2014-05-20 07:52:57] ddary, leaving. (#selendroid)
 [2014-05-20 11:41:41] gimpneek, joining. (#selendroid)
+[2014-05-20 17:22:18] lukeis, joining. (#selendroid)
+[2014-05-20 17:23:27] lukeis: :note ddary maybe it does make sense to do one… depends on if anyone is actually going to use the feature ;) but also if the selenium bindings get released in the meantime, it will be available there
