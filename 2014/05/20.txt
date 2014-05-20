@@ -8,3 +8,4 @@
 [2014-05-20 17:23:27] lukeis: :note ddary maybe it does make sense to do one… depends on if anyone is actually going to use the feature ;) but also if the selenium bindings get released in the meantime, it will be available there
 [2014-05-20 17:33:25] lukeis, quitting. (Quit: Leaving.)
 [2014-05-20 17:33:54] lukeis, joining. (#selendroid)
+[2014-05-20 17:51:32] smccarthy, joining. (#selendroid)
