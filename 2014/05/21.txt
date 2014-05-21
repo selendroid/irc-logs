@@ -10,3 +10,5 @@
 [2014-05-21 19:31:57] gimpneek, quitting. (Remote host closed the connection)
 [2014-05-21 21:26:54] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-05-21 23:42:21] friscodelrosario, joining. (#selendroid)
+[2014-05-21 23:45:31] smccarthy2, joining. (#selendroid)
+[2014-05-21 23:48:34] smccarthy, quitting. (Ping timeout: 258 seconds)
