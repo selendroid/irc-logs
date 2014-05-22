@@ -40,3 +40,7 @@
 [2014-05-22 22:16:50] lukeis: it hasn't been for a while… i have no idea how to fix it :)
 [2014-05-22 22:17:39] ddary: for me it was looking like that the same dependencies in the pom may have created that issue
 [2014-05-22 22:17:40] ddary: will see
+[2014-05-22 22:21:26] ddary, leaving. (#selendroid)
+[2014-05-22 22:24:11] ddary1, joining. (#selendroid)
+[2014-05-22 22:24:39] lukeis: ddary1: well, today is the first I saw it run… did you do something to make it run again?
+[2014-05-22 22:24:59] ddary1: there was an issue in the github project settings
