@@ -72,3 +72,9 @@
 [2014-05-22 23:28:44] ddary: lukeis: is Cpaniyadi still working for you?
 [2014-05-22 23:29:48] lukeis: yeah, she's at salesforce… but not on my team, working on other things
 [2014-05-22 23:29:57] lukeis: she was a summer intern :)
+[2014-05-22 23:30:03] lukeis: (and then got hired)
+[2014-05-22 23:30:35] lukeis: i have a new intern starting next week who gets to work on android stuff
+[2014-05-22 23:31:08] ddary: ok, asking just because she has still commit rights…
+[2014-05-22 23:31:29] ddary: and I was asking myself if that is needed
+[2014-05-22 23:33:17] lukeis: likely not
+[2014-05-22 23:33:38] lukeis: you can revoke (and if she starts on it again she can send pull requests)
