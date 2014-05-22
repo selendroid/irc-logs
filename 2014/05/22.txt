@@ -44,3 +44,9 @@
 [2014-05-22 22:24:11] ddary1, joining. (#selendroid)
 [2014-05-22 22:24:39] lukeis: ddary1: well, today is the first I saw it run… did you do something to make it run again?
 [2014-05-22 22:24:59] ddary1: there was an issue in the github project settings
+[2014-05-22 22:27:24] travis-ci, joining. (#selendroid)
+[2014-05-22 22:27:24] travis-ci: [travis-ci] selendroid/selendroid#230 (master - 70bd6b3 : Dominik Dary): The build has errored.
+[2014-05-22 22:27:25] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/7e48bdde4089...70bd6b31df7f
+[2014-05-22 22:27:25] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/25820214
+[2014-05-22 22:27:25] travis-ci, leaving. (#selendroid)
+[2014-05-22 22:29:07] detronizator, joining. (#selendroid)
