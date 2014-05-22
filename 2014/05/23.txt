@@ -1,2 +1,3 @@
 [2014-05-23 00:05:49] detronizator, quitting. (Ping timeout: 252 seconds)
 [2014-05-23 00:05:49] detronizator, joining. (#selendroid)
+[2014-05-23 00:57:58] Elise_, joining. (#selendroid)
