@@ -79,3 +79,7 @@
 [2014-05-22 23:33:17] lukeis: likely not
 [2014-05-22 23:33:38] lukeis: you can revoke (and if she starts on it again she can send pull requests)
 [2014-05-22 23:36:49] ddary: ok, thanks for letting me know
+[2014-05-22 23:41:36] ddary, quitting. (Quit: ddary)
+[2014-05-22 23:43:13] ddary, joining. (#selendroid)
+[2014-05-22 23:44:12] ddary: ok, have removed her
+[2014-05-22 23:44:44] ddary: going to bed now. Wishing you all guys a good day/night!
