@@ -26,3 +26,17 @@
 [2014-05-22 21:37:50] travis-ci, leaving. (#selendroid)
 [2014-05-22 21:38:08] lukeis: what's going on? :-/
 [2014-05-22 22:00:43] ddary, joining. (#selendroid)
+[2014-05-22 22:15:14] selendroid-git, joining. (#selendroid)
+[2014-05-22 22:15:14] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/NRg30A
+[2014-05-22 22:15:14] selendroid-git: selendroid/master 70bd6b3 Dominik Dary: removing duplicate dependency.
+[2014-05-22 22:15:14] selendroid-git, leaving. (#selendroid)
+[2014-05-22 22:15:50] lukeis: war? ddary? means all your papers are in order? ;)
+[2014-05-22 22:15:55] lukeis: wat*
+[2014-05-22 22:16:05] ddary: hi lukeis
+[2014-05-22 22:16:09] ddary: yep :-)
+[2014-05-22 22:16:19] lukeis: nice :) welcome back to the project ;)
+[2014-05-22 22:16:36] ddary: and i just have seen somehow travis was not any longer building..
+[2014-05-22 22:16:40] ddary: :)
+[2014-05-22 22:16:50] lukeis: it hasn't been for a while… i have no idea how to fix it :)
+[2014-05-22 22:17:39] ddary: for me it was looking like that the same dependencies in the pom may have created that issue
+[2014-05-22 22:17:40] ddary: will see
