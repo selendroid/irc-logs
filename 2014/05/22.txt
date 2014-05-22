@@ -14,3 +14,14 @@
 [2014-05-22 20:54:38] gimpneek, quitting. (Ping timeout: 265 seconds)
 [2014-05-22 20:56:45] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-05-22 21:27:03] detronizator, quitting. (Ping timeout: 252 seconds)
+[2014-05-22 21:36:52] travis-ci, joining. (#selendroid)
+[2014-05-22 21:36:53] travis-ci: [travis-ci] selendroid/selendroid#228 (master - 7e48bdd : Luke Inman-Semerau): The build has errored.
+[2014-05-22 21:36:53] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/4aa1c7b64406...7e48bdde4089
+[2014-05-22 21:36:53] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/25817195
+[2014-05-22 21:36:53] travis-ci, leaving. (#selendroid)
+[2014-05-22 21:37:50] travis-ci, joining. (#selendroid)
+[2014-05-22 21:37:50] travis-ci: [travis-ci] selendroid/selendroid#229 (master - 7e48bdd : Luke Inman-Semerau): The build has errored.
+[2014-05-22 21:37:50] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/4aa1c7b64406...7e48bdde4089
+[2014-05-22 21:37:50] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/25817197
+[2014-05-22 21:37:50] travis-ci, leaving. (#selendroid)
+[2014-05-22 21:38:08] lukeis: what's going on? :-/
