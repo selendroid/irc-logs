@@ -69,3 +69,6 @@
 [2014-05-22 22:57:02] ddary: https://oss.sonatype.org/content/repositories/snapshots/io/selendroid/selendroid-server/0.11.0-SNAPSHOT/
 [2014-05-22 22:57:24] lukeis: nice :)
 [2014-05-22 22:58:53] detronizator, joining. (#selendroid)
+[2014-05-22 23:28:44] ddary: lukeis: is Cpaniyadi still working for you?
+[2014-05-22 23:29:48] lukeis: yeah, she's at salesforce… but not on my team, working on other things
+[2014-05-22 23:29:57] lukeis: she was a summer intern :)
