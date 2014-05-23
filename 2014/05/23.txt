@@ -5,3 +5,4 @@
 [2014-05-23 01:09:17] smccarthy, quitting. (Quit: Leaving...)
 [2014-05-23 03:28:42] smccarthy, joining. (#selendroid)
 [2014-05-23 03:39:48] Elise_, quitting. (Ping timeout: 240 seconds)
+[2014-05-23 05:58:28] ddary, joining. (#selendroid)
