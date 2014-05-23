@@ -27,3 +27,5 @@
 [2014-05-23 18:53:00] Elise_: Plugin execution not covered by lifecycle configuration: com.jayway.maven.plugins.android.generation2:android-maven-plugin:3.8.2:consume-aar (execution: default-consume-aar, phase: compile)	pom.xml	/android-driver-app	line 26	Maven Project Build Lifecycle Mapping Problem
 [2014-05-23 19:09:19] gimpneek, quitting. (Remote host closed the connection)
 [2014-05-23 19:20:10] friscodelrosario, joining. (#selendroid)
+[2014-05-23 20:18:32] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-05-23 20:19:56] friscodelrosario, joining. (#selendroid)
