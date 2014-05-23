@@ -3,3 +3,4 @@
 [2014-05-23 00:57:58] Elise_, joining. (#selendroid)
 [2014-05-23 01:04:44] lukeis, quitting. (Quit: Leaving.)
 [2014-05-23 01:09:17] smccarthy, quitting. (Quit: Leaving...)
+[2014-05-23 03:28:42] smccarthy, joining. (#selendroid)
