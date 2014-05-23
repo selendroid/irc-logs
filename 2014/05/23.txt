@@ -22,3 +22,6 @@
 [2014-05-23 17:12:48] lukeis1, joining. (#selendroid)
 [2014-05-23 17:13:17] lukeis, quitting. (Ping timeout: 276 seconds)
 [2014-05-23 17:55:30] lukeis1, changing nick to lukeis.
+[2014-05-23 18:50:23] Elise_, joining. (#selendroid)
+[2014-05-23 18:52:58] Elise_: Hi all :)  I'm trying to build for the first time in eclipse (the maven build works command line) and I get maven related errors with borks my workspace.  Thoughts on how to fix those?
+[2014-05-23 18:53:00] Elise_: Plugin execution not covered by lifecycle configuration: com.jayway.maven.plugins.android.generation2:android-maven-plugin:3.8.2:consume-aar (execution: default-consume-aar, phase: compile)	pom.xml	/android-driver-app	line 26	Maven Project Build Lifecycle Mapping Problem
