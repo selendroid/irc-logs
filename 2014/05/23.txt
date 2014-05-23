@@ -15,3 +15,4 @@
 [2014-05-23 12:45:12] gimpneek, joining. (#selendroid)
 [2014-05-23 13:44:16] gimpneek, quitting. (Quit: Leaving.)
 [2014-05-23 13:44:31] gimpneek, joining. (#selendroid)
+[2014-05-23 16:44:47] smccarthy, joining. (#selendroid)
