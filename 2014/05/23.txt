@@ -6,3 +6,6 @@
 [2014-05-23 03:28:42] smccarthy, joining. (#selendroid)
 [2014-05-23 03:39:48] Elise_, quitting. (Ping timeout: 240 seconds)
 [2014-05-23 05:58:28] ddary, joining. (#selendroid)
+[2014-05-23 06:00:06] ddary, quitting. (Client Quit)
+[2014-05-23 06:00:48] ddary, joining. (#selendroid)
+[2014-05-23 06:01:00] ddary, quitting. (Client Quit)
