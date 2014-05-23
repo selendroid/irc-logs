@@ -10,3 +10,4 @@
 [2014-05-23 06:00:48] ddary, joining. (#selendroid)
 [2014-05-23 06:01:00] ddary, quitting. (Client Quit)
 [2014-05-23 06:49:07] smccarthy, quitting. (Quit: Leaving...)
+[2014-05-23 11:50:20] gimpneek, joining. (#selendroid)
