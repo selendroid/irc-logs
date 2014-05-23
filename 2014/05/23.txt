@@ -31,3 +31,4 @@
 [2014-05-23 20:19:56] friscodelrosario, joining. (#selendroid)
 [2014-05-23 20:20:31] lukeis, quitting. (Quit: Leaving.)
 [2014-05-23 20:32:33] lukeis, joining. (#selendroid)
+[2014-05-23 20:42:18] Elise_, quitting. (Ping timeout: 240 seconds)
