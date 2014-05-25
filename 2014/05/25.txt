@@ -3,3 +3,4 @@
 [2014-05-25 06:18:52] smccarthy, quitting. (Quit: Leaving...)
 [2014-05-25 17:28:41] smccarthy, joining. (#selendroid)
 [2014-05-25 20:43:17] jrm2k6, joining. (#selendroid)
+[2014-05-25 21:10:30] jrm2k6: Hi guys, is it possible to have a test using an app which is not mine?
