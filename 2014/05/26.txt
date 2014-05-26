@@ -1,3 +1,4 @@
 [2014-05-26 00:37:31] jrm2k6, quitting. (Remote host closed the connection)
 [2014-05-26 02:34:52] smccarthy, quitting. (Remote host closed the connection)
 [2014-05-26 17:42:11] smccarthy, joining. (#selendroid)
+[2014-05-26 19:21:41] smccarthy, quitting. (Quit: Leaving...)
