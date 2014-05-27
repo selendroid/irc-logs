@@ -2,3 +2,4 @@
 [2014-05-27 11:54:26] gimpneek, joining. (#selendroid)
 [2014-05-27 15:34:19] smccarthy, joining. (#selendroid)
 [2014-05-27 17:22:48] lukeis, joining. (#selendroid)
+[2014-05-27 19:06:18] gimpneek, quitting. (Remote host closed the connection)
