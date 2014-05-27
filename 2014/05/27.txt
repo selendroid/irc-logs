@@ -1,2 +1,3 @@
 [2014-05-27 00:48:32] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-05-27 11:54:26] gimpneek, joining. (#selendroid)
+[2014-05-27 15:34:19] smccarthy, joining. (#selendroid)
