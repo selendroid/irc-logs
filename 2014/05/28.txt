@@ -23,3 +23,4 @@
 [2014-05-28 21:02:24] ddary: hi detronizator
 [2014-05-28 21:02:34] ddary: have you seen that one: https://gist.github.com/RahulS99/c5dccb7b567da8af4506
 [2014-05-28 21:04:47] ddary: can you talk with that guy to remove that stuff, he seems to work for ebay and I’m not sure if that snippets should be shared
+[2014-05-28 21:19:29] ddary, quitting. (Quit: ddary)
