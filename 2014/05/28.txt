@@ -1,2 +1,4 @@
 [2014-05-28 01:08:40] lukeis, quitting. (Quit: Leaving.)
 [2014-05-28 01:29:43] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-05-28 04:30:27] smccarthy2, joining. (#selendroid)
+[2014-05-28 04:33:43] smccarthy, quitting. (Ping timeout: 252 seconds)
