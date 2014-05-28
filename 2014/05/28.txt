@@ -25,3 +25,4 @@
 [2014-05-28 21:04:47] ddary: can you talk with that guy to remove that stuff, he seems to work for ebay and I’m not sure if that snippets should be shared
 [2014-05-28 21:19:29] ddary, quitting. (Quit: ddary)
 [2014-05-28 21:25:09] lukeis, quitting. (Ping timeout: 265 seconds)
+[2014-05-28 22:01:53] lukeis, joining. (#selendroid)
