@@ -8,3 +8,5 @@
 [2014-05-28 18:01:11] gimpneek, quitting. (Remote host closed the connection)
 [2014-05-28 18:03:31] lukeis, joining. (#selendroid)
 [2014-05-28 19:24:20] friscodelrosario, joining. (#selendroid)
+[2014-05-28 19:27:22] friscodelrosario, quitting. (Client Quit)
+[2014-05-28 19:28:34] friscodelrosario, joining. (#selendroid)
