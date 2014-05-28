@@ -13,3 +13,5 @@
 [2014-05-28 20:03:25] lukeis1, joining. (#selendroid)
 [2014-05-28 20:04:03] lukeis2, joining. (#selendroid)
 [2014-05-28 20:04:03] lukeis1, quitting. (Read error: Connection reset by peer)
+[2014-05-28 20:05:53] lukeis, quitting. (Ping timeout: 252 seconds)
+[2014-05-28 20:07:31] lukeis, joining. (#selendroid)
