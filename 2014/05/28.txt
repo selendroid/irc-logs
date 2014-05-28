@@ -26,3 +26,4 @@
 [2014-05-28 21:19:29] ddary, quitting. (Quit: ddary)
 [2014-05-28 21:25:09] lukeis, quitting. (Ping timeout: 265 seconds)
 [2014-05-28 22:01:53] lukeis, joining. (#selendroid)
+[2014-05-28 22:22:50] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
