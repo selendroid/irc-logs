@@ -10,3 +10,6 @@
 [2014-05-28 19:24:20] friscodelrosario, joining. (#selendroid)
 [2014-05-28 19:27:22] friscodelrosario, quitting. (Client Quit)
 [2014-05-28 19:28:34] friscodelrosario, joining. (#selendroid)
+[2014-05-28 20:03:25] lukeis1, joining. (#selendroid)
+[2014-05-28 20:04:03] lukeis2, joining. (#selendroid)
+[2014-05-28 20:04:03] lukeis1, quitting. (Read error: Connection reset by peer)
