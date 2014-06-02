@@ -9,3 +9,4 @@
 [2014-06-02 16:50:34] lukeis, joining. (#selendroid)
 [2014-06-02 17:12:44] smccarthy, quitting. (Quit: Leaving...)
 [2014-06-02 18:17:49] smccarthy, joining. (#selendroid)
+[2014-06-02 19:13:22] gimpneek, quitting. (Remote host closed the connection)
