@@ -18,3 +18,5 @@
 [2014-06-02 23:04:00] friscodelrosario, quitting. (Client Quit)
 [2014-06-02 23:11:26] lukeis2, joining. (#selendroid)
 [2014-06-02 23:12:48] lukeis, quitting. (Ping timeout: 245 seconds)
+[2014-06-02 23:16:10] lukeis, joining. (#selendroid)
+[2014-06-02 23:18:09] lukeis2, quitting. (Ping timeout: 252 seconds)
