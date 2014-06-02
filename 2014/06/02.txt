@@ -7,3 +7,4 @@
 [2014-06-02 11:49:42] gimpneek, joining. (#selendroid)
 [2014-06-02 16:32:54] smccarthy, joining. (#selendroid)
 [2014-06-02 16:50:34] lukeis, joining. (#selendroid)
+[2014-06-02 17:12:44] smccarthy, quitting. (Quit: Leaving...)
