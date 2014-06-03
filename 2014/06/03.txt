@@ -3,3 +3,5 @@
 [2014-06-03 00:34:40] lukeis, quitting. (Ping timeout: 276 seconds)
 [2014-06-03 01:42:18] smccarthy2, quitting. (Quit: Leaving...)
 [2014-06-03 03:37:48] smccarthy, joining. (#selendroid)
+[2014-06-03 06:07:31] lukeis, joining. (#selendroid)
+[2014-06-03 06:09:20] lukeis, quitting. (Client Quit)
