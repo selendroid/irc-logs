@@ -5,3 +5,4 @@
 [2014-06-03 03:37:48] smccarthy, joining. (#selendroid)
 [2014-06-03 06:07:31] lukeis, joining. (#selendroid)
 [2014-06-03 06:09:20] lukeis, quitting. (Client Quit)
+[2014-06-03 08:13:46] ddary, joining. (#selendroid)
