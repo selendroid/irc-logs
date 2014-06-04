@@ -35,3 +35,4 @@
 [2014-06-04 22:59:46] jlipps, joining. (#selendroid)
 [2014-06-04 23:37:03] jlipps1, joining. (#selendroid)
 [2014-06-04 23:40:19] jlipps, quitting. (Ping timeout: 240 seconds)
+[2014-06-04 23:53:47] jlipps1, quitting. (Read error: Connection reset by peer)
