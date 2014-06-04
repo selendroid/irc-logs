@@ -31,3 +31,4 @@
 [2014-06-04 21:42:29] ddary, leaving. (#selendroid)
 [2014-06-04 22:08:28] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-06-04 22:20:51] jlipps, quitting. (Quit: Leaving.)
+[2014-06-04 22:34:38] friscodelrosario, joining. (#selendroid)
