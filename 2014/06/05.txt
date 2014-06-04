@@ -6,3 +6,7 @@
 [2014-06-05 01:25:19] jlipps, joining. (#selendroid)
 [2014-06-05 01:29:50] blahjake, joining. (#selendroid)
 [2014-06-05 01:33:29] blahjake: hello
+[2014-06-05 01:36:15] blahjake: i have an issue where navigator.geolocation.getCurrentPosition in a webview never fires the success or error callbacks when run under selendroid
+[2014-06-05 01:36:28] blahjake: same app without selendroid fires normally
+[2014-06-05 01:36:54] blahjake: i can attach chrome's webtools inspector and see the behavior directly on the console when the webview is open
+[2014-06-05 01:37:03] blahjake: has anybody encountered something like this?
