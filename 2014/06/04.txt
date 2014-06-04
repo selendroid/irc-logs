@@ -24,3 +24,4 @@
 [2014-06-04 10:05:07] AutomatedTester, quitting. (Changing host)
 [2014-06-04 10:05:07] AutomatedTester, joining. (#selendroid)
 [2014-06-04 16:55:53] jlipps, joining. (#selendroid)
+[2014-06-04 17:10:55] lukeis, joining. (#selendroid)
