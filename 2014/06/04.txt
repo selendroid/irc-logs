@@ -9,3 +9,4 @@
 [2014-06-04 03:02:15] oh_hi: hey can anyone help me getting started with selendroid
 [2014-06-04 03:03:01] oh_hi: i'm trying to run the mobile web test described here: https://github.com/selendroid/demoproject-selendroid/blob/master/src/main/java/io/selendroid/demo/mobileweb/MobileWebTest.java
 [2014-06-04 03:03:34] oh_hi: but my server gives "The target server failed to respond"
+[2014-06-04 03:23:06] oh_hi, quitting. (Quit: leaving)
