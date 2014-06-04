@@ -5,3 +5,7 @@
 [2014-06-04 01:13:21] jlipps, quitting. (Quit: Leaving.)
 [2014-06-04 01:24:00] jlipps, joining. (#selendroid)
 [2014-06-04 02:16:35] jlipps, quitting. (Quit: Leaving.)
+[2014-06-04 03:01:47] oh_hi, joining. (#selendroid)
+[2014-06-04 03:02:15] oh_hi: hey can anyone help me getting started with selendroid
+[2014-06-04 03:03:01] oh_hi: i'm trying to run the mobile web test described here: https://github.com/selendroid/demoproject-selendroid/blob/master/src/main/java/io/selendroid/demo/mobileweb/MobileWebTest.java
+[2014-06-04 03:03:34] oh_hi: but my server gives "The target server failed to respond"
