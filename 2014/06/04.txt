@@ -21,3 +21,5 @@
 [2014-06-04 07:41:22] ddary, quitting. (Client Quit)
 [2014-06-04 08:29:19] ddary, joining. (#selendroid)
 [2014-06-04 08:38:59] ddary, quitting. (Ping timeout: 265 seconds)
+[2014-06-04 10:05:07] AutomatedTester, quitting. (Changing host)
+[2014-06-04 10:05:07] AutomatedTester, joining. (#selendroid)
