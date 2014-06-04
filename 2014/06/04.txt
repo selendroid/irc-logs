@@ -11,3 +11,4 @@
 [2014-06-04 03:03:34] oh_hi: but my server gives "The target server failed to respond"
 [2014-06-04 03:23:06] oh_hi, quitting. (Quit: leaving)
 [2014-06-04 04:38:47] jlipps, joining. (#selendroid)
+[2014-06-04 05:45:48] smccarthy, quitting. (Quit: Leaving...)
