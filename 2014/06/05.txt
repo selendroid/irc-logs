@@ -5,3 +5,4 @@
 [2014-06-05 01:17:19] smccarthy, quitting. (Quit: Leaving...)
 [2014-06-05 01:25:19] jlipps, joining. (#selendroid)
 [2014-06-05 01:29:50] blahjake, joining. (#selendroid)
+[2014-06-05 01:33:29] blahjake: hello
