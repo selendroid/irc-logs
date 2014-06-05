@@ -10,3 +10,4 @@
 [2014-06-05 01:36:28] blahjake: same app without selendroid fires normally
 [2014-06-05 01:36:54] blahjake: i can attach chrome's webtools inspector and see the behavior directly on the console when the webview is open
 [2014-06-05 01:37:03] blahjake: has anybody encountered something like this?
+[2014-06-05 02:23:08] blahjake, quitting. (Remote host closed the connection)
