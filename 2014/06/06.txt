@@ -1,3 +1,4 @@
 [2014-06-06 00:10:49] jlipps, quitting. (Quit: Leaving.)
 [2014-06-06 00:17:54] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-06-06 00:18:35] smccarthy, joining. (#selendroid)
+[2014-06-06 00:45:06] lukeis, quitting. (Quit: Leaving.)
