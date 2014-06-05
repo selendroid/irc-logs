@@ -12,3 +12,4 @@
 [2014-06-05 01:37:03] blahjake: has anybody encountered something like this?
 [2014-06-05 02:23:08] blahjake, quitting. (Remote host closed the connection)
 [2014-06-05 02:31:24] jlipps, quitting. (Quit: Leaving.)
+[2014-06-05 05:31:31] smccarthy, joining. (#selendroid)
