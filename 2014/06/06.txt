@@ -6,3 +6,8 @@
 [2014-06-06 07:15:17] detronizator, quitting. (*.net *.split)
 [2014-06-06 07:17:33] sirsteve, quitting. (Ping timeout: 276 seconds)
 [2014-06-06 07:17:51] sirsteve, joining. (#selendroid)
+[2014-06-06 07:26:39] sirsteve, quitting. (Ping timeout: 276 seconds)
+[2014-06-06 07:26:45] detronizator, joining. (#selendroid)
+[2014-06-06 07:27:25] sirsteve, joining. (#selendroid)
+[2014-06-06 07:28:33] detronizator, quitting. (*.net *.split)
+[2014-06-06 07:28:36] sirsteve, quitting. (*.net *.split)
