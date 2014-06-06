@@ -1,0 +1,2 @@
+[2014-06-07 00:12:41] smccarthy2, joining. (#selendroid)
+[2014-06-07 00:12:45] smccarthy, quitting. (Read error: Connection reset by peer)
