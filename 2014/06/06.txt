@@ -17,3 +17,6 @@
 [2014-06-06 07:34:36] sirsteve, quitting. (Remote host closed the connection)
 [2014-06-06 07:50:15] ddary, joining. (#selendroid)
 [2014-06-06 07:56:52] ddary, quitting. (Ping timeout: 245 seconds)
+[2014-06-06 11:09:52] selendroid-git, joining. (#selendroid)
+[2014-06-06 11:09:52] selendroid-git: [selendroid] smiklosovic opened pull request #430: repaired encoding header for BaseServlet (master...encoding) http://git.io/bGZAaA
+[2014-06-06 11:09:52] selendroid-git, leaving. (#selendroid)
