@@ -3,3 +3,6 @@
 [2014-06-06 00:18:35] smccarthy, joining. (#selendroid)
 [2014-06-06 00:45:06] lukeis, quitting. (Quit: Leaving.)
 [2014-06-06 01:24:16] smccarthy, quitting. (Quit: Leaving...)
+[2014-06-06 07:15:17] detronizator, quitting. (*.net *.split)
+[2014-06-06 07:17:33] sirsteve, quitting. (Ping timeout: 276 seconds)
+[2014-06-06 07:17:51] sirsteve, joining. (#selendroid)
