@@ -2,3 +2,5 @@
 [2014-06-07 00:12:45] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-06-07 01:04:45] lukeis, quitting. (Quit: Leaving.)
 [2014-06-07 01:12:04] smccarthy2, quitting. (Quit: Leaving...)
+[2014-06-07 10:58:38] sirsteve, quitting. (*.net *.split)
+[2014-06-07 10:58:56] sirsteve, joining. (#selendroid)
