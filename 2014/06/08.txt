@@ -15,3 +15,7 @@
 [2014-06-08 22:59:48] Lamzou_: on the official website there is an example which states the following
 [2014-06-08 22:59:48] Lamzou_:   Assert.assertEquals(driver.getCurrentUrl(), "file:///android_asset/www/index.html#employees/4");
 [2014-06-08 22:59:58] Lamzou_: from where did you take this file:///android_asset/www/index.html#employees/4
+[2014-06-08 23:00:05] Lamzou_: I mean how did you inspect it or something?
+[2014-06-08 23:00:24] Lamzou_:     Assert.assertEquals(driver.getCurrentUrl(), "and-activity://VerifyUserActivity");
+[2014-06-08 23:00:32] Lamzou_: this one too and-activity://VerifyUserActivity
+[2014-06-08 23:00:51] Lamzou_: I will be extremely thankful if you get me familiar with this
