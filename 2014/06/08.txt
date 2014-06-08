@@ -19,3 +19,4 @@
 [2014-06-08 23:00:24] Lamzou_:     Assert.assertEquals(driver.getCurrentUrl(), "and-activity://VerifyUserActivity");
 [2014-06-08 23:00:32] Lamzou_: this one too and-activity://VerifyUserActivity
 [2014-06-08 23:00:51] Lamzou_: I will be extremely thankful if you get me familiar with this
+[2014-06-08 23:23:06] Lamzou_: anyone?
