@@ -10,3 +10,8 @@
 [2014-06-08 17:11:28] ddary, quitting. (Client Quit)
 [2014-06-08 17:16:23] selendroidbot___, joining. (#selendroid)
 [2014-06-08 20:55:12] smccarthy, quitting. (Quit: Leaving...)
+[2014-06-08 22:57:59] Lamzou_, joining. (#selendroid)
+[2014-06-08 22:58:41] Lamzou_: Hi guys :) I would like to ask you one fast question :)
+[2014-06-08 22:59:48] Lamzou_: on the official website there is an example which states the following
+[2014-06-08 22:59:48] Lamzou_:   Assert.assertEquals(driver.getCurrentUrl(), "file:///android_asset/www/index.html#employees/4");
+[2014-06-08 22:59:58] Lamzou_: from where did you take this file:///android_asset/www/index.html#employees/4
