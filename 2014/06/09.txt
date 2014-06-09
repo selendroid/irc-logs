@@ -8,3 +8,4 @@
 [2014-06-09 16:42:52] operatiay: Hi guys, is anyone of you doing the coding on selendroid?
 [2014-06-09 16:43:58] operatiay: I've got an issue previously logged for calabash: If <activity-alias> tag is used to specifiy a Launcher intent (in Manifest.xml), then "aapt dump badging" doesn't list a launchable_activity
 [2014-06-09 16:45:11] operatiay: this result in a non launchable server command of the form "shell am instrument -e main_activity -e server_port 8080 io.selendroid.com...." (note the missing main_activity)
+[2014-06-09 17:09:32] detronizator, quitting. (Quit: ZNC - http://znc.in)
