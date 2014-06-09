@@ -2,3 +2,5 @@
 [2014-06-09 04:07:07] detronizator, joining. (#selendroid)
 [2014-06-09 10:29:45] sirsteve_, joining. (#selendroid)
 [2014-06-09 10:31:17] sirsteve, quitting. (Ping timeout: 240 seconds)
+[2014-06-09 16:32:32] operatiay, joining. (#selendroid)
+[2014-06-09 16:33:21] operatiay, quitting. (Client Quit)
