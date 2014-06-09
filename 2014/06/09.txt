@@ -12,3 +12,4 @@
 [2014-06-09 17:11:27] detronizator, joining. (#selendroid)
 [2014-06-09 17:20:08] lukeis, joining. (#selendroid)
 [2014-06-09 17:47:34] smccarthy, joining. (#selendroid)
+[2014-06-09 18:35:24] operatiay, quitting. (Remote host closed the connection)
