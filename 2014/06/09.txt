@@ -11,3 +11,4 @@
 [2014-06-09 17:09:32] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-06-09 17:11:27] detronizator, joining. (#selendroid)
 [2014-06-09 17:20:08] lukeis, joining. (#selendroid)
+[2014-06-09 17:47:34] smccarthy, joining. (#selendroid)
