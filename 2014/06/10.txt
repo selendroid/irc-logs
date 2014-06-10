@@ -76,3 +76,4 @@
 [2014-06-10 23:19:55] nm_: So there are two issues, 1- when I sent a curl command to register node, I notice the error message(above). So the hub and node can't communicate 2- if #1 doens't happen and the node is registered but then I see a message on grid/console as  a message on grid/console as "SelendroidSessionProxy: Unknown version. The target server failed to respond"
 [2014-06-10 23:22:08] smccarthy, joining. (#selendroid)
 [2014-06-10 23:25:16] smccarthy2, quitting. (Ping timeout: 260 seconds)
+[2014-06-10 23:42:04] operatiay, joining. (#selendroid)
