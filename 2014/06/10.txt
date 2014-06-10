@@ -47,3 +47,11 @@
 [2014-06-10 22:56:20] nm_: 4- selendroid-nodes-config.json content is
 [2014-06-10 22:57:24] nm_: {   "capabilities": [{       "browserName": "selendroid",       "maxInstances": 1,       "aut": "com.ebay.mobile:2.5.0.25",       "locale": "en_US",       "emulator": True,       "androidTarget": "ANDROID15"   }, {       "browserName": "android",       "maxInstances": 1   }],   "configuration": {       "maxSession": 1,       "register": true,       "hubHost": "localhost",       "hubPort": 4444,       "remoteHost": "http://localhost
 [2014-06-10 22:57:52] nm_: id.grid.SelendroidSessionProxy"   } }
+[2014-06-10 23:01:03] lukeis: sorry, i don't immediately see where the issue is… and I don't run selendroid as a grid locally :(
+[2014-06-10 23:02:49] nm_: Can you shed some light on how you configured selendroid with the grid. Do you have a machine on which you start the hub and have the VM images registered as nodes
+[2014-06-10 23:02:51] nm_: ?
+[2014-06-10 23:03:26] lukeis: i don't use selenium grid
+[2014-06-10 23:04:02] lukeis: françois knows a lot about selenium grid at ebay ;)
+[2014-06-10 23:04:31] nm_: But he works on ios-driver
+[2014-06-10 23:04:38] nm_: and ofcourse familiar with grid
+[2014-06-10 23:04:43] lukeis: very similar stuff here
