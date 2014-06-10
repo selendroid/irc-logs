@@ -13,3 +13,4 @@
 [2014-06-10 16:57:40] lukeis, joining. (#selendroid)
 [2014-06-10 17:37:43] smccarthy, joining. (#selendroid)
 [2014-06-10 17:39:24] operatiay, quitting. (Remote host closed the connection)
+[2014-06-10 19:04:52] friscodelrosario, joining. (#selendroid)
