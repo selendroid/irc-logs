@@ -64,3 +64,10 @@
 [2014-06-10 23:08:04] nm_: Will see if I can get any help
 [2014-06-10 23:08:32] lukeis: have you tried to debug further? looked at the source code even? :)
 [2014-06-10 23:08:33] nm_: Thank you
+[2014-06-10 23:10:54] nm_: No I didn't. But I don't see any error when I start the hub or register the node. I notice the error when I open the link http://localhost:4444/grid/console
+[2014-06-10 23:11:11] smccarthy2, joining. (#selendroid)
+[2014-06-10 23:11:14] nm_: I mean I don't see error on console
+[2014-06-10 23:11:49] nm_: Actually one more thing
+[2014-06-10 23:12:28] nm_: I am just noticing this error on console where I started hub when I sent the curl command to register node
+[2014-06-10 23:12:37] nm_: Jun 10, 2014 11:33:14 AM org.apache.http.impl.client.DefaultRequestDirector tryExecute INFO: I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond Jun 10, 2014 11:33:14 AM org.apache.http.impl.client.DefaultRequestDirector tryExecute INFO: Retrying request Jun 10, 2014 11:33:14 AM org.apache.http.impl.client.DefaultRequestDirector tryExecute INFO: I/O exception (
+[2014-06-10 23:14:11] lukeis: are you sure the hub can talk to the node? … everything seems like it can't
