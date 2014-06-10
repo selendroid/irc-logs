@@ -31,3 +31,16 @@
 [2014-06-10 22:26:44] smccarthy2, joining. (#selendroid)
 [2014-06-10 22:29:04] smccarthy, quitting. (Ping timeout: 260 seconds)
 [2014-06-10 22:49:20] lukeis: nm_: do you have any network issues? like the node has the port blocked that you're trying to have the grid hub connect to?
+[2014-06-10 22:51:18] nm_: There are no network issues. I started the hub on 4444 and registered node.
+[2014-06-10 22:51:31] nm_: I can give the commands that I did
+[2014-06-10 22:51:55] nm_: 1- java -jar selendroid-standalone-0.10.0-with-dependencies.jar -app eBaymobile_internal_2.5.0.25.apk -port 5555
+[2014-06-10 22:52:10] lukeis: the node, can you hit it  http://<node host>:5555/wd/hub ?
+[2014-06-10 22:52:33] nm_: 2-  java -Dfile.encoding=UTF-8 -cp "selendroid-grid-plugin-0.10.0.jar:selenium-server-standalone-2.41.0.jar" org.openqa.grid.selenium.GridLauncher -capabilityMatcher io.selendroid.grid.SelendroidCapabilityMatcher -role hub -host localhost -port 4444
+[2014-06-10 22:52:47] lukeis: wd/hub/status  i meant :)
+[2014-06-10 22:53:37] nm_: I do see the android emulators
+[2014-06-10 22:53:47] nm_: something like this
+[2014-06-10 22:53:48] nm_: {"status":0,"value":{"supportedApps":[{"appId":"com.ebay.mobile:2.5.0.25","mainActivity":"com.ebay.mobile.activities.eBay","basePackage":"com.ebay.mobile"},{"appId":"io.selendroid.androiddriver:0.10.0","mainActivity":"io.selendroid.androiddriver.WebViewActivity","basePackage":"io.selendroid.androiddriver"}],"os":{"arch":"x86_64","name":"Mac OS X","version":"10.8.5"},"build":{"browserName":"selendroid","version":"0.10.0"},"supported
+[2014-06-10 22:53:57] lukeis: ok
+[2014-06-10 22:54:22] smccarthy2, quitting. (*.net *.split)
+[2014-06-10 22:54:42] nm_: Then I started hub as 2-java -Dfile.encoding=UTF-8 -cp "selendroid-grid-plugin-0.10.0.jar:selenium-server-standalone-2.41.0.jar" org.openqa.grid.selenium.GridLauncher -capabilityMatcher io.selendroid.grid.SelendroidCapabilityMatcher -role hub -host localhost -port 4444
+[2014-06-10 22:54:56] nm_: 3- then registered node as curl -H "Content-Type: application/json" -X POST --data @selendroid-nodes-config.json http://localhost:4444/grid/register
