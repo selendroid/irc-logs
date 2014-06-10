@@ -30,3 +30,4 @@
 [2014-06-10 22:21:12] nm_: But I am not clear why it shows "SelendroidSessionProxy: Unknown version. The target server failed to respond"  message on the grid console
 [2014-06-10 22:26:44] smccarthy2, joining. (#selendroid)
 [2014-06-10 22:29:04] smccarthy, quitting. (Ping timeout: 260 seconds)
+[2014-06-10 22:49:20] lukeis: nm_: do you have any network issues? like the node has the port blocked that you're trying to have the grid hub connect to?
