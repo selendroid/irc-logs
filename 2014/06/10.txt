@@ -20,3 +20,5 @@
 [2014-06-10 20:54:49] nm_: Also on the http://localhost:4444/grid/console it does show the selendroid and android images that I mentioned in the capabilities section in selendroid-node-config.json
 [2014-06-10 20:55:17] nm_: But I am not clear why it shows "SelendroidSessionProxy: Unknown version. The target server failed to respond"  message on the grid console
 [2014-06-10 20:56:13] nm_: Any idea what might have gone wrong
+[2014-06-10 21:02:40] nm_, quitting. (Ping timeout: 246 seconds)
+[2014-06-10 21:04:46] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
