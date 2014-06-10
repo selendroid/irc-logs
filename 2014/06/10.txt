@@ -15,3 +15,6 @@
 [2014-06-10 17:39:24] operatiay, quitting. (Remote host closed the connection)
 [2014-06-10 19:04:52] friscodelrosario, joining. (#selendroid)
 [2014-06-10 20:45:16] nm_, joining. (#selendroid)
+[2014-06-10 20:50:23] nm_: Hi, I completed automating some tests and was able to run tests on emulator. Now I want to run the tests on grid. So I did follow the steps listed in http://selendroid.io/scale.html . But on the grid console, http://localhost:4444/grid/console, I noticed message "SelendroidSessionProxy: Unknown version. The target server failed to respond" .
+[2014-06-10 20:50:47] nm_: Any suggestions will be great
+[2014-06-10 20:54:49] nm_: Also on the http://localhost:4444/grid/console it does show the selendroid and android images that I mentioned in the capabilities section in selendroid-node-config.json
