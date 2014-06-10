@@ -22,3 +22,6 @@
 [2014-06-10 20:56:13] nm_: Any idea what might have gone wrong
 [2014-06-10 21:02:40] nm_, quitting. (Ping timeout: 246 seconds)
 [2014-06-10 21:04:46] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-06-10 22:19:21] nm_, joining. (#selendroid)
+[2014-06-10 22:19:31] nm_: hi lukeis
+[2014-06-10 22:19:50] nm_: I completed automating some tests and was able to run tests on emulator. Now I want to run the tests on grid. So I did follow the steps listed in http://selendroid.io/scale.html . But on the grid console, http://localhost:4444/grid/console, I noticed message "SelendroidSessionProxy: Unknown version. The target server failed to respond".
