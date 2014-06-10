@@ -44,3 +44,6 @@
 [2014-06-10 22:54:22] smccarthy2, quitting. (*.net *.split)
 [2014-06-10 22:54:42] nm_: Then I started hub as 2-java -Dfile.encoding=UTF-8 -cp "selendroid-grid-plugin-0.10.0.jar:selenium-server-standalone-2.41.0.jar" org.openqa.grid.selenium.GridLauncher -capabilityMatcher io.selendroid.grid.SelendroidCapabilityMatcher -role hub -host localhost -port 4444
 [2014-06-10 22:54:56] nm_: 3- then registered node as curl -H "Content-Type: application/json" -X POST --data @selendroid-nodes-config.json http://localhost:4444/grid/register
+[2014-06-10 22:56:20] nm_: 4- selendroid-nodes-config.json content is
+[2014-06-10 22:57:24] nm_: {   "capabilities": [{       "browserName": "selendroid",       "maxInstances": 1,       "aut": "com.ebay.mobile:2.5.0.25",       "locale": "en_US",       "emulator": True,       "androidTarget": "ANDROID15"   }, {       "browserName": "android",       "maxInstances": 1   }],   "configuration": {       "maxSession": 1,       "register": true,       "hubHost": "localhost",       "hubPort": 4444,       "remoteHost": "http://localhost
+[2014-06-10 22:57:52] nm_: id.grid.SelendroidSessionProxy"   } }
