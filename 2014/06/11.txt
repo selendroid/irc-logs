@@ -32,3 +32,5 @@
 [2014-06-11 15:53:53] kwood_appiumUser: It's a performance test of sorts, so it's iterating over some basic actions many times
 [2014-06-11 15:54:14] kwood_appiumUser: Over time the code runs slower and slower, until it finally breaks with the stack dump above
 [2014-06-11 15:54:42] kwood_appiumUser: I'm using appium 0.18.0
+[2014-06-11 15:55:08] kwood_appiumUser: version 1.x doesn't work with our current robotframework codebase
+[2014-06-11 15:57:51] operatiay, joining. (#selendroid)
