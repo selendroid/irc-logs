@@ -47,3 +47,4 @@
 [2014-06-11 16:29:59] Catuvolcus: I have an ImageView in the app and I need to get the background or the source of the image
 [2014-06-11 16:30:08] Catuvolcus: but I can't seem to get it
 [2014-06-11 16:30:13] Catuvolcus: any ideas
+[2014-06-11 16:41:01] Catuvolcus, quitting. (Remote host closed the connection)
