@@ -19,3 +19,4 @@
 [2014-06-11 15:40:31] KWood, leaving. (#selendroid)
 [2014-06-11 15:41:13] kwood_appiumUser, joining. (#selendroid)
 [2014-06-11 15:42:07] kwood_appiumUser: Good morning!  Does anyone have time to discuss a possible Selendroid issue?
+[2014-06-11 15:45:27] operatiay, quitting. (Ping timeout: 272 seconds)
