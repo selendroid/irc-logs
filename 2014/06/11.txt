@@ -16,3 +16,6 @@
 [2014-06-11 15:37:03] operatiay, quitting. (Remote host closed the connection)
 [2014-06-11 15:37:44] operatiay, joining. (#selendroid)
 [2014-06-11 15:39:35] KWood, joining. (#selendroid)
+[2014-06-11 15:40:31] KWood, leaving. (#selendroid)
+[2014-06-11 15:41:13] kwood_appiumUser, joining. (#selendroid)
+[2014-06-11 15:42:07] kwood_appiumUser: Good morning!  Does anyone have time to discuss a possible Selendroid issue?
