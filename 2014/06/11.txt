@@ -50,3 +50,4 @@
 [2014-06-11 16:41:01] Catuvolcus, quitting. (Remote host closed the connection)
 [2014-06-11 16:54:04] kwood_appiumUser: sorry, here now!
 [2014-06-11 16:54:24] kwood_appiumUser: ah, can't help with that, sorry
+[2014-06-11 17:08:42] lukeis, joining. (#selendroid)
