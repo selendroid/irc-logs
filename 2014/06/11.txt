@@ -45,3 +45,5 @@
 [2014-06-11 16:28:15] Catuvolcus: I need some help with selendroid and I was wondering if someone could help me?
 [2014-06-11 16:29:23] Catuvolcus: I have an android app that I'm testing
 [2014-06-11 16:29:59] Catuvolcus: I have an ImageView in the app and I need to get the background or the source of the image
+[2014-06-11 16:30:08] Catuvolcus: but I can't seem to get it
+[2014-06-11 16:30:13] Catuvolcus: any ideas
