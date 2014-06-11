@@ -48,3 +48,5 @@
 [2014-06-11 16:30:08] Catuvolcus: but I can't seem to get it
 [2014-06-11 16:30:13] Catuvolcus: any ideas
 [2014-06-11 16:41:01] Catuvolcus, quitting. (Remote host closed the connection)
+[2014-06-11 16:54:04] kwood_appiumUser: sorry, here now!
+[2014-06-11 16:54:24] kwood_appiumUser: ah, can't help with that, sorry
