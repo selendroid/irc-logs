@@ -54,3 +54,5 @@
 [2014-06-11 17:30:36] smccarthy, joining. (#selendroid)
 [2014-06-11 17:33:28] kwood_appiumUser, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2014-06-11 18:15:30] operatiay, quitting. (Remote host closed the connection)
+[2014-06-11 19:22:50] Catuvolcus, joining. (#selendroid)
+[2014-06-11 19:23:31] Catuvolcus: so nobody can help?
