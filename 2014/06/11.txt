@@ -34,3 +34,7 @@
 [2014-06-11 15:54:42] kwood_appiumUser: I'm using appium 0.18.0
 [2014-06-11 15:55:08] kwood_appiumUser: version 1.x doesn't work with our current robotframework codebase
 [2014-06-11 15:57:51] operatiay, joining. (#selendroid)
+[2014-06-11 16:22:46] Catuvolgus, joining. (#selendroid)
+[2014-06-11 16:22:57] Catuvolgus: hello?
+[2014-06-11 16:23:23] Catuvolgus: exit
+[2014-06-11 16:23:29] Catuvolgus, quitting. (Client Quit)
