@@ -30,3 +30,4 @@
 [2014-06-13 18:35:23] _sascha, joining. (#selendroid)
 [2014-06-13 18:55:37] _sascha, quitting. (Ping timeout: 245 seconds)
 [2014-06-13 20:18:35] jlipps, quitting. (Quit: Leaving.)
+[2014-06-13 20:20:16] friscodelrosario, joining. (#selendroid)
