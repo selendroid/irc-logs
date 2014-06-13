@@ -39,3 +39,5 @@
 [2014-06-13 22:20:25] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-06-13 22:29:09] operatiay, joining. (#selendroid)
 [2014-06-13 22:30:31] ddary, leaving. (#selendroid)
+[2014-06-13 22:45:10] operatiay, quitting. (Remote host closed the connection)
+[2014-06-13 22:48:59] _sascha, joining. (#selendroid)
