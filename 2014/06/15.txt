@@ -1,0 +1,2 @@
+[2014-06-15 00:10:30] detronizator, quitting. (Quit: ZNC - http://znc.in)
+[2014-06-15 00:12:25] detronizator, joining. (#selendroid)
