@@ -10,3 +10,4 @@
 [2014-06-15 11:04:47] operatiay, quitting. (Ping timeout: 245 seconds)
 [2014-06-15 11:53:22] _sascha, joining. (#selendroid)
 [2014-06-15 15:32:42] _sascha, quitting. (Ping timeout: 255 seconds)
+[2014-06-15 17:11:04] _sascha, joining. (#selendroid)
