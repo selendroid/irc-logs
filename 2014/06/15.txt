@@ -2,3 +2,4 @@
 [2014-06-15 00:12:25] detronizator, joining. (#selendroid)
 [2014-06-15 00:30:48] smccarthy, quitting. (Quit: Leaving...)
 [2014-06-15 01:30:15] smccarthy, joining. (#selendroid)
+[2014-06-15 03:11:33] _sascha, quitting. (Ping timeout: 255 seconds)
