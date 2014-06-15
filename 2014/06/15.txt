@@ -35,3 +35,4 @@
 [2014-06-15 21:25:30] sascha_, quitting. (Ping timeout: 255 seconds)
 [2014-06-15 21:41:03] ddary, joining. (#selendroid)
 [2014-06-15 21:42:38] ddary, quitting. (Client Quit)
+[2014-06-15 23:53:43] smccarthy, quitting. (Quit: Leaving...)
