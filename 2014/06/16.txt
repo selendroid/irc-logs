@@ -22,3 +22,4 @@
 [2014-06-16 20:04:57] jlipps, quitting. (Ping timeout: 255 seconds)
 [2014-06-16 20:17:00] ddary, joining. (#selendroid)
 [2014-06-16 20:18:20] ddary: hi lukeis :-)
+[2014-06-16 20:53:15] ddary, quitting. (Quit: ddary)
