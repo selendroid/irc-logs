@@ -2,3 +2,7 @@
 [2014-06-17 00:29:30] smccarthy, joining. (#selendroid)
 [2014-06-17 00:30:46] lukeis, quitting. (Quit: Leaving.)
 [2014-06-17 00:48:44] smccarthy2, joining. (#selendroid)
+[2014-06-17 00:50:48] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2014-06-17 00:50:51] smccarth_, joining. (#selendroid)
+[2014-06-17 00:50:53] smccarthy, quitting. (Ping timeout: 252 seconds)
+[2014-06-17 00:52:45] smccarth_, quitting. (Client Quit)
