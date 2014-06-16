@@ -16,3 +16,4 @@
 [2014-06-16 17:43:23] smccarthy, joining. (#selendroid)
 [2014-06-16 18:14:51] lukeis, joining. (#selendroid)
 [2014-06-16 18:17:11] lukeis1, quitting. (Ping timeout: 272 seconds)
+[2014-06-16 19:06:54] friscodelrosario, joining. (#selendroid)
