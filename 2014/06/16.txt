@@ -12,3 +12,4 @@
 [2014-06-16 12:12:11] operatiay, quitting. ()
 [2014-06-16 17:28:55] lukeis, joining. (#selendroid)
 [2014-06-16 17:34:11] lukeis1, joining. (#selendroid)
+[2014-06-16 17:36:33] lukeis, quitting. (Ping timeout: 240 seconds)
