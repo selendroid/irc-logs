@@ -8,3 +8,4 @@
 [2014-06-17 00:52:45] smccarth_, quitting. (Client Quit)
 [2014-06-17 02:09:55] jlipps1, quitting. (Quit: Leaving.)
 [2014-06-17 03:09:54] smccarthy, joining. (#selendroid)
+[2014-06-17 03:14:59] detronizator, quitting. (Ping timeout: 252 seconds)
