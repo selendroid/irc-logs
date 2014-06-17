@@ -32,3 +32,7 @@
 [2014-06-17 20:35:27] jlipps, quitting. (Ping timeout: 272 seconds)
 [2014-06-17 20:35:55] jlipps1, quitting. (Ping timeout: 240 seconds)
 [2014-06-17 20:39:37] jlipps, joining. (#selendroid)
+[2014-06-17 20:42:04] jlipps1, joining. (#selendroid)
+[2014-06-17 20:42:30] smccarthy, quitting. (Remote host closed the connection)
+[2014-06-17 20:43:13] smccarthy, joining. (#selendroid)
+[2014-06-17 20:44:03] jlipps, quitting. (Ping timeout: 240 seconds)
