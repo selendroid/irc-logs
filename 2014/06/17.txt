@@ -18,3 +18,5 @@
 [2014-06-17 17:28:59] lukeis, joining. (#selendroid)
 [2014-06-17 18:43:36] martink_, joining. (#selendroid)
 [2014-06-17 18:44:29] jlipps, joining. (#selendroid)
+[2014-06-17 18:46:37] friscodelrosario, joining. (#selendroid)
+[2014-06-17 18:47:31] martink_, quitting. (Client Quit)
