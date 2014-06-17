@@ -21,3 +21,4 @@
 [2014-06-17 18:46:37] friscodelrosario, joining. (#selendroid)
 [2014-06-17 18:47:31] martink_, quitting. (Client Quit)
 [2014-06-17 18:54:19] martink_, joining. (#selendroid)
+[2014-06-17 19:31:13] smccarthy, joining. (#selendroid)
