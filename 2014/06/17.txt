@@ -56,3 +56,13 @@
 [2014-06-17 21:49:35] ddary: are you going?
 [2014-06-17 21:49:45] lukeis: what's stuck about the process? no access?
 [2014-06-17 21:49:48] lukeis: yes, i'm going
+[2014-06-17 21:50:02] lukeis: or is it process with your current work
+[2014-06-17 21:50:42] ddary: All the work on the project is done on my personal behalf and not on the behalf of my employer
+[2014-06-17 21:51:05] ddary: so, the w3c account must be done as an individual
+[2014-06-17 21:51:14] ddary: and there it is stuck currently
+[2014-06-17 21:51:28] lukeis: do you need AutomatedTester to help with that? :)
+[2014-06-17 21:51:31] ddary: how long are you staying in London?
+[2014-06-17 21:51:54] lukeis: I arrive the monday morning and fly back on thursday
+[2014-06-17 21:53:03] ddary: what dates exactly?
+[2014-06-17 21:53:25] ddary: i guess i cannot make it, but it is good to have the dates
+[2014-06-17 21:53:34] lukeis: July 7-8 is the meeting
