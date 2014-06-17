@@ -6,3 +6,4 @@
 [2014-06-17 00:50:51] smccarth_, joining. (#selendroid)
 [2014-06-17 00:50:53] smccarthy, quitting. (Ping timeout: 252 seconds)
 [2014-06-17 00:52:45] smccarth_, quitting. (Client Quit)
+[2014-06-17 02:09:55] jlipps1, quitting. (Quit: Leaving.)
