@@ -89,3 +89,4 @@
 [2014-06-17 22:24:43] lukeis, quitting. (*.net *.split)
 [2014-06-17 22:32:59] lukeis, joining. (#selendroid)
 [2014-06-17 23:48:43] jlipps1, quitting. (Ping timeout: 240 seconds)
+[2014-06-17 23:58:47] jlipps, joining. (#selendroid)
