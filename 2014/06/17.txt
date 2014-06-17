@@ -77,3 +77,9 @@
 [2014-06-17 21:57:14] ddary: will freynaud attend?
 [2014-06-17 21:57:46] lukeis: he has not replied that he will be… https://www.w3.org/2002/09/wbs/49799/webdriver-july-2014/results
 [2014-06-17 21:58:59] lukeis: if you don't have access, here's who has confirmed https://gist.github.com/lukeis/b50284cd6f20f3355a4e
+[2014-06-17 22:02:47] travis-ci, joining. (#selendroid)
+[2014-06-17 22:02:47] travis-ci: [travis-ci] selendroid/selendroid#235 (master - 1cfe0a6 : Dominik Dary): The build was broken.
+[2014-06-17 22:02:47] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/ed9fb6eeb4f5...1cfe0a6512c3
+[2014-06-17 22:02:47] travis-ci, leaving. (#selendroid)
+[2014-06-17 22:02:47] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/27805528
+[2014-06-17 22:03:19] ddary: thanks
