@@ -38,3 +38,8 @@
 [2014-06-17 20:44:03] jlipps, quitting. (Ping timeout: 240 seconds)
 [2014-06-17 20:46:36] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-06-17 20:47:07] ddary: :log
+[2014-06-17 21:33:59] selendroid-git, joining. (#selendroid)
+[2014-06-17 21:33:59] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/KJp9QQ
+[2014-06-17 21:33:59] selendroid-git: selendroid/master 90c7e41 Stefan Miklosovic: repaired encoding header
+[2014-06-17 21:34:00] selendroid-git: selendroid/master ed9fb6e Dominik Dary: Merge pull request #430 from smiklosovic/encoding...
+[2014-06-17 21:34:00] selendroid-git, leaving. (#selendroid)
