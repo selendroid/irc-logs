@@ -66,3 +66,14 @@
 [2014-06-17 21:53:03] ddary: what dates exactly?
 [2014-06-17 21:53:25] ddary: i guess i cannot make it, but it is good to have the dates
 [2014-06-17 21:53:34] lukeis: July 7-8 is the meeting
+[2014-06-17 21:55:26] ddary: thanks
+[2014-06-17 21:55:27] selendroid-git, joining. (#selendroid)
+[2014-06-17 21:55:27] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/g_MZ-Q
+[2014-06-17 21:55:28] selendroid-git: selendroid/master 1cfe0a6 Dominik Dary: Update changelog.md
+[2014-06-17 21:55:28] selendroid-git, leaving. (#selendroid)
+[2014-06-17 21:55:55] ddary: will then try at least to be online in the IRC channel
+[2014-06-17 21:56:31] lukeis: that would be great :)
+[2014-06-17 21:57:01] ddary: :)
+[2014-06-17 21:57:14] ddary: will freynaud attend?
+[2014-06-17 21:57:46] lukeis: he has not replied that he will be… https://www.w3.org/2002/09/wbs/49799/webdriver-july-2014/results
+[2014-06-17 21:58:59] lukeis: if you don't have access, here's who has confirmed https://gist.github.com/lukeis/b50284cd6f20f3355a4e
