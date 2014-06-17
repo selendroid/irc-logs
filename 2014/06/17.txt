@@ -25,3 +25,6 @@
 [2014-06-17 19:39:22] martink_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-06-17 20:22:01] jlipps1, joining. (#selendroid)
 [2014-06-17 20:22:37] jlipps, quitting. (Read error: Connection reset by peer)
+[2014-06-17 20:25:31] ddary, joining. (#selendroid)
+[2014-06-17 20:26:30] jlipps1, quitting. (Read error: Connection reset by peer)
+[2014-06-17 20:26:40] jlipps, joining. (#selendroid)
