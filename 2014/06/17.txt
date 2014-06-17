@@ -85,3 +85,5 @@
 [2014-06-17 22:03:19] ddary: thanks
 [2014-06-17 22:12:00] ddary, quitting. (Quit: ddary)
 [2014-06-17 22:19:12] sirsteve, quitting. (*.net *.split)
+[2014-06-17 22:20:08] sirsteve, joining. (#selendroid)
+[2014-06-17 22:24:43] lukeis, quitting. (*.net *.split)
