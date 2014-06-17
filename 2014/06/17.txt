@@ -43,3 +43,16 @@
 [2014-06-17 21:33:59] selendroid-git: selendroid/master 90c7e41 Stefan Miklosovic: repaired encoding header
 [2014-06-17 21:34:00] selendroid-git: selendroid/master ed9fb6e Dominik Dary: Merge pull request #430 from smiklosovic/encoding...
 [2014-06-17 21:34:00] selendroid-git, leaving. (#selendroid)
+[2014-06-17 21:47:46] travis-ci, joining. (#selendroid)
+[2014-06-17 21:47:46] travis-ci: [travis-ci] selendroid/selendroid#234 (master - ed9fb6e : Dominik Dary): The build passed.
+[2014-06-17 21:47:46] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/cde6b0cfcade...ed9fb6eeb4f5
+[2014-06-17 21:47:47] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/27804079
+[2014-06-17 21:47:47] travis-ci, leaving. (#selendroid)
+[2014-06-17 21:48:05] lukeis: hiya ddary :)
+[2014-06-17 21:48:12] ddary: hi lukeis
+[2014-06-17 21:48:15] ddary: :)
+[2014-06-17 21:48:32] lukeis: are you going to be attending the W3C meeting in London?
+[2014-06-17 21:49:15] ddary: no, i’m currently stuck in the w3c registration process and I cannot take holidays yet
+[2014-06-17 21:49:35] ddary: are you going?
+[2014-06-17 21:49:45] lukeis: what's stuck about the process? no access?
+[2014-06-17 21:49:48] lukeis: yes, i'm going
