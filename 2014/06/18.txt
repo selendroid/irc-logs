@@ -1,0 +1,2 @@
+[2014-06-18 00:06:49] jlipps1, joining. (#selendroid)
+[2014-06-18 00:07:17] jlipps, quitting. (Ping timeout: 245 seconds)
