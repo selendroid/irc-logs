@@ -87,3 +87,4 @@
 [2014-06-17 22:19:12] sirsteve, quitting. (*.net *.split)
 [2014-06-17 22:20:08] sirsteve, joining. (#selendroid)
 [2014-06-17 22:24:43] lukeis, quitting. (*.net *.split)
+[2014-06-17 22:32:59] lukeis, joining. (#selendroid)
