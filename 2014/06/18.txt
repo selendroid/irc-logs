@@ -6,3 +6,5 @@
 [2014-06-18 01:30:55] smccarthy, quitting. (Quit: Leaving...)
 [2014-06-18 02:41:04] jlipps1, quitting. (Quit: Leaving.)
 [2014-06-18 03:18:40] smccarthy, joining. (#selendroid)
+[2014-06-18 05:14:03] lukeis, joining. (#selendroid)
+[2014-06-18 05:14:25] lukeis, quitting. (Client Quit)
