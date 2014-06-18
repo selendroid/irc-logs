@@ -9,3 +9,6 @@
 [2014-06-18 05:14:03] lukeis, joining. (#selendroid)
 [2014-06-18 05:14:25] lukeis, quitting. (Client Quit)
 [2014-06-18 07:01:11] smccarthy, quitting. (Quit: Leaving...)
+[2014-06-18 07:30:17] Henrik, joining. (#selendroid)
+[2014-06-18 07:30:29] Henrik, changing nick to Guest31717.
+[2014-06-18 07:34:29] ddary, joining. (#selendroid)
