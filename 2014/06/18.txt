@@ -21,3 +21,4 @@
 [2014-06-18 15:10:07] Guest31717, quitting. (Ping timeout: 272 seconds)
 [2014-06-18 17:06:10] lukeis, joining. (#selendroid)
 [2014-06-18 17:10:32] jlipps, joining. (#selendroid)
+[2014-06-18 18:15:52] smccarthy, joining. (#selendroid)
