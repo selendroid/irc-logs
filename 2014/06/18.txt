@@ -12,3 +12,4 @@
 [2014-06-18 07:30:17] Henrik, joining. (#selendroid)
 [2014-06-18 07:30:29] Henrik, changing nick to Guest31717.
 [2014-06-18 07:34:29] ddary, joining. (#selendroid)
+[2014-06-18 07:35:30] ddary, quitting. (Client Quit)
