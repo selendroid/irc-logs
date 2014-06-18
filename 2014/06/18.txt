@@ -5,3 +5,4 @@
 [2014-06-18 01:28:33] martink_, quitting. (Ping timeout: 240 seconds)
 [2014-06-18 01:30:55] smccarthy, quitting. (Quit: Leaving...)
 [2014-06-18 02:41:04] jlipps1, quitting. (Quit: Leaving.)
+[2014-06-18 03:18:40] smccarthy, joining. (#selendroid)
