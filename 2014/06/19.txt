@@ -3,3 +3,4 @@
 [2014-06-19 01:14:24] smccarthy, quitting. (Quit: Leaving...)
 [2014-06-19 02:13:53] jlipps, quitting. (Quit: Leaving.)
 [2014-06-19 03:16:32] smccarthy, joining. (#selendroid)
+[2014-06-19 04:14:11] detronizator, quitting. (Ping timeout: 252 seconds)
