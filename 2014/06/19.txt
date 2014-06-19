@@ -5,3 +5,4 @@
 [2014-06-19 03:16:32] smccarthy, joining. (#selendroid)
 [2014-06-19 04:14:11] detronizator, quitting. (Ping timeout: 252 seconds)
 [2014-06-19 04:21:33] detronizator, joining. (#selendroid)
+[2014-06-19 05:06:01] smccarthy, quitting. (Quit: Leaving...)
