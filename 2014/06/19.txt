@@ -13,3 +13,5 @@
 [2014-06-19 17:00:01] smccarthy, quitting. (Quit: Leaving...)
 [2014-06-19 17:19:35] lukeis, joining. (#selendroid)
 [2014-06-19 20:08:36] sirsteve, quitting. (*.net *.split)
+[2014-06-19 20:10:48] sirsteve, joining. (#selendroid)
+[2014-06-19 20:14:52] sirsteve, quitting. (*.net *.split)
