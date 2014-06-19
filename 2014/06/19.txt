@@ -7,3 +7,4 @@
 [2014-06-19 04:21:33] detronizator, joining. (#selendroid)
 [2014-06-19 05:06:01] smccarthy, quitting. (Quit: Leaving...)
 [2014-06-19 06:16:31] Guest31717, joining. (#selendroid)
+[2014-06-19 07:03:32] Guest31717, quitting. ()
