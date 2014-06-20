@@ -1,3 +1,4 @@
 [2014-06-20 00:47:13] lukeis, quitting. (Quit: Leaving.)
 [2014-06-20 00:53:05] jlipps, quitting. (Quit: Leaving.)
 [2014-06-20 01:31:30] smccarthy, quitting. (Quit: Leaving...)
+[2014-06-20 05:47:15] jlipps, joining. (#selendroid)
