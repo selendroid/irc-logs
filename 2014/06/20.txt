@@ -8,3 +8,4 @@
 [2014-06-20 12:06:04] selendroid-git, joining. (#selendroid)
 [2014-06-20 12:06:04] selendroid-git: [selendroid] operatiay opened pull request #449: Support for 'activity-alias' manifest tag by adding a new optional capability -launchActivity (master...activity_alias_support) http://git.io/t-0CGA
 [2014-06-20 12:06:04] selendroid-git, leaving. (#selendroid)
+[2014-06-20 12:43:56] ddary, joining. (#selendroid)
