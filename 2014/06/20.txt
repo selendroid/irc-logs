@@ -44,3 +44,8 @@
 [2014-06-20 20:35:35] selendroid-git: selendroid/master 825786c Dominik Dary: Update AUTHORS
 [2014-06-20 20:35:35] selendroid-git, leaving. (#selendroid)
 [2014-06-20 20:39:10] ddary: :)
+[2014-06-20 20:40:46] travis-ci, joining. (#selendroid)
+[2014-06-20 20:40:46] travis-ci: [travis-ci] selendroid/selendroid#239 (master - 28eb38d : Dominik Dary): The build passed.
+[2014-06-20 20:40:46] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/e236f1348282...28eb38dcf9ee
+[2014-06-20 20:40:47] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/28066512
+[2014-06-20 20:40:47] travis-ci, leaving. (#selendroid)
