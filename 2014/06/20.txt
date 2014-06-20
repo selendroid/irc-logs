@@ -13,3 +13,5 @@
 [2014-06-20 18:15:56] lukeis, joining. (#selendroid)
 [2014-06-20 18:29:53] smccarthy, joining. (#selendroid)
 [2014-06-20 18:31:04] jlipps, joining. (#selendroid)
+[2014-06-20 20:19:25] ddary, joining. (#selendroid)
+[2014-06-20 20:19:54] ddary: hi all
