@@ -17,3 +17,25 @@
 [2014-06-20 20:19:54] ddary: hi all
 [2014-06-20 20:25:05] lukeis: hi ddary
 [2014-06-20 20:29:59] ddary: lukeis: have you seen the pull request?
+[2014-06-20 20:30:16] lukeis: haven't looked at it yet
+[2014-06-20 20:30:21] ddary: operatiay has signed the cla
+[2014-06-20 20:30:32] ddary: so in general we are fine merging it
+[2014-06-20 20:30:59] ddary: are you fine looking at it because you have also chatted with him?
+[2014-06-20 20:31:05] ddary: or should I have a look?
+[2014-06-20 20:31:28] lukeis: just took a quick glance and it looks ok to me
+[2014-06-20 20:32:21] ddary: yeah, same impression here
+[2014-06-20 20:33:20] selendroid-git, joining. (#selendroid)
+[2014-06-20 20:33:21] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/oXM-Pw
+[2014-06-20 20:33:21] selendroid-git: selendroid/master 586d6b3 operatiay: Support for 'activity-alias' manifest tag by adding a new optional capability -launchActivity
+[2014-06-20 20:33:21] selendroid-git: selendroid/master aa61d88 Dominik Dary: Merge pull request #449 from operatiay/activity_alias_support...
+[2014-06-20 20:33:21] selendroid-git, leaving. (#selendroid)
+[2014-06-20 20:33:21] lukeis: ok, just looked again… little odd about the subclassing to override the setting of the 'mainActivity' but I'm not horribly opposed
+[2014-06-20 20:33:25] lukeis: :)
+[2014-06-20 20:33:55] selendroid-git, joining. (#selendroid)
+[2014-06-20 20:33:55] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/Srbk0Q
+[2014-06-20 20:33:55] selendroid-git: selendroid/master e236f13 Dominik Dary: Update changelog.md
+[2014-06-20 20:33:55] selendroid-git, leaving. (#selendroid)
+[2014-06-20 20:34:10] selendroid-git, joining. (#selendroid)
+[2014-06-20 20:34:10] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/iAJsBA
+[2014-06-20 20:34:10] selendroid-git: selendroid/master 28eb38d Dominik Dary: Update changelog.md
+[2014-06-20 20:34:10] selendroid-git, leaving. (#selendroid)
