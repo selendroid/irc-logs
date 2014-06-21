@@ -4,3 +4,8 @@
 [2014-06-21 07:56:41] ddary, quitting. (Client Quit)
 [2014-06-21 08:42:25] ddary, joining. (#selendroid)
 [2014-06-21 09:09:40] ddary, leaving. (#selendroid)
+[2014-06-21 10:56:01] souvik, joining. (#selendroid)
+[2014-06-21 10:56:11] souvik: Hi
+[2014-06-21 10:56:36] souvik: any body here to help me out with android automation
+[2014-06-21 10:56:38] souvik: ????
+[2014-06-21 10:57:46] souvik, quitting. (Client Quit)
