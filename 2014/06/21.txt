@@ -11,3 +11,4 @@
 [2014-06-21 10:57:46] souvik, quitting. (Client Quit)
 [2014-06-21 12:05:42] sirsteve, quitting. (Ping timeout: 255 seconds)
 [2014-06-21 12:12:01] sirsteve, joining. (#selendroid)
+[2014-06-21 15:30:23] ddary, joining. (#selendroid)
