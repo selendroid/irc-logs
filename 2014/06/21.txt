@@ -16,3 +16,4 @@
 [2014-06-21 18:04:04] ddary, joining. (#selendroid)
 [2014-06-21 18:04:27] ddary, quitting. (Client Quit)
 [2014-06-21 19:14:49] smccarthy, joining. (#selendroid)
+[2014-06-21 20:30:28] ddary, joining. (#selendroid)
