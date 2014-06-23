@@ -1,0 +1,3 @@
+[2014-06-24 00:25:29] selendroid-git, joining. (#selendroid)
+[2014-06-24 00:25:29] selendroid-git: [selendroid] lukeis closed pull request #453: Added the functionality to send the app under test to background and resume it. (master...master) http://git.io/BP2GAQ
+[2014-06-24 00:25:29] selendroid-git, leaving. (#selendroid)
