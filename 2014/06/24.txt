@@ -1,3 +1,8 @@
 [2014-06-24 00:25:29] selendroid-git, joining. (#selendroid)
 [2014-06-24 00:25:29] selendroid-git: [selendroid] lukeis closed pull request #453: Added the functionality to send the app under test to background and resume it. (master...master) http://git.io/BP2GAQ
 [2014-06-24 00:25:29] selendroid-git, leaving. (#selendroid)
+[2014-06-24 00:33:32] travis-ci, joining. (#selendroid)
+[2014-06-24 00:33:32] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/825786c38fb0...22de60ae8d90
+[2014-06-24 00:33:32] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/28266357
+[2014-06-24 00:33:32] travis-ci: [travis-ci] selendroid/selendroid#243 (master - 22de60a : Luke Inman-Semerau): The build was fixed.
+[2014-06-24 00:33:32] travis-ci, leaving. (#selendroid)
