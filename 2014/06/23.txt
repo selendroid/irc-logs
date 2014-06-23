@@ -12,3 +12,4 @@
 [2014-06-23 23:02:23] selendroid-git, joining. (#selendroid)
 [2014-06-23 23:02:23] selendroid-git: [selendroid] mmnormyle opened pull request #453: Added the functionality to send the app under test to background and resume it. (master...master) http://git.io/BP2GAQ
 [2014-06-23 23:02:23] selendroid-git, leaving. (#selendroid)
+[2014-06-23 23:58:23] smccarthy, quitting. (Quit: Leaving...)
