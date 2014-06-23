@@ -8,3 +8,6 @@
 [2014-06-24 00:33:32] travis-ci, leaving. (#selendroid)
 [2014-06-24 00:58:37] lukeis, quitting. (Quit: Leaving.)
 [2014-06-24 01:18:14] smccarthy, joining. (#selendroid)
+[2014-06-24 01:28:06] selendroid-git, joining. (#selendroid)
+[2014-06-24 01:28:06] selendroid-git: [selendroid] mmnormyle opened pull request #454: Added functionality in selendroid-client to reflect background app capabilities in selendroid server. (master...master) http://git.io/bk4UVw
+[2014-06-24 01:28:06] selendroid-git, leaving. (#selendroid)
