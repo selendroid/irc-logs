@@ -7,3 +7,4 @@
 [2014-06-24 00:33:32] travis-ci: [travis-ci] selendroid/selendroid#243 (master - 22de60a : Luke Inman-Semerau): The build was fixed.
 [2014-06-24 00:33:32] travis-ci, leaving. (#selendroid)
 [2014-06-24 00:58:37] lukeis, quitting. (Quit: Leaving.)
+[2014-06-24 01:18:14] smccarthy, joining. (#selendroid)
