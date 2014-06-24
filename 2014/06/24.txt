@@ -25,3 +25,5 @@
 [2014-06-24 20:46:29] operatiay, quitting. (Remote host closed the connection)
 [2014-06-24 21:12:13] ddary, joining. (#selendroid)
 [2014-06-24 21:19:57] ddary, quitting. (Quit: ddary)
+[2014-06-24 21:57:58] lukeis1, joining. (#selendroid)
+[2014-06-24 21:57:59] lukeis, quitting. (Write error: Connection reset by peer)
