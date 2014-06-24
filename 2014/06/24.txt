@@ -12,3 +12,4 @@
 [2014-06-24 01:28:06] selendroid-git: [selendroid] mmnormyle opened pull request #454: Added functionality in selendroid-client to reflect background app capabilities in selendroid server. (master...master) http://git.io/bk4UVw
 [2014-06-24 01:28:06] selendroid-git, leaving. (#selendroid)
 [2014-06-24 06:29:57] smccarthy, quitting. (Quit: Leaving...)
+[2014-06-24 10:19:28] ddary, joining. (#selendroid)
