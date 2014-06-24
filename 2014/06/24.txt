@@ -30,3 +30,4 @@
 [2014-06-24 22:02:17] lukeis1, quitting. (Ping timeout: 245 seconds)
 [2014-06-24 22:54:47] jessie, joining. (#selendroid)
 [2014-06-24 22:55:05] jessie: Hey, is there a way to start the selendroid server as part of my tests startup process (in Java)?
+[2014-06-24 23:26:48] jessie: Anyone?
