@@ -16,3 +16,4 @@
 [2014-06-24 11:44:03] ddary: :log
 [2014-06-24 12:59:16] ddary, quitting. (Quit: Page closed)
 [2014-06-24 14:23:48] ddary, joining. (#selendroid)
+[2014-06-24 16:18:42] smccarthy, joining. (#selendroid)
