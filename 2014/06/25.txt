@@ -7,3 +7,8 @@
 [2014-06-25 10:50:51] operatiay, joining. (#selendroid)
 [2014-06-25 14:19:01] ddary, quitting. (Ping timeout: 246 seconds)
 [2014-06-25 14:38:48] ddary, joining. (#selendroid)
+[2014-06-25 14:40:54] selendroid-git, joining. (#selendroid)
+[2014-06-25 14:40:54] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/fsf7ow
+[2014-06-25 14:40:54] selendroid-git: selendroid/master b67ed81 Matthew Normyle: Updated selendroid-client to reflect backgrounding app capabilities and added...
+[2014-06-25 14:40:54] selendroid-git: selendroid/master 5b831a9 Dominik Dary: Merge pull request #454 from mmnormyle/master...
+[2014-06-25 14:40:54] selendroid-git, leaving. (#selendroid)
