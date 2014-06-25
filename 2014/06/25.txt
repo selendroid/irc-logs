@@ -21,3 +21,6 @@
 [2014-06-25 19:20:41] smccarthy, quitting. (Quit: Leaving...)
 [2014-06-25 19:36:32] smccarthy, joining. (#selendroid)
 [2014-06-25 20:33:45] ddary, joining. (#selendroid)
+[2014-06-25 20:46:39] smccarthy, quitting. (Remote host closed the connection)
+[2014-06-25 20:49:10] ddary, leaving. (#selendroid)
+[2014-06-25 20:49:20] smccarthy2, joining. (#selendroid)
