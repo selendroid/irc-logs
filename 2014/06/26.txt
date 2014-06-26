@@ -1,3 +1,4 @@
 [2014-06-26 00:22:25] smccarthy2, quitting. (Quit: Leaving...)
 [2014-06-26 11:35:00] smiklosovic, joining. (#selendroid)
 [2014-06-26 11:35:20] smiklosovic: hey, is there any estimation when 0.11.0 will be out?
+[2014-06-26 15:06:30] smccarthy, joining. (#selendroid)
