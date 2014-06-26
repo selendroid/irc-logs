@@ -28,3 +28,5 @@
 [2014-06-26 21:05:27] ddary: :log
 [2014-06-26 21:07:39] ddary: :note smiklosovic it will probably take a bit. the issue is the webbit version we use. There is still the bug that is sometimes not returning the full reponse.
 [2014-06-26 21:08:05] ddary: jessie: have seen you had a question….
+[2014-06-26 21:57:39] ddary, leaving. (#selendroid)
+[2014-06-26 21:59:15] detronizator, quitting. (Quit: ZNC - http://znc.in)
