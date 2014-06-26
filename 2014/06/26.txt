@@ -30,3 +30,4 @@
 [2014-06-26 21:08:05] ddary: jessie: have seen you had a question….
 [2014-06-26 21:57:39] ddary, leaving. (#selendroid)
 [2014-06-26 21:59:15] detronizator, quitting. (Quit: ZNC - http://znc.in)
+[2014-06-26 22:00:47] detronizator, joining. (#selendroid)
