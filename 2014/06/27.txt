@@ -1,1 +1,2 @@
 [2014-06-27 00:16:34] sfbrian_: is there a way to do a screen recording (instead of screen shots) on a real device?
+[2014-06-27 00:25:00] sirsteve_: adb shell screenrecord /sdcard/recording.mp4 && adb pull /sdcard/recording.mp4
