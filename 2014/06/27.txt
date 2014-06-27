@@ -16,3 +16,4 @@
 [2014-06-27 10:23:50] smikloso, joining. (#selendroid)
 [2014-06-27 11:16:20] ddary: smikloso: you asked about next release, right?
 [2014-06-27 11:22:16] operatia_, joining. (#selendroid)
+[2014-06-27 11:25:36] operatiay, quitting. (Ping timeout: 264 seconds)
