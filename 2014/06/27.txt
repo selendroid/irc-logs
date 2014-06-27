@@ -17,3 +17,5 @@
 [2014-06-27 11:16:20] ddary: smikloso: you asked about next release, right?
 [2014-06-27 11:22:16] operatia_, joining. (#selendroid)
 [2014-06-27 11:25:36] operatiay, quitting. (Ping timeout: 264 seconds)
+[2014-06-27 11:41:36] operatia_, quitting. (Remote host closed the connection)
+[2014-06-27 11:42:10] operatiay, joining. (#selendroid)
