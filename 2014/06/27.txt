@@ -38,3 +38,4 @@
 [2014-06-27 17:53:44] smikloso, leaving. (#selendroid)
 [2014-06-27 18:24:26] sfbrian, joining. (#selendroid)
 [2014-06-27 21:28:51] lukeis, joining. (#selendroid)
+[2014-06-27 22:05:20] lukeis, quitting. (Quit: Leaving.)
