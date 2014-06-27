@@ -29,3 +29,5 @@
 [2014-06-27 11:50:57] ddary: because if the response is too large, webbit is returning sadly only the half of the body
 [2014-06-27 11:51:09] smikloso: aha, thats another story :)
 [2014-06-27 11:51:15] ddary: your fix broke another fix ;-)
+[2014-06-27 13:05:23] operatia_, joining. (#selendroid)
+[2014-06-27 13:08:41] operatiay, quitting. (Ping timeout: 264 seconds)
