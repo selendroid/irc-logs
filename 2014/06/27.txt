@@ -4,3 +4,4 @@
 [2014-06-27 02:09:56] sfbrian_: also, thanks!
 [2014-06-27 02:10:27] sirsteve_: probably a few places, its for newer version of android only, 4.4+ i think, https://developer.android.com/about/versions/kitkat.html#44-screen-recording
 [2014-06-27 02:10:44] sfbrian_: sweet
+[2014-06-27 02:16:15] sfbrian_: sirsteve_: thanks again. That works great. Would love to see this baked into selendroid soon.
