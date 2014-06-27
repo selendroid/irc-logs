@@ -8,3 +8,4 @@
 [2014-06-27 02:24:18] sfbrian_, quitting. (Quit: sfbrian_)
 [2014-06-27 03:05:56] detronizator, quitting. (Ping timeout: 240 seconds)
 [2014-06-27 03:06:55] detronizator, joining. (#selendroid)
+[2014-06-27 06:28:57] smccarthy, quitting. (Quit: Leaving...)
