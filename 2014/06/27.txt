@@ -23,3 +23,9 @@
 [2014-06-27 11:48:17] smikloso: ddary: im just interested about the date, i do not want to rush things at all
 [2014-06-27 11:48:56] ddary: smikloso: we have to fix webbit first
 [2014-06-27 11:49:45] ddary: it seems there will be soon a fix (that will replace webbit with netty)
+[2014-06-27 11:50:03] ddary: hopefully the fix will be there this month
+[2014-06-27 11:50:15] smikloso: ddary: ah, right, i was thinking that my commit was good enough to fix the issue, i am using custom 0.11 with that patch without problems, why do you need to replace it completely?
+[2014-06-27 11:50:18] ddary: sorry, i mean until end of july
+[2014-06-27 11:50:57] ddary: because if the response is too large, webbit is returning sadly only the half of the body
+[2014-06-27 11:51:09] smikloso: aha, thats another story :)
+[2014-06-27 11:51:15] ddary: your fix broke another fix ;-)
