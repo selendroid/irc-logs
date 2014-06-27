@@ -2,3 +2,5 @@
 [2014-06-27 00:25:00] sirsteve_: adb shell screenrecord /sdcard/recording.mp4 && adb pull /sdcard/recording.mp4
 [2014-06-27 02:07:27] sfbrian_: sirsteve_: Interesting. Do you know if this is documented anywhere?
 [2014-06-27 02:09:56] sfbrian_: also, thanks!
+[2014-06-27 02:10:27] sirsteve_: probably a few places, its for newer version of android only, 4.4+ i think, https://developer.android.com/about/versions/kitkat.html#44-screen-recording
+[2014-06-27 02:10:44] sfbrian_: sweet
