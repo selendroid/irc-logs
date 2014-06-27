@@ -6,3 +6,5 @@
 [2014-06-27 02:10:44] sfbrian_: sweet
 [2014-06-27 02:16:15] sfbrian_: sirsteve_: thanks again. That works great. Would love to see this baked into selendroid soon.
 [2014-06-27 02:24:18] sfbrian_, quitting. (Quit: sfbrian_)
+[2014-06-27 03:05:56] detronizator, quitting. (Ping timeout: 240 seconds)
+[2014-06-27 03:06:55] detronizator, joining. (#selendroid)
