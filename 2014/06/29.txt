@@ -2,3 +2,4 @@
 [2014-06-29 14:21:43] ddary, quitting. (Quit: ddary)
 [2014-06-29 19:26:29] smccarthy, joining. (#selendroid)
 [2014-06-29 22:26:56] smccarthy, quitting. (Ping timeout: 260 seconds)
+[2014-06-29 22:32:33] smccarthy2, joining. (#selendroid)
