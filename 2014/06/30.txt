@@ -8,3 +8,4 @@
 [2014-06-30 17:53:46] smccarthy, joining. (#selendroid)
 [2014-06-30 18:50:49] lukeis, joining. (#selendroid)
 [2014-06-30 19:53:03] smikloso, quitting. (Quit: Leaving.)
+[2014-06-30 20:39:33] Ragnaroek_, joining. (#selendroid)
