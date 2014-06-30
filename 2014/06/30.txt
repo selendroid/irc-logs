@@ -2,3 +2,6 @@
 [2014-06-30 10:24:19] smikloso, joining. (#selendroid)
 [2014-06-30 11:53:09] smikloso, quitting. (Quit: Leaving.)
 [2014-06-30 11:53:52] smikloso, joining. (#selendroid)
+[2014-06-30 16:28:43] selendroid-git, joining. (#selendroid)
+[2014-06-30 16:28:43] selendroid-git: [selendroid] koichirok opened pull request #463: adding workaround for Japanese character encodings (master...japanese_encoding_workaround) http://git.io/5b6PUg
+[2014-06-30 16:28:43] selendroid-git, leaving. (#selendroid)
