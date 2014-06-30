@@ -6,3 +6,4 @@
 [2014-06-30 16:28:43] selendroid-git: [selendroid] koichirok opened pull request #463: adding workaround for Japanese character encodings (master...japanese_encoding_workaround) http://git.io/5b6PUg
 [2014-06-30 16:28:43] selendroid-git, leaving. (#selendroid)
 [2014-06-30 17:53:46] smccarthy, joining. (#selendroid)
+[2014-06-30 18:50:49] lukeis, joining. (#selendroid)
