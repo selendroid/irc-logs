@@ -7,3 +7,4 @@
 [2014-06-30 16:28:43] selendroid-git, leaving. (#selendroid)
 [2014-06-30 17:53:46] smccarthy, joining. (#selendroid)
 [2014-06-30 18:50:49] lukeis, joining. (#selendroid)
+[2014-06-30 19:53:03] smikloso, quitting. (Quit: Leaving.)
