@@ -123,3 +123,4 @@
 [2014-07-01 22:29:17] AutomatedTester: lukeis: how many glassholes were at i/o?
 [2014-07-01 22:57:22] Ragnaroek, quitting. (Ping timeout: 264 seconds)
 [2014-07-01 23:00:36] ddary, quitting. (Quit: ddary)
+[2014-07-01 23:39:55] lukeis, quitting. (Quit: Leaving.)
