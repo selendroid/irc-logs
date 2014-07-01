@@ -68,3 +68,4 @@
 [2014-07-01 19:58:13] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/28893670
 [2014-07-01 19:58:38] lukeis, joining. (#selendroid)
 [2014-07-01 20:14:55] Ragnaroek_, joining. (#selendroid)
+[2014-07-01 20:15:58] Ragnaroek_, quitting. (Remote host closed the connection)
