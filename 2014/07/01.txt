@@ -114,3 +114,10 @@
 [2014-07-01 22:22:51] ddary: AutomatedTester: exactly the same question I asked myself
 [2014-07-01 22:24:28] AutomatedTester: the Chromecast stuff I can see
 [2014-07-01 22:24:38] AutomatedTester: people want to move things between their screens
+[2014-07-01 22:26:35] ddary: I want to watch this videos about docker. Have heard good things from a colleague that attended the session
+[2014-07-01 22:27:33] lukeis: faster response to see your watch (don't have to take it out of the pocket)… and people (some) do still wear watches...
+[2014-07-01 22:27:54] ddary: AutomatedTester: just out of curiosity: do you have a pointer to a mozilla wiki how you test firefoxOS?
+[2014-07-01 22:28:38] AutomatedTester: ddary: https://developer.mozilla.org/en-US/Firefox_OS/Platform/Automated_testing
+[2014-07-01 22:28:43] AutomatedTester: thats what Google says :)
+[2014-07-01 22:28:58] ddary: awesome, thanks!
+[2014-07-01 22:29:17] AutomatedTester: lukeis: how many glassholes were at i/o?
