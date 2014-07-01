@@ -121,3 +121,4 @@
 [2014-07-01 22:28:43] AutomatedTester: thats what Google says :)
 [2014-07-01 22:28:58] ddary: awesome, thanks!
 [2014-07-01 22:29:17] AutomatedTester: lukeis: how many glassholes were at i/o?
+[2014-07-01 22:57:22] Ragnaroek, quitting. (Ping timeout: 264 seconds)
