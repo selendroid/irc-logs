@@ -86,3 +86,13 @@
 [2014-07-01 21:39:04] ddary: as i said, i have a bad feeling shipping it now because of the bug i described
 [2014-07-01 21:39:16] Ragnaroek: geb refuses anything that isn't a input, select or textarea to be assigned. Does selendroid something weird with this html elements?
 [2014-07-01 21:39:28] ddary: if we ship it with the current bug we will have a lot of issues we will have to handle
+[2014-07-01 21:40:03] ddary: lukeis, please ask simon as well for the diff :-)
+[2014-07-01 21:40:32] ddary: as i said, if nothing will be there untill the weekend, i will work on this comming weekend on it on myself
+[2014-07-01 21:40:52] ddary: so would be good if you can wait until monday
+[2014-07-01 21:42:48] lukeis: ok
+[2014-07-01 21:43:19] lukeis: Ragnaroek: sorry, i don't know anything about geb… and I don't have any issues like you're describing
+[2014-07-01 21:43:48] ddary: lukeis: thanks
+[2014-07-01 21:43:54] lukeis: :)
+[2014-07-01 21:44:27] ddary: lukeis: wife and son are on vacatation and I have a free weekend :-) awesome, looking forward to it
+[2014-07-01 21:44:35] lukeis: nice :)
+[2014-07-01 21:44:41] lukeis: come to london next week too? ;)
