@@ -56,3 +56,14 @@
 [2014-07-01 19:54:58] ddary: :
 [2014-07-01 19:54:59] ddary: -
 [2014-07-01 19:55:01] ddary: )
+[2014-07-01 19:55:06] lukeis: :-P
+[2014-07-01 19:55:17] ddary: see you later
+[2014-07-01 19:55:19] lukeis: later
+[2014-07-01 19:55:20] ddary, leaving. (#selendroid)
+[2014-07-01 19:55:31] lukeis, quitting. (Quit: Leaving.)
+[2014-07-01 19:58:13] travis-ci, joining. (#selendroid)
+[2014-07-01 19:58:13] travis-ci: [travis-ci] selendroid/selendroid#252 (master - 215d402 : Luke Inman-Semerau): The build passed.
+[2014-07-01 19:58:13] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/d5b69a655102...215d4024978b
+[2014-07-01 19:58:13] travis-ci, leaving. (#selendroid)
+[2014-07-01 19:58:13] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/28893670
+[2014-07-01 19:58:38] lukeis, joining. (#selendroid)
