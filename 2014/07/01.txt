@@ -22,3 +22,37 @@
 [2014-07-01 19:42:14] selendroid-git: selendroid/master d5b69a6 Luke Inman-Semerau: Update changelog.md
 [2014-07-01 19:42:14] selendroid-git, leaving. (#selendroid)
 [2014-07-01 19:47:27] lukeis: :note ddary going to do a 0.11 release soon… just want to see if i can merge that pull request pending first
+[2014-07-01 19:50:26] selendroid-git, joining. (#selendroid)
+[2014-07-01 19:50:26] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/Bqkieg
+[2014-07-01 19:50:26] selendroid-git: selendroid/master 82e92ea KIKUCHI Koichiro: adding workaround for Japanese character encodings
+[2014-07-01 19:50:26] selendroid-git: selendroid/master 215d402 Luke Inman-Semerau: Merge pull request #463 from koichirok/japanese_encoding_workaround...
+[2014-07-01 19:50:26] selendroid-git, leaving. (#selendroid)
+[2014-07-01 19:51:13] ddary, joining. (#selendroid)
+[2014-07-01 19:51:19] travis-ci, joining. (#selendroid)
+[2014-07-01 19:51:19] travis-ci: [travis-ci] selendroid/selendroid#251 (master - d5b69a6 : Luke Inman-Semerau): The build passed.
+[2014-07-01 19:51:19] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/c9ac55c6c682...d5b69a655102
+[2014-07-01 19:51:19] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/28893020
+[2014-07-01 19:51:19] travis-ci, leaving. (#selendroid)
+[2014-07-01 19:51:39] ddary: hi lukeis
+[2014-07-01 19:51:44] lukeis: hi ddary
+[2014-07-01 19:52:04] ddary: we should not do a release until webbit is removed
+[2014-07-01 19:52:05] lukeis: it's like you know when your are being talked to ;)
+[2014-07-01 19:52:15] ddary: :-)
+[2014-07-01 19:52:23] lukeis: who's working on the removal?
+[2014-07-01 19:52:38] ddary: simon said that they will push a diff
+[2014-07-01 19:52:59] ddary: if they are not doing it, i will work on that on this weekend/beginning of next week
+[2014-07-01 19:53:01] lukeis: … so… in a month? ;)
+[2014-07-01 19:53:10] ddary: ;-)
+[2014-07-01 19:53:25] lukeis: (the backgrounding thing we really want available...)
+[2014-07-01 19:53:39] lukeis: and sauce labs won't push an update for us right now until we have a release :'(
+[2014-07-01 19:53:42] ddary: the thing is, that with the fix for supporting the new httpclient we deliver sometimes only half responses
+[2014-07-01 19:54:16] lukeis: i'm working on that last part… but it's an uphill battle...
+[2014-07-01 19:54:26] ddary: ok
+[2014-07-01 19:54:32] ddary: i will have soon a call
+[2014-07-01 19:54:43] ddary: then i will be back later on
+[2014-07-01 19:54:45] lukeis: o
+[2014-07-01 19:54:47] lukeis: k
+[2014-07-01 19:54:47] lukeis: :)
+[2014-07-01 19:54:58] ddary: :
+[2014-07-01 19:54:59] ddary: -
+[2014-07-01 19:55:01] ddary: )
