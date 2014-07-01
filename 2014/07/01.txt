@@ -108,3 +108,9 @@
 [2014-07-01 22:18:50] lukeis: :-P
 [2014-07-01 22:19:13] *lukeis is reminded that AutomatedTester lives in the middle of nowhere… ;)'
 [2014-07-01 22:19:46] AutomatedTester: watching the google IO keynote... how boring are there announcements this year
+[2014-07-01 22:20:31] lukeis: fairly…. wearables… but it's not a great experience (after using mine)
+[2014-07-01 22:22:20] AutomatedTester: maybe I am too old but why would I want my watch to buzz when my phone does too?
+[2014-07-01 22:22:32] AutomatedTester: also... who wears watches?
+[2014-07-01 22:22:51] ddary: AutomatedTester: exactly the same question I asked myself
+[2014-07-01 22:24:28] AutomatedTester: the Chromecast stuff I can see
+[2014-07-01 22:24:38] AutomatedTester: people want to move things between their screens
