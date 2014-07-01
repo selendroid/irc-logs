@@ -21,3 +21,4 @@
 [2014-07-01 19:42:14] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/lJoCpg
 [2014-07-01 19:42:14] selendroid-git: selendroid/master d5b69a6 Luke Inman-Semerau: Update changelog.md
 [2014-07-01 19:42:14] selendroid-git, leaving. (#selendroid)
+[2014-07-01 19:47:27] lukeis: :note ddary going to do a 0.11 release soon… just want to see if i can merge that pull request pending first
