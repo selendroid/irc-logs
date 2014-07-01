@@ -73,3 +73,16 @@
 [2014-07-01 21:32:50] ddary, joining. (#selendroid)
 [2014-07-01 21:33:50] ddary: hi lukeis
 [2014-07-01 21:34:43] lukeis: hi
+[2014-07-01 21:35:57] Ragnaroek, joining. (#selendroid)
+[2014-07-01 21:36:17] ddary: you said you are working on a fix
+[2014-07-01 21:36:27] lukeis: i am not working on anything :)
+[2014-07-01 21:36:33] lukeis: (in selendroid at the moment)
+[2014-07-01 21:36:38] ddary: what :-)
+[2014-07-01 21:36:47] lukeis: "at the moment"
+[2014-07-01 21:37:00] Ragnaroek: I'm having problems with selendroid in combination with geb
+[2014-07-01 21:37:00] lukeis: my intern is working on some things...
+[2014-07-01 21:37:07] ddary: cool
+[2014-07-01 21:37:58] lukeis: but the issue i was describing is needing a new feature (in this case the newly minted background / resume app feature) and that I don't have a way to run that in Saucelabs without making a selendroid release (they are being a bit of a pain about this)
+[2014-07-01 21:39:04] ddary: as i said, i have a bad feeling shipping it now because of the bug i described
+[2014-07-01 21:39:16] Ragnaroek: geb refuses anything that isn't a input, select or textarea to be assigned. Does selendroid something weird with this html elements?
+[2014-07-01 21:39:28] ddary: if we ship it with the current bug we will have a lot of issues we will have to handle
