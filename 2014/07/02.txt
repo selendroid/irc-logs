@@ -13,3 +13,5 @@
 [2014-07-02 18:37:17] sfbrian, joining. (#selendroid)
 [2014-07-02 18:42:20] smikloso, leaving. (#selendroid)
 [2014-07-02 21:06:28] smccarthy, joining. (#selendroid)
+[2014-07-02 22:55:00] smccarthy, quitting. (Remote host closed the connection)
+[2014-07-02 22:55:00] smccarthy2, joining. (#selendroid)
