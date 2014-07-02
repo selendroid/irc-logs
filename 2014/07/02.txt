@@ -4,3 +4,4 @@
 [2014-07-02 04:59:28] smccarthy, quitting. (Quit: Leaving...)
 [2014-07-02 07:23:43] Ragnaroek, joining. (#selendroid)
 [2014-07-02 07:37:27] Ragnaroek, quitting. (Ping timeout: 248 seconds)
+[2014-07-02 08:51:23] Ragnaroek, joining. (#selendroid)
