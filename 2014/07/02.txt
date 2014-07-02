@@ -9,3 +9,5 @@
 [2014-07-02 10:25:55] Ragnaroek, quitting. (Remote host closed the connection)
 [2014-07-02 13:32:42] smikloso, changing nick to smikloso|lunch.
 [2014-07-02 14:24:01] smikloso|lunch, changing nick to smikloso.
+[2014-07-02 18:36:49] lukeis, joining. (#selendroid)
+[2014-07-02 18:37:17] sfbrian, joining. (#selendroid)
