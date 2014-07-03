@@ -14,3 +14,4 @@
 [2014-07-03 18:30:56] sfbrian, joining. (#selendroid)
 [2014-07-03 19:59:22] lukeis, quitting. (Quit: Leaving.)
 [2014-07-03 19:59:53] ddary, joining. (#selendroid)
+[2014-07-03 20:02:40] ddary, leaving. (#selendroid)
