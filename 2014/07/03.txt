@@ -8,3 +8,5 @@
 [2014-07-03 10:28:17] smikloso, joining. (#selendroid)
 [2014-07-03 14:05:07] ddary, joining. (#selendroid)
 [2014-07-03 14:30:28] ddary, quitting. (Ping timeout: 246 seconds)
+[2014-07-03 17:32:41] lukeis, joining. (#selendroid)
+[2014-07-03 17:34:35] smccarthy, joining. (#selendroid)
