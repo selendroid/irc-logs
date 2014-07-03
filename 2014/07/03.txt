@@ -3,3 +3,5 @@
 [2014-07-03 08:28:10] ddary, joining. (#selendroid)
 [2014-07-03 08:28:42] ddary: :log
 [2014-07-03 08:44:33] ddary, quitting. (Ping timeout: 240 seconds)
+[2014-07-03 08:54:08] ddary, joining. (#selendroid)
+[2014-07-03 08:54:20] ddary, quitting. (Remote host closed the connection)
