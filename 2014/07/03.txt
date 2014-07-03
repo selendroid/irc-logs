@@ -7,3 +7,4 @@
 [2014-07-03 08:54:20] ddary, quitting. (Remote host closed the connection)
 [2014-07-03 10:28:17] smikloso, joining. (#selendroid)
 [2014-07-03 14:05:07] ddary, joining. (#selendroid)
+[2014-07-03 14:30:28] ddary, quitting. (Ping timeout: 246 seconds)
