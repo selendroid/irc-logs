@@ -1,2 +1,4 @@
 [2014-07-03 02:29:34] sfbrian, quitting. (Quit: sfbrian)
 [2014-07-03 02:50:24] smccarthy2, quitting. (Quit: Leaving...)
+[2014-07-03 08:28:10] ddary, joining. (#selendroid)
+[2014-07-03 08:28:42] ddary: :log
