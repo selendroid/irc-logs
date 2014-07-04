@@ -34,3 +34,4 @@
 [2014-07-04 18:36:58] souvik, quitting. (Quit: Page closed)
 [2014-07-04 19:18:13] sfbrian, joining. (#selendroid)
 [2014-07-04 20:54:58] smccarthy, quitting. (Quit: Leaving...)
+[2014-07-04 21:45:42] sfbrian, quitting. (Quit: sfbrian)
