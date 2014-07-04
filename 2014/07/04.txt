@@ -2,3 +2,6 @@
 [2014-07-04 01:17:24] smccarthy, joining. (#selendroid)
 [2014-07-04 01:39:55] smccarthy, quitting. (Quit: Leaving...)
 [2014-07-04 02:11:36] sfbrian, quitting. (Quit: sfbrian)
+[2014-07-04 05:36:38] tester, joining. (#selendroid)
+[2014-07-04 05:38:54] tester: Hi all, can you help with connection to remote emulator ?
+[2014-07-04 05:39:54] tester: when I type adb devices, I can see: emulator-5554 device
