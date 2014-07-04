@@ -25,3 +25,10 @@
 [2014-07-04 18:32:23] souvik: nothing happens
 [2014-07-04 18:32:41] souvik: please let me know whats wrong
 [2014-07-04 18:33:00] souvik: reply back @ souvikd.qtp@gmail.com
+[2014-07-04 18:35:34] souvik: I see following exception
+[2014-07-04 18:35:36] souvik: SelendroidCapabilities cap = new SelendroidCapabilities("uk.co.ee.myee:3.0.0"); 		cap.setCapability("deviceName","Android"); 		cap.setBrowserName("android"); 		cap.setCapability("platformVersion","4.4.2"); 		cap.setCapability("appPackage","uk.co.ee.myee"); 		cap.setCapability("appActivity","uk.co.ee.myee.Launcher"); 	    cap.setCapability("udid","989fb005"); 		driver = new SelendroidDriver(cap);
+[2014-07-04 18:36:12] souvik: i see following exception
+[2014-07-04 18:36:17] souvik: ========================================
+[2014-07-04 18:36:20] souvik:  FAILED: MobileTest org.openqa.selenium.SessionNotCreatedException: Selendroid server on the device didn't came up after 20sec: io.selendroid.exceptions.SelendroidException: Selendroid server on the device didn't came up after 20sec: 	at io.selendroid.server.model.SelendroidStandaloneDriver.createNewTestSession(SelendroidStandaloneDriver.java:311) 	at io.selendroid.server.handler.CreateSessionHandler.handle(CreateSessionHandler.ja
+[2014-07-04 18:36:39] souvik:  FAILED: MobileTest org.openqa.selenium.SessionNotCreatedException: Selendroid server on the device didn't came up after 20sec: io.selendroid.exceptions.SelendroidException: Selendroid server on the device didn't came up after 20sec: 	at io.selendroid.server.model.SelendroidStandaloneDriver.createNewTestSession(SelendroidStandaloneDriver.java:311) 	at io.selendroid.server.handler.CreateSessionHandler.handle(CreateSessionHandler.ja
+[2014-07-04 18:36:58] souvik, quitting. (Quit: Page closed)
