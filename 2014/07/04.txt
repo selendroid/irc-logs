@@ -7,3 +7,4 @@
 [2014-07-04 05:39:54] tester: when I type adb devices, I can see: emulator-5554 device
 [2014-07-04 05:40:22] tester: but when I run selendroid it notifies that can't find devices
 [2014-07-04 05:41:30] tester: is it possible to connect to remote emulator ?
+[2014-07-04 06:06:20] tester, quitting. (Quit: Page closed)
