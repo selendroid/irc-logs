@@ -4,3 +4,4 @@
 [2014-07-05 12:34:39] ddary, quitting. (Quit: ddary)
 [2014-07-05 12:36:29] ddary, joining. (#selendroid)
 [2014-07-05 12:37:37] ddary, quitting. (Client Quit)
+[2014-07-05 12:44:29] ddary, joining. (#selendroid)
