@@ -8,3 +8,4 @@
 [2014-07-05 13:15:22] ddary, quitting. (Quit: ddary)
 [2014-07-05 13:36:29] ddary, joining. (#selendroid)
 [2014-07-05 14:17:29] ddary, quitting. (Quit: ddary)
+[2014-07-05 15:31:00] smccarthy, joining. (#selendroid)
