@@ -1,2 +1,3 @@
 [2014-07-06 02:39:04] smccarthy, joining. (#selendroid)
 [2014-07-06 03:30:54] smccarthy, quitting. (Quit: Leaving...)
+[2014-07-06 06:35:17] ddary, joining. (#selendroid)
