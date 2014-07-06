@@ -3,3 +3,4 @@
 [2014-07-06 06:35:17] ddary, joining. (#selendroid)
 [2014-07-06 09:43:59] ddary, leaving. (#selendroid)
 [2014-07-06 15:35:33] ddary, joining. (#selendroid)
+[2014-07-06 17:33:04] smccarthy, joining. (#selendroid)
