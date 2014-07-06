@@ -7,3 +7,4 @@
 [2014-07-06 18:17:38] selendroid-git, joining. (#selendroid)
 [2014-07-06 18:17:38] selendroid-git: [selendroid] DominikDary opened pull request #465: Move to netty and cleanup (master...master) http://git.io/CA08sg
 [2014-07-06 18:17:38] selendroid-git, leaving. (#selendroid)
+[2014-07-06 18:30:05] ddary, quitting. (Quit: ddary)
