@@ -9,3 +9,7 @@
 [2014-07-07 10:47:20] ddary: as I wrote, my one has only issues with the ddmlib one
 [2014-07-07 10:47:38] ddary: if you use the device inspector it works fine
 [2014-07-07 11:01:16] lukeis, joining. (#selendroid)
+[2014-07-07 11:16:43] ddary: hi lukeis
+[2014-07-07 11:16:54] lukeis: hi ddary
+[2014-07-07 11:16:55] ddary: hope you had a good flight?!
+[2014-07-07 11:17:02] lukeis: not too bad
