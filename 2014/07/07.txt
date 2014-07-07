@@ -27,3 +27,4 @@
 [2014-07-07 22:24:32] ddary, joining. (#selendroid)
 [2014-07-07 22:28:16] ddary, quitting. (Client Quit)
 [2014-07-07 22:33:23] friscodelrosario, joining. (#selendroid)
+[2014-07-07 23:42:45] sfbrian_, joining. (#selendroid)
