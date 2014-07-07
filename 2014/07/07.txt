@@ -23,3 +23,4 @@
 [2014-07-07 19:23:02] jlipps, joining. (#selendroid)
 [2014-07-07 19:57:48] jack090, joining. (#selendroid)
 [2014-07-07 20:06:40] ddary, joining. (#selendroid)
+[2014-07-07 22:19:04] ddary, quitting. (Quit: ddary)
