@@ -4,3 +4,7 @@
 [2014-07-07 10:21:39] ddary, joining. (#selendroid)
 [2014-07-07 10:33:19] operatiay: @ddary, I'll have a look, thank you.
 [2014-07-07 10:44:54] ddary: thanks @operatiay!
+[2014-07-07 10:46:29] operatiay: when I tried the netty migration myself the inspector didn't work (neither screenshot nor page tree were loaded. I'll have a look whether yours is better :)
+[2014-07-07 10:47:00] ddary: ok
+[2014-07-07 10:47:20] ddary: as I wrote, my one has only issues with the ddmlib one
+[2014-07-07 10:47:38] ddary: if you use the device inspector it works fine
