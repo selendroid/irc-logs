@@ -13,3 +13,5 @@
 [2014-07-07 11:16:54] lukeis: hi ddary
 [2014-07-07 11:16:55] ddary: hope you had a good flight?!
 [2014-07-07 11:17:02] lukeis: not too bad
+[2014-07-07 12:07:05] lukeis1, joining. (#selendroid)
+[2014-07-07 12:09:45] lukeis, quitting. (Ping timeout: 255 seconds)
