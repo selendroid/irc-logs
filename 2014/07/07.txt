@@ -1,3 +1,4 @@
 [2014-07-07 08:39:47] ddary, joining. (#selendroid)
 [2014-07-07 08:54:37] ddary: @operatiay good morning, can you may have a look as weel at this PR https://github.com/selendroid/selendroid/pull/465 ? The thing is, it is a larger refactoring and would be great if you can build this version and run your tests with it to see if everything is fine. Selendroid's test suites were looking good
 [2014-07-07 10:10:43] ddary, quitting. (Ping timeout: 246 seconds)
+[2014-07-07 10:21:39] ddary, joining. (#selendroid)
