@@ -41,3 +41,4 @@
 [2014-07-08 12:57:14] operatiay: Jul 08, 2014 11:53:22 AM io.selendroid.server.handler.RequestRedirectHandler handle
 [2014-07-08 12:57:16] operatiay: INFO: return value from selendroid android server: {"ELEMENT":"1dfaec1a-5b2c-c91c-ac82-0dd88a0ba98b"}
 [2014-07-08 12:57:18] operatiay: Jul 08, 2014 11:53:22 AM io.selendroid.server.SelendroidStandaloneServer stop
+[2014-07-08 13:00:29] ddary: ok, thanks, i will have a look this evening
