@@ -21,3 +21,6 @@
 [2014-07-08 12:08:44] lukeis, quitting. (Read error: Connection reset by peer)
 [2014-07-08 12:08:54] lukeis1, changing nick to lukeis.
 [2014-07-08 12:31:13] juuh: Has anyone dealed with this problem: https://github.com/selendroid/selendroid/issues/469 ?
+[2014-07-08 12:46:19] ddary, joining. (#selendroid)
+[2014-07-08 12:47:35] ddary: hi operatiay, only with the remote web driver or as well with the selendroidClient?
+[2014-07-08 12:48:24] operatiay: not using selendroidClient... might try it though
