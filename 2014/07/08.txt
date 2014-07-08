@@ -32,3 +32,12 @@
 [2014-07-08 12:51:12] ddary: what kind of issues are you having?
 [2014-07-08 12:52:06] operatiay: the issue is that I am not able to find elements on page. I am trying to wait for an element by Id. The result is in the comment I've made to your pull request
 [2014-07-08 12:53:39] operatiay: org.openqa.selenium.WebDriverException: Returned value cannot be converted to WebElement: Resource not found.{"sessionId":"f56f28ff-ed9c-fd63-42a8-9e25b68198f7","value":{"ELEMENT":"1dfaec1a-5b2c-c91c-ac82-0dd88a0
+[2014-07-08 12:55:03] operatiay: it's on the line where it's being cast from String to WebDriver
+[2014-07-08 12:55:09] operatiay: sorry, WebElement
+[2014-07-08 12:57:10] operatiay: from the log file
+[2014-07-08 12:57:10] operatiay: INFO: POST redirect to: http://localhost:38080/wd/hub/session/f56f28ff-ed9c-fd63-42a8-9e25b68198f7/element
+[2014-07-08 12:57:10] operatiay: Jul 08, 2014 11:53:22 AM io.selendroid.server.handler.RequestRedirectHandler redirectRequest
+[2014-07-08 12:57:12] operatiay: INFO: Payload? {"using":"id","value":"webView"}
+[2014-07-08 12:57:14] operatiay: Jul 08, 2014 11:53:22 AM io.selendroid.server.handler.RequestRedirectHandler handle
+[2014-07-08 12:57:16] operatiay: INFO: return value from selendroid android server: {"ELEMENT":"1dfaec1a-5b2c-c91c-ac82-0dd88a0ba98b"}
+[2014-07-08 12:57:18] operatiay: Jul 08, 2014 11:53:22 AM io.selendroid.server.SelendroidStandaloneServer stop
