@@ -72,3 +72,15 @@
 [2014-07-08 14:24:36] lukeis: ok :)
 [2014-07-08 14:24:37] juuh: or trying to make automated test to it
 [2014-07-08 14:24:44] juuh: aka work stuff
+[2014-07-08 14:25:09] juuh: the weird thing is that the app works normally fine, without any problems/errors
+[2014-07-08 14:25:14] lukeis: no worries… i'd be happy to sign an nda or something and you share the app privately if you want me to try and look at it more
+[2014-07-08 14:25:47] juuh: hehe thx :)
+[2014-07-08 14:27:01] juuh: but is there someway to click cancel on such pop-ups ?
+[2014-07-08 14:27:22] lukeis: yes
+[2014-07-08 14:27:29] juuh: just like any other click ?
+[2014-07-08 14:27:32] lukeis: yep
+[2014-07-08 14:27:55] juuh: hmm weird, i took the value from inspector and it doesn't recognize it or something
+[2014-07-08 14:27:58] lukeis: driver.findElement(By.id("button1")).click()  (i believe that's the id for the standard 'alert' window)
+[2014-07-08 14:28:05] juuh: ye i think its like that
+[2014-07-08 14:29:11] juuh: well i'll give it a shot one (few) more time(s)
+[2014-07-08 14:29:16] juuh: thx mate :)
