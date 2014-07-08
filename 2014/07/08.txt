@@ -13,3 +13,5 @@
 [2014-07-08 10:23:41] juuh, joining. (#selendroid)
 [2014-07-08 11:05:21] lukeis, joining. (#selendroid)
 [2014-07-08 11:19:55] operatiay: @ddary I'm encountering problems with the communication between RemoteWebDriver and Selendroid server after the migration to netty
+[2014-07-08 11:20:39] lukeis: you can leave a note for him ": note ddary" (without a space between :n )
+[2014-07-08 11:21:05] lukeis: i haven't tested out the change myself yet
