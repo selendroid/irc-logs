@@ -87,3 +87,5 @@
 [2014-07-08 14:43:46] juuh, quitting. (Quit: Page closed)
 [2014-07-08 15:53:41] ddary, quitting. (Quit: Page closed)
 [2014-07-08 17:46:19] lukeis, quitting. (Quit: Leaving.)
+[2014-07-08 18:12:13] smccarthy, joining. (#selendroid)
+[2014-07-08 18:13:31] smccarthy, quitting. (Client Quit)
