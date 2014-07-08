@@ -98,3 +98,5 @@
 [2014-07-08 20:19:38] ddary, leaving. (#selendroid)
 [2014-07-08 20:37:09] ddary, joining. (#selendroid)
 [2014-07-08 21:09:53] ddary_, joining. (#selendroid)
+[2014-07-08 21:21:26] ddary, quitting. (Quit: Leaving.)
+[2014-07-08 21:21:26] ddary_, changing nick to ddary.
