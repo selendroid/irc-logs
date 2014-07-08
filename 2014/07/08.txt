@@ -8,3 +8,5 @@
 [2014-07-08 03:20:24] sfbrian_, quitting. (Quit: sfbrian_)
 [2014-07-08 05:01:27] smccarthy, joining. (#selendroid)
 [2014-07-08 05:47:53] smccarthy, quitting. (Quit: Leaving...)
+[2014-07-08 06:36:53] ddary, joining. (#selendroid)
+[2014-07-08 06:36:59] ddary, quitting. (Client Quit)
