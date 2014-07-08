@@ -24,3 +24,11 @@
 [2014-07-08 12:46:19] ddary, joining. (#selendroid)
 [2014-07-08 12:47:35] ddary: hi operatiay, only with the remote web driver or as well with the selendroidClient?
 [2014-07-08 12:48:24] operatiay: not using selendroidClient... might try it though
+[2014-07-08 12:50:06] operatiay: hm... how is it supposed to be used?
+[2014-07-08 12:50:40] operatiay: I mean I am using SelendroidDriver which is part of selendroid-client jar
+[2014-07-08 12:50:49] ddary: when I run the selendroid tests, it uses the selendroid client and there i didn't had seen it
+[2014-07-08 12:51:00] ddary: ah , ok
+[2014-07-08 12:51:04] operatiay: this results in RemoteWebDriver calls in the stack
+[2014-07-08 12:51:12] ddary: what kind of issues are you having?
+[2014-07-08 12:52:06] operatiay: the issue is that I am not able to find elements on page. I am trying to wait for an element by Id. The result is in the comment I've made to your pull request
+[2014-07-08 12:53:39] operatiay: org.openqa.selenium.WebDriverException: Returned value cannot be converted to WebElement: Resource not found.{"sessionId":"f56f28ff-ed9c-fd63-42a8-9e25b68198f7","value":{"ELEMENT":"1dfaec1a-5b2c-c91c-ac82-0dd88a0
