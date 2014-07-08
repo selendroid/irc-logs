@@ -43,3 +43,32 @@
 [2014-07-08 12:57:18] operatiay: Jul 08, 2014 11:53:22 AM io.selendroid.server.SelendroidStandaloneServer stop
 [2014-07-08 13:00:29] ddary: ok, thanks, i will have a look this evening
 [2014-07-08 13:08:52] juuh: ddary: could you help me with my problem ? :) here's the github issue i made: https://github.com/selendroid/selendroid/issues/469
+[2014-07-08 14:20:47] lukeis: juuh: your issue doesn't really fully describe the problem, at least it's hard to understand (and very likely not reproducible by us)
+[2014-07-08 14:21:02] juuh: hmm okay sry
+[2014-07-08 14:21:19] lukeis: is there a way for us to reproduce?
+[2014-07-08 14:21:19] juuh: so the problem is that i'm trying to selendroid with app that uses android+cordova
+[2014-07-08 14:21:30] lukeis: my app uses that
+[2014-07-08 14:21:31] juuh: i'm not sure since i cant share that app
+[2014-07-08 14:21:35] juuh: okay
+[2014-07-08 14:21:41] juuh: umm so at the start i get that error
+[2014-07-08 14:21:58] lukeis: "at the start"? when you create a new instance?
+[2014-07-08 14:22:05] juuh: when i'm starting to debug
+[2014-07-08 14:22:13] juuh: its like the first thing that appears on logcat
+[2014-07-08 14:22:31] lukeis: is that coming from the app or from selendroid's output?
+[2014-07-08 14:22:39] lukeis: seems like the app itself
+[2014-07-08 14:22:41] juuh: from app
+[2014-07-08 14:22:46] juuh: but the app works normally
+[2014-07-08 14:22:59] juuh: and for some reason it gives me that error when i'm using it with selendroid
+[2014-07-08 14:23:08] juuh: so i was thinking that it has something to do with selendroid
+[2014-07-08 14:23:20] lukeis: possible, but still uncertain
+[2014-07-08 14:23:29] juuh: true
+[2014-07-08 14:23:43] juuh: so u had an app which was using android + cordova ?
+[2014-07-08 14:23:50] lukeis: yes, Salesforce1
+[2014-07-08 14:23:53] juuh: okay
+[2014-07-08 14:24:17] lukeis: is your app in the play store?
+[2014-07-08 14:24:20] juuh: i just dont get it, why does it throw that pop-up after i/selendroid selects some field
+[2014-07-08 14:24:21] juuh: no sry
+[2014-07-08 14:24:30] juuh: its not "mine" just something i'm working on :P
+[2014-07-08 14:24:36] lukeis: ok :)
+[2014-07-08 14:24:37] juuh: or trying to make automated test to it
+[2014-07-08 14:24:44] juuh: aka work stuff
