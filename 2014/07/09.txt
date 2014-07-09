@@ -17,3 +17,20 @@
 [2014-07-09 10:54:08] operatiay: lukeis: what event are you participating in now? :) it seems to run in London
 [2014-07-09 10:54:33] lukeis: i was in the W3C WebDriver spec meeting on Monday / Tuesday… today i'm working from Mozilla London
 [2014-07-09 10:54:56] operatiay: ah, i see... :) how is the Mozilla office in London?
+[2014-07-09 10:55:09] lukeis: nice :)
+[2014-07-09 10:55:22] operatiay: cool :) never been there yet
+[2014-07-09 10:55:23] lukeis: are you in London
+[2014-07-09 10:55:27] operatiay: yes
+[2014-07-09 10:55:48] lukeis: I have a selendroid sticker for you if I see you today ;)
+[2014-07-09 10:56:20] operatiay: :) wow! it seems to be worth going to the Mozilla office
+[2014-07-09 10:56:37] lukeis: see the conversation in #selenium… I'm sure if you'd like to find us for dinner, you'd be welcome to join
+[2014-07-09 10:56:41] operatiay: :) or is a photo good enough for a sticker?
+[2014-07-09 10:57:03] operatiay: :) I haven't got a budget of £50 to follow you
+[2014-07-09 10:57:06] lukeis: ;)
+[2014-07-09 10:57:31] lukeis: Wilhelm has umm, expensive tastes sometimes
+[2014-07-09 10:57:38] lukeis: or a beer then? :)
+[2014-07-09 10:57:44] lukeis: where in London are you?
+[2014-07-09 10:57:58] lukeis: google maps has mozilla on it :)
+[2014-07-09 10:58:55] lukeis: next to Leicester square
+[2014-07-09 10:59:18] operatiay: :) got it on google maps. I'm at Farringdon Street
+[2014-07-09 10:59:55] lukeis: ah, so not too far
