@@ -69,3 +69,9 @@
 [2014-07-09 11:43:06] operatiay: wow, you seem to have long running goals in the company :)
 [2014-07-09 12:01:28] juuh: sorry to bother you, but i have a imo weird problem. I cant findElement by name or id even i'm sure it's in .js with that same name/id
 [2014-07-09 12:03:28] juuh: and i still have  that same pop-up problem, i dont know what is since i get an error which says unhandled alertexception but there's no alert if i'm trying to alert.dismiss
+[2014-07-09 12:05:14] lukeis: is it in a frame? is the website public so I can try it? (we're talking about running against a website or native/hybrid app?)
+[2014-07-09 12:07:10] juuh: nvm i somehow fixed the first error
+[2014-07-09 12:07:24] juuh: hybrid app, android+sencha touch+cordova
+[2014-07-09 12:07:31] operatiay: can you use inspector to verify what's displayed on the screen?
+[2014-07-09 12:07:57] juuh: sec i can paste inspector screen for you if its okay ?
+[2014-07-09 12:08:34] lukeis: :gist
