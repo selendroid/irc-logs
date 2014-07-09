@@ -99,3 +99,10 @@
 [2014-07-09 12:19:35] lukeis: and not being displayed through "window.prompt"
 [2014-07-09 12:19:38] juuh: everytime i start debug i get some cordova error
 [2014-07-09 12:19:50] juuh: something like it coulndt load cordova libs
+[2014-07-09 12:20:38] lukeis: so the cordova plugin could be triggering it's own show modal instead of allowing the native javascript do it
+[2014-07-09 12:21:15] lukeis: the Alert api only works if it detects a alert / confirm / prompt  has been called (from javascript)
+[2014-07-09 12:21:24] juuh: umm okay
+[2014-07-09 12:21:53] lukeis: it's because i needed a (easy) way to get the alert message
+[2014-07-09 12:22:24] lukeis: although i thought i tried to handle this case…. :-/
+[2014-07-09 12:23:14] juuh: hmm i managed to run this through once by swapping windows
+[2014-07-09 12:23:29] juuh: well i'm trying to make this work that way
