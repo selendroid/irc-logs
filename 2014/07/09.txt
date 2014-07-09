@@ -126,3 +126,6 @@
 [2014-07-09 18:42:36] renatof, quitting. (Quit: Page closed)
 [2014-07-09 18:43:09] potical: I can run the sample test app fine on the tablet. But when I am trying to my local app it gives me an error:  Caused by: io.selendroid.exceptions.SelendroidException: Selendroid server on the device didn't came up after 20sec:
 [2014-07-09 18:44:03] potical: it loops through giving this error before it Jul 09, 2014 11:44:03 AM org.apache.http.impl.client.DefaultRequestDirector tryExecute INFO: I/O exception (java.net.SocketException) caught when processing request: Connection r Jul 09, 2014 11:44:03 AM org.apache.http.impl.client.DefaultRequestDirector tryExecute
+[2014-07-09 18:45:04] lukeis: anything show up in the logcat regarding starting the app?
+[2014-07-09 18:45:09] lukeis: (instrumentation)
+[2014-07-09 18:49:23] potical: is there anything specific I should be looking for cause there doesnt seem to be anything coming out as an error
