@@ -14,3 +14,6 @@
 [2014-07-09 10:31:46] lukeis1, joining. (#selendroid)
 [2014-07-09 10:34:47] lukeis, quitting. (Ping timeout: 245 seconds)
 [2014-07-09 10:35:27] lukeis1, changing nick to lukeis.
+[2014-07-09 10:54:08] operatiay: lukeis: what event are you participating in now? :) it seems to run in London
+[2014-07-09 10:54:33] lukeis: i was in the W3C WebDriver spec meeting on Monday / Tuesday… today i'm working from Mozilla London
+[2014-07-09 10:54:56] operatiay: ah, i see... :) how is the Mozilla office in London?
