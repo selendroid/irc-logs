@@ -88,3 +88,14 @@
 [2014-07-09 12:14:41] lukeis: alert().dismiss() should work though
 [2014-07-09 12:14:49] juuh: hmmm ill try that again
 [2014-07-09 12:14:54] juuh: thx for helping :)
+[2014-07-09 12:15:15] lukeis: i had the alert() api switch to native / back to web automatically for people
+[2014-07-09 12:16:44] juuh: i did it like this: Alert alert = driver.switchTo().alert(); and only thing i got was NoAlertPresentException <.<
+[2014-07-09 12:16:59] juuh: so that isnt what i'm supposed to do ?
+[2014-07-09 12:18:24] lukeis: humph… switchTo().window("NATIVEAPP");  findElement(By.id("button2")).click(); switchTo().window("WEBVIEW");
+[2014-07-09 12:18:37] lukeis: or something close to that ;)
+[2014-07-09 12:19:04] lukeis: that is what you're supposed to do… not sure why it's not working
+[2014-07-09 12:19:17] lukeis: oh, maybe because it's cordova
+[2014-07-09 12:19:27] juuh: propably yea
+[2014-07-09 12:19:35] lukeis: and not being displayed through "window.prompt"
+[2014-07-09 12:19:38] juuh: everytime i start debug i get some cordova error
+[2014-07-09 12:19:50] juuh: something like it coulndt load cordova libs
