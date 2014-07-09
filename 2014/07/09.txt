@@ -114,3 +114,4 @@
 [2014-07-09 15:48:19] detroniz-, changing nick to detronizator.
 [2014-07-09 15:55:32] ddary, quitting. (Quit: Page closed)
 [2014-07-09 16:04:36] sirsteve, joining. (#selendroid)
+[2014-07-09 17:49:05] smccarthy, joining. (#selendroid)
