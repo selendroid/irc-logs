@@ -120,3 +120,5 @@
 [2014-07-09 18:31:23] renatof, joining. (#selendroid)
 [2014-07-09 18:31:33] renatof: hello
 [2014-07-09 18:33:59] potical: I am having some problems running Selendroid for testing on an app, can anyone help me with it?
+[2014-07-09 18:36:33] lukeis: i'm going to be offline in a bit… and then not back till next monday… but normally i'd say, what's your issue? :)
+[2014-07-09 18:37:38] potical: OK thanks, is there anyone else that can help me with an issue I am having/
