@@ -51,3 +51,17 @@
 [2014-07-09 11:29:33] lukeis: i've looked at the marionette source code :)
 [2014-07-09 11:29:36] operatiay: how comes? did they go to the vegetable?
 [2014-07-09 11:29:52] operatiay: marionette is javascript, isn't it?
+[2014-07-09 11:30:10] lukeis: yes it is
+[2014-07-09 11:30:36] lukeis: one guy quit, one guy switch teams
+[2014-07-09 11:31:04] operatiay: are you using ios-driver for iOS?
+[2014-07-09 11:31:11] lukeis: yes
+[2014-07-09 11:31:24] lukeis: and our own thing for it
+[2014-07-09 11:31:44] operatiay: own thing... :) so not open source. what would you need it for?
+[2014-07-09 11:32:03] lukeis: for our "web" testing we use ios-driver, for our "hybrid" we use ios-driver, for "native" we use our own javascript test runner on top of apple's instruments
+[2014-07-09 11:32:19] lukeis: because they wrote it a while ago and were stupid...
+[2014-07-09 11:32:32] lukeis: the guy who wrote it was quit/fired
+[2014-07-09 11:32:46] operatiay: but now that you're the one doing it... :) would it not make sense to get rid of it?
+[2014-07-09 11:32:54] lukeis: and now there's too much to translate to switch immediately
+[2014-07-09 11:33:26] operatiay: the normal scenario
+[2014-07-09 11:33:28] lukeis: it's just one "native" team using it… i'm letting them stay in their ways until they start crying miserably
+[2014-07-09 11:33:59] operatiay: :) but then it might be too late to make the necessary changes in time... you probably know it as well
