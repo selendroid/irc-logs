@@ -129,3 +129,10 @@
 [2014-07-09 18:45:04] lukeis: anything show up in the logcat regarding starting the app?
 [2014-07-09 18:45:09] lukeis: (instrumentation)
 [2014-07-09 18:49:23] potical: is there anything specific I should be looking for cause there doesnt seem to be anything coming out as an error
+[2014-07-09 18:50:02] lukeis: does the app launch?
+[2014-07-09 18:50:16] potical: no it does not launch
+[2014-07-09 18:50:22] lukeis: you should be looking for where in the log cat it starts the instrumentation process
+[2014-07-09 18:50:28] lukeis: "instrumentation" should show up in the log
+[2014-07-09 18:52:00] potical: it says: W/ActivityManager(  233): Permission Denial: starting instrumentation ComponentInfo{io.selendroid.com.employtouch.touchbase.wfm/io.selendroid.ServerInstrumentation} from pid=936, uid=936 not allowed because package io.selendroid.com.employtouch.touchbase.wfm does not have a signature matching the target com.employtouch.touchbase.wfm
+[2014-07-09 18:52:54] lukeis: ah, so something went wrong with the resigning… uninstall both your app and the selendroid server (have to do it through settings on the device) and try again
+[2014-07-09 18:53:20] lukeis: selendroid only works because both the app and the selendroid server app get signed with the same certificate
