@@ -122,3 +122,7 @@
 [2014-07-09 18:33:59] potical: I am having some problems running Selendroid for testing on an app, can anyone help me with it?
 [2014-07-09 18:36:33] lukeis: i'm going to be offline in a bit… and then not back till next monday… but normally i'd say, what's your issue? :)
 [2014-07-09 18:37:38] potical: OK thanks, is there anyone else that can help me with an issue I am having/
+[2014-07-09 18:40:17] *lukeis is doubtful… but feel free to :ask'
+[2014-07-09 18:42:36] renatof, quitting. (Quit: Page closed)
+[2014-07-09 18:43:09] potical: I can run the sample test app fine on the tablet. But when I am trying to my local app it gives me an error:  Caused by: io.selendroid.exceptions.SelendroidException: Selendroid server on the device didn't came up after 20sec:
+[2014-07-09 18:44:03] potical: it loops through giving this error before it Jul 09, 2014 11:44:03 AM org.apache.http.impl.client.DefaultRequestDirector tryExecute INFO: I/O exception (java.net.SocketException) caught when processing request: Connection r Jul 09, 2014 11:44:03 AM org.apache.http.impl.client.DefaultRequestDirector tryExecute
