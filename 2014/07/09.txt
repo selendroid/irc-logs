@@ -75,3 +75,16 @@
 [2014-07-09 12:07:31] operatiay: can you use inspector to verify what's displayed on the screen?
 [2014-07-09 12:07:57] juuh: sec i can paste inspector screen for you if its okay ?
 [2014-07-09 12:08:34] lukeis: :gist
+[2014-07-09 12:12:07] juuh: https://docs.google.com/file/d/0B5TKQWP8hRapNHR1MzMtNEw5ZWc/edit?pli=1
+[2014-07-09 12:12:14] juuh: i think you should be able to see that
+[2014-07-09 12:13:04] juuh: imo i should be able to find that cancel button with findelement(by.id("button2"))
+[2014-07-09 12:13:45] lukeis: yes… are you switched to "Native" though?
+[2014-07-09 12:14:01] lukeis: switch to context (or window still works)
+[2014-07-09 12:14:13] juuh: it should be webview
+[2014-07-09 12:14:19] lukeis: that pop up is native
+[2014-07-09 12:14:22] juuh: since everything should be in webview, except that one ?
+[2014-07-09 12:14:25] juuh: aaa
+[2014-07-09 12:14:37] juuh: so i'm supposed to switch to native during that pop-up or ?
+[2014-07-09 12:14:41] lukeis: alert().dismiss() should work though
+[2014-07-09 12:14:49] juuh: hmmm ill try that again
+[2014-07-09 12:14:54] juuh: thx for helping :)
