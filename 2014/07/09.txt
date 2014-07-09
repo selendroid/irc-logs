@@ -140,3 +140,5 @@
 [2014-07-09 18:55:18] lukeis: yes
 [2014-07-09 18:55:30] lukeis: uninstall it all ;)
 [2014-07-09 18:58:39] lukeis, quitting. (Quit: Leaving.)
+[2014-07-09 19:06:08] potical: seems like I am still getting the same error after uninstalling the app and selendroid server
+[2014-07-09 19:06:24] potical: and same Permission Denial in the logcat
