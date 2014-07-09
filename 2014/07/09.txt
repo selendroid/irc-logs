@@ -115,3 +115,8 @@
 [2014-07-09 15:55:32] ddary, quitting. (Quit: Page closed)
 [2014-07-09 16:04:36] sirsteve, joining. (#selendroid)
 [2014-07-09 17:49:05] smccarthy, joining. (#selendroid)
+[2014-07-09 18:30:43] sfbrian_, joining. (#selendroid)
+[2014-07-09 18:30:47] potical, joining. (#selendroid)
+[2014-07-09 18:31:23] renatof, joining. (#selendroid)
+[2014-07-09 18:31:33] renatof: hello
+[2014-07-09 18:33:59] potical: I am having some problems running Selendroid for testing on an app, can anyone help me with it?
