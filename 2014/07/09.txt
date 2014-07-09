@@ -43,3 +43,11 @@
 [2014-07-09 11:06:26] operatiay: lukeis: that looks really cool! :) now I wish to have a macbook AND a sticker
 [2014-07-09 11:06:48] operatiay: are you working for Mozilla?
 [2014-07-09 11:23:41] lukeis: no, i work for salesforce… but the mozilla guys like me ;)
+[2014-07-09 11:27:21] operatiay: are you doing Firefox OS testing for them? )
+[2014-07-09 11:28:32] lukeis: no… but I'll likely consume it at some point ;)
+[2014-07-09 11:29:08] operatiay: :) so you're a chicken
+[2014-07-09 11:29:10] lukeis: work mainly has me doing android… but now that my team lost our iOS guys, i'm doing some of that
+[2014-07-09 11:29:24] lukeis: heh
+[2014-07-09 11:29:33] lukeis: i've looked at the marionette source code :)
+[2014-07-09 11:29:36] operatiay: how comes? did they go to the vegetable?
+[2014-07-09 11:29:52] operatiay: marionette is javascript, isn't it?
