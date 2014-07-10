@@ -17,3 +17,4 @@
 [2014-07-10 21:35:33] ddary, joining. (#selendroid)
 [2014-07-10 21:35:53] ddary, leaving. (#selendroid)
 [2014-07-10 21:51:49] rentaof, quitting. (Ping timeout: 246 seconds)
+[2014-07-10 22:23:41] friscodelrosario, joining. (#selendroid)
