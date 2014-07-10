@@ -8,3 +8,4 @@
 [2014-07-10 13:04:35] selendroid-git: [selendroid] lragnarsson opened pull request #475: Avoid returning duplicate elements for findElementsBy*. (master...top_level_view_fix) http://git.io/TJ3gBQ
 [2014-07-10 13:04:35] selendroid-git, leaving. (#selendroid)
 [2014-07-10 14:48:09] renatof, quitting. (Quit: Page closed)
+[2014-07-10 17:24:31] smccarthy, joining. (#selendroid)
