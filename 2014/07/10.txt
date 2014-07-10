@@ -1,1 +1,3 @@
 [2014-07-10 00:39:41] smccarthy, quitting. (Quit: Leaving...)
+[2014-07-10 02:35:56] sfbrian_, quitting. (Quit: sfbrian_)
+[2014-07-10 02:39:31] sfbrian, joining. (#selendroid)
