@@ -4,3 +4,6 @@
 [2014-07-10 02:47:53] sfbrian, quitting. (Quit: sfbrian)
 [2014-07-10 10:37:52] lukeis, joining. (#selendroid)
 [2014-07-10 10:56:40] lukeis, quitting. (Quit: Leaving.)
+[2014-07-10 13:04:35] selendroid-git, joining. (#selendroid)
+[2014-07-10 13:04:35] selendroid-git: [selendroid] lragnarsson opened pull request #475: Avoid returning duplicate elements for findElementsBy*. (master...top_level_view_fix) http://git.io/TJ3gBQ
+[2014-07-10 13:04:35] selendroid-git, leaving. (#selendroid)
