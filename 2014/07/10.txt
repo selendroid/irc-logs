@@ -3,3 +3,4 @@
 [2014-07-10 02:39:31] sfbrian, joining. (#selendroid)
 [2014-07-10 02:47:53] sfbrian, quitting. (Quit: sfbrian)
 [2014-07-10 10:37:52] lukeis, joining. (#selendroid)
+[2014-07-10 10:56:40] lukeis, quitting. (Quit: Leaving.)
