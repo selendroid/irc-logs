@@ -4,3 +4,8 @@
 [2014-07-11 01:33:12] smccarthy, quitting. (Quit: Leaving...)
 [2014-07-11 02:34:07] sfbrian_, quitting. (Quit: sfbrian_)
 [2014-07-11 02:54:10] friscodelrosario, joining. (#selendroid)
+[2014-07-11 03:27:23] AutomatedTester, quitting. (*.net *.split)
+[2014-07-11 03:27:26] friscodelrosario, quitting. (*.net *.split)
+[2014-07-11 03:27:27] sirsteve, quitting. (*.net *.split)
+[2014-07-11 03:27:29] operatiay, quitting. (*.net *.split)
+[2014-07-11 03:27:35] detronizator, quitting. (*.net *.split)
