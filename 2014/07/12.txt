@@ -10,3 +10,4 @@
 [2014-07-12 14:58:36] rasha: hello
 [2014-07-12 14:58:57] rasha: any body is here?
 [2014-07-12 15:12:13] rasha, quitting. (Quit: Page closed)
+[2014-07-12 17:15:35] smccarthy, joining. (#selendroid)
