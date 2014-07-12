@@ -1,2 +1,6 @@
 [2014-07-12 00:04:41] smccarthy, quitting. (Quit: Leaving...)
 [2014-07-12 03:28:25] sfbrian_, quitting. (Quit: sfbrian_)
+[2014-07-12 14:06:32] sirsteve, quitting. (*.net *.split)
+[2014-07-12 14:06:34] operatiay, quitting. (*.net *.split)
+[2014-07-12 14:07:21] operatiay, joining. (#selendroid)
+[2014-07-12 14:07:21] sirsteve, joining. (#selendroid)
