@@ -6,3 +6,6 @@
 [2014-07-12 14:07:21] sirsteve, joining. (#selendroid)
 [2014-07-12 14:12:49] sirsteve_, joining. (#selendroid)
 [2014-07-12 14:14:51] sirsteve, quitting. (Write error: Broken pipe)
+[2014-07-12 14:58:26] rasha, joining. (#selendroid)
+[2014-07-12 14:58:36] rasha: hello
+[2014-07-12 14:58:57] rasha: any body is here?
