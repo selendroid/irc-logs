@@ -8,3 +8,4 @@
 [2014-07-14 18:34:54] operatiay, quitting. (Remote host closed the connection)
 [2014-07-14 18:36:33] sfbrian_, joining. (#selendroid)
 [2014-07-14 18:36:47] istoven, joining. (#selendroid)
+[2014-07-14 18:44:57] istoven: Hey I am having trouble running selendroid on my native android app. In the logcat it gives me an error: Error in app APP running instrumentation ComponentInfo{io.selendroid.APP/io.selendroid.ServerInstrumentation}:, W/ActivityManager(  243):   java.lang.NullPointerException
