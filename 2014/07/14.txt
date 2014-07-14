@@ -27,3 +27,4 @@
 [2014-07-14 21:00:01] renatof: is there a way in the ServerInstrumenation class that we can accommodate for this ?
 [2014-07-14 21:00:33] ddary: no
 [2014-07-14 21:02:12] ddary: as far as I know no way
+[2014-07-14 21:15:18] ddary, leaving. (#selendroid)
