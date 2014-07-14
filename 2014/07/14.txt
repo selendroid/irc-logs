@@ -1,0 +1,1 @@
+[2014-07-14 11:30:00] selendroidbot___, quitting. (Ping timeout: 260 seconds)
