@@ -9,3 +9,7 @@
 [2014-07-14 18:36:33] sfbrian_, joining. (#selendroid)
 [2014-07-14 18:36:47] istoven, joining. (#selendroid)
 [2014-07-14 18:44:57] istoven: Hey I am having trouble running selendroid on my native android app. In the logcat it gives me an error: Error in app APP running instrumentation ComponentInfo{io.selendroid.APP/io.selendroid.ServerInstrumentation}:, W/ActivityManager(  243):   java.lang.NullPointerException
+[2014-07-14 18:45:23] istoven: I have tried to uninstall the APP and selendroid server but it did not help, and not sure what to try next
+[2014-07-14 18:46:17] lukeis: is that all the log gives you?
+[2014-07-14 18:46:35] lukeis: i would hope the NPE had a line number / file associated to it
+[2014-07-14 18:47:46] istoven: is the W/ActivityManager(  243):   java.lang.NullPointerException what you were looking for
