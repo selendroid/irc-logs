@@ -31,3 +31,9 @@
 [2014-07-14 21:56:09] operatiay, joining. (#selendroid)
 [2014-07-14 21:58:44] lukeis: istoven: sorry, had meetings… thanks for the log, do you have access to your app's source code? I'd be curious what it's trying to do in this class / line https://gist.github.com/anonymous/49171dca31e183a0bf4a#file-gistfile1-txt-L37
 [2014-07-14 21:59:35] lukeis: renatof are you and istoven at the same company?
+[2014-07-14 22:10:44] istoven: ya we are, but we decided to go a different route with our testing because it seems like we are conflicting with the methods of running the app like what renatof said previously
+[2014-07-14 22:11:16] operatiay, quitting. (Remote host closed the connection)
+[2014-07-14 22:11:17] lukeis: yeah :-/
+[2014-07-14 22:11:26] istoven: Thanks for all your help, it was great to have someone to ask for help when we needed it
+[2014-07-14 22:11:42] lukeis: no problem, sorry couldn't be of more help
+[2014-07-14 22:12:40] istoven, quitting. (Quit: Page closed)
