@@ -20,3 +20,6 @@
 [2014-07-14 19:29:15] istoven: is the onCreate() of the app called when using selendroid?
 [2014-07-14 20:39:39] ddary, joining. (#selendroid)
 [2014-07-14 20:40:13] ddary: Hi all
+[2014-07-14 20:45:26] renatof: When Selendroid is called  in a Junit Test, does it have its own Instrumentation class to load the app ?
+[2014-07-14 20:46:26] ddary: renatof: yes
+[2014-07-14 20:48:37] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/ServerInstrumentation.java
