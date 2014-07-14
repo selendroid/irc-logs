@@ -15,3 +15,5 @@
 [2014-07-14 18:47:46] istoven: is the W/ActivityManager(  243):   java.lang.NullPointerException what you were looking for
 [2014-07-14 18:53:22] lukeis: that's it? nothing else in the log cat nearby that line?
 [2014-07-14 18:53:26] lukeis: :gist it?
+[2014-07-14 19:04:02] istoven: https://gist.github.com/anonymous/49171dca31e183a0bf4a
+[2014-07-14 19:04:47] istoven: it seems to may be a problem with some code on our end, but it is strange cause it runs fine normally without using selendroid
