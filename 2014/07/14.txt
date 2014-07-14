@@ -28,3 +28,6 @@
 [2014-07-14 21:00:33] ddary: no
 [2014-07-14 21:02:12] ddary: as far as I know no way
 [2014-07-14 21:15:18] ddary, leaving. (#selendroid)
+[2014-07-14 21:56:09] operatiay, joining. (#selendroid)
+[2014-07-14 21:58:44] lukeis: istoven: sorry, had meetings… thanks for the log, do you have access to your app's source code? I'd be curious what it's trying to do in this class / line https://gist.github.com/anonymous/49171dca31e183a0bf4a#file-gistfile1-txt-L37
+[2014-07-14 21:59:35] lukeis: renatof are you and istoven at the same company?
