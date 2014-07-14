@@ -23,3 +23,5 @@
 [2014-07-14 20:45:26] renatof: When Selendroid is called  in a Junit Test, does it have its own Instrumentation class to load the app ?
 [2014-07-14 20:46:26] ddary: renatof: yes
 [2014-07-14 20:48:37] ddary: https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/ServerInstrumentation.java
+[2014-07-14 20:59:27] renatof: The way my app works is that when it normally loads up we create an Application Instance (through an Intrsumentation method call), that initializes classes used in our MainActivity. So when load up our app with Selendroid, the Application class doesn't get called but instead our MainAcivity does - causing NPE's
+[2014-07-14 21:00:01] renatof: is there a way in the ServerInstrumenation class that we can accommodate for this ?
