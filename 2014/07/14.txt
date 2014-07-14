@@ -19,3 +19,4 @@
 [2014-07-14 19:04:47] istoven: it seems to may be a problem with some code on our end, but it is strange cause it runs fine normally without using selendroid
 [2014-07-14 19:29:15] istoven: is the onCreate() of the app called when using selendroid?
 [2014-07-14 20:39:39] ddary, joining. (#selendroid)
+[2014-07-14 20:40:13] ddary: Hi all
