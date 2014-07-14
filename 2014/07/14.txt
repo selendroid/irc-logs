@@ -13,3 +13,5 @@
 [2014-07-14 18:46:17] lukeis: is that all the log gives you?
 [2014-07-14 18:46:35] lukeis: i would hope the NPE had a line number / file associated to it
 [2014-07-14 18:47:46] istoven: is the W/ActivityManager(  243):   java.lang.NullPointerException what you were looking for
+[2014-07-14 18:53:22] lukeis: that's it? nothing else in the log cat nearby that line?
+[2014-07-14 18:53:26] lukeis: :gist it?
