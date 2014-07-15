@@ -40,3 +40,14 @@
 [2014-07-15 21:02:37] jlipps, joining. (#selendroid)
 [2014-07-15 21:03:15] ddary: :note operatiay sadly not. I’m currently busy with other stuff. Hoping to have soon a deep dive.
 [2014-07-15 21:04:57] operatiay, joining. (#selendroid)
+[2014-07-15 21:06:01] selendroid-git, joining. (#selendroid)
+[2014-07-15 21:06:01] selendroid-git: [selendroid] DominikDary closed pull request #475: Avoid returning duplicate elements for findElementsBy*. (master...top_level_view_fix) http://git.io/TJ3gBQ
+[2014-07-15 21:06:01] selendroid-git, leaving. (#selendroid)
+[2014-07-15 21:06:36] selendroid-git, joining. (#selendroid)
+[2014-07-15 21:06:36] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/7xiLTA
+[2014-07-15 21:06:36] selendroid-git: selendroid/master b1511a2 Dominik Dary: Update changelog.md
+[2014-07-15 21:06:36] selendroid-git, leaving. (#selendroid)
+[2014-07-15 21:08:36] selendroid-git, joining. (#selendroid)
+[2014-07-15 21:08:36] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/LlJKSQ
+[2014-07-15 21:08:36] selendroid-git: selendroid/master bcd8eb2 Dominik Dary: Update AUTHORS
+[2014-07-15 21:08:36] selendroid-git, leaving. (#selendroid)
