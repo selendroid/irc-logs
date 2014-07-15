@@ -36,3 +36,7 @@
 [2014-07-15 19:54:19] jlipps, quitting. (Quit: Leaving.)
 [2014-07-15 19:58:56] jlipps, joining. (#selendroid)
 [2014-07-15 20:44:56] jlipps, quitting. (Quit: Leaving.)
+[2014-07-15 21:01:58] ddary, joining. (#selendroid)
+[2014-07-15 21:02:37] jlipps, joining. (#selendroid)
+[2014-07-15 21:03:15] ddary: :note operatiay sadly not. I’m currently busy with other stuff. Hoping to have soon a deep dive.
+[2014-07-15 21:04:57] operatiay, joining. (#selendroid)
