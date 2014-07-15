@@ -10,3 +10,4 @@
 [2014-07-15 04:42:09] sirsteve, quitting. (*.net *.split)
 [2014-07-15 04:42:28] sirsteve, joining. (#selendroid)
 [2014-07-15 05:52:28] ddary, joining. (#selendroid)
+[2014-07-15 06:15:31] ddary, leaving. (#selendroid)
