@@ -19,3 +19,4 @@
 [2014-07-15 10:46:53] jlipps, joining. (#selendroid)
 [2014-07-15 10:47:11] jlipps, quitting. (Client Quit)
 [2014-07-15 11:57:35] operatiay, quitting. ()
+[2014-07-15 12:26:38] operatiay, joining. (#selendroid)
