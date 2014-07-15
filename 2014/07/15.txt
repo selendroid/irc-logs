@@ -11,3 +11,5 @@
 [2014-07-15 04:42:28] sirsteve, joining. (#selendroid)
 [2014-07-15 05:52:28] ddary, joining. (#selendroid)
 [2014-07-15 06:15:31] ddary, leaving. (#selendroid)
+[2014-07-15 08:45:53] jlipps, joining. (#selendroid)
+[2014-07-15 08:49:58] jlipps, quitting. (Ping timeout: 240 seconds)
