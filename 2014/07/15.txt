@@ -21,3 +21,4 @@
 [2014-07-15 11:57:35] operatiay, quitting. ()
 [2014-07-15 12:26:38] operatiay, joining. (#selendroid)
 [2014-07-15 13:04:11] operatiay: :note ddary Hi Dominik, are there any news on netty migration?
+[2014-07-15 13:51:40] operatiay, quitting. (Remote host closed the connection)
