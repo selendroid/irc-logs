@@ -65,3 +65,4 @@
 [2014-07-15 21:21:57] travis-ci, leaving. (#selendroid)
 [2014-07-15 21:23:04] ddary, joining. (#selendroid)
 [2014-07-15 21:55:02] lukeis, quitting. (Quit: Leaving.)
+[2014-07-15 22:05:30] ddary, quitting. (Quit: ddary)
