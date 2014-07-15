@@ -30,3 +30,4 @@
 [2014-07-15 18:20:44] operatiay, quitting. (Remote host closed the connection)
 [2014-07-15 18:22:04] lukeis, joining. (#selendroid)
 [2014-07-15 18:35:57] sfbrian_, joining. (#selendroid)
+[2014-07-15 18:54:40] lukeis, quitting. (Quit: Leaving.)
