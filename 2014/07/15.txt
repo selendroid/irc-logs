@@ -67,3 +67,4 @@
 [2014-07-15 21:55:02] lukeis, quitting. (Quit: Leaving.)
 [2014-07-15 22:05:30] ddary, quitting. (Quit: ddary)
 [2014-07-15 22:12:41] lukeis, joining. (#selendroid)
+[2014-07-15 23:50:42] smccarthy, quitting. (Quit: Leaving...)
