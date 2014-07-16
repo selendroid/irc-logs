@@ -28,3 +28,4 @@
 [2014-07-16 18:32:14] sfbrian_, joining. (#selendroid)
 [2014-07-16 18:35:03] jlipps, quitting. (Quit: Leaving.)
 [2014-07-16 18:38:48] jlipps, joining. (#selendroid)
+[2014-07-16 19:09:35] jlipps, quitting. (Quit: Leaving.)
