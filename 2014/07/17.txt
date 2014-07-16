@@ -1,2 +1,3 @@
 [2014-07-17 00:22:40] lukeis1, changing nick to lukeis.
 [2014-07-17 01:03:48] sfbrian_, quitting. (Quit: sfbrian_)
+[2014-07-17 01:50:22] smccarthy, joining. (#selendroid)
