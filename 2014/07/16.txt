@@ -49,3 +49,16 @@
 [2014-07-16 21:14:18] lukeis: the webbit thing? or other?
 [2014-07-16 21:14:22] ddary: just verifying toggle buttons
 [2014-07-16 21:14:53] ddary: with webbit it turned out that on my private mac this screenshot thing is broken in general
+[2014-07-16 21:15:11] lukeis: ah :-/
+[2014-07-16 21:15:13] ddary: turns out that has soemthing todo with adb sdk tools version
+[2014-07-16 21:15:31] ddary: need to verify it on my work mac
+[2014-07-16 21:16:32] lukeis: AutomatedTester: would appreciate your input on this too (if you have a few moments to conjure some thoughts) - https://mail.google.com/mail/u/0/?ui=2&pli=1#label/googlegroups/147408280f8f7d2a
+[2014-07-16 21:16:42] lukeis: oops
+[2014-07-16 21:16:45] lukeis: wrong link :)
+[2014-07-16 21:17:09] lukeis: https://groups.google.com/forum/#!topic/mobile-jsonwp-spec/zt3rtXuBvVQ
+[2014-07-16 21:17:21] ddary: :-)
+[2014-07-16 21:17:46] AutomatedTester: lukeis: I saw the email in my inbox
+[2014-07-16 21:17:47] lukeis: now you know i have a 'googlegroups' label ;)
+[2014-07-16 21:17:53] AutomatedTester: will get to it "soon"
+[2014-07-16 21:17:53] lukeis: ok :)
+[2014-07-16 21:18:15] lukeis: thx sir!
