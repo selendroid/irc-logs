@@ -62,3 +62,5 @@
 [2014-07-16 21:17:53] AutomatedTester: will get to it "soon"
 [2014-07-16 21:17:53] lukeis: ok :)
 [2014-07-16 21:18:15] lukeis: thx sir!
+[2014-07-16 21:25:19] lukeis: jlipps: i shake my head…. https://github.com/appium/java-client/issues/55
+[2014-07-16 21:27:26] jlipps, quitting. (Quit: Leaving.)
