@@ -5,3 +5,4 @@
 [2014-07-16 01:26:55] operatiay, quitting. (Ping timeout: 256 seconds)
 [2014-07-16 02:55:07] sfbrian_, quitting. (Quit: sfbrian_)
 [2014-07-16 03:59:01] jlipps, quitting. (Quit: Leaving.)
+[2014-07-16 05:23:44] operatiay, joining. (#selendroid)
