@@ -69,3 +69,5 @@
 [2014-07-16 22:36:08] jlipps: lukeis:  megalol
 [2014-07-16 22:36:27] lukeis: :)
 [2014-07-16 23:05:00] lukeis1, joining. (#selendroid)
+[2014-07-16 23:07:56] lukeis, quitting. (Ping timeout: 260 seconds)
+[2014-07-16 23:08:44] lukeis, joining. (#selendroid)
