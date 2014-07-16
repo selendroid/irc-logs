@@ -40,3 +40,12 @@
 [2014-07-16 20:56:54] ddary, joining. (#selendroid)
 [2014-07-16 21:01:19] ddary: :log
 [2014-07-16 21:06:39] lukeis, quitting. (Quit: Leaving.)
+[2014-07-16 21:13:04] lukeis, joining. (#selendroid)
+[2014-07-16 21:13:21] lukeis: hi ddary
+[2014-07-16 21:13:26] ddary: hi lukeis
+[2014-07-16 21:13:39] lukeis: having a good evening i hope :)
+[2014-07-16 21:14:03] ddary: yes :) doing some selendroid developement
+[2014-07-16 21:14:07] ddary: nothing big
+[2014-07-16 21:14:18] lukeis: the webbit thing? or other?
+[2014-07-16 21:14:22] ddary: just verifying toggle buttons
+[2014-07-16 21:14:53] ddary: with webbit it turned out that on my private mac this screenshot thing is broken in general
