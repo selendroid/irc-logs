@@ -33,3 +33,5 @@
 [2014-07-17 22:49:37] jlipps, joining. (#selendroid)
 [2014-07-17 22:49:47] smccarthy, quitting. (Ping timeout: 264 seconds)
 [2014-07-17 22:52:34] smccarthy, joining. (#selendroid)
+[2014-07-17 23:11:51] smccarthy, quitting. (Ping timeout: 256 seconds)
+[2014-07-17 23:14:36] smccarthy, joining. (#selendroid)
