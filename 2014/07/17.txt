@@ -35,3 +35,10 @@
 [2014-07-17 22:52:34] smccarthy, joining. (#selendroid)
 [2014-07-17 23:11:51] smccarthy, quitting. (Ping timeout: 256 seconds)
 [2014-07-17 23:14:36] smccarthy, joining. (#selendroid)
+[2014-07-17 23:29:13] lukeis: jlipps: yt? I'm trying to run against appium 1.2 (with selendroid) and it keeps trying to start it in UIAutomator mode… can you help me with my capabilities? (or tell me to bugger off and frustrate myself with your guys 'support' :) )
+[2014-07-17 23:29:29] jlipps: did you read the 1.0 automation guide?
+[2014-07-17 23:29:33] jlipps: set automationName to selendroid
+[2014-07-17 23:29:36] lukeis: i did
+[2014-07-17 23:29:42] jlipps: what caps are you using?
+[2014-07-17 23:29:49] lukeis: :)
+[2014-07-17 23:29:53] lukeis: pm'd
