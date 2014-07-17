@@ -27,3 +27,6 @@
 [2014-07-17 19:14:50] jlipps, joining. (#selendroid)
 [2014-07-17 21:15:49] operatiay, joining. (#selendroid)
 [2014-07-17 21:31:09] operatiay, quitting. (Remote host closed the connection)
+[2014-07-17 22:41:54] jlipps, quitting. (Quit: Leaving.)
+[2014-07-17 22:44:05] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-07-17 22:44:41] smccarthy, joining. (#selendroid)
