@@ -1,3 +1,6 @@
 [2014-07-17 00:22:40] lukeis1, changing nick to lukeis.
 [2014-07-17 01:03:48] sfbrian_, quitting. (Quit: sfbrian_)
 [2014-07-17 01:50:22] smccarthy, joining. (#selendroid)
+[2014-07-17 02:04:21] selendroid-git, joining. (#selendroid)
+[2014-07-17 02:04:21] selendroid-git: [selendroid] mmnormyle opened pull request #485: Added a feature that allows testers to add records to call log in device... (master...master) http://git.io/sFm0cw
+[2014-07-17 02:04:21] selendroid-git, leaving. (#selendroid)
