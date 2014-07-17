@@ -5,3 +5,5 @@
 [2014-07-17 02:04:21] selendroid-git: [selendroid] mmnormyle opened pull request #485: Added a feature that allows testers to add records to call log in device... (master...master) http://git.io/sFm0cw
 [2014-07-17 02:04:21] selendroid-git, leaving. (#selendroid)
 [2014-07-17 02:37:14] jlipps, quitting. (Quit: Leaving.)
+[2014-07-17 03:01:31] smccarthy, quitting. (Quit: Leaving...)
+[2014-07-17 03:04:11] detronizator, quitting. (Ping timeout: 264 seconds)
