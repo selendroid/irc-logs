@@ -30,3 +30,5 @@
 [2014-07-17 22:41:54] jlipps, quitting. (Quit: Leaving.)
 [2014-07-17 22:44:05] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-07-17 22:44:41] smccarthy, joining. (#selendroid)
+[2014-07-17 22:49:37] jlipps, joining. (#selendroid)
+[2014-07-17 22:49:47] smccarthy, quitting. (Ping timeout: 264 seconds)
