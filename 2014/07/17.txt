@@ -7,3 +7,4 @@
 [2014-07-17 02:37:14] jlipps, quitting. (Quit: Leaving.)
 [2014-07-17 03:01:31] smccarthy, quitting. (Quit: Leaving...)
 [2014-07-17 03:04:11] detronizator, quitting. (Ping timeout: 264 seconds)
+[2014-07-17 03:05:12] detronizator, joining. (#selendroid)
