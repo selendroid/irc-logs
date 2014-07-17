@@ -17,3 +17,4 @@
 [2014-07-18 00:55:30] sirsteve, joining. (#selendroid)
 [2014-07-18 01:00:21] jlipps, joining. (#selendroid)
 [2014-07-18 01:03:12] lukeis, quitting. (Quit: Leaving.)
+[2014-07-18 01:14:47] smccarthy, quitting. (Quit: Leaving...)
