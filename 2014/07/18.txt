@@ -30,3 +30,4 @@
 [2014-07-18 09:40:33] operatiay, quitting. (Ping timeout: 240 seconds)
 [2014-07-18 10:31:16] operatiay, joining. (#selendroid)
 [2014-07-18 12:38:06] operatiay, quitting. (Remote host closed the connection)
+[2014-07-18 12:53:08] ddary, joining. (#selendroid)
