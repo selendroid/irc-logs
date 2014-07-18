@@ -24,3 +24,4 @@
 [2014-07-18 03:38:07] operatiay, quitting. (Ping timeout: 245 seconds)
 [2014-07-18 05:34:39] operatiay, joining. (#selendroid)
 [2014-07-18 05:39:22] operatiay, quitting. (Ping timeout: 250 seconds)
+[2014-07-18 08:21:24] ddary, joining. (#selendroid)
