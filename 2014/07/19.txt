@@ -6,3 +6,4 @@
 [2014-07-19 06:57:03] operatiay, quitting. (Ping timeout: 240 seconds)
 [2014-07-19 08:41:27] ddary, joining. (#selendroid)
 [2014-07-19 08:44:56] ddary, quitting. (Client Quit)
+[2014-07-19 08:53:52] lukeis, quitting. (Ping timeout: 260 seconds)
