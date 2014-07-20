@@ -16,3 +16,4 @@
 [2014-07-20 15:10:10] operatiay, quitting. (Ping timeout: 240 seconds)
 [2014-07-20 19:07:48] operatiay, joining. (#selendroid)
 [2014-07-20 19:12:11] operatiay, quitting. (Ping timeout: 240 seconds)
+[2014-07-20 21:18:09] detronizator, quitting. (Quit: ZNC - http://znc.in)
