@@ -1,1 +1,2 @@
 [2014-07-20 03:01:01] operatiay, joining. (#selendroid)
+[2014-07-20 03:05:24] operatiay, quitting. (Ping timeout: 260 seconds)
