@@ -4,3 +4,5 @@
 [2014-07-20 06:42:00] ddary, quitting. (Client Quit)
 [2014-07-20 07:01:43] ddary, joining. (#selendroid)
 [2014-07-20 07:03:01] operatiay, joining. (#selendroid)
+[2014-07-20 07:07:09] operatiay, quitting. (Ping timeout: 240 seconds)
+[2014-07-20 07:07:20] ddary, quitting. (Quit: ddary)
