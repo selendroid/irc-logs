@@ -21,3 +21,4 @@
 [2014-07-21 17:29:14] lukeis, joining. (#selendroid)
 [2014-07-21 18:19:30] operatiay, joining. (#selendroid)
 [2014-07-21 18:24:06] operatiay, quitting. (Ping timeout: 250 seconds)
+[2014-07-21 18:26:59] ddary: hi all
