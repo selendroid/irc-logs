@@ -9,3 +9,6 @@
 [2014-07-21 12:25:35] operatiay, joining. (#selendroid)
 [2014-07-21 12:27:22] sergey__, joining. (#selendroid)
 [2014-07-21 12:28:28] sergey__: Hi everybody, can I test web app for Android Chrome with Selendroid?
+[2014-07-21 14:40:04] operatiay, quitting. (Remote host closed the connection)
+[2014-07-21 14:43:38] sergey__, leaving. (#selendroid)
+[2014-07-21 14:43:57] sergey__, joining. (#selendroid)
