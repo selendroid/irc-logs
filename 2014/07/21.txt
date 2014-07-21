@@ -25,3 +25,4 @@
 [2014-07-21 18:41:28] ddary: have to leave now, sorry.
 [2014-07-21 18:41:32] ddary, quitting. (Quit: Page closed)
 [2014-07-21 18:46:53] jlipps, joining. (#selendroid)
+[2014-07-21 20:22:32] jlipps, leaving. (#selendroid)
