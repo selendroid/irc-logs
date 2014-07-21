@@ -13,3 +13,4 @@
 [2014-07-21 14:43:38] sergey__, leaving. (#selendroid)
 [2014-07-21 14:43:57] sergey__, joining. (#selendroid)
 [2014-07-21 14:49:39] sergey__, quitting. (Read error: Connection reset by peer)
+[2014-07-21 14:55:32] operatiay, joining. (#selendroid)
