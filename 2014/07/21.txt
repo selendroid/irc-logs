@@ -28,3 +28,5 @@
 [2014-07-21 20:22:32] jlipps, leaving. (#selendroid)
 [2014-07-21 21:00:13] lukeis, quitting. (Ping timeout: 240 seconds)
 [2014-07-21 21:07:49] detronizator, joining. (#selendroid)
+[2014-07-21 23:22:19] lukeis, joining. (#selendroid)
+[2014-07-21 23:24:02] lukeis1, joining. (#selendroid)
