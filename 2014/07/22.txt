@@ -5,3 +5,4 @@
 [2014-07-22 05:46:51] ddary, joining. (#selendroid)
 [2014-07-22 06:12:03] ddary: :log
 [2014-07-22 06:12:11] ddary: :log
+[2014-07-22 06:24:06] operatiay, joining. (#selendroid)
