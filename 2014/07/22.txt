@@ -22,3 +22,8 @@
 [2014-07-22 20:13:37] ddary, joining. (#selendroid)
 [2014-07-22 20:18:50] ddary: Hi lukeis
 [2014-07-22 20:45:01] ddary: @lukeis yt?
+[2014-07-22 20:51:13] lukeis: ddary: am now :)
+[2014-07-22 20:51:36] ddary: :-)
+[2014-07-22 20:51:49] ddary: have you seen my comments?
+[2014-07-22 20:52:00] ddary: it seems like now the test is green
+[2014-07-22 20:54:04] operatiay, joining. (#selendroid)
