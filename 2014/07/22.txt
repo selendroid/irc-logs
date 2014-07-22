@@ -8,3 +8,6 @@
 [2014-07-22 06:24:06] operatiay, joining. (#selendroid)
 [2014-07-22 06:27:41] ddary: :logs
 [2014-07-22 06:28:57] operatiay, quitting. (Ping timeout: 250 seconds)
+[2014-07-22 06:36:15] selendroidbot, joining. (#selendroid)
+[2014-07-22 06:36:21] ddary: :log
+[2014-07-22 06:36:40] ddary, quitting. (Quit: ddary)
