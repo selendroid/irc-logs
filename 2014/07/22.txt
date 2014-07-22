@@ -31,3 +31,12 @@
 [2014-07-22 20:58:39] operatiay, quitting. (Ping timeout: 250 seconds)
 [2014-07-22 20:58:58] ddary: if you are fine i would merge it in
 [2014-07-22 20:59:15] lukeis: merge it ;)
+[2014-07-22 21:00:02] selendroid-git, joining. (#selendroid)
+[2014-07-22 21:00:02] selendroid-git: [selendroid] DominikDary pushed 13 new commits to master: http://git.io/PW4ceA
+[2014-07-22 21:00:02] selendroid-git: selendroid/master 53f4326 Dominik Dary: Replacing Webbit by netty.
+[2014-07-22 21:00:02] selendroid-git: selendroid/master 44ff238 Dominik Dary: Adding latest version ddmlib.
+[2014-07-22 21:00:02] selendroid-git: selendroid/master 3747c57 Dominik Dary: Fixing deprecation warnings.
+[2014-07-22 21:00:02] selendroid-git, leaving. (#selendroid)
+[2014-07-22 21:00:13] ddary: and there it is
+[2014-07-22 21:03:22] lukeis: nice… i want my intern's code to finish review ( #485 ) and then a release?
+[2014-07-22 21:03:44] lukeis: what? the bot didn't work? :)
