@@ -12,3 +12,5 @@
 [2014-07-22 06:36:21] ddary: :log
 [2014-07-22 06:36:40] ddary, quitting. (Quit: ddary)
 [2014-07-22 10:32:28] operatiay, joining. (#selendroid)
+[2014-07-22 11:54:48] sirsteve, quitting. (*.net *.split)
+[2014-07-22 11:55:00] sirsteve, joining. (#selendroid)
