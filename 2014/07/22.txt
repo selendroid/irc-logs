@@ -3,3 +3,5 @@
 [2014-07-22 02:22:54] operatiay, joining. (#selendroid)
 [2014-07-22 02:27:16] operatiay, quitting. (Ping timeout: 250 seconds)
 [2014-07-22 05:46:51] ddary, joining. (#selendroid)
+[2014-07-22 06:12:03] ddary: :log
+[2014-07-22 06:12:11] ddary: :log
