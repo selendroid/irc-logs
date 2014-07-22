@@ -27,3 +27,7 @@
 [2014-07-22 20:51:49] ddary: have you seen my comments?
 [2014-07-22 20:52:00] ddary: it seems like now the test is green
 [2014-07-22 20:54:04] operatiay, joining. (#selendroid)
+[2014-07-22 20:56:41] lukeis: haven't looked yet…. but yay?!
+[2014-07-22 20:58:39] operatiay, quitting. (Ping timeout: 250 seconds)
+[2014-07-22 20:58:58] ddary: if you are fine i would merge it in
+[2014-07-22 20:59:15] lukeis: merge it ;)
