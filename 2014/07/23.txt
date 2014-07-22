@@ -1,3 +1,4 @@
 [2014-07-23 00:32:46] lukeis, joining. (#selendroid)
 [2014-07-23 00:55:48] operatiay, joining. (#selendroid)
 [2014-07-23 00:57:33] lukeis, quitting. (Quit: Leaving.)
+[2014-07-23 01:00:35] operatiay, quitting. (Ping timeout: 264 seconds)
