@@ -40,3 +40,10 @@
 [2014-07-22 21:00:13] ddary: and there it is
 [2014-07-22 21:03:22] lukeis: nice… i want my intern's code to finish review ( #485 ) and then a release?
 [2014-07-22 21:03:44] lukeis: what? the bot didn't work? :)
+[2014-07-22 21:06:23] ddary: yeah, i had to restart the bot this early morning
+[2014-07-22 21:06:35] ddary: was not responding
+[2014-07-22 21:06:42] ddary: release sounds good
+[2014-07-22 21:07:11] ddary: one thing we can do is to wait for a day and see if someone has issues with the snapshot version
+[2014-07-22 21:08:05] ddary: puh
+[2014-07-22 21:08:21] ddary: we have a green build
+[2014-07-22 21:08:32] ddary: :D
