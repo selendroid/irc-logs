@@ -2,3 +2,5 @@
 [2014-07-23 00:55:48] operatiay, joining. (#selendroid)
 [2014-07-23 00:57:33] lukeis, quitting. (Quit: Leaving.)
 [2014-07-23 01:00:35] operatiay, quitting. (Ping timeout: 264 seconds)
+[2014-07-23 01:36:43] jlipps, quitting. (Remote host closed the connection)
+[2014-07-23 01:39:35] jlipps, joining. (#selendroid)
