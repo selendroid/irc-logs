@@ -27,3 +27,8 @@
 [2014-07-23 19:43:15] selendroid-git: selendroid/master ae88e44 Matthew Normyle: Created functionality to allow user to read call logs using ReadCallLog handler and associated endpoint....
 [2014-07-23 19:43:15] selendroid-git: selendroid/master 1b9ba59 Matthew Normyle: Made changes to selendroid-client to allow add call log and read call logs features.
 [2014-07-23 19:43:15] selendroid-git, leaving. (#selendroid)
+[2014-07-23 19:52:44] travis-ci, joining. (#selendroid)
+[2014-07-23 19:52:44] travis-ci: [travis-ci] selendroid/selendroid#276 (master - 9c41aa5 : Luke Inman-Semerau): The build passed.
+[2014-07-23 19:52:44] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/08ccefa955c3...9c41aa545105
+[2014-07-23 19:52:44] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/30676237
+[2014-07-23 19:52:44] travis-ci, leaving. (#selendroid)
