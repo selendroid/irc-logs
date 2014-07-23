@@ -18,3 +18,4 @@
 [2014-07-23 15:11:20] operatiay: :note ddary Hi Dominik, great news that you've managed to find the issue in the netty migration! what about the inspector fetching large trees?
 [2014-07-23 17:51:26] lukeis, joining. (#selendroid)
 [2014-07-23 18:17:17] operatiay, quitting. (Remote host closed the connection)
+[2014-07-23 18:26:46] lukeis, quitting. (Quit: Leaving.)
