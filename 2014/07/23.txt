@@ -15,3 +15,4 @@
 [2014-07-23 12:27:59] lukeis, quitting. (Quit: Leaving.)
 [2014-07-23 12:29:32] smikloso, quitting. (Ping timeout: 260 seconds)
 [2014-07-23 12:40:01] smikloso, joining. (#selendroid)
+[2014-07-23 15:11:20] operatiay: :note ddary Hi Dominik, great news that you've managed to find the issue in the netty migration! what about the inspector fetching large trees?
