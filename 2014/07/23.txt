@@ -21,3 +21,9 @@
 [2014-07-23 18:26:46] lukeis, quitting. (Quit: Leaving.)
 [2014-07-23 19:07:29] smikloso, quitting. (Quit: Leaving.)
 [2014-07-23 19:39:14] lukeis, joining. (#selendroid)
+[2014-07-23 19:43:15] selendroid-git, joining. (#selendroid)
+[2014-07-23 19:43:15] selendroid-git: [selendroid] lukeis pushed 13 new commits to master: http://git.io/IPKxXw
+[2014-07-23 19:43:15] selendroid-git: selendroid/master 10dcfd5 Matthew Normyle: Added a feature that allows testers to add records to call log in device....
+[2014-07-23 19:43:15] selendroid-git: selendroid/master ae88e44 Matthew Normyle: Created functionality to allow user to read call logs using ReadCallLog handler and associated endpoint....
+[2014-07-23 19:43:15] selendroid-git: selendroid/master 1b9ba59 Matthew Normyle: Made changes to selendroid-client to allow add call log and read call logs features.
+[2014-07-23 19:43:15] selendroid-git, leaving. (#selendroid)
