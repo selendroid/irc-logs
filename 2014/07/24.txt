@@ -15,3 +15,4 @@
 [2014-07-24 15:27:14] selendroid-git: [selendroid] lragnarsson opened pull request #498: Removed check for enabled property in isDisplayed() (master...isDisplayed_fix) http://git.io/5zOZow
 [2014-07-24 15:27:14] selendroid-git, leaving. (#selendroid)
 [2014-07-24 16:39:45] operatiay, quitting. (Remote host closed the connection)
+[2014-07-24 17:43:58] lukeis, joining. (#selendroid)
