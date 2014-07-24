@@ -10,3 +10,4 @@
 [2014-07-25 00:47:24] lukeis: we did much more heavily than we currently do
 [2014-07-25 00:47:34] lukeis: it's "stable" for us, so we haven't had to do much
 [2014-07-25 00:47:39] AutomatedTester: that will do for me
+[2014-07-25 01:04:13] lukeis, quitting. (Quit: Leaving.)
