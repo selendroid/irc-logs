@@ -2,3 +2,11 @@
 [2014-07-25 00:44:11] AutomatedTester: lukeis: does ddary contributed to selendroid as part of Adobe or as an individual
 [2014-07-25 00:44:20] AutomatedTester: also what companies contribute to this project
 [2014-07-25 00:44:40] lukeis: as an individual now
+[2014-07-25 00:46:03] lukeis: AutomatedTester: Facebook / ebay … and other people from smallish? companies… not sure where everyone works :)
+[2014-07-25 00:46:17] AutomatedTester: and SalesForce
+[2014-07-25 00:46:27] AutomatedTester: Looking for "big tech" companies
+[2014-07-25 00:46:30] lukeis: but as it goes lately… we're the most active contributors (salesforce that is)
+[2014-07-25 00:47:12] AutomatedTester: does Salesforce contribute to ios-driver?
+[2014-07-25 00:47:24] lukeis: we did much more heavily than we currently do
+[2014-07-25 00:47:34] lukeis: it's "stable" for us, so we haven't had to do much
+[2014-07-25 00:47:39] AutomatedTester: that will do for me
