@@ -1,1 +1,4 @@
 [2014-07-25 00:00:39] jlipps, joining. (#selendroid)
+[2014-07-25 00:44:11] AutomatedTester: lukeis: does ddary contributed to selendroid as part of Adobe or as an individual
+[2014-07-25 00:44:20] AutomatedTester: also what companies contribute to this project
+[2014-07-25 00:44:40] lukeis: as an individual now
