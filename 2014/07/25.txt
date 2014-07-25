@@ -46,3 +46,4 @@
 [2014-07-25 20:41:25] lukeis: awesome, thanks
 [2014-07-25 20:41:32] lukeis: my intern will be happy to hear that ;)
 [2014-07-25 20:41:42] lukeis: (since he has his stuff pending release)
+[2014-07-25 22:17:23] lukeis, quitting. (Ping timeout: 264 seconds)
