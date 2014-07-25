@@ -29,3 +29,4 @@
 [2014-07-25 11:05:00] operatiay, quitting. (Ping timeout: 250 seconds)
 [2014-07-25 11:49:22] keltan, quitting. (Ping timeout: 246 seconds)
 [2014-07-25 12:22:42] operatiay, joining. (#selendroid)
+[2014-07-25 16:19:03] TddDoctor, quitting. (Ping timeout: 240 seconds)
