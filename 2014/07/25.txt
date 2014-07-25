@@ -25,3 +25,5 @@
 [2014-07-25 09:24:46] TddDoctor: what could be the problem
 [2014-07-25 09:53:47] smikloso, joining. (#selendroid)
 [2014-07-25 10:19:14] keltan, joining. (#selendroid)
+[2014-07-25 11:00:31] operatiay, joining. (#selendroid)
+[2014-07-25 11:05:00] operatiay, quitting. (Ping timeout: 250 seconds)
