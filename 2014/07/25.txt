@@ -24,3 +24,4 @@
 [2014-07-25 09:24:35] TddDoctor: .............
 [2014-07-25 09:24:46] TddDoctor: what could be the problem
 [2014-07-25 09:53:47] smikloso, joining. (#selendroid)
+[2014-07-25 10:19:14] keltan, joining. (#selendroid)
