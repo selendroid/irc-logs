@@ -36,3 +36,5 @@
 [2014-07-25 19:03:07] lukeis, joining. (#selendroid)
 [2014-07-25 20:26:44] operatiay, joining. (#selendroid)
 [2014-07-25 20:31:10] operatiay, quitting. (Ping timeout: 255 seconds)
+[2014-07-25 20:39:44] jlipps: hey lukeis when are you guys planning on releasing 0.11?
+[2014-07-25 20:39:54] lukeis: yes. ;)
