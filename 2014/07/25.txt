@@ -38,3 +38,11 @@
 [2014-07-25 20:31:10] operatiay, quitting. (Ping timeout: 255 seconds)
 [2014-07-25 20:39:44] jlipps: hey lukeis when are you guys planning on releasing 0.11?
 [2014-07-25 20:39:54] lukeis: yes. ;)
+[2014-07-25 20:40:09] jlipps: sounds good! i'll wait for "yes" then
+[2014-07-25 20:40:23] lukeis: i would guess next week
+[2014-07-25 20:40:30] jlipps: ok cool
+[2014-07-25 20:40:31] lukeis: when i find a few moments ;)
+[2014-07-25 20:41:11] jlipps: let me know when you do! i'll get it into appium asap
+[2014-07-25 20:41:25] lukeis: awesome, thanks
+[2014-07-25 20:41:32] lukeis: my intern will be happy to hear that ;)
+[2014-07-25 20:41:42] lukeis: (since he has his stuff pending release)
