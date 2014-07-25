@@ -33,3 +33,4 @@
 [2014-07-25 16:24:57] operatiay, quitting. (Remote host closed the connection)
 [2014-07-25 17:00:26] smikloso, leaving. (#selendroid)
 [2014-07-25 18:26:41] jlipps, joining. (#selendroid)
+[2014-07-25 19:03:07] lukeis, joining. (#selendroid)
