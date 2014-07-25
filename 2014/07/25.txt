@@ -49,3 +49,4 @@
 [2014-07-25 22:17:23] lukeis, quitting. (Ping timeout: 264 seconds)
 [2014-07-25 23:18:59] lukeis, joining. (#selendroid)
 [2014-07-25 23:23:24] lukeis, quitting. (Ping timeout: 250 seconds)
+[2014-07-25 23:28:13] lukeis, joining. (#selendroid)
