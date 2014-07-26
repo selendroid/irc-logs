@@ -8,3 +8,4 @@
 [2014-07-26 10:49:53] ddary: :note operatiay I’m not aware that there is a bug. can you provide a sample? when I tried with a large webseite the full html source code was displayed in the inspector.
 [2014-07-26 10:50:01] ddary, quitting. (Client Quit)
 [2014-07-26 16:04:09] smccarthy, joining. (#selendroid)
+[2014-07-26 17:06:19] smccarthy, quitting. (Quit: Leaving...)
