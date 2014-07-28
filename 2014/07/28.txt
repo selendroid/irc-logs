@@ -57,3 +57,4 @@
 [2014-07-28 21:36:11] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/31073214
 [2014-07-28 21:36:11] travis-ci, leaving. (#selendroid)
 [2014-07-28 22:02:23] lukeis: :note ddary nope, haven't seen an issue with large object tree… of course I don't think we have one in our app (or i haven't encountered it)… then again, that's a potential performance red flag to us and we'd probably work on optimizing the view rather than fix selendroid (if there was an issue :) )
+[2014-07-28 22:33:38] jlipps, quitting. (Quit: Leaving.)
