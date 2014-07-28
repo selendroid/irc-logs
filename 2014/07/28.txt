@@ -49,3 +49,5 @@
 [2014-07-28 21:21:39] operatiay, joining. (#selendroid)
 [2014-07-28 21:24:59] sirsteve: it missed the second note apparently..
 [2014-07-28 21:25:00] sirsteve: < ddary> :note operatiay have added now some special characters: https://github.com/selendroid/selendroid/commit/249e501c9327660c1973d6d6aca5157e9d28cb3a this works as well fine on my machine. On yours as well?
+[2014-07-28 21:25:04] sirsteve: < selendroidbot> ok!
+[2014-07-28 21:26:24] operatiay, quitting. (Ping timeout: 260 seconds)
