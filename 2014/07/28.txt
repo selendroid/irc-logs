@@ -8,3 +8,4 @@
 [2014-07-28 09:46:19] operatiay: to the selendroid test app.
 [2014-07-28 10:30:13] smikloso, joining. (#selendroid)
 [2014-07-28 10:37:05] operatiay, quitting. (Remote host closed the connection)
+[2014-07-28 10:52:39] operatiay, joining. (#selendroid)
