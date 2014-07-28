@@ -46,3 +46,6 @@
 [2014-07-28 21:17:07] ddary: :note operatiay have added now some special characters: https://github.com/selendroid/selendroid/commit/249e501c9327660c1973d6d6aca5157e9d28cb3a this works as well fine on my machine. On yours as well?
 [2014-07-28 21:19:29] ddary: lukeis: going offline now. have a good day and for me it looks like we are not having issues with large object tree in inspector.
 [2014-07-28 21:19:39] ddary, leaving. (#selendroid)
+[2014-07-28 21:21:39] operatiay, joining. (#selendroid)
+[2014-07-28 21:24:59] sirsteve: it missed the second note apparently..
+[2014-07-28 21:25:00] sirsteve: < ddary> :note operatiay have added now some special characters: https://github.com/selendroid/selendroid/commit/249e501c9327660c1973d6d6aca5157e9d28cb3a this works as well fine on my machine. On yours as well?
