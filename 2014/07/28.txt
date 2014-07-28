@@ -39,3 +39,10 @@
 [2014-07-28 21:14:47] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/9c41aa545105...08c5d535fcbd
 [2014-07-28 21:14:48] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/31072181
 [2014-07-28 21:14:48] travis-ci, leaving. (#selendroid)
+[2014-07-28 21:16:20] selendroid-git, joining. (#selendroid)
+[2014-07-28 21:16:20] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/-b0QPA
+[2014-07-28 21:16:20] selendroid-git: selendroid/master 249e501 Dominik Dary: Adding special characters to large activity.
+[2014-07-28 21:16:20] selendroid-git, leaving. (#selendroid)
+[2014-07-28 21:17:07] ddary: :note operatiay have added now some special characters: https://github.com/selendroid/selendroid/commit/249e501c9327660c1973d6d6aca5157e9d28cb3a this works as well fine on my machine. On yours as well?
+[2014-07-28 21:19:29] ddary: lukeis: going offline now. have a good day and for me it looks like we are not having issues with large object tree in inspector.
+[2014-07-28 21:19:39] ddary, leaving. (#selendroid)
