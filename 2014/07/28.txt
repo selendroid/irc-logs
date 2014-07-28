@@ -16,3 +16,4 @@
 [2014-07-28 14:54:03] ishmael, joining. (#selendroid)
 [2014-07-28 16:38:45] jlipps, joining. (#selendroid)
 [2014-07-28 16:59:30] EMike, joining. (#selendroid)
+[2014-07-28 17:00:35] EMike, quitting. (Client Quit)
