@@ -33,3 +33,9 @@
 [2014-07-28 21:07:50] selendroid-git: selendroid/master 08c5d53 Dominik Dary: Adding large activity....
 [2014-07-28 21:07:50] selendroid-git, leaving. (#selendroid)
 [2014-07-28 21:09:35] ddary: :note operatiay Please checkout this commit https://github.com/selendroid/selendroid/commit/08c5d535fcbde773e2e1e98d101966c168bb051a  This activity has 400 lines and all elements are in my case displayed in the tree element of the inspector. Do you may have an element with a special character in the tree?
+[2014-07-28 21:10:30] ddary: lukeis: have you seen any issues with large object trees like ^^?
+[2014-07-28 21:14:47] travis-ci, joining. (#selendroid)
+[2014-07-28 21:14:47] travis-ci: [travis-ci] selendroid/selendroid#278 (master - 08c5d53 : Dominik Dary): The build passed.
+[2014-07-28 21:14:47] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/9c41aa545105...08c5d535fcbd
+[2014-07-28 21:14:48] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/31072181
+[2014-07-28 21:14:48] travis-ci, leaving. (#selendroid)
