@@ -7,3 +7,4 @@
 [2014-07-28 09:46:19] operatiay: :note ddary the scenario is a large native structure rather than a website. a test for this would be to dynamically create some hundreds of items and load it to the inspector (or the corresponding http call). Unfortunately I am not familiar with writing android code to do it easily (would have to google for it) and the time schedule doesn't allow it now... should noone do it till I get some time to do it, I'll try it out and add a test
 [2014-07-28 09:46:19] operatiay: to the selendroid test app.
 [2014-07-28 10:30:13] smikloso, joining. (#selendroid)
+[2014-07-28 10:37:05] operatiay, quitting. (Remote host closed the connection)
