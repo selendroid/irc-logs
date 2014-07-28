@@ -18,3 +18,4 @@
 [2014-07-28 16:59:30] EMike, joining. (#selendroid)
 [2014-07-28 17:00:35] EMike, quitting. (Client Quit)
 [2014-07-28 17:06:25] ishmael, quitting. (Ping timeout: 272 seconds)
+[2014-07-28 17:23:49] lukeis, joining. (#selendroid)
