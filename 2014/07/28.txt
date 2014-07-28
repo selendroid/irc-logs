@@ -27,3 +27,4 @@
 [2014-07-28 19:21:02] operatiay, quitting. (Remote host closed the connection)
 [2014-07-28 19:55:47] smikloso, leaving. (#selendroid)
 [2014-07-28 20:20:58] ddary, joining. (#selendroid)
+[2014-07-28 20:27:56] ddary: :note operatiay I see. This week is pretty packt. Not sure how much I can do. I’ll try my best.
