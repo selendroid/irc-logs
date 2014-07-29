@@ -20,3 +20,4 @@
 [2014-07-29 10:23:47] smikloso, joining. (#selendroid)
 [2014-07-29 10:48:32] operatiay, quitting. (Remote host closed the connection)
 [2014-07-29 10:49:07] operatiay, joining. (#selendroid)
+[2014-07-29 10:53:30] operatiay, quitting. (Ping timeout: 260 seconds)
