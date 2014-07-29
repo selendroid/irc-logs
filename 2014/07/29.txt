@@ -63,3 +63,6 @@
 [2014-07-29 21:29:50] ddary, quitting. (Client Quit)
 [2014-07-29 22:11:35] lukeis, quitting. (Quit: Leaving.)
 [2014-07-29 22:11:53] lukeis, joining. (#selendroid)
+[2014-07-29 22:43:22] selendroid-git, joining. (#selendroid)
+[2014-07-29 22:43:22] selendroid-git: [selendroid] lukeis closed pull request #498: Removed check for enabled property in isDisplayed() (master...isDisplayed_fix) http://git.io/5zOZow
+[2014-07-29 22:43:23] selendroid-git, leaving. (#selendroid)
