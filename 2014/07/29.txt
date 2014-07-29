@@ -11,3 +11,6 @@
 [2014-07-29 06:20:34] ddary: :note lukeis thanks. The important thing for me is that selendroid responses with the full complete response and works as well with large trees. we had before this webbit bug, but now with netty for me I’m confident that there is not such a bug.
 [2014-07-29 06:36:35] ddary, quitting. (Quit: ddary)
 [2014-07-29 07:09:10] ishmael, joining. (#selendroid)
+[2014-07-29 09:15:57] baluubas, joining. (#selendroid)
+[2014-07-29 09:17:55] baluubas: Hi, my trying to get selendroid up and running with our existing tests but we seem to have som trouble with execute_async command
+[2014-07-29 09:19:02] baluubas: the command just timeout after a while (seems like it's never executed at all)
