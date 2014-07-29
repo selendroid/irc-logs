@@ -48,3 +48,7 @@
 [2014-07-29 19:47:51] jlipps, quitting. (Read error: Connection reset by peer)
 [2014-07-29 19:48:04] jlipps, joining. (#selendroid)
 [2014-07-29 19:50:10] lukeis1, changing nick to lukeis.
+[2014-07-29 20:35:24] ddary, joining. (#selendroid)
+[2014-07-29 20:38:22] lukeis: ohai ddary
+[2014-07-29 20:38:32] ddary: hi lukeis
+[2014-07-29 20:38:51] ddary: the only thing before the relase is this open PR
