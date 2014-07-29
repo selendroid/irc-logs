@@ -28,3 +28,4 @@
 [2014-07-29 12:03:45] operatiay, joining. (#selendroid)
 [2014-07-29 12:03:59] operatia_, joining. (#selendroid)
 [2014-07-29 12:08:02] operatiay, quitting. (Ping timeout: 250 seconds)
+[2014-07-29 13:12:45] ishmael, quitting. (Ping timeout: 255 seconds)
