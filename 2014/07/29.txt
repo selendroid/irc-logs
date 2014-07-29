@@ -37,3 +37,5 @@
 [2014-07-29 16:08:22] ishmael, quitting. (Ping timeout: 240 seconds)
 [2014-07-29 17:52:18] lukeis, joining. (#selendroid)
 [2014-07-29 17:53:12] lukeis: :note ddary great, so a release is due! :) if you don't do it, i'll do it thursday
+[2014-07-29 18:14:23] operatiay, quitting. (Remote host closed the connection)
+[2014-07-29 18:14:55] operatiay, joining. (#selendroid)
