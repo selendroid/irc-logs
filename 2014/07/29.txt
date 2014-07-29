@@ -16,3 +16,4 @@
 [2014-07-29 09:19:02] baluubas: the command just timeout after a while (seems like it's never executed at all)
 [2014-07-29 09:26:42] operatiay, joining. (#selendroid)
 [2014-07-29 09:31:15] operatiay, quitting. (Ping timeout: 256 seconds)
+[2014-07-29 09:42:03] operatiay, joining. (#selendroid)
