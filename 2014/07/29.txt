@@ -52,3 +52,5 @@
 [2014-07-29 20:38:22] lukeis: ohai ddary
 [2014-07-29 20:38:32] ddary: hi lukeis
 [2014-07-29 20:38:51] ddary: the only thing before the relase is this open PR
+[2014-07-29 20:43:11] ddary: lukeis: are you fine too merging it in?
+[2014-07-29 20:43:28] lukeis: i haven't looked yet :)
