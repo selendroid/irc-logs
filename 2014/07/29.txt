@@ -5,3 +5,5 @@
 [2014-07-29 03:29:14] operatiay, quitting. (Ping timeout: 260 seconds)
 [2014-07-29 05:25:25] operatiay, joining. (#selendroid)
 [2014-07-29 05:29:51] operatiay, quitting. (Ping timeout: 256 seconds)
+[2014-07-29 06:03:13] lukeis, joining. (#selendroid)
+[2014-07-29 06:03:18] lukeis, quitting. (Client Quit)
