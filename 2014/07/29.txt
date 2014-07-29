@@ -15,3 +15,4 @@
 [2014-07-29 09:17:55] baluubas: Hi, my trying to get selendroid up and running with our existing tests but we seem to have som trouble with execute_async command
 [2014-07-29 09:19:02] baluubas: the command just timeout after a while (seems like it's never executed at all)
 [2014-07-29 09:26:42] operatiay, joining. (#selendroid)
+[2014-07-29 09:31:15] operatiay, quitting. (Ping timeout: 256 seconds)
