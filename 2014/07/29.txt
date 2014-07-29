@@ -66,3 +66,8 @@
 [2014-07-29 22:43:22] selendroid-git, joining. (#selendroid)
 [2014-07-29 22:43:22] selendroid-git: [selendroid] lukeis closed pull request #498: Removed check for enabled property in isDisplayed() (master...isDisplayed_fix) http://git.io/5zOZow
 [2014-07-29 22:43:23] selendroid-git, leaving. (#selendroid)
+[2014-07-29 22:53:10] travis-ci, joining. (#selendroid)
+[2014-07-29 22:53:10] travis-ci: [travis-ci] selendroid/selendroid#280 (master - 59f9de5 : Luke Inman-Semerau): The build was broken.
+[2014-07-29 22:53:10] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/249e501c9327...59f9de51b537
+[2014-07-29 22:53:10] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/31180263
+[2014-07-29 22:53:10] travis-ci, leaving. (#selendroid)
