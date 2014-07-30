@@ -40,3 +40,6 @@
 [2014-07-30 14:01:53] TddDoctor, quitting. (Quit: No Ping reply in 180 seconds.)
 [2014-07-30 14:03:00] ishmael, joining. (#selendroid)
 [2014-07-30 14:03:18] operatiay, quitting. (Remote host closed the connection)
+[2014-07-30 14:07:18] operatiay, joining. (#selendroid)
+[2014-07-30 14:07:18] operatiay, quitting. (Remote host closed the connection)
+[2014-07-30 14:07:34] operatiay, joining. (#selendroid)
