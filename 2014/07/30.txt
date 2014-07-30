@@ -58,3 +58,5 @@
 [2014-07-30 17:46:19] operatiay, joining. (#selendroid)
 [2014-07-30 17:50:46] operatiay, quitting. (Ping timeout: 250 seconds)
 [2014-07-30 17:54:53] jlipps, joining. (#selendroid)
+[2014-07-30 18:06:10] jlipps, quitting. (Quit: Leaving.)
+[2014-07-30 18:07:17] jlipps, joining. (#selendroid)
