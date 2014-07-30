@@ -9,3 +9,4 @@
 [2014-07-30 04:15:16] baluubas, quitting. (Ping timeout: 246 seconds)
 [2014-07-30 05:13:48] operatiay, joining. (#selendroid)
 [2014-07-30 05:18:04] operatiay, quitting. (Ping timeout: 250 seconds)
+[2014-07-30 06:31:21] smccarthy, quitting. (Quit: Leaving...)
