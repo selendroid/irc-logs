@@ -37,3 +37,6 @@
 [2014-07-30 12:44:52] ishmael, joining. (#selendroid)
 [2014-07-30 12:52:18] TddDoctor, joining. (#selendroid)
 [2014-07-30 12:55:20] ishmael, quitting. (Ping timeout: 250 seconds)
+[2014-07-30 14:01:53] TddDoctor, quitting. (Quit: No Ping reply in 180 seconds.)
+[2014-07-30 14:03:00] ishmael, joining. (#selendroid)
+[2014-07-30 14:03:18] operatiay, quitting. (Remote host closed the connection)
