@@ -52,3 +52,5 @@
 [2014-07-30 16:46:15] smccarthy2, quitting. (Quit: Leaving...)
 [2014-07-30 17:05:21] operatiay, quitting. (Remote host closed the connection)
 [2014-07-30 17:05:53] operatiay, joining. (#selendroid)
+[2014-07-30 17:10:43] operatiay, quitting. (Ping timeout: 256 seconds)
+[2014-07-30 17:14:28] operatiay, joining. (#selendroid)
