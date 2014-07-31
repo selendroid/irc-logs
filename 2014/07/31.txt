@@ -35,3 +35,4 @@
 [2014-07-31 20:56:22] lukeis: ok… time to do that selendroid release ;)
 [2014-07-31 20:56:27] lukeis: jlipps: wink wink
 [2014-07-31 21:04:21] jlipps: woohoo!
+[2014-07-31 22:28:47] operatiay, joining. (#selendroid)
