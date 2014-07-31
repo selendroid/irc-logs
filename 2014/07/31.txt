@@ -4,3 +4,4 @@
 [2014-07-31 01:56:03] jlipps, quitting. (Client Quit)
 [2014-07-31 02:51:32] sirsteve, quitting. (Ping timeout: 245 seconds)
 [2014-07-31 02:53:30] sirsteve, joining. (#selendroid)
+[2014-07-31 03:02:43] operatiay, joining. (#selendroid)
