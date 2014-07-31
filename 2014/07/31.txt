@@ -16,3 +16,10 @@
 [2014-07-31 16:12:30] ishmael, quitting. (Ping timeout: 260 seconds)
 [2014-07-31 16:21:16] operatiay, joining. (#selendroid)
 [2014-07-31 17:30:22] lukeis, joining. (#selendroid)
+[2014-07-31 18:02:40] ddary, joining. (#selendroid)
+[2014-07-31 18:02:49] ddary: hi lukeis
+[2014-07-31 18:03:30] lukeis: hi ddary
+[2014-07-31 18:04:16] ddary: I#m on the road this evening
+[2014-07-31 18:04:30] ddary: so I'm not able to do a release
+[2014-07-31 18:04:38] ddary: I can do it on the weekend
+[2014-07-31 18:04:51] lukeis: ok, i can do one today if you don't object to me doing so
