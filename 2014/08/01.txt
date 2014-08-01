@@ -28,3 +28,8 @@
 [2014-08-01 06:30:27] selendroid-git, leaving. (#selendroid)
 [2014-08-01 06:32:08] operatiay, joining. (#selendroid)
 [2014-08-01 06:36:33] operatiay, quitting. (Ping timeout: 240 seconds)
+[2014-08-01 06:42:24] travis-ci, joining. (#selendroid)
+[2014-08-01 06:42:24] travis-ci: [travis-ci] selendroid/selendroid#282 (master - 5b6eca8 : Luke Inman-Semerau): The build has errored.
+[2014-08-01 06:42:24] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/c5d0a0288e06...5b6eca839ba1
+[2014-08-01 06:42:24] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/31395064
+[2014-08-01 06:42:24] travis-ci, leaving. (#selendroid)
