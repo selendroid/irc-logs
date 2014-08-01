@@ -49,3 +49,4 @@
 [2014-08-01 13:08:16] operatiay, joining. (#selendroid)
 [2014-08-01 13:11:17] operatia_, joining. (#selendroid)
 [2014-08-01 13:11:20] operatiay, quitting. (Remote host closed the connection)
+[2014-08-01 13:53:42] ddary, joining. (#selendroid)
