@@ -22,3 +22,8 @@
 [2014-08-01 06:28:03] selendroid-git, joining. (#selendroid)
 [2014-08-01 06:28:03] selendroid-git: [selendroid] lukeis tagged 0.11.0 at master: http://git.io/z6dVIw
 [2014-08-01 06:28:03] selendroid-git, leaving. (#selendroid)
+[2014-08-01 06:30:27] selendroid-git, joining. (#selendroid)
+[2014-08-01 06:30:27] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/SIPaVw
+[2014-08-01 06:30:27] selendroid-git: selendroid/master 5b6eca8 Luke Inman-Semerau: bumping versions to 0.12.0-SNAPSHOT
+[2014-08-01 06:30:27] selendroid-git, leaving. (#selendroid)
+[2014-08-01 06:32:08] operatiay, joining. (#selendroid)
