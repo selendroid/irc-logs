@@ -36,3 +36,4 @@
 [2014-08-01 07:07:35] ishmael, joining. (#selendroid)
 [2014-08-01 07:19:55] smccarthy, quitting. (Quit: Leaving...)
 [2014-08-01 08:30:54] lukeis, quitting. (Quit: Leaving.)
+[2014-08-01 09:41:23] operatiay, joining. (#selendroid)
