@@ -59,3 +59,8 @@
 [2014-08-01 15:52:50] operatia_, quitting. (Ping timeout: 250 seconds)
 [2014-08-01 16:21:37] ishmael, quitting. (Ping timeout: 272 seconds)
 [2014-08-01 17:23:31] smccarthy, joining. (#selendroid)
+[2014-08-01 21:36:47] travis-ci, joining. (#selendroid)
+[2014-08-01 21:36:47] travis-ci: [travis-ci] selendroid/selendroid#282 (master - 5b6eca8 : Luke Inman-Semerau): The build was fixed.
+[2014-08-01 21:36:47] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/c5d0a0288e06...5b6eca839ba1
+[2014-08-01 21:36:47] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/31395064
+[2014-08-01 21:36:47] travis-ci, leaving. (#selendroid)
