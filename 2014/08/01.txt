@@ -8,3 +8,17 @@
 [2014-08-01 05:00:04] lukeis, quitting. (Ping timeout: 240 seconds)
 [2014-08-01 05:30:43] lukeis1, quitting. (Ping timeout: 255 seconds)
 [2014-08-01 05:52:51] lukeis, joining. (#selendroid)
+[2014-08-01 06:25:52] selendroid-git, joining. (#selendroid)
+[2014-08-01 06:25:52] selendroid-git: [selendroid] lukeis pushed 3 new commits to master: http://git.io/VFvqPw
+[2014-08-01 06:25:52] selendroid-git: selendroid/master b85c78a Luke Inman-Semerau: setting version to 0.11.0 for release
+[2014-08-01 06:25:52] selendroid-git: selendroid/master 48d8bd5 Luke Inman-Semerau: updating changelog
+[2014-08-01 06:25:52] selendroid-git: selendroid/master c5d0a02 Luke Inman-Semerau: 0.11 release (updates manifest)
+[2014-08-01 06:25:52] selendroid-git, leaving. (#selendroid)
+[2014-08-01 06:27:32] travis-ci, joining. (#selendroid)
+[2014-08-01 06:27:32] travis-ci: [travis-ci] selendroid/selendroid#281 (master - c5d0a02 : Luke Inman-Semerau): The build was broken.
+[2014-08-01 06:27:32] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/59f9de51b537...c5d0a0288e06
+[2014-08-01 06:27:32] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/31394858
+[2014-08-01 06:27:33] travis-ci, leaving. (#selendroid)
+[2014-08-01 06:28:03] selendroid-git, joining. (#selendroid)
+[2014-08-01 06:28:03] selendroid-git: [selendroid] lukeis tagged 0.11.0 at master: http://git.io/z6dVIw
+[2014-08-01 06:28:03] selendroid-git, leaving. (#selendroid)
