@@ -1,1 +1,2 @@
 [2014-08-03 07:22:02] smccarthy, quitting. (Quit: Leaving...)
+[2014-08-03 16:28:00] smccarthy, joining. (#selendroid)
