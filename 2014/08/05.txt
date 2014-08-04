@@ -26,3 +26,7 @@
 [2014-08-05 00:48:02] jlipps: lukeis:  stand by, running tests with same config with 0.10
 [2014-08-05 00:49:08] jlipps: lukeis:  ok weird, that failed too
 [2014-08-05 00:49:12] jlipps: maybe something in my setup changed
+[2014-08-05 01:33:14] jlipps: lukeis:  it works in 4.3, not in 4.4
+[2014-08-05 01:33:26] jlipps: that's what the issue is
+[2014-08-05 01:33:30] jlipps: no clue why it doesn't work in 4.4
+[2014-08-05 01:33:52] lukeis: chrome vs. default browser webview
