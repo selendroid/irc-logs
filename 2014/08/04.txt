@@ -3,3 +3,5 @@
 [2014-08-04 08:13:57] sirsteve, quitting. (Ping timeout: 245 seconds)
 [2014-08-04 08:15:08] sirsteve, joining. (#selendroid)
 [2014-08-04 10:11:42] smikloso, joining. (#selendroid)
+[2014-08-04 11:20:28] ishmael, quitting. (Quit: No Ping reply in 180 seconds.)
+[2014-08-04 11:20:51] ishmael, joining. (#selendroid)
