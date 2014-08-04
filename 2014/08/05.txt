@@ -30,3 +30,4 @@
 [2014-08-05 01:33:26] jlipps: that's what the issue is
 [2014-08-05 01:33:30] jlipps: no clue why it doesn't work in 4.4
 [2014-08-05 01:33:52] lukeis: chrome vs. default browser webview
+[2014-08-05 01:35:41] smccarthy, quitting. (Quit: Leaving...)
