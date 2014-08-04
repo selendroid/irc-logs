@@ -1,1 +1,24 @@
 [2014-08-05 00:24:49] jlipps, joining. (#selendroid)
+[2014-08-05 00:35:32] jlipps: ohai lukeis :-)
+[2014-08-05 00:35:43] jlipps: i'm running our selendroid tests on 0.11 and our /element/clear test is now failing
+[2014-08-05 00:36:00] jlipps: any known issues on your end?
+[2014-08-05 00:36:20] lukeis: not known :)
+[2014-08-05 00:36:27] lukeis: but i think that changed recently
+[2014-08-05 00:36:56] lukeis: or was logged? … i don't know :)
+[2014-08-05 00:37:21] jlipps: lukeis:  this is the error i get:
+[2014-08-05 00:37:22] jlipps: I/SELENDROID( 4969): io.selendroid.server.handler.ClearElement#handle:35 - Clear element command
+[2014-08-05 00:37:22] jlipps: I/SELENDROID( 4969): io.selendroid.server.model.SelendroidWebDriver#convertToJsArgs:162 - convertToJsArgs: {"ELEMENT":":wdc:1407191790561"}
+[2014-08-05 00:37:23] jlipps: I/SELENDROID( 4969): io.selendroid.server.model.SelendroidWebDriver#convertToJsArgs:105 - convertToJsArgs: {"ELEMENT":":wdc:1407191790561"}
+[2014-08-05 00:37:23] jlipps: I/SELENDROID( 4969): io.selendroid.server.model.SelendroidWebDriver#executeAtom:192 - jsResult: {"status":12,"value":{"message":"Element is not currently interactable and may not be manipulated"}}
+[2014-08-05 00:37:23] jlipps: E/SELENDROID( 4969): io.selendroid.util.SelendroidLogger#error:22 - error while clearing the element: : {"message":"Element is not currently interactable and may not be manipulated"}
+[2014-08-05 00:37:43] jlipps: i get that even if i click on the element successfully
+[2014-08-05 00:37:44] lukeis: well that's interesting
+[2014-08-05 00:37:46] jlipps: and even if i retry 20 times
+[2014-08-05 00:37:57] lukeis: this a web view element or native?
+[2014-08-05 00:38:02] jlipps: webview
+[2014-08-05 00:38:23] jlipps: at least, i got the element with elementById('name_input')
+[2014-08-05 00:38:36] lukeis: well that doesn't say anything ;)
+[2014-08-05 00:39:11] lukeis: but the trace says web… since it's trying to use an atom
+[2014-08-05 00:39:25] lukeis: i don't think the atoms have been updated though...
+[2014-08-05 00:39:55] jlipps: very odd. let me back down to 0.10 and make sure this doesn't repro there.
+[2014-08-05 00:40:01] jlipps: 0.10 was the last version we used, which i know is quite old
