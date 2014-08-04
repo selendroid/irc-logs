@@ -22,3 +22,7 @@
 [2014-08-05 00:39:25] lukeis: i don't think the atoms have been updated though...
 [2014-08-05 00:39:55] jlipps: very odd. let me back down to 0.10 and make sure this doesn't repro there.
 [2014-08-05 00:40:01] jlipps: 0.10 was the last version we used, which i know is quite old
+[2014-08-05 00:47:30] lukeis: jlipps: so what's even more odd is that the atom's haven't changed between 0.10 and 0.11 (at least we didn't import any new ones from the Selenium project). are you using the same device / api level you did before? :) (if you can remember)
+[2014-08-05 00:48:02] jlipps: lukeis:  stand by, running tests with same config with 0.10
+[2014-08-05 00:49:08] jlipps: lukeis:  ok weird, that failed too
+[2014-08-05 00:49:12] jlipps: maybe something in my setup changed
