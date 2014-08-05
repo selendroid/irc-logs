@@ -69,3 +69,14 @@
 [2014-08-05 18:59:47] jlipps, quitting. (Quit: Leaving.)
 [2014-08-05 19:00:09] jlipps, joining. (#selendroid)
 [2014-08-05 20:29:31] ddary, joining. (#selendroid)
+[2014-08-05 20:30:02] ddary: hia lukeis
+[2014-08-05 20:30:25] lukeis: hi ddary
+[2014-08-05 20:30:32] *lukeis currently having "fun" with ios'
+[2014-08-05 20:30:40] ddary: how are you?
+[2014-08-05 20:30:44] ddary: oh
+[2014-08-05 20:30:45] lukeis: tired!
+[2014-08-05 20:30:50] ddary: with ios-driver?
+[2014-08-05 20:31:00] ddary: or appium ;-)
+[2014-08-05 20:31:06] lukeis: yes, well i don't think the trouble is actually in ios-driver
+[2014-08-05 20:31:29] ddary: it is the platform :D
+[2014-08-05 20:32:02] lukeis: my current suspicion is that the machines we are running it on are under resource constraints
