@@ -45,3 +45,5 @@
 [2014-08-05 02:09:48] jlipps: our cloud is on strike!
 [2014-08-05 02:10:48] lukeis, quitting. (Ping timeout: 255 seconds)
 [2014-08-05 03:32:57] jlipps, quitting. (Quit: Leaving.)
+[2014-08-05 04:46:01] lukeis, joining. (#selendroid)
+[2014-08-05 04:47:42] lukeis1, joining. (#selendroid)
