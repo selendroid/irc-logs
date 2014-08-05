@@ -37,3 +37,6 @@
 [2014-08-05 01:54:06] jlipps: lukeis:  ok. in that case i humbly recommend that you guys test webview-based clear() with api level 19
 [2014-08-05 01:54:18] lukeis: :)
 [2014-08-05 01:54:49] lukeis: jlipps: i should say i have the intention of having selendroid switch to chromedriver for web view in api 19+
+[2014-08-05 01:55:26] jlipps: lukeis:  gotcha. what we already do i guess
+[2014-08-05 01:55:49] lukeis: of course that would only be in the standalone server and not the 'selendroid-server', which you use :)
+[2014-08-05 01:56:56] lukeis: jlipps: do you know anything about an iOS slow down in sauce labs? (or any performance issues there?)
