@@ -83,3 +83,6 @@
 [2014-08-05 20:35:46] ddary: yeah, i know what you mean
 [2014-08-05 20:35:52] ddary: not really fun
 [2014-08-05 20:46:57] ddary, quitting. (Quit: ddary)
+[2014-08-05 23:05:42] lukeis, quitting. (Ping timeout: 260 seconds)
+[2014-08-05 23:06:05] lukeis, joining. (#selendroid)
+[2014-08-05 23:07:49] lukeis1, joining. (#selendroid)
