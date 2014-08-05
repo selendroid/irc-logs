@@ -64,3 +64,4 @@
 [2014-08-05 16:11:23] ishmael, quitting. (Ping timeout: 264 seconds)
 [2014-08-05 16:54:58] smccarthy, joining. (#selendroid)
 [2014-08-05 17:27:44] lukeis, joining. (#selendroid)
+[2014-08-05 18:05:08] jlipps, joining. (#selendroid)
