@@ -61,3 +61,4 @@
 [2014-08-05 14:54:54] smikloso, leaving. (#selendroid)
 [2014-08-05 15:10:11] smikloso, joining. (#selendroid)
 [2014-08-05 15:47:16] smikloso, leaving. (#selendroid)
+[2014-08-05 16:11:23] ishmael, quitting. (Ping timeout: 264 seconds)
