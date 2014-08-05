@@ -54,3 +54,4 @@
 [2014-08-05 07:28:03] jlipps, quitting. (Quit: Leaving.)
 [2014-08-05 07:53:53] TddDoctor__, joining. (#selendroid)
 [2014-08-05 07:54:47] ishmael, quitting. (Ping timeout: 256 seconds)
+[2014-08-05 08:31:01] TddDoctor__, changing nick to TddDoctor.
