@@ -68,3 +68,4 @@
 [2014-08-05 18:27:41] lukeis: jlipps: yeah, i know "slow down" is generic… but we're seeing lots of simulator crashes and also a strange problem where sometimes ios-driver can't see the webviews anymore (like it can't create a socket connection to the WKRDP)… I'm working on gathering evidence to log a ticket ;)
 [2014-08-05 18:59:47] jlipps, quitting. (Quit: Leaving.)
 [2014-08-05 19:00:09] jlipps, joining. (#selendroid)
+[2014-08-05 20:29:31] ddary, joining. (#selendroid)
