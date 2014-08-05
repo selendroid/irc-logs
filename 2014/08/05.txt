@@ -40,3 +40,6 @@
 [2014-08-05 01:55:26] jlipps: lukeis:  gotcha. what we already do i guess
 [2014-08-05 01:55:49] lukeis: of course that would only be in the standalone server and not the 'selendroid-server', which you use :)
 [2014-08-05 01:56:56] lukeis: jlipps: do you know anything about an iOS slow down in sauce labs? (or any performance issues there?)
+[2014-08-05 02:09:14] jlipps: lukeis:  nothing that i know of has changed recently
+[2014-08-05 02:09:45] jlipps: "slow down" is a nice vague description :-)
+[2014-08-05 02:09:48] jlipps: our cloud is on strike!
