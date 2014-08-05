@@ -82,3 +82,4 @@
 [2014-08-05 20:32:02] lukeis: my current suspicion is that the machines we are running it on are under resource constraints
 [2014-08-05 20:35:46] ddary: yeah, i know what you mean
 [2014-08-05 20:35:52] ddary: not really fun
+[2014-08-05 20:46:57] ddary, quitting. (Quit: ddary)
