@@ -17,3 +17,4 @@
 [2014-08-06 15:15:33] TddDoctor, quitting. (Ping timeout: 256 seconds)
 [2014-08-06 15:22:26] TddDoctor, joining. (#selendroid)
 [2014-08-06 15:53:30] smccarthy, joining. (#selendroid)
+[2014-08-06 16:36:01] smccarthy, quitting. (Quit: Leaving...)
