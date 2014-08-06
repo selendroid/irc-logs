@@ -18,3 +18,4 @@
 [2014-08-06 15:22:26] TddDoctor, joining. (#selendroid)
 [2014-08-06 15:53:30] smccarthy, joining. (#selendroid)
 [2014-08-06 16:36:01] smccarthy, quitting. (Quit: Leaving...)
+[2014-08-06 17:39:06] lukeis, joining. (#selendroid)
