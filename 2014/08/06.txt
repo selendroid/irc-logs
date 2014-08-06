@@ -12,3 +12,4 @@
 [2014-08-06 09:45:26] 17SAARTC1, changing nick to TddDoctor.
 [2014-08-06 09:48:21] TddDoctor, changing nick to ishmael.
 [2014-08-06 09:48:46] ishmael, changing nick to TddDoctor.
+[2014-08-06 10:13:10] TddDoctor, quitting. (Ping timeout: 264 seconds)
