@@ -19,3 +19,4 @@
 [2014-08-07 17:28:34] smccarthy, joining. (#selendroid)
 [2014-08-07 18:20:26] jlipps, joining. (#selendroid)
 [2014-08-07 18:52:26] smikloso, leaving. (#selendroid)
+[2014-08-07 19:24:56] lukeis, quitting. (Quit: Leaving.)
