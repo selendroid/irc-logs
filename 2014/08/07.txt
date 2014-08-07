@@ -1,3 +1,4 @@
 [2014-08-07 00:02:20] smccarthy2, quitting. (Ping timeout: 240 seconds)
 [2014-08-07 00:43:32] lukeis, quitting. (Quit: Leaving.)
 [2014-08-07 01:37:06] smccarthy, quitting. (Quit: Leaving...)
+[2014-08-07 02:36:15] jlipps, quitting. (Quit: Leaving.)
