@@ -9,3 +9,5 @@
 [2014-08-07 10:28:00] smikloso, joining. (#selendroid)
 [2014-08-07 12:39:23] TddDoctor__, quitting. (Read error: Connection reset by peer)
 [2014-08-07 12:43:31] ishmael, joining. (#selendroid)
+[2014-08-07 12:56:22] smikloso, quitting. (Ping timeout: 250 seconds)
+[2014-08-07 12:59:48] smikloso, joining. (#selendroid)
