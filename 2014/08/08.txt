@@ -23,3 +23,4 @@
 [2014-08-08 17:39:53] smccarthy, joining. (#selendroid)
 [2014-08-08 17:57:43] jlipps, quitting. (Quit: Leaving.)
 [2014-08-08 18:31:52] operatiay, joining. (#selendroid)
+[2014-08-08 18:35:56] operatiay, quitting. (Ping timeout: 240 seconds)
