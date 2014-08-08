@@ -42,3 +42,10 @@
 [2014-08-08 22:49:43] mummana, leaving. (#selendroid)
 [2014-08-08 22:50:40] mummana, joining. (#selendroid)
 [2014-08-08 22:50:57] mummana: anyone there to help ?
+[2014-08-08 22:58:12] mummana: why do we need to use selendroid client with selendroid standalone?
+[2014-08-08 22:58:19] lukeis: mummana: it's only in the client
+[2014-08-08 22:58:52] lukeis: feel free to ask dominik :) not sure why he separated the two
+[2014-08-08 22:58:56] mummana: but witout using that im not able to import selndroid driver
+[2014-08-08 22:59:08] lukeis: you can import the client jar
+[2014-08-08 22:59:39] mummana: yea but earlier upto 0.9.0 we use have in one single jar rite?
+[2014-08-08 22:59:45] lukeis: correct
