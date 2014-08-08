@@ -4,3 +4,4 @@
 [2014-08-08 06:30:00] smccarthy, quitting. (Quit: Leaving...)
 [2014-08-08 08:57:43] smikloso, joining. (#selendroid)
 [2014-08-08 14:51:59] operatiay, quitting. (Remote host closed the connection)
+[2014-08-08 15:54:39] operatiay, joining. (#selendroid)
