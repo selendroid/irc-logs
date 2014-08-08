@@ -19,3 +19,4 @@
 [2014-08-08 17:19:35] stowie44: Hey guys
 [2014-08-08 17:20:19] stowie44: I've just made a pull request, address an issue i was having with selecting devices by udid/serial
 [2014-08-08 17:24:41] stowie44, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2014-08-08 17:32:01] jlipps, joining. (#selendroid)
