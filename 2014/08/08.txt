@@ -21,3 +21,4 @@
 [2014-08-08 17:24:41] stowie44, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2014-08-08 17:32:01] jlipps, joining. (#selendroid)
 [2014-08-08 17:39:53] smccarthy, joining. (#selendroid)
+[2014-08-08 17:57:43] jlipps, quitting. (Quit: Leaving.)
