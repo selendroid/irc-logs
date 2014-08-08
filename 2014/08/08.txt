@@ -10,3 +10,9 @@
 [2014-08-08 16:50:50] selendroid-git, joining. (#selendroid)
 [2014-08-08 16:50:50] selendroid-git: [selendroid] richard-stowe opened pull request #517: Issue with getting physical devices by serial/udid (master...master) http://git.io/2qOQNA
 [2014-08-08 16:50:50] selendroid-git, leaving. (#selendroid)
+[2014-08-08 17:06:14] lukeis, joining. (#selendroid)
+[2014-08-08 17:07:43] Richard, joining. (#selendroid)
+[2014-08-08 17:08:07] Richard, changing nick to Guest21091.
+[2014-08-08 17:08:27] Guest21091, leaving. (#selendroid)
+[2014-08-08 17:08:57] smikloso, leaving. (#selendroid)
+[2014-08-08 17:09:15] stowie44, joining. (#selendroid)
