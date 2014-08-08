@@ -7,3 +7,6 @@
 [2014-08-08 15:54:39] operatiay, joining. (#selendroid)
 [2014-08-08 16:30:58] operatiay, quitting. (Remote host closed the connection)
 [2014-08-08 16:34:22] ishmael, quitting. (Ping timeout: 240 seconds)
+[2014-08-08 16:50:50] selendroid-git, joining. (#selendroid)
+[2014-08-08 16:50:50] selendroid-git: [selendroid] richard-stowe opened pull request #517: Issue with getting physical devices by serial/udid (master...master) http://git.io/2qOQNA
+[2014-08-08 16:50:50] selendroid-git, leaving. (#selendroid)
