@@ -59,3 +59,6 @@
 [2014-08-08 23:03:18] lukeis: pull requests accepted :)
 [2014-08-08 23:04:09] mummana: yep im starting the server from my java code thats the reason m asking do we need two jars
 [2014-08-08 23:04:49] lukeis: if you use maven, it's a simple additional dependency, otherwise it's not too much work to include another lib, just annoying
+[2014-08-08 23:06:58] mummana: oh k but m not aware of maven i am used to ant
+[2014-08-08 23:07:42] mummana: well anyways thnx for your reply :)
+[2014-08-08 23:08:08] mummana: please do update to use clint jars in you website(reminder)
