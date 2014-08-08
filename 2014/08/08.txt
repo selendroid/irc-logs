@@ -49,3 +49,13 @@
 [2014-08-08 22:59:08] lukeis: you can import the client jar
 [2014-08-08 22:59:39] mummana: yea but earlier upto 0.9.0 we use have in one single jar rite?
 [2014-08-08 22:59:45] lukeis: correct
+[2014-08-08 23:00:42] mummana: so u mean from now we have to use standalnoe and cleint both in order to wrte the tests rite?
+[2014-08-08 23:01:15] mummana: but u guys havent mentioned in the website ?
+[2014-08-08 23:02:37] lukeis: not sure if dominik mentioned it anywhere
+[2014-08-08 23:02:56] lukeis: but it all depends on your setup
+[2014-08-08 23:02:59] mummana: nope you guys havent mentioned anywhere in the website
+[2014-08-08 23:03:10] mummana: please do update it
+[2014-08-08 23:03:11] lukeis: tests don't need the standalone, unless you're starting the standalone from the tests
+[2014-08-08 23:03:18] lukeis: pull requests accepted :)
+[2014-08-08 23:04:09] mummana: yep im starting the server from my java code thats the reason m asking do we need two jars
+[2014-08-08 23:04:49] lukeis: if you use maven, it's a simple additional dependency, otherwise it's not too much work to include another lib, just annoying
