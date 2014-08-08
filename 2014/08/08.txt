@@ -33,3 +33,10 @@
 [2014-08-08 22:42:56] smccarthy, joining. (#selendroid)
 [2014-08-08 22:44:35] mummana, joining. (#selendroid)
 [2014-08-08 22:44:53] mummana: hi lukeis
+[2014-08-08 22:46:42] mummana: why im able to import selendroid driver from  standalone jar-0.11.0
+[2014-08-08 22:47:08] mummana: till 0.9.0 i m able to import
+[2014-08-08 22:47:17] mummana: selendroiddriver
+[2014-08-08 22:47:40] mummana: *im not able to import
+[2014-08-08 22:48:07] mummana: hello?
+[2014-08-08 22:49:30] mummana: heeloo
+[2014-08-08 22:49:43] mummana, leaving. (#selendroid)
