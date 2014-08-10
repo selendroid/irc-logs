@@ -12,3 +12,4 @@
 [2014-08-10 10:49:05] operatiay, joining. (#selendroid)
 [2014-08-10 10:53:32] operatiay, quitting. (Ping timeout: 245 seconds)
 [2014-08-10 12:49:52] operatiay, joining. (#selendroid)
+[2014-08-10 12:53:56] operatiay, quitting. (Ping timeout: 240 seconds)
