@@ -24,3 +24,7 @@
 [2014-08-10 20:57:42] operatiay, quitting. (Ping timeout: 245 seconds)
 [2014-08-10 21:33:23] mummana, joining. (#selendroid)
 [2014-08-10 21:33:35] mummana: hie
+[2014-08-10 21:35:31] mummana: im getting error in logcat as
+[2014-08-10 21:35:32] mummana: Permission Denial: starting instrumentation ComponentInfo{io.selendroid.installer.de.medando.bloodpressurecompanion/io.selendroid.ServerInstrumentation} from pid=3647, uid=3647 not allowed because package io.selendroid.installer.de.medando.bloodpressurecompanion does not have a signature matching the target installer.de.medando.bloodpressurecompanion
+[2014-08-10 21:35:51] mummana: what should i do
+[2014-08-10 21:35:52] mummana: ?
