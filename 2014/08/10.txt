@@ -28,3 +28,7 @@
 [2014-08-10 21:35:32] mummana: Permission Denial: starting instrumentation ComponentInfo{io.selendroid.installer.de.medando.bloodpressurecompanion/io.selendroid.ServerInstrumentation} from pid=3647, uid=3647 not allowed because package io.selendroid.installer.de.medando.bloodpressurecompanion does not have a signature matching the target installer.de.medando.bloodpressurecompanion
 [2014-08-10 21:35:51] mummana: what should i do
 [2014-08-10 21:35:52] mummana: ?
+[2014-08-10 22:08:21] smccarthy: http://www.nowherenearithaca.com/2011/11/android-error-test-run-failed.html
+[2014-08-10 22:08:26] smccarthy: mummana: does that help ?
+[2014-08-10 22:08:34] smccarthy: or http://stackoverflow.com/questions/3082780/java-lang-securityexception-permission-denial
+[2014-08-10 22:09:55] mummana: i did the 1st one
