@@ -36,3 +36,4 @@
 [2014-08-10 22:10:16] mummana: im using .apk file
 [2014-08-10 22:10:23] mummana: i dnt hae a source code
 [2014-08-10 22:47:35] mummana, quitting. (Quit: Page closed)
+[2014-08-10 22:54:09] operatiay, joining. (#selendroid)
