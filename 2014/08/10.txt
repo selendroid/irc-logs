@@ -6,3 +6,4 @@
 [2014-08-10 04:50:52] operatiay, quitting. (Ping timeout: 240 seconds)
 [2014-08-10 05:16:46] smccarthy, quitting. (Quit: Leaving...)
 [2014-08-10 06:47:33] operatiay, joining. (#selendroid)
+[2014-08-10 06:52:36] operatiay, quitting. (Ping timeout: 272 seconds)
