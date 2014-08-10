@@ -32,3 +32,6 @@
 [2014-08-10 22:08:26] smccarthy: mummana: does that help ?
 [2014-08-10 22:08:34] smccarthy: or http://stackoverflow.com/questions/3082780/java-lang-securityexception-permission-denial
 [2014-08-10 22:09:55] mummana: i did the 1st one
+[2014-08-10 22:10:05] mummana: but in vain
+[2014-08-10 22:10:16] mummana: im using .apk file
+[2014-08-10 22:10:23] mummana: i dnt hae a source code
