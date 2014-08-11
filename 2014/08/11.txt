@@ -32,3 +32,4 @@
 [2014-08-11 18:36:42] stowie44, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2014-08-11 18:49:25] smikloso, leaving. (#selendroid)
 [2014-08-11 18:59:15] operatiay, joining. (#selendroid)
+[2014-08-11 19:14:49] operatiay, quitting. (Remote host closed the connection)
