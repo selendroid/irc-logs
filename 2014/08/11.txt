@@ -8,3 +8,5 @@
 [2014-08-11 06:57:48] operatiay, joining. (#selendroid)
 [2014-08-11 07:01:39] ishmael, joining. (#selendroid)
 [2014-08-11 07:02:13] operatiay, quitting. (Ping timeout: 260 seconds)
+[2014-08-11 08:46:53] ishmael, quitting. (Read error: Connection reset by peer)
+[2014-08-11 08:47:45] 6JTAA37P7, joining. (#selendroid)
