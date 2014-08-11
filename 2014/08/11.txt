@@ -29,3 +29,4 @@
 [2014-08-11 17:41:55] smccarthy, joining. (#selendroid)
 [2014-08-11 17:42:16] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-08-11 17:43:30] smccarthy, joining. (#selendroid)
+[2014-08-11 18:36:42] stowie44, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
