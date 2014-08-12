@@ -57,3 +57,7 @@
 [2014-08-12 20:09:21] selendroid-git, joining. (#selendroid)
 [2014-08-12 20:09:21] selendroid-git: [selendroid] DominikDary closed pull request #517: Issue with getting physical devices by serial/udid (master...master) http://git.io/2qOQNA
 [2014-08-12 20:09:21] selendroid-git, leaving. (#selendroid)
+[2014-08-12 20:10:13] selendroid-git, joining. (#selendroid)
+[2014-08-12 20:10:13] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/KiMFqw
+[2014-08-12 20:10:13] selendroid-git: selendroid/master 3b10628 Dominik Dary: Update AUTHORS
+[2014-08-12 20:10:13] selendroid-git, leaving. (#selendroid)
