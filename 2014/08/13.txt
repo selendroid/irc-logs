@@ -11,3 +11,4 @@
 [2014-08-13 01:07:33] mummana: lukeis? can you help me ?
 [2014-08-13 01:14:01] lukeis1: no, that's still an outstanding feature request :)
 [2014-08-13 01:14:19] lukeis1, changing nick to lukeis.
+[2014-08-13 01:19:26] smccarthy, quitting. (Quit: Leaving...)
