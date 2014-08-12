@@ -80,3 +80,4 @@
 [2014-08-12 21:12:12] ddary, quitting. (Quit: ddary)
 [2014-08-12 21:26:59] friscodelrosario, joining. (#selendroid)
 [2014-08-12 22:04:55] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-08-12 22:06:28] friscodelrosario, joining. (#selendroid)
