@@ -83,3 +83,4 @@
 [2014-08-12 22:06:28] friscodelrosario, joining. (#selendroid)
 [2014-08-12 22:28:50] jlipps, quitting. (Quit: Leaving.)
 [2014-08-12 22:36:05] jlipps, joining. (#selendroid)
+[2014-08-12 22:44:53] jlipps, quitting. (Quit: Leaving.)
