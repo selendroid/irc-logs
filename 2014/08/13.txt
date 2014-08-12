@@ -9,3 +9,5 @@
 [2014-08-13 01:06:23] mummana: hi all is there any possibility to verify toasts>
 [2014-08-13 01:06:30] mummana: in selendroid?
 [2014-08-13 01:07:33] mummana: lukeis? can you help me ?
+[2014-08-13 01:14:01] lukeis1: no, that's still an outstanding feature request :)
+[2014-08-13 01:14:19] lukeis1, changing nick to lukeis.
