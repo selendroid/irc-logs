@@ -50,3 +50,5 @@
 [2014-08-12 19:27:55] smccarthy: yes, but what line of code is giving that exception?
 [2014-08-12 19:30:34] mummana: when i invoke the selendroid driver
 [2014-08-12 19:34:50] smccarthy: sorry, but if you don't give me the exact line of code that is giving the error, I can't help.
+[2014-08-12 19:42:33] jlipps, joining. (#selendroid)
+[2014-08-12 19:42:44] mummana, quitting. (Quit: Page closed)
