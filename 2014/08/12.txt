@@ -17,3 +17,4 @@
 [2014-08-12 09:31:22] smikloso, joining. (#selendroid)
 [2014-08-12 09:39:17] operatiay, joining. (#selendroid)
 [2014-08-12 11:55:45] stowie44, joining. (#selendroid)
+[2014-08-12 12:06:19] operatiay, quitting. (Remote host closed the connection)
