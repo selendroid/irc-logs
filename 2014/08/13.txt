@@ -1,1 +1,3 @@
 [2014-08-13 00:06:22] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-08-13 00:35:44] lukeis1, joining. (#selendroid)
+[2014-08-13 00:38:38] lukeis, quitting. (Ping timeout: 250 seconds)
