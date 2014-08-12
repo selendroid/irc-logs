@@ -52,3 +52,4 @@
 [2014-08-12 19:34:50] smccarthy: sorry, but if you don't give me the exact line of code that is giving the error, I can't help.
 [2014-08-12 19:42:33] jlipps, joining. (#selendroid)
 [2014-08-12 19:42:44] mummana, quitting. (Quit: Page closed)
+[2014-08-12 19:59:37] jlipps, quitting. (Quit: Leaving.)
