@@ -12,3 +12,5 @@
 [2014-08-13 01:14:01] lukeis1: no, that's still an outstanding feature request :)
 [2014-08-13 01:14:19] lukeis1, changing nick to lukeis.
 [2014-08-13 01:19:26] smccarthy, quitting. (Quit: Leaving...)
+[2014-08-13 01:21:59] mummana: but jonathon lipps of appium has mentioned that selendroid supports API levels > 17.
+[2014-08-13 01:22:06] mummana: https://groups.google.com/forum/#!topic/appium-discuss/5i17OIiC54E
