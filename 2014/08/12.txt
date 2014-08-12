@@ -40,3 +40,4 @@
 [2014-08-12 18:59:34] stowie44, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2014-08-12 19:18:44] mummana, joining. (#selendroid)
 [2014-08-12 19:19:05] mummana: hi im getting numberformat exception :For input string: "WQVGA400"
+[2014-08-12 19:24:29] smccarthy: mummana: is what you are doing expecting a number ?
