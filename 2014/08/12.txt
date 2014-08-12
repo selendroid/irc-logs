@@ -24,3 +24,4 @@
 [2014-08-12 13:41:25] operatiay, quitting. (Remote host closed the connection)
 [2014-08-12 13:45:59] operatiay, joining. (#selendroid)
 [2014-08-12 15:11:59] operatiay, quitting. (Remote host closed the connection)
+[2014-08-12 15:21:11] operatiay, joining. (#selendroid)
