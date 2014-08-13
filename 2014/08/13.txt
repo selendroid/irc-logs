@@ -39,3 +39,4 @@
 [2014-08-13 12:00:04] ishmael, quitting. (*.net *.split)
 [2014-08-13 12:07:14] ishmael, joining. (#selendroid)
 [2014-08-13 12:23:55] ishmael, quitting. (*.net *.split)
+[2014-08-13 12:30:35] ishmael, joining. (#selendroid)
