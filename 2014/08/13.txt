@@ -15,3 +15,5 @@
 [2014-08-13 01:21:59] mummana: but jonathon lipps of appium has mentioned that selendroid supports API levels > 17.
 [2014-08-13 01:22:06] mummana: https://groups.google.com/forum/#!topic/appium-discuss/5i17OIiC54E
 [2014-08-13 01:26:13] mummana, quitting. (Ping timeout: 246 seconds)
+[2014-08-13 02:00:02] jlipps, quitting. (Read error: Connection reset by peer)
+[2014-08-13 02:00:22] jlipps, joining. (#selendroid)
