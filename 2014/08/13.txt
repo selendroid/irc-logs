@@ -54,3 +54,7 @@
 [2014-08-13 20:22:31] ddary, joining. (#selendroid)
 [2014-08-13 20:26:48] operatiay, joining. (#selendroid)
 [2014-08-13 20:33:11] ddary_, joining. (#selendroid)
+[2014-08-13 20:41:27] ddary, quitting. (*.net *.split)
+[2014-08-13 20:41:28] ddary_, changing nick to ddary.
+[2014-08-13 20:42:20] operatiay, quitting. (Remote host closed the connection)
+[2014-08-13 20:44:05] ddary: :log
