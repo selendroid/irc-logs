@@ -67,3 +67,5 @@
 [2014-08-13 22:16:21] lukeis1, quitting. (Ping timeout: 255 seconds)
 [2014-08-13 22:43:08] operatiay, joining. (#selendroid)
 [2014-08-13 22:47:34] operatiay, quitting. (Ping timeout: 250 seconds)
+[2014-08-13 23:10:14] smccarthy2, joining. (#selendroid)
+[2014-08-13 23:14:05] smccarthy, quitting. (Ping timeout: 260 seconds)
