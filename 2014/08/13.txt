@@ -58,3 +58,5 @@
 [2014-08-13 20:41:28] ddary_, changing nick to ddary.
 [2014-08-13 20:42:20] operatiay, quitting. (Remote host closed the connection)
 [2014-08-13 20:44:05] ddary: :log
+[2014-08-13 21:11:34] lukeis, quitting. (Quit: Leaving.)
+[2014-08-13 21:12:35] ddary, leaving. (#selendroid)
