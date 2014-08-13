@@ -17,3 +17,4 @@
 [2014-08-13 01:26:13] mummana, quitting. (Ping timeout: 246 seconds)
 [2014-08-13 02:00:02] jlipps, quitting. (Read error: Connection reset by peer)
 [2014-08-13 02:00:22] jlipps, joining. (#selendroid)
+[2014-08-13 02:05:52] lukeis, quitting. (Ping timeout: 240 seconds)
