@@ -23,3 +23,4 @@
 [2014-08-15 10:06:29] ishmael, quitting. (Remote host closed the connection)
 [2014-08-15 12:06:00] operatiay, quitting. (Remote host closed the connection)
 [2014-08-15 12:19:20] operatiay, joining. (#selendroid)
+[2014-08-15 13:21:48] operatiay, quitting. (Remote host closed the connection)
