@@ -10,3 +10,6 @@
 [2014-08-15 04:25:06] operatiay, quitting. (Ping timeout: 250 seconds)
 [2014-08-15 05:26:18] smccarthy, quitting. (Quit: Leaving...)
 [2014-08-15 05:42:36] maan, joining. (#selendroid)
+[2014-08-15 06:11:18] maan_, joining. (#selendroid)
+[2014-08-15 06:12:06] maan_, quitting. (Remote host closed the connection)
+[2014-08-15 06:14:44] maan, quitting. (Ping timeout: 250 seconds)
