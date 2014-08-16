@@ -7,3 +7,5 @@
 [2014-08-16 14:14:51] AutomatedTester, quitting. (Ping timeout: 255 seconds)
 [2014-08-16 15:21:19] AutomatedTester, joining. (#selendroid)
 [2014-08-16 16:24:20] smccarthy, joining. (#selendroid)
+[2014-08-16 18:42:06] smccarthy, quitting. (Remote host closed the connection)
+[2014-08-16 18:42:49] smccarthy, joining. (#selendroid)
