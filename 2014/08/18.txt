@@ -5,3 +5,4 @@
 [2014-08-18 09:04:09] ishmael, quitting. (Remote host closed the connection)
 [2014-08-18 09:13:54] ishmael, joining. (#selendroid)
 [2014-08-18 09:51:18] operatiay, joining. (#selendroid)
+[2014-08-18 10:38:13] smikloso, joining. (#selendroid)
