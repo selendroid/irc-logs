@@ -13,3 +13,4 @@
 [2014-08-18 14:20:07] operatiay, quitting. (Remote host closed the connection)
 [2014-08-18 14:28:45] operatiay, joining. (#selendroid)
 [2014-08-18 16:06:41] sirsteve, joining. (#selendroid)
+[2014-08-18 16:11:58] sirsteve_, quitting. (*.net *.split)
