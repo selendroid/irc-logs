@@ -15,3 +15,5 @@
 [2014-08-18 16:06:41] sirsteve, joining. (#selendroid)
 [2014-08-18 16:11:58] sirsteve_, quitting. (*.net *.split)
 [2014-08-18 17:20:16] smccarthy, joining. (#selendroid)
+[2014-08-18 17:36:23] maan, joining. (#selendroid)
+[2014-08-18 17:39:23] maan_, joining. (#selendroid)
