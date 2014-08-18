@@ -25,3 +25,4 @@
 [2014-08-18 19:48:42] smikloso, quitting. (Quit: Leaving.)
 [2014-08-18 20:01:22] lukeis1, joining. (#selendroid)
 [2014-08-18 20:03:57] lukeis, quitting. (Ping timeout: 240 seconds)
+[2014-08-18 20:18:20] lukeis1, quitting. (Quit: Leaving.)
