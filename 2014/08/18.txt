@@ -2,3 +2,4 @@
 [2014-08-18 07:14:29] maan, joining. (#selendroid)
 [2014-08-18 07:23:33] maan, quitting. (Remote host closed the connection)
 [2014-08-18 08:48:11] ishmael, joining. (#selendroid)
+[2014-08-18 09:04:09] ishmael, quitting. (Remote host closed the connection)
