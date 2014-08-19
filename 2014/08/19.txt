@@ -21,3 +21,8 @@
 [2014-08-19 20:50:28] lukeis, quitting. (Ping timeout: 250 seconds)
 [2014-08-19 20:56:40] lukeis1, changing nick to lukeis.
 [2014-08-19 23:26:45] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2014-08-19 23:38:17] mach6, joining. (#selendroid)
+[2014-08-19 23:38:43] mach6, quitting. (Client Quit)
+[2014-08-19 23:38:54] rajani, joining. (#selendroid)
+[2014-08-19 23:38:55] rajani, quitting. (Client Quit)
+[2014-08-19 23:39:26] rkokkula, joining. (#selendroid)
