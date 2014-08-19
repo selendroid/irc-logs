@@ -35,3 +35,4 @@
 [2014-08-19 23:51:02] rkokkula: hi
 [2014-08-19 23:52:02] lukeis, quitting. (Ping timeout: 250 seconds)
 [2014-08-19 23:54:54] lukeis1, changing nick to lukeis.
+[2014-08-19 23:59:22] lukeis, quitting. (Ping timeout: 245 seconds)
