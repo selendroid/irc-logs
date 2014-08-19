@@ -1,0 +1,3 @@
+[2014-08-20 00:03:10] lukeis, joining. (#selendroid)
+[2014-08-20 00:04:31] rkokkula: hi
+[2014-08-20 00:04:49] rkokkula: can someone please let me know where I am going wrong
