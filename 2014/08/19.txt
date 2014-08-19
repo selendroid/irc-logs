@@ -13,3 +13,5 @@
 [2014-08-19 16:48:34] jo_, quitting. (Ping timeout: 246 seconds)
 [2014-08-19 17:25:50] lukeis, joining. (#selendroid)
 [2014-08-19 18:05:44] smccarthy, joining. (#selendroid)
+[2014-08-19 20:02:01] lukeis1, joining. (#selendroid)
+[2014-08-19 20:03:43] lukeis, quitting. (Ping timeout: 272 seconds)
