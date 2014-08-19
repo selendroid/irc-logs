@@ -11,3 +11,4 @@
 [2014-08-19 09:52:37] jo_: A quick question on mock locations: Are they supported in any way in selendroid?
 [2014-08-19 14:11:00] smikloso, quitting. (Remote host closed the connection)
 [2014-08-19 16:48:34] jo_, quitting. (Ping timeout: 246 seconds)
+[2014-08-19 17:25:50] lukeis, joining. (#selendroid)
