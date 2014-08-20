@@ -43,3 +43,10 @@
 [2014-08-20 16:52:48] smikloso, joining. (#selendroid)
 [2014-08-20 16:57:25] smikloso, quitting. (Ping timeout: 255 seconds)
 [2014-08-20 17:15:06] smikloso, joining. (#selendroid)
+[2014-08-20 17:27:35] operatiay: :note lukeis well, I've figured out that the problem is the not initialised mouse. TouchActions class offers some interaction methods which are not supported by Selendroid. What would you think is appropriate behaviour?
+[2014-08-20 17:27:57] lukeis, joining. (#selendroid)
+[2014-08-20 17:28:27] lukeis: operatiay: status is, it's not really implemented yet :)
+[2014-08-20 17:28:49] lukeis: and I don't have anyone clamoring for it at work, so i'm not likely to get to it soon
+[2014-08-20 17:29:02] operatiay: :) sounds reasonable
+[2014-08-20 17:29:44] operatiay: flick didn't work for me, so I've done it via down.move.up
+[2014-08-20 17:29:56] operatiay: which means there is a workaround
