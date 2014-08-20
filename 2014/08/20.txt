@@ -20,3 +20,4 @@
 [2014-08-20 10:23:13] smikloso, joining. (#selendroid)
 [2014-08-20 11:23:07] jo_, joining. (#selendroid)
 [2014-08-20 11:23:12] jo_:  A quick question on mock locations: Are they supported in any way in selendroid?
+[2014-08-20 12:32:58] jo_, quitting. (Ping timeout: 246 seconds)
