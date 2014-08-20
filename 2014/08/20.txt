@@ -4,3 +4,4 @@
 [2014-08-20 00:10:56] rkokkula: how do I get the serial ID of emulator
 [2014-08-20 00:33:21] lukeis: `adb devices`
 [2014-08-20 01:02:33] lukeis, quitting. (Quit: Leaving.)
+[2014-08-20 02:01:29] rkokkula, quitting. (Quit: Page closed)
