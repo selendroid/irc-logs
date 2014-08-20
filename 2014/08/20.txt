@@ -22,3 +22,7 @@
 [2014-08-20 11:23:12] jo_:  A quick question on mock locations: Are they supported in any way in selendroid?
 [2014-08-20 12:32:58] jo_, quitting. (Ping timeout: 246 seconds)
 [2014-08-20 13:49:42] operatiay: :note lukeis Hi lukeis, what is the status of combined touch actions? I'm doing something like this "touchActions.clickAndHold(tabRecommended).moveToElement(tabUnlimitedPlan).release().perform()" and getting a NullPointException (elements are not null)
+[2014-08-20 14:17:21] Leo___, joining. (#selendroid)
+[2014-08-20 14:17:29] Leo___: hello?
+[2014-08-20 14:17:34] Leo___: anyone here?
+[2014-08-20 14:18:10] Leo___, quitting. (Client Quit)
