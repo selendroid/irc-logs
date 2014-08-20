@@ -18,3 +18,5 @@
 [2014-08-20 07:00:41] maan, quitting. (Remote host closed the connection)
 [2014-08-20 09:50:17] smccarthy, quitting. (Quit: Leaving...)
 [2014-08-20 10:23:13] smikloso, joining. (#selendroid)
+[2014-08-20 11:23:07] jo_, joining. (#selendroid)
+[2014-08-20 11:23:12] jo_:  A quick question on mock locations: Are they supported in any way in selendroid?
