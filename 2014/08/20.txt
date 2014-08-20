@@ -91,3 +91,10 @@
 [2014-08-20 17:39:20] lukeis: there are a few non-googlers working on it ;)
 [2014-08-20 17:39:41] operatiay: :) fine, for me it's a Google project
 [2014-08-20 17:39:57] lukeis: i have an infinite todo list, that I don't kept track of (helps to 'delete' the things i don't actually need todo...)
+[2014-08-20 17:40:25] operatiay: is it a Selendroid todo list?
+[2014-08-20 17:40:43] lukeis: it's a generic one for everything i do ;)
+[2014-08-20 17:41:00] lukeis: my work has internal 'bugs' that I will eventually need to address
+[2014-08-20 17:41:33] operatiay: :) ok... I thought of a todo list for the project, where some volunteers could come and grab a task to work on
+[2014-08-20 17:41:54] lukeis: there's issues list in github
+[2014-08-20 17:42:05] lukeis: that's where I'd leave stuff todo if need be
+[2014-08-20 17:42:38] operatiay: ok... so you would raise an issue for Selendroid to investigate the behaviour
