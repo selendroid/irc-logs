@@ -21,3 +21,4 @@
 [2014-08-20 11:23:07] jo_, joining. (#selendroid)
 [2014-08-20 11:23:12] jo_:  A quick question on mock locations: Are they supported in any way in selendroid?
 [2014-08-20 12:32:58] jo_, quitting. (Ping timeout: 246 seconds)
+[2014-08-20 13:49:42] operatiay: :note lukeis Hi lukeis, what is the status of combined touch actions? I'm doing something like this "touchActions.clickAndHold(tabRecommended).moveToElement(tabUnlimitedPlan).release().perform()" and getting a NullPointException (elements are not null)
