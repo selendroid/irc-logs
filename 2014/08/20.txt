@@ -26,3 +26,6 @@
 [2014-08-20 14:17:29] Leo___: hello?
 [2014-08-20 14:17:34] Leo___: anyone here?
 [2014-08-20 14:18:10] Leo___, quitting. (Client Quit)
+[2014-08-20 14:20:47] selendroid-git, joining. (#selendroid)
+[2014-08-20 14:20:47] selendroid-git: [selendroid] sri096 opened pull request #536: Support to custom keystore, password, alias. (master...master) http://git.io/qklmgg
+[2014-08-20 14:20:47] selendroid-git, leaving. (#selendroid)
