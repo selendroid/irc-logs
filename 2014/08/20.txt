@@ -98,3 +98,4 @@
 [2014-08-20 17:41:54] lukeis: there's issues list in github
 [2014-08-20 17:42:05] lukeis: that's where I'd leave stuff todo if need be
 [2014-08-20 17:42:38] operatiay: ok... so you would raise an issue for Selendroid to investigate the behaviour
+[2014-08-20 17:47:49] lukeis: yes, or you can ;)
