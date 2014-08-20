@@ -7,3 +7,6 @@
 [2014-08-20 02:01:29] rkokkula, quitting. (Quit: Page closed)
 [2014-08-20 03:26:30] smccarthy, joining. (#selendroid)
 [2014-08-20 04:14:16] smccarthy, quitting. (Quit: Leaving...)
+[2014-08-20 05:59:05] maan, joining. (#selendroid)
+[2014-08-20 05:59:36] maan, quitting. (Remote host closed the connection)
+[2014-08-20 06:00:00] maan, joining. (#selendroid)
