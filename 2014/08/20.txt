@@ -50,3 +50,21 @@
 [2014-08-20 17:29:02] operatiay: :) sounds reasonable
 [2014-08-20 17:29:44] operatiay: flick didn't work for me, so I've done it via down.move.up
 [2014-08-20 17:29:56] operatiay: which means there is a workaround
+[2014-08-20 17:30:03] lukeis: yeah, i had to do the same sometimes
+[2014-08-20 17:30:18] operatiay: :( disappointing
+[2014-08-20 17:30:39] lukeis: we ended up adding a special character sequence to the app to trigger our 'pull to refresh' (so it would be consistent on the different screens)
+[2014-08-20 17:30:49] lukeis: you can blame Android Instruments for the disappointment ;)
+[2014-08-20 17:31:03] lukeis: those calls are directly delegated to it
+[2014-08-20 17:31:29] operatiay: :) blame on them...
+[2014-08-20 17:31:36] lukeis: Instrumentation*  (bah, android and apple naming it the same-ish thing)
+[2014-08-20 17:32:14] operatiay: what is the 'pull to refresh' meant to do?
+[2014-08-20 17:32:51] lukeis: update a feed
+[2014-08-20 17:32:57] operatiay: I'm getting confused by the name differences all the time as well :) not different enough
+[2014-08-20 17:32:58] lukeis: you know, like twitter / facebook
+[2014-08-20 17:33:22] operatiay: ah, ok :) I understand what you mean
+[2014-08-20 17:34:07] lukeis: we have it for different components (thus different actual View structure on different screens)… so sometimes flick worked, sometimes down / move / up worked :)
+[2014-08-20 17:34:37] operatiay: were there cases when down.move.up didn't work?
+[2014-08-20 17:34:41] lukeis: yes :)
+[2014-08-20 17:34:46] lukeis: where the flick worked ;)
+[2014-08-20 17:34:49] operatiay: :) wow... why?
+[2014-08-20 17:34:58] lukeis: i didn't dive into it enough to figure it out
