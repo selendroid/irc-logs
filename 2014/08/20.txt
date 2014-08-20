@@ -115,3 +115,5 @@
 [2014-08-20 19:50:11] rkokkula: i am working on selendroid version 0.10
 [2014-08-20 19:50:45] rkokkula: I am trying pass avdName for emualtor options but I do see an error when I run the test
 [2014-08-20 19:51:03] rkokkula: can you please let me know if emulator options are supported for this version of selendroid
+[2014-08-20 20:03:36] maan_, joining. (#selendroid)
+[2014-08-20 20:03:46] rkokkula, quitting. (Ping timeout: 246 seconds)
