@@ -68,3 +68,26 @@
 [2014-08-20 17:34:46] lukeis: where the flick worked ;)
 [2014-08-20 17:34:49] operatiay: :) wow... why?
 [2014-08-20 17:34:58] lukeis: i didn't dive into it enough to figure it out
+[2014-08-20 17:35:08] lukeis: but it boiled down to the actual View component used
+[2014-08-20 17:35:37] operatiay: i see... so it should be addressed by Android developers then...
+[2014-08-20 17:35:44] lukeis: yes
+[2014-08-20 17:35:49] operatiay: have you got contact to Google? :)
+[2014-08-20 17:35:51] lukeis: but i never logged bugs ;)
+[2014-08-20 17:35:57] lukeis: i have a few :)
+[2014-08-20 17:36:12] lukeis: first thing they'd ask for is the bug though!
+[2014-08-20 17:36:13] operatiay: :) do they need a test engineer?
+[2014-08-20 17:36:19] lukeis: they always do
+[2014-08-20 17:36:42] lukeis: my team has an opening too :)
+[2014-08-20 17:36:42] operatiay: don't want me though... never mind :)
+[2014-08-20 17:36:54] lukeis: (I work at salesforce)
+[2014-08-20 17:36:58] operatiay: :) where about? in London?
+[2014-08-20 17:37:15] lukeis: i think we have an office in london….
+[2014-08-20 17:37:36] lukeis: basically for anywhere there's a salesforce office, although most of my team is on west coast US time
+[2014-08-20 17:37:46] operatiay: :) well, we can discuss it in a private chat... here's more about selendroid
+[2014-08-20 17:37:52] lukeis: yep :)
+[2014-08-20 17:38:37] operatiay: so the issue with flick not working needs to be investigated in order to raise an Android issue for Google
+[2014-08-20 17:38:51] operatiay: is there somewhere a TODO list? :)
+[2014-08-20 17:39:10] lukeis: yes… but i would say "an Android issue for the Android project"
+[2014-08-20 17:39:20] lukeis: there are a few non-googlers working on it ;)
+[2014-08-20 17:39:41] operatiay: :) fine, for me it's a Google project
+[2014-08-20 17:39:57] lukeis: i have an infinite todo list, that I don't kept track of (helps to 'delete' the things i don't actually need todo...)
