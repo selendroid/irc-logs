@@ -29,3 +29,13 @@
 [2014-08-20 14:20:47] selendroid-git, joining. (#selendroid)
 [2014-08-20 14:20:47] selendroid-git: [selendroid] sri096 opened pull request #536: Support to custom keystore, password, alias. (master...master) http://git.io/qklmgg
 [2014-08-20 14:20:47] selendroid-git, leaving. (#selendroid)
+[2014-08-20 15:46:36] travis-ci, joining. (#selendroid)
+[2014-08-20 15:46:36] travis-ci: [travis-ci] sri096/selendroid#2 (master - 4292f25 : sri096): The build failed.
+[2014-08-20 15:46:36] travis-ci: [travis-ci] Change view : https://github.com/sri096/selendroid/compare/2c0e16bd0b73...4292f252bb96
+[2014-08-20 15:46:37] travis-ci: [travis-ci] Build details : http://travis-ci.org/sri096/selendroid/builds/33070209
+[2014-08-20 15:46:37] travis-ci, leaving. (#selendroid)
+[2014-08-20 15:47:32] travis-ci, joining. (#selendroid)
+[2014-08-20 15:47:32] travis-ci: [travis-ci] sri096/selendroid#1 (master - 4292f25 : sri096): The build failed.
+[2014-08-20 15:47:32] travis-ci: [travis-ci] Change view : https://github.com/sri096/selendroid/compare/2c0e16bd0b73...4292f252bb96
+[2014-08-20 15:47:32] travis-ci: [travis-ci] Build details : http://travis-ci.org/sri096/selendroid/builds/33070207
+[2014-08-20 15:47:32] travis-ci, leaving. (#selendroid)
