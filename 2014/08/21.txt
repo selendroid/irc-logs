@@ -4,3 +4,4 @@
 [2014-08-21 05:51:46] lukeis, quitting. (Client Quit)
 [2014-08-21 06:00:26] maan, joining. (#selendroid)
 [2014-08-21 06:03:57] maan_, joining. (#selendroid)
+[2014-08-21 06:05:35] maan, quitting. (Ping timeout: 272 seconds)
