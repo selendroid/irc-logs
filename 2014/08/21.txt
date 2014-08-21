@@ -21,3 +21,5 @@
 [2014-08-21 17:47:11] lukeis, joining. (#selendroid)
 [2014-08-21 17:47:35] lukeis: operatiay: not that I'm aware of
 [2014-08-21 17:49:44] smccarthy, joining. (#selendroid)
+[2014-08-21 17:57:07] operatiay: didn't work for me though... strange...
+[2014-08-21 17:57:33] lukeis: what kind of locator are you using? and is it native or web view?
