@@ -13,3 +13,4 @@
 [2014-08-21 13:37:59] ishmael, quitting. (Read error: No route to host)
 [2014-08-21 14:45:49] ishmael, joining. (#selendroid)
 [2014-08-21 16:20:00] ishmael, quitting. (Ping timeout: 246 seconds)
+[2014-08-21 16:49:52] maan, joining. (#selendroid)
