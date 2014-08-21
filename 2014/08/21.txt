@@ -8,3 +8,4 @@
 [2014-08-21 06:15:26] maan_: I am unable to start Selendroid on my mac for android 4.1.2
 [2014-08-21 06:15:40] maan_: any one can help me on this
 [2014-08-21 06:29:39] maan_, quitting. (Ping timeout: 272 seconds)
+[2014-08-21 10:25:25] operatiay: :note lukeis Hi Lukeis, is there a chance that driver.findElements() is not working? strangely driver.findElement() delivers an item whereas the plural form returns an empty list...
