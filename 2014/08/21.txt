@@ -35,3 +35,4 @@
 [2014-08-21 19:15:58] rkokkula: but when I try to kick off emulator from terminal using the emulator -avd <AvdName> the emulator gets kicked off
 [2014-08-21 19:16:10] rkokkula: I am currently using the Selendroid 0.10 version
 [2014-08-21 19:16:43] rkokkula: can anyone let me know if the emulator options are supported in this version
+[2014-08-21 20:05:04] rkokkula, quitting. (Ping timeout: 246 seconds)
