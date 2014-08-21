@@ -10,3 +10,4 @@
 [2014-08-21 06:29:39] maan_, quitting. (Ping timeout: 272 seconds)
 [2014-08-21 10:25:25] operatiay: :note lukeis Hi Lukeis, is there a chance that driver.findElements() is not working? strangely driver.findElement() delivers an item whereas the plural form returns an empty list...
 [2014-08-21 10:42:37] smikloso, joining. (#selendroid)
+[2014-08-21 13:37:59] ishmael, quitting. (Read error: No route to host)
