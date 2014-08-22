@@ -12,3 +12,4 @@
 [2014-08-22 07:08:32] ishmael, quitting. (Client Quit)
 [2014-08-22 07:09:49] ishmael, joining. (#selendroid)
 [2014-08-22 07:38:56] maan, quitting. (Remote host closed the connection)
+[2014-08-22 09:29:39] operatiay: :note lukeis I've tried class and xpath locators. it's native
