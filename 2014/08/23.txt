@@ -12,3 +12,4 @@
 [2014-08-23 10:52:20] operatia_, quitting. (Ping timeout: 255 seconds)
 [2014-08-23 10:57:21] maan_, quitting. (Read error: Connection reset by peer)
 [2014-08-23 10:57:56] maan, joining. (#selendroid)
+[2014-08-23 11:01:58] maan, quitting. (Remote host closed the connection)
