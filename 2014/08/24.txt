@@ -34,3 +34,16 @@
 [2014-08-24 13:26:02] operatiay, joining. (#selendroid)
 [2014-08-24 17:21:10] smccarthy, joining. (#selendroid)
 [2014-08-24 20:08:19] ddary, joining. (#selendroid)
+[2014-08-24 20:22:40] selendroid-git, joining. (#selendroid)
+[2014-08-24 20:22:40] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/y5VJ5g
+[2014-08-24 20:22:40] selendroid-git: selendroid/master 4292f25 sri096: Support to custom keystore, password, alias....
+[2014-08-24 20:22:40] selendroid-git: selendroid/master cec5875 Dominik Dary: Merge pull request #536 from sri096/master...
+[2014-08-24 20:22:40] selendroid-git, leaving. (#selendroid)
+[2014-08-24 20:23:17] selendroid-git, joining. (#selendroid)
+[2014-08-24 20:23:17] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/E8Kjog
+[2014-08-24 20:23:17] selendroid-git: selendroid/master de75e0a Dominik Dary: Update changelog.md
+[2014-08-24 20:23:17] selendroid-git, leaving. (#selendroid)
+[2014-08-24 20:24:48] selendroid-git, joining. (#selendroid)
+[2014-08-24 20:24:48] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/DT8trg
+[2014-08-24 20:24:48] selendroid-git: selendroid/master a0817b1 Dominik Dary: Update AUTHORS
+[2014-08-24 20:24:48] selendroid-git, leaving. (#selendroid)
