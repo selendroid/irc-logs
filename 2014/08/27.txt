@@ -5,3 +5,4 @@
 [2014-08-27 00:43:20] AutomatedTester_, joining. (#selendroid)
 [2014-08-27 00:43:26] AutomatedTester, quitting. (*.net *.split)
 [2014-08-27 00:43:28] AutomatedTester_, changing nick to AutomatedTester.
+[2014-08-27 01:22:12] lukeis, quitting. (Quit: Leaving.)
