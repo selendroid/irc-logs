@@ -6,3 +6,4 @@
 [2014-08-27 00:43:26] AutomatedTester, quitting. (*.net *.split)
 [2014-08-27 00:43:28] AutomatedTester_, changing nick to AutomatedTester.
 [2014-08-27 01:22:12] lukeis, quitting. (Quit: Leaving.)
+[2014-08-27 01:37:57] smccarthy, quitting. (Quit: Leaving...)
