@@ -24,3 +24,4 @@
 [2014-08-26 11:39:44] ishmael, joining. (#selendroid)
 [2014-08-26 13:31:10] ishmael, quitting. (Remote host closed the connection)
 [2014-08-26 15:18:50] ishmael, joining. (#selendroid)
+[2014-08-26 16:40:58] ishmael, quitting. (Ping timeout: 250 seconds)
