@@ -3,3 +3,4 @@
 [2014-08-26 01:03:05] lukeis, quitting. (Quit: Leaving.)
 [2014-08-26 01:38:07] smccarthy2, quitting. (Quit: Leaving...)
 [2014-08-26 03:22:01] smccarthy, joining. (#selendroid)
+[2014-08-26 06:00:44] maan, joining. (#selendroid)
