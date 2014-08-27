@@ -49,3 +49,10 @@
 [2014-08-27 21:21:46] selendroid-git: selendroid/master 2dba2f6 gridfusion: fixing very minor typo in error message
 [2014-08-27 21:21:46] selendroid-git: selendroid/master 42457d7 Dominik Dary: Merge pull request #548 from palotas/master...
 [2014-08-27 21:21:46] selendroid-git, leaving. (#selendroid)
+[2014-08-27 21:25:59] travis-ci, joining. (#selendroid)
+[2014-08-27 21:25:59] travis-ci: [travis-ci] selendroid/selendroid#293 (master - 42457d7 : Dominik Dary): The build passed.
+[2014-08-27 21:25:59] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/a0817b1b36c8...42457d7c66a8
+[2014-08-27 21:25:59] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/33729666
+[2014-08-27 21:25:59] travis-ci, leaving. (#selendroid)
+[2014-08-27 21:26:09] ddary, leaving. (#selendroid)
+[2014-08-27 21:27:03] operatiay, quitting. (Remote host closed the connection)
