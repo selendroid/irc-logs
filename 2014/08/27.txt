@@ -9,3 +9,4 @@
 [2014-08-27 01:37:57] smccarthy, quitting. (Quit: Leaving...)
 [2014-08-27 03:16:24] smccarthy, joining. (#selendroid)
 [2014-08-27 06:01:14] maan, joining. (#selendroid)
+[2014-08-27 06:37:43] smccarthy, quitting. (Quit: Leaving...)
