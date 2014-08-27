@@ -12,3 +12,6 @@
 [2014-08-27 06:37:43] smccarthy, quitting. (Quit: Leaving...)
 [2014-08-27 07:06:36] TddDoctor, joining. (#selendroid)
 [2014-08-27 07:08:34] TddDoctor, quitting. (Read error: Connection reset by peer)
+[2014-08-27 07:11:49] maan, quitting. (Ping timeout: 260 seconds)
+[2014-08-27 07:12:18] maan, joining. (#selendroid)
+[2014-08-27 07:13:27] ishmael, joining. (#selendroid)
