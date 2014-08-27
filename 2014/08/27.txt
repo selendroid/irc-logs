@@ -43,3 +43,4 @@
 [2014-08-27 20:55:48] sirsteve_, changing nick to sirsteve.
 [2014-08-27 20:56:06] sirsteve, changing nick to sirsteef.
 [2014-08-27 21:12:12] operatiay, joining. (#selendroid)
+[2014-08-27 21:17:09] maan, quitting. (Remote host closed the connection)
