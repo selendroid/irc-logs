@@ -26,3 +26,4 @@
 [2014-08-27 15:13:23] selendroid-git, joining. (#selendroid)
 [2014-08-27 15:13:23] selendroid-git: [selendroid] palotas opened pull request #548: fixing very minor typo in error message (master...master) http://git.io/LZkIrA
 [2014-08-27 15:13:23] selendroid-git, leaving. (#selendroid)
+[2014-08-27 16:25:12] ishmael, quitting. (Ping timeout: 245 seconds)
