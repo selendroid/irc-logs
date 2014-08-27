@@ -44,3 +44,8 @@
 [2014-08-27 20:56:06] sirsteve, changing nick to sirsteef.
 [2014-08-27 21:12:12] operatiay, joining. (#selendroid)
 [2014-08-27 21:17:09] maan, quitting. (Remote host closed the connection)
+[2014-08-27 21:21:46] selendroid-git, joining. (#selendroid)
+[2014-08-27 21:21:46] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/nHem_Q
+[2014-08-27 21:21:46] selendroid-git: selendroid/master 2dba2f6 gridfusion: fixing very minor typo in error message
+[2014-08-27 21:21:46] selendroid-git: selendroid/master 42457d7 Dominik Dary: Merge pull request #548 from palotas/master...
+[2014-08-27 21:21:46] selendroid-git, leaving. (#selendroid)
