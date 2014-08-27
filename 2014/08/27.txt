@@ -28,3 +28,4 @@
 [2014-08-27 15:13:23] selendroid-git, leaving. (#selendroid)
 [2014-08-27 16:25:12] ishmael, quitting. (Ping timeout: 245 seconds)
 [2014-08-27 17:20:55] operatia_, quitting. (Write error: Broken pipe)
+[2014-08-27 17:38:29] smccarthy, joining. (#selendroid)
