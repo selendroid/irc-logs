@@ -12,3 +12,4 @@
 [2014-08-28 07:36:03] operatiay, quitting. (Ping timeout: 240 seconds)
 [2014-08-28 07:43:11] maan, quitting. (Remote host closed the connection)
 [2014-08-28 09:54:43] operatiay, joining. (#selendroid)
+[2014-08-28 09:58:55] smikloso, joining. (#selendroid)
