@@ -20,3 +20,4 @@
 [2014-08-28 15:52:34] Aye|: Does anyoen know the exact reason why -installedApp was removed in this commit? https://github.com/selendroid/selendroid/commit/41236015a02ef8e1a93eb01acd6417b96f9d625b
 [2014-08-28 16:20:17] ishmael, quitting. (Ping timeout: 260 seconds)
 [2014-08-28 16:42:35] operatiay: what did -installedApp do?
+[2014-08-28 16:47:35] operatiay: there's a parameter -forceReinstall, which does a similar job, as I understand... but I might be wrong
