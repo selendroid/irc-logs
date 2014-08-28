@@ -7,3 +7,4 @@
 [2014-08-28 05:32:38] travis-ci: [travis-ci] Build details : http://travis-ci.org/sri096/selendroid/builds/33762080
 [2014-08-28 05:32:38] travis-ci, leaving. (#selendroid)
 [2014-08-28 06:40:13] maan, joining. (#selendroid)
+[2014-08-28 07:06:56] ishmael, joining. (#selendroid)
