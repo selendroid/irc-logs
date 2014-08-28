@@ -23,3 +23,4 @@
 [2014-08-28 16:47:35] operatiay: there's a parameter -forceReinstall, which does a similar job, as I understand... but I might be wrong
 [2014-08-28 16:55:58] Aye|: -installedApp used to let you specify that the application is already installed on the device, you'd specify "tld.company.app/ActivityClass:version" and it'd launch the application that's already on the device
 [2014-08-28 17:18:45] smikloso, leaving. (#selendroid)
+[2014-08-28 17:20:57] operatiay, quitting. (Remote host closed the connection)
