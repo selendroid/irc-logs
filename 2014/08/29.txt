@@ -36,3 +36,4 @@
 [2014-08-29 17:44:17] dgrace__, quitting. (Quit: Connection closed for inactivity)
 [2014-08-29 18:05:05] operatiay, joining. (#selendroid)
 [2014-08-29 18:09:28] operatiay, quitting. (Ping timeout: 244 seconds)
+[2014-08-29 18:46:16] ishmael, joining. (#selendroid)
