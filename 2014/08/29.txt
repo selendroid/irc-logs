@@ -33,3 +33,4 @@
 [2014-08-29 16:45:48] smikloso, leaving. (#selendroid)
 [2014-08-29 17:37:55] ishmael, quitting. (Ping timeout: 255 seconds)
 [2014-08-29 17:39:08] lukeis, joining. (#selendroid)
+[2014-08-29 17:44:17] dgrace__, quitting. (Quit: Connection closed for inactivity)
