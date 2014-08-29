@@ -7,3 +7,5 @@
 [2014-08-29 06:30:33] operatiay, quitting. (Ping timeout: 241 seconds)
 [2014-08-29 07:02:48] ishmael, joining. (#selendroid)
 [2014-08-29 07:30:37] smccarthy, quitting. (Quit: Leaving...)
+[2014-08-29 07:55:19] ishmael, quitting. (Read error: Connection reset by peer)
+[2014-08-29 07:57:19] ishmael, joining. (#selendroid)
