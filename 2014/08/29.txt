@@ -40,3 +40,4 @@
 [2014-08-29 20:26:34] ishmael, quitting. (Read error: Connection reset by peer)
 [2014-08-29 20:27:27] ishmael, joining. (#selendroid)
 [2014-08-29 21:02:47] ishmael, quitting. (Ping timeout: 245 seconds)
+[2014-08-29 21:08:04] ishmael, joining. (#selendroid)
