@@ -11,3 +11,4 @@
 [2014-08-29 07:57:19] ishmael, joining. (#selendroid)
 [2014-08-29 09:23:40] operatiay, joining. (#selendroid)
 [2014-08-29 10:00:42] smikloso, joining. (#selendroid)
+[2014-08-29 11:49:49] AutomatedTester, quitting. (Ping timeout: 272 seconds)
