@@ -5,3 +5,5 @@
 [2014-08-30 02:12:48] operatiay, quitting. (Ping timeout: 246 seconds)
 [2014-08-30 03:28:27] sirsteef_, quitting. (*.net *.split)
 [2014-08-30 03:33:20] sirsteef, joining. (#selendroid)
+[2014-08-30 08:10:58] maan, joining. (#selendroid)
+[2014-08-30 08:10:58] operatiay, joining. (#selendroid)
