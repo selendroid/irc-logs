@@ -7,3 +7,4 @@
 [2014-08-30 03:33:20] sirsteef, joining. (#selendroid)
 [2014-08-30 08:10:58] maan, joining. (#selendroid)
 [2014-08-30 08:10:58] operatiay, joining. (#selendroid)
+[2014-08-30 08:15:41] operatiay, quitting. (Ping timeout: 260 seconds)
