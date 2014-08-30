@@ -3,3 +3,4 @@
 [2014-08-30 01:57:11] smccarthy, quitting. (Quit: Leaving...)
 [2014-08-30 02:08:29] operatiay, joining. (#selendroid)
 [2014-08-30 02:12:48] operatiay, quitting. (Ping timeout: 246 seconds)
+[2014-08-30 03:28:27] sirsteef_, quitting. (*.net *.split)
