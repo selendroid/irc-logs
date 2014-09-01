@@ -21,3 +21,4 @@
 [2014-09-01 14:15:20] Ains, joining. (#selendroid)
 [2014-09-01 15:04:22] Ains, quitting. (Ping timeout: 246 seconds)
 [2014-09-01 16:18:52] ishmael, quitting. (Ping timeout: 260 seconds)
+[2014-09-01 16:55:03] ains, joining. (#selendroid)
