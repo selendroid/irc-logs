@@ -13,3 +13,4 @@
 [2014-09-01 11:15:04] ishmael: joanna and aggrey can you push your tests to D.o
 [2014-09-01 11:15:06] ishmael: ?
 [2014-09-01 12:30:49] operatiay, quitting. (Remote host closed the connection)
+[2014-09-01 12:52:50] operatiay, joining. (#selendroid)
