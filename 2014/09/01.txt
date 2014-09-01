@@ -27,3 +27,4 @@
 [2014-09-01 18:01:43] operatiay, quitting. (Remote host closed the connection)
 [2014-09-01 18:32:47] maan, joining. (#selendroid)
 [2014-09-01 19:44:05] maan, quitting. (Remote host closed the connection)
+[2014-09-01 19:57:21] smccarthy, joining. (#selendroid)
