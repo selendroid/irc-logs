@@ -7,3 +7,4 @@
 [2014-09-01 10:25:42] smikloso, joining. (#selendroid)
 [2014-09-01 10:31:41] operatiay, joining. (#selendroid)
 [2014-09-01 10:36:20] operatiay, quitting. (Ping timeout: 260 seconds)
+[2014-09-01 10:41:43] operatiay, joining. (#selendroid)
