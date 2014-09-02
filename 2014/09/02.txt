@@ -25,3 +25,4 @@
 [2014-09-02 10:54:54] ishmael, joining. (#selendroid)
 [2014-09-02 11:16:52] ishmael, quitting. (Ping timeout: 240 seconds)
 [2014-09-02 11:20:19] ishmael, joining. (#selendroid)
+[2014-09-02 12:21:30] smikloso, changing nick to smiklosovic|lunc.
