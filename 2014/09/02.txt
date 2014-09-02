@@ -51,3 +51,4 @@
 [2014-09-02 17:02:28] selendroid-git, leaving. (#selendroid)
 [2014-09-02 17:14:42] lukeis, joining. (#selendroid)
 [2014-09-02 17:19:34] maan, quitting. (Remote host closed the connection)
+[2014-09-02 17:29:44] maan, joining. (#selendroid)
