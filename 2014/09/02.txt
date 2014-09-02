@@ -35,3 +35,6 @@
 [2014-09-02 13:02:33] selendroid-git, joining. (#selendroid)
 [2014-09-02 13:02:33] selendroid-git: [selendroid] ainsej opened pull request #559: Fixes bug in findElementsByName() (master...fix-findelementsbyname) http://git.io/g63J_g
 [2014-09-02 13:02:33] selendroid-git, leaving. (#selendroid)
+[2014-09-02 13:22:52] selendroid-git, joining. (#selendroid)
+[2014-09-02 13:22:52] selendroid-git: [selendroid] ainsej opened pull request #560: Optimize searching for elements in selendroid (master...search-optimize) http://git.io/7SHG0Q
+[2014-09-02 13:22:52] selendroid-git, leaving. (#selendroid)
