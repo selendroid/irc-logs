@@ -11,3 +11,5 @@
 [2014-09-02 07:02:07] ishmael, joining. (#selendroid)
 [2014-09-02 07:03:40] operatiay, quitting. (Ping timeout: 260 seconds)
 [2014-09-02 07:20:07] maan, quitting. (Remote host closed the connection)
+[2014-09-02 08:37:01] ishmael, quitting. (Quit: No Ping reply in 180 seconds.)
+[2014-09-02 08:39:03] ishmael, joining. (#selendroid)
