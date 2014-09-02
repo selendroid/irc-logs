@@ -164,3 +164,6 @@
 [2014-09-02 22:37:29] selendroid-git: selendroid/master d90ff53 Ainsley Escorce-Jones: Allow selendroid-server start timeout to be passed on command line
 [2014-09-02 22:37:29] selendroid-git: selendroid/master 9ceb894 ainsej: Merge pull request #564 from ainsej/custom-start-timeout...
 [2014-09-02 22:37:29] selendroid-git, leaving. (#selendroid)
+[2014-09-02 22:42:46] ains_, joining. (#selendroid)
+[2014-09-02 22:43:07] ains, quitting. (Ping timeout: 246 seconds)
+[2014-09-02 22:43:25] ains_, changing nick to ains.
