@@ -26,3 +26,6 @@
 [2014-09-02 11:16:52] ishmael, quitting. (Ping timeout: 240 seconds)
 [2014-09-02 11:20:19] ishmael, joining. (#selendroid)
 [2014-09-02 12:21:30] smikloso, changing nick to smiklosovic|lunc.
+[2014-09-02 12:34:56] selendroid-git, joining. (#selendroid)
+[2014-09-02 12:34:56] selendroid-git: [selendroid] ainsej opened pull request #557: Added freeing on selendroidPort on driver.quit() (master...free-port) http://git.io/eiP5_g
+[2014-09-02 12:34:56] selendroid-git, leaving. (#selendroid)
