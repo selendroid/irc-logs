@@ -64,3 +64,7 @@
 [2014-09-02 18:20:19] selendroid-git, joining. (#selendroid)
 [2014-09-02 18:20:19] selendroid-git: [selendroid] ainsej opened pull request #563: Stop swallowing exception when waiting for instrumentation (master...verbose_exception) http://git.io/cgb8rQ
 [2014-09-02 18:20:19] selendroid-git, leaving. (#selendroid)
+[2014-09-02 18:27:53] selendroid-git, joining. (#selendroid)
+[2014-09-02 18:27:53] selendroid-git: [selendroid] ainsej opened pull request #564: Allow selendroid-server start timeout to be passed on command line (master...custom-start-timeout) http://git.io/TlpR4w
+[2014-09-02 18:27:53] selendroid-git, leaving. (#selendroid)
+[2014-09-02 18:28:46] lukeis: and they just keep coming ;)  I knew you guys were still doing things over the last few months (simon told me). Glad to see them coming back!
