@@ -174,3 +174,9 @@
 [2014-09-02 22:51:32] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/0354040939d5...9ceb894343db
 [2014-09-02 22:51:32] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34226510
 [2014-09-02 22:51:32] travis-ci, leaving. (#selendroid)
+[2014-09-02 23:00:09] ains, quitting. (Quit: Page closed)
+[2014-09-02 23:01:00] ddary, leaving. (#selendroid)
+[2014-09-02 23:04:18] selendroid-git, joining. (#selendroid)
+[2014-09-02 23:04:18] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/hbzIVw
+[2014-09-02 23:04:18] selendroid-git: selendroid/master a1aae69 Dominik Dary: Update changelog.md
+[2014-09-02 23:04:18] selendroid-git, leaving. (#selendroid)
