@@ -180,3 +180,7 @@
 [2014-09-02 23:04:18] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/hbzIVw
 [2014-09-02 23:04:18] selendroid-git: selendroid/master a1aae69 Dominik Dary: Update changelog.md
 [2014-09-02 23:04:18] selendroid-git, leaving. (#selendroid)
+[2014-09-02 23:06:39] selendroid-git, joining. (#selendroid)
+[2014-09-02 23:06:39] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/QwiNTg
+[2014-09-02 23:06:39] selendroid-git: selendroid/master 758b7eb Dominik Dary: Update changelog.md...
+[2014-09-02 23:06:39] selendroid-git, leaving. (#selendroid)
