@@ -46,3 +46,6 @@
 [2014-09-02 16:20:01] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-02 16:44:14] maan, joining. (#selendroid)
 [2014-09-02 16:48:16] smikloso, leaving. (#selendroid)
+[2014-09-02 17:02:28] selendroid-git, joining. (#selendroid)
+[2014-09-02 17:02:28] selendroid-git: [selendroid] ainsej opened pull request #561: Allowed disabling of adb logcat device logging with flag (master...no-device-log) http://git.io/F0re9A
+[2014-09-02 17:02:28] selendroid-git, leaving. (#selendroid)
