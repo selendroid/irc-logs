@@ -92,3 +92,36 @@
 [2014-09-02 21:35:56] ains: Simon I guess?
 [2014-09-02 21:36:13] ddary: and you
 [2014-09-02 21:36:27] ddary: i looked at the email address of the commit
+[2014-09-02 22:11:15] selendroid-git, joining. (#selendroid)
+[2014-09-02 22:11:16] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/zWtwjw
+[2014-09-02 22:11:16] selendroid-git: selendroid/master bb41d88 Ainsley Escorce-Jones: Added freeing on selendroidPort on driver.quit()
+[2014-09-02 22:11:16] selendroid-git: selendroid/master 82c5c9b Dominik Dary: Merge pull request #557 from ainsej/free-port...
+[2014-09-02 22:11:16] selendroid-git, leaving. (#selendroid)
+[2014-09-02 22:11:31] selendroid-git, joining. (#selendroid)
+[2014-09-02 22:11:31] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/NM6RRQ
+[2014-09-02 22:11:31] selendroid-git: selendroid/master c1e342d Ainsley Escorce-Jones: Don't load the activity class immediately
+[2014-09-02 22:11:31] selendroid-git: selendroid/master ffeca49 Dominik Dary: Merge pull request #558 from ainsej/lazy-load-class...
+[2014-09-02 22:11:31] selendroid-git, leaving. (#selendroid)
+[2014-09-02 22:11:40] selendroid-git, joining. (#selendroid)
+[2014-09-02 22:11:40] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/gx-V7A
+[2014-09-02 22:11:40] selendroid-git: selendroid/master d801217 Ainsley Escorce-Jones: Fixes bug in findElementsByName()
+[2014-09-02 22:11:41] selendroid-git: selendroid/master ab765a2 Dominik Dary: Merge pull request #559 from ainsej/fix-findelementsbyname...
+[2014-09-02 22:11:41] selendroid-git, leaving. (#selendroid)
+[2014-09-02 22:11:55] selendroid-git, joining. (#selendroid)
+[2014-09-02 22:11:55] selendroid-git: [selendroid] DominikDary closed pull request #560: Optimize searching for elements in selendroid (master...search-optimize) http://git.io/7SHG0Q
+[2014-09-02 22:11:55] selendroid-git, leaving. (#selendroid)
+[2014-09-02 22:12:05] selendroid-git, joining. (#selendroid)
+[2014-09-02 22:12:05] selendroid-git: [selendroid] DominikDary closed pull request #561: Allowed disabling of adb logcat device logging with flag (master...no-device-log) http://git.io/F0re9A
+[2014-09-02 22:12:06] selendroid-git, leaving. (#selendroid)
+[2014-09-02 22:12:16] selendroid-git, joining. (#selendroid)
+[2014-09-02 22:12:16] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/pOlxMQ
+[2014-09-02 22:12:16] selendroid-git: selendroid/master c0fdcf0 Ainsley Escorce-Jones: Cleaned up repetitive error handling in selendroid-server
+[2014-09-02 22:12:16] selendroid-git: selendroid/master 9829487 Dominik Dary: Merge pull request #562 from ainsej/actionhandler-cleanup...
+[2014-09-02 22:12:16] selendroid-git, leaving. (#selendroid)
+[2014-09-02 22:12:26] selendroid-git, joining. (#selendroid)
+[2014-09-02 22:12:26] selendroid-git: [selendroid] DominikDary closed pull request #563: Stop swallowing exception when waiting for instrumentation (master...verbose_exception) http://git.io/cgb8rQ
+[2014-09-02 22:12:26] selendroid-git, leaving. (#selendroid)
+[2014-09-02 22:14:24] selendroid-git, joining. (#selendroid)
+[2014-09-02 22:14:24] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/deSRaQ
+[2014-09-02 22:14:24] selendroid-git: selendroid/master 3673982 Dominik Dary: Update AUTHORS
+[2014-09-02 22:14:24] selendroid-git, leaving. (#selendroid)
