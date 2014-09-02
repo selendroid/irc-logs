@@ -50,3 +50,4 @@
 [2014-09-02 17:02:28] selendroid-git: [selendroid] ainsej opened pull request #561: Allowed disabling of adb logcat device logging with flag (master...no-device-log) http://git.io/F0re9A
 [2014-09-02 17:02:28] selendroid-git, leaving. (#selendroid)
 [2014-09-02 17:14:42] lukeis, joining. (#selendroid)
+[2014-09-02 17:19:34] maan, quitting. (Remote host closed the connection)
