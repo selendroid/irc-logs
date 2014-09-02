@@ -159,3 +159,8 @@
 [2014-09-02 22:29:11] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/9dQX9g
 [2014-09-02 22:29:11] selendroid-git: selendroid/master 0354040 Dominik Dary: Update changelog.md
 [2014-09-02 22:29:11] selendroid-git, leaving. (#selendroid)
+[2014-09-02 22:37:29] selendroid-git, joining. (#selendroid)
+[2014-09-02 22:37:29] selendroid-git: [selendroid] ainsej pushed 2 new commits to master: http://git.io/-x2y3g
+[2014-09-02 22:37:29] selendroid-git: selendroid/master d90ff53 Ainsley Escorce-Jones: Allow selendroid-server start timeout to be passed on command line
+[2014-09-02 22:37:29] selendroid-git: selendroid/master 9ceb894 ainsej: Merge pull request #564 from ainsej/custom-start-timeout...
+[2014-09-02 22:37:29] selendroid-git, leaving. (#selendroid)
