@@ -15,3 +15,4 @@
 [2014-09-02 08:39:03] ishmael, joining. (#selendroid)
 [2014-09-02 08:50:12] ishmael, quitting. (Ping timeout: 245 seconds)
 [2014-09-02 08:55:01] ishmael, joining. (#selendroid)
+[2014-09-02 08:59:22] ishmael, quitting. (Ping timeout: 245 seconds)
