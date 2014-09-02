@@ -57,3 +57,7 @@
 [2014-09-02 18:13:58] selendroid-git, joining. (#selendroid)
 [2014-09-02 18:13:58] selendroid-git: [selendroid] ainsej opened pull request #562: Cleaned up repetitive error handling in selendroid-server (master...actionhandler-cleanup) http://git.io/RYsXEg
 [2014-09-02 18:13:58] selendroid-git, leaving. (#selendroid)
+[2014-09-02 18:17:16] lukeis: hi ains, thanks for all the pull requests! :)  I'll try to look through some of them today
+[2014-09-02 18:17:59] ains: No worries luke, the last one is pretty big (no functional changes) but the others aren't
+[2014-09-02 18:18:16] ains: Let me know if you have any questions though, happy to help
+[2014-09-02 18:19:28] smccarthy, joining. (#selendroid)
