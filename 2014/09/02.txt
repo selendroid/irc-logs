@@ -184,3 +184,13 @@
 [2014-09-02 23:06:39] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/QwiNTg
 [2014-09-02 23:06:39] selendroid-git: selendroid/master 758b7eb Dominik Dary: Update changelog.md...
 [2014-09-02 23:06:39] selendroid-git, leaving. (#selendroid)
+[2014-09-02 23:10:44] travis-ci, joining. (#selendroid)
+[2014-09-02 23:10:44] travis-ci: [travis-ci] selendroid/selendroid#315 (master - 758b7eb : Dominik Dary): The build passed.
+[2014-09-02 23:10:44] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/a1aae69981e2...758b7eb00c47
+[2014-09-02 23:10:44] travis-ci, leaving. (#selendroid)
+[2014-09-02 23:10:44] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34229123
+[2014-09-02 23:12:19] travis-ci, joining. (#selendroid)
+[2014-09-02 23:12:19] travis-ci: [travis-ci] selendroid/selendroid#314 (master - a1aae69 : Dominik Dary): The build passed.
+[2014-09-02 23:12:19] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/9ceb894343db...a1aae69981e2
+[2014-09-02 23:12:19] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34228938
+[2014-09-02 23:12:20] travis-ci, leaving. (#selendroid)
