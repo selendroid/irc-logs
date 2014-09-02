@@ -29,3 +29,6 @@
 [2014-09-02 12:34:56] selendroid-git, joining. (#selendroid)
 [2014-09-02 12:34:56] selendroid-git: [selendroid] ainsej opened pull request #557: Added freeing on selendroidPort on driver.quit() (master...free-port) http://git.io/eiP5_g
 [2014-09-02 12:34:56] selendroid-git, leaving. (#selendroid)
+[2014-09-02 12:53:29] selendroid-git, joining. (#selendroid)
+[2014-09-02 12:53:29] selendroid-git: [selendroid] ainsej opened pull request #558: Don't load the activity class immediately (master...lazy-load-class) http://git.io/dWSO2Q
+[2014-09-02 12:53:29] selendroid-git, leaving. (#selendroid)
