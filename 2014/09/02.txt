@@ -82,3 +82,8 @@
 [2014-09-02 21:07:31] ddary, joining. (#selendroid)
 [2014-09-02 21:08:42] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-09-02 21:08:56] smccarthy2, joining. (#selendroid)
+[2014-09-02 21:33:03] ains, joining. (#selendroid)
+[2014-09-02 21:33:59] ddary: Hi ains
+[2014-09-02 21:34:03] ains: ddary: Haven't checked with simon (he's gone to selenium conf in India), but what's his CLA status with Selendroid, does he contribute under a personal CLA or FB
+[2014-09-02 21:34:04] ains: Heyo
+[2014-09-02 21:34:31] ddary: he contributes on the facebook one
