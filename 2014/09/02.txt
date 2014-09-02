@@ -61,3 +61,6 @@
 [2014-09-02 18:17:59] ains: No worries luke, the last one is pretty big (no functional changes) but the others aren't
 [2014-09-02 18:18:16] ains: Let me know if you have any questions though, happy to help
 [2014-09-02 18:19:28] smccarthy, joining. (#selendroid)
+[2014-09-02 18:20:19] selendroid-git, joining. (#selendroid)
+[2014-09-02 18:20:19] selendroid-git: [selendroid] ainsej opened pull request #563: Stop swallowing exception when waiting for instrumentation (master...verbose_exception) http://git.io/cgb8rQ
+[2014-09-02 18:20:19] selendroid-git, leaving. (#selendroid)
