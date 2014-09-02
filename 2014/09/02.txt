@@ -40,3 +40,4 @@
 [2014-09-02 13:22:52] selendroid-git, leaving. (#selendroid)
 [2014-09-02 13:55:29] smiklosovic|lunc, changing nick to smikloso.
 [2014-09-02 14:13:47] operatiay, quitting. (Remote host closed the connection)
+[2014-09-02 14:19:44] operatiay, joining. (#selendroid)
