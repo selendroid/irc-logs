@@ -52,3 +52,5 @@
 [2014-09-02 17:14:42] lukeis, joining. (#selendroid)
 [2014-09-02 17:19:34] maan, quitting. (Remote host closed the connection)
 [2014-09-02 17:29:44] maan, joining. (#selendroid)
+[2014-09-02 18:05:49] ains, joining. (#selendroid)
+[2014-09-02 18:08:49] operatiay, quitting. (Remote host closed the connection)
