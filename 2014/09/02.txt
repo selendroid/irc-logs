@@ -71,3 +71,4 @@
 [2014-09-02 18:31:07] ains, quitting. (Ping timeout: 246 seconds)
 [2014-09-02 18:33:18] ains, joining. (#selendroid)
 [2014-09-02 18:43:43] ains, quitting. (Ping timeout: 246 seconds)
+[2014-09-02 19:26:38] maan, quitting. (Remote host closed the connection)
