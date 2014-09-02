@@ -32,3 +32,6 @@
 [2014-09-02 12:53:29] selendroid-git, joining. (#selendroid)
 [2014-09-02 12:53:29] selendroid-git: [selendroid] ainsej opened pull request #558: Don't load the activity class immediately (master...lazy-load-class) http://git.io/dWSO2Q
 [2014-09-02 12:53:29] selendroid-git, leaving. (#selendroid)
+[2014-09-02 13:02:33] selendroid-git, joining. (#selendroid)
+[2014-09-02 13:02:33] selendroid-git: [selendroid] ainsej opened pull request #559: Fixes bug in findElementsByName() (master...fix-findelementsbyname) http://git.io/g63J_g
+[2014-09-02 13:02:33] selendroid-git, leaving. (#selendroid)
