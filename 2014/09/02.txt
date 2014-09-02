@@ -54,3 +54,6 @@
 [2014-09-02 17:29:44] maan, joining. (#selendroid)
 [2014-09-02 18:05:49] ains, joining. (#selendroid)
 [2014-09-02 18:08:49] operatiay, quitting. (Remote host closed the connection)
+[2014-09-02 18:13:58] selendroid-git, joining. (#selendroid)
+[2014-09-02 18:13:58] selendroid-git: [selendroid] ainsej opened pull request #562: Cleaned up repetitive error handling in selendroid-server (master...actionhandler-cleanup) http://git.io/RYsXEg
+[2014-09-02 18:13:58] selendroid-git, leaving. (#selendroid)
