@@ -6,3 +6,5 @@
 [2014-09-03 03:52:47] smccarthy, joining. (#selendroid)
 [2014-09-03 05:52:53] maan, joining. (#selendroid)
 [2014-09-03 05:57:02] lukeis, joining. (#selendroid)
+[2014-09-03 06:01:38] lukeis1, joining. (#selendroid)
+[2014-09-03 06:04:39] lukeis, quitting. (Ping timeout: 268 seconds)
