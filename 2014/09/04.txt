@@ -20,3 +20,4 @@
 [2014-09-04 09:12:13] maan, joining. (#selendroid)
 [2014-09-04 10:14:22] maan, quitting. (Remote host closed the connection)
 [2014-09-04 10:26:26] detronizator, joining. (#selendroid)
+[2014-09-04 10:31:31] operatiay, joining. (#selendroid)
