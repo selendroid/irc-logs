@@ -77,3 +77,4 @@
 [2014-09-04 13:51:50] travis-ci, leaving. (#selendroid)
 [2014-09-04 14:40:21] operatiay, quitting. (Remote host closed the connection)
 [2014-09-04 14:41:06] operatiay, joining. (#selendroid)
+[2014-09-04 14:46:53] operatiay, quitting. (Ping timeout: 276 seconds)
