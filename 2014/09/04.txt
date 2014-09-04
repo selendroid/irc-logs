@@ -82,3 +82,6 @@
 [2014-09-04 16:08:57] rindolf, leaving. ("http://www.shlomifish.org/ ; It takes Summer Glau exactly a minute to write a rebuttal like in xkcd: “Venting”, and she would sign it as Chuck Norris.   ( http://is.gd/U2VvJt )")
 [2014-09-04 16:17:03] smikloso, quitting. (*.net *.split)
 [2014-09-04 16:22:40] smikloso, joining. (#selendroid)
+[2014-09-04 16:33:23] smikloso, changing nick to 77CAABL28.
+[2014-09-04 16:33:25] smikloso, joining. (#selendroid)
+[2014-09-04 16:33:49] smikloso, quitting. (Ping timeout: 244 seconds)
