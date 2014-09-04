@@ -103,3 +103,15 @@
 [2014-09-04 18:33:29] lukeis: ah, that makes sense then :)
 [2014-09-04 18:33:49] lukeis: we used to have a command line option -installedApp :-D
 [2014-09-04 18:34:46] lukeis: you could have a dummy apk, that just has a manifest with the appropriate info, selendroid won't install it if already there (i think...)
+[2014-09-04 18:35:12] lukeis: at least, that's how we're using it, but the 'dummy' apk, is a real one in our case
+[2014-09-04 18:35:39] ains: yeah considered the dummy APK
+[2014-09-04 18:35:55] ains: and we still use -installedApp in our fork
+[2014-09-04 18:36:00] ains: but we're deforking at
+[2014-09-04 18:36:01] lukeis: :)
+[2014-09-04 18:36:09] ains: the moment*
+[2014-09-04 18:36:29] lukeis: glad that was useful to more than just me then :)
+[2014-09-04 18:36:29] ains: So fingers crossed next week we'll be working straight on upstream
+[2014-09-04 18:36:40] lukeis: nice
+[2014-09-04 18:38:46] ains: Also finishing off a PR for tomorrow probably which will propagate unhandled exceptions in the AUT instead of showing up as a selendroid timeout
+[2014-09-04 18:39:10] ains: But need to find ways to add to the tests before I finish it off
+[2014-09-04 18:39:21] ains: as selendroid-test-app doesn't use a standalone-server instance
