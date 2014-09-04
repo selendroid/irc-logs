@@ -92,3 +92,8 @@
 [2014-09-04 17:50:18] 77CAABL28, leaving. (#selendroid)
 [2014-09-04 18:13:39] smccarthy, joining. (#selendroid)
 [2014-09-04 18:14:22] operatiay, quitting. (Remote host closed the connection)
+[2014-09-04 18:15:53] lukeis: ains: you don't have to make pull requests for everything :) you could just push directly to selendroid
+[2014-09-04 18:16:41] ains: Yeah I should probably change that, have become a bit entrenched in the PR workflow
+[2014-09-04 18:17:04] ains: the two outstanding PRs are large(ish) changes though, so they're there for you guys to check out before the merge
+[2014-09-04 18:17:27] lukeis: sounds good :)  and yeah, i typically do a PR when I want dominik to review something
+[2014-09-04 18:18:06] ains: yup for sure, feel free to check over those two incase you have any comments/suggestions
