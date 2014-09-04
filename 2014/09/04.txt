@@ -79,3 +79,4 @@
 [2014-09-04 14:41:06] operatiay, joining. (#selendroid)
 [2014-09-04 14:46:53] operatiay, quitting. (Ping timeout: 276 seconds)
 [2014-09-04 14:52:59] operatiay, joining. (#selendroid)
+[2014-09-04 16:08:57] rindolf, leaving. ("http://www.shlomifish.org/ ; It takes Summer Glau exactly a minute to write a rebuttal like in xkcd: “Venting”, and she would sign it as Chuck Norris.   ( http://is.gd/U2VvJt )")
