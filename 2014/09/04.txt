@@ -36,3 +36,11 @@
 [2014-09-04 12:52:13] selendroid-git: [selendroid] DominikDary closed pull request #571: Removed effectively duplicated block of code (master...cleanup-1) http://git.io/vV34iw
 [2014-09-04 12:52:14] selendroid-git, leaving. (#selendroid)
 [2014-09-04 12:53:52] rindolf: Hi all. Where can I find a channel for discussing E-bay problems on Freenode? Google is no help.
+[2014-09-04 12:56:30] travis-ci, joining. (#selendroid)
+[2014-09-04 12:56:30] travis-ci: [travis-ci] selendroid/selendroid#322 (master - 53b050f : Dominik Dary): The build passed.
+[2014-09-04 12:56:30] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/758b7eb00c47...53b050ff83c8
+[2014-09-04 12:56:30] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34379484
+[2014-09-04 12:56:30] travis-ci, leaving. (#selendroid)
+[2014-09-04 12:59:07] selendroid-git, joining. (#selendroid)
+[2014-09-04 12:59:07] selendroid-git: [selendroid] ainsej opened pull request #572: Minor cleanup of booleans, unused needed vars & spelling in SelendroidSt... (master...master) http://git.io/SrTXwg
+[2014-09-04 12:59:07] selendroid-git, leaving. (#selendroid)
