@@ -137,3 +137,8 @@
 [2014-09-04 20:44:08] selendroid-git: selendroid/master e2e2aaa Ainsley Escorce-Jones: Added dynamic extension loading feature
 [2014-09-04 20:44:08] selendroid-git: selendroid/master 70a6360 ainsej: Merge pull request #569 from ainsej/dynamic-extension-loading...
 [2014-09-04 20:44:08] selendroid-git, leaving. (#selendroid)
+[2014-09-04 20:46:53] selendroid-git, joining. (#selendroid)
+[2014-09-04 20:46:54] selendroid-git: [selendroid] ainsej pushed 2 new commits to master: http://git.io/WKYKOw
+[2014-09-04 20:46:54] selendroid-git: selendroid/master 6c9fc78 Ainsley Escorce-Jones: Assume AUT is already installed
+[2014-09-04 20:46:54] selendroid-git: selendroid/master 2f5a7b8 ainsej: Merge pull request #567 from ainsej/assume-app-installed...
+[2014-09-04 20:46:54] selendroid-git, leaving. (#selendroid)
