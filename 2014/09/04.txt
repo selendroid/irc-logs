@@ -52,3 +52,8 @@
 [2014-09-04 13:18:31] selendroid-git, joining. (#selendroid)
 [2014-09-04 13:18:31] selendroid-git: [selendroid] ainsej opened pull request #573: Added --help option to standalone-server (master...print-help) http://git.io/ptph1A
 [2014-09-04 13:18:31] selendroid-git, leaving. (#selendroid)
+[2014-09-04 13:23:35] selendroid-git, joining. (#selendroid)
+[2014-09-04 13:23:35] selendroid-git: [selendroid] ainsej pushed 2 new commits to master: http://git.io/3yTbQg
+[2014-09-04 13:23:35] selendroid-git: selendroid/master a262ff4 Ainsley Escorce-Jones: Added --help option to standalone-server
+[2014-09-04 13:23:35] selendroid-git: selendroid/master c47acbd ainsej: Merge pull request #573 from ainsej/print-help...
+[2014-09-04 13:23:35] selendroid-git, leaving. (#selendroid)
