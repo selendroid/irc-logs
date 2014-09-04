@@ -49,3 +49,6 @@
 [2014-09-04 13:04:22] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/53b050ff83c8...d454af3e0e13
 [2014-09-04 13:04:23] travis-ci, leaving. (#selendroid)
 [2014-09-04 13:04:23] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34379938
+[2014-09-04 13:18:31] selendroid-git, joining. (#selendroid)
+[2014-09-04 13:18:31] selendroid-git: [selendroid] ainsej opened pull request #573: Added --help option to standalone-server (master...print-help) http://git.io/ptph1A
+[2014-09-04 13:18:31] selendroid-git, leaving. (#selendroid)
