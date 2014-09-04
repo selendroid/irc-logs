@@ -57,3 +57,8 @@
 [2014-09-04 13:23:35] selendroid-git: selendroid/master a262ff4 Ainsley Escorce-Jones: Added --help option to standalone-server
 [2014-09-04 13:23:35] selendroid-git: selendroid/master c47acbd ainsej: Merge pull request #573 from ainsej/print-help...
 [2014-09-04 13:23:35] selendroid-git, leaving. (#selendroid)
+[2014-09-04 13:29:00] travis-ci, joining. (#selendroid)
+[2014-09-04 13:29:01] travis-ci: [travis-ci] selendroid/selendroid#326 (master - c47acbd : ainsej): The build passed.
+[2014-09-04 13:29:01] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/d454af3e0e13...c47acbd2b052
+[2014-09-04 13:29:01] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34381607
+[2014-09-04 13:29:01] travis-ci, leaving. (#selendroid)
