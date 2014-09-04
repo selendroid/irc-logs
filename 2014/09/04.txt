@@ -70,3 +70,8 @@
 [2014-09-04 13:47:39] selendroid-git: selendroid/master 2ae73c0 Ainsley Escorce-Jones: Separated SelendroidLauncher main, to allow for easier programmatic calling
 [2014-09-04 13:47:39] selendroid-git: selendroid/master ee9ce9d ainsej: Merge pull request #574 from ainsej/launcher-get-instance...
 [2014-09-04 13:47:40] selendroid-git, leaving. (#selendroid)
+[2014-09-04 13:51:50] travis-ci: [travis-ci] selendroid/selendroid#328 (master - ee9ce9d : ainsej): The build passed.
+[2014-09-04 13:51:50] travis-ci, joining. (#selendroid)
+[2014-09-04 13:51:50] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34383350
+[2014-09-04 13:51:50] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/c47acbd2b052...ee9ce9da76f3
+[2014-09-04 13:51:50] travis-ci, leaving. (#selendroid)
