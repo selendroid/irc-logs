@@ -25,3 +25,6 @@
 [2014-09-04 10:42:22] selendroid-git: [selendroid] ainsej opened pull request #569: RFC: Added dynamic extension loading feature (master...dynamic-extension-loading) http://git.io/MwiDcw
 [2014-09-04 10:42:22] selendroid-git, leaving. (#selendroid)
 [2014-09-04 10:49:46] smikloso, joining. (#selendroid)
+[2014-09-04 12:13:41] selendroid-git, joining. (#selendroid)
+[2014-09-04 12:13:41] selendroid-git: [selendroid] koichirok opened pull request #570: Add viewport meta tag support for webview app (master...viewport_meta_tag_support) http://git.io/_21A7w
+[2014-09-04 12:13:41] selendroid-git, leaving. (#selendroid)
