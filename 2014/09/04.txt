@@ -130,3 +130,4 @@
 [2014-09-04 20:18:09] lukeis: yes
 [2014-09-04 20:18:14] ddary: maybe I will have meeting
 [2014-09-04 20:18:15] ddary: s
+[2014-09-04 20:25:14] maan, joining. (#selendroid)
