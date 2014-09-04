@@ -28,3 +28,6 @@
 [2014-09-04 12:13:41] selendroid-git, joining. (#selendroid)
 [2014-09-04 12:13:41] selendroid-git: [selendroid] koichirok opened pull request #570: Add viewport meta tag support for webview app (master...viewport_meta_tag_support) http://git.io/_21A7w
 [2014-09-04 12:13:41] selendroid-git, leaving. (#selendroid)
+[2014-09-04 12:47:36] selendroid-git, joining. (#selendroid)
+[2014-09-04 12:47:36] selendroid-git: [selendroid] ainsej opened pull request #571: Removed effectively duplicated block of code (master...cleanup-1) http://git.io/vV34iw
+[2014-09-04 12:47:36] selendroid-git, leaving. (#selendroid)
