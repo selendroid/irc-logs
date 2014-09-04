@@ -24,3 +24,4 @@
 [2014-09-04 10:42:22] selendroid-git, joining. (#selendroid)
 [2014-09-04 10:42:22] selendroid-git: [selendroid] ainsej opened pull request #569: RFC: Added dynamic extension loading feature (master...dynamic-extension-loading) http://git.io/MwiDcw
 [2014-09-04 10:42:22] selendroid-git, leaving. (#selendroid)
+[2014-09-04 10:49:46] smikloso, joining. (#selendroid)
