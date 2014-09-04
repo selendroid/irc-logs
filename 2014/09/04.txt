@@ -65,3 +65,8 @@
 [2014-09-04 13:43:02] selendroid-git, joining. (#selendroid)
 [2014-09-04 13:43:02] selendroid-git: [selendroid] ainsej opened pull request #574: Separated SelendroidLauncher main, to allow for easier programmatic call... (master...launcher-get-instance) http://git.io/vXOWVQ
 [2014-09-04 13:43:02] selendroid-git, leaving. (#selendroid)
+[2014-09-04 13:47:39] selendroid-git, joining. (#selendroid)
+[2014-09-04 13:47:39] selendroid-git: [selendroid] ainsej pushed 2 new commits to master: http://git.io/Iatz6Q
+[2014-09-04 13:47:39] selendroid-git: selendroid/master 2ae73c0 Ainsley Escorce-Jones: Separated SelendroidLauncher main, to allow for easier programmatic calling
+[2014-09-04 13:47:39] selendroid-git: selendroid/master ee9ce9d ainsej: Merge pull request #574 from ainsej/launcher-get-instance...
+[2014-09-04 13:47:40] selendroid-git, leaving. (#selendroid)
