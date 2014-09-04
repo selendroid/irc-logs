@@ -98,3 +98,8 @@
 [2014-09-04 18:17:27] lukeis: sounds good :)  and yeah, i typically do a PR when I want dominik to review something
 [2014-09-04 18:18:06] ains: yup for sure, feel free to check over those two incase you have any comments/suggestions
 [2014-09-04 18:28:06] lukeis: the installedApp thing looks hauntingly familiar… like what I had done before ;)  (and then dominik changed how -aut worked and dealt with an app being installed already)… haven't dug into your code for your use case yet, but I'm uncertain what your use case is (since it currently works for me if the app is already installed)
+[2014-09-04 18:33:12] ains: The way we run our tests we don't have an APK to pass to selendroid
+[2014-09-04 18:33:22] ains: It's already signed/installed on the device
+[2014-09-04 18:33:29] lukeis: ah, that makes sense then :)
+[2014-09-04 18:33:49] lukeis: we used to have a command line option -installedApp :-D
+[2014-09-04 18:34:46] lukeis: you could have a dummy apk, that just has a manifest with the appropriate info, selendroid won't install it if already there (i think...)
