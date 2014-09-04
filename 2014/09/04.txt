@@ -88,3 +88,4 @@
 [2014-09-04 16:55:44] operatiay, quitting. (Remote host closed the connection)
 [2014-09-04 16:57:19] operatiay, joining. (#selendroid)
 [2014-09-04 17:41:59] lukeis, joining. (#selendroid)
+[2014-09-04 17:45:34] ains, joining. (#selendroid)
