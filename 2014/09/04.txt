@@ -115,3 +115,4 @@
 [2014-09-04 18:38:46] ains: Also finishing off a PR for tomorrow probably which will propagate unhandled exceptions in the AUT instead of showing up as a selendroid timeout
 [2014-09-04 18:39:10] ains: But need to find ways to add to the tests before I finish it off
 [2014-09-04 18:39:21] ains: as selendroid-test-app doesn't use a standalone-server instance
+[2014-09-04 18:50:12] ains, quitting. (Quit: Page closed)
