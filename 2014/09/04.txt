@@ -152,3 +152,4 @@
 [2014-09-04 21:21:36] selendroid-git, leaving. (#selendroid)
 [2014-09-04 22:16:02] operatiay, joining. (#selendroid)
 [2014-09-04 22:20:30] operatiay, quitting. (Ping timeout: 246 seconds)
+[2014-09-04 22:37:59] maan, quitting. (Remote host closed the connection)
