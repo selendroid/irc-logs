@@ -62,3 +62,6 @@
 [2014-09-04 13:29:01] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/d454af3e0e13...c47acbd2b052
 [2014-09-04 13:29:01] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34381607
 [2014-09-04 13:29:01] travis-ci, leaving. (#selendroid)
+[2014-09-04 13:43:02] selendroid-git, joining. (#selendroid)
+[2014-09-04 13:43:02] selendroid-git: [selendroid] ainsej opened pull request #574: Separated SelendroidLauncher main, to allow for easier programmatic call... (master...launcher-get-instance) http://git.io/vXOWVQ
+[2014-09-04 13:43:02] selendroid-git, leaving. (#selendroid)
