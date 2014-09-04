@@ -97,3 +97,4 @@
 [2014-09-04 18:17:04] ains: the two outstanding PRs are large(ish) changes though, so they're there for you guys to check out before the merge
 [2014-09-04 18:17:27] lukeis: sounds good :)  and yeah, i typically do a PR when I want dominik to review something
 [2014-09-04 18:18:06] ains: yup for sure, feel free to check over those two incase you have any comments/suggestions
+[2014-09-04 18:28:06] lukeis: the installedApp thing looks hauntingly familiar… like what I had done before ;)  (and then dominik changed how -aut worked and dealt with an app being installed already)… haven't dug into your code for your use case yet, but I'm uncertain what your use case is (since it currently works for me if the app is already installed)
