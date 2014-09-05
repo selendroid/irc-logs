@@ -85,3 +85,12 @@
 [2014-09-05 20:47:55] selendroid-git, joining. (#selendroid)
 [2014-09-05 20:47:55] selendroid-git: [selendroid] ainsej closed pull request #577: Added server side support for new low-level-action API (master...actions-endpoint) http://git.io/dpkFWw
 [2014-09-05 20:47:56] selendroid-git, leaving. (#selendroid)
+[2014-09-05 20:51:56] selendroid-git, joining. (#selendroid)
+[2014-09-05 20:51:57] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/FVYoPQ
+[2014-09-05 20:51:57] selendroid-git: selendroid/master 642a333 Ainsley Escorce-Jones: Added empty()/copyOf()/withMerged() to SelendroidCapabilities
+[2014-09-05 20:51:57] selendroid-git, leaving. (#selendroid)
+[2014-09-05 20:53:16] travis-ci, joining. (#selendroid)
+[2014-09-05 20:53:17] travis-ci: [travis-ci] selendroid/selendroid#337 (master - dcfd380 : ainsej): The build passed.
+[2014-09-05 20:53:17] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/9a8b50b74829...dcfd38027379
+[2014-09-05 20:53:17] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34524043
+[2014-09-05 20:53:17] travis-ci, leaving. (#selendroid)
