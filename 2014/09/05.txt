@@ -9,3 +9,6 @@
 [2014-09-05 06:56:12] selendroid-git, joining. (#selendroid)
 [2014-09-05 06:56:12] selendroid-git: [selendroid] koichirok closed pull request #570: Add viewport meta tag support for webview app (master...viewport_meta_tag_support) http://git.io/_21A7w
 [2014-09-05 06:56:12] selendroid-git, leaving. (#selendroid)
+[2014-09-05 07:31:01] selendroid-git, joining. (#selendroid)
+[2014-09-05 07:31:01] selendroid-git: [selendroid] koichirok opened pull request #576: Enable wide viewport and overview mode like android's built-in browser app (master...android-driver-viewport) http://git.io/yjDq0g
+[2014-09-05 07:31:01] selendroid-git, leaving. (#selendroid)
