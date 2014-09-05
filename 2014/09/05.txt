@@ -68,3 +68,4 @@
 [2014-09-05 16:02:42] selendroid-git, leaving. (#selendroid)
 [2014-09-05 16:29:49] smccarthy, quitting. (Read error: Connection reset by peer)
 [2014-09-05 16:34:59] smikloso, leaving. (#selendroid)
+[2014-09-05 17:28:34] maan, joining. (#selendroid)
