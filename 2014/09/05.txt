@@ -55,3 +55,4 @@
 [2014-09-05 12:41:13] maan, joining. (#selendroid)
 [2014-09-05 13:01:56] maan, quitting. (Remote host closed the connection)
 [2014-09-05 13:06:35] maan, joining. (#selendroid)
+[2014-09-05 13:11:16] ains, quitting. (Ping timeout: 246 seconds)
