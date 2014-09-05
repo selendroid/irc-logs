@@ -38,3 +38,7 @@
 [2014-09-05 11:07:35] smikloso, joining. (#selendroid)
 [2014-09-05 12:09:22] maan, joining. (#selendroid)
 [2014-09-05 12:11:27] maan, quitting. (Read error: Connection reset by peer)
+[2014-09-05 12:16:35] maan, joining. (#selendroid)
+[2014-09-05 12:17:00] maan, quitting. (Read error: Connection reset by peer)
+[2014-09-05 12:17:45] maan, joining. (#selendroid)
+[2014-09-05 12:19:51] maan, quitting. (Read error: Connection reset by peer)
