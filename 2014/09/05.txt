@@ -6,3 +6,6 @@
 [2014-09-05 06:19:13] operatiay, joining. (#selendroid)
 [2014-09-05 06:23:22] operatiay, quitting. (Ping timeout: 240 seconds)
 [2014-09-05 06:52:27] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-05 06:56:12] selendroid-git, joining. (#selendroid)
+[2014-09-05 06:56:12] selendroid-git: [selendroid] koichirok closed pull request #570: Add viewport meta tag support for webview app (master...viewport_meta_tag_support) http://git.io/_21A7w
+[2014-09-05 06:56:12] selendroid-git, leaving. (#selendroid)
