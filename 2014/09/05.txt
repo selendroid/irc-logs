@@ -94,3 +94,11 @@
 [2014-09-05 20:53:17] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/9a8b50b74829...dcfd38027379
 [2014-09-05 20:53:17] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34524043
 [2014-09-05 20:53:17] travis-ci, leaving. (#selendroid)
+[2014-09-05 20:56:04] selendroid-git, joining. (#selendroid)
+[2014-09-05 20:56:04] selendroid-git: [selendroid] lukeis closed pull request #576: Enable wide viewport and overview mode like android's built-in browser app (master...android-driver-viewport) http://git.io/yjDq0g
+[2014-09-05 20:56:04] selendroid-git, leaving. (#selendroid)
+[2014-09-05 20:59:29] travis-ci, joining. (#selendroid)
+[2014-09-05 20:59:29] travis-ci: [travis-ci] selendroid/selendroid#338 (master - 642a333 : Ainsley Escorce-Jones): The build passed.
+[2014-09-05 20:59:30] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/dcfd38027379...642a333ba0cf
+[2014-09-05 20:59:30] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34524376
+[2014-09-05 20:59:30] travis-ci, leaving. (#selendroid)
