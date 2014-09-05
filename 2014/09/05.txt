@@ -26,3 +26,6 @@
 [2014-09-05 10:33:51] operatiay, joining. (#selendroid)
 [2014-09-05 10:51:09] smikloso, joining. (#selendroid)
 [2014-09-05 10:54:54] ains, joining. (#selendroid)
+[2014-09-05 11:02:24] selendroid-git, joining. (#selendroid)
+[2014-09-05 11:02:24] selendroid-git: [selendroid] ainsej closed pull request #575: Report unhandled exceptions under instrumentation as AppCrashedException (master...propagate-appcrash) http://git.io/vTvAyQ
+[2014-09-05 11:02:24] selendroid-git, leaving. (#selendroid)
