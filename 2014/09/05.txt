@@ -37,3 +37,4 @@
 [2014-09-05 11:07:19] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34476239
 [2014-09-05 11:07:35] smikloso, joining. (#selendroid)
 [2014-09-05 12:09:22] maan, joining. (#selendroid)
+[2014-09-05 12:11:27] maan, quitting. (Read error: Connection reset by peer)
