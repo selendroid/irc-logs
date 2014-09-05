@@ -12,3 +12,4 @@
 [2014-09-05 07:31:01] selendroid-git, joining. (#selendroid)
 [2014-09-05 07:31:01] selendroid-git: [selendroid] koichirok opened pull request #576: Enable wide viewport and overview mode like android's built-in browser app (master...android-driver-viewport) http://git.io/yjDq0g
 [2014-09-05 07:31:01] selendroid-git, leaving. (#selendroid)
+[2014-09-05 07:50:50] maan, joining. (#selendroid)
