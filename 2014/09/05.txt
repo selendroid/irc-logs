@@ -102,3 +102,8 @@
 [2014-09-05 20:59:30] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/dcfd38027379...642a333ba0cf
 [2014-09-05 20:59:30] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34524376
 [2014-09-05 20:59:30] travis-ci, leaving. (#selendroid)
+[2014-09-05 21:02:06] travis-ci, joining. (#selendroid)
+[2014-09-05 21:02:06] travis-ci: [travis-ci] selendroid/selendroid#339 (master - edb88d7 : Luke Inman-Semerau): The build passed.
+[2014-09-05 21:02:06] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/642a333ba0cf...edb88d73d08e
+[2014-09-05 21:02:06] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34524724
+[2014-09-05 21:02:06] travis-ci, leaving. (#selendroid)
