@@ -9,3 +9,9 @@
 [2014-09-06 10:45:12] maan, joining. (#selendroid)
 [2014-09-06 12:10:45] maan, quitting. (Ping timeout: 264 seconds)
 [2014-09-06 12:12:30] maan, joining. (#selendroid)
+[2014-09-06 12:52:05] operatiay, joining. (#selendroid)
+[2014-09-06 12:52:11] selendroid-git: [selendroid] ainsej pushed 2 new commits to master: http://git.io/1k1VGA
+[2014-09-06 12:52:11] selendroid-git, joining. (#selendroid)
+[2014-09-06 12:52:11] selendroid-git: selendroid/master 25dde1e Ainsley Escorce-Jones: Fixed regex bug in InstalledAndroidApp
+[2014-09-06 12:52:11] selendroid-git: selendroid/master 985587c Ainsley Escorce-Jones: Removed getInstance() from SelendroidLauncher. It's unnecessary
+[2014-09-06 12:52:11] selendroid-git, leaving. (#selendroid)
