@@ -27,3 +27,6 @@
 [2014-09-06 16:37:57] maan, joining. (#selendroid)
 [2014-09-06 16:40:32] maan, quitting. (Remote host closed the connection)
 [2014-09-06 16:42:53] maan, joining. (#selendroid)
+[2014-09-06 16:48:07] selendroid-git, joining. (#selendroid)
+[2014-09-06 16:48:07] selendroid-git: [selendroid] DominikDary deleted experimental at 5c4c0fb: http://git.io/-LIdXQ
+[2014-09-06 16:48:07] selendroid-git, leaving. (#selendroid)
