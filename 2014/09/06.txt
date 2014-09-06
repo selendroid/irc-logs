@@ -3,3 +3,4 @@
 [2014-09-06 01:33:53] detronizator, quitting. (Ping timeout: 260 seconds)
 [2014-09-06 01:36:57] detronizator, joining. (#selendroid)
 [2014-09-06 04:48:46] operatiay, joining. (#selendroid)
+[2014-09-06 04:53:09] operatiay, quitting. (Ping timeout: 260 seconds)
