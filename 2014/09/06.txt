@@ -30,3 +30,4 @@
 [2014-09-06 16:48:07] selendroid-git, joining. (#selendroid)
 [2014-09-06 16:48:07] selendroid-git: [selendroid] DominikDary deleted experimental at 5c4c0fb: http://git.io/-LIdXQ
 [2014-09-06 16:48:07] selendroid-git, leaving. (#selendroid)
+[2014-09-06 16:53:44] operatiay, joining. (#selendroid)
