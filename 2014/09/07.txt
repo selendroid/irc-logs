@@ -17,3 +17,7 @@
 [2014-09-07 19:55:06] selendroid-git, joining. (#selendroid)
 [2014-09-07 19:55:06] selendroid-git: [selendroid] ainsej opened pull request #578: Changed usages of org.jboss to io.netty. Avoids unnecessary dependency (master...jboss-netty) http://git.io/7VULzQ
 [2014-09-07 19:55:06] selendroid-git, leaving. (#selendroid)
+[2014-09-07 20:18:09] maan, joining. (#selendroid)
+[2014-09-07 20:18:56] selendroid-git, joining. (#selendroid)
+[2014-09-07 20:18:56] selendroid-git: [selendroid] DominikDary closed pull request #578: Changed usages of org.jboss to io.netty. Avoids unnecessary dependency (master...jboss-netty) http://git.io/7VULzQ
+[2014-09-07 20:18:56] selendroid-git, leaving. (#selendroid)
