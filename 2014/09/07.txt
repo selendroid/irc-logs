@@ -21,3 +21,8 @@
 [2014-09-07 20:18:56] selendroid-git, joining. (#selendroid)
 [2014-09-07 20:18:56] selendroid-git: [selendroid] DominikDary closed pull request #578: Changed usages of org.jboss to io.netty. Avoids unnecessary dependency (master...jboss-netty) http://git.io/7VULzQ
 [2014-09-07 20:18:56] selendroid-git, leaving. (#selendroid)
+[2014-09-07 20:22:43] travis-ci, joining. (#selendroid)
+[2014-09-07 20:22:43] travis-ci: [travis-ci] selendroid/selendroid#342 (master - 6c38d89 : Dominik Dary): The build passed.
+[2014-09-07 20:22:43] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/985587ce12ab...6c38d89f5062
+[2014-09-07 20:22:43] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34648437
+[2014-09-07 20:22:43] travis-ci, leaving. (#selendroid)
