@@ -27,3 +27,4 @@
 [2014-09-07 20:22:43] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34648437
 [2014-09-07 20:22:43] travis-ci, leaving. (#selendroid)
 [2014-09-07 21:05:49] operatiay, joining. (#selendroid)
+[2014-09-07 21:10:27] operatiay, quitting. (Ping timeout: 272 seconds)
