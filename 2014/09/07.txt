@@ -14,3 +14,6 @@
 [2014-09-07 14:33:29] maan, joining. (#selendroid)
 [2014-09-07 14:37:10] maan, quitting. (Remote host closed the connection)
 [2014-09-07 17:51:22] smccarthy, joining. (#selendroid)
+[2014-09-07 19:55:06] selendroid-git, joining. (#selendroid)
+[2014-09-07 19:55:06] selendroid-git: [selendroid] ainsej opened pull request #578: Changed usages of org.jboss to io.netty. Avoids unnecessary dependency (master...jboss-netty) http://git.io/7VULzQ
+[2014-09-07 19:55:06] selendroid-git, leaving. (#selendroid)
