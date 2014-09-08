@@ -51,3 +51,9 @@
 [2014-09-08 15:57:56] smccarthy, joining. (#selendroid)
 [2014-09-08 16:21:43] ains, joining. (#selendroid)
 [2014-09-08 16:42:31] operatiay, joining. (#selendroid)
+[2014-09-08 16:58:59] selendroid-git, joining. (#selendroid)
+[2014-09-08 16:58:59] selendroid-git: [selendroid] ainsej pushed 3 new commits to master: http://git.io/CMZL3A
+[2014-09-08 16:58:59] selendroid-git: selendroid/master c23fe9c Ainsley Escorce-Jones: More logging and don't stop emulator if using installed aut
+[2014-09-08 16:59:00] selendroid-git: selendroid/master dc6cd56 Ainsley Escorce-Jones: Fixed order of ServerInstrumentation arguments for extensions
+[2014-09-08 16:59:00] selendroid-git: selendroid/master 28e21e6 Ainsley Escorce-Jones: Removed useless logging calls
+[2014-09-08 16:59:00] selendroid-git, leaving. (#selendroid)
