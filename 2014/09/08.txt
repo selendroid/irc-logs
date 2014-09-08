@@ -71,3 +71,6 @@
 [2014-09-08 18:22:09] selendroid-git, joining. (#selendroid)
 [2014-09-08 18:22:09] selendroid-git: [selendroid] ainsej opened pull request #581: Added rect information to XML source output (master...json-rect) http://git.io/buTtiw
 [2014-09-08 18:22:09] selendroid-git, leaving. (#selendroid)
+[2014-09-08 18:31:03] smccarthy, joining. (#selendroid)
+[2014-09-08 18:33:10] lukeis: ains: you know, I think I met you (although briefly) while I was in London for the selenium W3C meeting. Glad to see you're getting to spend some good amount of time working on this project!
+[2014-09-08 18:33:45] ains, quitting. (Quit: Page closed)
