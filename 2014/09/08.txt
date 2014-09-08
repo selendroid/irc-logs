@@ -10,3 +10,6 @@
 [2014-09-08 11:53:53] selendroid-git, joining. (#selendroid)
 [2014-09-08 11:53:53] selendroid-git: [selendroid] ainsej opened pull request #579: Removed manual looper, exceptions are caught in Standalone now (master...remove-looper) http://git.io/0xcsHg
 [2014-09-08 11:53:53] selendroid-git, leaving. (#selendroid)
+[2014-09-08 12:19:22] selendroid-git, joining. (#selendroid)
+[2014-09-08 12:19:22] selendroid-git: [selendroid] ainsej opened pull request #580: Added setSystemProperty/gc (master...system-endpoints) http://git.io/OQuS4g
+[2014-09-08 12:19:22] selendroid-git, leaving. (#selendroid)
