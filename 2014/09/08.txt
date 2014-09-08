@@ -48,3 +48,4 @@
 [2014-09-08 14:39:51] smikloso, quitting. (Ping timeout: 246 seconds)
 [2014-09-08 15:00:03] smikloso, joining. (#selendroid)
 [2014-09-08 15:42:38] operatiay, quitting. (Remote host closed the connection)
+[2014-09-08 15:57:56] smccarthy, joining. (#selendroid)
