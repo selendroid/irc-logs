@@ -13,3 +13,8 @@
 [2014-09-08 12:19:22] selendroid-git, joining. (#selendroid)
 [2014-09-08 12:19:22] selendroid-git: [selendroid] ainsej opened pull request #580: Added setSystemProperty/gc (master...system-endpoints) http://git.io/OQuS4g
 [2014-09-08 12:19:22] selendroid-git, leaving. (#selendroid)
+[2014-09-08 12:23:02] selendroid-git, joining. (#selendroid)
+[2014-09-08 12:23:02] selendroid-git: [selendroid] ainsej pushed 2 new commits to master: http://git.io/sgaVbA
+[2014-09-08 12:23:02] selendroid-git: selendroid/master b683cde Ainsley Escorce-Jones: Added setSystemProperty/gc
+[2014-09-08 12:23:03] selendroid-git: selendroid/master 4822738 Ainsley Escorce-Jones: Merge pull request #580 from ainsej/system-endpoints...
+[2014-09-08 12:23:03] selendroid-git, leaving. (#selendroid)
