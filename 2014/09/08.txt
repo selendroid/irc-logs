@@ -68,3 +68,6 @@
 [2014-09-08 18:14:32] lukeis, joining. (#selendroid)
 [2014-09-08 18:19:22] smikloso, quitting. (Quit: Leaving.)
 [2014-09-08 18:19:31] operatiay, quitting. (Remote host closed the connection)
+[2014-09-08 18:22:09] selendroid-git, joining. (#selendroid)
+[2014-09-08 18:22:09] selendroid-git: [selendroid] ainsej opened pull request #581: Added rect information to XML source output (master...json-rect) http://git.io/buTtiw
+[2014-09-08 18:22:09] selendroid-git, leaving. (#selendroid)
