@@ -75,3 +75,5 @@
 [2014-09-08 18:33:10] lukeis: ains: you know, I think I met you (although briefly) while I was in London for the selenium W3C meeting. Glad to see you're getting to spend some good amount of time working on this project!
 [2014-09-08 18:33:45] ains, quitting. (Quit: Page closed)
 [2014-09-08 19:03:59] maan, joining. (#selendroid)
+[2014-09-08 19:05:23] lukeis1, joining. (#selendroid)
+[2014-09-08 19:08:26] lukeis, quitting. (Ping timeout: 272 seconds)
