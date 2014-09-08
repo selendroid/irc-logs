@@ -57,3 +57,8 @@
 [2014-09-08 16:59:00] selendroid-git: selendroid/master dc6cd56 Ainsley Escorce-Jones: Fixed order of ServerInstrumentation arguments for extensions
 [2014-09-08 16:59:00] selendroid-git: selendroid/master 28e21e6 Ainsley Escorce-Jones: Removed useless logging calls
 [2014-09-08 16:59:00] selendroid-git, leaving. (#selendroid)
+[2014-09-08 17:08:11] travis-ci, joining. (#selendroid)
+[2014-09-08 17:08:11] travis-ci: [travis-ci] selendroid/selendroid#348 (master - 28e21e6 : Ainsley Escorce-Jones): The build passed.
+[2014-09-08 17:08:11] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/6fa544391e0a...28e21e68e41e
+[2014-09-08 17:08:12] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34716251
+[2014-09-08 17:08:12] travis-ci, leaving. (#selendroid)
