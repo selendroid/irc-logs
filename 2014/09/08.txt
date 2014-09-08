@@ -18,3 +18,21 @@
 [2014-09-08 12:23:02] selendroid-git: selendroid/master b683cde Ainsley Escorce-Jones: Added setSystemProperty/gc
 [2014-09-08 12:23:03] selendroid-git: selendroid/master 4822738 Ainsley Escorce-Jones: Merge pull request #580 from ainsej/system-endpoints...
 [2014-09-08 12:23:03] selendroid-git, leaving. (#selendroid)
+[2014-09-08 12:25:13] selendroid-git, joining. (#selendroid)
+[2014-09-08 12:25:13] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/HsykBw
+[2014-09-08 12:25:13] selendroid-git: selendroid/master 3c33129 Ainsley Escorce-Jones: Naming convention fix in extensions
+[2014-09-08 12:25:14] selendroid-git, leaving. (#selendroid)
+[2014-09-08 12:26:52] travis-ci, joining. (#selendroid)
+[2014-09-08 12:26:52] travis-ci: [travis-ci] selendroid/selendroid#345 (master - 4822738 : Ainsley Escorce-Jones): The build passed.
+[2014-09-08 12:26:52] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/6c38d89f5062...48227386973c
+[2014-09-08 12:26:52] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34694188
+[2014-09-08 12:26:52] travis-ci, leaving. (#selendroid)
+[2014-09-08 12:27:25] selendroid-git, joining. (#selendroid)
+[2014-09-08 12:27:25] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/l8r6_Q
+[2014-09-08 12:27:25] selendroid-git: selendroid/master 6fa5443 Ainsley Escorce-Jones: Copyright bump
+[2014-09-08 12:27:25] selendroid-git, leaving. (#selendroid)
+[2014-09-08 12:28:41] travis-ci, joining. (#selendroid)
+[2014-09-08 12:28:41] travis-ci: [travis-ci] selendroid/selendroid#346 (master - 3c33129 : Ainsley Escorce-Jones): The build passed.
+[2014-09-08 12:28:41] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/48227386973c...3c3312923684
+[2014-09-08 12:28:41] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34694338
+[2014-09-08 12:28:41] travis-ci, leaving. (#selendroid)
