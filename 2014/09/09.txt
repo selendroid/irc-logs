@@ -9,3 +9,6 @@
 [2014-09-09 10:26:47] smikloso, joining. (#selendroid)
 [2014-09-09 10:41:54] operatiay, joining. (#selendroid)
 [2014-09-09 11:02:40] operatiay, quitting. (Remote host closed the connection)
+[2014-09-09 11:10:26] selendroid-git, joining. (#selendroid)
+[2014-09-09 11:10:26] selendroid-git: [selendroid] ainsej opened pull request #583: Made getElementAttribute return a NULL value instead of nothing (master...get-element-attribute-null) http://git.io/RI3WNg
+[2014-09-09 11:10:26] selendroid-git, leaving. (#selendroid)
