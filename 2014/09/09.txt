@@ -3,3 +3,4 @@
 [2014-09-09 05:03:07] operatiay, quitting. (Ping timeout: 272 seconds)
 [2014-09-09 06:04:22] sirsteef, quitting. (Ping timeout: 245 seconds)
 [2014-09-09 06:10:59] sirsteef, joining. (#selendroid)
+[2014-09-09 06:34:16] smccarthy, quitting. (Quit: Leaving...)
