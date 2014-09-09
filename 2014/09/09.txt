@@ -13,3 +13,5 @@
 [2014-09-09 11:10:26] selendroid-git: [selendroid] ainsej opened pull request #583: Made getElementAttribute return a NULL value instead of nothing (master...get-element-attribute-null) http://git.io/RI3WNg
 [2014-09-09 11:10:26] selendroid-git, leaving. (#selendroid)
 [2014-09-09 11:20:36] operatiay, joining. (#selendroid)
+[2014-09-09 13:20:30] operatiay, quitting. (Remote host closed the connection)
+[2014-09-09 13:20:52] operatiay, joining. (#selendroid)
