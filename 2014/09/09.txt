@@ -27,3 +27,16 @@
 [2014-09-09 16:34:48] selendroid-git: selendroid/master 5f78f4d Ainsley Escorce-Jones: Made getElementAttribute return a NULL value instead of nothing
 [2014-09-09 16:34:48] selendroid-git: selendroid/master 2fee1d2 Dominik Dary: Merge pull request #583 from ainsej/get-element-attribute-null...
 [2014-09-09 16:34:48] selendroid-git, leaving. (#selendroid)
+[2014-09-09 16:35:18] selendroid-git, joining. (#selendroid)
+[2014-09-09 16:35:18] selendroid-git: [selendroid] DominikDary closed pull request #581: Added rect information to XML source output (master...json-rect) http://git.io/buTtiw
+[2014-09-09 16:35:18] selendroid-git, leaving. (#selendroid)
+[2014-09-09 16:38:49] travis-ci, joining. (#selendroid)
+[2014-09-09 16:38:49] travis-ci: [travis-ci] selendroid/selendroid#351 (master - 2fee1d2 : Dominik Dary): The build passed.
+[2014-09-09 16:38:49] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/28e21e68e41e...2fee1d244ca6
+[2014-09-09 16:38:49] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34819732
+[2014-09-09 16:38:49] travis-ci, leaving. (#selendroid)
+[2014-09-09 16:39:39] travis-ci, joining. (#selendroid)
+[2014-09-09 16:39:39] travis-ci: [travis-ci] selendroid/selendroid#352 (master - 9d39356 : Dominik Dary): The build passed.
+[2014-09-09 16:39:39] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/2fee1d244ca6...9d3935604a6a
+[2014-09-09 16:39:39] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34819791
+[2014-09-09 16:39:39] travis-ci, leaving. (#selendroid)
