@@ -22,3 +22,8 @@
 [2014-09-09 14:05:50] sirsteef, joining. (#selendroid)
 [2014-09-09 15:05:06] operatiay, joining. (#selendroid)
 [2014-09-09 15:53:28] operatiay, quitting. (Remote host closed the connection)
+[2014-09-09 16:34:48] selendroid-git, joining. (#selendroid)
+[2014-09-09 16:34:48] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/IIXQtQ
+[2014-09-09 16:34:48] selendroid-git: selendroid/master 5f78f4d Ainsley Escorce-Jones: Made getElementAttribute return a NULL value instead of nothing
+[2014-09-09 16:34:48] selendroid-git: selendroid/master 2fee1d2 Dominik Dary: Merge pull request #583 from ainsej/get-element-attribute-null...
+[2014-09-09 16:34:48] selendroid-git, leaving. (#selendroid)
