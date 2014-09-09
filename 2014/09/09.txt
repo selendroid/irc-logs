@@ -20,3 +20,4 @@
 [2014-09-09 13:58:19] sirsteef, joining. (#selendroid)
 [2014-09-09 14:01:22] sirsteef, quitting. (*.net *.split)
 [2014-09-09 14:05:50] sirsteef, joining. (#selendroid)
+[2014-09-09 15:05:06] operatiay, joining. (#selendroid)
