@@ -12,3 +12,6 @@
 [2014-09-10 08:36:23] operatiay, quitting. (Ping timeout: 268 seconds)
 [2014-09-10 09:26:38] operatiay, joining. (#selendroid)
 [2014-09-10 10:31:11] smikloso, joining. (#selendroid)
+[2014-09-10 10:35:11] selendroid-git, joining. (#selendroid)
+[2014-09-10 10:35:11] selendroid-git: [selendroid] ainsej closed pull request #579: Removed manual looper, exceptions are caught in Standalone now (master...remove-looper) http://git.io/0xcsHg
+[2014-09-10 10:35:11] selendroid-git, leaving. (#selendroid)
