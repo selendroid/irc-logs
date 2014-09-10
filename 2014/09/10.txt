@@ -20,3 +20,6 @@
 [2014-09-10 10:46:02] travis-ci: [travis-ci] selendroid/selendroid#354 (master - 8feefca : Ainsley Escorce-Jones): The build passed.
 [2014-09-10 10:46:02] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34890690
 [2014-09-10 10:46:02] travis-ci, leaving. (#selendroid)
+[2014-09-10 10:51:55] selendroid-git, joining. (#selendroid)
+[2014-09-10 10:51:55] selendroid-git: [selendroid] koichirok opened pull request #585: Added "serial" info when device is hardware (master...put-device-serial) http://git.io/Mbmlbw
+[2014-09-10 10:51:55] selendroid-git, leaving. (#selendroid)
