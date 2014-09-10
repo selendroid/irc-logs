@@ -41,3 +41,13 @@
 [2014-09-10 16:54:57] selendroid-git, joining. (#selendroid)
 [2014-09-10 16:54:57] selendroid-git: [selendroid] ainsej closed pull request #586: Added SelendroidStandaloneDriverEventListener (master...standalone-event-listener) http://git.io/y9ZzbQ
 [2014-09-10 16:54:57] selendroid-git, leaving. (#selendroid)
+[2014-09-10 16:57:17] selendroid-git, joining. (#selendroid)
+[2014-09-10 16:57:17] selendroid-git: [selendroid] ainsej pushed 2 new commits to master: http://git.io/j_iamQ
+[2014-09-10 16:57:17] selendroid-git: selendroid/master 3f5b7ff Ainsley Escorce-Jones: Added interrupt propagation
+[2014-09-10 16:57:17] selendroid-git: selendroid/master 67bdf9d Ainsley Escorce-Jones: Minor cleanup of booleans in SelendroidStandaloneServer
+[2014-09-10 16:57:17] selendroid-git, leaving. (#selendroid)
+[2014-09-10 16:59:42] travis-ci, joining. (#selendroid)
+[2014-09-10 16:59:42] travis-ci: [travis-ci] selendroid/selendroid#359 (master - 161c475 : Ainsley Escorce-Jones): The build passed.
+[2014-09-10 16:59:42] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/69c8730c5a78...161c475890af
+[2014-09-10 16:59:42] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34919872
+[2014-09-10 16:59:42] travis-ci, leaving. (#selendroid)
