@@ -70,3 +70,4 @@
 [2014-09-10 17:17:19] selendroid-git: [selendroid] koichirok opened pull request #587: Preventing multiple registration of same hardware device (master...prevent-device-multiple-registration) http://git.io/l2abRg
 [2014-09-10 17:17:19] selendroid-git, leaving. (#selendroid)
 [2014-09-10 18:19:28] smikloso, leaving. (#selendroid)
+[2014-09-10 18:27:00] smccarthy, joining. (#selendroid)
