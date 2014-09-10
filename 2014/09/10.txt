@@ -66,3 +66,6 @@
 [2014-09-10 17:09:25] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/67bdf9da1761...2475bd336c85
 [2014-09-10 17:09:25] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34920951
 [2014-09-10 17:09:25] travis-ci, leaving. (#selendroid)
+[2014-09-10 17:17:19] selendroid-git, joining. (#selendroid)
+[2014-09-10 17:17:19] selendroid-git: [selendroid] koichirok opened pull request #587: Preventing multiple registration of same hardware device (master...prevent-device-multiple-registration) http://git.io/l2abRg
+[2014-09-10 17:17:19] selendroid-git, leaving. (#selendroid)
