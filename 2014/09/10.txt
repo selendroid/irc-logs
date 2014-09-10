@@ -23,3 +23,8 @@
 [2014-09-10 10:51:55] selendroid-git, joining. (#selendroid)
 [2014-09-10 10:51:55] selendroid-git: [selendroid] koichirok opened pull request #585: Added "serial" info when device is hardware (master...put-device-serial) http://git.io/Mbmlbw
 [2014-09-10 10:51:55] selendroid-git, leaving. (#selendroid)
+[2014-09-10 12:45:08] selendroid-git, joining. (#selendroid)
+[2014-09-10 12:45:09] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/5TWueg
+[2014-09-10 12:45:09] selendroid-git: selendroid/master 1cf1627 KIKUCHI Koichiro: Add "serial" info when device is hardware
+[2014-09-10 12:45:09] selendroid-git: selendroid/master 69c8730 Dominik Dary: Merge pull request #585 from koichirok/put-device-serial...
+[2014-09-10 12:45:09] selendroid-git, leaving. (#selendroid)
