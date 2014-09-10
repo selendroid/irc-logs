@@ -60,3 +60,9 @@
 [2014-09-10 17:03:32] selendroid-git: [selendroid] ainsej force-pushed master from 67bdf9d to 2475bd3: http://git.io/nEcQZw
 [2014-09-10 17:03:33] selendroid-git: selendroid/master 2475bd3 Ainsley Escorce-Jones: Minor cleanup of booleans in SelendroidStandaloneServer + autoformat
 [2014-09-10 17:03:33] selendroid-git, leaving. (#selendroid)
+[2014-09-10 17:08:44] lukeis, joining. (#selendroid)
+[2014-09-10 17:09:25] travis-ci, joining. (#selendroid)
+[2014-09-10 17:09:25] travis-ci: [travis-ci] selendroid/selendroid#361 (master - 2475bd3 : Ainsley Escorce-Jones): The build passed.
+[2014-09-10 17:09:25] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/67bdf9da1761...2475bd336c85
+[2014-09-10 17:09:25] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34920951
+[2014-09-10 17:09:25] travis-ci, leaving. (#selendroid)
