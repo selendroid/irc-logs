@@ -28,3 +28,8 @@
 [2014-09-10 12:45:09] selendroid-git: selendroid/master 1cf1627 KIKUCHI Koichiro: Add "serial" info when device is hardware
 [2014-09-10 12:45:09] selendroid-git: selendroid/master 69c8730 Dominik Dary: Merge pull request #585 from koichirok/put-device-serial...
 [2014-09-10 12:45:09] selendroid-git, leaving. (#selendroid)
+[2014-09-10 12:50:09] travis-ci, joining. (#selendroid)
+[2014-09-10 12:50:09] travis-ci: [travis-ci] selendroid/selendroid#357 (master - 69c8730 : Dominik Dary): The build passed.
+[2014-09-10 12:50:09] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/8feefca126af...69c8730c5a78
+[2014-09-10 12:50:09] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/34899799
+[2014-09-10 12:50:09] travis-ci, leaving. (#selendroid)
