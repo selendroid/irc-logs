@@ -39,3 +39,8 @@
 [2014-09-11 18:58:15] smccarthy2, joining. (#selendroid)
 [2014-09-11 19:02:32] smccarthy, quitting. (Ping timeout: 276 seconds)
 [2014-09-11 19:08:22] operatiay, quitting. (Remote host closed the connection)
+[2014-09-11 19:38:56] maan, joining. (#selendroid)
+[2014-09-11 19:39:40] selendroid-git, joining. (#selendroid)
+[2014-09-11 19:39:40] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/xKjDjg
+[2014-09-11 19:39:40] selendroid-git: selendroid/master 5704a00 Ainsley Escorce-Jones: Added extensions comment to InstrumentationArguments
+[2014-09-11 19:39:40] selendroid-git, leaving. (#selendroid)
