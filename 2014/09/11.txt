@@ -58,3 +58,12 @@
 [2014-09-11 20:36:46] adziki: so I'm relatively new to Travis, but how are emulators created/saved/used on travis with selendroid?  any sample .yml or gradle projects that go through this process?
 [2014-09-11 20:37:40] lukeis: this is the selendroid's project:  https://github.com/selendroid/selendroid/blob/master/.travis.yml
 [2014-09-11 20:38:14] lukeis: the "script" is the part where we create the emulator
+[2014-09-11 20:46:49] ddary, joining. (#selendroid)
+[2014-09-11 20:47:09] ddary: hi lukeis
+[2014-09-11 20:47:18] lukeis: hi dominik
+[2014-09-11 20:47:41] ddary: good news, i will be end of october in San francisco :-)
+[2014-09-11 20:48:08] lukeis: nice, for TPAC?
+[2014-09-11 20:48:47] ddary: 28-29.10 in seattle for gtac
+[2014-09-11 20:48:59] ddary: and then 30.10 in San francisco
+[2014-09-11 20:49:05] ddary: when is TPAC
+[2014-09-11 20:49:07] ddary: ?
