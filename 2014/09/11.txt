@@ -51,3 +51,5 @@
 [2014-09-11 20:20:08] adziki: my main questions revolve around my app being run through TravisCI, and the process for using Travis with Selendroid
 [2014-09-11 20:27:41] adziki, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2014-09-11 20:29:32] adziki, joining. (#selendroid)
+[2014-09-11 20:32:52] lukeis: adziki: selendroid uses travis-ci itself to run the test suite
+[2014-09-11 20:33:08] lukeis: (it's not very stable though… fails inexplicably some times)
