@@ -83,3 +83,4 @@
 [2014-09-11 20:53:21] ddary: yep
 [2014-09-11 20:53:24] ddary: :-)
 [2014-09-11 21:04:18] smccarthy2, joining. (#selendroid)
+[2014-09-11 21:07:58] smccarthy, quitting. (Ping timeout: 252 seconds)
