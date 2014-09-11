@@ -96,3 +96,4 @@
 [2014-09-11 22:33:30] maan, quitting. (Remote host closed the connection)
 [2014-09-11 22:43:05] smccarthy, joining. (#selendroid)
 [2014-09-11 23:24:17] adziki, joining. (#selendroid)
+[2014-09-11 23:25:17] adziki, quitting. (Client Quit)
