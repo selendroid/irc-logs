@@ -67,3 +67,18 @@
 [2014-09-11 20:48:59] ddary: and then 30.10 in San francisco
 [2014-09-11 20:49:05] ddary: when is TPAC
 [2014-09-11 20:49:07] ddary: ?
+[2014-09-11 20:50:58] lukeis: 27-31
+[2014-09-11 20:51:06] ddary: ah
+[2014-09-11 20:51:15] lukeis: the WebDriver working group is meeting 30,31 i believe
+[2014-09-11 20:51:37] ddary: so I currently don’t know how long I will stay in SF
+[2014-09-11 20:52:04] lukeis: yep… 30, 31  http://www.w3.org/2014/11/TPAC/
+[2014-09-11 20:52:08] ddary: but the evening of the 30.10 it would be great to drink some beers
+[2014-09-11 20:52:17] lukeis: yes, yes it would :)
+[2014-09-11 20:52:22] ddary: :-)
+[2014-09-11 20:52:38] lukeis: it's in santa clara though, you're going to be at HQ in south bay though, right?
+[2014-09-11 20:52:41] ddary: during the day i have meetings at my employer
+[2014-09-11 20:52:43] lukeis: (not SF proper)
+[2014-09-11 20:52:55] ddary: i will be in SF
+[2014-09-11 20:53:12] lukeis: do you guys have offices in the city?
+[2014-09-11 20:53:21] ddary: yep
+[2014-09-11 20:53:24] ddary: :-)
