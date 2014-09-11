@@ -48,3 +48,4 @@
 [2014-09-11 20:14:26] smccarthy2, quitting. (Ping timeout: 252 seconds)
 [2014-09-11 20:16:10] adziki, joining. (#selendroid)
 [2014-09-11 20:16:48] adziki: hey all, I'm interested in using selendroid and had a few questions
+[2014-09-11 20:20:08] adziki: my main questions revolve around my app being run through TravisCI, and the process for using Travis with Selendroid
