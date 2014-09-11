@@ -53,3 +53,8 @@
 [2014-09-11 20:29:32] adziki, joining. (#selendroid)
 [2014-09-11 20:32:52] lukeis: adziki: selendroid uses travis-ci itself to run the test suite
 [2014-09-11 20:33:08] lukeis: (it's not very stable though… fails inexplicably some times)
+[2014-09-11 20:35:42] adziki: haha
+[2014-09-11 20:35:43] adziki: ok
+[2014-09-11 20:36:46] adziki: so I'm relatively new to Travis, but how are emulators created/saved/used on travis with selendroid?  any sample .yml or gradle projects that go through this process?
+[2014-09-11 20:37:40] lukeis: this is the selendroid's project:  https://github.com/selendroid/selendroid/blob/master/.travis.yml
+[2014-09-11 20:38:14] lukeis: the "script" is the part where we create the emulator
