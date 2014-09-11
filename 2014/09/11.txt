@@ -87,3 +87,5 @@
 [2014-09-11 21:29:59] ddary, quitting. (Quit: ddary)
 [2014-09-11 21:36:50] sirsteef_, joining. (#selendroid)
 [2014-09-11 21:40:14] sirsteef, quitting. (Ping timeout: 252 seconds)
+[2014-09-11 21:47:08] ddary, joining. (#selendroid)
+[2014-09-11 21:49:33] ddary, quitting. (Client Quit)
