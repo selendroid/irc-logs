@@ -31,3 +31,4 @@
 [2014-09-11 18:06:03] lukeis, joining. (#selendroid)
 [2014-09-11 18:12:49] maan_, quitting. ()
 [2014-09-11 18:14:05] maan, joining. (#selendroid)
+[2014-09-11 18:15:29] smccarthy, joining. (#selendroid)
