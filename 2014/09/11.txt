@@ -44,3 +44,5 @@
 [2014-09-11 19:39:40] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/xKjDjg
 [2014-09-11 19:39:40] selendroid-git: selendroid/master 5704a00 Ainsley Escorce-Jones: Added extensions comment to InstrumentationArguments
 [2014-09-11 19:39:40] selendroid-git, leaving. (#selendroid)
+[2014-09-11 20:11:34] smccarthy, joining. (#selendroid)
+[2014-09-11 20:14:26] smccarthy2, quitting. (Ping timeout: 252 seconds)
