@@ -89,3 +89,4 @@
 [2014-09-11 21:40:14] sirsteef, quitting. (Ping timeout: 252 seconds)
 [2014-09-11 21:47:08] ddary, joining. (#selendroid)
 [2014-09-11 21:49:33] ddary, quitting. (Client Quit)
+[2014-09-11 21:53:57] adziki, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
