@@ -40,3 +40,8 @@
 [2014-09-12 15:16:03] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/2ViLGw
 [2014-09-12 15:16:03] selendroid-git: selendroid/master 3a2e97f Ainsley Escorce-Jones: Run bootstrap & launch main activity from main thread
 [2014-09-12 15:16:03] selendroid-git, leaving. (#selendroid)
+[2014-09-12 15:21:51] travis-ci, joining. (#selendroid)
+[2014-09-12 15:21:51] travis-ci: [travis-ci] selendroid/selendroid#365 (master - 3a2e97f : Ainsley Escorce-Jones): The build was fixed.
+[2014-09-12 15:21:51] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/3d6c6d318cb2...3a2e97f2390e
+[2014-09-12 15:21:51] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/35117292
+[2014-09-12 15:21:51] travis-ci, leaving. (#selendroid)
