@@ -25,3 +25,14 @@
 [2014-09-12 13:42:13] maan_, joining. (#selendroid)
 [2014-09-12 13:44:15] maan, quitting. (Ping timeout: 255 seconds)
 [2014-09-12 14:06:00] maan_, quitting. (Remote host closed the connection)
+[2014-09-12 14:50:14] selendroid-git, joining. (#selendroid)
+[2014-09-12 14:50:14] selendroid-git: [selendroid] ainsej pushed 3 new commits to master: http://git.io/LO8vQg
+[2014-09-12 14:50:14] selendroid-git: selendroid/master 3b3fa6e Ainsley Escorce-Jones: Fixed starting selendroid with extra logging
+[2014-09-12 14:50:14] selendroid-git: selendroid/master e1a1cf2 Ainsley Escorce-Jones: Added extensions comment to InstrumentationArguments
+[2014-09-12 14:50:14] selendroid-git: selendroid/master 3d6c6d3 Ainsley Escorce-Jones: Merge branch 'master' of https://github.com/selendroid/selendroid
+[2014-09-12 14:50:14] selendroid-git, leaving. (#selendroid)
+[2014-09-12 14:52:22] travis-ci, joining. (#selendroid)
+[2014-09-12 14:52:22] travis-ci: [travis-ci] selendroid/selendroid#364 (master - 3d6c6d3 : Ainsley Escorce-Jones): The build was broken.
+[2014-09-12 14:52:22] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/5704a009e030...3d6c6d318cb2
+[2014-09-12 14:52:23] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/35115112
+[2014-09-12 14:52:23] travis-ci, leaving. (#selendroid)
