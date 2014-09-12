@@ -45,3 +45,8 @@
 [2014-09-12 15:21:51] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/3d6c6d318cb2...3a2e97f2390e
 [2014-09-12 15:21:51] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/35117292
 [2014-09-12 15:21:51] travis-ci, leaving. (#selendroid)
+[2014-09-12 15:40:51] operatiay, quitting. (Remote host closed the connection)
+[2014-09-12 15:44:43] selendroid-git, joining. (#selendroid)
+[2014-09-12 15:44:43] selendroid-git: [selendroid] ainsej force-pushed master from 3a2e97f to 5dabb6b: http://git.io/nEcQZw
+[2014-09-12 15:44:43] selendroid-git: selendroid/master 5dabb6b Ainsley Escorce-Jones: Run bootstrap & launch main activity from main thread
+[2014-09-12 15:44:43] selendroid-git, leaving. (#selendroid)
