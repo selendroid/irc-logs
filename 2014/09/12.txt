@@ -50,3 +50,8 @@
 [2014-09-12 15:44:43] selendroid-git: [selendroid] ainsej force-pushed master from 3a2e97f to 5dabb6b: http://git.io/nEcQZw
 [2014-09-12 15:44:43] selendroid-git: selendroid/master 5dabb6b Ainsley Escorce-Jones: Run bootstrap & launch main activity from main thread
 [2014-09-12 15:44:43] selendroid-git, leaving. (#selendroid)
+[2014-09-12 15:48:53] travis-ci, joining. (#selendroid)
+[2014-09-12 15:48:53] travis-ci: [travis-ci] selendroid/selendroid#366 (master - 5dabb6b : Ainsley Escorce-Jones): The build passed.
+[2014-09-12 15:48:53] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/3a2e97f2390e...5dabb6b4f21d
+[2014-09-12 15:48:53] travis-ci, leaving. (#selendroid)
+[2014-09-12 15:48:53] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/35119671
