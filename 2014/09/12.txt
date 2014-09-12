@@ -36,3 +36,7 @@
 [2014-09-12 14:52:22] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/5704a009e030...3d6c6d318cb2
 [2014-09-12 14:52:23] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/35115112
 [2014-09-12 14:52:23] travis-ci, leaving. (#selendroid)
+[2014-09-12 15:16:03] selendroid-git, joining. (#selendroid)
+[2014-09-12 15:16:03] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/2ViLGw
+[2014-09-12 15:16:03] selendroid-git: selendroid/master 3a2e97f Ainsley Escorce-Jones: Run bootstrap & launch main activity from main thread
+[2014-09-12 15:16:03] selendroid-git, leaving. (#selendroid)
