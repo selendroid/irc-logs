@@ -4,3 +4,4 @@
 [2014-09-13 00:18:49] smccarthy, quitting. (*.net *.split)
 [2014-09-13 00:32:56] detronizator, quitting. (*.net *.split)
 [2014-09-13 00:32:59] Guest39479, changing nick to detronizator.
+[2014-09-13 00:53:26] smccarthy, joining. (#selendroid)
