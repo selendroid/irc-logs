@@ -8,3 +8,6 @@
 [2014-09-13 01:16:53] detronizator, quitting. (Ping timeout: 252 seconds)
 [2014-09-13 01:18:18] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-13 01:38:25] detronizator, joining. (#selendroid)
+[2014-09-13 03:00:52] detro, joining. (#selendroid)
+[2014-09-13 03:01:16] detro, changing nick to Guest28133.
+[2014-09-13 03:03:31] smccarthy, joining. (#selendroid)
