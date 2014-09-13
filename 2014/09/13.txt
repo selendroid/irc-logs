@@ -41,3 +41,5 @@
 [2014-09-13 21:17:23] ddary, quitting. (Client Quit)
 [2014-09-13 21:21:46] ddary, joining. (#selendroid)
 [2014-09-13 21:40:55] ddary, quitting. (Quit: ddary)
+[2014-09-13 21:55:38] AutomatedTester, quitting. (Changing host)
+[2014-09-13 21:55:38] AutomatedTester, joining. (#selendroid)
