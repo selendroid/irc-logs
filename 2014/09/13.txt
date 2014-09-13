@@ -28,3 +28,5 @@
 [2014-09-13 15:56:03] detronizator, joining. (#selendroid)
 [2014-09-13 15:57:39] maan, joining. (#selendroid)
 [2014-09-13 16:38:39] smccarthy, joining. (#selendroid)
+[2014-09-13 16:48:18] maan, quitting. (Remote host closed the connection)
+[2014-09-13 16:48:51] maan, joining. (#selendroid)
