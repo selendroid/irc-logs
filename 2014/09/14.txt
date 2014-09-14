@@ -5,3 +5,4 @@
 [2014-09-14 14:04:44] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-09-14 15:34:25] ddary, joining. (#selendroid)
 [2014-09-14 15:55:48] ddary, quitting. (Quit: ddary)
+[2014-09-14 18:48:09] smccarthy, joining. (#selendroid)
