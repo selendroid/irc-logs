@@ -2,3 +2,4 @@
 [2014-09-14 03:28:27] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-14 07:15:35] smccarthy, joining. (#selendroid)
 [2014-09-14 09:33:34] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-14 14:04:44] detronizator, quitting. (Quit: ZNC - http://znc.in)
