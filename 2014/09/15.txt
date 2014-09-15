@@ -65,3 +65,4 @@
 [2014-09-15 20:38:56] lukeis: yeah, eclipse stores it's own environment variables, you'll have to set it in there
 [2014-09-15 20:41:01] smccarthy: awesome thanks lukeis
 [2014-09-15 21:08:02] friscodelrosario, joining. (#selendroid)
+[2014-09-15 21:29:08] maan, quitting. (Remote host closed the connection)
