@@ -6,3 +6,7 @@
 [2014-09-15 08:50:30] nadddy095: getAttribute does not return the value
 [2014-09-15 08:52:48] nadddy095: anyone of u plz help
 [2014-09-15 09:39:38] smikloso, joining. (#selendroid)
+[2014-09-15 10:06:04] nadddy095, quitting. (Changing host)
+[2014-09-15 10:06:04] nadddy095, joining. (#selendroid)
+[2014-09-15 10:06:31] smikloso, quitting. (Changing host)
+[2014-09-15 10:06:31] smikloso, joining. (#selendroid)
