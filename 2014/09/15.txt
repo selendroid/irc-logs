@@ -61,3 +61,5 @@
 [2014-09-15 19:53:56] selendroid-git, leaving. (#selendroid)
 [2014-09-15 20:01:20] smccarthy, joining. (#selendroid)
 [2014-09-15 20:04:39] smccarthy2, quitting. (Ping timeout: 246 seconds)
+[2014-09-15 20:38:13] smccarthy: I have the ANDROID_HOME environment variable setup, but when I use the SelendroidLauncher to start the selendroid service, I get the error "Environment variable 'ANDROID_HOME' was not found!" . Do I have to edit anything within Eclipse to point to the ANDROID_HOME ?
+[2014-09-15 20:38:56] lukeis: yeah, eclipse stores it's own environment variables, you'll have to set it in there
