@@ -66,3 +66,4 @@
 [2014-09-15 20:41:01] smccarthy: awesome thanks lukeis
 [2014-09-15 21:08:02] friscodelrosario, joining. (#selendroid)
 [2014-09-15 21:29:08] maan, quitting. (Remote host closed the connection)
+[2014-09-15 22:05:54] operatiay, joining. (#selendroid)
