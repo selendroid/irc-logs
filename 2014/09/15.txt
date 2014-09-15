@@ -37,3 +37,4 @@
 [2014-09-15 16:44:02] selendroid-git, joining. (#selendroid)
 [2014-09-15 16:44:02] selendroid-git: [selendroid] ainsej closed pull request #587: Preventing multiple registration of same hardware device (master...prevent-device-multiple-registration) http://git.io/l2abRg
 [2014-09-15 16:44:02] selendroid-git, leaving. (#selendroid)
+[2014-09-15 17:06:28] smccarthy, quitting. (Quit: Leaving...)
