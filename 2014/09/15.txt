@@ -3,3 +3,5 @@
 [2014-09-15 08:48:40] nadddy095, joining. (#selendroid)
 [2014-09-15 08:48:50] nadddy095: hi guys
 [2014-09-15 08:50:00] nadddy095: i need to know how to get the reference number field value shown in the selendroid inspector
+[2014-09-15 08:50:30] nadddy095: getAttribute does not return the value
+[2014-09-15 08:52:48] nadddy095: anyone of u plz help
