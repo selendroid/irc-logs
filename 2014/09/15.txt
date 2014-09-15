@@ -70,3 +70,5 @@
 [2014-09-15 22:20:37] operatiay, quitting. (Remote host closed the connection)
 [2014-09-15 23:07:56] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-09-15 23:09:17] friscodelrosario, joining. (#selendroid)
+[2014-09-15 23:36:09] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-09-15 23:37:38] friscodelrosario, joining. (#selendroid)
