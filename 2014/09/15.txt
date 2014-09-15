@@ -21,3 +21,8 @@
 [2014-09-15 14:28:38] selendroid-git: selendroid/master 53127c0 Ainsley Escorce-Jones: Split bootstrapping into before/after the application has been created
 [2014-09-15 14:28:38] selendroid-git, leaving. (#selendroid)
 [2014-09-15 14:40:16] nadddy095, quitting. (Quit: Page closed)
+[2014-09-15 14:50:18] selendroid-git, joining. (#selendroid)
+[2014-09-15 14:50:18] selendroid-git: [selendroid] ainsej force-pushed master from 0ccd252 to 68fa2be: http://git.io/nEcQZw
+[2014-09-15 14:50:18] selendroid-git: selendroid/master 68fa2be Ainsley Escorce-Jones: Use parseBoolean in InstrumentationArguments
+[2014-09-15 14:50:19] selendroid-git, leaving. (#selendroid)
+[2014-09-15 14:53:46] operatiay, quitting. (Remote host closed the connection)
