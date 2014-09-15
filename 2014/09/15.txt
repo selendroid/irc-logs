@@ -59,3 +59,5 @@
 [2014-09-15 19:53:56] selendroid-git: selendroid/master 33cc08d Ainsley Escorce-Jones: Prevent hardware devices from showing up multiple times in the DeviceStore
 [2014-09-15 19:53:56] selendroid-git: selendroid/master c69f11a Ainsley Escorce-Jones: Extracted SelendroidLogger tag into a field
 [2014-09-15 19:53:56] selendroid-git, leaving. (#selendroid)
+[2014-09-15 20:01:20] smccarthy, joining. (#selendroid)
+[2014-09-15 20:04:39] smccarthy2, quitting. (Ping timeout: 246 seconds)
