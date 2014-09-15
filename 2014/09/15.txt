@@ -20,3 +20,4 @@
 [2014-09-15 14:28:38] selendroid-git: selendroid/master e220d91 Ainsley Escorce-Jones: Propagate events in ServerHandler
 [2014-09-15 14:28:38] selendroid-git: selendroid/master 53127c0 Ainsley Escorce-Jones: Split bootstrapping into before/after the application has been created
 [2014-09-15 14:28:38] selendroid-git, leaving. (#selendroid)
+[2014-09-15 14:40:16] nadddy095, quitting. (Quit: Page closed)
