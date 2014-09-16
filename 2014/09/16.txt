@@ -67,3 +67,4 @@
 [2014-09-16 21:42:30] dareed, joining. (#selendroid)
 [2014-09-16 21:45:39] dareed: Does selendroid support android L at the moment?
 [2014-09-16 22:06:23] friscodelrosario, joining. (#selendroid)
+[2014-09-16 22:10:20] lukeis: dareed: i haven't really tried it on it yet… but maybe?
