@@ -4,3 +4,5 @@
 [2014-09-17 00:06:21] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-09-17 00:23:11] operatiay, joining. (#selendroid)
 [2014-09-17 00:27:36] operatiay, quitting. (Ping timeout: 260 seconds)
+[2014-09-17 01:00:56] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-17 01:02:49] JoeM: Seems the env.JAVA_HOME variable is changed part way through.  In the android package build process.
