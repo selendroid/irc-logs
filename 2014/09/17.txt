@@ -3,3 +3,4 @@
 [2014-09-17 00:02:36] JoeM: I saw 4 errors on head, and 2 on 0.11.0
 [2014-09-17 00:06:21] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-09-17 00:23:11] operatiay, joining. (#selendroid)
+[2014-09-17 00:27:36] operatiay, quitting. (Ping timeout: 260 seconds)
