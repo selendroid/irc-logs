@@ -65,3 +65,4 @@
 [2014-09-16 20:21:35] ddary, leaving. (#selendroid)
 [2014-09-16 21:32:36] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-09-16 21:42:30] dareed, joining. (#selendroid)
+[2014-09-16 21:45:39] dareed: Does selendroid support android L at the moment?
