@@ -68,3 +68,5 @@
 [2014-09-16 21:45:39] dareed: Does selendroid support android L at the moment?
 [2014-09-16 22:06:23] friscodelrosario, joining. (#selendroid)
 [2014-09-16 22:10:20] lukeis: dareed: i haven't really tried it on it yet… but maybe?
+[2014-09-16 22:47:04] dareed: lukeis: my initial attempts don't seem to be working.  I get a black screen on the device and the standalone server keeps displaying the 'isSelendroidRunning' message
+[2014-09-16 22:47:28] dareed: this same app + selendroid script worked fine on kitkat
