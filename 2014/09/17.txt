@@ -1,0 +1,3 @@
+[2014-09-17 00:01:13] JoeM, joining. (#selendroid)
+[2014-09-17 00:02:20] JoeM: Anyone help me with a spurious test error while building?  the jarsigner location is coming up wrong (using $JAVA_HOME/bin/java/bin/jarsigner instead of actual $JAVA_HOME/bin/jarsigner).
+[2014-09-17 00:02:36] JoeM: I saw 4 errors on head, and 2 on 0.11.0
