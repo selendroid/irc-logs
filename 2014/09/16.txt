@@ -31,3 +31,8 @@
 [2014-09-16 11:20:38] selendroid-git: selendroid/master e7305bf Ainsley Escorce-Jones: Added exception handling to application instantiation
 [2014-09-16 11:20:38] selendroid-git, leaving. (#selendroid)
 [2014-09-16 11:24:29] dgrace__, quitting. (Quit: Connection closed for inactivity)
+[2014-09-16 11:25:43] travis-ci, joining. (#selendroid)
+[2014-09-16 11:25:44] travis-ci: [travis-ci] selendroid/selendroid#372 (master - e7305bf : Ainsley Escorce-Jones): The build passed.
+[2014-09-16 11:25:44] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/c69f11a94f13...e7305bfb7d81
+[2014-09-16 11:25:44] travis-ci, leaving. (#selendroid)
+[2014-09-16 11:25:44] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/35416940
