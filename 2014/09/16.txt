@@ -63,3 +63,4 @@
 [2014-09-16 19:39:10] ddary, joining. (#selendroid)
 [2014-09-16 20:06:07] maan, quitting. (Ping timeout: 245 seconds)
 [2014-09-16 20:21:35] ddary, leaving. (#selendroid)
+[2014-09-16 21:32:36] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
