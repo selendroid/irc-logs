@@ -8,3 +8,4 @@
 [2014-09-16 05:54:57] lukeis1, quitting. (Ping timeout: 272 seconds)
 [2014-09-16 06:25:27] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-16 08:24:52] operatiay, joining. (#selendroid)
+[2014-09-16 08:29:29] operatiay, quitting. (Ping timeout: 272 seconds)
