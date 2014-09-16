@@ -21,3 +21,8 @@
 [2014-09-16 10:50:11] travis-ci: [travis-ci] Change view : https://github.com/sri096/selendroid/compare/0ccd25245fc4...86f2facaff35
 [2014-09-16 10:50:11] travis-ci: [travis-ci] Build details : http://travis-ci.org/sri096/selendroid/builds/35414637
 [2014-09-16 10:50:11] travis-ci, leaving. (#selendroid)
+[2014-09-16 10:55:53] travis-ci, joining. (#selendroid)
+[2014-09-16 10:55:53] travis-ci: [travis-ci] sri096/selendroid#7 (master - de36bfd : sri096): The build is still failing.
+[2014-09-16 10:55:53] travis-ci: [travis-ci] Change view : https://github.com/sri096/selendroid/compare/86f2facaff35...de36bfd7d414
+[2014-09-16 10:55:53] travis-ci: [travis-ci] Build details : http://travis-ci.org/sri096/selendroid/builds/35415325
+[2014-09-16 10:55:53] travis-ci, leaving. (#selendroid)
