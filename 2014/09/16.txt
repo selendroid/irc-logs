@@ -71,3 +71,4 @@
 [2014-09-16 22:47:04] dareed: lukeis: my initial attempts don't seem to be working.  I get a black screen on the device and the standalone server keeps displaying the 'isSelendroidRunning' message
 [2014-09-16 22:47:28] dareed: this same app + selendroid script worked fine on kitkat
 [2014-09-16 23:08:53] maan, joining. (#selendroid)
+[2014-09-16 23:13:37] maan, quitting. (Ping timeout: 272 seconds)
