@@ -72,3 +72,4 @@
 [2014-09-16 22:47:28] dareed: this same app + selendroid script worked fine on kitkat
 [2014-09-16 23:08:53] maan, joining. (#selendroid)
 [2014-09-16 23:13:37] maan, quitting. (Ping timeout: 272 seconds)
+[2014-09-16 23:27:02] lukeis, quitting. (Quit: Leaving.)
