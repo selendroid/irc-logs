@@ -10,3 +10,8 @@
 [2014-09-16 08:24:52] operatiay, joining. (#selendroid)
 [2014-09-16 08:29:29] operatiay, quitting. (Ping timeout: 272 seconds)
 [2014-09-16 10:08:04] smikloso, joining. (#selendroid)
+[2014-09-16 10:43:51] travis-ci, joining. (#selendroid)
+[2014-09-16 10:43:51] travis-ci: [travis-ci] sri096/selendroid#5 (master - 0ccd252 : Ainsley Escorce-Jones): The build is still failing.
+[2014-09-16 10:43:51] travis-ci: [travis-ci] Change view : https://github.com/sri096/selendroid/compare/2f5a7b8092bf...0ccd25245fc4
+[2014-09-16 10:43:51] travis-ci: [travis-ci] Build details : http://travis-ci.org/sri096/selendroid/builds/35414373
+[2014-09-16 10:43:51] travis-ci, leaving. (#selendroid)
