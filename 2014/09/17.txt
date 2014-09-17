@@ -37,3 +37,8 @@
 [2014-09-17 15:48:18] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/94af91058911...f76f201c6eb6
 [2014-09-17 15:48:18] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/35537015
 [2014-09-17 15:48:18] travis-ci, leaving. (#selendroid)
+[2014-09-17 15:55:35] travis-ci, joining. (#selendroid)
+[2014-09-17 15:55:35] travis-ci: [travis-ci] selendroid/selendroid#375 (master - 8751a8a : Ainsley Escorce-Jones): The build passed.
+[2014-09-17 15:55:35] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/f76f201c6eb6...8751a8a69f7b
+[2014-09-17 15:55:35] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/35537076
+[2014-09-17 15:55:35] travis-ci, leaving. (#selendroid)
