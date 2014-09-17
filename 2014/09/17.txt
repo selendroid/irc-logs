@@ -24,3 +24,16 @@
 [2014-09-17 15:11:27] operatiay, quitting. (Ping timeout: 272 seconds)
 [2014-09-17 15:15:38] operatia_, quitting. (Remote host closed the connection)
 [2014-09-17 15:16:10] operatiay, joining. (#selendroid)
+[2014-09-17 15:46:56] selendroid-git, joining. (#selendroid)
+[2014-09-17 15:46:56] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/kn-0VQ
+[2014-09-17 15:46:56] selendroid-git: selendroid/master f76f201 Ainsley Escorce-Jones: getWindowSize() now supports API levels < 13
+[2014-09-17 15:46:56] selendroid-git, leaving. (#selendroid)
+[2014-09-17 15:47:37] selendroid-git, joining. (#selendroid)
+[2014-09-17 15:47:37] selendroid-git: [selendroid] ainsej force-pushed master from f76f201 to 8751a8a: http://git.io/nEcQZw
+[2014-09-17 15:47:37] selendroid-git: selendroid/master 8751a8a Ainsley Escorce-Jones: getWindowSize() now supports API levels < 13
+[2014-09-17 15:47:37] selendroid-git, leaving. (#selendroid)
+[2014-09-17 15:48:18] travis-ci, joining. (#selendroid)
+[2014-09-17 15:48:18] travis-ci: [travis-ci] selendroid/selendroid#374 (master - f76f201 : Ainsley Escorce-Jones): The build has errored.
+[2014-09-17 15:48:18] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/94af91058911...f76f201c6eb6
+[2014-09-17 15:48:18] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/35537015
+[2014-09-17 15:48:18] travis-ci, leaving. (#selendroid)
