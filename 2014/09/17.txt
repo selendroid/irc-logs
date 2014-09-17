@@ -7,3 +7,4 @@
 [2014-09-17 01:00:56] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-17 01:02:49] JoeM: Seems the env.JAVA_HOME variable is changed part way through.  In the android package build process.
 [2014-09-17 01:12:31] friscodelrosario, joining. (#selendroid)
+[2014-09-17 02:08:47] JoeM, quitting. (Quit: Page closed)
