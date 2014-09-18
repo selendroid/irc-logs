@@ -48,3 +48,4 @@
 [2014-09-18 22:14:51] maan, quitting. (Remote host closed the connection)
 [2014-09-18 22:52:12] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-09-18 23:38:56] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-18 23:40:26] jlipps, quitting. (Quit: Leaving.)
