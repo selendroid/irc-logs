@@ -10,3 +10,8 @@
 [2014-09-18 12:42:35] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/w42Z2g
 [2014-09-18 12:42:35] selendroid-git: selendroid/master 43fe9db Ainsley Escorce-Jones: Adds support for emulators with non-resolution skin names
 [2014-09-18 12:42:35] selendroid-git, leaving. (#selendroid)
+[2014-09-18 12:47:45] travis-ci, joining. (#selendroid)
+[2014-09-18 12:47:45] travis-ci: [travis-ci] selendroid/selendroid#376 (master - 43fe9db : Ainsley Escorce-Jones): The build passed.
+[2014-09-18 12:47:45] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/8751a8a69f7b...43fe9db78987
+[2014-09-18 12:47:45] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/35620180
+[2014-09-18 12:47:46] travis-ci, leaving. (#selendroid)
