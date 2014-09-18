@@ -30,3 +30,4 @@
 [2014-09-18 14:58:02] travis-ci, leaving. (#selendroid)
 [2014-09-18 15:25:09] smikloso, joining. (#selendroid)
 [2014-09-18 16:42:54] smikloso, leaving. (#selendroid)
+[2014-09-18 17:06:01] lukeis, joining. (#selendroid)
