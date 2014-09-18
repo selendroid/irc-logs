@@ -23,3 +23,8 @@
 [2014-09-18 14:54:25] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/4JiHzg
 [2014-09-18 14:54:25] selendroid-git: selendroid/master 342abca Ainsley Escorce-Jones: Cleaned up exception handling in selendroid-server
 [2014-09-18 14:54:25] selendroid-git, leaving. (#selendroid)
+[2014-09-18 14:58:01] travis-ci, joining. (#selendroid)
+[2014-09-18 14:58:02] travis-ci: [travis-ci] selendroid/selendroid#378 (master - 342abca : Ainsley Escorce-Jones): The build was fixed.
+[2014-09-18 14:58:02] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/96dcb2aab68b...342abca0cc15
+[2014-09-18 14:58:02] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/35629691
+[2014-09-18 14:58:02] travis-ci, leaving. (#selendroid)
