@@ -19,3 +19,7 @@
 [2014-09-18 12:53:21] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/_D9r5w
 [2014-09-18 12:53:21] selendroid-git: selendroid/master 96dcb2a Ainsley Escorce-Jones: Minor codebase cleanup
 [2014-09-18 12:53:21] selendroid-git, leaving. (#selendroid)
+[2014-09-18 14:54:25] selendroid-git, joining. (#selendroid)
+[2014-09-18 14:54:25] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/4JiHzg
+[2014-09-18 14:54:25] selendroid-git: selendroid/master 342abca Ainsley Escorce-Jones: Cleaned up exception handling in selendroid-server
+[2014-09-18 14:54:25] selendroid-git, leaving. (#selendroid)
