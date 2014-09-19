@@ -14,3 +14,5 @@
 [2014-09-19 10:33:46] smikloso, joining. (#selendroid)
 [2014-09-19 14:04:36] dgrace__, joining. (#selendroid)
 [2014-09-19 15:20:23] martink, joining. (#selendroid)
+[2014-09-19 15:31:20] operatia_, joining. (#selendroid)
+[2014-09-19 15:34:40] operatiay, quitting. (Ping timeout: 272 seconds)
