@@ -23,3 +23,10 @@
 [2014-09-19 16:28:21] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-09-19 16:58:24] smikloso, leaving. (#selendroid)
 [2014-09-19 17:26:54] jlipps, joining. (#selendroid)
+[2014-09-19 17:30:59] martink, joining. (#selendroid)
+[2014-09-19 17:31:29] *martink Hey Dominik, it's Martin from fb, I'd like to ask if it's possible to get commit access like Ainsley did? Thanks a lot and have a good weekend!'
+[2014-09-19 17:31:37] AutomatedTester, quitting. (Ping timeout: 250 seconds)
+[2014-09-19 17:31:49] AutomatedTester_, joining. (#selendroid)
+[2014-09-19 17:31:49] AutomatedTester_, changing nick to AutomatedTester.
+[2014-09-19 17:31:51] AutomatedTester, quitting. (Changing host)
+[2014-09-19 17:31:51] AutomatedTester, joining. (#selendroid)
