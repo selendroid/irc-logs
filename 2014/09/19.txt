@@ -12,3 +12,4 @@
 [2014-09-19 09:49:01] smikloso, joining. (#selendroid)
 [2014-09-19 10:19:14] smikloso, quitting. (Quit: Leaving.)
 [2014-09-19 10:33:46] smikloso, joining. (#selendroid)
+[2014-09-19 14:04:36] dgrace__, joining. (#selendroid)
