@@ -20,3 +20,4 @@
 [2014-09-19 15:48:23] operatiay, joining. (#selendroid)
 [2014-09-19 15:55:29] operatiay, quitting. ()
 [2014-09-19 16:02:04] operatiay, joining. (#selendroid)
+[2014-09-19 16:28:21] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
