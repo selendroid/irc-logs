@@ -3,3 +3,4 @@
 [2014-09-20 01:03:45] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-20 01:04:24] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-09-20 02:01:47] maan, quitting. (Remote host closed the connection)
+[2014-09-20 02:25:15] jlipps, quitting. (Quit: Leaving.)
