@@ -9,3 +9,4 @@
 [2014-09-20 07:34:24] smccarthy, joining. (#selendroid)
 [2014-09-20 07:50:18] dgrace__, quitting. (Read error: Connection reset by peer)
 [2014-09-20 08:16:31] dgrace__, joining. (#selendroid)
+[2014-09-20 08:28:07] smccarthy, quitting. (Quit: Leaving...)
