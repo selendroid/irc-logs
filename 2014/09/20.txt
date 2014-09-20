@@ -17,3 +17,6 @@
 [2014-09-20 17:25:10] smccarthy, joining. (#selendroid)
 [2014-09-20 18:38:17] ddary, joining. (#selendroid)
 [2014-09-20 18:38:36] ddary, quitting. (Client Quit)
+[2014-09-20 20:50:23] jlipps, joining. (#selendroid)
+[2014-09-20 20:51:46] jlipps, quitting. (Client Quit)
+[2014-09-20 20:54:45] jlipps, joining. (#selendroid)
