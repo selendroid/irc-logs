@@ -22,3 +22,5 @@
 [2014-09-20 20:54:45] jlipps, joining. (#selendroid)
 [2014-09-20 21:19:32] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-20 23:17:49] marx, joining. (#selendroid)
+[2014-09-20 23:46:16] marx: So maybe some fo you have run into this before. I'm only able to use selendroid to test one app between device reboots. If I test app A, and then try to test app B , the app crashes and I get a "libcore.io.errnoexception: bind failed: EADDRINUSE
+[2014-09-20 23:46:56] marx: I can obviously just reboot the device, but I'm wondering why this happens in the first place
