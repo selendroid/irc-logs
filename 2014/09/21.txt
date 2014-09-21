@@ -11,3 +11,4 @@
 [2014-09-21 17:03:11] MalekAlrwily, changing nick to MalekAlrwily|AFK.
 [2014-09-21 19:58:24] MalekAlrwily|AFK, changing nick to MalekAlrwily.
 [2014-09-21 20:21:02] MalekAlrwily, leaving. ("Leaving")
+[2014-09-21 20:27:23] smccarthy, joining. (#selendroid)
