@@ -23,3 +23,7 @@
 [2014-09-22 15:52:29] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/342abca0cc15...bb02adff611e
 [2014-09-22 15:52:29] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/35937707
 [2014-09-22 15:52:29] travis-ci, leaving. (#selendroid)
+[2014-09-22 17:38:18] selendroid-git, joining. (#selendroid)
+[2014-09-22 17:38:18] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/nJpIwA
+[2014-09-22 17:38:18] selendroid-git: selendroid/master f105710 Ainsley Escorce-Jones: Updated SelendroidServerBuilder with Google Java formatting
+[2014-09-22 17:38:18] selendroid-git, leaving. (#selendroid)
