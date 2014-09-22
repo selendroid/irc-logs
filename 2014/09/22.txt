@@ -36,3 +36,4 @@
 [2014-09-22 19:19:50] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2014-09-22 19:23:34] maan, joining. (#selendroid)
 [2014-09-22 20:04:15] martink, joining. (#selendroid)
+[2014-09-22 20:27:37] martink, quitting. (Read error: Connection reset by peer)
