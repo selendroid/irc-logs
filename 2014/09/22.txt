@@ -7,3 +7,4 @@
 [2014-09-22 12:55:24] operatiay, joining. (#selendroid)
 [2014-09-22 13:16:54] martink, joining. (#selendroid)
 [2014-09-22 13:43:12] martink, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2014-09-22 14:34:31] dgrace__, quitting. (Quit: Connection closed for inactivity)
