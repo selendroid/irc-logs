@@ -11,3 +11,4 @@
 [2014-09-22 15:13:41] martink, joining. (#selendroid)
 [2014-09-22 15:16:08] martink, quitting. (Client Quit)
 [2014-09-22 15:22:22] martink, joining. (#selendroid)
+[2014-09-22 15:35:52] smikloso, quitting. (Quit: Leaving.)
