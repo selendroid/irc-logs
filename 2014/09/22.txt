@@ -39,3 +39,4 @@
 [2014-09-22 20:27:37] martink, quitting. (Read error: Connection reset by peer)
 [2014-09-22 20:43:40] maan, quitting. (Remote host closed the connection)
 [2014-09-22 20:48:38] maan, joining. (#selendroid)
+[2014-09-22 21:28:14] maan, quitting. (Remote host closed the connection)
