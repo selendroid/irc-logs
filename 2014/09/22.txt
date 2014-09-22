@@ -10,3 +10,4 @@
 [2014-09-22 14:34:31] dgrace__, quitting. (Quit: Connection closed for inactivity)
 [2014-09-22 15:13:41] martink, joining. (#selendroid)
 [2014-09-22 15:16:08] martink, quitting. (Client Quit)
+[2014-09-22 15:22:22] martink, joining. (#selendroid)
