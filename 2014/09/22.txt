@@ -12,3 +12,9 @@
 [2014-09-22 15:16:08] martink, quitting. (Client Quit)
 [2014-09-22 15:22:22] martink, joining. (#selendroid)
 [2014-09-22 15:35:52] smikloso, quitting. (Quit: Leaving.)
+[2014-09-22 15:48:37] selendroid-git, joining. (#selendroid)
+[2014-09-22 15:48:37] selendroid-git: [selendroid] ainsej pushed 3 new commits to master: http://git.io/KDahVA
+[2014-09-22 15:48:37] selendroid-git: selendroid/master 5febd89 Ainsley Escorce-Jones: Fixed loading of keystores with no password
+[2014-09-22 15:48:37] selendroid-git: selendroid/master 651f10a Ainsley Escorce-Jones: Autoformat of SelendroidServerBuilder.java
+[2014-09-22 15:48:37] selendroid-git: selendroid/master bb02adf Ainsley Escorce-Jones: Minor formatting fix in SelendroidConfiguration
+[2014-09-22 15:48:38] selendroid-git, leaving. (#selendroid)
