@@ -1,0 +1,4 @@
+[2014-09-24 01:00:22] jlipps1, joining. (#selendroid)
+[2014-09-24 01:00:22] jlipps, quitting. (Read error: Connection reset by peer)
+[2014-09-24 01:00:25] jlipps1, quitting. (Client Quit)
+[2014-09-24 01:01:03] jlipps, joining. (#selendroid)
