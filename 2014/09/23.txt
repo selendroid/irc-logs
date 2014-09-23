@@ -48,3 +48,11 @@
 [2014-09-23 18:41:07] jlipps, quitting. (Quit: Leaving.)
 [2014-09-23 18:44:04] jlipps, joining. (#selendroid)
 [2014-09-23 20:18:25] ddary, joining. (#selendroid)
+[2014-09-23 20:22:55] selendroid-git: [selendroid] DominikDary closed pull request #601: Added client-side multi touch screen (master...multi-touch-client) http://git.io/oiFIow
+[2014-09-23 20:22:55] selendroid-git, joining. (#selendroid)
+[2014-09-23 20:22:55] selendroid-git, leaving. (#selendroid)
+[2014-09-23 20:24:01] selendroid-git, joining. (#selendroid)
+[2014-09-23 20:24:01] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/OCj7oA
+[2014-09-23 20:24:01] selendroid-git: selendroid/master d105da3 Dominik Dary: Update changelog.md
+[2014-09-23 20:24:01] selendroid-git, leaving. (#selendroid)
+[2014-09-23 20:24:27] ddary, leaving. (#selendroid)
