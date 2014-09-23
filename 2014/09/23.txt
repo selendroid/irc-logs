@@ -33,3 +33,4 @@
 [2014-09-23 12:42:50] saket, joining. (#selendroid)
 [2014-09-23 12:43:28] saket: hello. Can some one tell me which is right way to define. SelendroidDriver(caps) or SelendroidDriver(string url, caps)
 [2014-09-23 12:44:18] saket: I am getting the error with the 2nd option & neither do the 1st one work.
+[2014-09-23 13:57:46] saket, quitting. (Ping timeout: 246 seconds)
