@@ -41,3 +41,4 @@
 [2014-09-23 16:10:54] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/mrmUfQ
 [2014-09-23 16:10:54] selendroid-git: selendroid/master beea39f Ainsley Escorce-Jones: Minor cleanup in AbstractDevice...
 [2014-09-23 16:10:54] selendroid-git, leaving. (#selendroid)
+[2014-09-23 16:59:23] smikloso, quitting. (Quit: Leaving.)
