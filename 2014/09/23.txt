@@ -56,3 +56,15 @@
 [2014-09-23 20:24:01] selendroid-git: selendroid/master d105da3 Dominik Dary: Update changelog.md
 [2014-09-23 20:24:01] selendroid-git, leaving. (#selendroid)
 [2014-09-23 20:24:27] ddary, leaving. (#selendroid)
+[2014-09-23 20:30:31] jlipps, quitting. (Quit: Leaving.)
+[2014-09-23 20:31:04] travis-ci, joining. (#selendroid)
+[2014-09-23 20:31:04] travis-ci: [travis-ci] selendroid/selendroid#391 (master - d105da3 : Dominik Dary): The build passed.
+[2014-09-23 20:31:04] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/2affa6217241...d105da32a399
+[2014-09-23 20:31:05] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36075701
+[2014-09-23 20:31:05] travis-ci, leaving. (#selendroid)
+[2014-09-23 20:31:24] jlipps, joining. (#selendroid)
+[2014-09-23 20:32:52] travis-ci, joining. (#selendroid)
+[2014-09-23 20:32:52] travis-ci: [travis-ci] selendroid/selendroid#390 (master - 2affa62 : Dominik Dary): The build passed.
+[2014-09-23 20:32:52] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/beea39f608fb...2affa6217241
+[2014-09-23 20:32:52] travis-ci, leaving. (#selendroid)
+[2014-09-23 20:32:52] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36075625
