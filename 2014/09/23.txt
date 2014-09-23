@@ -42,3 +42,4 @@
 [2014-09-23 16:10:54] selendroid-git: selendroid/master beea39f Ainsley Escorce-Jones: Minor cleanup in AbstractDevice...
 [2014-09-23 16:10:54] selendroid-git, leaving. (#selendroid)
 [2014-09-23 16:59:23] smikloso, quitting. (Quit: Leaving.)
+[2014-09-23 17:03:15] operatiay, quitting. (Ping timeout: 272 seconds)
