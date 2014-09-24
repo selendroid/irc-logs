@@ -14,3 +14,5 @@
 [2014-09-24 16:59:08] jlipps, quitting. (Quit: Leaving.)
 [2014-09-24 17:10:01] jlipps, joining. (#selendroid)
 [2014-09-24 17:16:35] maan, joining. (#selendroid)
+[2014-09-24 17:59:32] sirsteef, quitting. (Ping timeout: 272 seconds)
+[2014-09-24 17:59:58] sirsteef, joining. (#selendroid)
