@@ -12,3 +12,4 @@
 [2014-09-24 16:17:37] operatiay, quitting. (Remote host closed the connection)
 [2014-09-24 16:53:38] jlipps, joining. (#selendroid)
 [2014-09-24 16:59:08] jlipps, quitting. (Quit: Leaving.)
+[2014-09-24 17:10:01] jlipps, joining. (#selendroid)
