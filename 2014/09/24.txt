@@ -17,3 +17,7 @@
 [2014-09-24 17:59:32] sirsteef, quitting. (Ping timeout: 272 seconds)
 [2014-09-24 17:59:58] sirsteef, joining. (#selendroid)
 [2014-09-24 18:25:46] smccarthy, joining. (#selendroid)
+[2014-09-24 18:47:09] selendroid-git, joining. (#selendroid)
+[2014-09-24 18:47:10] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/qZtcng
+[2014-09-24 18:47:10] selendroid-git: selendroid/master b1e6714 Martin Konicek: Make error message on lost connection clearer....
+[2014-09-24 18:47:10] selendroid-git, leaving. (#selendroid)
