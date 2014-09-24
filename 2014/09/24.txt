@@ -28,3 +28,4 @@
 [2014-09-24 18:56:24] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36173279
 [2014-09-24 19:03:14] maan, quitting. (Remote host closed the connection)
 [2014-09-24 19:46:01] maan, joining. (#selendroid)
+[2014-09-24 20:22:28] maan, quitting. (Remote host closed the connection)
