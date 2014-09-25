@@ -5,3 +5,4 @@
 [2014-09-25 03:49:19] smccarthy, joining. (#selendroid)
 [2014-09-25 05:50:14] Raj__, joining. (#selendroid)
 [2014-09-25 05:54:49] Raj__, quitting. (Client Quit)
+[2014-09-25 05:55:23] selendroidlearne, joining. (#selendroid)
