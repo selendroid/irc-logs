@@ -2,3 +2,4 @@
 [2014-09-25 00:11:15] jlipps, joining. (#selendroid)
 [2014-09-25 01:20:22] jlipps, quitting. (Quit: Leaving.)
 [2014-09-25 01:41:41] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-25 03:49:19] smccarthy, joining. (#selendroid)
