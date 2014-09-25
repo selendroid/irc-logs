@@ -42,3 +42,5 @@
 [2014-09-25 16:28:01] maan_, joining. (#selendroid)
 [2014-09-25 16:30:30] maan, quitting. (Ping timeout: 246 seconds)
 [2014-09-25 16:49:48] smikloso, leaving. (#selendroid)
+[2014-09-25 17:42:21] maan, joining. (#selendroid)
+[2014-09-25 17:44:22] maan_, quitting. (Ping timeout: 240 seconds)
