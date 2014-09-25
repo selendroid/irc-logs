@@ -12,3 +12,16 @@
 [2014-09-25 08:38:35] maan_, joining. (#selendroid)
 [2014-09-25 08:40:22] maan, quitting. (Ping timeout: 250 seconds)
 [2014-09-25 10:30:50] smikloso, joining. (#selendroid)
+[2014-09-25 11:20:08] selendroid-git, joining. (#selendroid)
+[2014-09-25 11:20:08] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/LhTZiQ
+[2014-09-25 11:20:08] selendroid-git: selendroid/master 7c95508 Ainsley Escorce-Jones: Added (Multi)TouchAction.perform(WebDriver) as a preferred way to execute MultiTouchActions
+[2014-09-25 11:20:08] selendroid-git, leaving. (#selendroid)
+[2014-09-25 11:21:21] selendroid-git, joining. (#selendroid)
+[2014-09-25 11:21:21] selendroid-git: [selendroid] ainsej force-pushed master from 7c95508 to 956412f: http://git.io/nEcQZw
+[2014-09-25 11:21:21] selendroid-git: selendroid/master 956412f Ainsley Escorce-Jones: Added (Multi)TouchAction.perform(WebDriver) as a preferred way to execute MultiTouchActions
+[2014-09-25 11:21:21] selendroid-git, leaving. (#selendroid)
+[2014-09-25 11:21:44] travis-ci, joining. (#selendroid)
+[2014-09-25 11:21:44] travis-ci: [travis-ci] selendroid/selendroid#393 (master - 7c95508 : Ainsley Escorce-Jones): The build has errored.
+[2014-09-25 11:21:44] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/b1e67145ef26...7c95508a28d5
+[2014-09-25 11:21:45] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36237480
+[2014-09-25 11:21:45] travis-ci, leaving. (#selendroid)
