@@ -7,3 +7,4 @@
 [2014-09-25 05:54:49] Raj__, quitting. (Client Quit)
 [2014-09-25 05:55:23] selendroidlearne, joining. (#selendroid)
 [2014-09-25 06:02:05] selendroidlearne, leaving. (#selendroid)
+[2014-09-25 07:00:53] smccarthy, quitting. (Quit: Leaving...)
