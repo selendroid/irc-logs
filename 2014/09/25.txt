@@ -50,3 +50,4 @@
 [2014-09-25 21:02:08] maan, joining. (#selendroid)
 [2014-09-25 21:07:05] maan, quitting. (Ping timeout: 272 seconds)
 [2014-09-25 21:15:43] jlipps, quitting. (Quit: Leaving.)
+[2014-09-25 21:33:41] jlipps, joining. (#selendroid)
