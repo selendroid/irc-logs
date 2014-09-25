@@ -34,3 +34,4 @@
 [2014-09-25 13:13:03] maan_, quitting. (Ping timeout: 244 seconds)
 [2014-09-25 14:22:29] Triden, joining. (#selendroid)
 [2014-09-25 14:24:01] Triden: Hey guys, im not getting the clear() command to work, i can write and get the text of the field but but not clear it, and nothing in the logs either, i just get result=unefined.... any ideas?
+[2014-09-25 14:33:09] maan_, joining. (#selendroid)
