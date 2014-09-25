@@ -49,3 +49,4 @@
 [2014-09-25 18:00:59] maan, quitting. (Remote host closed the connection)
 [2014-09-25 21:02:08] maan, joining. (#selendroid)
 [2014-09-25 21:07:05] maan, quitting. (Ping timeout: 272 seconds)
+[2014-09-25 21:15:43] jlipps, quitting. (Quit: Leaving.)
