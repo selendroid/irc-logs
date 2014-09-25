@@ -51,3 +51,6 @@
 [2014-09-25 21:07:05] maan, quitting. (Ping timeout: 272 seconds)
 [2014-09-25 21:15:43] jlipps, quitting. (Quit: Leaving.)
 [2014-09-25 21:33:41] jlipps, joining. (#selendroid)
+[2014-09-25 21:41:11] selendroid-git: [selendroid] koichirok opened pull request #607: Add capabilities to consider (master...more-capabilities-to-consider) http://git.io/vHQhLw
+[2014-09-25 21:41:11] selendroid-git, joining. (#selendroid)
+[2014-09-25 21:41:11] selendroid-git, leaving. (#selendroid)
