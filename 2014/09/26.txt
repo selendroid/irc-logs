@@ -2,3 +2,6 @@
 [2014-09-26 01:33:04] selendroid-git, joining. (#selendroid)
 [2014-09-26 01:33:04] selendroid-git: [selendroid] juyuanyang closed pull request #600: add a light weight instrumentation (master...master) http://git.io/7kCAZQ
 [2014-09-26 01:33:04] selendroid-git, leaving. (#selendroid)
+[2014-09-26 01:52:10] selendroid-git, joining. (#selendroid)
+[2014-09-26 01:52:10] selendroid-git: [selendroid] juyuanyang opened pull request #608: add lightweight instrumentation (master...master) http://git.io/izELmw
+[2014-09-26 01:52:10] selendroid-git, leaving. (#selendroid)
