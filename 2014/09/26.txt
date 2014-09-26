@@ -15,3 +15,6 @@
 [2014-09-26 09:49:36] smikloso, joining. (#selendroid)
 [2014-09-26 14:30:07] jlipps, joining. (#selendroid)
 [2014-09-26 14:38:21] jlipps, quitting. (Quit: Leaving.)
+[2014-09-26 15:47:27] selendroid-git, joining. (#selendroid)
+[2014-09-26 15:47:27] selendroid-git: [selendroid] koichirok opened pull request #610: Added a copy of selendroid.png for new selenium grid console (master...grid-selendroid-icon) http://git.io/GUkfxA
+[2014-09-26 15:47:27] selendroid-git, leaving. (#selendroid)
