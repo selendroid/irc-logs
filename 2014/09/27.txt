@@ -1,2 +1,3 @@
 [2014-09-27 00:31:55] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
 [2014-09-27 01:01:00] smccarthy, quitting. (Quit: Leaving...)
+[2014-09-27 01:26:44] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
