@@ -18,3 +18,4 @@
 [2014-09-26 15:47:27] selendroid-git, joining. (#selendroid)
 [2014-09-26 15:47:27] selendroid-git: [selendroid] koichirok opened pull request #610: Added a copy of selendroid.png for new selenium grid console (master...grid-selendroid-icon) http://git.io/GUkfxA
 [2014-09-26 15:47:27] selendroid-git, leaving. (#selendroid)
+[2014-09-26 17:22:29] smikloso, leaving. (#selendroid)
