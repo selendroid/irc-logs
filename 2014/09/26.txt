@@ -9,3 +9,5 @@
 [2014-09-26 03:20:20] smccarthy, joining. (#selendroid)
 [2014-09-26 04:04:26] jlipps, joining. (#selendroid)
 [2014-09-26 04:28:23] jlipps, quitting. (Quit: Leaving.)
+[2014-09-26 05:27:25] jlipps, joining. (#selendroid)
+[2014-09-26 05:29:34] jlipps, quitting. (Client Quit)
