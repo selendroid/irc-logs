@@ -4,3 +4,4 @@
 [2014-09-27 01:51:53] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-09-27 01:58:40] friscodelrosario, joining. (#selendroid)
 [2014-09-27 03:58:39] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-09-27 06:23:08] ddary, joining. (#selendroid)
