@@ -8,3 +8,9 @@
 [2014-09-27 06:26:56] selendroid-git, joining. (#selendroid)
 [2014-09-27 06:26:56] selendroid-git: [selendroid] DominikDary closed pull request #610: Added a copy of selendroid.png for new selenium grid console (master...grid-selendroid-icon) http://git.io/GUkfxA
 [2014-09-27 06:26:57] selendroid-git, leaving. (#selendroid)
+[2014-09-27 06:30:12] travis-ci, joining. (#selendroid)
+[2014-09-27 06:30:13] travis-ci: [travis-ci] selendroid/selendroid#399 (master - 0687e71 : Dominik Dary): The build passed.
+[2014-09-27 06:30:13] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/956412f6f16b...0687e7140cb9
+[2014-09-27 06:30:13] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36414855
+[2014-09-27 06:30:13] travis-ci, leaving. (#selendroid)
+[2014-09-27 06:30:17] smccarthy, joining. (#selendroid)
