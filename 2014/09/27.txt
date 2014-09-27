@@ -29,3 +29,4 @@
 [2014-09-27 19:46:51] smccarthy, joining. (#selendroid)
 [2014-09-27 19:46:51] sirsteef, joining. (#selendroid)
 [2014-09-27 19:46:51] marx, joining. (#selendroid)
+[2014-09-27 22:28:38] smccarthy, quitting. (Quit: Leaving...)
