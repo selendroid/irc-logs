@@ -1,3 +1,6 @@
 [2014-09-28 06:19:53] smccarthy, joining. (#selendroid)
 [2014-09-28 08:24:52] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-28 10:39:50] maan, joining. (#selendroid)
+[2014-09-28 12:13:08] maan_, joining. (#selendroid)
+[2014-09-28 12:14:09] maan__, joining. (#selendroid)
+[2014-09-28 12:14:10] maan_, quitting. (Read error: Connection reset by peer)
