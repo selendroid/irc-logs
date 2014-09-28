@@ -15,3 +15,4 @@
 [2014-09-28 16:47:26] smccarthy, joining. (#selendroid)
 [2014-09-28 19:49:34] maan, joining. (#selendroid)
 [2014-09-28 20:01:28] ains, joining. (#selendroid)
+[2014-09-28 20:10:07] ains, quitting. (Quit: Page closed)
