@@ -49,3 +49,4 @@
 [2014-09-29 21:24:44] lukeis, quitting. (Quit: Leaving.)
 [2014-09-29 21:55:09] smccarthy, quitting. (Remote host closed the connection)
 [2014-09-29 21:56:46] smccarthy, joining. (#selendroid)
+[2014-09-29 22:03:07] friscodelrosario, quitting. (Ping timeout: 245 seconds)
