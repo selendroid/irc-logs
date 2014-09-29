@@ -4,3 +4,6 @@
 [2014-09-29 09:46:31] selendroid-git: [selendroid] ainsej opened pull request #612: WORK IN PROGRESS: E2E test fixes (master...e2e_fixes) http://git.io/LJYZMQ
 [2014-09-29 09:46:31] selendroid-git, leaving. (#selendroid)
 [2014-09-29 10:28:03] operatiay, joining. (#selendroid)
+[2014-09-29 11:43:02] selendroid-git, joining. (#selendroid)
+[2014-09-29 11:43:02] selendroid-git: [selendroid] koichirok opened pull request #613: Set missing selendroid basic capabilities (master...set-basic-capabilities) http://git.io/f1JX0Q
+[2014-09-29 11:43:02] selendroid-git, leaving. (#selendroid)
