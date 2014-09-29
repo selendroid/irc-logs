@@ -9,3 +9,5 @@
 [2014-09-29 11:43:02] selendroid-git, leaving. (#selendroid)
 [2014-09-29 15:27:37] smikloso, leaving. (#selendroid)
 [2014-09-29 16:09:21] maan, joining. (#selendroid)
+[2014-09-29 16:25:46] operatia_, joining. (#selendroid)
+[2014-09-29 16:29:27] operatiay, quitting. (Ping timeout: 245 seconds)
