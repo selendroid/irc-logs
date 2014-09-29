@@ -8,3 +8,4 @@
 [2014-09-29 11:43:02] selendroid-git: [selendroid] koichirok opened pull request #613: Set missing selendroid basic capabilities (master...set-basic-capabilities) http://git.io/f1JX0Q
 [2014-09-29 11:43:02] selendroid-git, leaving. (#selendroid)
 [2014-09-29 15:27:37] smikloso, leaving. (#selendroid)
+[2014-09-29 16:09:21] maan, joining. (#selendroid)
