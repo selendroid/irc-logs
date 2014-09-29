@@ -3,3 +3,4 @@
 [2014-09-29 09:46:30] selendroid-git, joining. (#selendroid)
 [2014-09-29 09:46:31] selendroid-git: [selendroid] ainsej opened pull request #612: WORK IN PROGRESS: E2E test fixes (master...e2e_fixes) http://git.io/LJYZMQ
 [2014-09-29 09:46:31] selendroid-git, leaving. (#selendroid)
+[2014-09-29 10:28:03] operatiay, joining. (#selendroid)
