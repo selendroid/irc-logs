@@ -19,3 +19,4 @@
 [2014-09-29 17:11:17] operatiay, joining. (#selendroid)
 [2014-09-29 17:28:17] lukeis, joining. (#selendroid)
 [2014-09-29 17:35:50] maan_, quitting. (Remote host closed the connection)
+[2014-09-29 17:53:26] smccarthy, joining. (#selendroid)
