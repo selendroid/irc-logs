@@ -24,3 +24,6 @@
 [2014-09-29 19:58:46] maan, quitting. ()
 [2014-09-29 20:23:03] ddary, joining. (#selendroid)
 [2014-09-29 20:23:17] ddary: hi lukeis
+[2014-09-29 20:25:02] lukeis: hi ddary
+[2014-09-29 20:25:49] ddary: how are you doing?
+[2014-09-29 20:29:11] friscodelrosario, joining. (#selendroid)
