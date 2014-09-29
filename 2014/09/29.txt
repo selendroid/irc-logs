@@ -47,3 +47,5 @@
 [2014-09-29 20:48:29] ddary: going offline now, have a good day!
 [2014-09-29 20:48:49] ddary, quitting. (Quit: Page closed)
 [2014-09-29 21:24:44] lukeis, quitting. (Quit: Leaving.)
+[2014-09-29 21:55:09] smccarthy, quitting. (Remote host closed the connection)
+[2014-09-29 21:56:46] smccarthy, joining. (#selendroid)
