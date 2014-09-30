@@ -127,3 +127,4 @@
 [2014-09-30 21:35:37] ains: sweet, no worries
 [2014-09-30 21:35:57] ains: I'll start an issue tomorrow to track what's broken / not broken and if you have any time you can pitch in
 [2014-09-30 21:36:13] lukeis: sounds good!
+[2014-09-30 21:40:07] ains, quitting. (Ping timeout: 246 seconds)
