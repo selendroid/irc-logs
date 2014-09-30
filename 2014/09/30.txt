@@ -50,3 +50,5 @@
 [2014-09-30 18:03:41] smccarthy, joining. (#selendroid)
 [2014-09-30 18:08:50] smccarthy, quitting. (Remote host closed the connection)
 [2014-09-30 18:09:16] smccarthy, joining. (#selendroid)
+[2014-09-30 18:25:32] maan_, joining. (#selendroid)
+[2014-09-30 18:28:14] maan, quitting. (Ping timeout: 272 seconds)
