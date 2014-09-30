@@ -124,3 +124,6 @@
 [2014-09-30 21:33:08] ains: if you get any free time I'm aiming to get all the e2e tests passing before 1.0
 [2014-09-30 21:33:12] ains: so we have a solid e2e test suite
 [2014-09-30 21:34:30] lukeis: I'll try to scrape some time together, still working on some iOS things now for iOS8
+[2014-09-30 21:35:37] ains: sweet, no worries
+[2014-09-30 21:35:57] ains: I'll start an issue tomorrow to track what's broken / not broken and if you have any time you can pitch in
+[2014-09-30 21:36:13] lukeis: sounds good!
