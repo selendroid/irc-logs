@@ -116,3 +116,8 @@
 [2014-09-30 21:23:12] lukeis: appreciate seeing all of this activity!
 [2014-09-30 21:24:40] ains: :)
 [2014-09-30 21:24:42] ains: gogo 1.0
+[2014-09-30 21:25:10] lukeis: i think dominik is planning on doing so at gtac?
+[2014-09-30 21:25:19] lukeis: or at least right before?
+[2014-09-30 21:28:45] ains: yup
+[2014-09-30 21:28:48] ains: that's the plan
+[2014-09-30 21:29:10] ains: still a lot that can be improved
