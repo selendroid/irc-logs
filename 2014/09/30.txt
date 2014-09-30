@@ -11,3 +11,15 @@
 [2014-09-30 12:54:19] selendroid-git, joining. (#selendroid)
 [2014-09-30 12:54:19] selendroid-git: [selendroid] ainsej opened pull request #616: Fix connection reset bug - adds Connection: close header (master...fix-reset-connection) http://git.io/1vPK3g
 [2014-09-30 12:54:19] selendroid-git, leaving. (#selendroid)
+[2014-09-30 13:00:46] selendroid-git, joining. (#selendroid)
+[2014-09-30 13:00:47] selendroid-git: [selendroid] ainsej created refactor-create-session (+1 new commit): http://git.io/G8zo5A
+[2014-09-30 13:00:47] selendroid-git: selendroid/refactor-create-session 18b2a79 Ainsley Escorce-Jones: Cleanup createNewTestSession()
+[2014-09-30 13:00:47] selendroid-git, leaving. (#selendroid)
+[2014-09-30 13:01:57] selendroid-git, joining. (#selendroid)
+[2014-09-30 13:01:57] selendroid-git: [selendroid] ainsej opened pull request #617: Cleanup createNewTestSession() (master...refactor-create-session) http://git.io/qXL4rA
+[2014-09-30 13:01:58] selendroid-git, leaving. (#selendroid)
+[2014-09-30 13:02:12] selendroid-git, joining. (#selendroid)
+[2014-09-30 13:02:12] selendroid-git: [selendroid] ainsej pushed 2 new commits to master: http://git.io/eOh2XQ
+[2014-09-30 13:02:12] selendroid-git: selendroid/master f1ae3ac Ainsley Escorce-Jones: Fix connection reset bug - adds Connection: close header
+[2014-09-30 13:02:12] selendroid-git: selendroid/master def35d9 Ainsley Escorce-Jones: Merge pull request #616 from ainsej/fix-reset-connection...
+[2014-09-30 13:02:13] selendroid-git, leaving. (#selendroid)
