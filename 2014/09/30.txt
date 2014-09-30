@@ -68,3 +68,7 @@
 [2014-09-30 19:41:07] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/x14UJA
 [2014-09-30 19:41:07] selendroid-git: selendroid/master 910ba73 Martin Konicek: Remove SelendroidKeys.ANDROID_HOME as Android doesn't support this...
 [2014-09-30 19:41:07] selendroid-git, leaving. (#selendroid)
+[2014-09-30 19:46:53] friscodelrosario, joining. (#selendroid)
+[2014-09-30 19:48:49] selendroid-git, joining. (#selendroid)
+[2014-09-30 19:48:50] selendroid-git: [selendroid] DominikDary closed pull request #613: Set missing selendroid basic capabilities (master...set-basic-capabilities) http://git.io/f1JX0Q
+[2014-09-30 19:48:50] selendroid-git, leaving. (#selendroid)
