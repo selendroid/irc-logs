@@ -4,3 +4,5 @@
 [2014-09-30 02:12:58] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-30 02:18:44] friscodelrosario, joining. (#selendroid)
 [2014-09-30 03:30:27] Guest94104, changing nick to marx.
+[2014-09-30 03:46:16] friscodelrosario, quitting. (Ping timeout: 260 seconds)
+[2014-09-30 03:47:07] smccarthy, joining. (#selendroid)
