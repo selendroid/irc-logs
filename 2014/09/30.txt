@@ -95,3 +95,9 @@
 [2014-09-30 21:02:14] selendroid-git: selendroid/master 40da712 Ainsley Escorce-Jones: Lowered severity of logs in isSelendroidRunning()
 [2014-09-30 21:02:14] selendroid-git: selendroid/master a90c84c Ainsley Escorce-Jones: Fixed flaky tests in HandlerRegisteredTest
 [2014-09-30 21:02:14] selendroid-git, leaving. (#selendroid)
+[2014-09-30 21:07:15] travis-ci, joining. (#selendroid)
+[2014-09-30 21:07:15] travis-ci: [travis-ci] selendroid/selendroid#414 (master - a90c84c : Ainsley Escorce-Jones): The build passed.
+[2014-09-30 21:07:15] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/99c5b618fcef...a90c84c90817
+[2014-09-30 21:07:15] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36701192
+[2014-09-30 21:07:15] travis-ci, leaving. (#selendroid)
+[2014-09-30 21:08:30] ains, joining. (#selendroid)
