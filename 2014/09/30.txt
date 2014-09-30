@@ -129,3 +129,4 @@
 [2014-09-30 21:36:13] lukeis: sounds good!
 [2014-09-30 21:40:07] ains, quitting. (Ping timeout: 246 seconds)
 [2014-09-30 21:46:47] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-09-30 22:08:08] maan, quitting. (Remote host closed the connection)
