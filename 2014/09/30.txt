@@ -146,3 +146,4 @@
 [2014-09-30 22:52:41] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/07e45b024bd6...3335fc00384e
 [2014-09-30 22:52:42] travis-ci, leaving. (#selendroid)
 [2014-09-30 22:52:42] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36710647
+[2014-09-30 22:58:34] lukeis: ah… standardizing vendor specific urls… gonna need to update some of my code!
