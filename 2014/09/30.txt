@@ -101,3 +101,9 @@
 [2014-09-30 21:07:15] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36701192
 [2014-09-30 21:07:15] travis-ci, leaving. (#selendroid)
 [2014-09-30 21:08:30] ains, joining. (#selendroid)
+[2014-09-30 21:13:23] selendroid-git, joining. (#selendroid)
+[2014-09-30 21:13:23] selendroid-git: [selendroid] ainsej pushed 5 new commits to master: http://git.io/id3c_Q
+[2014-09-30 21:13:23] selendroid-git: selendroid/master 1449e03 Ainsley Escorce-Jones: Made E2E tests use SelendroidStandaloneServer
+[2014-09-30 21:13:24] selendroid-git: selendroid/master edbd4de Ainsley Escorce-Jones: Skip failling test ExecuteAsyncScriptTest#shouldCatchErrorsWithMessageAndStacktraceWhenExecutingInitialScript
+[2014-09-30 21:13:24] selendroid-git: selendroid/master fc910d7 Ainsley Escorce-Jones: Fix 2 tests in NativeElementFindingTest
+[2014-09-30 21:13:24] selendroid-git, leaving. (#selendroid)
