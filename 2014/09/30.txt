@@ -8,3 +8,6 @@
 [2014-09-30 03:47:07] smccarthy, joining. (#selendroid)
 [2014-09-30 06:12:59] smccarthy, quitting. (Quit: Leaving...)
 [2014-09-30 09:54:03] smikloso, joining. (#selendroid)
+[2014-09-30 12:54:19] selendroid-git, joining. (#selendroid)
+[2014-09-30 12:54:19] selendroid-git: [selendroid] ainsej opened pull request #616: Fix connection reset bug - adds Connection: close header (master...fix-reset-connection) http://git.io/1vPK3g
+[2014-09-30 12:54:19] selendroid-git, leaving. (#selendroid)
