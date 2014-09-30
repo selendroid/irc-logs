@@ -133,3 +133,11 @@
 [2014-09-30 22:22:15] hirani, joining. (#selendroid)
 [2014-09-30 22:23:31] hirani, leaving. (#selendroid)
 [2014-09-30 22:37:57] friscodelrosario, joining. (#selendroid)
+[2014-09-30 22:46:27] selendroid-git, joining. (#selendroid)
+[2014-09-30 22:46:27] selendroid-git: [selendroid] ainsej pushed 2 new commits to master: http://git.io/AxBvWQ
+[2014-09-30 22:46:27] selendroid-git: selendroid/master be1105b Ainsley Escorce-Jones: Standardises vendor-specific urls for selendroid
+[2014-09-30 22:46:27] selendroid-git: selendroid/master 3335fc0 Ainsley Escorce-Jones: Merge pull request #619 from ainsej/fix-urls...
+[2014-09-30 22:46:27] selendroid-git, leaving. (#selendroid)
+[2014-09-30 22:48:49] selendroid-git, joining. (#selendroid)
+[2014-09-30 22:48:49] selendroid-git: [selendroid] DominikDary closed pull request #617: Cleanup createNewTestSession() (master...refactor-create-session) http://git.io/qXL4rA
+[2014-09-30 22:48:49] selendroid-git, leaving. (#selendroid)
