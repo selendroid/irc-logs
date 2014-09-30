@@ -9,3 +9,4 @@
 [2014-10-01 00:14:59] travis-ci, leaving. (#selendroid)
 [2014-10-01 00:14:59] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36717602
 [2014-10-01 00:37:54] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-10-01 01:01:48] lukeis, quitting. (Quit: Leaving.)
