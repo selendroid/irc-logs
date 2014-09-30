@@ -1,0 +1,5 @@
+[2014-10-01 00:08:00] selendroid-git, joining. (#selendroid)
+[2014-10-01 00:08:00] selendroid-git: [selendroid] mkonicek pushed 2 new commits to master: http://git.io/U94ZzQ
+[2014-10-01 00:08:00] selendroid-git: selendroid/master 2ae0015 Juyuan Yang: add lightweight instrumentation back
+[2014-10-01 00:08:00] selendroid-git: selendroid/master c077e63 Martin Konicek: Merge pull request #621 from juyuanyang/master...
+[2014-10-01 00:08:00] selendroid-git, leaving. (#selendroid)
