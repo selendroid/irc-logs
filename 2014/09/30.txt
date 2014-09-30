@@ -30,3 +30,6 @@
 [2014-09-30 13:05:58] travis-ci, leaving. (#selendroid)
 [2014-09-30 13:37:37] smikloso, quitting. (Ping timeout: 260 seconds)
 [2014-09-30 13:54:09] smikloso, joining. (#selendroid)
+[2014-09-30 14:01:12] selendroid-git, joining. (#selendroid)
+[2014-09-30 14:01:12] selendroid-git: [selendroid] ainsej opened pull request #618: Stopped redirecting after session creation (master...no-redirect-after-create) http://git.io/lbnpIg
+[2014-09-30 14:01:13] selendroid-git, leaving. (#selendroid)
