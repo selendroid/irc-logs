@@ -112,3 +112,7 @@
 [2014-09-30 21:19:28] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/a90c84c90817...07e45b024bd6
 [2014-09-30 21:19:28] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36702194
 [2014-09-30 21:19:28] travis-ci, leaving. (#selendroid)
+[2014-09-30 21:22:52] lukeis: ains: keep up the good work :)
+[2014-09-30 21:23:12] lukeis: appreciate seeing all of this activity!
+[2014-09-30 21:24:40] ains: :)
+[2014-09-30 21:24:42] ains: gogo 1.0
