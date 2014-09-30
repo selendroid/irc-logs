@@ -37,3 +37,4 @@
 [2014-09-30 14:16:18] selendroid-git, joining. (#selendroid)
 [2014-09-30 14:16:18] selendroid-git: [selendroid] ainsej opened pull request #619: Standardises vendor-specific urls for selendroid (master...fix-urls) http://git.io/qtSRTw
 [2014-09-30 14:16:18] selendroid-git, leaving. (#selendroid)
+[2014-09-30 14:21:30] smikloso, joining. (#selendroid)
