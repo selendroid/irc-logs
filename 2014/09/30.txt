@@ -48,3 +48,5 @@
 [2014-09-30 17:37:27] smikloso, quitting. (Quit: Leaving.)
 [2014-09-30 17:56:54] lukeis, joining. (#selendroid)
 [2014-09-30 18:03:41] smccarthy, joining. (#selendroid)
+[2014-09-30 18:08:50] smccarthy, quitting. (Remote host closed the connection)
+[2014-09-30 18:09:16] smccarthy, joining. (#selendroid)
