@@ -33,3 +33,4 @@
 [2014-09-30 14:01:12] selendroid-git, joining. (#selendroid)
 [2014-09-30 14:01:12] selendroid-git: [selendroid] ainsej opened pull request #618: Stopped redirecting after session creation (master...no-redirect-after-create) http://git.io/lbnpIg
 [2014-09-30 14:01:13] selendroid-git, leaving. (#selendroid)
+[2014-09-30 14:08:05] smikloso, quitting. (Ping timeout: 244 seconds)
