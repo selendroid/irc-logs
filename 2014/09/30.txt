@@ -23,3 +23,8 @@
 [2014-09-30 13:02:12] selendroid-git: selendroid/master f1ae3ac Ainsley Escorce-Jones: Fix connection reset bug - adds Connection: close header
 [2014-09-30 13:02:12] selendroid-git: selendroid/master def35d9 Ainsley Escorce-Jones: Merge pull request #616 from ainsej/fix-reset-connection...
 [2014-09-30 13:02:13] selendroid-git, leaving. (#selendroid)
+[2014-09-30 13:05:58] travis-ci, joining. (#selendroid)
+[2014-09-30 13:05:58] travis-ci: [travis-ci] selendroid/selendroid#406 (master - def35d9 : Ainsley Escorce-Jones): The build passed.
+[2014-09-30 13:05:58] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/0687e7140cb9...def35d9cc1cf
+[2014-09-30 13:05:58] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36658961
+[2014-09-30 13:05:58] travis-ci, leaving. (#selendroid)
