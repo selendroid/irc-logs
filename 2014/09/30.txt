@@ -72,3 +72,14 @@
 [2014-09-30 19:48:49] selendroid-git, joining. (#selendroid)
 [2014-09-30 19:48:50] selendroid-git: [selendroid] DominikDary closed pull request #613: Set missing selendroid basic capabilities (master...set-basic-capabilities) http://git.io/f1JX0Q
 [2014-09-30 19:48:50] selendroid-git, leaving. (#selendroid)
+[2014-09-30 19:57:34] selendroid-git, joining. (#selendroid)
+[2014-09-30 19:57:34] selendroid-git: [selendroid] DominikDary pushed 3 new commits to master: http://git.io/nrZc_A
+[2014-09-30 19:57:34] selendroid-git: selendroid/master 1f4e2a6 Ainsley Escorce-Jones: Stopped redirecting after session creation
+[2014-09-30 19:57:35] selendroid-git: selendroid/master 73786f2 Dominik Dary: Merge branch 'no-redirect-after-create'
+[2014-09-30 19:57:35] selendroid-git, leaving. (#selendroid)
+[2014-09-30 19:57:35] selendroid-git: selendroid/master 99c5b61 Dominik Dary: Merge branch 'ainsej-no-redirect-after-create'
+[2014-09-30 19:59:03] travis-ci, joining. (#selendroid)
+[2014-09-30 19:59:03] travis-ci: [travis-ci] selendroid/selendroid#412 (master - ac35fe7 : Dominik Dary): The build was fixed.
+[2014-09-30 19:59:03] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/910ba7360306...ac35fe7469ff
+[2014-09-30 19:59:03] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36694918
+[2014-09-30 19:59:03] travis-ci, leaving. (#selendroid)
