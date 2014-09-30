@@ -63,3 +63,8 @@
 [2014-09-30 19:35:40] travis-ci, joining. (#selendroid)
 [2014-09-30 19:35:40] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36692954
 [2014-09-30 19:35:40] travis-ci, leaving. (#selendroid)
+[2014-09-30 19:40:37] ddary, joining. (#selendroid)
+[2014-09-30 19:41:06] selendroid-git, joining. (#selendroid)
+[2014-09-30 19:41:07] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/x14UJA
+[2014-09-30 19:41:07] selendroid-git: selendroid/master 910ba73 Martin Konicek: Remove SelendroidKeys.ANDROID_HOME as Android doesn't support this...
+[2014-09-30 19:41:07] selendroid-git, leaving. (#selendroid)
