@@ -141,3 +141,8 @@
 [2014-09-30 22:48:49] selendroid-git, joining. (#selendroid)
 [2014-09-30 22:48:49] selendroid-git: [selendroid] DominikDary closed pull request #617: Cleanup createNewTestSession() (master...refactor-create-session) http://git.io/qXL4rA
 [2014-09-30 22:48:49] selendroid-git, leaving. (#selendroid)
+[2014-09-30 22:52:41] travis-ci, joining. (#selendroid)
+[2014-09-30 22:52:41] travis-ci: [travis-ci] selendroid/selendroid#419 (master - 3335fc0 : Ainsley Escorce-Jones): The build passed.
+[2014-09-30 22:52:41] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/07e45b024bd6...3335fc00384e
+[2014-09-30 22:52:42] travis-ci, leaving. (#selendroid)
+[2014-09-30 22:52:42] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36710647
