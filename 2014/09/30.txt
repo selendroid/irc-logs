@@ -90,3 +90,8 @@
 [2014-09-30 20:04:31] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36695703
 [2014-09-30 20:04:31] travis-ci, leaving. (#selendroid)
 [2014-09-30 20:56:01] maan, joining. (#selendroid)
+[2014-09-30 21:02:14] selendroid-git, joining. (#selendroid)
+[2014-09-30 21:02:14] selendroid-git: [selendroid] ainsej pushed 2 new commits to master: http://git.io/SUuLLg
+[2014-09-30 21:02:14] selendroid-git: selendroid/master 40da712 Ainsley Escorce-Jones: Lowered severity of logs in isSelendroidRunning()
+[2014-09-30 21:02:14] selendroid-git: selendroid/master a90c84c Ainsley Escorce-Jones: Fixed flaky tests in HandlerRegisteredTest
+[2014-09-30 21:02:14] selendroid-git, leaving. (#selendroid)
