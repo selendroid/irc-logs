@@ -132,3 +132,4 @@
 [2014-09-30 22:08:08] maan, quitting. (Remote host closed the connection)
 [2014-09-30 22:22:15] hirani, joining. (#selendroid)
 [2014-09-30 22:23:31] hirani, leaving. (#selendroid)
+[2014-09-30 22:37:57] friscodelrosario, joining. (#selendroid)
