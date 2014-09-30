@@ -58,3 +58,8 @@
 [2014-09-30 19:30:25] selendroid-git, joining. (#selendroid)
 [2014-09-30 19:30:25] selendroid-git: [selendroid] mkonicek closed pull request #608: add lightweight instrumentation (master...master) http://git.io/izELmw
 [2014-09-30 19:30:25] selendroid-git, leaving. (#selendroid)
+[2014-09-30 19:35:40] travis-ci: [travis-ci] selendroid/selendroid#410 (master - 6b9b1ee : Martin Konicek): The build passed.
+[2014-09-30 19:35:40] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/def35d9cc1cf...6b9b1eee3fe8
+[2014-09-30 19:35:40] travis-ci, joining. (#selendroid)
+[2014-09-30 19:35:40] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36692954
+[2014-09-30 19:35:40] travis-ci, leaving. (#selendroid)
