@@ -29,3 +29,4 @@
 [2014-09-30 13:05:58] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36658961
 [2014-09-30 13:05:58] travis-ci, leaving. (#selendroid)
 [2014-09-30 13:37:37] smikloso, quitting. (Ping timeout: 260 seconds)
+[2014-09-30 13:54:09] smikloso, joining. (#selendroid)
