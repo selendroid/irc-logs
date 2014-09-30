@@ -147,3 +147,6 @@
 [2014-09-30 22:52:42] travis-ci, leaving. (#selendroid)
 [2014-09-30 22:52:42] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36710647
 [2014-09-30 22:58:34] lukeis: ah… standardizing vendor specific urls… gonna need to update some of my code!
+[2014-09-30 23:53:26] selendroid-git, joining. (#selendroid)
+[2014-09-30 23:53:26] selendroid-git: [selendroid] juyuanyang opened pull request #621: Add lightweight instrumentation into manifest (master...master) http://git.io/75kn3g
+[2014-09-30 23:53:27] selendroid-git, leaving. (#selendroid)
