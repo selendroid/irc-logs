@@ -43,3 +43,4 @@
 [2014-10-01 12:27:22] travis-ci: [travis-ci] selendroid/selendroid#425 (master - 0bb90bb : Ainsley Escorce-Jones): The build passed.
 [2014-10-01 12:27:22] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/2d66cd151430...0bb90bb9f0c9
 [2014-10-01 12:27:22] travis-ci, leaving. (#selendroid)
+[2014-10-01 15:17:21] smccarthy, joining. (#selendroid)
