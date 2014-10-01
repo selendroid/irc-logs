@@ -62,3 +62,4 @@
 [2014-10-01 18:53:44] travis-ci, leaving. (#selendroid)
 [2014-10-01 19:09:01] ddary, joining. (#selendroid)
 [2014-10-01 19:09:48] ddary, quitting. (Client Quit)
+[2014-10-01 19:10:17] maan, quitting. (Remote host closed the connection)
