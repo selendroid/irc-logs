@@ -33,3 +33,8 @@
 [2014-10-01 10:23:20] smikloso, joining. (#selendroid)
 [2014-10-01 11:54:47] operatiay, quitting. ()
 [2014-10-01 11:56:10] operatiay, joining. (#selendroid)
+[2014-10-01 12:22:22] selendroid-git: [selendroid] ainsej pushed 2 new commits to master: http://git.io/RcGwbQ
+[2014-10-01 12:22:22] selendroid-git, joining. (#selendroid)
+[2014-10-01 12:22:22] selendroid-git: selendroid/master 30afc3d Ainsley Escorce-Jones: Fixed infinite loop when waiting for launcher to complete
+[2014-10-01 12:22:22] selendroid-git: selendroid/master 0bb90bb Ainsley Escorce-Jones: Minor cleanup in DefaultAndroidEmulator
+[2014-10-01 12:22:22] selendroid-git, leaving. (#selendroid)
