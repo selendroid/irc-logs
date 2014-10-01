@@ -83,3 +83,7 @@
 [2014-10-01 19:39:20] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36793368
 [2014-10-01 19:39:20] travis-ci, leaving. (#selendroid)
 [2014-10-01 19:45:56] maan, joining. (#selendroid)
+[2014-10-01 19:54:13] selendroid-git, joining. (#selendroid)
+[2014-10-01 19:54:14] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/edkoYQ
+[2014-10-01 19:54:14] selendroid-git: selendroid/master 218cdde Dominik Dary: refactored the script....
+[2014-10-01 19:54:14] selendroid-git, leaving. (#selendroid)
