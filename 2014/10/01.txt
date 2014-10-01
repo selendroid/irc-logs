@@ -96,3 +96,7 @@
 [2014-10-01 20:55:19] ddary: hi lukeis
 [2014-10-01 20:55:46] ddary: do you had lately issues with generating selendroid docu via awestruct?
 [2014-10-01 20:59:34] lukeis: hi and no, i haven't
+[2014-10-01 21:02:36] ddary: ok, which version of awestruct and ruby do you have installed?
+[2014-10-01 21:03:22] lukeis: awestruct 0.5.3  ruby 1.9.3
+[2014-10-01 21:03:30] ddary: k
+[2014-10-01 21:03:33] ddary: thx
