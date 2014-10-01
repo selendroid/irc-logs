@@ -101,3 +101,6 @@
 [2014-10-01 21:03:30] ddary: k
 [2014-10-01 21:03:33] ddary: thx
 [2014-10-01 22:04:45] ddary: lukeis: ruby, rvm, gems and that idea about native extensions sucks
+[2014-10-01 22:05:57] lukeis: :)
+[2014-10-01 22:06:15] ddary: wasted another 2h of my life
+[2014-10-01 22:06:24] ddary: and it still is not working
