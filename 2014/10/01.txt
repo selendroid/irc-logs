@@ -25,3 +25,8 @@
 [2014-10-01 09:33:53] selendroid-git, joining. (#selendroid)
 [2014-10-01 09:33:53] selendroid-git: [selendroid] ainsej closed pull request #622: Fixed updating device in device store (master...fix-updating-devicestore) http://git.io/9dlTKw
 [2014-10-01 09:33:53] selendroid-git, leaving. (#selendroid)
+[2014-10-01 09:39:16] travis-ci, joining. (#selendroid)
+[2014-10-01 09:39:16] travis-ci: [travis-ci] selendroid/selendroid#424 (master - 2d66cd1 : Ainsley Escorce-Jones): The build passed.
+[2014-10-01 09:39:16] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/c077e6356ca9...2d66cd151430
+[2014-10-01 09:39:16] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36745125
+[2014-10-01 09:39:16] travis-ci, leaving. (#selendroid)
