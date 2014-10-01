@@ -45,3 +45,4 @@
 [2014-10-01 12:27:22] travis-ci, leaving. (#selendroid)
 [2014-10-01 15:17:21] smccarthy, joining. (#selendroid)
 [2014-10-01 16:25:55] dgrace__, joining. (#selendroid)
+[2014-10-01 16:50:54] maan, joining. (#selendroid)
