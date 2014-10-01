@@ -17,3 +17,4 @@
 [2014-10-01 06:02:27] selendroid-git, joining. (#selendroid)
 [2014-10-01 06:02:27] selendroid-git: [selendroid] koichirok opened pull request #622: Fixed updating device in device store (master...fix-updating-devicestore) http://git.io/9dlTKw
 [2014-10-01 06:02:27] selendroid-git, leaving. (#selendroid)
+[2014-10-01 06:56:05] maan, joining. (#selendroid)
