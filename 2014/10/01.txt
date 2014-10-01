@@ -104,3 +104,4 @@
 [2014-10-01 22:05:57] lukeis: :)
 [2014-10-01 22:06:15] ddary: wasted another 2h of my life
 [2014-10-01 22:06:24] ddary: and it still is not working
+[2014-10-01 22:11:44] ddary, leaving. (#selendroid)
