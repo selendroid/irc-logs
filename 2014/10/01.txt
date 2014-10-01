@@ -64,3 +64,16 @@
 [2014-10-01 19:09:48] ddary, quitting. (Client Quit)
 [2014-10-01 19:10:17] maan, quitting. (Remote host closed the connection)
 [2014-10-01 19:15:09] ddary, joining. (#selendroid)
+[2014-10-01 19:31:08] selendroid-git, joining. (#selendroid)
+[2014-10-01 19:31:08] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/fbiioQ
+[2014-10-01 19:31:08] selendroid-git: selendroid/master f80f7ca Dominik Dary: Cleanup execute_native....
+[2014-10-01 19:31:08] selendroid-git, leaving. (#selendroid)
+[2014-10-01 19:32:48] selendroid-git, joining. (#selendroid)
+[2014-10-01 19:32:48] selendroid-git: [selendroid] DominikDary force-pushed master from f80f7ca to 92f694b: http://git.io/nEcQZw
+[2014-10-01 19:32:48] selendroid-git: selendroid/master 92f694b Dominik Dary: Cleanup execute_native....
+[2014-10-01 19:32:49] selendroid-git, leaving. (#selendroid)
+[2014-10-01 19:33:41] travis-ci, joining. (#selendroid)
+[2014-10-01 19:33:41] travis-ci: [travis-ci] selendroid/selendroid#427 (master - f80f7ca : Dominik Dary): The build has errored.
+[2014-10-01 19:33:41] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/4dd1225af3ba...f80f7ca7b8ec
+[2014-10-01 19:33:41] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36793231
+[2014-10-01 19:33:41] travis-ci, leaving. (#selendroid)
