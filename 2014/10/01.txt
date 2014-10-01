@@ -50,3 +50,8 @@
 [2014-10-01 17:16:39] ddary, quitting. (Quit: ddary)
 [2014-10-01 17:26:38] lukeis, joining. (#selendroid)
 [2014-10-01 18:13:17] smikloso, leaving. (#selendroid)
+[2014-10-01 18:48:34] selendroid-git, joining. (#selendroid)
+[2014-10-01 18:48:34] selendroid-git: [selendroid] ainsej pushed 2 new commits to master: http://git.io/j59H0A
+[2014-10-01 18:48:34] selendroid-git: selendroid/master 59134f3 Ainsley Escorce-Jones: Fixed crashlog detection on older devices
+[2014-10-01 18:48:34] selendroid-git: selendroid/master 4dd1225 Ainsley Escorce-Jones: AUT needs WRITE_EXTERNAL_STORAGE to write crashlog on API<19
+[2014-10-01 18:48:34] selendroid-git, leaving. (#selendroid)
