@@ -93,3 +93,6 @@
 [2014-10-01 20:00:14] travis-ci, leaving. (#selendroid)
 [2014-10-01 20:00:14] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36795702
 [2014-10-01 20:21:09] maan, quitting. (Remote host closed the connection)
+[2014-10-01 20:55:19] ddary: hi lukeis
+[2014-10-01 20:55:46] ddary: do you had lately issues with generating selendroid docu via awestruct?
+[2014-10-01 20:59:34] lukeis: hi and no, i haven't
