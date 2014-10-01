@@ -22,3 +22,6 @@
 [2014-10-01 07:04:16] maan, quitting. (Ping timeout: 260 seconds)
 [2014-10-01 07:07:37] maan_, quitting. (Ping timeout: 272 seconds)
 [2014-10-01 07:14:48] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-01 09:33:53] selendroid-git, joining. (#selendroid)
+[2014-10-01 09:33:53] selendroid-git: [selendroid] ainsej closed pull request #622: Fixed updating device in device store (master...fix-updating-devicestore) http://git.io/9dlTKw
+[2014-10-01 09:33:53] selendroid-git, leaving. (#selendroid)
