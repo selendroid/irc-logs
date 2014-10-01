@@ -87,3 +87,8 @@
 [2014-10-01 19:54:14] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/edkoYQ
 [2014-10-01 19:54:14] selendroid-git: selendroid/master 218cdde Dominik Dary: refactored the script....
 [2014-10-01 19:54:14] selendroid-git, leaving. (#selendroid)
+[2014-10-01 20:00:14] travis-ci, joining. (#selendroid)
+[2014-10-01 20:00:14] travis-ci: [travis-ci] selendroid/selendroid#429 (master - 218cdde : Dominik Dary): The build was broken.
+[2014-10-01 20:00:14] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/92f694b8bcf9...218cdde27558
+[2014-10-01 20:00:14] travis-ci, leaving. (#selendroid)
+[2014-10-01 20:00:14] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36795702
