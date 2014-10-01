@@ -77,3 +77,8 @@
 [2014-10-01 19:33:41] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/4dd1225af3ba...f80f7ca7b8ec
 [2014-10-01 19:33:41] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36793231
 [2014-10-01 19:33:41] travis-ci, leaving. (#selendroid)
+[2014-10-01 19:39:20] travis-ci, joining. (#selendroid)
+[2014-10-01 19:39:20] travis-ci: [travis-ci] selendroid/selendroid#428 (master - 92f694b : Dominik Dary): The build passed.
+[2014-10-01 19:39:20] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/f80f7ca7b8ec...92f694b8bcf9
+[2014-10-01 19:39:20] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36793368
+[2014-10-01 19:39:20] travis-ci, leaving. (#selendroid)
