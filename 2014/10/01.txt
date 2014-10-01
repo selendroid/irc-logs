@@ -38,3 +38,8 @@
 [2014-10-01 12:22:22] selendroid-git: selendroid/master 30afc3d Ainsley Escorce-Jones: Fixed infinite loop when waiting for launcher to complete
 [2014-10-01 12:22:22] selendroid-git: selendroid/master 0bb90bb Ainsley Escorce-Jones: Minor cleanup in DefaultAndroidEmulator
 [2014-10-01 12:22:22] selendroid-git, leaving. (#selendroid)
+[2014-10-01 12:27:22] travis-ci, joining. (#selendroid)
+[2014-10-01 12:27:22] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/36756969
+[2014-10-01 12:27:22] travis-ci: [travis-ci] selendroid/selendroid#425 (master - 0bb90bb : Ainsley Escorce-Jones): The build passed.
+[2014-10-01 12:27:22] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/2d66cd151430...0bb90bb9f0c9
+[2014-10-01 12:27:22] travis-ci, leaving. (#selendroid)
