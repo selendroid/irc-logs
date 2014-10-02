@@ -12,3 +12,6 @@
 [2014-10-02 17:55:57] lukeis, joining. (#selendroid)
 [2014-10-02 18:22:03] dgrace__, quitting. (Quit: Connection closed for inactivity)
 [2014-10-02 19:44:04] friscodelrosario, joining. (#selendroid)
+[2014-10-02 20:18:47] selendroid-git, joining. (#selendroid)
+[2014-10-02 20:18:47] selendroid-git: [selendroid] juyuanyang opened pull request #628: fix Samsung real devices login hang problem (master...master) http://git.io/FGfL5g
+[2014-10-02 20:18:47] selendroid-git, leaving. (#selendroid)
