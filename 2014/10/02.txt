@@ -10,3 +10,4 @@
 [2014-10-02 17:42:47] smikloso, quitting. (Quit: Leaving.)
 [2014-10-02 17:53:03] smccarthy, joining. (#selendroid)
 [2014-10-02 17:55:57] lukeis, joining. (#selendroid)
+[2014-10-02 18:22:03] dgrace__, quitting. (Quit: Connection closed for inactivity)
