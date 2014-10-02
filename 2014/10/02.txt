@@ -19,3 +19,4 @@
 [2014-10-02 21:06:50] maan, joining. (#selendroid)
 [2014-10-02 21:25:17] maan, quitting. (Remote host closed the connection)
 [2014-10-02 21:43:58] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-10-02 22:41:15] friscodelrosario, joining. (#selendroid)
