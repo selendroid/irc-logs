@@ -3,3 +3,4 @@
 [2014-10-02 03:00:36] smccarthy, joining. (#selendroid)
 [2014-10-02 06:21:57] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-02 10:05:24] smikloso, joining. (#selendroid)
+[2014-10-02 12:08:46] AutomatedTester, joining. (#selendroid)
