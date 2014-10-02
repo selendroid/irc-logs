@@ -7,3 +7,4 @@
 [2014-10-02 16:31:03] maan, joining. (#selendroid)
 [2014-10-02 17:10:51] maan_, joining. (#selendroid)
 [2014-10-02 17:10:51] maan, quitting. (Read error: Connection reset by peer)
+[2014-10-02 17:42:47] smikloso, quitting. (Quit: Leaving.)
