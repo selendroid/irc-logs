@@ -16,3 +16,4 @@
 [2014-10-02 20:18:47] selendroid-git: [selendroid] juyuanyang opened pull request #628: fix Samsung real devices login hang problem (master...master) http://git.io/FGfL5g
 [2014-10-02 20:18:47] selendroid-git, leaving. (#selendroid)
 [2014-10-02 20:22:03] maan_, quitting. (Remote host closed the connection)
+[2014-10-02 21:06:50] maan, joining. (#selendroid)
