@@ -5,3 +5,5 @@
 [2014-10-02 10:05:24] smikloso, joining. (#selendroid)
 [2014-10-02 12:08:46] AutomatedTester, joining. (#selendroid)
 [2014-10-02 16:31:03] maan, joining. (#selendroid)
+[2014-10-02 17:10:51] maan_, joining. (#selendroid)
+[2014-10-02 17:10:51] maan, quitting. (Read error: Connection reset by peer)
