@@ -4,3 +4,4 @@
 [2014-10-03 09:48:38] dgrace__, joining. (#selendroid)
 [2014-10-03 10:15:31] smikloso, joining. (#selendroid)
 [2014-10-03 14:34:47] operatiay, quitting. (Remote host closed the connection)
+[2014-10-03 14:38:02] smikloso, leaving. (#selendroid)
