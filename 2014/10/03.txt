@@ -18,3 +18,4 @@
 [2014-10-03 20:07:09] ddary, quitting. (Client Quit)
 [2014-10-03 20:32:50] operatiay, joining. (#selendroid)
 [2014-10-03 21:02:45] maan, joining. (#selendroid)
+[2014-10-03 21:23:50] maan, quitting. (Remote host closed the connection)
