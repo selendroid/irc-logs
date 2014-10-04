@@ -1,3 +1,7 @@
 [2014-10-04 00:37:46] maan, quitting. (Remote host closed the connection)
 [2014-10-04 01:26:01] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-04 04:53:56] AutomatedTester_, joining. (#selendroid)
+[2014-10-04 04:56:42] AutomatedTester, quitting. (*.net *.split)
+[2014-10-04 04:56:44] AutomatedTester_, changing nick to AutomatedTester.
+[2014-10-04 04:56:49] AutomatedTester, quitting. (Changing host)
+[2014-10-04 04:56:49] AutomatedTester, joining. (#selendroid)
