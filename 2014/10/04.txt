@@ -1,2 +1,3 @@
 [2014-10-04 00:37:46] maan, quitting. (Remote host closed the connection)
 [2014-10-04 01:26:01] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-04 04:53:56] AutomatedTester_, joining. (#selendroid)
