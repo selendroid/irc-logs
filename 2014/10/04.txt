@@ -7,3 +7,4 @@
 [2014-10-04 04:56:49] AutomatedTester, joining. (#selendroid)
 [2014-10-04 05:21:28] lukeis, quitting. (Quit: Leaving.)
 [2014-10-04 06:44:27] operatiay, joining. (#selendroid)
+[2014-10-04 06:48:52] operatiay, quitting. (Ping timeout: 240 seconds)
