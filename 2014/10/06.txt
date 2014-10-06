@@ -22,3 +22,4 @@
 [2014-10-06 16:02:42] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-10-06 16:04:13] detronizator, joining. (#selendroid)
 [2014-10-06 16:06:49] smccarthy, joining. (#selendroid)
+[2014-10-06 16:29:22] operatiay, joining. (#selendroid)
