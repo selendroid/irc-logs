@@ -31,3 +31,4 @@
 [2014-10-06 19:44:40] friscodelrosario, joining. (#selendroid)
 [2014-10-06 20:28:11] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-06 21:44:39] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-10-06 22:01:07] friscodelrosario, joining. (#selendroid)
