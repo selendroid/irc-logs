@@ -6,3 +6,4 @@
 [2014-10-06 10:10:39] smikloso, joining. (#selendroid)
 [2014-10-06 12:04:30] operatiay, quitting. (Remote host closed the connection)
 [2014-10-06 12:18:13] detronizator, joining. (#selendroid)
+[2014-10-06 12:36:31] operatiay, joining. (#selendroid)
