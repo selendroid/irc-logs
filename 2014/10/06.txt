@@ -7,3 +7,4 @@
 [2014-10-06 12:04:30] operatiay, quitting. (Remote host closed the connection)
 [2014-10-06 12:18:13] detronizator, joining. (#selendroid)
 [2014-10-06 12:36:31] operatiay, joining. (#selendroid)
+[2014-10-06 15:22:29] operatiay, quitting. (Remote host closed the connection)
