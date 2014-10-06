@@ -14,3 +14,8 @@
 [2014-10-06 15:43:05] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/sfIM6w
 [2014-10-06 15:43:05] selendroid-git: selendroid/master bbba7dc Juyuan Yang: getRecentDecorView fails on Samsung S3/S5 with MultiWindow support...
 [2014-10-06 15:43:05] selendroid-git, leaving. (#selendroid)
+[2014-10-06 15:48:41] travis-ci, joining. (#selendroid)
+[2014-10-06 15:48:41] travis-ci: [travis-ci] selendroid/selendroid#432 (master - bbba7dc : Juyuan Yang): The build passed.
+[2014-10-06 15:48:41] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/218cdde27558...bbba7dca6542
+[2014-10-06 15:48:41] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/37185185
+[2014-10-06 15:48:41] travis-ci, leaving. (#selendroid)
