@@ -33,3 +33,4 @@
 [2014-10-06 21:44:39] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-10-06 22:01:07] friscodelrosario, joining. (#selendroid)
 [2014-10-06 22:05:34] friscodelrosario, quitting. (Ping timeout: 250 seconds)
+[2014-10-06 22:39:22] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
