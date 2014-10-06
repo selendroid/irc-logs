@@ -3,3 +3,4 @@
 [2014-10-06 07:04:38] operatiay, joining. (#selendroid)
 [2014-10-06 07:09:29] operatiay, quitting. (Ping timeout: 272 seconds)
 [2014-10-06 09:51:43] operatiay, joining. (#selendroid)
+[2014-10-06 10:10:39] smikloso, joining. (#selendroid)
