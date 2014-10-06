@@ -35,3 +35,4 @@
 [2014-10-06 22:05:34] friscodelrosario, quitting. (Ping timeout: 250 seconds)
 [2014-10-06 22:39:22] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
 [2014-10-06 22:42:14] smccarthy, joining. (#selendroid)
+[2014-10-06 23:17:29] friscodelrosario, joining. (#selendroid)
