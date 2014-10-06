@@ -10,3 +10,7 @@
 [2014-10-06 15:22:29] operatiay, quitting. (Remote host closed the connection)
 [2014-10-06 15:29:17] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-10-06 15:31:27] detronizator, joining. (#selendroid)
+[2014-10-06 15:43:05] selendroid-git, joining. (#selendroid)
+[2014-10-06 15:43:05] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/sfIM6w
+[2014-10-06 15:43:05] selendroid-git: selendroid/master bbba7dc Juyuan Yang: getRecentDecorView fails on Samsung S3/S5 with MultiWindow support...
+[2014-10-06 15:43:05] selendroid-git, leaving. (#selendroid)
