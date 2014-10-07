@@ -32,3 +32,7 @@
 [2014-10-07 11:34:21] travis-ci, leaving. (#selendroid)
 [2014-10-07 11:46:06] detronizator, quitting. (Ping timeout: 467 seconds)
 [2014-10-07 11:46:33] detronizator, joining. (#selendroid)
+[2014-10-07 12:46:46] selendroid-git, joining. (#selendroid)
+[2014-10-07 12:46:47] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/cSLVjg
+[2014-10-07 12:46:47] selendroid-git: selendroid/master f7d450f Dominik Dary: Updating to latest Android Atoms.
+[2014-10-07 12:46:47] selendroid-git, leaving. (#selendroid)
