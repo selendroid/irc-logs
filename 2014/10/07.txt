@@ -53,3 +53,4 @@
 [2014-10-07 15:11:47] selendroid-git: selendroid/master eb755f2 Dominik Dary: fixing faling SelendroidUnknownCommandHandlingTest
 [2014-10-07 15:11:47] selendroid-git, leaving. (#selendroid)
 [2014-10-07 15:13:04] ddary, quitting. (Client Quit)
+[2014-10-07 15:32:11] smikloso, leaving. (#selendroid)
