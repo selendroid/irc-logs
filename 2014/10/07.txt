@@ -25,3 +25,8 @@
 [2014-10-07 11:28:55] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vUmsBQ
 [2014-10-07 11:28:56] selendroid-git: selendroid/master f5e00d8 Dominik Dary: Upgrading to latest Selenium 2.43.1.
 [2014-10-07 11:28:56] selendroid-git, leaving. (#selendroid)
+[2014-10-07 11:34:21] travis-ci, joining. (#selendroid)
+[2014-10-07 11:34:21] travis-ci: [travis-ci] selendroid/selendroid#433 (master - f5e00d8 : Dominik Dary): The build passed.
+[2014-10-07 11:34:21] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/bbba7dca6542...f5e00d8ede72
+[2014-10-07 11:34:21] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/37268750
+[2014-10-07 11:34:21] travis-ci, leaving. (#selendroid)
