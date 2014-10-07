@@ -21,3 +21,7 @@
 [2014-10-07 11:08:24] smikloso, joining. (#selendroid)
 [2014-10-07 11:10:29] operatiay, quitting. (Remote host closed the connection)
 [2014-10-07 11:16:12] operatiay, joining. (#selendroid)
+[2014-10-07 11:28:55] selendroid-git, joining. (#selendroid)
+[2014-10-07 11:28:55] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vUmsBQ
+[2014-10-07 11:28:56] selendroid-git: selendroid/master f5e00d8 Dominik Dary: Upgrading to latest Selenium 2.43.1.
+[2014-10-07 11:28:56] selendroid-git, leaving. (#selendroid)
