@@ -91,3 +91,9 @@
 [2014-10-07 20:50:47] selendroid-git: selendroid/master 1cc63bc Dominik Dary: Fixing javadoc link.
 [2014-10-07 20:50:47] selendroid-git: selendroid/master 3c6889d Dominik Dary: Making AdbConnectionTest more robust.
 [2014-10-07 20:50:48] selendroid-git, leaving. (#selendroid)
+[2014-10-07 20:55:33] travis-ci, joining. (#selendroid)
+[2014-10-07 20:55:33] travis-ci: [travis-ci] selendroid/selendroid#437 (master - 3c6889d : Dominik Dary): The build passed.
+[2014-10-07 20:55:33] travis-ci: [travis-ci] Change view : https://github.com/selendroid/selendroid/compare/83857053b7c8...3c6889d0db2f
+[2014-10-07 20:55:33] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/37319095
+[2014-10-07 20:55:33] travis-ci, leaving. (#selendroid)
+[2014-10-07 20:58:24] maan, quitting. (Remote host closed the connection)
