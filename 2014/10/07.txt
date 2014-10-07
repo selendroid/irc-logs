@@ -79,3 +79,4 @@
 [2014-10-07 19:27:54] ddary: thanks
 [2014-10-07 19:28:01] ddary: i’ll look into the others
 [2014-10-07 19:28:18] ddary: it seems like platform version 19 is a bit more tricky
+[2014-10-07 19:33:13] smccarthy, joining. (#selendroid)
