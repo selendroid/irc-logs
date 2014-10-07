@@ -61,3 +61,6 @@
 [2014-10-07 16:50:08] ddary, quitting. (Client Quit)
 [2014-10-07 16:52:23] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-07 17:34:42] ddary, joining. (#selendroid)
+[2014-10-07 17:50:30] ddary, quitting. (Quit: ddary)
+[2014-10-07 17:51:37] lukeis, joining. (#selendroid)
+[2014-10-07 17:54:06] ddary, joining. (#selendroid)
