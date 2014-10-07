@@ -42,3 +42,4 @@
 [2014-10-07 12:55:42] travis-ci, leaving. (#selendroid)
 [2014-10-07 12:55:42] travis-ci: [travis-ci] Build details : http://travis-ci.org/selendroid/selendroid/builds/37274802
 [2014-10-07 13:17:06] ddary, joining. (#selendroid)
+[2014-10-07 13:34:19] ddary, quitting. (Quit: ddary)
