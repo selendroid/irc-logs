@@ -54,3 +54,4 @@
 [2014-10-07 15:11:47] selendroid-git, leaving. (#selendroid)
 [2014-10-07 15:13:04] ddary, quitting. (Client Quit)
 [2014-10-07 15:32:11] smikloso, leaving. (#selendroid)
+[2014-10-07 16:13:08] ddary, joining. (#selendroid)
