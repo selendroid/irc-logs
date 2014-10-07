@@ -86,3 +86,8 @@
 [2014-10-07 20:43:39] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-10-07 20:45:30] detronizator, joining. (#selendroid)
 [2014-10-07 20:46:32] ddary, quitting. (Quit: ddary)
+[2014-10-07 20:50:47] selendroid-git, joining. (#selendroid)
+[2014-10-07 20:50:47] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/ty5kdw
+[2014-10-07 20:50:47] selendroid-git: selendroid/master 1cc63bc Dominik Dary: Fixing javadoc link.
+[2014-10-07 20:50:47] selendroid-git: selendroid/master 3c6889d Dominik Dary: Making AdbConnectionTest more robust.
+[2014-10-07 20:50:48] selendroid-git, leaving. (#selendroid)
