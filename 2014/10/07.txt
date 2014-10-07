@@ -56,3 +56,5 @@
 [2014-10-07 15:32:11] smikloso, leaving. (#selendroid)
 [2014-10-07 16:13:08] ddary, joining. (#selendroid)
 [2014-10-07 16:35:33] ddary, quitting. (Quit: ddary)
+[2014-10-07 16:46:02] smccarthy, joining. (#selendroid)
+[2014-10-07 16:47:34] ddary, joining. (#selendroid)
