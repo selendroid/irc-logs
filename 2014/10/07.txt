@@ -64,3 +64,8 @@
 [2014-10-07 17:50:30] ddary, quitting. (Quit: ddary)
 [2014-10-07 17:51:37] lukeis, joining. (#selendroid)
 [2014-10-07 17:54:06] ddary, joining. (#selendroid)
+[2014-10-07 18:01:52] selendroid-git, joining. (#selendroid)
+[2014-10-07 18:01:52] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/XxM8fg
+[2014-10-07 18:01:52] selendroid-git: selendroid/master 8385705 Dominik Dary: Fixing ExtensionLoadTest
+[2014-10-07 18:01:52] selendroid-git, leaving. (#selendroid)
+[2014-10-07 18:03:25] ddary, quitting. (Quit: ddary)
