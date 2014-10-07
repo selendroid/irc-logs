@@ -12,3 +12,4 @@
 [2014-10-07 08:59:56] ddary, joining. (#selendroid)
 [2014-10-07 08:59:56] ddary, quitting. (Client Quit)
 [2014-10-07 09:05:36] smikloso, joining. (#selendroid)
+[2014-10-07 09:13:10] smikloso1, joining. (#selendroid)
