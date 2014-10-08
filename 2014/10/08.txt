@@ -23,3 +23,4 @@
 [2014-10-08 18:09:53] smikloso, leaving. (#selendroid)
 [2014-10-08 18:12:26] operatiay, quitting. ()
 [2014-10-08 19:30:59] smccarthy, joining. (#selendroid)
+[2014-10-08 19:39:53] smccarthy, quitting. (Read error: Connection reset by peer)
