@@ -10,3 +10,4 @@
 [2014-10-08 12:12:04] dgrace__, quitting. (Quit: Connection closed for inactivity)
 [2014-10-08 12:34:00] operatiay, joining. (#selendroid)
 [2014-10-08 15:37:04] smccarthy, joining. (#selendroid)
+[2014-10-08 16:06:38] maan, joining. (#selendroid)
