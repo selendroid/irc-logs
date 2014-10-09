@@ -24,3 +24,4 @@
 [2014-10-09 17:58:09] smccarthy, joining. (#selendroid)
 [2014-10-09 18:01:46] smccarthy, quitting. (Client Quit)
 [2014-10-09 18:13:57] lukeis, joining. (#selendroid)
+[2014-10-09 18:54:41] friscodelrosario, joining. (#selendroid)
