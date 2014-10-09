@@ -50,3 +50,4 @@
 [2014-10-09 22:40:36] mach6, joining. (#selendroid)
 [2014-10-09 22:49:19] rchan, joining. (#selendroid)
 [2014-10-09 22:49:43] rchan, quitting. (Client Quit)
+[2014-10-09 23:24:35] smccarthy, quitting. (Quit: Leaving...)
