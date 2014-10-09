@@ -4,3 +4,4 @@
 [2014-10-09 06:12:34] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-09 07:06:06] maan, joining. (#selendroid)
 [2014-10-09 07:38:22] maan, quitting. (Remote host closed the connection)
+[2014-10-09 07:46:26] maan, joining. (#selendroid)
