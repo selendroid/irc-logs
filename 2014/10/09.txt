@@ -35,3 +35,10 @@
 [2014-10-09 20:04:06] selendroid-git: selendroid/master 0be5382 KIKUCHI Koichiro: Added support for "paltformVersion" to SelendroidCapabilityMatcher....
 [2014-10-09 20:04:06] selendroid-git: selendroid/master 1a6a096 Dominik Dary: Merge pull request #607 from koichirok/more-capabilities-to-consider...
 [2014-10-09 20:04:06] selendroid-git, leaving. (#selendroid)
+[2014-10-09 20:10:40] travis-ci, joining. (#selendroid)
+[2014-10-09 20:10:40] travis-ci: selendroid/selendroid#438 (master - 1a6a096 : Dominik Dary): The build passed.
+[2014-10-09 20:10:41] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/3c6889d0db2f...1a6a096ae9b3
+[2014-10-09 20:10:41] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/37526444
+[2014-10-09 20:10:41] travis-ci, leaving. (#selendroid)
+[2014-10-09 20:13:52] ddary, leaving. (#selendroid)
+[2014-10-09 20:14:24] maan, joining. (#selendroid)
