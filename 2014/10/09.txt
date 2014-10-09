@@ -20,3 +20,5 @@
 [2014-10-09 16:10:49] maan, joining. (#selendroid)
 [2014-10-09 17:19:20] smikloso, leaving. (#selendroid)
 [2014-10-09 17:26:42] smccarthy, joining. (#selendroid)
+[2014-10-09 17:56:41] smccarthy, quitting. (Read error: Connection timed out)
+[2014-10-09 17:58:09] smccarthy, joining. (#selendroid)
