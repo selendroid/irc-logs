@@ -27,3 +27,11 @@
 [2014-10-09 18:54:41] friscodelrosario, joining. (#selendroid)
 [2014-10-09 19:31:24] maan, quitting. (Remote host closed the connection)
 [2014-10-09 19:58:28] ddary, joining. (#selendroid)
+[2014-10-09 20:02:12] ddary: hi lukeis
+[2014-10-09 20:02:41] ddary: did you where able to have a look at the failing ExecuteAsyncScriptTest.
+[2014-10-09 20:02:43] ddary: ?
+[2014-10-09 20:04:06] selendroid-git, joining. (#selendroid)
+[2014-10-09 20:04:06] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/NZLhfg
+[2014-10-09 20:04:06] selendroid-git: selendroid/master 0be5382 KIKUCHI Koichiro: Added support for "paltformVersion" to SelendroidCapabilityMatcher....
+[2014-10-09 20:04:06] selendroid-git: selendroid/master 1a6a096 Dominik Dary: Merge pull request #607 from koichirok/more-capabilities-to-consider...
+[2014-10-09 20:04:06] selendroid-git, leaving. (#selendroid)
