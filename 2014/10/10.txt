@@ -25,3 +25,4 @@
 [2014-10-10 15:05:36] freannrak: hey, is there a way to specify which browser will run inside my webview? I've set chrome as the default one pretty much everywhere, but inside the webview it still runs the god damn android browser.
 [2014-10-10 17:38:41] smikloso, quitting. (Quit: Leaving.)
 [2014-10-10 17:51:06] lukeis, joining. (#selendroid)
+[2014-10-10 19:41:03] ddary, joining. (#selendroid)
