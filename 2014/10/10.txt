@@ -14,3 +14,4 @@
 [2014-10-10 06:11:00] mach6, quitting. (Remote host closed the connection)
 [2014-10-10 06:19:57] ddary, joining. (#selendroid)
 [2014-10-10 06:29:50] ddary, leaving. (#selendroid)
+[2014-10-10 08:23:33] maan, joining. (#selendroid)
