@@ -9,3 +9,4 @@
 [2014-10-10 03:25:30] mach6, quitting. (Remote host closed the connection)
 [2014-10-10 03:29:17] mach6, joining. (#selendroid)
 [2014-10-10 03:53:26] mach6, quitting. (Remote host closed the connection)
+[2014-10-10 04:03:31] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
