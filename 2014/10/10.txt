@@ -26,3 +26,5 @@
 [2014-10-10 17:38:41] smikloso, quitting. (Quit: Leaving.)
 [2014-10-10 17:51:06] lukeis, joining. (#selendroid)
 [2014-10-10 19:41:03] ddary, joining. (#selendroid)
+[2014-10-10 19:51:10] friscodelrosario, joining. (#selendroid)
+[2014-10-10 19:52:18] ddary, quitting. (Quit: ddary)
