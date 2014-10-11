@@ -3,3 +3,4 @@
 [2014-10-11 02:49:25] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-10-11 06:03:52] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-11 09:18:26] maan, joining. (#selendroid)
+[2014-10-11 09:57:49] maan, quitting. (Remote host closed the connection)
