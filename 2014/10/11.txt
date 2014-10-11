@@ -12,3 +12,4 @@
 [2014-10-11 13:48:33] maan, quitting. (Remote host closed the connection)
 [2014-10-11 18:35:10] maan, joining. (#selendroid)
 [2014-10-11 19:54:06] maan, quitting. (Remote host closed the connection)
+[2014-10-11 20:18:47] maan, joining. (#selendroid)
