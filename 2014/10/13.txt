@@ -24,3 +24,9 @@
 [2014-10-13 17:58:17] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/S3zgeQ
 [2014-10-13 17:58:17] selendroid-git: selendroid/master e8c7ffe Martin Konicek: Provide full output when APK installation fails...
 [2014-10-13 17:58:17] selendroid-git, leaving. (#selendroid)
+[2014-10-13 18:01:12] lukeis, quitting. (Quit: Leaving.)
+[2014-10-13 18:02:53] travis-ci, joining. (#selendroid)
+[2014-10-13 18:02:53] travis-ci: selendroid/selendroid#440 (master - e8c7ffe : Martin Konicek): The build passed.
+[2014-10-13 18:02:53] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/c3f0ae16bd50...e8c7ffea5fe6
+[2014-10-13 18:02:53] travis-ci, leaving. (#selendroid)
+[2014-10-13 18:02:53] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/37841425
