@@ -20,3 +20,7 @@
 [2014-10-13 17:24:07] lukeis, joining. (#selendroid)
 [2014-10-13 17:49:27] smccarthy, joining. (#selendroid)
 [2014-10-13 17:54:26] smikloso, leaving. (#selendroid)
+[2014-10-13 17:58:17] selendroid-git, joining. (#selendroid)
+[2014-10-13 17:58:17] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/S3zgeQ
+[2014-10-13 17:58:17] selendroid-git: selendroid/master e8c7ffe Martin Konicek: Provide full output when APK installation fails...
+[2014-10-13 17:58:17] selendroid-git, leaving. (#selendroid)
