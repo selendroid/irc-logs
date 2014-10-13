@@ -40,3 +40,4 @@
 [2014-10-13 23:17:54] mac6, joining. (#selendroid)
 [2014-10-13 23:18:28] mac6, leaving. (#selendroid)
 [2014-10-13 23:21:48] mach6, joining. (#selendroid)
+[2014-10-13 23:40:22] marx, quitting. (Ping timeout: 240 seconds)
