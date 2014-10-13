@@ -4,3 +4,6 @@
 [2014-10-14 00:08:08] marx, joining. (#selendroid)
 [2014-10-14 00:08:32] marx, changing nick to Guest19100.
 [2014-10-14 00:26:06] smccarthy, joining. (#selendroid)
+[2014-10-14 00:30:34] selendroid-git, joining. (#selendroid)
+[2014-10-14 00:30:34] selendroid-git: [selendroid] Jonahss closed pull request #642: npm modularized (master...master) http://git.io/baJIVQ
+[2014-10-14 00:30:34] selendroid-git, leaving. (#selendroid)
