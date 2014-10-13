@@ -3,3 +3,7 @@
 [2014-10-13 08:15:09] mach6, joining. (#selendroid)
 [2014-10-13 08:29:46] mach6, quitting. ()
 [2014-10-13 10:19:57] smikloso, joining. (#selendroid)
+[2014-10-13 12:05:43] selendroid-git, joining. (#selendroid)
+[2014-10-13 12:05:43] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/-hfnMg
+[2014-10-13 12:05:43] selendroid-git: selendroid/master c3f0ae1 Ainsley Escorce-Jones: Fixes AdbConnectionTest.shouldSendKeyEventViaAdb
+[2014-10-13 12:05:43] selendroid-git, leaving. (#selendroid)
