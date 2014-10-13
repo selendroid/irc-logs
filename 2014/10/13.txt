@@ -14,3 +14,5 @@
 [2014-10-13 12:10:26] travis-ci, leaving. (#selendroid)
 [2014-10-13 15:25:05] smccarthy, joining. (#selendroid)
 [2014-10-13 15:33:37] maan, joining. (#selendroid)
+[2014-10-13 17:07:08] maan_, joining. (#selendroid)
+[2014-10-13 17:07:46] maan, quitting. (Ping timeout: 240 seconds)
