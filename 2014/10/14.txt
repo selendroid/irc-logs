@@ -7,3 +7,6 @@
 [2014-10-14 00:30:34] selendroid-git, joining. (#selendroid)
 [2014-10-14 00:30:34] selendroid-git: [selendroid] Jonahss closed pull request #642: npm modularized (master...master) http://git.io/baJIVQ
 [2014-10-14 00:30:34] selendroid-git, leaving. (#selendroid)
+[2014-10-14 00:36:11] operatiay, joining. (#selendroid)
+[2014-10-14 00:38:43] mach6, quitting. (Ping timeout: 246 seconds)
+[2014-10-14 00:39:36] lukeis, quitting. (Ping timeout: 260 seconds)
