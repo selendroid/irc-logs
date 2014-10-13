@@ -1,0 +1,5 @@
+[2014-10-14 00:06:49] selendroid-git, joining. (#selendroid)
+[2014-10-14 00:06:49] selendroid-git: [selendroid] Jonahss opened pull request #642: npm modularized (master...master) http://git.io/baJIVQ
+[2014-10-14 00:06:49] selendroid-git, leaving. (#selendroid)
+[2014-10-14 00:08:08] marx, joining. (#selendroid)
+[2014-10-14 00:08:32] marx, changing nick to Guest19100.
