@@ -7,3 +7,8 @@
 [2014-10-13 12:05:43] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/-hfnMg
 [2014-10-13 12:05:43] selendroid-git: selendroid/master c3f0ae1 Ainsley Escorce-Jones: Fixes AdbConnectionTest.shouldSendKeyEventViaAdb
 [2014-10-13 12:05:43] selendroid-git, leaving. (#selendroid)
+[2014-10-13 12:10:26] travis-ci, joining. (#selendroid)
+[2014-10-13 12:10:26] travis-ci: selendroid/selendroid#439 (master - c3f0ae1 : Ainsley Escorce-Jones): The build passed.
+[2014-10-13 12:10:26] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/1a6a096ae9b3...c3f0ae16bd50
+[2014-10-13 12:10:26] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/37809852
+[2014-10-13 12:10:26] travis-ci, leaving. (#selendroid)
