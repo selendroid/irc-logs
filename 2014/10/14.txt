@@ -58,3 +58,16 @@
 [2014-10-14 21:08:52] lukeis: what do you see happening? anything? nothing? is there something in the logcat?
 [2014-10-14 21:09:10] rkokkula: I did put the logcat trace in the github issue
 [2014-10-14 21:09:50] rkokkula: I tried forceReinstall, manually uninstall and reinstalling app all these but still see this error
+[2014-10-14 21:10:05] rkokkula: I have been waiting for any clues can you please help me out
+[2014-10-14 21:10:35] lukeis: are you two different users in github? cause I don't see your output
+[2014-10-14 21:10:54] rkokkula: no this is Rajani here
+[2014-10-14 21:11:21] lukeis: you only put the java stacktrace
+[2014-10-14 21:11:31] lukeis: you need to run `adb logcat`
+[2014-10-14 21:11:34] rkokkula: 10-02 14:31:00.070: E/PowerManagerService-JNI(1257): Couldn't load power module (No such file or directory) 10-02 14:31:00.120: E/SurfaceFlinger(921): ro.sf.lcd_density must be defined as a build property 10-02 14:31:01.050: E/ConsumerIrService(1257): Can't open consumer IR HW Module, error: -2 10-02 14:31:01.050: E/libsuspend(1257): Error opening /sys/power/autosleep: No such file or directory 10-02 14:31:01.100: E/EventHub(1
+[2014-10-14 21:11:55] lukeis: use a :gist
+[2014-10-14 21:12:13] rkokkula: sure..
+[2014-10-14 21:12:14] lukeis: and those errors look like something else, not selendroid
+[2014-10-14 21:12:37] maan, quitting. (Ping timeout: 260 seconds)
+[2014-10-14 21:12:55] rkokkula: Hi Pasted in gist.github.cpm
+[2014-10-14 21:13:12] lukeis: you need to provide the link to the gist
+[2014-10-14 21:14:29] rkokkula: i am new to gist can you please provide me with steps
