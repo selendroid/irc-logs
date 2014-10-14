@@ -12,3 +12,4 @@
 [2014-10-14 00:39:36] lukeis, quitting. (Ping timeout: 260 seconds)
 [2014-10-14 00:44:29] operatia_, joining. (#selendroid)
 [2014-10-14 00:44:30] operatiay, quitting. (Read error: Connection reset by peer)
+[2014-10-14 01:58:44] operatia_, quitting. (Read error: Connection reset by peer)
