@@ -71,3 +71,7 @@
 [2014-10-14 21:12:55] rkokkula: Hi Pasted in gist.github.cpm
 [2014-10-14 21:13:12] lukeis: you need to provide the link to the gist
 [2014-10-14 21:14:29] rkokkula: i am new to gist can you please provide me with steps
+[2014-10-14 21:16:05] ddary, joining. (#selendroid)
+[2014-10-14 21:16:17] rkokkula: https://gist.github.com/pp-product/e6f3aea7a87b824d7c25
+[2014-10-14 21:16:30] rkokkula: please let me know if you can see this
+[2014-10-14 21:16:50] rkokkula: i have put the adb logcat
