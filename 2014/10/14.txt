@@ -28,3 +28,4 @@
 [2014-10-14 08:21:55] maan, quitting. (Remote host closed the connection)
 [2014-10-14 08:25:08] maan, joining. (#selendroid)
 [2014-10-14 08:32:59] maan, quitting. (Remote host closed the connection)
+[2014-10-14 09:50:56] freannrak, leaving. (#selendroid)
