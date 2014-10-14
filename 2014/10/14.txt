@@ -48,3 +48,4 @@
 [2014-10-14 20:37:59] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/Fudxpw
 [2014-10-14 20:37:59] selendroid-git: selendroid/master 013c06d Martin Konicek: More logging on display check failures...
 [2014-10-14 20:37:59] selendroid-git, leaving. (#selendroid)
+[2014-10-14 20:58:58] maan, joining. (#selendroid)
