@@ -49,3 +49,4 @@
 [2014-10-14 20:37:59] selendroid-git: selendroid/master 013c06d Martin Konicek: More logging on display check failures...
 [2014-10-14 20:37:59] selendroid-git, leaving. (#selendroid)
 [2014-10-14 20:58:58] maan, joining. (#selendroid)
+[2014-10-14 21:02:02] maan_, quitting. (Ping timeout: 250 seconds)
