@@ -25,3 +25,4 @@
 [2014-10-14 07:29:05] maan, joining. (#selendroid)
 [2014-10-14 07:40:39] Guest19100, quitting. (*.net *.split)
 [2014-10-14 07:46:14] Guest19100, joining. (#selendroid)
+[2014-10-14 08:21:55] maan, quitting. (Remote host closed the connection)
