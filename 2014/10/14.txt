@@ -18,3 +18,4 @@
 [2014-10-14 02:01:55] operatiay, joining. (#selendroid)
 [2014-10-14 02:15:39] operatiay, quitting. (Read error: Connection reset by peer)
 [2014-10-14 02:15:50] operatiay, joining. (#selendroid)
+[2014-10-14 03:19:12] smccarthy, quitting. (Quit: Leaving...)
