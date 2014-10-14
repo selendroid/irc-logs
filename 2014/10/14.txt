@@ -75,3 +75,5 @@
 [2014-10-14 21:16:17] rkokkula: https://gist.github.com/pp-product/e6f3aea7a87b824d7c25
 [2014-10-14 21:16:30] rkokkula: please let me know if you can see this
 [2014-10-14 21:16:50] rkokkula: i have put the adb logcat
+[2014-10-14 21:22:23] rkokkula: hi
+[2014-10-14 21:23:28] ddary, leaving. (#selendroid)
