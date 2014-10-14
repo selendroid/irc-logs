@@ -40,3 +40,5 @@
 [2014-10-14 18:56:28] maan, quitting. (Read error: Connection reset by peer)
 [2014-10-14 18:56:34] maan_, joining. (#selendroid)
 [2014-10-14 19:38:19] ddary, joining. (#selendroid)
+[2014-10-14 20:11:09] ddary, quitting. (Quit: ddary)
+[2014-10-14 20:14:41] mach6, quitting. (Quit: Xaric: If you have a better quit message then submit a patch!)
