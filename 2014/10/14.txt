@@ -82,3 +82,4 @@
 [2014-10-14 21:42:19] maan_, quitting. (Ping timeout: 272 seconds)
 [2014-10-14 21:48:42] mach6, quitting. (Quit: Be back later ...)
 [2014-10-14 23:16:24] rkokkula, joining. (#selendroid)
+[2014-10-14 23:22:05] rkokkula, quitting. (Quit: Page closed)
