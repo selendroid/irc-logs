@@ -37,3 +37,5 @@
 [2014-10-14 17:51:20] lukeis, joining. (#selendroid)
 [2014-10-14 18:05:46] maan, joining. (#selendroid)
 [2014-10-14 18:49:43] mach6, joining. (#selendroid)
+[2014-10-14 18:56:28] maan, quitting. (Read error: Connection reset by peer)
+[2014-10-14 18:56:34] maan_, joining. (#selendroid)
