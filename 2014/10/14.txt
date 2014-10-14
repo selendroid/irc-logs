@@ -77,3 +77,4 @@
 [2014-10-14 21:16:50] rkokkula: i have put the adb logcat
 [2014-10-14 21:22:23] rkokkula: hi
 [2014-10-14 21:23:28] ddary, leaving. (#selendroid)
+[2014-10-14 21:27:19] rkokkula: hi can you please let me know if you need anything else from my end
