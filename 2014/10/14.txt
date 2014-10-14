@@ -43,3 +43,4 @@
 [2014-10-14 20:11:09] ddary, quitting. (Quit: ddary)
 [2014-10-14 20:14:41] mach6, quitting. (Quit: Xaric: If you have a better quit message then submit a patch!)
 [2014-10-14 20:24:57] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-14 20:31:41] mach6, joining. (#selendroid)
