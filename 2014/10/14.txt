@@ -13,3 +13,6 @@
 [2014-10-14 00:44:29] operatia_, joining. (#selendroid)
 [2014-10-14 00:44:30] operatiay, quitting. (Read error: Connection reset by peer)
 [2014-10-14 01:58:44] operatia_, quitting. (Read error: Connection reset by peer)
+[2014-10-14 02:00:40] operatiay, joining. (#selendroid)
+[2014-10-14 02:01:47] operatiay, quitting. (Read error: Connection reset by peer)
+[2014-10-14 02:01:55] operatiay, joining. (#selendroid)
