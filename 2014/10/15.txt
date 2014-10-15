@@ -17,3 +17,4 @@
 [2014-10-15 15:50:58] smikloso, joining. (#selendroid)
 [2014-10-15 16:21:18] maan, joining. (#selendroid)
 [2014-10-15 17:21:55] smikloso, leaving. (#selendroid)
+[2014-10-15 17:47:24] maan_, joining. (#selendroid)
