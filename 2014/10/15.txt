@@ -30,3 +30,4 @@
 [2014-10-15 19:29:04] smccarthy, joining. (#selendroid)
 [2014-10-15 19:42:25] mlilenium_, joining. (#selendroid)
 [2014-10-15 19:42:34] mlilenium_, leaving. (#selendroid)
+[2014-10-15 20:13:46] mach6___, joining. (#selendroid)
