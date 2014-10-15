@@ -24,3 +24,4 @@
 [2014-10-15 18:16:23] smccarthy, joining. (#selendroid)
 [2014-10-15 18:47:22] maan, joining. (#selendroid)
 [2014-10-15 18:48:02] maan_, quitting. (Read error: Connection reset by peer)
+[2014-10-15 18:51:50] mach6___, quitting. (Quit: Be back later ...)
