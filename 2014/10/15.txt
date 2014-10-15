@@ -27,3 +27,4 @@
 [2014-10-15 18:51:50] mach6___, quitting. (Quit: Be back later ...)
 [2014-10-15 19:05:15] maan, quitting. (Remote host closed the connection)
 [2014-10-15 19:12:14] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-15 19:29:04] smccarthy, joining. (#selendroid)
