@@ -7,3 +7,4 @@
 [2014-10-15 03:43:00] detroniz-, changing nick to detronizator.
 [2014-10-15 06:13:57] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-15 08:08:24] mach6_, joining. (#selendroid)
+[2014-10-15 08:11:21] mach6, quitting. (Ping timeout: 244 seconds)
