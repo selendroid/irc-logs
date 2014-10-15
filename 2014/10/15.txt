@@ -2,3 +2,6 @@
 [2014-10-15 00:50:04] maan, joining. (#selendroid)
 [2014-10-15 00:54:46] maan, quitting. (Ping timeout: 272 seconds)
 [2014-10-15 00:58:33] smccarthy, joining. (#selendroid)
+[2014-10-15 03:42:27] detroniz-, joining. (#selendroid)
+[2014-10-15 03:42:56] detronizator, quitting. (Ping timeout: 260 seconds)
+[2014-10-15 03:43:00] detroniz-, changing nick to detronizator.
