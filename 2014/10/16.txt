@@ -16,3 +16,5 @@
 [2014-10-16 17:40:59] smikloso, leaving. (#selendroid)
 [2014-10-16 18:00:04] smccarthy, joining. (#selendroid)
 [2014-10-16 18:54:17] friscodelrosario, joining. (#selendroid)
+[2014-10-16 20:20:32] AutomatedTester, quitting. (Ping timeout: 258 seconds)
+[2014-10-16 20:21:32] AutomatedTester, joining. (#selendroid)
