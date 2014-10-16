@@ -18,3 +18,4 @@
 [2014-10-16 18:54:17] friscodelrosario, joining. (#selendroid)
 [2014-10-16 20:20:32] AutomatedTester, quitting. (Ping timeout: 258 seconds)
 [2014-10-16 20:21:32] AutomatedTester, joining. (#selendroid)
+[2014-10-16 20:54:17] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
