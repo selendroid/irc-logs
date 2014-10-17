@@ -18,3 +18,4 @@
 [2014-10-17 16:27:12] maan, joining. (#selendroid)
 [2014-10-17 17:21:30] smikloso, leaving. (#selendroid)
 [2014-10-17 17:22:12] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-17 17:47:55] lukeis, joining. (#selendroid)
