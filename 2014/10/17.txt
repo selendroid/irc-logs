@@ -3,3 +3,5 @@
 [2014-10-17 04:39:27] smccarthy, joining. (#selendroid)
 [2014-10-17 05:51:22] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-17 06:48:09] marx, leaving. (#selendroid)
+[2014-10-17 07:01:32] maan, joining. (#selendroid)
+[2014-10-17 07:02:01] maan_, joining. (#selendroid)
