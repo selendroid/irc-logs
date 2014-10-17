@@ -5,3 +5,4 @@
 [2014-10-17 06:48:09] marx, leaving. (#selendroid)
 [2014-10-17 07:01:32] maan, joining. (#selendroid)
 [2014-10-17 07:02:01] maan_, joining. (#selendroid)
+[2014-10-17 07:06:04] maan, quitting. (Ping timeout: 258 seconds)
