@@ -5,3 +5,5 @@
 [2014-10-18 01:02:51] mach6_, quitting. (Ping timeout: 258 seconds)
 [2014-10-18 01:12:26] mach6, joining. (#selendroid)
 [2014-10-18 01:14:21] mach6__, quitting. (Ping timeout: 246 seconds)
+[2014-10-18 01:42:35] lukeis1, joining. (#selendroid)
+[2014-10-18 01:44:15] lukeis, quitting. (Ping timeout: 272 seconds)
