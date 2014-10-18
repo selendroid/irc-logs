@@ -28,3 +28,4 @@
 [2014-10-18 07:53:01] mach6, joining. (#selendroid)
 [2014-10-18 07:57:25] mach6, quitting. (Ping timeout: 255 seconds)
 [2014-10-18 09:29:12] maan, joining. (#selendroid)
+[2014-10-18 14:30:46] maan, quitting. (Remote host closed the connection)
