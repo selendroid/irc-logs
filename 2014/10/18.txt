@@ -20,3 +20,4 @@
 [2014-10-18 04:08:31] lukeis, joining. (#selendroid)
 [2014-10-18 04:08:44] lukeis, quitting. (Client Quit)
 [2014-10-18 04:53:11] mach6, joining. (#selendroid)
+[2014-10-18 05:18:07] mach6, quitting. (Ping timeout: 244 seconds)
