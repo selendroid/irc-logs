@@ -17,3 +17,5 @@
 [2014-10-18 02:45:15] lukeis, joining. (#selendroid)
 [2014-10-18 02:51:00] lukeis, quitting. (Quit: Leaving.)
 [2014-10-18 03:52:20] mach6, quitting. (Quit: Be back later ...)
+[2014-10-18 04:08:31] lukeis, joining. (#selendroid)
+[2014-10-18 04:08:44] lukeis, quitting. (Client Quit)
