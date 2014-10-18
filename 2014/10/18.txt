@@ -16,3 +16,4 @@
 [2014-10-18 02:44:45] lukeis, quitting. (Read error: Connection reset by peer)
 [2014-10-18 02:45:15] lukeis, joining. (#selendroid)
 [2014-10-18 02:51:00] lukeis, quitting. (Quit: Leaving.)
+[2014-10-18 03:52:20] mach6, quitting. (Quit: Be back later ...)
