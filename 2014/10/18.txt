@@ -13,3 +13,4 @@
 [2014-10-18 02:19:22] lukeis, joining. (#selendroid)
 [2014-10-18 02:23:37] lukeis, quitting. (Read error: Connection reset by peer)
 [2014-10-18 02:24:06] lukeis, joining. (#selendroid)
+[2014-10-18 02:44:45] lukeis, quitting. (Read error: Connection reset by peer)
