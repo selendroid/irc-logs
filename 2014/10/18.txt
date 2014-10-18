@@ -27,3 +27,4 @@
 [2014-10-18 07:38:44] mach6, quitting. (Ping timeout: 260 seconds)
 [2014-10-18 07:53:01] mach6, joining. (#selendroid)
 [2014-10-18 07:57:25] mach6, quitting. (Ping timeout: 255 seconds)
+[2014-10-18 09:29:12] maan, joining. (#selendroid)
