@@ -16,3 +16,4 @@
 [2014-10-19 18:12:14] smccarthy, joining. (#selendroid)
 [2014-10-19 19:37:46] detronizator, quitting. (*.net *.split)
 [2014-10-19 19:37:59] detronizator, joining. (#selendroid)
+[2014-10-19 20:20:38] maan, joining. (#selendroid)
