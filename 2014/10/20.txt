@@ -12,3 +12,4 @@
 [2014-10-20 18:40:39] mach6, joining. (#selendroid)
 [2014-10-20 18:49:04] ddary, quitting. (Ping timeout: 246 seconds)
 [2014-10-20 19:23:23] friscodelrosario, joining. (#selendroid)
+[2014-10-20 19:26:05] ddary, joining. (#selendroid)
