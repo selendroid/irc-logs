@@ -3,3 +3,6 @@
 [2014-10-21 00:53:17] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-10-21 00:54:02] friscodelrosario, joining. (#selendroid)
 [2014-10-21 01:21:31] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-21 01:37:11] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-10-21 01:38:53] friscodelrosario, joining. (#selendroid)
+[2014-10-21 01:39:15] detronizator, quitting. (Ping timeout: 272 seconds)
