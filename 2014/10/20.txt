@@ -19,3 +19,5 @@
 [2014-10-20 21:54:55] mach6, quitting. (Ping timeout: 272 seconds)
 [2014-10-20 21:55:33] mach6, joining. (#selendroid)
 [2014-10-20 22:28:26] friscodelrosario, joining. (#selendroid)
+[2014-10-20 23:37:03] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-10-20 23:38:54] friscodelrosario, joining. (#selendroid)
