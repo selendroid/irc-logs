@@ -7,3 +7,4 @@
 [2014-10-20 17:37:58] maan, quitting. (Ping timeout: 258 seconds)
 [2014-10-20 17:50:58] ddary, quitting. (Quit: Page closed)
 [2014-10-20 18:07:44] lukeis, joining. (#selendroid)
+[2014-10-20 18:24:34] smikloso, leaving. (#selendroid)
