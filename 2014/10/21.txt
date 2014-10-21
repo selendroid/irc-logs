@@ -78,3 +78,6 @@
 [2014-10-21 21:32:47] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/9b7fff26770f...e4c1b298ea21
 [2014-10-21 21:32:47] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/38640147
 [2014-10-21 21:32:47] travis-ci, leaving. (#selendroid)
+[2014-10-21 21:40:31] ddary: lukeis: now the full release is done
+[2014-10-21 21:41:26] lukeis: nicely done :)
+[2014-10-21 21:41:31] lukeis: now enjoy the evening ;)
