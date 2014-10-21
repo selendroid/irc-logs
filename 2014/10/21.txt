@@ -73,3 +73,8 @@
 [2014-10-21 21:29:16] ddary: that is the best thing
 [2014-10-21 21:29:32] ddary: if the whole world tries to automate e.g. whats app etc
 [2014-10-21 21:29:48] lukeis: heh, yeah, that's been funny to see
+[2014-10-21 21:32:47] travis-ci, joining. (#selendroid)
+[2014-10-21 21:32:47] travis-ci: selendroid/selendroid#446 (master - e4c1b29 : Dominik Dary): The build was fixed.
+[2014-10-21 21:32:47] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/9b7fff26770f...e4c1b298ea21
+[2014-10-21 21:32:47] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/38640147
+[2014-10-21 21:32:47] travis-ci, leaving. (#selendroid)
