@@ -53,3 +53,13 @@
 [2014-10-21 21:10:31] selendroid-git, joining. (#selendroid)
 [2014-10-21 21:10:31] selendroid-git: [selendroid] DominikDary tagged 0.12.0 at master: http://git.io/ok5RVg
 [2014-10-21 21:10:31] selendroid-git, leaving. (#selendroid)
+[2014-10-21 21:17:13] travis-ci, joining. (#selendroid)
+[2014-10-21 21:17:13] travis-ci: selendroid/selendroid#445 (master - 9b7fff2 : Dominik Dary): The build was broken.
+[2014-10-21 21:17:13] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/93f4bd4572a1...9b7fff26770f
+[2014-10-21 21:17:13] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/38638454
+[2014-10-21 21:17:14] travis-ci, leaving. (#selendroid)
+[2014-10-21 21:18:49] ddary: lukeis: we have now also updated documentation: http://selendroid.io/gestures.html#multiTouch
+[2014-10-21 21:18:50] ddary: and
+[2014-10-21 21:18:57] lukeis: nice
+[2014-10-21 21:19:02] ddary: http://selendroid.io/advanced.html
+[2014-10-21 21:19:19] ddary: some of the stuff is older but has not yet been published
