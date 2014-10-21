@@ -44,3 +44,9 @@
 [2014-10-21 20:38:05] ddary, joining. (#selendroid)
 [2014-10-21 20:38:17] ddary, quitting. (Quit: ddary)
 [2014-10-21 20:45:48] ddary, joining. (#selendroid)
+[2014-10-21 21:06:43] selendroid-git, joining. (#selendroid)
+[2014-10-21 21:06:43] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/R3T6Mw
+[2014-10-21 21:06:43] selendroid-git: selendroid/master 9b7fff2 Dominik Dary: Preparing 0.12.0 release.
+[2014-10-21 21:06:43] selendroid-git, leaving. (#selendroid)
+[2014-10-21 21:09:24] lukeis: ohai selendroid 0.12
+[2014-10-21 21:09:40] ddary: :-)
