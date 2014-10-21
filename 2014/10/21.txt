@@ -22,3 +22,8 @@
 [2014-10-21 08:07:47] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/PUjZ1A
 [2014-10-21 08:07:47] selendroid-git: selendroid/master 93f4bd4 Dominik Dary: Update runEnd2EndTests.sh
 [2014-10-21 08:07:47] selendroid-git, leaving. (#selendroid)
+[2014-10-21 08:12:08] travis-ci, joining. (#selendroid)
+[2014-10-21 08:12:09] travis-ci: selendroid/selendroid#444 (master - 93f4bd4 : Dominik Dary): The build passed.
+[2014-10-21 08:12:09] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/013c06d772d7...93f4bd4572a1
+[2014-10-21 08:12:09] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/38572083
+[2014-10-21 08:12:09] travis-ci, leaving. (#selendroid)
