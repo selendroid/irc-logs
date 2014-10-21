@@ -14,3 +14,5 @@
 [2014-10-21 03:01:16] smccarthy, joining. (#selendroid)
 [2014-10-21 03:31:51] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-10-21 05:30:11] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-21 07:50:31] mach6_, joining. (#selendroid)
+[2014-10-21 07:53:54] mach6, quitting. (Ping timeout: 255 seconds)
