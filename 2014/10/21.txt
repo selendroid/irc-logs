@@ -50,3 +50,6 @@
 [2014-10-21 21:06:43] selendroid-git, leaving. (#selendroid)
 [2014-10-21 21:09:24] lukeis: ohai selendroid 0.12
 [2014-10-21 21:09:40] ddary: :-)
+[2014-10-21 21:10:31] selendroid-git, joining. (#selendroid)
+[2014-10-21 21:10:31] selendroid-git: [selendroid] DominikDary tagged 0.12.0 at master: http://git.io/ok5RVg
+[2014-10-21 21:10:31] selendroid-git, leaving. (#selendroid)
