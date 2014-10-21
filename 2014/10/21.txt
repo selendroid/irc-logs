@@ -28,3 +28,5 @@
 [2014-10-21 08:12:09] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/38572083
 [2014-10-21 08:12:09] travis-ci, leaving. (#selendroid)
 [2014-10-21 09:07:04] smikloso, joining. (#selendroid)
+[2014-10-21 10:44:03] mach6__, joining. (#selendroid)
+[2014-10-21 10:44:10] mach6__, quitting. (Client Quit)
