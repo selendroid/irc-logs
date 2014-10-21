@@ -30,3 +30,4 @@
 [2014-10-21 09:07:04] smikloso, joining. (#selendroid)
 [2014-10-21 10:44:03] mach6__, joining. (#selendroid)
 [2014-10-21 10:44:10] mach6__, quitting. (Client Quit)
+[2014-10-21 10:47:22] mach6_, quitting. (Ping timeout: 245 seconds)
