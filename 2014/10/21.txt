@@ -63,3 +63,13 @@
 [2014-10-21 21:18:57] lukeis: nice
 [2014-10-21 21:19:02] ddary: http://selendroid.io/advanced.html
 [2014-10-21 21:19:19] ddary: some of the stuff is older but has not yet been published
+[2014-10-21 21:25:28] maan_, quitting. (Remote host closed the connection)
+[2014-10-21 21:26:15] selendroid-git, joining. (#selendroid)
+[2014-10-21 21:26:15] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/q1x96g
+[2014-10-21 21:26:15] selendroid-git: selendroid/master e4c1b29 Dominik Dary: pushing next snapshot version.
+[2014-10-21 21:26:16] selendroid-git, leaving. (#selendroid)
+[2014-10-21 21:28:56] lukeis: ddary: heh, just looked at that issue of someone trying to automate salesforce with selendroid :)  (and as far as I can tell, that person does not work here)
+[2014-10-21 21:29:10] ddary: :-)
+[2014-10-21 21:29:16] ddary: that is the best thing
+[2014-10-21 21:29:32] ddary: if the whole world tries to automate e.g. whats app etc
+[2014-10-21 21:29:48] lukeis: heh, yeah, that's been funny to see
