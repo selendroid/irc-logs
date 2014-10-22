@@ -7,3 +7,4 @@
 [2014-10-23 00:56:22] mach6, joining. (#selendroid)
 [2014-10-23 00:59:40] lukeis, quitting. (Quit: Leaving.)
 [2014-10-23 01:01:49] azaytsev, quitting. (Quit: azaytsev)
+[2014-10-23 01:46:29] mach6, quitting. (Quit: Be back later ...)
