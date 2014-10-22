@@ -3,3 +3,4 @@
 [2014-10-22 02:26:41] AutomatedTester, joining. (#selendroid)
 [2014-10-22 02:59:37] mach6, quitting. (Quit: Be back later ...)
 [2014-10-22 03:00:50] mach6, joining. (#selendroid)
+[2014-10-22 03:05:25] mach6, quitting. (Ping timeout: 260 seconds)
