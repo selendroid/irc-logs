@@ -28,3 +28,4 @@
 [2014-10-22 21:07:44] mach6, joining. (#selendroid)
 [2014-10-22 21:08:01] mach6, quitting. (Read error: Connection reset by peer)
 [2014-10-22 21:08:34] mach6, joining. (#selendroid)
+[2014-10-22 21:49:12] azaytsev, quitting. (Quit: azaytsev)
