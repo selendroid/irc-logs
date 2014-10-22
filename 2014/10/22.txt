@@ -14,3 +14,4 @@
 [2014-10-22 16:44:52] operatiay: I'll raise an issue for this
 [2014-10-22 17:16:58] maan_, joining. (#selendroid)
 [2014-10-22 17:37:09] smikloso, leaving. (#selendroid)
+[2014-10-22 17:43:20] lukeis, joining. (#selendroid)
