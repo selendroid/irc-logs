@@ -9,3 +9,6 @@
 [2014-10-22 15:26:45] smccarthy, joining. (#selendroid)
 [2014-10-22 15:50:58] operatiay, joining. (#selendroid)
 [2014-10-22 16:29:36] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-22 16:42:18] operatiay: hey guys, I've just switched from 0.11.0 to 0.12.0 and my device is not being recognised as a valid test device any more... what's going on?
+[2014-10-22 16:43:47] operatiay: DeviceStore.findAndroidDevice seems to be called multiple times. First time it's being called it works fine, the device is found and added to 'used' devices. The next call raises the error saying that there are no matching devices found
+[2014-10-22 16:44:52] operatiay: I'll raise an issue for this
