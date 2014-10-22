@@ -43,3 +43,4 @@
 [2014-10-22 23:17:18] DatNewb: i get an Unable to Connect
 [2014-10-22 23:18:12] DatNewb: maybe a workplace firewall
 [2014-10-22 23:18:20] DatNewb: though that's a weird thing to block
+[2014-10-22 23:35:50] jack090, quitting. (Quit: Page closed)
