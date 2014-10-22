@@ -24,3 +24,7 @@
 [2014-10-22 20:48:16] ddary, joining. (#selendroid)
 [2014-10-22 20:48:26] ddary, quitting. (Client Quit)
 [2014-10-22 20:56:38] azaytsev, joining. (#selendroid)
+[2014-10-22 21:06:49] mach6, quitting. (Read error: Connection reset by peer)
+[2014-10-22 21:07:44] mach6, joining. (#selendroid)
+[2014-10-22 21:08:01] mach6, quitting. (Read error: Connection reset by peer)
+[2014-10-22 21:08:34] mach6, joining. (#selendroid)
