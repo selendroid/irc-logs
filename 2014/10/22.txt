@@ -44,3 +44,7 @@
 [2014-10-22 23:18:12] DatNewb: maybe a workplace firewall
 [2014-10-22 23:18:20] DatNewb: though that's a weird thing to block
 [2014-10-22 23:35:50] jack090, quitting. (Quit: Page closed)
+[2014-10-22 23:58:07] DatNewb: Isn't the example test on the page, http://selendroid.io/scale.html, incorrect?
+[2014-10-22 23:58:36] DatNewb: Shouldn't it be using the RemoteWebDriver rather than a SelendroidDriver?
+[2014-10-22 23:58:53] DatNewb: (in order to connect to the hub and run the test on an Android device)
+[2014-10-22 23:59:32] lukeis: selendroiddriver is merely an extension of RemoteWebDriver with a default host and port
