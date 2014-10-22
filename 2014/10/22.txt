@@ -13,3 +13,4 @@
 [2014-10-22 16:43:47] operatiay: DeviceStore.findAndroidDevice seems to be called multiple times. First time it's being called it works fine, the device is found and added to 'used' devices. The next call raises the error saying that there are no matching devices found
 [2014-10-22 16:44:52] operatiay: I'll raise an issue for this
 [2014-10-22 17:16:58] maan_, joining. (#selendroid)
+[2014-10-22 17:37:09] smikloso, leaving. (#selendroid)
