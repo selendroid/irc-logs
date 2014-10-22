@@ -23,3 +23,4 @@
 [2014-10-22 20:20:59] mach6, joining. (#selendroid)
 [2014-10-22 20:48:16] ddary, joining. (#selendroid)
 [2014-10-22 20:48:26] ddary, quitting. (Client Quit)
+[2014-10-22 20:56:38] azaytsev, joining. (#selendroid)
