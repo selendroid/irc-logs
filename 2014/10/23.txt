@@ -21,3 +21,4 @@
 [2014-10-23 02:58:41] mach6__, quitting. (Ping timeout: 272 seconds)
 [2014-10-23 03:20:55] azaytsev, joining. (#selendroid)
 [2014-10-23 03:21:06] azaytsev, quitting. (Client Quit)
+[2014-10-23 04:24:41] smccarthy, joining. (#selendroid)
