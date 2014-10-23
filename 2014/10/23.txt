@@ -14,3 +14,4 @@
 [2014-10-23 02:11:21] mach6__, quitting. (Read error: Connection reset by peer)
 [2014-10-23 02:11:48] mach6__, joining. (#selendroid)
 [2014-10-23 02:31:31] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-23 02:49:33] rchan, joining. (#selendroid)
