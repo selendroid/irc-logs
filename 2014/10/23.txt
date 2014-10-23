@@ -17,3 +17,5 @@
 [2014-10-23 02:49:33] rchan, joining. (#selendroid)
 [2014-10-23 02:52:52] mach6__, quitting. (Quit: Be back later ...)
 [2014-10-23 02:54:12] mach6__, joining. (#selendroid)
+[2014-10-23 02:55:31] rchan, leaving. (#selendroid)
+[2014-10-23 02:58:41] mach6__, quitting. (Ping timeout: 272 seconds)
