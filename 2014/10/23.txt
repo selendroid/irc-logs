@@ -38,3 +38,4 @@
 [2014-10-23 13:01:50] smikloso, quitting. (Ping timeout: 244 seconds)
 [2014-10-23 14:07:02] operatiay, quitting. ()
 [2014-10-23 14:41:40] smikloso1, quitting. (Ping timeout: 265 seconds)
+[2014-10-23 15:00:13] smikloso, joining. (#selendroid)
