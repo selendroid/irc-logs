@@ -66,3 +66,8 @@
 [2014-10-23 20:59:35] selendroid-git: selendroid/master 6d3e3a8 Dominik Dary: Update README.md
 [2014-10-23 20:59:35] selendroid-git, leaving. (#selendroid)
 [2014-10-23 21:05:24] maan_, joining. (#selendroid)
+[2014-10-23 21:10:38] travis-ci, joining. (#selendroid)
+[2014-10-23 21:10:38] travis-ci: selendroid/selendroid#448 (master - 6d3e3a8 : Dominik Dary): The build was fixed.
+[2014-10-23 21:10:38] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/283c2d32ed73...6d3e3a82cab3
+[2014-10-23 21:10:38] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/38853356
+[2014-10-23 21:10:38] travis-ci, leaving. (#selendroid)
