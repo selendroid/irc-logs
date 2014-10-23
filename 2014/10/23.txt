@@ -58,3 +58,4 @@
 [2014-10-23 19:16:59] maan_, quitting. (Remote host closed the connection)
 [2014-10-23 19:17:53] maan_, joining. (#selendroid)
 [2014-10-23 19:18:06] maan_, quitting. (Remote host closed the connection)
+[2014-10-23 19:44:37] mach6, quitting. (Quit: Be back later ...)
