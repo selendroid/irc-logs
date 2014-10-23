@@ -73,3 +73,4 @@
 [2014-10-23 21:10:38] travis-ci, leaving. (#selendroid)
 [2014-10-23 21:26:10] maan_, quitting. (Remote host closed the connection)
 [2014-10-23 21:33:51] mach6, joining. (#selendroid)
+[2014-10-23 23:11:38] mach6, quitting. (Read error: Connection reset by peer)
