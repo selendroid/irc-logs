@@ -45,3 +45,8 @@
 [2014-10-23 16:40:06] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/eR0hzA
 [2014-10-23 16:40:06] selendroid-git: selendroid/master 283c2d3 Martin Konicek: Don't log the exception stack trace when getting signature algorithm...
 [2014-10-23 16:40:06] selendroid-git, leaving. (#selendroid)
+[2014-10-23 16:45:10] travis-ci, joining. (#selendroid)
+[2014-10-23 16:45:10] travis-ci: selendroid/selendroid#447 (master - 283c2d3 : Martin Konicek): The build was broken.
+[2014-10-23 16:45:10] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/e4c1b298ea21...283c2d32ed73
+[2014-10-23 16:45:10] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/38826288
+[2014-10-23 16:45:10] travis-ci, leaving. (#selendroid)
