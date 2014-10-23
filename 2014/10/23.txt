@@ -61,3 +61,7 @@
 [2014-10-23 19:44:37] mach6, quitting. (Quit: Be back later ...)
 [2014-10-23 19:59:38] maan_, joining. (#selendroid)
 [2014-10-23 20:03:59] maan_, quitting. (Ping timeout: 245 seconds)
+[2014-10-23 20:59:35] selendroid-git, joining. (#selendroid)
+[2014-10-23 20:59:35] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/LPWscw
+[2014-10-23 20:59:35] selendroid-git: selendroid/master 6d3e3a8 Dominik Dary: Update README.md
+[2014-10-23 20:59:35] selendroid-git, leaving. (#selendroid)
