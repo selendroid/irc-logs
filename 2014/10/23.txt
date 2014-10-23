@@ -65,3 +65,4 @@
 [2014-10-23 20:59:35] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/LPWscw
 [2014-10-23 20:59:35] selendroid-git: selendroid/master 6d3e3a8 Dominik Dary: Update README.md
 [2014-10-23 20:59:35] selendroid-git, leaving. (#selendroid)
+[2014-10-23 21:05:24] maan_, joining. (#selendroid)
