@@ -41,3 +41,7 @@
 [2014-10-23 15:00:13] smikloso, joining. (#selendroid)
 [2014-10-23 15:38:15] smccarthy, joining. (#selendroid)
 [2014-10-23 16:35:00] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-23 16:40:06] selendroid-git, joining. (#selendroid)
+[2014-10-23 16:40:06] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/eR0hzA
+[2014-10-23 16:40:06] selendroid-git: selendroid/master 283c2d3 Martin Konicek: Don't log the exception stack trace when getting signature algorithm...
+[2014-10-23 16:40:06] selendroid-git, leaving. (#selendroid)
