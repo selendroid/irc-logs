@@ -29,3 +29,4 @@
 [2014-10-23 08:10:13] AutomatedTester, quitting. (Changing host)
 [2014-10-23 08:10:13] AutomatedTester, joining. (#selendroid)
 [2014-10-23 10:21:28] smikloso, joining. (#selendroid)
+[2014-10-23 10:47:04] operatiay, joining. (#selendroid)
