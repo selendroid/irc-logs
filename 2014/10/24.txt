@@ -6,3 +6,4 @@
 [2014-10-24 01:46:28] detronizator, joining. (#selendroid)
 [2014-10-24 02:17:36] mach6, quitting. (Quit: Be back later ...)
 [2014-10-24 03:56:10] smccarthy, joining. (#selendroid)
+[2014-10-24 07:02:01] smccarthy, quitting. (Quit: Leaving...)
