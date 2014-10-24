@@ -12,3 +12,4 @@
 [2014-10-24 09:23:51] smikloso, joining. (#selendroid)
 [2014-10-24 09:29:00] AutomatedTester, quitting. (*.net *.split)
 [2014-10-24 09:32:35] AutomatedTester, joining. (#selendroid)
+[2014-10-24 15:11:42] smccarthy, joining. (#selendroid)
