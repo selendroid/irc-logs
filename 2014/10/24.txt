@@ -17,3 +17,4 @@
 [2014-10-24 17:22:20] smikloso, quitting. (Quit: Leaving.)
 [2014-10-24 18:19:25] smccarthy, joining. (#selendroid)
 [2014-10-24 18:20:12] lukeis, joining. (#selendroid)
+[2014-10-24 18:49:07] mach6, joining. (#selendroid)
