@@ -2,3 +2,4 @@
 [2014-10-26 01:18:09] mach6, joining. (#selendroid)
 [2014-10-26 01:18:16] mach6, quitting. (Client Quit)
 [2014-10-26 16:48:56] smccarthy, joining. (#selendroid)
+[2014-10-26 21:37:54] smccarthy, quitting. (Quit: Leaving...)
