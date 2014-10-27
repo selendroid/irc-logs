@@ -60,3 +60,4 @@
 [2014-10-27 17:53:37] ddary, quitting. (Quit: Page closed)
 [2014-10-27 19:38:06] friscodelrosario, joining. (#selendroid)
 [2014-10-27 20:16:13] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-27 21:38:05] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
