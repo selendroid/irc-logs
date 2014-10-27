@@ -12,3 +12,7 @@
 [2014-10-27 14:22:05] smccarthy, joining. (#selendroid)
 [2014-10-27 14:56:23] ddary, joining. (#selendroid)
 [2014-10-27 15:20:45] maan_, joining. (#selendroid)
+[2014-10-27 15:33:53] selendroid-git, joining. (#selendroid)
+[2014-10-27 15:33:53] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/O3otNA
+[2014-10-27 15:33:53] selendroid-git: selendroid/master 93aafdd Dominik Dary: Updating changelog.
+[2014-10-27 15:33:53] selendroid-git, leaving. (#selendroid)
