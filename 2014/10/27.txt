@@ -1,2 +1,6 @@
 [2014-10-27 00:12:53] smccarthy, joining. (#selendroid)
 [2014-10-27 02:13:31] smccarthy, quitting. (Quit: Leaving...)
+[2014-10-27 03:21:26] selendroid-git, joining. (#selendroid)
+[2014-10-27 03:21:26] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/8O6T7Q
+[2014-10-27 03:21:26] selendroid-git: selendroid/master 77e6728 Dominik Dary: Fixing NPE....
+[2014-10-27 03:21:26] selendroid-git, leaving. (#selendroid)
