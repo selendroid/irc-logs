@@ -23,3 +23,4 @@
 [2014-10-27 15:39:25] travis-ci, leaving. (#selendroid)
 [2014-10-27 16:15:34] maan__, joining. (#selendroid)
 [2014-10-27 16:16:57] maan_, quitting. (Ping timeout: 245 seconds)
+[2014-10-27 16:27:08] maan__, quitting. (Remote host closed the connection)
