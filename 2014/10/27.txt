@@ -16,3 +16,8 @@
 [2014-10-27 15:33:53] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/O3otNA
 [2014-10-27 15:33:53] selendroid-git: selendroid/master 93aafdd Dominik Dary: Updating changelog.
 [2014-10-27 15:33:53] selendroid-git, leaving. (#selendroid)
+[2014-10-27 15:39:25] travis-ci, joining. (#selendroid)
+[2014-10-27 15:39:25] travis-ci: selendroid/selendroid#450 (master - 93aafdd : Dominik Dary): The build passed.
+[2014-10-27 15:39:25] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/77e6728b408e...93aafddafb4c
+[2014-10-27 15:39:25] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/39157161
+[2014-10-27 15:39:25] travis-ci, leaving. (#selendroid)
