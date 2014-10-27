@@ -4,3 +4,8 @@
 [2014-10-27 03:21:26] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/8O6T7Q
 [2014-10-27 03:21:26] selendroid-git: selendroid/master 77e6728 Dominik Dary: Fixing NPE....
 [2014-10-27 03:21:26] selendroid-git, leaving. (#selendroid)
+[2014-10-27 03:26:01] travis-ci, joining. (#selendroid)
+[2014-10-27 03:26:01] travis-ci: selendroid/selendroid#449 (master - 77e6728 : Dominik Dary): The build passed.
+[2014-10-27 03:26:01] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/6d3e3a82cab3...77e6728b408e
+[2014-10-27 03:26:01] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/39117778
+[2014-10-27 03:26:01] travis-ci, leaving. (#selendroid)
