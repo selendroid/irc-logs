@@ -30,3 +30,19 @@
 [2014-10-27 17:00:46] ddary, quitting. (Ping timeout: 246 seconds)
 [2014-10-27 17:22:17] maan__, quitting. (Remote host closed the connection)
 [2014-10-27 17:33:42] ddary, joining. (#selendroid)
+[2014-10-27 17:42:08] lukeis, joining. (#selendroid)
+[2014-10-27 17:42:19] ddary: hi lukeis :-)
+[2014-10-27 17:42:33] lukeis: hi :) enjoying the PNW?
+[2014-10-27 17:42:41] AutomatedTester: PNW?
+[2014-10-27 17:42:48] lukeis: Pacific North West
+[2014-10-27 17:42:57] ddary: :-)
+[2014-10-27 17:42:57] AutomatedTester: aha
+[2014-10-27 17:43:03] ddary: yes
+[2014-10-27 17:43:13] ddary: a bit rainy (so like at home)
+[2014-10-27 17:43:27] AutomatedTester: I am enjoying the parking lot of the south bay as Wilhelm described it
+[2014-10-27 17:43:34] ddary: the weather conditions in seattle are very similiar to hamburg
+[2014-10-27 17:43:59] lukeis: AutomatedTester: ahh, welcome back to california… sorry the weather isn't that warm this week :)
+[2014-10-27 17:44:01] ddary: thursday i will enjoy the weather in the south bay :-)
+[2014-10-27 17:44:26] AutomatedTester: lukeis: it's warmer than back home
+[2014-10-27 17:44:31] lukeis: :)
+[2014-10-27 17:44:40] AutomatedTester: ddary: coming to the w3c meeting?
