@@ -11,3 +11,8 @@
 [2014-10-28 15:40:34] selendroid-git: selendroid/master b67eccf Dominik Dary: Clean up class.
 [2014-10-28 15:40:34] selendroid-git, leaving. (#selendroid)
 [2014-10-28 15:44:55] maan, joining. (#selendroid)
+[2014-10-28 15:49:29] travis-ci, joining. (#selendroid)
+[2014-10-28 15:49:29] travis-ci: selendroid/selendroid#451 (master - b67eccf : Dominik Dary): The build passed.
+[2014-10-28 15:49:29] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/93aafddafb4c...b67eccf98568
+[2014-10-28 15:49:29] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/39271143
+[2014-10-28 15:49:29] travis-ci, leaving. (#selendroid)
