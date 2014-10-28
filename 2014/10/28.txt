@@ -18,3 +18,4 @@
 [2014-10-28 15:49:29] travis-ci, leaving. (#selendroid)
 [2014-10-28 16:57:36] lukeis, joining. (#selendroid)
 [2014-10-28 17:04:16] smccarthy, joining. (#selendroid)
+[2014-10-28 17:25:58] maan, quitting. (Remote host closed the connection)
