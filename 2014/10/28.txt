@@ -26,3 +26,4 @@
 [2014-10-28 20:58:27] lukeis, quitting. (Quit: Leaving.)
 [2014-10-28 21:34:07] lukeis, joining. (#selendroid)
 [2014-10-28 22:37:18] friscodelrosario, joining. (#selendroid)
+[2014-10-28 22:58:13] lukeis1, joining. (#selendroid)
