@@ -6,3 +6,8 @@
 [2014-10-28 05:03:59] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-28 05:05:17] maan, joining. (#selendroid)
 [2014-10-28 06:03:46] maan, quitting. (Ping timeout: 264 seconds)
+[2014-10-28 15:40:34] selendroid-git, joining. (#selendroid)
+[2014-10-28 15:40:34] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/1_gayA
+[2014-10-28 15:40:34] selendroid-git: selendroid/master b67eccf Dominik Dary: Clean up class.
+[2014-10-28 15:40:34] selendroid-git, leaving. (#selendroid)
+[2014-10-28 15:44:55] maan, joining. (#selendroid)
