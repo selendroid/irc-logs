@@ -11,3 +11,4 @@
 [2014-10-30 06:28:05] maan__, quitting. (Ping timeout: 264 seconds)
 [2014-10-30 06:39:45] maan, quitting. (Remote host closed the connection)
 [2014-10-30 09:30:11] smikloso, joining. (#selendroid)
+[2014-10-30 09:42:21] jairah, joining. (#selendroid)
