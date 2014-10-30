@@ -12,3 +12,5 @@
 [2014-10-30 06:39:45] maan, quitting. (Remote host closed the connection)
 [2014-10-30 09:30:11] smikloso, joining. (#selendroid)
 [2014-10-30 09:42:21] jairah, joining. (#selendroid)
+[2014-10-30 09:47:24] jairah: hi, just want to know where I can ask question about why SelendroidDriver is not in selendroid-standalone-0.12.0-with-dependencies.jar
+[2014-10-30 09:47:38] jairah: don't want to disturb you guys... so if you can point me to a forum that'll be great
