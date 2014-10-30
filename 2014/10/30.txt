@@ -27,3 +27,5 @@
 [2014-10-30 15:51:48] manidhar, joining. (#selendroid)
 [2014-10-30 16:23:59] smccarthy, joining. (#selendroid)
 [2014-10-30 16:25:02] operatiay: anyone here?
+[2014-10-30 16:47:05] operatiay, quitting. (Remote host closed the connection)
+[2014-10-30 16:48:30] lukeis, joining. (#selendroid)
