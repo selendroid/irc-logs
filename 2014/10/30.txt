@@ -29,3 +29,4 @@
 [2014-10-30 16:25:02] operatiay: anyone here?
 [2014-10-30 16:47:05] operatiay, quitting. (Remote host closed the connection)
 [2014-10-30 16:48:30] lukeis, joining. (#selendroid)
+[2014-10-30 17:00:49] smikloso, leaving. (#selendroid)
