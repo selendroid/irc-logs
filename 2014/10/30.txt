@@ -21,3 +21,5 @@
 [2014-10-30 12:43:53] smikloso, quitting. (Ping timeout: 260 seconds)
 [2014-10-30 13:01:18] smikloso, joining. (#selendroid)
 [2014-10-30 13:33:14] manidhar, joining. (#selendroid)
+[2014-10-30 15:30:14] operatiay, joining. (#selendroid)
+[2014-10-30 15:31:42] operatiay: hey guys, is anyone of you using selendroid 0.12 with a real device? what are the capabilities you're using?
