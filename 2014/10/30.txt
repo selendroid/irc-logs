@@ -89,3 +89,6 @@
 [2014-10-30 22:28:03] lukeis, quitting. (Quit: Leaving.)
 [2014-10-30 22:28:13] lukeis, joining. (#selendroid)
 [2014-10-30 22:32:42] lukeis, quitting. (Ping timeout: 265 seconds)
+[2014-10-30 22:35:43] lukeis, joining. (#selendroid)
+[2014-10-30 22:38:45] lukeis, quitting. (Read error: Connection reset by peer)
+[2014-10-30 22:38:45] lukeis1, joining. (#selendroid)
