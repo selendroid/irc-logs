@@ -34,3 +34,5 @@
 [2014-10-30 17:10:03] lukeis, joining. (#selendroid)
 [2014-10-30 17:22:11] lukeis, quitting. (Quit: Leaving.)
 [2014-10-30 17:22:21] lukeis, joining. (#selendroid)
+[2014-10-30 17:28:00] lukeis, quitting. (Quit: Leaving.)
+[2014-10-30 17:28:10] lukeis, joining. (#selendroid)
