@@ -6,3 +6,4 @@
 [2014-10-30 05:46:22] maan, quitting. (Ping timeout: 240 seconds)
 [2014-10-30 05:59:32] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-30 06:03:18] maan__, joining. (#selendroid)
+[2014-10-30 06:05:17] maan_, quitting. (Ping timeout: 264 seconds)
