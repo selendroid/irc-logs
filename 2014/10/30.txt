@@ -96,3 +96,6 @@
 [2014-10-30 22:50:17] lukeis1, quitting. (Ping timeout: 245 seconds)
 [2014-10-30 22:52:17] lukeis, joining. (#selendroid)
 [2014-10-30 22:59:36] sirsteef, quitting. (Ping timeout: 250 seconds)
+[2014-10-30 23:00:40] sirsteef, joining. (#selendroid)
+[2014-10-30 23:01:10] lukeis, quitting. (Quit: Leaving.)
+[2014-10-30 23:01:22] lukeis, joining. (#selendroid)
