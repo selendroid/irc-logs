@@ -17,3 +17,4 @@
 [2014-10-30 09:51:14] jairah: I've noticed that the driver is under selendroid client but there's no jar that can be downloaded in the website
 [2014-10-30 10:52:16] jairah, quitting. (Ping timeout: 246 seconds)
 [2014-10-30 12:17:42] smikloso, quitting. (Ping timeout: 256 seconds)
+[2014-10-30 12:33:56] smikloso, joining. (#selendroid)
