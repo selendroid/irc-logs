@@ -88,3 +88,4 @@
 [2014-10-30 22:14:04] rchan, quitting. (Ping timeout: 246 seconds)
 [2014-10-30 22:28:03] lukeis, quitting. (Quit: Leaving.)
 [2014-10-30 22:28:13] lukeis, joining. (#selendroid)
+[2014-10-30 22:32:42] lukeis, quitting. (Ping timeout: 265 seconds)
