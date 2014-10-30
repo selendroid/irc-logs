@@ -1,3 +1,4 @@
 [2014-10-30 00:08:17] lukeis, quitting. (Ping timeout: 264 seconds)
 [2014-10-30 00:59:18] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-30 04:40:17] smccarthy, joining. (#selendroid)
+[2014-10-30 05:27:59] maan, joining. (#selendroid)
