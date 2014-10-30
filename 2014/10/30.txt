@@ -71,3 +71,9 @@
 [2014-10-30 19:30:16] smccarthy, quitting. (Ping timeout: 255 seconds)
 [2014-10-30 19:36:17] lukeis, quitting. (Ping timeout: 265 seconds)
 [2014-10-30 19:41:08] lukeis, joining. (#selendroid)
+[2014-10-30 20:25:26] operatiay, joining. (#selendroid)
+[2014-10-30 20:25:45] operatiay: hey lukeis
+[2014-10-30 20:26:34] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-10-30 20:27:35] operatiay: lukeis, hi
+[2014-10-30 20:27:46] operatiay, quitting. (Read error: Connection reset by peer)
+[2014-10-30 20:28:14] operatiay, joining. (#selendroid)
