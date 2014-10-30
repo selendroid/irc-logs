@@ -93,3 +93,5 @@
 [2014-10-30 22:38:45] lukeis, quitting. (Read error: Connection reset by peer)
 [2014-10-30 22:38:45] lukeis1, joining. (#selendroid)
 [2014-10-30 22:49:00] friscodelrosario, joining. (#selendroid)
+[2014-10-30 22:50:17] lukeis1, quitting. (Ping timeout: 245 seconds)
+[2014-10-30 22:52:17] lukeis, joining. (#selendroid)
