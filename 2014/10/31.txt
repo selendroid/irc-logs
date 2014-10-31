@@ -2,3 +2,6 @@
 [2014-10-31 01:55:50] smccarthy, joining. (#selendroid)
 [2014-10-31 06:01:38] smccarthy, quitting. (Quit: Leaving...)
 [2014-10-31 06:10:23] maan_, joining. (#selendroid)
+[2014-10-31 08:05:24] maan_, quitting. (Remote host closed the connection)
+[2014-10-31 08:06:57] maan_, joining. (#selendroid)
+[2014-10-31 08:08:29] maan_, quitting. (Remote host closed the connection)
