@@ -18,3 +18,4 @@
 [2014-10-31 10:43:41] operatiay: :note lukeis hi lukeis, I'm having troubles using v. 0.12.0 with real devices. somehow an emulator starts with the configuration which worked before. even when I add restriction to not use emulators it fails to work with real device. when I switch back to 0.11.0 it works. Are you testing on real devices? What capabilities work for you?
 [2014-10-31 10:44:00] operatiay: hi, anyone around?
 [2014-10-31 10:59:20] smikloso, leaving. (#selendroid)
+[2014-10-31 12:35:28] operatiay, quitting. (Remote host closed the connection)
