@@ -21,3 +21,7 @@
 [2014-10-31 12:35:28] operatiay, quitting. (Remote host closed the connection)
 [2014-10-31 13:16:07] operatiay, joining. (#selendroid)
 [2014-10-31 13:16:41] operatiay: :note lukeis I've noted the details under https://github.com/selendroid/selendroid/issues/656
+[2014-10-31 14:25:43] selendroid-git, joining. (#selendroid)
+[2014-10-31 14:25:43] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/VYQpsw
+[2014-10-31 14:25:43] selendroid-git: selendroid/master b5dfc8b Ainsley Escorce-Jones: Use guava Lists instead of jcommander Lists
+[2014-10-31 14:25:43] selendroid-git, leaving. (#selendroid)
