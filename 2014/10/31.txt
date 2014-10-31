@@ -46,3 +46,5 @@
 [2014-10-31 16:04:36] sirsteef, quitting. (Remote host closed the connection)
 [2014-10-31 16:10:05] sirsteef, joining. (#selendroid)
 [2014-10-31 16:14:23] sirsteef, quitting. (Ping timeout: 244 seconds)
+[2014-10-31 16:15:56] sirsteef, joining. (#selendroid)
+[2014-10-31 16:16:25] smccarthy, joining. (#selendroid)
