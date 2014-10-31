@@ -13,3 +13,7 @@
 [2014-10-31 09:45:44] smikloso, quitting. (Ping timeout: 256 seconds)
 [2014-10-31 10:19:28] maan_, joining. (#selendroid)
 [2014-10-31 10:24:13] maan_, quitting. (Ping timeout: 264 seconds)
+[2014-10-31 10:41:20] operatiay, joining. (#selendroid)
+[2014-10-31 10:41:52] smikloso, joining. (#selendroid)
+[2014-10-31 10:43:41] operatiay: :note lukeis hi lukeis, I'm having troubles using v. 0.12.0 with real devices. somehow an emulator starts with the configuration which worked before. even when I add restriction to not use emulators it fails to work with real device. when I switch back to 0.11.0 it works. Are you testing on real devices? What capabilities work for you?
+[2014-10-31 10:44:00] operatiay: hi, anyone around?
