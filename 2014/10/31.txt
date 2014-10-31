@@ -57,3 +57,4 @@
 [2014-10-31 19:30:59] AutomatedTester, quitting. (Remote host closed the connection)
 [2014-10-31 19:36:59] lukeis1, changing nick to lukeis.
 [2014-10-31 19:51:35] AutomatedTester, joining. (#selendroid)
+[2014-10-31 19:57:56] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
