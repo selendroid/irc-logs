@@ -25,3 +25,8 @@
 [2014-10-31 14:25:43] selendroid-git: [selendroid] ainsej pushed 1 new commit to master: http://git.io/VYQpsw
 [2014-10-31 14:25:43] selendroid-git: selendroid/master b5dfc8b Ainsley Escorce-Jones: Use guava Lists instead of jcommander Lists
 [2014-10-31 14:25:43] selendroid-git, leaving. (#selendroid)
+[2014-10-31 14:31:07] travis-ci, joining. (#selendroid)
+[2014-10-31 14:31:07] travis-ci: selendroid/selendroid#452 (master - b5dfc8b : Ainsley Escorce-Jones): The build passed.
+[2014-10-31 14:31:07] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/b67eccf98568...b5dfc8b46536
+[2014-10-31 14:31:07] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/39596080
+[2014-10-31 14:31:07] travis-ci, leaving. (#selendroid)
