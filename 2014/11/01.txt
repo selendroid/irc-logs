@@ -4,3 +4,4 @@
 [2014-11-01 19:49:57] maan_, joining. (#selendroid)
 [2014-11-01 20:15:54] maan_, quitting. (Remote host closed the connection)
 [2014-11-01 21:34:59] detronizator, quitting. (Quit: ZNC - http://znc.in)
+[2014-11-01 21:36:48] detronizator, joining. (#selendroid)
