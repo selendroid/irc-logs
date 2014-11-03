@@ -22,3 +22,4 @@
 [2014-11-03 21:07:41] lukeis2, changing nick to lukeis.
 [2014-11-03 21:27:51] maan, quitting. (Remote host closed the connection)
 [2014-11-03 21:59:16] lukeis, quitting. (Ping timeout: 256 seconds)
+[2014-11-03 22:49:31] smccarthy2, joining. (#selendroid)
