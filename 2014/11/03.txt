@@ -18,3 +18,5 @@
 [2014-11-03 21:00:37] lukeis1, joining. (#selendroid)
 [2014-11-03 21:01:04] lukeis2, joining. (#selendroid)
 [2014-11-03 21:03:44] lukeis, quitting. (Ping timeout: 256 seconds)
+[2014-11-03 21:05:13] lukeis1, quitting. (Ping timeout: 256 seconds)
+[2014-11-03 21:07:41] lukeis2, changing nick to lukeis.
