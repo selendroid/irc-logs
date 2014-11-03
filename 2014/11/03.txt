@@ -12,3 +12,4 @@
 [2014-11-03 16:31:03] smccarthy, joining. (#selendroid)
 [2014-11-03 17:54:34] smikloso, leaving. (#selendroid)
 [2014-11-03 18:39:46] lukeis, joining. (#selendroid)
+[2014-11-03 19:16:41] maan, joining. (#selendroid)
