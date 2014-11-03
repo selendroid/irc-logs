@@ -30,3 +30,4 @@
 [2014-11-03 22:55:06] smccarthy, joining. (#selendroid)
 [2014-11-03 23:10:37] lukeis, joining. (#selendroid)
 [2014-11-03 23:37:18] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-03 23:41:03] mach6, joining. (#selendroid)
