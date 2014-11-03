@@ -23,3 +23,7 @@
 [2014-11-03 21:27:51] maan, quitting. (Remote host closed the connection)
 [2014-11-03 21:59:16] lukeis, quitting. (Ping timeout: 256 seconds)
 [2014-11-03 22:49:31] smccarthy2, joining. (#selendroid)
+[2014-11-03 22:50:55] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2014-11-03 22:51:09] smccarthy2, joining. (#selendroid)
+[2014-11-03 22:52:19] smccarthy, quitting. (Ping timeout: 255 seconds)
+[2014-11-03 22:54:12] smccarthy2, quitting. (Remote host closed the connection)
