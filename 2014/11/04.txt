@@ -19,3 +19,19 @@
 [2014-11-04 15:50:02] lux_, quitting. (Client Quit)
 [2014-11-04 16:43:43] smccarthy, joining. (#selendroid)
 [2014-11-04 17:13:58] lukeis, joining. (#selendroid)
+[2014-11-04 17:20:27] lukeis: dgrace__: you're already here though ;)
+[2014-11-04 17:20:33] dgrace__: ha!
+[2014-11-04 17:20:48] dgrace__: just started with selendroid today, want to hook it up to our Grid
+[2014-11-04 17:21:08] lukeis: (i've don't use grid, but I'll try to help if i can)
+[2014-11-04 17:21:51] dgrace__: cool. was wondering if the recommended Grid usage 'way' was to use the curl command as in the documentation?
+[2014-11-04 17:22:05] dgrace__: or to run the .jar with the -hub -port etc?
+[2014-11-04 17:22:17] dgrace__: seems to be 2 methods to connect to Grid
+[2014-11-04 17:22:35] lukeis: there's always more than one way to skin a cat ;)
+[2014-11-04 17:22:47] lukeis: try them, whatever works for you is best :)
+[2014-11-04 17:22:57] dgrace__: true, trouble is I can't get the 2nd method to work at all :)
+[2014-11-04 17:23:03] lukeis: then don't use it ;)
+[2014-11-04 17:23:23] lukeis: i think dominik had trouble with that, not sure why, it's not hard
+[2014-11-04 17:23:47] dgrace__: yeah, looks like the SelendroidCapabilities dont match what is actually registered
+[2014-11-04 17:23:50] lukeis: heck, iPhoneDriver even connected itself to grid ;)
+[2014-11-04 17:24:13] dgrace__: ha, good ol iphonedriver!
+[2014-11-04 17:24:33] lukeis: best to stick with the curl for now… until i merge that pull request from you later?
