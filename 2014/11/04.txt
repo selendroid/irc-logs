@@ -74,3 +74,4 @@
 [2014-11-04 22:24:19] *lukeis can't right now'
 [2014-11-04 22:24:55] asm89: np :)
 [2014-11-04 22:33:49] mach6, joining. (#selendroid)
+[2014-11-04 22:38:12] mach6, quitting. (Ping timeout: 250 seconds)
