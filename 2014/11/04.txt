@@ -53,3 +53,13 @@
 [2014-11-04 22:07:18] asm89: \o
 [2014-11-04 22:07:21] asm89: anyone around?
 [2014-11-04 22:14:03] lukeis: yes
+[2014-11-04 22:16:22] asm89: lukeis: hi, i'm looking into contributing to selendroid, but i'm a bit puzzled by the tests atm
+[2014-11-04 22:17:03] asm89: I'm running this test, assuming that is tests the CreateSessionHandler.java code, but changing that code doesn't seem to affect this tes
+[2014-11-04 22:17:06] asm89: https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/test/java/io/selendroid/server/CreateSessionHandlerTest.java
+[2014-11-04 22:17:59] lukeis: often you need to rebuild / package the core before running the test again
+[2014-11-04 22:18:09] lukeis: also, depends on how you're running the test
+[2014-11-04 22:18:34] asm89: it seems it's testing this code https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/handler/NewSession.java
+[2014-11-04 22:18:39] asm89: at least from my initial poking around
+[2014-11-04 22:18:56] asm89: I imported the project in Intellij, is there a recommended way to run the tests?
+[2014-11-04 22:19:44] lukeis: i think dominik wrote something up: http://selendroid.io/architecture.html
+[2014-11-04 22:19:50] lukeis: for the end-to-end tests that is
