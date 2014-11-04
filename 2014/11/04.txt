@@ -3,3 +3,5 @@
 [2014-11-04 00:47:32] mach6_, joining. (#selendroid)
 [2014-11-04 00:47:32] mach6, quitting. (Read error: Connection reset by peer)
 [2014-11-04 00:58:41] lukeis, quitting. (Quit: Leaving.)
+[2014-11-04 01:00:47] mach6_, quitting. (Ping timeout: 258 seconds)
+[2014-11-04 01:01:13] mach6_, joining. (#selendroid)
