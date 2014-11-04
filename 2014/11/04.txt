@@ -63,3 +63,13 @@
 [2014-11-04 22:18:56] asm89: I imported the project in Intellij, is there a recommended way to run the tests?
 [2014-11-04 22:19:44] lukeis: i think dominik wrote something up: http://selendroid.io/architecture.html
 [2014-11-04 22:19:50] lukeis: for the end-to-end tests that is
+[2014-11-04 22:20:02] lukeis: otherwise many could be run directly in intellij
+[2014-11-04 22:20:44] asm89: yeah, I guess this isn't really an e2e test so it should be fine
+[2014-11-04 22:21:27] asm89: hm that test isn't really testing anything I guess
+[2014-11-04 22:21:29] asm89: meh :)
+[2014-11-04 22:21:53] asm89: and it seems that the CreateSessionHandler from selendroid-standalone has no tests
+[2014-11-04 22:22:20] asm89: i must be missing something though, because this commit changed both the handler and the test https://github.com/selendroid/selendroid/commit/1f4e2a64f8a5b497a04b23f48d02383e97d733c9
+[2014-11-04 22:23:21] lukeis: i haven't looked into that code yet :)
+[2014-11-04 22:23:43] asm89: check :)
+[2014-11-04 22:24:19] *lukeis can't right now'
+[2014-11-04 22:24:55] asm89: np :)
