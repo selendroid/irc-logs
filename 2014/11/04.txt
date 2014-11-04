@@ -17,3 +17,4 @@
 [2014-11-04 15:26:33] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-04 15:46:51] lux_, joining. (#selendroid)
 [2014-11-04 15:50:02] lux_, quitting. (Client Quit)
+[2014-11-04 16:43:43] smccarthy, joining. (#selendroid)
