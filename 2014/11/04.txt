@@ -46,3 +46,5 @@
 [2014-11-04 20:00:41] mach6_, joining. (#selendroid)
 [2014-11-04 20:27:18] mach6_, quitting. (Quit: Be back later ...)
 [2014-11-04 20:29:38] mach6, joining. (#selendroid)
+[2014-11-04 20:31:20] mach6, quitting. (Read error: Connection reset by peer)
+[2014-11-04 20:33:00] mach6, joining. (#selendroid)
