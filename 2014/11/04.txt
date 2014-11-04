@@ -7,3 +7,4 @@
 [2014-11-04 01:01:13] mach6_, joining. (#selendroid)
 [2014-11-04 01:48:45] mach6_, quitting. (Quit: Be back later ...)
 [2014-11-04 07:14:50] maan_, joining. (#selendroid)
+[2014-11-04 09:18:56] maan_, quitting. (Remote host closed the connection)
