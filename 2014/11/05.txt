@@ -1,2 +1,3 @@
 [2014-11-05 00:05:52] mach6_, joining. (#selendroid)
 [2014-11-05 00:05:53] mach6, quitting. (Read error: Connection reset by peer)
+[2014-11-05 00:31:59] lukeis, quitting. (Quit: Leaving.)
