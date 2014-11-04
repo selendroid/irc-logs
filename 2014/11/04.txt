@@ -35,3 +35,9 @@
 [2014-11-04 17:23:50] lukeis: heck, iPhoneDriver even connected itself to grid ;)
 [2014-11-04 17:24:13] dgrace__: ha, good ol iphonedriver!
 [2014-11-04 17:24:33] lukeis: best to stick with the curl for now… until i merge that pull request from you later?
+[2014-11-04 17:25:13] dgrace__: i have a pull req in selendroid? :)
+[2014-11-04 17:25:29] lukeis: you know, the one where you make the -hub thing work for it? :-D
+[2014-11-04 17:25:54] dgrace__: haha :)
+[2014-11-04 17:26:28] dgrace__: i'll have a look at that stuff when i get time, spotted a bug i can fix already already!
+[2014-11-04 17:26:42] dgrace__: curl it is so, thanks dude
+[2014-11-04 17:26:49] lukeis: no worries, anytime
