@@ -25,3 +25,4 @@
 [2014-11-05 21:13:03] travis-ci, leaving. (#selendroid)
 [2014-11-05 22:04:29] mach6_, joining. (#selendroid)
 [2014-11-05 22:15:06] lukeis, quitting. (Quit: Leaving.)
+[2014-11-05 22:55:33] lukeis, joining. (#selendroid)
