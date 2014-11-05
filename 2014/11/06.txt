@@ -1,0 +1,5 @@
+[2014-11-06 00:01:17] smccarthy, joining. (#selendroid)
+[2014-11-06 00:03:44] mach6_, quitting. (Read error: Connection reset by peer)
+[2014-11-06 00:03:48] mach6__, joining. (#selendroid)
+[2014-11-06 00:04:12] mach6__, quitting. (Read error: Connection reset by peer)
+[2014-11-06 00:04:32] mach6__, joining. (#selendroid)
