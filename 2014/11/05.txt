@@ -3,3 +3,4 @@
 [2014-11-05 00:31:59] lukeis, quitting. (Quit: Leaving.)
 [2014-11-05 01:03:40] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-05 01:44:53] mach6_, quitting. (Quit: Be back later ...)
+[2014-11-05 01:45:49] mach6_, joining. (#selendroid)
