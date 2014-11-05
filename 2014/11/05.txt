@@ -13,3 +13,4 @@
 [2014-11-05 18:27:58] smikloso, leaving. (#selendroid)
 [2014-11-05 19:49:16] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-05 20:02:28] maan_, quitting. (Remote host closed the connection)
+[2014-11-05 20:05:34] lukeis: i'm a rock star, just closed 4 selendroid issues like that! ;)
