@@ -18,3 +18,8 @@
 [2014-11-05 21:05:54] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/9A2znA
 [2014-11-05 21:05:54] selendroid-git: selendroid/master 6dd5469 Alexander: Make retries in standalone driver configurable...
 [2014-11-05 21:05:54] selendroid-git, leaving. (#selendroid)
+[2014-11-05 21:13:03] travis-ci, joining. (#selendroid)
+[2014-11-05 21:13:03] travis-ci: selendroid/selendroid#453 (master - 6dd5469 : Alexander): The build passed.
+[2014-11-05 21:13:03] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/b5dfc8b46536...6dd5469b1a61
+[2014-11-05 21:13:03] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/40103425
+[2014-11-05 21:13:03] travis-ci, leaving. (#selendroid)
