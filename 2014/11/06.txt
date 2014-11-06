@@ -7,3 +7,6 @@
 [2014-11-06 00:31:48] smccarthy, joining. (#selendroid)
 [2014-11-06 00:51:11] smccarthy, quitting. (Remote host closed the connection)
 [2014-11-06 00:51:46] smccarthy, joining. (#selendroid)
+[2014-11-06 01:01:57] lukeis, quitting. (Quit: Leaving.)
+[2014-11-06 01:03:24] mach6___, joining. (#selendroid)
+[2014-11-06 01:03:24] mach6__, quitting. (Read error: Connection reset by peer)
