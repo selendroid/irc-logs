@@ -21,3 +21,5 @@
 [2014-11-06 03:43:58] mach6___, quitting. (Quit: Be back later ...)
 [2014-11-06 05:47:46] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-06 05:47:51] binhvu, joining. (#selendroid)
+[2014-11-06 05:53:26] binhvu, quitting. ()
+[2014-11-06 05:53:44] binhvu, joining. (#selendroid)
