@@ -40,3 +40,7 @@
 [2014-11-06 18:28:18] smikloso, leaving. (#selendroid)
 [2014-11-06 20:03:18] ddary, joining. (#selendroid)
 [2014-11-06 20:42:16] maan, quitting. (Remote host closed the connection)
+[2014-11-06 21:05:48] rchan_, joining. (#selendroid)
+[2014-11-06 21:06:00] rchan, quitting. (Quit: Page closed)
+[2014-11-06 21:06:26] rchan_, quitting. (Client Quit)
+[2014-11-06 21:06:47] rchan, joining. (#selendroid)
