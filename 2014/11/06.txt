@@ -33,3 +33,4 @@
 [2014-11-06 10:34:51] smikloso, joining. (#selendroid)
 [2014-11-06 11:13:59] rlux, quitting. (Ping timeout: 255 seconds)
 [2014-11-06 16:58:09] smccarthy, joining. (#selendroid)
+[2014-11-06 17:28:21] lukeis, joining. (#selendroid)
