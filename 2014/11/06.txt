@@ -44,3 +44,4 @@
 [2014-11-06 21:06:00] rchan, quitting. (Quit: Page closed)
 [2014-11-06 21:06:26] rchan_, quitting. (Client Quit)
 [2014-11-06 21:06:47] rchan, joining. (#selendroid)
+[2014-11-06 21:14:15] ddary, leaving. (#selendroid)
