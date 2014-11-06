@@ -28,3 +28,4 @@
 [2014-11-06 06:54:47] binhvu, quitting. (Ping timeout: 255 seconds)
 [2014-11-06 06:55:36] binhvu, joining. (#selendroid)
 [2014-11-06 07:04:08] binhvu, quitting. (Ping timeout: 265 seconds)
+[2014-11-06 09:58:12] smikloso, joining. (#selendroid)
