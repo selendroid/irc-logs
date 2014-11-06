@@ -47,3 +47,4 @@
 [2014-11-06 21:14:15] ddary, leaving. (#selendroid)
 [2014-11-06 21:31:13] mach6, joining. (#selendroid)
 [2014-11-06 21:33:44] mach6, quitting. (Read error: Connection reset by peer)
+[2014-11-06 22:50:01] mach6, joining. (#selendroid)
