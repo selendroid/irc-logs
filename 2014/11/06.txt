@@ -16,3 +16,5 @@
 [2014-11-06 03:01:19] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-06 03:04:14] smccarthy, joining. (#selendroid)
 [2014-11-06 03:06:47] rlux, joining. (#selendroid)
+[2014-11-06 03:10:33] rlux, quitting. (Client Quit)
+[2014-11-06 03:10:51] rlux, joining. (#selendroid)
