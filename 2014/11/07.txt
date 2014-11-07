@@ -44,3 +44,7 @@
 [2014-11-07 22:37:28] mach6, quitting. (Ping timeout: 255 seconds)
 [2014-11-07 22:41:38] mach6, joining. (#selendroid)
 [2014-11-07 23:29:03] asm89: lukeis: did you ever try to debug the selendroid-server running on the device?
+[2014-11-07 23:30:11] lukeis: i think i tried once… but then resorted to logging instead
+[2014-11-07 23:30:30] lukeis: conceivably it's possible and I think dominik said he can do it
+[2014-11-07 23:31:56] asm89: hm
+[2014-11-07 23:31:59] asm89: ok
