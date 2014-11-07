@@ -26,3 +26,4 @@
 [2014-11-07 15:34:55] maan, joining. (#selendroid)
 [2014-11-07 16:07:28] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
 [2014-11-07 16:18:38] AutomatedTester, joining. (#selendroid)
+[2014-11-07 16:23:05] maan_, joining. (#selendroid)
