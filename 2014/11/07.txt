@@ -20,3 +20,5 @@
 [2014-11-07 10:09:49] operatiay: is anyone around?
 [2014-11-07 10:41:44] rlux86, quitting. (Quit: Leaving)
 [2014-11-07 11:16:17] operatiay: seems to be an empty room despite lots of people sitting in
+[2014-11-07 12:18:23] operatiay, quitting. (Remote host closed the connection)
+[2014-11-07 12:18:42] operatiay, joining. (#selendroid)
