@@ -11,3 +11,4 @@
 [2014-11-07 07:35:49] rlux86, quitting. (Ping timeout: 244 seconds)
 [2014-11-07 07:39:05] rlux, joining. (#selendroid)
 [2014-11-07 08:39:25] rlux, quitting. (Ping timeout: 258 seconds)
+[2014-11-07 09:03:30] rlux, joining. (#selendroid)
