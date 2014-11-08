@@ -25,3 +25,5 @@
 [2014-11-08 19:42:36] maan, joining. (#selendroid)
 [2014-11-08 19:46:04] maan_, joining. (#selendroid)
 [2014-11-08 19:46:12] maan, quitting. (Read error: Connection reset by peer)
+[2014-11-08 20:03:07] operatiay, joining. (#selendroid)
+[2014-11-08 20:04:26] operatiay, quitting. (Read error: Connection reset by peer)
