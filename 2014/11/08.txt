@@ -18,3 +18,4 @@
 [2014-11-08 11:15:12] maan, quitting. (Remote host closed the connection)
 [2014-11-08 11:45:28] lukeis, quitting. (Quit: Leaving.)
 [2014-11-08 12:31:17] maan, joining. (#selendroid)
+[2014-11-08 13:29:20] AutomatedTester, quitting. (Ping timeout: 256 seconds)
