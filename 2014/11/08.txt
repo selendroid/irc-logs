@@ -28,3 +28,4 @@
 [2014-11-08 20:03:07] operatiay, joining. (#selendroid)
 [2014-11-08 20:04:26] operatiay, quitting. (Read error: Connection reset by peer)
 [2014-11-08 20:11:19] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-08 20:40:01] maan_, quitting. (Remote host closed the connection)
