@@ -21,3 +21,4 @@
 [2014-11-08 13:29:20] AutomatedTester, quitting. (Ping timeout: 256 seconds)
 [2014-11-08 13:35:40] AutomatedTester, joining. (#selendroid)
 [2014-11-08 13:38:32] maan, quitting. (Remote host closed the connection)
+[2014-11-08 15:18:43] smccarthy, joining. (#selendroid)
