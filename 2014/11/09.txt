@@ -19,3 +19,5 @@
 [2014-11-09 18:45:15] Deepak: i have some queries related to selendroid. Is there any one available to help with regards to this
 [2014-11-09 18:53:47] Deepak, leaving. (#selendroid)
 [2014-11-09 20:10:31] maan, quitting. (Remote host closed the connection)
+[2014-11-09 21:21:26] detronizator, quitting. (Quit: ZNC - http://znc.in)
+[2014-11-09 21:23:52] detronizator, joining. (#selendroid)
