@@ -24,3 +24,8 @@
 [2014-11-10 20:00:10] ddary, joining. (#selendroid)
 [2014-11-10 20:11:02] ddary, quitting. (Quit: Page closed)
 [2014-11-10 20:34:52] mach6, joining. (#selendroid)
+[2014-11-10 21:33:45] travis-ci, joining. (#selendroid)
+[2014-11-10 21:33:45] travis-ci: selendroid/selendroid#455 (master - 8c89d08 : Luke Inman-Semerau): The build passed.
+[2014-11-10 21:33:45] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/6dd5469b1a61...8c89d087a098
+[2014-11-10 21:33:45] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/40562327
+[2014-11-10 21:33:45] travis-ci, leaving. (#selendroid)
