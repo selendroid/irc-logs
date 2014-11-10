@@ -9,3 +9,4 @@
 [2014-11-10 16:27:06] selendroid-git: [selendroid] operatiay opened pull request #695: Read adb output (master...read_adb_output) http://git.io/5WCD4A
 [2014-11-10 16:27:06] selendroid-git, leaving. (#selendroid)
 [2014-11-10 16:28:34] smikloso, leaving. (#selendroid)
+[2014-11-10 16:36:45] maan, joining. (#selendroid)
