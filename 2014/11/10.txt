@@ -2,3 +2,5 @@
 [2014-11-10 10:17:13] smikloso, joining. (#selendroid)
 [2014-11-10 14:01:34] dgrace__, quitting. (Quit: Connection closed for inactivity)
 [2014-11-10 15:41:53] maan, joining. (#selendroid)
+[2014-11-10 15:51:04] maan_, joining. (#selendroid)
+[2014-11-10 15:51:22] maan, quitting. (Ping timeout: 244 seconds)
