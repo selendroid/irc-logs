@@ -13,3 +13,6 @@
 [2014-11-10 17:03:39] smccarthy, joining. (#selendroid)
 [2014-11-10 17:10:24] maan, quitting. (Remote host closed the connection)
 [2014-11-10 17:31:30] lukeis, joining. (#selendroid)
+[2014-11-10 17:58:11] selendroid-git, joining. (#selendroid)
+[2014-11-10 17:58:11] selendroid-git: [selendroid] lukeis closed pull request #695: Read adb output (master...read_adb_output) http://git.io/5WCD4A
+[2014-11-10 17:58:11] selendroid-git, leaving. (#selendroid)
