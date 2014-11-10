@@ -5,3 +5,7 @@
 [2014-11-10 15:51:04] maan_, joining. (#selendroid)
 [2014-11-10 15:51:22] maan, quitting. (Ping timeout: 244 seconds)
 [2014-11-10 15:56:13] maan_, quitting. (Remote host closed the connection)
+[2014-11-10 16:27:06] selendroid-git, joining. (#selendroid)
+[2014-11-10 16:27:06] selendroid-git: [selendroid] operatiay opened pull request #695: Read adb output (master...read_adb_output) http://git.io/5WCD4A
+[2014-11-10 16:27:06] selendroid-git, leaving. (#selendroid)
+[2014-11-10 16:28:34] smikloso, leaving. (#selendroid)
