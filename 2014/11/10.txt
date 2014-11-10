@@ -16,3 +16,8 @@
 [2014-11-10 17:58:11] selendroid-git, joining. (#selendroid)
 [2014-11-10 17:58:11] selendroid-git: [selendroid] lukeis closed pull request #695: Read adb output (master...read_adb_output) http://git.io/5WCD4A
 [2014-11-10 17:58:11] selendroid-git, leaving. (#selendroid)
+[2014-11-10 18:08:17] travis-ci, joining. (#selendroid)
+[2014-11-10 18:08:17] travis-ci: selendroid/selendroid#455 (master - 8c89d08 : Luke Inman-Semerau): The build was broken.
+[2014-11-10 18:08:17] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/6dd5469b1a61...8c89d087a098
+[2014-11-10 18:08:17] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/40562327
+[2014-11-10 18:08:17] travis-ci, leaving. (#selendroid)
