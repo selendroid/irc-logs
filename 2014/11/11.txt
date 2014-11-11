@@ -34,3 +34,13 @@
 [2014-11-11 18:51:26] mummana: but another error exists  java.lang.NoSuchMethodError: com.beust.jcommander.internal.Lists.newArrayList([Ljava/lang/Object;)Ljava/util/List;
 [2014-11-11 18:54:31] mummana: https://github.com/selendroid/selendroid/issues/656 according to this link its closed but still im facing the problem can i know the status of it
 [2014-11-11 18:54:31] mummana: ?
+[2014-11-11 18:55:18] lukeis: that is again sounding like a version mismatch of a library
+[2014-11-11 18:55:43] mummana: m using 2,44 and 0.12
+[2014-11-11 18:56:01] mummana: 2.44 selenium and 0.12 selendroid jars
+[2014-11-11 18:56:01] lukeis: Jcommander?
+[2014-11-11 18:57:17] lukeis: oh
+[2014-11-11 18:57:25] lukeis: seems like a problem in selendroid 0.12
+[2014-11-11 18:57:26] mummana: jcommaneer 1.29
+[2014-11-11 18:57:31] lukeis: use 0.12 snapshot
+[2014-11-11 18:58:57] mummana: where i can get the snapshot?
+[2014-11-11 18:59:50] lukeis: biab… have to go to a meeting
