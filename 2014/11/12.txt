@@ -1,0 +1,1 @@
+[2014-11-12 00:01:14] mach6, quitting. (Ping timeout: 255 seconds)
