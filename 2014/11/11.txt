@@ -44,3 +44,11 @@
 [2014-11-11 18:57:31] lukeis: use 0.12 snapshot
 [2014-11-11 18:58:57] mummana: where i can get the snapshot?
 [2014-11-11 18:59:50] lukeis: biab… have to go to a meeting
+[2014-11-11 19:00:03] mummana: where can i get the snapshot jar
+[2014-11-11 19:00:10] mummana: please help me
+[2014-11-11 19:00:15] mummana: post the link
+[2014-11-11 19:00:21] mummana: plsea
+[2014-11-11 19:05:01] selendroid-git, joining. (#selendroid)
+[2014-11-11 19:05:01] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/f5N3Uw
+[2014-11-11 19:05:01] selendroid-git: selendroid/master 244d8d0 Martin Konicek: Fix app crash handling, provide more debug output when it fails...
+[2014-11-11 19:05:01] selendroid-git, leaving. (#selendroid)
