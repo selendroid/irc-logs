@@ -30,3 +30,7 @@
 [2014-11-11 18:46:22] mummana: does that version will support?
 [2014-11-11 18:47:07] lukeis: hmm, you might need a newer version of selenium
 [2014-11-11 18:47:40] lukeis: 2.44 is current
+[2014-11-11 18:51:14] mummana: yes ihave updated it
+[2014-11-11 18:51:26] mummana: but another error exists  java.lang.NoSuchMethodError: com.beust.jcommander.internal.Lists.newArrayList([Ljava/lang/Object;)Ljava/util/List;
+[2014-11-11 18:54:31] mummana: https://github.com/selendroid/selendroid/issues/656 according to this link its closed but still im facing the problem can i know the status of it
+[2014-11-11 18:54:31] mummana: ?
