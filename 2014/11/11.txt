@@ -26,3 +26,7 @@
 [2014-11-11 18:41:32] mummana: ?
 [2014-11-11 18:42:44] lukeis: that means you don't have something in your java classpath
 [2014-11-11 18:42:54] lukeis: like the selendroid or the selenium jars
+[2014-11-11 18:46:03] mummana: hmmm im using 2.40 selenium
+[2014-11-11 18:46:22] mummana: does that version will support?
+[2014-11-11 18:47:07] lukeis: hmm, you might need a newer version of selenium
+[2014-11-11 18:47:40] lukeis: 2.44 is current
