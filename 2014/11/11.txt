@@ -54,3 +54,4 @@
 [2014-11-11 19:05:01] selendroid-git, leaving. (#selendroid)
 [2014-11-11 19:21:10] mummana, quitting. (Quit: Page closed)
 [2014-11-11 20:07:18] lukeis: :note mummana here is the latest snapshot https://oss.sonatype.org/content/repositories/snapshots/io/selendroid/selendroid-standalone/0.13.0-SNAPSHOT/selendroid-standalone-0.13.0-20141111.181938-9-with-dependencies.jar
+[2014-11-11 20:15:38] smccarthy, quitting. (Quit: Leaving...)
