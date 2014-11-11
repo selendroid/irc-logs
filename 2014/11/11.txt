@@ -59,3 +59,4 @@
 [2014-11-11 22:55:17] mach6, joining. (#selendroid)
 [2014-11-11 23:35:43] mach6, quitting. (Quit: Be back later ...)
 [2014-11-11 23:36:06] mach6, joining. (#selendroid)
+[2014-11-11 23:59:37] lukeis, quitting. (Quit: Leaving.)
