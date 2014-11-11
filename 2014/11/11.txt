@@ -52,3 +52,4 @@
 [2014-11-11 19:05:01] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/f5N3Uw
 [2014-11-11 19:05:01] selendroid-git: selendroid/master 244d8d0 Martin Konicek: Fix app crash handling, provide more debug output when it fails...
 [2014-11-11 19:05:01] selendroid-git, leaving. (#selendroid)
+[2014-11-11 19:21:10] mummana, quitting. (Quit: Page closed)
