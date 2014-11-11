@@ -17,3 +17,12 @@
 [2014-11-11 18:39:47] mummana: im facing a big problem
 [2014-11-11 18:39:48] lukeis: hi
 [2014-11-11 18:39:59] lukeis: i face them daily ;)
+[2014-11-11 18:40:02] mummana: earlier i used o.11 selendroid jars
+[2014-11-11 18:40:13] mummana: but today when i used 0.12 jar
+[2014-11-11 18:40:29] mummana: i m geting an exception
+[2014-11-11 18:40:30] mummana: java.lang.NoSuchMethodError: org.openqa.selenium.remote.CommandInfo.<init>(Ljava/lang/String;Lorg/openqa/selenium/remote/http/HttpMethod;)V
+[2014-11-11 18:41:21] mummana: when i googled it i got to see some similar posts but no solution was given
+[2014-11-11 18:41:31] mummana: can you kindly help me in this
+[2014-11-11 18:41:32] mummana: ?
+[2014-11-11 18:42:44] lukeis: that means you don't have something in your java classpath
+[2014-11-11 18:42:54] lukeis: like the selendroid or the selenium jars
