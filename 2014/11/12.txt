@@ -9,3 +9,4 @@
 [2014-11-12 12:57:39] smikloso|lunch, changing nick to smikloos.
 [2014-11-12 12:57:42] smikloos, changing nick to smikloso.
 [2014-11-12 14:24:57] operatiay, joining. (#selendroid)
+[2014-11-12 14:50:16] operatiay, quitting. (Remote host closed the connection)
