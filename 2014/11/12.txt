@@ -1,3 +1,6 @@
 [2014-11-12 00:01:14] mach6, quitting. (Ping timeout: 255 seconds)
 [2014-11-12 02:04:08] smccarthy, joining. (#selendroid)
 [2014-11-12 05:13:06] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-12 10:20:00] selendroid-git, joining. (#selendroid)
+[2014-11-12 10:20:00] selendroid-git: [selendroid] frolovs opened pull request #697: Selendroid-standalone argument -emulatorOptions to handle multiple options for emulator (master...master) http://git.io/GWvSew
+[2014-11-12 10:20:00] selendroid-git, leaving. (#selendroid)
