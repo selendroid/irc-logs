@@ -20,3 +20,4 @@
 [2014-11-12 20:10:32] maan, quitting. (Remote host closed the connection)
 [2014-11-12 20:13:11] maan, joining. (#selendroid)
 [2014-11-12 20:17:35] maan, quitting. (Remote host closed the connection)
+[2014-11-12 21:47:51] mach6, quitting. (Quit: Be back later ...)
