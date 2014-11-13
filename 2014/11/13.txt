@@ -48,3 +48,10 @@
 [2014-11-13 18:55:34] smikloso, leaving. (#selendroid)
 [2014-11-13 19:04:00] maan, joining. (#selendroid)
 [2014-11-13 19:49:50] maan, quitting. (Remote host closed the connection)
+[2014-11-13 20:12:16] selendroid-git, joining. (#selendroid)
+[2014-11-13 20:12:16] selendroid-git: [selendroid] DominikDary pushed 5 new commits to master: http://git.io/nLhORQ
+[2014-11-13 20:12:17] selendroid-git: selendroid/master f9ba9f7 Vyacheslav Frolov: Modifying selendroid-standalone argument -emulatorOptions to handle multiple options for emulator
+[2014-11-13 20:12:17] selendroid-git: selendroid/master acc902c Vyacheslav Frolov: Added -keepEmulator option. Is set, selendroid server will keep emulator running after test ends.
+[2014-11-13 20:12:17] selendroid-git: selendroid/master b5eb49b Vyacheslav Frolov: Added -keepEmulator option. Is set, selendroid server will keep emulator running after test ends. Adding a unit test
+[2014-11-13 20:12:17] selendroid-git, leaving. (#selendroid)
+[2014-11-13 20:12:48] mach6, joining. (#selendroid)
