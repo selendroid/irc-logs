@@ -55,3 +55,8 @@
 [2014-11-13 20:12:17] selendroid-git: selendroid/master b5eb49b Vyacheslav Frolov: Added -keepEmulator option. Is set, selendroid server will keep emulator running after test ends. Adding a unit test
 [2014-11-13 20:12:17] selendroid-git, leaving. (#selendroid)
 [2014-11-13 20:12:48] mach6, joining. (#selendroid)
+[2014-11-13 20:22:55] travis-ci, joining. (#selendroid)
+[2014-11-13 20:22:55] travis-ci: selendroid/selendroid#459 (master - 6b2fdac : Dominik Dary): The build passed.
+[2014-11-13 20:22:55] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/244d8d031de3...6b2fdac96fda
+[2014-11-13 20:22:55] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/40921277
+[2014-11-13 20:22:55] travis-ci, leaving. (#selendroid)
