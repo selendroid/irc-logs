@@ -2,3 +2,5 @@
 [2014-11-13 01:07:02] lukeis, quitting. (Ping timeout: 258 seconds)
 [2014-11-13 01:43:42] rlux, joining. (#selendroid)
 [2014-11-13 02:13:17] smccarthy, joining. (#selendroid)
+[2014-11-13 02:26:06] jaws, joining. (#selendroid)
+[2014-11-13 02:27:32] jaws, quitting. (Client Quit)
