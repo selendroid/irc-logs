@@ -39,3 +39,4 @@
 [2014-11-13 12:05:38] operatiay, quitting. ()
 [2014-11-13 14:34:55] smccarthy, joining. (#selendroid)
 [2014-11-13 15:22:58] maan, joining. (#selendroid)
+[2014-11-13 15:48:02] smccarthy, quitting. (Quit: Leaving...)
