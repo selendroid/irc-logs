@@ -36,3 +36,4 @@
 [2014-11-13 10:48:45] smikloso, joining. (#selendroid)
 [2014-11-13 11:19:09] operatiay, quitting. (Remote host closed the connection)
 [2014-11-13 11:26:27] operatiay, joining. (#selendroid)
+[2014-11-13 12:05:38] operatiay, quitting. ()
