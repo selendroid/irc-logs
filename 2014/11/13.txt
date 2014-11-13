@@ -65,3 +65,4 @@
 [2014-11-13 22:21:21] friscodelrosario, joining. (#selendroid)
 [2014-11-13 22:42:48] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-11-13 22:44:07] friscodelrosario, joining. (#selendroid)
+[2014-11-13 23:53:49] rchan, quitting. (Ping timeout: 246 seconds)
