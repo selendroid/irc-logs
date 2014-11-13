@@ -6,3 +6,5 @@
 [2014-11-13 02:27:32] jaws, quitting. (Client Quit)
 [2014-11-13 02:41:23] mach6, quitting. (Quit: Be back later ...)
 [2014-11-13 03:13:06] rlux86, joining. (#selendroid)
+[2014-11-13 03:15:05] rlux, quitting. (Ping timeout: 272 seconds)
+[2014-11-13 03:19:45] rlux86, quitting. (Quit: Leaving)
