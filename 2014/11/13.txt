@@ -19,3 +19,7 @@
 [2014-11-13 05:12:37] AutomatedTester, joining. (#selendroid)
 [2014-11-13 05:37:38] maan, joining. (#selendroid)
 [2014-11-13 05:51:27] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-13 05:55:59] maan_, joining. (#selendroid)
+[2014-11-13 05:56:31] maan__, joining. (#selendroid)
+[2014-11-13 05:58:55] maan, quitting. (Ping timeout: 255 seconds)
+[2014-11-13 05:59:57] maan_, quitting. (Ping timeout: 240 seconds)
