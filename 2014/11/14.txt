@@ -20,3 +20,6 @@
 [2014-11-14 17:54:36] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/41017132
 [2014-11-14 17:54:36] travis-ci, leaving. (#selendroid)
 [2014-11-14 17:59:21] lukeis, joining. (#selendroid)
+[2014-11-14 20:27:33] selendroid-git, joining. (#selendroid)
+[2014-11-14 20:27:33] selendroid-git: [selendroid] frolix opened pull request #703: Selendroid-standalone: Fix to ScreenSize detection of emulators, and a feature - configurable maxSession and maxInstances (master...master) http://git.io/tSgG9Q
+[2014-11-14 20:27:34] selendroid-git, leaving. (#selendroid)
