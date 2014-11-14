@@ -9,3 +9,8 @@
 [2014-11-14 09:18:15] smikloso, joining. (#selendroid)
 [2014-11-14 10:48:53] rlux, quitting. (Quit: Leaving)
 [2014-11-14 16:39:21] smccarthy, joining. (#selendroid)
+[2014-11-14 17:45:07] selendroid-git, joining. (#selendroid)
+[2014-11-14 17:45:07] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/vQKnng
+[2014-11-14 17:45:07] selendroid-git: selendroid/master ddbba3e Martin Konicek: Don't use System.out.println() and Throwable.printStackTrace()...
+[2014-11-14 17:45:07] selendroid-git, leaving. (#selendroid)
+[2014-11-14 17:46:59] smikloso, leaving. (#selendroid)
