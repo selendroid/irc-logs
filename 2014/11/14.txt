@@ -8,3 +8,4 @@
 [2014-11-14 05:47:48] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-14 09:18:15] smikloso, joining. (#selendroid)
 [2014-11-14 10:48:53] rlux, quitting. (Quit: Leaving)
+[2014-11-14 16:39:21] smccarthy, joining. (#selendroid)
