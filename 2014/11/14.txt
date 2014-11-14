@@ -23,3 +23,7 @@
 [2014-11-14 20:27:33] selendroid-git, joining. (#selendroid)
 [2014-11-14 20:27:33] selendroid-git: [selendroid] frolix opened pull request #703: Selendroid-standalone: Fix to ScreenSize detection of emulators, and a feature - configurable maxSession and maxInstances (master...master) http://git.io/tSgG9Q
 [2014-11-14 20:27:34] selendroid-git, leaving. (#selendroid)
+[2014-11-14 20:33:33] maan_, joining. (#selendroid)
+[2014-11-14 20:34:48] selendroid-git, joining. (#selendroid)
+[2014-11-14 20:34:48] selendroid-git: [selendroid] lukeis closed pull request #703: Selendroid-standalone: Fix to ScreenSize detection of emulators, and a feature - configurable maxSession and maxInstances (master...master) http://git.io/tSgG9Q
+[2014-11-14 20:34:48] selendroid-git, leaving. (#selendroid)
