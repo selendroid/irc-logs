@@ -14,3 +14,8 @@
 [2014-11-14 17:45:07] selendroid-git: selendroid/master ddbba3e Martin Konicek: Don't use System.out.println() and Throwable.printStackTrace()...
 [2014-11-14 17:45:07] selendroid-git, leaving. (#selendroid)
 [2014-11-14 17:46:59] smikloso, leaving. (#selendroid)
+[2014-11-14 17:54:36] travis-ci, joining. (#selendroid)
+[2014-11-14 17:54:36] travis-ci: selendroid/selendroid#460 (master - ddbba3e : Martin Konicek): The build passed.
+[2014-11-14 17:54:36] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/6b2fdac96fda...ddbba3efa5bf
+[2014-11-14 17:54:36] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/41017132
+[2014-11-14 17:54:36] travis-ci, leaving. (#selendroid)
