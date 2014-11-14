@@ -33,3 +33,4 @@
 [2014-11-14 20:40:16] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/41033105
 [2014-11-14 20:40:16] travis-ci, leaving. (#selendroid)
 [2014-11-14 21:29:36] maan_, quitting. (Remote host closed the connection)
+[2014-11-14 22:33:44] mach6, quitting. (Quit: Page closed)
