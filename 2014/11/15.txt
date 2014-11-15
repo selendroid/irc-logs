@@ -1,2 +1,3 @@
 [2014-11-15 00:12:38] lukeis, quitting. (Quit: Leaving.)
 [2014-11-15 02:17:11] smccarthy, joining. (#selendroid)
+[2014-11-15 05:09:39] renelux, joining. (#selendroid)
