@@ -1,3 +1,6 @@
 [2014-11-15 00:12:38] lukeis, quitting. (Quit: Leaving.)
 [2014-11-15 02:17:11] smccarthy, joining. (#selendroid)
 [2014-11-15 05:09:39] renelux, joining. (#selendroid)
+[2014-11-15 05:10:28] renelux, quitting. (Client Quit)
+[2014-11-15 05:10:37] renelux, joining. (#selendroid)
+[2014-11-15 05:11:28] renelux, changing nick to rlux.
