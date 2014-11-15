@@ -21,3 +21,6 @@
 [2014-11-15 20:05:10] AutomatedTester_, changing nick to AutomatedTester.
 [2014-11-15 20:05:11] AutomatedTester, quitting. (Changing host)
 [2014-11-15 20:05:11] AutomatedTester, joining. (#selendroid)
+[2014-11-15 21:12:14] sirsteef, quitting. (Ping timeout: 258 seconds)
+[2014-11-15 21:12:31] sirsteef, joining. (#selendroid)
+[2014-11-15 21:13:46] asm89, quitting. (Ping timeout: 258 seconds)
