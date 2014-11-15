@@ -10,3 +10,4 @@
 [2014-11-15 07:34:43] rlux, quitting. (Remote host closed the connection)
 [2014-11-15 13:34:16] maan, joining. (#selendroid)
 [2014-11-15 15:18:49] maan, quitting. (Remote host closed the connection)
+[2014-11-15 15:20:58] maan, joining. (#selendroid)
