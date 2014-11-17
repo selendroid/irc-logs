@@ -32,3 +32,4 @@
 [2014-11-17 21:57:47] jonkri: lukeis: Thanks, I just managed to get it to work. :)
 [2014-11-17 22:25:38] dom__: :(
 [2014-11-17 22:25:42] dom__: ok, thanks
+[2014-11-17 23:09:55] jonkri, quitting. (Read error: Connection reset by peer)
