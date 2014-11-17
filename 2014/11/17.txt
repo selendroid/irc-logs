@@ -3,3 +3,7 @@
 [2014-11-17 15:17:06] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-17 16:49:21] sandy_, joining. (#selendroid)
 [2014-11-17 16:49:41] sandy_: Selendroid
+[2014-11-17 16:50:10] sandy_: Hi every one
+[2014-11-17 16:50:27] sandy_: i had a issue while navigating from hybrid app to native app
+[2014-11-17 16:51:14] sandy_: Can anyone help me
+[2014-11-17 16:51:20] sandy_: please
