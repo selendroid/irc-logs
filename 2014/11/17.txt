@@ -10,3 +10,8 @@
 [2014-11-17 17:03:20] smccarthy, joining. (#selendroid)
 [2014-11-17 17:17:34] sandy_, quitting. (Ping timeout: 246 seconds)
 [2014-11-17 17:36:53] lukeis, joining. (#selendroid)
+[2014-11-17 20:27:38] dom__, joining. (#selendroid)
+[2014-11-17 20:27:47] dom__: Hello
+[2014-11-17 20:28:54] dom__: I have a EULA page on my app, After tapping Disagree, I want a way to relaunch the app under test, but, I can't figure out a way to do so.
+[2014-11-17 20:29:16] dom__: Tried driver.resumeApp()
+[2014-11-17 20:29:42] dom__: running 0.12.0
