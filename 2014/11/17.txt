@@ -7,3 +7,4 @@
 [2014-11-17 16:50:27] sandy_: i had a issue while navigating from hybrid app to native app
 [2014-11-17 16:51:14] sandy_: Can anyone help me
 [2014-11-17 16:51:20] sandy_: please
+[2014-11-17 17:03:20] smccarthy, joining. (#selendroid)
