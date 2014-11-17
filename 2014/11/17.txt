@@ -27,3 +27,6 @@
 [2014-11-17 21:15:13] mach6, joining. (#selendroid)
 [2014-11-17 21:45:30] jonkri, joining. (#selendroid)
 [2014-11-17 21:46:13] jonkri: Hi! Does Selendroid have an equivalent to AndroidDriver's android-server-2.38.0.apk?
+[2014-11-17 21:56:02] lukeis: yes, but it's not a single apk, you need to use selendroid-standalone.jar
+[2014-11-17 21:56:24] lukeis: dom__: i don't have an answer to your question, i don't know what may or may not work
+[2014-11-17 21:57:47] jonkri: lukeis: Thanks, I just managed to get it to work. :)
