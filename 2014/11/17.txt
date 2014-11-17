@@ -30,3 +30,5 @@
 [2014-11-17 21:56:02] lukeis: yes, but it's not a single apk, you need to use selendroid-standalone.jar
 [2014-11-17 21:56:24] lukeis: dom__: i don't have an answer to your question, i don't know what may or may not work
 [2014-11-17 21:57:47] jonkri: lukeis: Thanks, I just managed to get it to work. :)
+[2014-11-17 22:25:38] dom__: :(
+[2014-11-17 22:25:42] dom__: ok, thanks
