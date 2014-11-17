@@ -9,3 +9,4 @@
 [2014-11-17 16:51:20] sandy_: please
 [2014-11-17 17:03:20] smccarthy, joining. (#selendroid)
 [2014-11-17 17:17:34] sandy_, quitting. (Ping timeout: 246 seconds)
+[2014-11-17 17:36:53] lukeis, joining. (#selendroid)
