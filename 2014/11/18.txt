@@ -11,3 +11,8 @@
 [2014-11-18 15:08:37] maan, quitting. (Ping timeout: 245 seconds)
 [2014-11-18 15:26:07] smikloso, leaving. (#selendroid)
 [2014-11-18 15:30:33] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-18 15:40:30] selendroid-git, joining. (#selendroid)
+[2014-11-18 15:40:30] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/LIO7qg
+[2014-11-18 15:40:30] selendroid-git: selendroid/master beeb051 Alexander: Prefix catch all error responses to make message recognizable...
+[2014-11-18 15:40:30] selendroid-git, leaving. (#selendroid)
+[2014-11-18 15:43:28] maan__, joining. (#selendroid)
