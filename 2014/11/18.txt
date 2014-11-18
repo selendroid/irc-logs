@@ -71,3 +71,10 @@
 [2014-11-18 21:26:45] lukeis: i wish :)
 [2014-11-18 21:28:52] lukeis: so… right now we have tests running on iOS7 w/ ios-driver and iOS8 w/ appium
 [2014-11-18 21:30:00] ddary: and are the tests relatively similiar or different?
+[2014-11-18 21:30:37] lukeis: the tests? we have a few thousand ;)
+[2014-11-18 21:30:59] ddary: wow
+[2014-11-18 21:31:37] lukeis: what happens when you are able to reuse tests because the "functionality" is the same on desktop and mobile :)
+[2014-11-18 21:31:48] lukeis: page objects FTW
+[2014-11-18 21:32:19] ddary: sounds good :-)
+[2014-11-18 21:32:34] lukeis: and not only mobile safari, but also our hybrid app
+[2014-11-18 21:32:53] lukeis: was nice getting that all running ;)
