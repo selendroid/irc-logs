@@ -32,3 +32,6 @@
 [2014-11-18 17:05:42] maan__, quitting. (Remote host closed the connection)
 [2014-11-18 17:27:29] lukeis, joining. (#selendroid)
 [2014-11-18 18:09:37] dom__, quitting. (Ping timeout: 246 seconds)
+[2014-11-18 20:36:46] Mr_Nice_, joining. (#selendroid)
+[2014-11-18 20:36:52] Mr_Nice_: hi
+[2014-11-18 20:39:01] Mr_Nice_: do you guys know if there is an assembly for selendroid available for visual studio? I have installed android sdk and run selendroid.  It all seems to be working, I am just having difficulty creating the calling C# code in visual studio.  I feel like I am missing a library
