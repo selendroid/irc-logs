@@ -48,3 +48,9 @@
 [2014-11-18 21:09:16] ddary: how are you doing?
 [2014-11-18 21:09:33] lukeis: pretty good :) too involved in iOS the past few months
 [2014-11-18 21:10:01] lukeis: what happens i suppose when the iOS guy on your team is no longer on your team ;)
+[2014-11-18 21:10:56] ddary: and do you use ios-driver or appium?
+[2014-11-18 21:11:25] travis-ci, joining. (#selendroid)
+[2014-11-18 21:11:25] travis-ci: selendroid/selendroid#464 (master - 5a16ac3 : Dominik Dary): The build passed.
+[2014-11-18 21:11:25] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/beeb0518f34a...5a16ac309503
+[2014-11-18 21:11:25] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/41402251
+[2014-11-18 21:11:25] travis-ci, leaving. (#selendroid)
