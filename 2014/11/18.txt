@@ -120,3 +120,5 @@
 [2014-11-18 23:16:42] lukeis: try restarting the adb server…. `adb kill-server`
 [2014-11-18 23:18:22] Mr_Nice_: still not recognisingit, ill try creating an AVD from command line instead of GUI and see if that does it
 [2014-11-18 23:19:16] lukeis: you can also try starting the emulator from the command line instead….. emulator -avd <avdname>
+[2014-11-18 23:23:29] Mr_Nice_: ahh, seems it doesnt like that I selected 64 bit processor
+[2014-11-18 23:24:25] Mr_Nice_: doesnt like x86 either
