@@ -126,3 +126,4 @@
 [2014-11-18 23:26:20] Mr_Nice_: I just needed to change to to arm processor
 [2014-11-18 23:28:15] Mr_Nice_: InvalidOperationException now and a timeout exception first.  I think i need to code a wait while the device loads maybe
 [2014-11-18 23:29:18] Mr_Nice_: I got a windows with "android" fading in and out, is that the loading screen?
+[2014-11-18 23:30:12] Mr_Nice_: aha! yes it was, took longer than I expected to load
