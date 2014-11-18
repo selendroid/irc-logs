@@ -41,3 +41,10 @@
 [2014-11-18 21:04:05] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/p56VSA
 [2014-11-18 21:04:05] selendroid-git: selendroid/master 5a16ac3 Dominik Dary: Update AUTHORS...
 [2014-11-18 21:04:06] selendroid-git, leaving. (#selendroid)
+[2014-11-18 21:07:39] lukeis: Mr_Nice_: do you have the Selenium .NET bindings?
+[2014-11-18 21:07:48] lukeis: (library)
+[2014-11-18 21:08:56] ddary: hi lukeis :-)
+[2014-11-18 21:09:06] lukeis: hi ddary
+[2014-11-18 21:09:16] ddary: how are you doing?
+[2014-11-18 21:09:33] lukeis: pretty good :) too involved in iOS the past few months
+[2014-11-18 21:10:01] lukeis: what happens i suppose when the iOS guy on your team is no longer on your team ;)
