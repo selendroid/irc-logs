@@ -88,3 +88,5 @@
 [2014-11-18 21:38:21] Mr_Nice_: thanks, ill have a go with remoteWebDriver
 [2014-11-18 21:39:04] Mr_Nice_, quitting. ()
 [2014-11-18 21:48:14] ddary, leaving. (#selendroid)
+[2014-11-18 22:32:18] Mr_Nice_, joining. (#selendroid)
+[2014-11-18 22:34:38] Mr_Nice_: Hi Again.  I am getting "io.selendroid.exceptions.SessionNotCreatedException: Error starting Selendroid session" when trying to use remote driver.  Any tips on how to start debugging this?
