@@ -91,3 +91,20 @@
 [2014-11-18 22:32:18] Mr_Nice_, joining. (#selendroid)
 [2014-11-18 22:34:38] Mr_Nice_: Hi Again.  I am getting "io.selendroid.exceptions.SessionNotCreatedException: Error starting Selendroid session" when trying to use remote driver.  Any tips on how to start debugging this?
 [2014-11-18 22:56:17] Mr_Nice_: I made a SO question if anyone is intrested to look: http://stackoverflow.com/questions/27004780/io-selendroid-exceptions-sessionnotcreatedexception-error-starting-selendroid-s
+[2014-11-18 23:00:06] lukeis: Mr_Nice_: there's gotta be more tot he trace than that… maybe something in the standalone server output or maybe in the `adb logcat` ?
+[2014-11-18 23:00:42] Mr_Nice_: Where can I see the SA server log?
+[2014-11-18 23:01:10] lukeis: log? in the console where you're running it?
+[2014-11-18 23:01:51] Mr_Nice_: lol, sorry, I forgot about console.
+[2014-11-18 23:02:25] Mr_Nice_: yeah I got much longer error message here
+[2014-11-18 23:02:46] Mr_Nice_: one part says device not found
+[2014-11-18 23:03:21] lukeis: yeah, it can't find any devices, you may need to create an avd
+[2014-11-18 23:03:27] lukeis: `android avd`
+[2014-11-18 23:03:33] Mr_Nice_: I created an AVD and its running
+[2014-11-18 23:03:43] Mr_Nice_: do i need to `hook it up` somehow?
+[2014-11-18 23:03:46] lukeis: if you run adb devices does it show up?
+[2014-11-18 23:04:13] lukeis: selendroid *should* detect the running emulator
+[2014-11-18 23:04:31] lukeis: of course you are on windows ;)  all bets are lost ;)
+[2014-11-18 23:04:40] Mr_Nice_: is 'adb devices' a command switch?
+[2014-11-18 23:04:48] lukeis: yes
+[2014-11-18 23:04:57] Mr_Nice_: ok trying now
+[2014-11-18 23:04:59] lukeis: adb is in the android-sdk
