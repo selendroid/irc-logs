@@ -62,3 +62,12 @@
 [2014-11-18 21:23:43] ddary: sad to hear that
 [2014-11-18 21:24:04] ddary: have you talked with francois, did he had an idea?
 [2014-11-18 21:24:51] lukeis: wasn't really able to sync up with him… he also had his own branch that ran ios8, but it was significantly bit-rotted from the dev branch
+[2014-11-18 21:25:21] ddary: ok
+[2014-11-18 21:25:28] lukeis: even with his changes, only in sauce labs I had issues with connecting to the WebView over the RWKDP
+[2014-11-18 21:25:54] lukeis: tore my hair out for a while on that ;)
+[2014-11-18 21:26:26] ddary: if (iosdriver==true) exit with timing issues;
+[2014-11-18 21:26:32] lukeis: heh
+[2014-11-18 21:26:38] ddary: ^^just remove that line ;-)
+[2014-11-18 21:26:45] lukeis: i wish :)
+[2014-11-18 21:28:52] lukeis: so… right now we have tests running on iOS7 w/ ios-driver and iOS8 w/ appium
+[2014-11-18 21:30:00] ddary: and are the tests relatively similiar or different?
