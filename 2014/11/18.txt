@@ -37,3 +37,7 @@
 [2014-11-18 20:39:01] Mr_Nice_: do you guys know if there is an assembly for selendroid available for visual studio? I have installed android sdk and run selendroid.  It all seems to be working, I am just having difficulty creating the calling C# code in visual studio.  I feel like I am missing a library
 [2014-11-18 20:42:08] mach6, joining. (#selendroid)
 [2014-11-18 20:50:30] ddary, joining. (#selendroid)
+[2014-11-18 21:04:05] selendroid-git, joining. (#selendroid)
+[2014-11-18 21:04:05] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/p56VSA
+[2014-11-18 21:04:05] selendroid-git: selendroid/master 5a16ac3 Dominik Dary: Update AUTHORS...
+[2014-11-18 21:04:06] selendroid-git, leaving. (#selendroid)
