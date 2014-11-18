@@ -54,3 +54,8 @@
 [2014-11-18 21:11:25] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/beeb0518f34a...5a16ac309503
 [2014-11-18 21:11:25] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/41402251
 [2014-11-18 21:11:25] travis-ci, leaving. (#selendroid)
+[2014-11-18 21:17:41] lukeis: ddary: both :)
+[2014-11-18 21:17:59] ddary: :-)
+[2014-11-18 21:18:31] lukeis: but we're seemingly only going to be using appium in the future… we couldn't get ios-driver to work on ios8 in saucelabs
+[2014-11-18 21:18:52] lukeis: got ios-driver running locally… just not in sauce labs :(
+[2014-11-18 21:19:09] lukeis: so. many. timing. issues.
