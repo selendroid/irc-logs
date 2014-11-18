@@ -24,3 +24,5 @@
 [2014-11-18 15:49:44] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/41367540
 [2014-11-18 16:15:09] maan_, joining. (#selendroid)
 [2014-11-18 16:17:12] maan__, quitting. (Ping timeout: 256 seconds)
+[2014-11-18 16:46:40] maan__, joining. (#selendroid)
+[2014-11-18 16:48:56] maan_, quitting. (Ping timeout: 256 seconds)
