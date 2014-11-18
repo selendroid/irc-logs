@@ -87,3 +87,4 @@
 [2014-11-18 21:37:57] Mr_Nice_: i saw a code snippet on a blog and there was stuff like "new SelendroidBrowser()" so it threw me
 [2014-11-18 21:38:21] Mr_Nice_: thanks, ill have a go with remoteWebDriver
 [2014-11-18 21:39:04] Mr_Nice_, quitting. ()
+[2014-11-18 21:48:14] ddary, leaving. (#selendroid)
