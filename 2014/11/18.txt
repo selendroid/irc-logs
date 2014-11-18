@@ -114,3 +114,4 @@
 [2014-11-18 23:07:14] Mr_Nice_: im not even sure how to run android sdk from console, but i can see the device running in AVD manager
 [2014-11-18 23:08:03] Mr_Nice_: command prompt doesnt recognise 'android' as a command
 [2014-11-18 23:09:52] lukeis: because android is in the sdk, likely not on your PATH
+[2014-11-18 23:14:27] Mr_Nice_: hmm, your right, adb devices shows 0 attached devices
