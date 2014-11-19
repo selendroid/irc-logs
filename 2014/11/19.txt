@@ -50,3 +50,5 @@
 [2014-11-19 18:50:30] lukeis, quitting. (Quit: Leaving.)
 [2014-11-19 19:20:51] maan_, quitting. (Ping timeout: 272 seconds)
 [2014-11-19 19:23:23] maan_, joining. (#selendroid)
+[2014-11-19 19:36:37] maan_, quitting. (Ping timeout: 240 seconds)
+[2014-11-19 19:36:56] maan_, joining. (#selendroid)
