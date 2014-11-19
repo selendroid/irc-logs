@@ -7,3 +7,8 @@
 [2014-11-19 03:19:32] selendroid-git, joining. (#selendroid)
 [2014-11-19 03:19:32] selendroid-git: [selendroid] binhvu opened pull request #712: Added folder monitoring capability and fixed emulator launching problem. (master...master) http://git.io/QKJxQQ
 [2014-11-19 03:19:32] selendroid-git, leaving. (#selendroid)
+[2014-11-19 03:34:46] travis-ci, joining. (#selendroid)
+[2014-11-19 03:34:46] travis-ci: binhvu/selendroid#1 (master - 6a9a931 : Luke Inman-Semerau): The build failed.
+[2014-11-19 03:34:46] travis-ci: Change view : https://github.com/binhvu/selendroid/compare/244d8d031de3...6a9a93137c5e
+[2014-11-19 03:34:46] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid/builds/41282177
+[2014-11-19 03:34:46] travis-ci, leaving. (#selendroid)
