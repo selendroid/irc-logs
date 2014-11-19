@@ -65,3 +65,4 @@
 [2014-11-19 20:39:09] lukeis: :)
 [2014-11-19 20:46:04] maan_, quitting. (Remote host closed the connection)
 [2014-11-19 21:22:25] ddary, quitting. (Quit: ddary)
+[2014-11-19 22:35:24] mach6, joining. (#selendroid)
