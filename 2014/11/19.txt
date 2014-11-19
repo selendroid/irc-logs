@@ -13,3 +13,4 @@
 [2014-11-19 03:34:46] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid/builds/41282177
 [2014-11-19 03:34:46] travis-ci, leaving. (#selendroid)
 [2014-11-19 03:43:46] smccarthy, joining. (#selendroid)
+[2014-11-19 04:07:02] mach6, quitting. (Quit: Be back later ...)
