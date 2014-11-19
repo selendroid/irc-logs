@@ -32,3 +32,7 @@
 [2014-11-19 16:30:51] smikloso, quitting. (Quit: Leaving.)
 [2014-11-19 16:32:04] maan, quitting. (Ping timeout: 255 seconds)
 [2014-11-19 17:10:52] maan_, quitting. (Remote host closed the connection)
+[2014-11-19 17:57:12] selendroid-git, joining. (#selendroid)
+[2014-11-19 17:57:12] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/yHeOsg
+[2014-11-19 17:57:13] selendroid-git: selendroid/master d246f98 Alexander: Fix race condition in ServerInstrumentation.finishAllActivities()...
+[2014-11-19 17:57:13] selendroid-git, leaving. (#selendroid)
