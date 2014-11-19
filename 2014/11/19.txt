@@ -21,3 +21,9 @@
 [2014-11-19 15:28:32] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/rPKFCQ
 [2014-11-19 15:28:32] selendroid-git: selendroid/master e5afe5d Alexander: Add more logging to RequestRedirectHandler when session id is missing in request...
 [2014-11-19 15:28:32] selendroid-git, leaving. (#selendroid)
+[2014-11-19 15:34:02] travis-ci, joining. (#selendroid)
+[2014-11-19 15:34:02] travis-ci: selendroid/selendroid#466 (master - e5afe5d : Alexander): The build passed.
+[2014-11-19 15:34:02] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/5a16ac309503...e5afe5de9d31
+[2014-11-19 15:34:02] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/41485348
+[2014-11-19 15:34:02] travis-ci, leaving. (#selendroid)
+[2014-11-19 15:34:11] asm89: \o/ build green
