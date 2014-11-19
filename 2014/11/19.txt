@@ -28,3 +28,4 @@
 [2014-11-19 15:34:02] travis-ci, leaving. (#selendroid)
 [2014-11-19 15:34:11] asm89: \o/ build green
 [2014-11-19 16:05:34] maan, joining. (#selendroid)
+[2014-11-19 16:29:23] maan_, joining. (#selendroid)
