@@ -42,3 +42,5 @@
 [2014-11-19 18:06:24] ddary, quitting. (Quit: Page closed)
 [2014-11-19 18:07:24] lukeis, joining. (#selendroid)
 [2014-11-19 18:09:04] maan_, joining. (#selendroid)
+[2014-11-19 18:21:17] lukeis: :note ddary if you're talking about the maven artifacts? it's in selenium-api
+[2014-11-19 18:21:27] lukeis: :note ddary not sure why… but it is :)
