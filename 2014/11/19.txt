@@ -47,3 +47,4 @@
 [2014-11-19 18:39:16] selendroid-git, joining. (#selendroid)
 [2014-11-19 18:39:16] selendroid-git: [selendroid] frolix opened pull request #713: Corrections to JSON to register at Grid hub. (master...SeleniumGridRegistrationJson) http://git.io/T76LWw
 [2014-11-19 18:39:17] selendroid-git, leaving. (#selendroid)
+[2014-11-19 18:50:30] lukeis, quitting. (Quit: Leaving.)
