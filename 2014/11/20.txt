@@ -46,3 +46,5 @@
 [2014-11-20 15:58:18] modeck: DC = {'platform': 'ANDROID', 'browserName': 'android', 'version':'', 'emulator': True, 'platformVersion':'19'}
 [2014-11-20 15:58:36] modeck: both of these work well
 [2014-11-20 15:59:18] modeck: will next version of selendroid support Android 5 AVDs?
+[2014-11-20 16:20:53] maan, quitting. (Ping timeout: 264 seconds)
+[2014-11-20 16:21:40] maan, joining. (#selendroid)
