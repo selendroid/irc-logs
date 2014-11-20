@@ -48,3 +48,4 @@
 [2014-11-20 15:59:18] modeck: will next version of selendroid support Android 5 AVDs?
 [2014-11-20 16:20:53] maan, quitting. (Ping timeout: 264 seconds)
 [2014-11-20 16:21:40] maan, joining. (#selendroid)
+[2014-11-20 16:47:52] smccarthy, joining. (#selendroid)
