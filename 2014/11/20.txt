@@ -53,3 +53,4 @@
 [2014-11-20 17:28:57] lukeis, joining. (#selendroid)
 [2014-11-20 17:44:24] modeck, quitting. (Ping timeout: 264 seconds)
 [2014-11-20 17:54:06] modeck, joining. (#selendroid)
+[2014-11-20 19:01:07] modeck, quitting. (Remote host closed the connection)
