@@ -29,3 +29,9 @@
 [2014-11-20 13:22:06] travis-ci, leaving. (#selendroid)
 [2014-11-20 14:32:37] asm89: :log
 [2014-11-20 15:17:18] smikloso, leaving. (#selendroid)
+[2014-11-20 15:30:27] modeck, joining. (#selendroid)
+[2014-11-20 15:30:32] modeck: hi
+[2014-11-20 15:32:12] modeck: i'm running a PY script against an AVD emulator, using selendroid server
+[2014-11-20 15:32:21] modeck: there are several AVDs on machine
+[2014-11-20 15:32:58] modeck: in the desired capabilities dictionary, how do i target a specific AVD?
+[2014-11-20 15:33:28] modeck: desired caps looks like this ATM: DC = {'platform': 'ANDROID', 'browserName': 'android', 'version': '', 'emulator': True,
