@@ -22,3 +22,8 @@
 [2014-11-20 13:17:03] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/6Me2rA
 [2014-11-20 13:17:03] selendroid-git: selendroid/master f0de6ac Alexander: Fix 'error: cannot find symbol' error...
 [2014-11-20 13:17:03] selendroid-git, leaving. (#selendroid)
+[2014-11-20 13:22:05] travis-ci, joining. (#selendroid)
+[2014-11-20 13:22:05] travis-ci: selendroid/selendroid#471 (master - f0de6ac : Alexander): The build was fixed.
+[2014-11-20 13:22:05] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/d246f9855e6c...f0de6acc2bda
+[2014-11-20 13:22:05] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/41593926
+[2014-11-20 13:22:06] travis-ci, leaving. (#selendroid)
