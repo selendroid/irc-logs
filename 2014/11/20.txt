@@ -18,3 +18,7 @@
 [2014-11-20 06:50:24] maan, quitting. (Ping timeout: 250 seconds)
 [2014-11-20 07:19:41] mach6__, quitting. (Ping timeout: 272 seconds)
 [2014-11-20 09:20:46] smikloso, joining. (#selendroid)
+[2014-11-20 13:17:03] selendroid-git, joining. (#selendroid)
+[2014-11-20 13:17:03] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/6Me2rA
+[2014-11-20 13:17:03] selendroid-git: selendroid/master f0de6ac Alexander: Fix 'error: cannot find symbol' error...
+[2014-11-20 13:17:03] selendroid-git, leaving. (#selendroid)
