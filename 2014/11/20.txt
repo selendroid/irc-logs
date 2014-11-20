@@ -35,3 +35,5 @@
 [2014-11-20 15:32:21] modeck: there are several AVDs on machine
 [2014-11-20 15:32:58] modeck: in the desired capabilities dictionary, how do i target a specific AVD?
 [2014-11-20 15:33:28] modeck: desired caps looks like this ATM: DC = {'platform': 'ANDROID', 'browserName': 'android', 'version': '', 'emulator': True,
+[2014-11-20 15:38:38] modeck: also
+[2014-11-20 15:38:54] modeck: does latest selendroid support Android5 emaultors?
