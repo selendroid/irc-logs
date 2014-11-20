@@ -8,3 +8,4 @@
 [2014-11-20 01:10:19] mach6__, quitting. (Quit: Be back later ...)
 [2014-11-20 05:01:53] mach6__, joining. (#selendroid)
 [2014-11-20 05:16:02] maan, joining. (#selendroid)
+[2014-11-20 06:03:20] smccarthy, quitting. (Quit: Leaving...)
