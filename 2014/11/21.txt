@@ -1,1 +1,4 @@
 [2014-11-21 00:38:59] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-21 00:54:03] selendroid-git, joining. (#selendroid)
+[2014-11-21 00:54:03] selendroid-git: [selendroid] lukeis closed pull request #713: Corrections to JSON to register at Grid hub. (master...SeleniumGridRegistrationJson) http://git.io/T76LWw
+[2014-11-21 00:54:03] selendroid-git, leaving. (#selendroid)
