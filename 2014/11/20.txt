@@ -58,3 +58,4 @@
 [2014-11-20 19:39:50] jlipps, leaving. (#selendroid)
 [2014-11-20 20:03:05] mach6__, joining. (#selendroid)
 [2014-11-20 20:38:55] lukeis, quitting. (Quit: Leaving.)
+[2014-11-20 21:20:28] lukeis, joining. (#selendroid)
