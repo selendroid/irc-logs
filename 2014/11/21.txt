@@ -46,3 +46,9 @@
 [2014-11-21 21:11:52] maan, quitting. (Remote host closed the connection)
 [2014-11-21 21:42:03] ddary, quitting. (Quit: Page closed)
 [2014-11-21 22:09:20] ddary, joining. (#selendroid)
+[2014-11-21 22:10:07] lukeis: hi ddary, late night? :)
+[2014-11-21 22:10:21] ddary: yeah
+[2014-11-21 22:10:48] ddary: i continued to work with buck
+[2014-11-21 22:11:01] ddary: and now i try to push lollipop
+[2014-11-21 22:11:04] lukeis: heh, how's that coming?
+[2014-11-21 22:12:00] ddary: on my nexus 4 I had android l preview installed and now I would like to get something more official
