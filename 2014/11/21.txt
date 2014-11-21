@@ -52,3 +52,4 @@
 [2014-11-21 22:11:01] ddary: and now i try to push lollipop
 [2014-11-21 22:11:04] lukeis: heh, how's that coming?
 [2014-11-21 22:12:00] ddary: on my nexus 4 I had android l preview installed and now I would like to get something more official
+[2014-11-21 22:38:47] ddary, leaving. (#selendroid)
