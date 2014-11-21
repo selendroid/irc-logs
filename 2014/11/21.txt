@@ -2,3 +2,8 @@
 [2014-11-21 00:54:03] selendroid-git, joining. (#selendroid)
 [2014-11-21 00:54:03] selendroid-git: [selendroid] lukeis closed pull request #713: Corrections to JSON to register at Grid hub. (master...SeleniumGridRegistrationJson) http://git.io/T76LWw
 [2014-11-21 00:54:03] selendroid-git, leaving. (#selendroid)
+[2014-11-21 00:59:56] travis-ci, joining. (#selendroid)
+[2014-11-21 00:59:56] travis-ci: selendroid/selendroid#475 (master - ac1184e : Luke Inman-Semerau): The build passed.
+[2014-11-21 00:59:56] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/f0de6acc2bda...ac1184e9f2a8
+[2014-11-21 00:59:56] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/41663436
+[2014-11-21 00:59:56] travis-ci, leaving. (#selendroid)
