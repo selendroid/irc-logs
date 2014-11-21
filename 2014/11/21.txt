@@ -30,3 +30,4 @@
 [2014-11-21 08:09:33] rlux, quitting. (Ping timeout: 265 seconds)
 [2014-11-21 08:20:14] rlux86, quitting. (Quit: Leaving)
 [2014-11-21 08:23:51] mach6, quitting. (Quit: Page closed)
+[2014-11-21 09:07:51] smikloso, joining. (#selendroid)
