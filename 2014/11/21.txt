@@ -34,3 +34,4 @@
 [2014-11-21 12:57:56] ashwinmuni, joining. (#selendroid)
 [2014-11-21 13:08:24] ashwinmuni, quitting. (Quit: Page closed)
 [2014-11-21 14:48:56] smccarthy, joining. (#selendroid)
+[2014-11-21 16:57:14] smikloso, quitting. (Quit: Leaving.)
