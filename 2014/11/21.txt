@@ -26,3 +26,5 @@
 [2014-11-21 07:04:07] travis-ci: Change view : https://github.com/binhvu/selendroid/compare/244d8d031de3...6a9a93137c5e
 [2014-11-21 07:04:07] travis-ci, leaving. (#selendroid)
 [2014-11-21 07:04:07] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid/builds/41282177
+[2014-11-21 08:06:04] rlux86, joining. (#selendroid)
+[2014-11-21 08:09:33] rlux, quitting. (Ping timeout: 265 seconds)
