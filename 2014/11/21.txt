@@ -9,3 +9,4 @@
 [2014-11-21 00:59:56] travis-ci, leaving. (#selendroid)
 [2014-11-21 01:00:49] lukeis, quitting. (Quit: Leaving.)
 [2014-11-21 02:28:42] jlipps, quitting. (Quit: Leaving.)
+[2014-11-21 02:54:35] smccarthy, joining. (#selendroid)
