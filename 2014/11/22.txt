@@ -14,3 +14,5 @@
 [2014-11-22 12:11:52] asm89, quitting. (*.net *.split)
 [2014-11-22 12:13:09] asm89, joining. (#selendroid)
 [2014-11-22 17:33:43] smccarthy, joining. (#selendroid)
+[2014-11-22 17:35:47] smccarthy, quitting. (Read error: Connection reset by peer)
+[2014-11-22 17:36:14] smccarthy, joining. (#selendroid)
