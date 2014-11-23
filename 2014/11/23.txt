@@ -1,2 +1,4 @@
 [2014-11-23 01:02:39] smccarthy, joining. (#selendroid)
 [2014-11-23 02:30:54] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-23 02:40:19] rlux, joining. (#selendroid)
+[2014-11-23 02:40:43] rlux, quitting. (Client Quit)
