@@ -10,3 +10,8 @@
 [2014-11-24 05:43:45] selendroid-git, joining. (#selendroid)
 [2014-11-24 05:43:45] selendroid-git: [selendroid] mach6 closed pull request #712: Added folder monitoring capability and fixed emulator launching problem. (master...master) http://git.io/QKJxQQ
 [2014-11-24 05:43:45] selendroid-git, leaving. (#selendroid)
+[2014-11-24 05:48:01] travis-ci, joining. (#selendroid)
+[2014-11-24 05:48:01] travis-ci: selendroid/selendroid#476 (master - cd07b1a : Binh Vu): The build passed.
+[2014-11-24 05:48:01] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/ac1184e9f2a8...cd07b1aaf1c3
+[2014-11-24 05:48:02] travis-ci, leaving. (#selendroid)
+[2014-11-24 05:48:02] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/41926459
