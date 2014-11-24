@@ -24,3 +24,4 @@
 [2014-11-24 18:23:12] smikloso, joining. (#selendroid)
 [2014-11-24 18:26:51] smikloso, quitting. (Client Quit)
 [2014-11-24 19:16:01] lukeis, quitting. (Quit: Leaving.)
+[2014-11-24 20:07:44] lukeis, joining. (#selendroid)
