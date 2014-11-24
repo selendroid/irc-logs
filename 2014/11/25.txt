@@ -1,1 +1,3 @@
 [2014-11-25 00:06:38] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-25 00:41:32] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2014-11-25 00:43:16] friscodelrosario, joining. (#selendroid)
