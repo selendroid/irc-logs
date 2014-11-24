@@ -1,2 +1,3 @@
 [2014-11-24 00:09:50] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-11-24 00:14:02] detronizator, joining. (#selendroid)
+[2014-11-24 03:03:04] rlux, joining. (#selendroid)
