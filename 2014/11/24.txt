@@ -17,3 +17,4 @@
 [2014-11-24 05:48:02] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/41926459
 [2014-11-24 09:18:01] smikloso, joining. (#selendroid)
 [2014-11-24 16:07:20] maan, joining. (#selendroid)
+[2014-11-24 16:26:18] smikloso, quitting. (Ping timeout: 255 seconds)
