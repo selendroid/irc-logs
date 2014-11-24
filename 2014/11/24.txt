@@ -3,3 +3,10 @@
 [2014-11-24 03:03:04] rlux, joining. (#selendroid)
 [2014-11-24 03:54:03] rlux, quitting. (Remote host closed the connection)
 [2014-11-24 04:25:46] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-24 05:43:15] selendroid-git, joining. (#selendroid)
+[2014-11-24 05:43:15] selendroid-git: [selendroid] mach6 pushed 1 new commit to master: http://git.io/Z-jSZQ
+[2014-11-24 05:43:15] selendroid-git: selendroid/master cd07b1a Binh Vu: Added folder monitoring capability and fixed emulator launching problem....
+[2014-11-24 05:43:15] selendroid-git, leaving. (#selendroid)
+[2014-11-24 05:43:45] selendroid-git, joining. (#selendroid)
+[2014-11-24 05:43:45] selendroid-git: [selendroid] mach6 closed pull request #712: Added folder monitoring capability and fixed emulator launching problem. (master...master) http://git.io/QKJxQQ
+[2014-11-24 05:43:45] selendroid-git, leaving. (#selendroid)
