@@ -14,3 +14,4 @@
 [2014-11-25 15:06:27] rlux, quitting. ()
 [2014-11-25 15:47:46] maan, joining. (#selendroid)
 [2014-11-25 16:39:57] maan, quitting. (Ping timeout: 240 seconds)
+[2014-11-25 17:18:50] smikloso, quitting. (Ping timeout: 256 seconds)
