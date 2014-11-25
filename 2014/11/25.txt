@@ -28,3 +28,4 @@
 [2014-11-25 19:17:10] lukeis, joining. (#selendroid)
 [2014-11-25 21:36:09] ddary, joining. (#selendroid)
 [2014-11-25 21:59:32] ddary, leaving. (#selendroid)
+[2014-11-25 22:54:54] friscodelrosario, joining. (#selendroid)
