@@ -7,3 +7,5 @@
 [2014-11-26 03:51:17] friscodelrosario, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2014-11-26 06:01:18] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-26 11:44:38] smikloso, joining. (#selendroid)
+[2014-11-26 12:15:39] detronizator, quitting. (Quit: ZNC - http://znc.in)
+[2014-11-26 12:17:25] detronizator, joining. (#selendroid)
