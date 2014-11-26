@@ -10,3 +10,5 @@
 [2014-11-26 12:15:39] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-11-26 12:17:25] detronizator, joining. (#selendroid)
 [2014-11-26 15:37:32] maan, joining. (#selendroid)
+[2014-11-26 16:00:19] maan_, joining. (#selendroid)
+[2014-11-26 16:02:58] maan, quitting. (Ping timeout: 244 seconds)
