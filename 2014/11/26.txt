@@ -9,3 +9,4 @@
 [2014-11-26 11:44:38] smikloso, joining. (#selendroid)
 [2014-11-26 12:15:39] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-11-26 12:17:25] detronizator, joining. (#selendroid)
+[2014-11-26 15:37:32] maan, joining. (#selendroid)
