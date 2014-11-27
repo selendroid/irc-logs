@@ -22,3 +22,7 @@
 [2014-11-27 19:19:21] ddary, quitting. (Client Quit)
 [2014-11-27 19:19:42] ddary, joining. (#selendroid)
 [2014-11-27 19:56:36] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-27 20:46:12] selendroid-git, joining. (#selendroid)
+[2014-11-27 20:46:12] selendroid-git: [selendroid] DominikDary created refactor/package-structure (+1 new commit): http://git.io/SD3p_Q
+[2014-11-27 20:46:12] selendroid-git: selendroid/refactor/package-structure 252bce7 Dominik Dary: Introducing package per component....
+[2014-11-27 20:46:12] selendroid-git, leaving. (#selendroid)
