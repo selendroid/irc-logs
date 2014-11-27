@@ -18,3 +18,6 @@
 [2014-11-27 15:18:33] travis-ci, leaving. (#selendroid)
 [2014-11-27 17:15:46] smccarthy, joining. (#selendroid)
 [2014-11-27 18:37:47] smikloso, quitting. (Quit: Leaving.)
+[2014-11-27 19:17:57] ddary, joining. (#selendroid)
+[2014-11-27 19:19:21] ddary, quitting. (Client Quit)
+[2014-11-27 19:19:42] ddary, joining. (#selendroid)
