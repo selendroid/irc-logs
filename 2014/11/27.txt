@@ -11,3 +11,8 @@
 [2014-11-27 15:14:32] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/vC3gVg
 [2014-11-27 15:14:32] selendroid-git: selendroid/master bac3731 Martin Konicek: Better exeption message when the extension dex file does not exist...
 [2014-11-27 15:14:32] selendroid-git, leaving. (#selendroid)
+[2014-11-27 15:18:32] travis-ci, joining. (#selendroid)
+[2014-11-27 15:18:32] travis-ci: selendroid/selendroid#477 (master - bac3731 : Martin Konicek): The build passed.
+[2014-11-27 15:18:32] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/cd07b1aaf1c3...bac3731293e7
+[2014-11-27 15:18:32] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/42310571
+[2014-11-27 15:18:33] travis-ci, leaving. (#selendroid)
