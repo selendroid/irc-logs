@@ -7,3 +7,7 @@
 [2014-11-27 13:51:58] mniebes, joining. (#selendroid)
 [2014-11-27 14:17:08] mniebes, quitting. (Ping timeout: 255 seconds)
 [2014-11-27 14:44:03] mniebes, joining. (#selendroid)
+[2014-11-27 15:14:32] selendroid-git, joining. (#selendroid)
+[2014-11-27 15:14:32] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/vC3gVg
+[2014-11-27 15:14:32] selendroid-git: selendroid/master bac3731 Martin Konicek: Better exeption message when the extension dex file does not exist...
+[2014-11-27 15:14:32] selendroid-git, leaving. (#selendroid)
