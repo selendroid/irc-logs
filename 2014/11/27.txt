@@ -5,3 +5,4 @@
 [2014-11-27 06:29:43] smccarthy, quitting. (Quit: Leaving...)
 [2014-11-27 11:15:22] smikloso, joining. (#selendroid)
 [2014-11-27 13:51:58] mniebes, joining. (#selendroid)
+[2014-11-27 14:17:08] mniebes, quitting. (Ping timeout: 255 seconds)
