@@ -26,3 +26,7 @@
 [2014-11-27 20:46:12] selendroid-git: [selendroid] DominikDary created refactor/package-structure (+1 new commit): http://git.io/SD3p_Q
 [2014-11-27 20:46:12] selendroid-git: selendroid/refactor/package-structure 252bce7 Dominik Dary: Introducing package per component....
 [2014-11-27 20:46:12] selendroid-git, leaving. (#selendroid)
+[2014-11-27 21:01:40] selendroid-git, joining. (#selendroid)
+[2014-11-27 21:01:40] selendroid-git: [selendroid] DominikDary opened pull request #725: Introducing package per component. (master...refactor/package-structure) http://git.io/E9KVPQ
+[2014-11-27 21:01:41] selendroid-git, leaving. (#selendroid)
+[2014-11-27 21:02:14] ddary, leaving. (#selendroid)
