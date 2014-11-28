@@ -21,3 +21,4 @@
 [2014-11-28 17:00:41] selendroid-git: selendroid/master 9899e6e Dominik Dary: Update changelog.md
 [2014-11-28 17:00:41] selendroid-git, leaving. (#selendroid)
 [2014-11-28 18:53:01] maan_, joining. (#selendroid)
+[2014-11-28 19:03:48] ddary, joining. (#selendroid)
