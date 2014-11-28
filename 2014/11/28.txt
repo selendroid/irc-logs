@@ -22,3 +22,7 @@
 [2014-11-28 17:00:41] selendroid-git, leaving. (#selendroid)
 [2014-11-28 18:53:01] maan_, joining. (#selendroid)
 [2014-11-28 19:03:48] ddary, joining. (#selendroid)
+[2014-11-28 19:19:47] selendroid-git, joining. (#selendroid)
+[2014-11-28 19:19:48] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/gXSQwA
+[2014-11-28 19:19:48] selendroid-git: selendroid/master 87ca736 Dominik Dary: Cleaning up package refactoring...
+[2014-11-28 19:19:48] selendroid-git, leaving. (#selendroid)
