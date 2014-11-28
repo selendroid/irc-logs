@@ -16,3 +16,7 @@
 [2014-11-28 13:26:07] mniebes, quitting. (Remote host closed the connection)
 [2014-11-28 15:50:40] smccarthy, joining. (#selendroid)
 [2014-11-28 16:25:56] smikloso, leaving. (#selendroid)
+[2014-11-28 17:00:41] selendroid-git, joining. (#selendroid)
+[2014-11-28 17:00:41] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/VhRvUQ
+[2014-11-28 17:00:41] selendroid-git: selendroid/master 9899e6e Dominik Dary: Update changelog.md
+[2014-11-28 17:00:41] selendroid-git, leaving. (#selendroid)
