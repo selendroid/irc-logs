@@ -1,3 +1,7 @@
 [2014-11-28 09:55:59] smikloso, joining. (#selendroid)
 [2014-11-28 11:23:52] mniebes, quitting. (Ping timeout: 240 seconds)
 [2014-11-28 11:45:12] mniebes, joining. (#selendroid)
+[2014-11-28 12:24:39] selendroid-git, joining. (#selendroid)
+[2014-11-28 12:24:39] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/ATUZAw
+[2014-11-28 12:24:39] selendroid-git: selendroid/master 08d3619 Martin Konicek: Merge pull request #725 from selendroid/refactor/package-structure...
+[2014-11-28 12:24:39] selendroid-git, leaving. (#selendroid)
