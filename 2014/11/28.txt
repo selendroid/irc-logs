@@ -5,3 +5,8 @@
 [2014-11-28 12:24:39] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/ATUZAw
 [2014-11-28 12:24:39] selendroid-git: selendroid/master 08d3619 Martin Konicek: Merge pull request #725 from selendroid/refactor/package-structure...
 [2014-11-28 12:24:39] selendroid-git, leaving. (#selendroid)
+[2014-11-28 12:38:53] travis-ci, joining. (#selendroid)
+[2014-11-28 12:38:53] travis-ci: selendroid/selendroid#479 (master - 08d3619 : Martin Konicek): The build passed.
+[2014-11-28 12:38:53] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/bac3731293e7...08d361938b7a
+[2014-11-28 12:38:53] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/42384250
+[2014-11-28 12:38:53] travis-ci, leaving. (#selendroid)
