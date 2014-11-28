@@ -10,3 +10,6 @@
 [2014-11-28 12:38:53] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/bac3731293e7...08d361938b7a
 [2014-11-28 12:38:53] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/42384250
 [2014-11-28 12:38:53] travis-ci, leaving. (#selendroid)
+[2014-11-28 12:59:49] selendroid-git, joining. (#selendroid)
+[2014-11-28 12:59:49] selendroid-git: [selendroid] asm89 deleted refactor/package-structure at 252bce7: http://git.io/8u-Tqg
+[2014-11-28 12:59:49] selendroid-git, leaving. (#selendroid)
