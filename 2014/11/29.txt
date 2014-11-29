@@ -4,3 +4,8 @@
 [2014-11-29 06:56:08] rlux, quitting. ()
 [2014-11-29 17:15:51] smccarthy, joining. (#selendroid)
 [2014-11-29 19:05:35] smccarthy, quitting. (Quit: Leaving...)
+[2014-11-29 20:31:47] travis-ci, joining. (#selendroid)
+[2014-11-29 20:31:47] travis-ci: binhvu/selendroid#2 (master - 87ca736 : Dominik Dary): The build is still failing.
+[2014-11-29 20:31:47] travis-ci: Change view : https://github.com/binhvu/selendroid/compare/cd07b1aaf1c3...87ca73610987
+[2014-11-29 20:31:47] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid/builds/42495493
+[2014-11-29 20:31:47] travis-ci, leaving. (#selendroid)
