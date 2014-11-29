@@ -3,3 +3,4 @@
 [2014-11-29 06:50:53] rlux, joining. (#selendroid)
 [2014-11-29 06:56:08] rlux, quitting. ()
 [2014-11-29 17:15:51] smccarthy, joining. (#selendroid)
+[2014-11-29 19:05:35] smccarthy, quitting. (Quit: Leaving...)
