@@ -12,3 +12,4 @@
 [2014-11-29 21:16:12] Miog, joining. (#selendroid)
 [2014-11-29 21:18:40] Miog: Hi!
 [2014-11-29 21:19:02] Miog: At now read from the selendroid, and I have a question. The question is. Is it possible testing NFC from native APP? Means my app use NFC (read nfc card), and the app process the card rfuid.
+[2014-11-29 22:30:57] Miog, quitting. (Quit: Page closed)
