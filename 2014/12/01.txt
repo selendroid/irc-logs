@@ -38,3 +38,4 @@
 [2014-12-01 23:03:33] mach6, joining. (#selendroid)
 [2014-12-01 23:36:22] mach6, quitting. (Quit: Be back later ...)
 [2014-12-01 23:36:57] mach6, joining. (#selendroid)
+[2014-12-01 23:41:39] mach6, quitting. (Ping timeout: 272 seconds)
