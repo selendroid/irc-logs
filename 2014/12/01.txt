@@ -23,3 +23,6 @@
 [2014-12-01 18:29:03] lukeis, quitting. (Quit: Leaving.)
 [2014-12-01 18:42:54] ddary, joining. (#selendroid)
 [2014-12-01 18:53:41] maan_, joining. (#selendroid)
+[2014-12-01 19:01:23] lukeis, joining. (#selendroid)
+[2014-12-01 19:02:54] maan_, quitting. (Ping timeout: 258 seconds)
+[2014-12-01 19:03:11] maan_, joining. (#selendroid)
