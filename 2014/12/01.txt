@@ -17,3 +17,4 @@
 [2014-12-01 12:43:37] smikloso, quitting. (Ping timeout: 272 seconds)
 [2014-12-01 14:00:46] smikloso, joining. (#selendroid)
 [2014-12-01 15:24:17] smccarthy, joining. (#selendroid)
+[2014-12-01 15:28:04] smikloso, leaving. (#selendroid)
