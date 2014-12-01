@@ -22,3 +22,4 @@
 [2014-12-01 17:50:34] lukeis, joining. (#selendroid)
 [2014-12-01 18:29:03] lukeis, quitting. (Quit: Leaving.)
 [2014-12-01 18:42:54] ddary, joining. (#selendroid)
+[2014-12-01 18:53:41] maan_, joining. (#selendroid)
