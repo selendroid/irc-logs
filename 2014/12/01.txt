@@ -13,3 +13,4 @@
 [2014-12-01 03:30:17] detronizator, quitting. (Ping timeout: 240 seconds)
 [2014-12-01 04:14:00] detronizator, joining. (#selendroid)
 [2014-12-01 04:51:39] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-01 09:49:44] smikloso, joining. (#selendroid)
