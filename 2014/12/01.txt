@@ -36,3 +36,5 @@
 [2014-12-01 21:45:04] lukeis, quitting. (Quit: Leaving.)
 [2014-12-01 22:14:55] lukeis, joining. (#selendroid)
 [2014-12-01 23:03:33] mach6, joining. (#selendroid)
+[2014-12-01 23:36:22] mach6, quitting. (Quit: Be back later ...)
+[2014-12-01 23:36:57] mach6, joining. (#selendroid)
