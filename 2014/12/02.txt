@@ -25,3 +25,7 @@
 [2014-12-02 11:33:23] ddary, leaving. (#selendroid)
 [2014-12-02 12:52:29] ddary, joining. (#selendroid)
 [2014-12-02 14:11:49] ddary, quitting. (Quit: ddary)
+[2014-12-02 14:33:06] selendroid-git, joining. (#selendroid)
+[2014-12-02 14:33:06] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/8rnhug
+[2014-12-02 14:33:06] selendroid-git: selendroid/master c7d49e8 Martin Konicek: Simpler handlers in selendroid-standalone...
+[2014-12-02 14:33:06] selendroid-git, leaving. (#selendroid)
