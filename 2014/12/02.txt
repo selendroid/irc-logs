@@ -51,3 +51,6 @@
 [2014-12-02 20:49:25] maan_, joining. (#selendroid)
 [2014-12-02 20:53:53] maan_, quitting. (Ping timeout: 264 seconds)
 [2014-12-02 20:57:00] lukeis, quitting. (Quit: Leaving.)
+[2014-12-02 21:30:02] mach6, joining. (#selendroid)
+[2014-12-02 21:32:30] mach6_, joining. (#selendroid)
+[2014-12-02 21:32:52] mach6_, quitting. (Client Quit)
