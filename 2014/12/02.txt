@@ -47,3 +47,5 @@
 [2014-12-02 19:42:09] travis-ci, leaving. (#selendroid)
 [2014-12-02 19:55:53] maan_, quitting. (Remote host closed the connection)
 [2014-12-02 19:56:32] maan_, joining. (#selendroid)
+[2014-12-02 20:48:53] maan_, quitting. (Remote host closed the connection)
+[2014-12-02 20:49:25] maan_, joining. (#selendroid)
