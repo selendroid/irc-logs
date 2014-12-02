@@ -39,3 +39,4 @@
 [2014-12-02 17:27:27] lukeis, joining. (#selendroid)
 [2014-12-02 18:01:07] maan, quitting. (Ping timeout: 245 seconds)
 [2014-12-02 19:02:35] maan_, joining. (#selendroid)
+[2014-12-02 19:25:07] smikloso, leaving. (#selendroid)
