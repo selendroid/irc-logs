@@ -13,3 +13,5 @@
 [2014-12-02 05:15:02] rlux, joining. (#selendroid)
 [2014-12-02 07:10:53] rlux86, joining. (#selendroid)
 [2014-12-02 07:10:53] rlux, quitting. (Read error: Connection reset by peer)
+[2014-12-02 07:26:37] rlux86, quitting. (Read error: Connection reset by peer)
+[2014-12-02 07:26:44] rlux, joining. (#selendroid)
