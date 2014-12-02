@@ -57,3 +57,4 @@
 [2014-12-02 21:35:55] mach6, quitting. (Ping timeout: 244 seconds)
 [2014-12-02 22:35:31] lukeis, joining. (#selendroid)
 [2014-12-02 22:58:57] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2014-12-02 23:28:00] lukeis, quitting. (Quit: Leaving.)
