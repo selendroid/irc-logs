@@ -2,3 +2,7 @@
 [2014-12-03 03:39:07] smccarthy, joining. (#selendroid)
 [2014-12-03 05:45:16] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-03 11:17:28] smikloso, joining. (#selendroid)
+[2014-12-03 14:41:30] selendroid-git, joining. (#selendroid)
+[2014-12-03 14:41:30] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/m6z8tQ
+[2014-12-03 14:41:30] selendroid-git: selendroid/master 5761608 Martin Konicek: Correctly wait for Selendroid standalone server to come up...
+[2014-12-03 14:41:30] selendroid-git, leaving. (#selendroid)
