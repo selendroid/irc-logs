@@ -19,3 +19,8 @@
 [2014-12-03 18:37:16] maan, joining. (#selendroid)
 [2014-12-03 18:41:51] maan, quitting. (Ping timeout: 272 seconds)
 [2014-12-03 18:45:01] maan, joining. (#selendroid)
+[2014-12-03 18:56:37] travis-ci, joining. (#selendroid)
+[2014-12-03 18:56:37] travis-ci: binhvu/selendroid_forked#4 (master - 5761608 : Martin Konicek): The build is still failing.
+[2014-12-03 18:56:37] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/c7d49e8376bd...576160835d2b
+[2014-12-03 18:56:37] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/42889085
+[2014-12-03 18:56:37] travis-ci, leaving. (#selendroid)
