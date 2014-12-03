@@ -35,3 +35,4 @@
 [2014-12-03 21:07:18] selendroid-git: [selendroid] darraghgrace opened pull request #730: Register capabilities grid (master...register-capabilities-grid) http://git.io/6mMm0A
 [2014-12-03 21:07:18] selendroid-git, leaving. (#selendroid)
 [2014-12-03 22:26:37] lukeis, quitting. (Quit: Leaving.)
+[2014-12-03 23:38:56] maan, joining. (#selendroid)
