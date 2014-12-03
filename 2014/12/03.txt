@@ -6,3 +6,8 @@
 [2014-12-03 14:41:30] selendroid-git: [selendroid] mkonicek pushed 1 new commit to master: http://git.io/m6z8tQ
 [2014-12-03 14:41:30] selendroid-git: selendroid/master 5761608 Martin Konicek: Correctly wait for Selendroid standalone server to come up...
 [2014-12-03 14:41:30] selendroid-git, leaving. (#selendroid)
+[2014-12-03 14:48:26] travis-ci, joining. (#selendroid)
+[2014-12-03 14:48:26] travis-ci: selendroid/selendroid#483 (master - 5761608 : Martin Konicek): The build passed.
+[2014-12-03 14:48:26] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/c7d49e8376bd...576160835d2b
+[2014-12-03 14:48:27] travis-ci, leaving. (#selendroid)
+[2014-12-03 14:48:27] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/42862168
