@@ -31,3 +31,6 @@
 [2014-12-03 20:14:44] thu2004, leaving. (#selendroid)
 [2014-12-03 20:38:06] maan, quitting. (Remote host closed the connection)
 [2014-12-03 20:47:57] lukeis, joining. (#selendroid)
+[2014-12-03 21:07:18] selendroid-git, joining. (#selendroid)
+[2014-12-03 21:07:18] selendroid-git: [selendroid] darraghgrace opened pull request #730: Register capabilities grid (master...register-capabilities-grid) http://git.io/6mMm0A
+[2014-12-03 21:07:18] selendroid-git, leaving. (#selendroid)
