@@ -36,3 +36,4 @@
 [2014-12-03 21:07:18] selendroid-git, leaving. (#selendroid)
 [2014-12-03 22:26:37] lukeis, quitting. (Quit: Leaving.)
 [2014-12-03 23:38:56] maan, joining. (#selendroid)
+[2014-12-03 23:43:57] maan, quitting. (Ping timeout: 272 seconds)
