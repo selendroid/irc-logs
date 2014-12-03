@@ -29,3 +29,4 @@
 [2014-12-03 20:10:43] lukeis, quitting. (Quit: Leaving.)
 [2014-12-03 20:10:44] thu2004, joining. (#selendroid)
 [2014-12-03 20:14:44] thu2004, leaving. (#selendroid)
+[2014-12-03 20:38:06] maan, quitting. (Remote host closed the connection)
