@@ -13,3 +13,4 @@
 [2014-12-03 14:48:27] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/42862168
 [2014-12-03 17:06:51] maan, joining. (#selendroid)
 [2014-12-03 17:10:29] smccarthy, joining. (#selendroid)
+[2014-12-03 18:14:21] lukeis, joining. (#selendroid)
