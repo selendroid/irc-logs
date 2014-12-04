@@ -10,3 +10,4 @@
 [2014-12-04 17:19:00] mniebes, quitting. (Ping timeout: 265 seconds)
 [2014-12-04 17:19:38] mniebes, joining. (#selendroid)
 [2014-12-04 17:34:39] lukeis, joining. (#selendroid)
+[2014-12-04 17:41:34] maan, quitting. (Remote host closed the connection)
