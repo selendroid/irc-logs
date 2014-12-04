@@ -7,3 +7,5 @@
 [2014-12-04 16:01:04] mniebes, joining. (#selendroid)
 [2014-12-04 16:28:41] maan, joining. (#selendroid)
 [2014-12-04 16:49:42] smccarthy, joining. (#selendroid)
+[2014-12-04 17:19:00] mniebes, quitting. (Ping timeout: 265 seconds)
+[2014-12-04 17:19:38] mniebes, joining. (#selendroid)
