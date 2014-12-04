@@ -26,3 +26,4 @@
 [2014-12-04 21:24:26] mach6, quitting. (Ping timeout: 256 seconds)
 [2014-12-04 21:25:00] mach6, joining. (#selendroid)
 [2014-12-04 22:43:23] mach6, quitting. (Ping timeout: 252 seconds)
+[2014-12-04 22:56:50] Miog, quitting. (Quit: Page closed)
