@@ -2,3 +2,6 @@
 [2014-12-04 10:37:26] smikloso, joining. (#selendroid)
 [2014-12-04 14:09:12] smccarthy, joining. (#selendroid)
 [2014-12-04 15:13:10] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-04 16:00:04] mniebes, joining. (#selendroid)
+[2014-12-04 16:00:46] mniebes, quitting. (Client Quit)
+[2014-12-04 16:01:04] mniebes, joining. (#selendroid)
