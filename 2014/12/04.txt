@@ -6,3 +6,4 @@
 [2014-12-04 16:00:46] mniebes, quitting. (Client Quit)
 [2014-12-04 16:01:04] mniebes, joining. (#selendroid)
 [2014-12-04 16:28:41] maan, joining. (#selendroid)
+[2014-12-04 16:49:42] smccarthy, joining. (#selendroid)
