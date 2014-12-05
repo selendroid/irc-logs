@@ -21,3 +21,4 @@
 [2014-12-05 04:55:13] selendroid-git: [selendroid] binhvu opened pull request #733: Adding log message to indicate FolderMonitor has been started. (master...master) http://git.io/-25fDg
 [2014-12-05 04:55:13] selendroid-git, leaving. (#selendroid)
 [2014-12-05 07:24:33] mach6, joining. (#selendroid)
+[2014-12-05 08:33:03] mach6, quitting. (Quit: Be back later ...)
