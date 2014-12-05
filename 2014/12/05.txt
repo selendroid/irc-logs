@@ -2,3 +2,8 @@
 [2014-12-05 00:03:47] lukeis, joining. (#selendroid)
 [2014-12-05 01:01:51] lukeis, quitting. (Quit: Leaving.)
 [2014-12-05 01:10:07] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-05 02:27:36] travis-ci, joining. (#selendroid)
+[2014-12-05 02:27:36] travis-ci: binhvu/selendroid_forked#5 (master - b9be004 : Binh Vu): The build is still failing.
+[2014-12-05 02:27:36] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/576160835d2b...b9be004a389f
+[2014-12-05 02:27:36] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/43052315
+[2014-12-05 02:27:36] travis-ci, leaving. (#selendroid)
