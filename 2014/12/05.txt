@@ -53,3 +53,8 @@
 [2014-12-05 19:39:14] ddary, quitting. (Quit: ddary)
 [2014-12-05 19:46:06] ddary, joining. (#selendroid)
 [2014-12-05 19:57:30] ddary, quitting. (Quit: ddary)
+[2014-12-05 20:02:50] travis-ci, joining. (#selendroid)
+[2014-12-05 20:02:50] travis-ci: selendroid/selendroid#488 (master - 7489675 : Dominik Dary): The build was broken.
+[2014-12-05 20:02:50] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/6fbfda18995c...7489675133c6
+[2014-12-05 20:02:50] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/43126568
+[2014-12-05 20:02:50] travis-ci, leaving. (#selendroid)
