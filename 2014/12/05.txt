@@ -31,3 +31,8 @@
 [2014-12-05 15:15:53] smikloso, joining. (#selendroid)
 [2014-12-05 15:17:55] smikloso, leaving. (#selendroid)
 [2014-12-05 15:19:50] smikloso, joining. (#selendroid)
+[2014-12-05 16:03:25] selendroid-git, joining. (#selendroid)
+[2014-12-05 16:03:25] selendroid-git: [selendroid] mkonicek pushed 2 new commits to master: http://git.io/m0kEdg
+[2014-12-05 16:03:25] selendroid-git: selendroid/master b9be004 Binh Vu: Adding log message to indicate FolderMonitor has been started....
+[2014-12-05 16:03:25] selendroid-git: selendroid/master 6fbfda1 Martin Konicek: Merge pull request #733 from binhvu/master...
+[2014-12-05 16:03:25] selendroid-git, leaving. (#selendroid)
