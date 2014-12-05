@@ -52,3 +52,4 @@
 [2014-12-05 19:39:09] selendroid-git, leaving. (#selendroid)
 [2014-12-05 19:39:14] ddary, quitting. (Quit: ddary)
 [2014-12-05 19:46:06] ddary, joining. (#selendroid)
+[2014-12-05 19:57:30] ddary, quitting. (Quit: ddary)
