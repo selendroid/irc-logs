@@ -24,3 +24,4 @@
 [2014-12-05 08:33:03] mach6, quitting. (Quit: Be back later ...)
 [2014-12-05 10:17:27] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-12-05 10:19:25] detronizator, joining. (#selendroid)
+[2014-12-05 10:35:50] smikloso, joining. (#selendroid)
