@@ -51,3 +51,4 @@
 [2014-12-05 19:39:09] selendroid-git: selendroid/master 7489675 Dominik Dary: Merge pull request #731 from mkonicek/master...
 [2014-12-05 19:39:09] selendroid-git, leaving. (#selendroid)
 [2014-12-05 19:39:14] ddary, quitting. (Quit: ddary)
+[2014-12-05 19:46:06] ddary, joining. (#selendroid)
