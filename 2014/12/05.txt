@@ -60,3 +60,8 @@
 [2014-12-05 20:02:50] travis-ci, leaving. (#selendroid)
 [2014-12-05 20:08:01] maan, joining. (#selendroid)
 [2014-12-05 23:24:49] maan, quitting. (Remote host closed the connection)
+[2014-12-05 23:54:38] travis-ci, joining. (#selendroid)
+[2014-12-05 23:54:38] travis-ci: binhvu/selendroid_forked#8 (master - 7489675 : Dominik Dary): The build is still failing.
+[2014-12-05 23:54:38] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/b9be004a389f...7489675133c6
+[2014-12-05 23:54:38] travis-ci, leaving. (#selendroid)
+[2014-12-05 23:54:38] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/43150605
