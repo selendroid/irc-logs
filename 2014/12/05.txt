@@ -43,3 +43,4 @@
 [2014-12-05 16:07:38] travis-ci, leaving. (#selendroid)
 [2014-12-05 16:46:25] smikloso, leaving. (#selendroid)
 [2014-12-05 17:08:31] smccarthy, joining. (#selendroid)
+[2014-12-05 18:10:57] lukeis, joining. (#selendroid)
