@@ -36,3 +36,8 @@
 [2014-12-05 16:03:25] selendroid-git: selendroid/master b9be004 Binh Vu: Adding log message to indicate FolderMonitor has been started....
 [2014-12-05 16:03:25] selendroid-git: selendroid/master 6fbfda1 Martin Konicek: Merge pull request #733 from binhvu/master...
 [2014-12-05 16:03:25] selendroid-git, leaving. (#selendroid)
+[2014-12-05 16:07:37] travis-ci, joining. (#selendroid)
+[2014-12-05 16:07:38] travis-ci: selendroid/selendroid#487 (master - 6fbfda1 : Martin Konicek): The build passed.
+[2014-12-05 16:07:38] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/576160835d2b...6fbfda18995c
+[2014-12-05 16:07:38] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/43102800
+[2014-12-05 16:07:38] travis-ci, leaving. (#selendroid)
