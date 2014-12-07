@@ -1,2 +1,10 @@
 [2014-12-07 18:57:13] smccarthy, joining. (#selendroid)
 [2014-12-07 20:00:18] ddary, joining. (#selendroid)
+[2014-12-07 20:51:10] selendroid-git, joining. (#selendroid)
+[2014-12-07 20:51:10] selendroid-git: [selendroid] binhvu opened pull request #735: Split app name and version in Capabilities. (master...master) http://git.io/IH3bWw
+[2014-12-07 20:51:10] selendroid-git, leaving. (#selendroid)
+[2014-12-07 20:51:39] travis-ci, joining. (#selendroid)
+[2014-12-07 20:51:39] travis-ci: binhvu/selendroid_forked#9 (master - 4d14e83 : Binh Vu): The build is still failing.
+[2014-12-07 20:51:39] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/7489675133c6...4d14e83e5c71
+[2014-12-07 20:51:39] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/43279848
+[2014-12-07 20:51:39] travis-ci, leaving. (#selendroid)
