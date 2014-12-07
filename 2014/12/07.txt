@@ -8,3 +8,4 @@
 [2014-12-07 20:51:39] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/7489675133c6...4d14e83e5c71
 [2014-12-07 20:51:39] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/43279848
 [2014-12-07 20:51:39] travis-ci, leaving. (#selendroid)
+[2014-12-07 21:00:40] ddary, leaving. (#selendroid)
