@@ -3,3 +3,8 @@
 [2014-12-08 01:03:12] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/4d14e83e5c71...9fb12835f3bb
 [2014-12-08 01:03:12] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/43297808
 [2014-12-08 01:03:12] travis-ci, leaving. (#selendroid)
+[2014-12-08 01:16:47] travis-ci, joining. (#selendroid)
+[2014-12-08 01:16:47] travis-ci: binhvu/selendroid_forked#11 (master - c2a8b16 : Binh Vu): The build is still failing.
+[2014-12-08 01:16:47] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/43298574
+[2014-12-08 01:16:47] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/9fb12835f3bb...c2a8b16270e5
+[2014-12-08 01:16:47] travis-ci, leaving. (#selendroid)
