@@ -11,3 +11,4 @@
 [2014-12-08 01:20:24] selendroid-git, joining. (#selendroid)
 [2014-12-08 01:20:24] selendroid-git: [selendroid] binhvu opened pull request #736: Split app name and version in Capabilities. (master...master) http://git.io/rERrFA
 [2014-12-08 01:20:24] selendroid-git, leaving. (#selendroid)
+[2014-12-08 05:00:36] smccarthy, quitting. (Quit: Leaving...)
