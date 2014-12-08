@@ -8,3 +8,6 @@
 [2014-12-08 01:16:47] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/43298574
 [2014-12-08 01:16:47] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/9fb12835f3bb...c2a8b16270e5
 [2014-12-08 01:16:47] travis-ci, leaving. (#selendroid)
+[2014-12-08 01:20:24] selendroid-git, joining. (#selendroid)
+[2014-12-08 01:20:24] selendroid-git: [selendroid] binhvu opened pull request #736: Split app name and version in Capabilities. (master...master) http://git.io/rERrFA
+[2014-12-08 01:20:24] selendroid-git, leaving. (#selendroid)
