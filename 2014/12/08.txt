@@ -29,3 +29,4 @@
 [2014-12-08 18:16:31] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-08 19:02:22] smccarthy, joining. (#selendroid)
 [2014-12-08 20:28:01] lukeis1, changing nick to lukeis.
+[2014-12-08 23:36:49] mach6, joining. (#selendroid)
