@@ -25,3 +25,4 @@
 [2014-12-09 18:23:24] travis-ci, leaving. (#selendroid)
 [2014-12-09 18:53:54] maan_, quitting. (Remote host closed the connection)
 [2014-12-09 20:09:23] pope4president, joining. (#selendroid)
+[2014-12-09 22:22:57] pope4president, quitting. (Quit: Page closed)
