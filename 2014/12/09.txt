@@ -4,3 +4,4 @@
 [2014-12-09 02:36:35] detronizator, joining. (#selendroid)
 [2014-12-09 03:40:05] mach6, quitting. (Ping timeout: 264 seconds)
 [2014-12-09 16:55:31] smccarthy, joining. (#selendroid)
+[2014-12-09 17:28:55] lukeis, joining. (#selendroid)
