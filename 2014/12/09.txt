@@ -9,3 +9,7 @@
 [2014-12-09 17:58:07] selendroid-git: [selendroid] DominikDary closed pull request #730: Register capabilities grid (master...register-capabilities-grid) http://git.io/6mMm0A
 [2014-12-09 17:58:07] selendroid-git, leaving. (#selendroid)
 [2014-12-09 17:59:36] maan_, joining. (#selendroid)
+[2014-12-09 18:00:11] selendroid-git, joining. (#selendroid)
+[2014-12-09 18:00:11] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/fSQs1A
+[2014-12-09 18:00:11] selendroid-git: selendroid/master deb2745 Dominik Dary: Update AUTHORS
+[2014-12-09 18:00:11] selendroid-git, leaving. (#selendroid)
