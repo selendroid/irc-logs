@@ -13,3 +13,8 @@
 [2014-12-09 18:00:11] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/fSQs1A
 [2014-12-09 18:00:11] selendroid-git: selendroid/master deb2745 Dominik Dary: Update AUTHORS
 [2014-12-09 18:00:11] selendroid-git, leaving. (#selendroid)
+[2014-12-09 18:20:00] travis-ci, joining. (#selendroid)
+[2014-12-09 18:20:00] travis-ci: selendroid/selendroid#492 (master - 5506027 : Dominik Dary): The build was fixed.
+[2014-12-09 18:20:00] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/7489675133c6...55060270f60d
+[2014-12-09 18:20:00] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/43495101
+[2014-12-09 18:20:00] travis-ci, leaving. (#selendroid)
