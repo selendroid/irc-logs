@@ -17,3 +17,6 @@
 [2014-12-10 17:13:26] selendroid-git: selendroid/master efdfda8 Martin Konicek: Elements don't need to be enabled to be visible....
 [2014-12-10 17:13:26] selendroid-git: selendroid/master 0991f69 Martin Konicek: Merge pull request #738 from mkonicek/master...
 [2014-12-10 17:13:26] selendroid-git, leaving. (#selendroid)
+[2014-12-10 17:16:31] selendroid-git, joining. (#selendroid)
+[2014-12-10 17:16:31] selendroid-git: [selendroid] mkonicek opened pull request #744: Update AUTHORS (master...master) http://git.io/TbTa-A
+[2014-12-10 17:16:31] selendroid-git, leaving. (#selendroid)
