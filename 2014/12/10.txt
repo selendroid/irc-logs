@@ -9,3 +9,4 @@
 [2014-12-10 11:39:55] prontotest, joining. (#selendroid)
 [2014-12-10 11:39:55] prontotest, leaving. (#selendroid)
 [2014-12-10 15:28:57] smccarthy, joining. (#selendroid)
+[2014-12-10 16:01:15] smccarthy, quitting. (Quit: Leaving...)
