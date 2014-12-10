@@ -35,3 +35,7 @@
 [2014-12-10 17:29:45] selendroid-git, leaving. (#selendroid)
 [2014-12-10 18:57:37] maan_, joining. (#selendroid)
 [2014-12-10 19:05:17] maan_, quitting. (Remote host closed the connection)
+[2014-12-10 19:41:54] ddary, joining. (#selendroid)
+[2014-12-10 19:43:42] selendroid-git, joining. (#selendroid)
+[2014-12-10 19:43:42] selendroid-git: [selendroid] DominikDary closed pull request #745: Update AUTHORS (master...master) http://git.io/72L8yw
+[2014-12-10 19:43:42] selendroid-git, leaving. (#selendroid)
