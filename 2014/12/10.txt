@@ -33,3 +33,4 @@
 [2014-12-10 17:29:45] selendroid-git, joining. (#selendroid)
 [2014-12-10 17:29:45] selendroid-git: [selendroid] mkonicek opened pull request #745: Update AUTHORS (master...master) http://git.io/72L8yw
 [2014-12-10 17:29:45] selendroid-git, leaving. (#selendroid)
+[2014-12-10 18:57:37] maan_, joining. (#selendroid)
