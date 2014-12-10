@@ -39,3 +39,8 @@
 [2014-12-10 19:43:42] selendroid-git, joining. (#selendroid)
 [2014-12-10 19:43:42] selendroid-git: [selendroid] DominikDary closed pull request #745: Update AUTHORS (master...master) http://git.io/72L8yw
 [2014-12-10 19:43:42] selendroid-git, leaving. (#selendroid)
+[2014-12-10 19:55:29] travis-ci, joining. (#selendroid)
+[2014-12-10 19:55:29] travis-ci: selendroid/selendroid#498 (master - ec53832 : Dominik Dary): The build passed.
+[2014-12-10 19:55:29] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/0991f698fa3f...ec538326ccf9
+[2014-12-10 19:55:29] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/43630863
+[2014-12-10 19:55:30] travis-ci, leaving. (#selendroid)
