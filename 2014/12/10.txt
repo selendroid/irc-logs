@@ -53,3 +53,4 @@
 [2014-12-10 22:26:12] selendroid-git: [selendroid] frolix opened pull request #746: Trigger DOM event of type 'INPUT' after changing value of IPUT element (master...InputDomEventOnChangeInputValue) http://git.io/0KvZmA
 [2014-12-10 22:26:12] selendroid-git, leaving. (#selendroid)
 [2014-12-10 22:28:47] ddary, leaving. (#selendroid)
+[2014-12-10 22:30:18] smccarthy, quitting. (Quit: Leaving...)
