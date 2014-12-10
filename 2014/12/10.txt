@@ -10,3 +10,4 @@
 [2014-12-10 11:39:55] prontotest, leaving. (#selendroid)
 [2014-12-10 15:28:57] smccarthy, joining. (#selendroid)
 [2014-12-10 16:01:15] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-10 16:31:58] maan, joining. (#selendroid)
