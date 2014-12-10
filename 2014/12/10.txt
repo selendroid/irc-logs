@@ -23,3 +23,13 @@
 [2014-12-10 17:22:50] selendroid-git: [selendroid] mkonicek closed pull request #744: Update AUTHORS (master...master) http://git.io/TbTa-A
 [2014-12-10 17:22:50] selendroid-git, joining. (#selendroid)
 [2014-12-10 17:22:50] selendroid-git, leaving. (#selendroid)
+[2014-12-10 17:26:20] travis-ci, joining. (#selendroid)
+[2014-12-10 17:26:20] travis-ci: selendroid/selendroid#496 (master - 0991f69 : Martin Konicek): The build passed.
+[2014-12-10 17:26:20] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/deb2745c3013...0991f698fa3f
+[2014-12-10 17:26:20] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/43615275
+[2014-12-10 17:26:21] travis-ci, leaving. (#selendroid)
+[2014-12-10 17:26:23] lukeis, joining. (#selendroid)
+[2014-12-10 17:27:45] maan, quitting. (Remote host closed the connection)
+[2014-12-10 17:29:45] selendroid-git, joining. (#selendroid)
+[2014-12-10 17:29:45] selendroid-git: [selendroid] mkonicek opened pull request #745: Update AUTHORS (master...master) http://git.io/72L8yw
+[2014-12-10 17:29:45] selendroid-git, leaving. (#selendroid)
