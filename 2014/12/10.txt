@@ -2,3 +2,4 @@
 [2014-12-10 00:21:41] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-10 00:28:46] mach6, quitting. (Quit: Be back later ...)
 [2014-12-10 00:52:55] lukeis, quitting. (Ping timeout: 255 seconds)
+[2014-12-10 03:26:34] smccarthy, joining. (#selendroid)
