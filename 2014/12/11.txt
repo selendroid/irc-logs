@@ -74,3 +74,5 @@
 [2014-12-11 21:16:20] ddary: soemthing
 [2014-12-11 21:16:35] lukeis: heh ok :)
 [2014-12-11 21:30:57] ddary, leaving. (#selendroid)
+[2014-12-11 23:00:44] Mitch_, joining. (#selendroid)
+[2014-12-11 23:01:01] Mitch_: Hey, can I request selendroid support in this channel?
