@@ -33,3 +33,13 @@
 [2014-12-11 17:59:06] modeck: most are 4.4+ or 5
 [2014-12-11 17:59:23] modeck: but there's always a chance that something lower will need to be tested
 [2014-12-11 17:59:40] lukeis: if you're automating browsers on them, you should hook them up with chromedriver instead of selendroid
+[2014-12-11 18:00:23] modeck: yep
+[2014-12-11 18:00:25] lukeis: (not as easy :) but should…)
+[2014-12-11 18:00:54] modeck: in cases where there's both default browser and chrome, i need to test both, see?
+[2014-12-11 18:01:06] modeck: so i can have one runner file which runs selenroid
+[2014-12-11 18:01:15] modeck: another runner file for chromedriver
+[2014-12-11 18:01:46] modeck: so, i think the answer to my initial question is...
+[2014-12-11 18:01:50] modeck: "YES"
+[2014-12-11 18:01:57] modeck: @lukeis thanks for your time
+[2014-12-11 18:02:11] lukeis: np ;)
+[2014-12-11 18:03:07] modeck, leaving. (#selendroid)
