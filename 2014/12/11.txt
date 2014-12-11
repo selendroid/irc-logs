@@ -1,3 +1,5 @@
 [2014-12-11 01:02:36] lukeis, quitting. (Quit: Leaving.)
 [2014-12-11 05:20:49] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-11 12:27:38] smikloso, joining. (#selendroid)
+[2014-12-11 14:17:17] detronizator, quitting. (Ping timeout: 264 seconds)
+[2014-12-11 14:18:13] detronizator, joining. (#selendroid)
