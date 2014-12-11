@@ -67,3 +67,9 @@
 [2014-12-11 21:00:37] travis-ci, leaving. (#selendroid)
 [2014-12-11 21:14:33] ddary, joining. (#selendroid)
 [2014-12-11 21:14:55] ddary: hi lukeis
+[2014-12-11 21:15:01] lukeis: hi
+[2014-12-11 21:15:43] ddary: i accidentily push the wrong branch to the selendroid repo as master
+[2014-12-11 21:15:51] ddary: but should be fixed now
+[2014-12-11 21:16:15] ddary: just in case you hear someone saying
+[2014-12-11 21:16:20] ddary: soemthing
+[2014-12-11 21:16:35] lukeis: heh ok :)
