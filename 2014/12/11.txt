@@ -11,3 +11,11 @@
 [2014-12-11 17:17:45] lukeis, joining. (#selendroid)
 [2014-12-11 17:24:54] maan, quitting. (Remote host closed the connection)
 [2014-12-11 17:26:25] smikloso, leaving. (#selendroid)
+[2014-12-11 17:32:27] modeck, joining. (#selendroid)
+[2014-12-11 17:32:36] modeck: hi
+[2014-12-11 17:32:52] modeck: this is a dumbass question but here goes
+[2014-12-11 17:33:31] modeck: the Selendroid Android Driver Webview App (hereinafter ADWA)
+[2014-12-11 17:34:03] modeck: on an android device which has the 'default' browser, the ADWA opens the default browser within the ADWA
+[2014-12-11 17:34:25] modeck: on newer Android devices, where chrome is the default browser (default/stock browser does not exist)
+[2014-12-11 17:34:37] modeck: the ADWA opens an instance of chrome
+[2014-12-11 17:34:39] modeck: correct?
