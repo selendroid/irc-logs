@@ -8,3 +8,4 @@
 [2014-12-11 16:13:28] selendroid-git, joining. (#selendroid)
 [2014-12-11 16:13:28] selendroid-git: [selendroid] operatiay opened pull request #747: Adb shell input roll (master...adb_shell_input_roll) http://git.io/M1ciaw
 [2014-12-11 16:13:28] selendroid-git, leaving. (#selendroid)
+[2014-12-11 17:17:45] lukeis, joining. (#selendroid)
