@@ -3,3 +3,5 @@
 [2014-12-11 12:27:38] smikloso, joining. (#selendroid)
 [2014-12-11 14:17:17] detronizator, quitting. (Ping timeout: 264 seconds)
 [2014-12-11 14:18:13] detronizator, joining. (#selendroid)
+[2014-12-11 16:04:09] smccarthy, joining. (#selendroid)
+[2014-12-11 16:04:46] maan, joining. (#selendroid)
