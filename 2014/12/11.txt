@@ -19,3 +19,17 @@
 [2014-12-11 17:34:25] modeck: on newer Android devices, where chrome is the default browser (default/stock browser does not exist)
 [2014-12-11 17:34:37] modeck: the ADWA opens an instance of chrome
 [2014-12-11 17:34:39] modeck: correct?
+[2014-12-11 17:55:51] lukeis: the ADWA uses a WebView… the OS of android will potentially supply one like the default browser in older versions of android and *may* supply the chrome one in newer versions
+[2014-12-11 17:56:07] lukeis: if you want to automate chrome directly on android, just use chromedriver :)
+[2014-12-11 17:56:18] lukeis: modeck: ^
+[2014-12-11 17:57:14] modeck: @lukeis, yes, indeed
+[2014-12-11 17:57:41] modeck: i'mjust wondering if ADWA serves chrome in the absence of the [older] default/stock browser
+[2014-12-11 17:58:08] lukeis: only if the OS version you're running on provides the chrome webview
+[2014-12-11 17:58:29] modeck: which OS?
+[2014-12-11 17:58:31] lukeis: which in this case, is highly likely
+[2014-12-11 17:58:36] lukeis: Android OS
+[2014-12-11 17:58:39] modeck: OK
+[2014-12-11 17:58:53] modeck: i have a number of different devices running on a selendroid grid
+[2014-12-11 17:59:06] modeck: most are 4.4+ or 5
+[2014-12-11 17:59:23] modeck: but there's always a chance that something lower will need to be tested
+[2014-12-11 17:59:40] lukeis: if you're automating browsers on them, you should hook them up with chromedriver instead of selendroid
