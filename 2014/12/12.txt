@@ -32,3 +32,6 @@
 [2014-12-12 21:14:34] dom___: im trying with 11.0 again to verify one sec
 [2014-12-12 21:22:02] dom___: Yup, definitly works with 11.0 and not with 12.0
 [2014-12-12 21:32:37] dom___: Seems to me like it re-clicks the text box for every word in the sentence and then it gets to a point where its clicking over words
+[2014-12-12 21:52:51] dom___, quitting. (Quit: Page closed)
+[2014-12-12 21:53:14] dom___, joining. (#selendroid)
+[2014-12-12 21:54:52] dom___: Hey Lukeis, sorry to bug you :P but did you have a chance to look at the sendKeys() issue?
