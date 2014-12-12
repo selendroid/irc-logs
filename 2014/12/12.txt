@@ -38,3 +38,6 @@
 [2014-12-12 21:56:55] lukeis: sorry, no, was just in a meeting :)
 [2014-12-12 21:58:40] dom___: OK np :P
 [2014-12-12 22:03:28] dom___: I'll keep in touch with this same username, maybe you could let know in the future of a work around or if it's going to be fixed in the next release :) Thanks!
+[2014-12-12 22:06:22] lukeis: so i was having issues with sending lots of text too, so i break it up in chunks
+[2014-12-12 22:07:15] dom___: i tried that to but it also wasn't working to well
+[2014-12-12 22:07:25] dom___: i broke it up by " " space
