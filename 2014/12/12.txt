@@ -18,3 +18,11 @@
 [2014-12-12 20:57:56] dom___: native
 [2014-12-12 20:58:28] lukeis: ok… for the most part selendroid just delegates to instrumentation.sendKeysAsync (i think)
 [2014-12-12 20:59:28] lukeis1, joining. (#selendroid)
+[2014-12-12 21:01:08] dom___: instrumentation.sendKeysAsync?
+[2014-12-12 21:01:36] lukeis2, joining. (#selendroid)
+[2014-12-12 21:03:22] lukeis3, joining. (#selendroid)
+[2014-12-12 21:03:37] lukeis, quitting. (Ping timeout: 272 seconds)
+[2014-12-12 21:04:37] lukeis3, changing nick to lukeis.
+[2014-12-12 21:04:38] lukeis1, quitting. (Ping timeout: 265 seconds)
+[2014-12-12 21:04:54] lukeis: sorry… network issues
+[2014-12-12 21:04:58] lukeis: dom___: so, are you sure 0.11 works and 0.12 doesn't?
