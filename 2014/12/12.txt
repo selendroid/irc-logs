@@ -14,3 +14,7 @@
 [2014-12-12 20:51:18] dom___: keep overlapping text for me
 [2014-12-12 20:52:08] dom___: on pretty much and text box in my app
 [2014-12-12 20:52:11] dom___: any*
+[2014-12-12 20:55:49] lukeis: sounds odd… for a native element or for a web element?
+[2014-12-12 20:57:56] dom___: native
+[2014-12-12 20:58:28] lukeis: ok… for the most part selendroid just delegates to instrumentation.sendKeysAsync (i think)
+[2014-12-12 20:59:28] lukeis1, joining. (#selendroid)
