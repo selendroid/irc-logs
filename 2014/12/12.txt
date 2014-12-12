@@ -31,3 +31,4 @@
 [2014-12-12 21:06:30] dom___: i upgraded to 0.12.0 because choosing device by serial id wasn't working, then sending keys with a "fairly" long sentence started overlapping text
 [2014-12-12 21:14:34] dom___: im trying with 11.0 again to verify one sec
 [2014-12-12 21:22:02] dom___: Yup, definitly works with 11.0 and not with 12.0
+[2014-12-12 21:32:37] dom___: Seems to me like it re-clicks the text box for every word in the sentence and then it gets to a point where its clicking over words
