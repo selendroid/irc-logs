@@ -26,3 +26,6 @@
 [2014-12-12 21:04:38] lukeis1, quitting. (Ping timeout: 265 seconds)
 [2014-12-12 21:04:54] lukeis: sorry… network issues
 [2014-12-12 21:04:58] lukeis: dom___: so, are you sure 0.11 works and 0.12 doesn't?
+[2014-12-12 21:05:21] dom___: yeah
+[2014-12-12 21:05:37] lukeis2, quitting. (Ping timeout: 240 seconds)
+[2014-12-12 21:06:30] dom___: i upgraded to 0.12.0 because choosing device by serial id wasn't working, then sending keys with a "fairly" long sentence started overlapping text
