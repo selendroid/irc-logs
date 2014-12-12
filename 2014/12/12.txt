@@ -37,3 +37,4 @@
 [2014-12-12 21:54:52] dom___: Hey Lukeis, sorry to bug you :P but did you have a chance to look at the sendKeys() issue?
 [2014-12-12 21:56:55] lukeis: sorry, no, was just in a meeting :)
 [2014-12-12 21:58:40] dom___: OK np :P
+[2014-12-12 22:03:28] dom___: I'll keep in touch with this same username, maybe you could let know in the future of a work around or if it's going to be fixed in the next release :) Thanks!
