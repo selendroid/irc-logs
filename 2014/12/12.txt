@@ -35,3 +35,5 @@
 [2014-12-12 21:52:51] dom___, quitting. (Quit: Page closed)
 [2014-12-12 21:53:14] dom___, joining. (#selendroid)
 [2014-12-12 21:54:52] dom___: Hey Lukeis, sorry to bug you :P but did you have a chance to look at the sendKeys() issue?
+[2014-12-12 21:56:55] lukeis: sorry, no, was just in a meeting :)
+[2014-12-12 21:58:40] dom___: OK np :P
