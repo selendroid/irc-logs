@@ -30,3 +30,4 @@
 [2014-12-12 21:05:37] lukeis2, quitting. (Ping timeout: 240 seconds)
 [2014-12-12 21:06:30] dom___: i upgraded to 0.12.0 because choosing device by serial id wasn't working, then sending keys with a "fairly" long sentence started overlapping text
 [2014-12-12 21:14:34] dom___: im trying with 11.0 again to verify one sec
+[2014-12-12 21:22:02] dom___: Yup, definitly works with 11.0 and not with 12.0
