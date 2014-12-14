@@ -2,3 +2,4 @@
 [2014-12-14 04:47:43] asm89, quitting. (Ping timeout: 240 seconds)
 [2014-12-14 05:03:13] asm89, joining. (#selendroid)
 [2014-12-14 06:32:17] smccarthy, quitting. (*.net *.split)
+[2014-12-14 06:48:21] smccarthy, joining. (#selendroid)
