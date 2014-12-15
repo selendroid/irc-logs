@@ -32,3 +32,8 @@
 [2014-12-15 20:59:22] lukeis: hi ddary
 [2014-12-15 20:59:30] ddary: how are you doing?
 [2014-12-15 20:59:43] lukeis: very well
+[2014-12-15 21:00:04] lukeis: how about you?
+[2014-12-15 21:01:14] ddary: good good
+[2014-12-15 21:01:29] ddary: I just have seen this one:
+[2014-12-15 21:01:30] ddary: https://github.com/appium/appium/issues/4195
+[2014-12-15 21:01:59] ddary: do you know how is the plan of multitouch support in selenium?
