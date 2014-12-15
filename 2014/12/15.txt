@@ -23,3 +23,12 @@
 [2014-12-15 20:47:47] selendroid-git, joining. (#selendroid)
 [2014-12-15 20:47:47] selendroid-git: [selendroid] DominikDary closed pull request #754: Remove temporary multi touch code (master...cleanup) http://git.io/Dak41w
 [2014-12-15 20:47:47] selendroid-git, leaving. (#selendroid)
+[2014-12-15 20:58:15] ddary: hi lukeis
+[2014-12-15 20:58:37] travis-ci, joining. (#selendroid)
+[2014-12-15 20:58:37] travis-ci: selendroid/selendroid#507 (master - 47b1b22 : Dominik Dary): The build passed.
+[2014-12-15 20:58:37] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/ec538326ccf9...47b1b2253ec5
+[2014-12-15 20:58:37] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/44125816
+[2014-12-15 20:58:37] travis-ci, leaving. (#selendroid)
+[2014-12-15 20:59:22] lukeis: hi ddary
+[2014-12-15 20:59:30] ddary: how are you doing?
+[2014-12-15 20:59:43] lukeis: very well
