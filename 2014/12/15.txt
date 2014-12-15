@@ -37,3 +37,8 @@
 [2014-12-15 21:01:29] ddary: I just have seen this one:
 [2014-12-15 21:01:30] ddary: https://github.com/appium/appium/issues/4195
 [2014-12-15 21:01:59] ddary: do you know how is the plan of multitouch support in selenium?
+[2014-12-15 21:06:14] lukeis: as apart of the w3c spec, and thus in like 3.0 or 4.0
+[2014-12-15 21:07:08] ddary: ah ok
+[2014-12-15 21:07:28] ddary: and what is the best way to support it upfront in other language bindings?
+[2014-12-15 21:07:43] ddary: work and support the appium bindings?
+[2014-12-15 21:07:53] ddary: ;-)
