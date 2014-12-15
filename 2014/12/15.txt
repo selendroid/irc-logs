@@ -48,3 +48,7 @@
 [2014-12-15 21:12:51] ddary: :-)
 [2014-12-15 21:12:59] ddary: when is the next spec meeting?
 [2014-12-15 21:15:00] lukeis: there isn't one scheduled and we decided the mailing list would be used to try to get us to 1.0 of the spec
+[2014-12-15 21:15:19] lukeis: fyi https://github.com/w3c/web-platform-tests/tree/master/webdriver
+[2014-12-15 21:17:27] ddary: i subscribed to the w3c group but i never get mails there
+[2014-12-15 21:17:35] ddary: do you get mails there?
+[2014-12-15 21:17:42] lukeis: there haven't been any in a while
