@@ -42,3 +42,9 @@
 [2014-12-15 21:07:28] ddary: and what is the best way to support it upfront in other language bindings?
 [2014-12-15 21:07:43] ddary: work and support the appium bindings?
 [2014-12-15 21:07:53] ddary: ;-)
+[2014-12-15 21:12:24] lukeis: work and support the spec :)
+[2014-12-15 21:12:31] lukeis: and add spec tests
+[2014-12-15 21:12:44] lukeis: and have selendroid pass those spec tests :)
+[2014-12-15 21:12:51] ddary: :-)
+[2014-12-15 21:12:59] ddary: when is the next spec meeting?
+[2014-12-15 21:15:00] lukeis: there isn't one scheduled and we decided the mailing list would be used to try to get us to 1.0 of the spec
