@@ -10,3 +10,6 @@
 [2014-12-15 14:14:49] operatiay, joining. (#selendroid)
 [2014-12-15 14:43:56] smccarthy, joining. (#selendroid)
 [2014-12-15 15:07:33] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-15 15:34:15] selendroid-git, joining. (#selendroid)
+[2014-12-15 15:34:15] selendroid-git: [selendroid] mkonicek opened pull request #753: Don't call waitForIdleSync() before sending keys (master...master) http://git.io/i7-kng
+[2014-12-15 15:34:15] selendroid-git, leaving. (#selendroid)
