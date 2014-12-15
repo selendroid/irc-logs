@@ -15,3 +15,6 @@
 [2014-12-15 15:34:15] selendroid-git, leaving. (#selendroid)
 [2014-12-15 18:01:40] operatiay, quitting. (Remote host closed the connection)
 [2014-12-15 18:06:07] lukeis, joining. (#selendroid)
+[2014-12-15 18:18:24] selendroid-git, joining. (#selendroid)
+[2014-12-15 18:18:24] selendroid-git: [selendroid] mkonicek opened pull request #754: Remove temporary multi touch code (master...cleanup) http://git.io/Dak41w
+[2014-12-15 18:18:24] selendroid-git, leaving. (#selendroid)
