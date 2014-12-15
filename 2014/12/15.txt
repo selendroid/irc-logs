@@ -19,3 +19,7 @@
 [2014-12-15 18:18:24] selendroid-git: [selendroid] mkonicek opened pull request #754: Remove temporary multi touch code (master...cleanup) http://git.io/Dak41w
 [2014-12-15 18:18:24] selendroid-git, leaving. (#selendroid)
 [2014-12-15 19:19:06] smccarthy, joining. (#selendroid)
+[2014-12-15 20:46:52] ddary, joining. (#selendroid)
+[2014-12-15 20:47:47] selendroid-git, joining. (#selendroid)
+[2014-12-15 20:47:47] selendroid-git: [selendroid] DominikDary closed pull request #754: Remove temporary multi touch code (master...cleanup) http://git.io/Dak41w
+[2014-12-15 20:47:47] selendroid-git, leaving. (#selendroid)
