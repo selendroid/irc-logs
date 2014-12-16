@@ -28,3 +28,6 @@
 [2014-12-16 20:01:27] maan_, quitting. (Remote host closed the connection)
 [2014-12-16 20:02:05] maan_, joining. (#selendroid)
 [2014-12-16 20:07:00] maan_, quitting. (Ping timeout: 264 seconds)
+[2014-12-16 20:12:12] selendroid-git, joining. (#selendroid)
+[2014-12-16 20:12:13] selendroid-git: [selendroid] lukeis closed pull request #747: Adb shell input roll (master...adb_shell_input_roll) http://git.io/M1ciaw
+[2014-12-16 20:12:13] selendroid-git, leaving. (#selendroid)
