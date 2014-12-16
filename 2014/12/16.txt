@@ -37,3 +37,6 @@
 [2014-12-16 20:16:46] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/44243347
 [2014-12-16 20:16:46] travis-ci, leaving. (#selendroid)
 [2014-12-16 20:48:37] operatiay, joining. (#selendroid)
+[2014-12-16 21:27:32] selendroid-git, joining. (#selendroid)
+[2014-12-16 21:27:32] selendroid-git: [selendroid] frolix opened pull request #756: Grid auto register (master...GridAutoRegister) http://git.io/1kllLQ
+[2014-12-16 21:27:32] selendroid-git, leaving. (#selendroid)
