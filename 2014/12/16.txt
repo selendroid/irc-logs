@@ -31,3 +31,8 @@
 [2014-12-16 20:12:12] selendroid-git, joining. (#selendroid)
 [2014-12-16 20:12:13] selendroid-git: [selendroid] lukeis closed pull request #747: Adb shell input roll (master...adb_shell_input_roll) http://git.io/M1ciaw
 [2014-12-16 20:12:13] selendroid-git, leaving. (#selendroid)
+[2014-12-16 20:16:46] travis-ci, joining. (#selendroid)
+[2014-12-16 20:16:46] travis-ci: selendroid/selendroid#509 (master - 293ac9e : Luke Inman-Semerau): The build passed.
+[2014-12-16 20:16:46] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/47b1b2253ec5...293ac9e30ae1
+[2014-12-16 20:16:46] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/44243347
+[2014-12-16 20:16:46] travis-ci, leaving. (#selendroid)
