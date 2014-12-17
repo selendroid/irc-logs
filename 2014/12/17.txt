@@ -17,3 +17,8 @@
 [2014-12-17 15:01:52] selendroid-git: selendroid/master fbc46a5 Martin Konicek: No need for separate variable
 [2014-12-17 15:01:52] selendroid-git: selendroid/master 21b58e0 Martin Konicek: Remove unncessary import
 [2014-12-17 15:01:52] selendroid-git, leaving. (#selendroid)
+[2014-12-17 15:06:17] travis-ci, joining. (#selendroid)
+[2014-12-17 15:06:17] travis-ci: selendroid/selendroid#512 (master - d1b1cc8 : Martin Konicek): The build passed.
+[2014-12-17 15:06:17] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/293ac9e30ae1...d1b1cc8577e0
+[2014-12-17 15:06:17] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/44329996
+[2014-12-17 15:06:17] travis-ci, leaving. (#selendroid)
