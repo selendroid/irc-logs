@@ -55,3 +55,8 @@
 [2014-12-17 20:10:36] mach6_, quitting. (Ping timeout: 256 seconds)
 [2014-12-17 23:06:35] mach6___, joining. (#selendroid)
 [2014-12-17 23:10:34] mach6__, quitting. (Ping timeout: 250 seconds)
+[2014-12-17 23:19:14] travis-ci, joining. (#selendroid)
+[2014-12-17 23:19:14] travis-ci: binhvu/selendroid_forked#18 (master - 326d7b1 : Binh Vu): The build is still failing.
+[2014-12-17 23:19:15] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/422ffe07a08f...326d7b1ae325
+[2014-12-17 23:19:15] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/44388270
+[2014-12-17 23:19:15] travis-ci, leaving. (#selendroid)
