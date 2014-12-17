@@ -11,3 +11,9 @@
 [2014-12-17 11:19:30] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-12-17 12:43:54] operatiay, quitting. (Remote host closed the connection)
 [2014-12-17 13:08:28] operatiay, joining. (#selendroid)
+[2014-12-17 15:01:52] selendroid-git, joining. (#selendroid)
+[2014-12-17 15:01:52] selendroid-git: [selendroid] mkonicek pushed 6 new commits to master: http://git.io/9s-sTA
+[2014-12-17 15:01:52] selendroid-git: selendroid/master 14abf6c Martin Konicek: Don't call waitForIdleSync() before sending keys.
+[2014-12-17 15:01:52] selendroid-git: selendroid/master fbc46a5 Martin Konicek: No need for separate variable
+[2014-12-17 15:01:52] selendroid-git: selendroid/master 21b58e0 Martin Konicek: Remove unncessary import
+[2014-12-17 15:01:52] selendroid-git, leaving. (#selendroid)
