@@ -27,3 +27,8 @@
 [2014-12-17 17:28:55] dom___, joining. (#selendroid)
 [2014-12-17 17:30:58] dom___: lukeis around?
 [2014-12-17 17:32:19] dom___: brought up a bug last week with selendroid's sendkeys() last week, looking for any updates
+[2014-12-17 17:43:37] lukeis, joining. (#selendroid)
+[2014-12-17 17:44:30] dom___: hey lukeis :)
+[2014-12-17 17:44:41] lukeis: hi
+[2014-12-17 17:44:45] dom___: any updates on that sendKeys() bug i brought up last week
+[2014-12-17 17:44:54] lukeis: i haven't been working on it :)
