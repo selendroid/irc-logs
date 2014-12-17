@@ -34,3 +34,4 @@
 [2014-12-17 17:44:54] lukeis: i haven't been working on it :)
 [2014-12-17 17:45:04] dom___: :(
 [2014-12-17 17:45:33] dom___: Np i can use 0.11 for those particular tests for now
+[2014-12-17 18:00:34] operatiay, quitting. (Remote host closed the connection)
