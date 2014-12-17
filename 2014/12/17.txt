@@ -52,3 +52,4 @@
 [2014-12-17 20:04:30] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/44364694
 [2014-12-17 20:04:30] travis-ci, leaving. (#selendroid)
 [2014-12-17 20:08:14] mach6__, joining. (#selendroid)
+[2014-12-17 20:10:36] mach6_, quitting. (Ping timeout: 256 seconds)
