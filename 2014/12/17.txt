@@ -36,3 +36,8 @@
 [2014-12-17 17:45:33] dom___: Np i can use 0.11 for those particular tests for now
 [2014-12-17 18:00:34] operatiay, quitting. (Remote host closed the connection)
 [2014-12-17 19:15:48] dom___, quitting. (Quit: Page closed)
+[2014-12-17 19:34:30] travis-ci, joining. (#selendroid)
+[2014-12-17 19:34:30] travis-ci: binhvu/selendroid_forked#15 (master - 422ffe0 : Binh Vu): The build is still failing.
+[2014-12-17 19:34:31] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/44361461
+[2014-12-17 19:34:31] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/7dbf4e14f241...422ffe07a08f
+[2014-12-17 19:34:31] travis-ci, leaving. (#selendroid)
