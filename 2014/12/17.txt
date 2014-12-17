@@ -2,3 +2,4 @@
 [2014-12-17 01:14:51] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-17 01:16:20] operatiay, quitting. (Remote host closed the connection)
 [2014-12-17 01:16:58] operatiay, joining. (#selendroid)
+[2014-12-17 01:25:31] operatiay, quitting. (Ping timeout: 258 seconds)
