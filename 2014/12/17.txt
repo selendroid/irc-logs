@@ -24,3 +24,4 @@
 [2014-12-17 15:06:17] travis-ci, leaving. (#selendroid)
 [2014-12-17 15:43:51] operatiay, quitting. (Remote host closed the connection)
 [2014-12-17 16:04:04] operatiay, joining. (#selendroid)
+[2014-12-17 17:28:55] dom___, joining. (#selendroid)
