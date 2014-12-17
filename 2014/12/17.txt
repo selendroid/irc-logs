@@ -8,3 +8,4 @@
 [2014-12-17 09:27:31] operatiay, joining. (#selendroid)
 [2014-12-17 10:51:02] mach6_, joining. (#selendroid)
 [2014-12-17 10:53:59] mach6, quitting. (Ping timeout: 245 seconds)
+[2014-12-17 11:19:30] detronizator, quitting. (Quit: ZNC - http://znc.in)
