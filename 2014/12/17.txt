@@ -10,3 +10,4 @@
 [2014-12-17 10:53:59] mach6, quitting. (Ping timeout: 245 seconds)
 [2014-12-17 11:19:30] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2014-12-17 12:43:54] operatiay, quitting. (Remote host closed the connection)
+[2014-12-17 13:08:28] operatiay, joining. (#selendroid)
