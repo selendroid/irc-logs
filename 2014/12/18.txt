@@ -31,3 +31,5 @@
 [2014-12-18 15:39:36] operatiay, joining. (#selendroid)
 [2014-12-18 16:10:36] smccarthy, joining. (#selendroid)
 [2014-12-18 16:16:58] maan, joining. (#selendroid)
+[2014-12-18 16:53:31] maan_, joining. (#selendroid)
+[2014-12-18 16:53:53] maan, quitting. (Ping timeout: 264 seconds)
