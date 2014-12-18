@@ -14,3 +14,4 @@
 [2014-12-18 12:30:01] operatiay, joining. (#selendroid)
 [2014-12-18 13:02:34] ddary, joining. (#selendroid)
 [2014-12-18 13:05:54] ddary, leaving. (#selendroid)
+[2014-12-18 13:14:52] ddary, joining. (#selendroid)
