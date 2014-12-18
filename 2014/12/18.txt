@@ -1,3 +1,8 @@
 [2014-12-18 00:08:55] mach6___, quitting. (Quit: Be back later ...)
 [2014-12-18 00:09:18] operatiay, joining. (#selendroid)
 [2014-12-18 00:11:23] mach6___, joining. (#selendroid)
+[2014-12-18 01:20:05] travis-ci, joining. (#selendroid)
+[2014-12-18 01:20:05] travis-ci: binhvu/selendroid_forked#19 (master - e606e5d : Binh Vu): The build is still failing.
+[2014-12-18 01:20:05] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/326d7b1ae325...e606e5d993eb
+[2014-12-18 01:20:05] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/44400066
+[2014-12-18 01:20:05] travis-ci, leaving. (#selendroid)
