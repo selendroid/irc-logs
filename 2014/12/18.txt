@@ -12,3 +12,4 @@
 [2014-12-18 09:41:53] operatiay, joining. (#selendroid)
 [2014-12-18 11:22:18] operatiay, quitting. (Remote host closed the connection)
 [2014-12-18 12:30:01] operatiay, joining. (#selendroid)
+[2014-12-18 13:02:34] ddary, joining. (#selendroid)
