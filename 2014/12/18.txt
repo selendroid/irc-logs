@@ -38,3 +38,4 @@
 [2014-12-18 17:21:52] sarathdr, quitting. (Remote host closed the connection)
 [2014-12-18 17:22:12] sarathdr, joining. (#selendroid)
 [2014-12-18 17:22:41] sarathdr, quitting. (Client Quit)
+[2014-12-18 17:39:45] lukeis, joining. (#selendroid)
