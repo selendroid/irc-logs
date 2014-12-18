@@ -27,3 +27,4 @@
 [2014-12-18 15:05:58] sarathdr: Hi How can I integrate selendroid to a gradle project
 [2014-12-18 15:05:58] sarathdr: please help since I have not used selendroid before
 [2014-12-18 15:05:58] sarathdr: IS there any documentation or sample projects available ?
+[2014-12-18 15:26:01] operatiay, quitting. (Remote host closed the connection)
