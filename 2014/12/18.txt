@@ -43,3 +43,4 @@
 [2014-12-18 17:41:01] lukeis, joining. (#selendroid)
 [2014-12-18 17:55:16] maan, quitting. (Remote host closed the connection)
 [2014-12-18 17:57:59] operatiay, quitting. (Remote host closed the connection)
+[2014-12-18 18:18:11] smccarthy, quitting. (Quit: Leaving...)
