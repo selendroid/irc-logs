@@ -16,3 +16,7 @@
 [2014-12-18 13:05:54] ddary, leaving. (#selendroid)
 [2014-12-18 13:14:52] ddary, joining. (#selendroid)
 [2014-12-18 13:15:46] ddary, quitting. (Client Quit)
+[2014-12-18 13:45:45] sarathdr, joining. (#selendroid)
+[2014-12-18 13:46:18] sarathdr: Hi How can I integrate selendroid to a gradle project
+[2014-12-18 13:46:41] sarathdr: please help since I have not used selendroid before
+[2014-12-18 13:47:07] sarathdr: IS there any documentation or sample projects available ?
