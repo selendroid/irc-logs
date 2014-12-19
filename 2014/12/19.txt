@@ -18,3 +18,5 @@
 [2014-12-19 11:20:19] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/44558337
 [2014-12-19 11:20:37] operatiay, joining. (#selendroid)
 [2014-12-19 11:23:12] operatia_, quitting. (Ping timeout: 245 seconds)
+[2014-12-19 11:38:42] operatiay, quitting. (Remote host closed the connection)
+[2014-12-19 11:39:13] operatiay, joining. (#selendroid)
