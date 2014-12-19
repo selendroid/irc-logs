@@ -29,3 +29,4 @@
 [2014-12-19 14:27:16] operatiay, quitting. ()
 [2014-12-19 16:46:30] maan, joining. (#selendroid)
 [2014-12-19 17:32:23] lukeis, joining. (#selendroid)
+[2014-12-19 17:42:26] maan_, joining. (#selendroid)
