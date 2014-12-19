@@ -24,3 +24,4 @@
 [2014-12-19 12:26:10] ddary, quitting. (Client Quit)
 [2014-12-19 12:26:32] ddary, joining. (#selendroid)
 [2014-12-19 12:26:32] ddary, quitting. (Client Quit)
+[2014-12-19 12:58:17] operatiay, quitting. (Remote host closed the connection)
