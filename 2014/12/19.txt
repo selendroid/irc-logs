@@ -11,3 +11,10 @@
 [2014-12-19 11:16:20] selendroid-git: selendroid/master c71a7ff Alexander: Merge pull request #736 from binhvu/master...
 [2014-12-19 11:16:20] selendroid-git, leaving. (#selendroid)
 [2014-12-19 11:16:31] asm89: \o/
+[2014-12-19 11:20:19] travis-ci, joining. (#selendroid)
+[2014-12-19 11:20:19] travis-ci: selendroid/selendroid#517 (master - c71a7ff : Alexander): The build passed.
+[2014-12-19 11:20:19] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/d1b1cc8577e0...c71a7ff66516
+[2014-12-19 11:20:19] travis-ci, leaving. (#selendroid)
+[2014-12-19 11:20:19] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/44558337
+[2014-12-19 11:20:37] operatiay, joining. (#selendroid)
+[2014-12-19 11:23:12] operatia_, quitting. (Ping timeout: 245 seconds)
