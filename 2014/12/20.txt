@@ -12,3 +12,4 @@
 [2014-12-20 17:30:42] AutomatedTester, joining. (#selendroid)
 [2014-12-20 17:58:53] mach6___, joining. (#selendroid)
 [2014-12-20 17:59:21] mach6___, quitting. (Client Quit)
+[2014-12-20 18:32:13] maan, joining. (#selendroid)
