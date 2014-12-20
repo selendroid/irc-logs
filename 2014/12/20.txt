@@ -5,3 +5,4 @@
 [2014-12-20 16:29:14] ddary, joining. (#selendroid)
 [2014-12-20 16:29:21] ddary, leaving. (#selendroid)
 [2014-12-20 16:39:16] maan, quitting. (Ping timeout: 255 seconds)
+[2014-12-20 17:17:14] AutomatedTester_, joining. (#selendroid)
