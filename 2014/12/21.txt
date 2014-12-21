@@ -2,3 +2,4 @@
 [2014-12-21 08:26:18] ddary, quitting. (Quit: ddary)
 [2014-12-21 08:45:19] ddary, joining. (#selendroid)
 [2014-12-21 08:51:50] ddary, quitting. (Quit: ddary)
+[2014-12-21 09:26:14] maan, joining. (#selendroid)
