@@ -2,3 +2,5 @@
 [2014-12-24 01:53:57] mach6, quitting. (Quit: Be back later ...)
 [2014-12-24 03:49:33] smccarthy, joining. (#selendroid)
 [2014-12-24 04:14:19] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-24 05:41:10] renelux86, joining. (#selendroid)
+[2014-12-24 05:41:14] renelux, quitting. (Read error: Connection reset by peer)
