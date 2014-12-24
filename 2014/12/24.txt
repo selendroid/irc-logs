@@ -1,2 +1,3 @@
 [2014-12-24 01:14:51] renelux, joining. (#selendroid)
 [2014-12-24 01:53:57] mach6, quitting. (Quit: Be back later ...)
+[2014-12-24 03:49:33] smccarthy, joining. (#selendroid)
