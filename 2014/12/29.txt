@@ -4,3 +4,11 @@
 [2014-12-29 09:01:45] AutomatedTester, quitting. (Ping timeout: 252 seconds)
 [2014-12-29 09:03:34] AutomatedTester, joining. (#selendroid)
 [2014-12-29 11:06:18] renelux, quitting. (Ping timeout: 244 seconds)
+[2014-12-29 13:22:53] Sharath, joining. (#selendroid)
+[2014-12-29 13:23:01] Sharath: hii there
+[2014-12-29 13:23:42] Sharath: anyone there
+[2014-12-29 13:23:43] Sharath: ?
+[2014-12-29 13:23:49] Sharath: who can help
+[2014-12-29 13:24:04] Sharath: ?
+[2014-12-29 13:24:36] Sharath: have a doubt
+[2014-12-29 13:24:44] Sharath: hellooooooooooooooooo
