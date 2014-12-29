@@ -16,3 +16,4 @@
 [2014-12-29 15:28:43] Sharath, quitting. (Ping timeout: 246 seconds)
 [2014-12-29 15:39:02] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-29 15:59:25] maan, joining. (#selendroid)
+[2014-12-29 16:47:09] smccarthy, joining. (#selendroid)
