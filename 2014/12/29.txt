@@ -3,3 +3,4 @@
 [2014-12-29 06:10:41] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-29 09:01:45] AutomatedTester, quitting. (Ping timeout: 252 seconds)
 [2014-12-29 09:03:34] AutomatedTester, joining. (#selendroid)
+[2014-12-29 11:06:18] renelux, quitting. (Ping timeout: 244 seconds)
