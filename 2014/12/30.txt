@@ -2,3 +2,4 @@
 [2014-12-30 01:59:19] smccarthy, joining. (#selendroid)
 [2014-12-30 02:56:37] renelux, quitting. (Read error: Connection reset by peer)
 [2014-12-30 02:56:55] renelux, joining. (#selendroid)
+[2014-12-30 04:46:58] smccarthy, quitting. (Quit: Leaving...)
