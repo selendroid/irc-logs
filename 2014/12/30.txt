@@ -10,3 +10,4 @@
 [2014-12-30 13:18:07] ddary, leaving. (#selendroid)
 [2014-12-30 15:05:37] smccarthy, joining. (#selendroid)
 [2014-12-30 15:41:23] smccarthy, quitting. (Quit: Leaving...)
+[2014-12-30 16:21:35] maan, joining. (#selendroid)
