@@ -12,3 +12,4 @@
 [2014-12-31 04:30:55] smccarthy, quitting. (Quit: Leaving...)
 [2014-12-31 09:28:52] renelux, quitting. (Ping timeout: 240 seconds)
 [2014-12-31 10:15:29] ddary, joining. (#selendroid)
+[2014-12-31 10:34:15] ddary, leaving. (#selendroid)
