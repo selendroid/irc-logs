@@ -7,3 +7,4 @@
 [2014-12-31 00:23:12] selendroid-git, joining. (#selendroid)
 [2014-12-31 00:23:12] selendroid-git: [selendroid] binhvu opened pull request #764: Adding "deviceType" as a configurable parameter option. (master...master) http://git.io/nMjhOA
 [2014-12-31 00:23:13] selendroid-git, leaving. (#selendroid)
+[2014-12-31 01:59:14] smccarthy, joining. (#selendroid)
