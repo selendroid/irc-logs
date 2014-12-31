@@ -17,3 +17,4 @@
 [2014-12-31 10:46:18] ddary, quitting. (Remote host closed the connection)
 [2014-12-31 16:03:49] smccarthy, joining. (#selendroid)
 [2014-12-31 19:37:15] maan_, joining. (#selendroid)
+[2014-12-31 20:53:32] maan_, quitting. (Remote host closed the connection)
