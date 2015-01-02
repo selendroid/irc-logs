@@ -20,3 +20,8 @@
 [2015-01-02 21:45:33] travis-ci, joining. (#selendroid)
 [2015-01-02 21:45:33] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/45718484
 [2015-01-02 21:45:33] travis-ci, leaving. (#selendroid)
+[2015-01-02 22:46:39] Elbandi, joining. (#selendroid)
+[2015-01-02 22:46:42] Elbandi: hi
+[2015-01-02 22:46:51] Elbandi: i got an issue
+[2015-01-02 22:47:44] Elbandi: i have a working selenium grid, and i have a working selendroid standalone
+[2015-01-02 22:48:34] Elbandi: but if i register the selendroid to grid, i see it on grid console, but i cannot run any test
