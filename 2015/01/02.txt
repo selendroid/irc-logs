@@ -4,3 +4,4 @@
 [2015-01-02 01:08:43] smccarthy, joining. (#selendroid)
 [2015-01-02 05:55:23] smccarthy, quitting. (Quit: Leaving...)
 [2015-01-02 15:03:25] smccarthy, joining. (#selendroid)
+[2015-01-02 16:18:02] maan_, joining. (#selendroid)
