@@ -3,3 +3,4 @@
 [2015-01-03 07:23:23] smccarthy, quitting. (Quit: Leaving...)
 [2015-01-03 09:14:24] funker, joining. (#selendroid)
 [2015-01-03 09:18:42] maan_, joining. (#selendroid)
+[2015-01-03 11:24:07] maan_, quitting. ()
