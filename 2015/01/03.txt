@@ -14,3 +14,4 @@
 [2015-01-03 12:29:21] funker, quitting. (Client Quit)
 [2015-01-03 12:29:41] funker, joining. (#selendroid)
 [2015-01-03 12:34:19] funker, quitting. (Ping timeout: 265 seconds)
+[2015-01-03 16:31:47] funker, joining. (#selendroid)
