@@ -17,3 +17,4 @@
 [2015-01-03 16:31:47] funker, joining. (#selendroid)
 [2015-01-03 16:59:44] maan, quitting. (Remote host closed the connection)
 [2015-01-03 17:03:14] smccarthy, joining. (#selendroid)
+[2015-01-03 17:19:34] funker, quitting. ()
