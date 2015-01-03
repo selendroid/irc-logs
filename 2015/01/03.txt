@@ -18,3 +18,4 @@
 [2015-01-03 16:59:44] maan, quitting. (Remote host closed the connection)
 [2015-01-03 17:03:14] smccarthy, joining. (#selendroid)
 [2015-01-03 17:19:34] funker, quitting. ()
+[2015-01-03 17:27:27] smccarthy, quitting. (Quit: Leaving...)
