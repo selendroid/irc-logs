@@ -4,3 +4,5 @@
 [2015-01-03 09:14:24] funker, joining. (#selendroid)
 [2015-01-03 09:18:42] maan_, joining. (#selendroid)
 [2015-01-03 11:24:07] maan_, quitting. ()
+[2015-01-03 11:25:50] maan, joining. (#selendroid)
+[2015-01-03 11:27:25] funker, quitting. (Ping timeout: 255 seconds)
