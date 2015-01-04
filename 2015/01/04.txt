@@ -8,3 +8,4 @@
 [2015-01-04 08:51:10] maan, quitting. ()
 [2015-01-04 08:52:25] maan, joining. (#selendroid)
 [2015-01-04 12:08:46] maan, quitting. (Remote host closed the connection)
+[2015-01-04 12:35:20] maan, joining. (#selendroid)
