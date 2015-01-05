@@ -20,3 +20,4 @@
 [2015-01-05 18:55:58] ddary, joining. (#selendroid)
 [2015-01-05 18:56:56] ddary: @asm89 it seems like we are on botbot.me. Do you know how to setup everything so that the history is there available?
 [2015-01-05 19:01:09] maan, joining. (#selendroid)
+[2015-01-05 19:06:37] maan, quitting. (Ping timeout: 256 seconds)
