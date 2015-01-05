@@ -24,3 +24,5 @@
 [2015-01-05 19:19:34] lukeis, joining. (#selendroid)
 [2015-01-05 19:19:35] lukeis: hi ddary, happy new year!
 [2015-01-05 19:20:21] ddary: hi lukeis, happy new year!
+[2015-01-05 19:30:24] maan, joining. (#selendroid)
+[2015-01-05 19:30:55] ddary, quitting. (Quit: ddary)
