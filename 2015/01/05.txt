@@ -26,3 +26,5 @@
 [2015-01-05 19:20:21] ddary: hi lukeis, happy new year!
 [2015-01-05 19:30:24] maan, joining. (#selendroid)
 [2015-01-05 19:30:55] ddary, quitting. (Quit: ddary)
+[2015-01-05 19:37:09] maan, quitting. (Remote host closed the connection)
+[2015-01-05 19:37:47] maan, joining. (#selendroid)
