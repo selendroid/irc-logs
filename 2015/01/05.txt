@@ -5,3 +5,5 @@
 [2015-01-05 11:17:31] selendroid-git, leaving. (#selendroid)
 [2015-01-05 13:12:03] ddary, joining. (#selendroid)
 [2015-01-05 13:14:41] ddary, quitting. (Client Quit)
+[2015-01-05 13:23:59] ddary, joining. (#selendroid)
+[2015-01-05 13:24:10] ddary: ping
