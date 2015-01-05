@@ -35,3 +35,5 @@
 [2015-01-05 23:36:21] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/b38408afbb04...b71910340aca
 [2015-01-05 23:36:22] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/46007464
 [2015-01-05 23:36:22] travis-ci, leaving. (#selendroid)
+[2015-01-05 23:46:08] mach6, joining. (#selendroid)
+[2015-01-05 23:49:29] mach6, quitting. (Read error: Connection reset by peer)
