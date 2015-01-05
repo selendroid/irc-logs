@@ -1,2 +1,5 @@
 [2015-01-05 05:29:46] smccarthy, quitting. (Quit: Leaving...)
 [2015-01-05 10:12:19] smikloso, joining. (#selendroid)
+[2015-01-05 11:17:31] selendroid-git, joining. (#selendroid)
+[2015-01-05 11:17:31] selendroid-git: [selendroid] saral opened pull request #769: terminate must be called on AndroidDebugBridge on shutdown. (master...terminate_adb) http://git.io/AhFMiw
+[2015-01-05 11:17:31] selendroid-git, leaving. (#selendroid)
