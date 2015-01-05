@@ -10,3 +10,4 @@
 [2015-01-05 13:29:14] ddary, quitting. (Quit: ddary)
 [2015-01-05 14:39:44] smccarthy, joining. (#selendroid)
 [2015-01-05 15:34:24] smccarthy, quitting. (Quit: Leaving...)
+[2015-01-05 16:17:55] maan, joining. (#selendroid)
