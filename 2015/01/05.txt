@@ -13,3 +13,4 @@
 [2015-01-05 16:17:55] maan, joining. (#selendroid)
 [2015-01-05 16:45:23] smccarthy, joining. (#selendroid)
 [2015-01-05 16:49:35] smccarthy, quitting. (Client Quit)
+[2015-01-05 17:02:12] smccarthy, joining. (#selendroid)
