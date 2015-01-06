@@ -28,3 +28,6 @@
 [2015-01-06 18:34:10] maan, quitting. (Remote host closed the connection)
 [2015-01-06 21:35:00] maan, joining. (#selendroid)
 [2015-01-06 21:39:20] maan, quitting. (Ping timeout: 250 seconds)
+[2015-01-06 23:38:09] selendroid-git, joining. (#selendroid)
+[2015-01-06 23:38:09] selendroid-git: [selendroid] ainsej closed pull request #768: fixes #767 stop internal ExecutorService of TrafficCounter on shutdown (master...stop-traffic-counter-threads) http://git.io/FqVsRA
+[2015-01-06 23:38:09] selendroid-git, leaving. (#selendroid)
