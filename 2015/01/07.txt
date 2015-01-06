@@ -14,3 +14,8 @@
 [2015-01-07 00:37:34] selendroid-git: selendroid/master f735a8a Sinan Saral: terminate must be called on AndroidDebugBridge on shutdown....
 [2015-01-07 00:37:34] selendroid-git: selendroid/master 73c9542 Martin Konicek: Merge pull request #769 from saral/terminate_adb...
 [2015-01-07 00:37:35] selendroid-git, leaving. (#selendroid)
+[2015-01-07 00:41:35] travis-ci, joining. (#selendroid)
+[2015-01-07 00:41:35] travis-ci: selendroid/selendroid#528 (master - 73c9542 : Martin Konicek): The build passed.
+[2015-01-07 00:41:35] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/27ef888a7c8c...73c9542d424a
+[2015-01-07 00:41:35] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/46137852
+[2015-01-07 00:41:35] travis-ci, leaving. (#selendroid)
