@@ -31,3 +31,8 @@
 [2015-01-06 23:38:09] selendroid-git, joining. (#selendroid)
 [2015-01-06 23:38:09] selendroid-git: [selendroid] ainsej closed pull request #768: fixes #767 stop internal ExecutorService of TrafficCounter on shutdown (master...stop-traffic-counter-threads) http://git.io/FqVsRA
 [2015-01-06 23:38:09] selendroid-git, leaving. (#selendroid)
+[2015-01-06 23:44:01] travis-ci, joining. (#selendroid)
+[2015-01-06 23:44:01] travis-ci: selendroid/selendroid#527 (master - 27ef888 : Ainsley Escorce-Jones): The build passed.
+[2015-01-06 23:44:01] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/c71a7ff66516...27ef888a7c8c
+[2015-01-06 23:44:01] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/46131955
+[2015-01-06 23:44:01] travis-ci, leaving. (#selendroid)
