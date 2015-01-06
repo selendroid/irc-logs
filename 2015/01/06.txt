@@ -10,3 +10,6 @@
 [2015-01-06 08:22:39] maan, joining. (#selendroid)
 [2015-01-06 08:25:52] maan, quitting. (Remote host closed the connection)
 [2015-01-06 09:57:22] smikloso, joining. (#selendroid)
+[2015-01-06 11:51:37] selendroid-git, joining. (#selendroid)
+[2015-01-06 11:51:37] selendroid-git: [selendroid] kpiwko opened pull request #770: Removed Gson dependency from server and client (master...issue-721) http://git.io/VIZ8gg
+[2015-01-06 11:51:37] selendroid-git, leaving. (#selendroid)
