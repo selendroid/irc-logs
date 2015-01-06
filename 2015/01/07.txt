@@ -8,3 +8,4 @@
 [2015-01-07 00:24:02] AutomatedTester, joining. (#selendroid)
 [2015-01-07 00:24:02] sirsteef, joining. (#selendroid)
 [2015-01-07 00:24:25] asm89, joining. (#selendroid)
+[2015-01-07 00:29:55] smccarthy, quitting. (Quit: Leaving...)
