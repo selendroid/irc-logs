@@ -20,3 +20,5 @@
 [2015-01-06 16:45:10] smccarthy, joining. (#selendroid)
 [2015-01-06 17:15:43] jonitrythall, joining. (#selendroid)
 [2015-01-06 17:15:55] jonitrythall, leaving. ("Textual IRC Client: www.textualapp.com")
+[2015-01-06 17:27:22] lukeis, joining. (#selendroid)
+[2015-01-06 17:28:15] lukeis1, joining. (#selendroid)
