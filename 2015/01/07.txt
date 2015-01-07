@@ -50,3 +50,4 @@
 [2015-01-07 17:51:11] selendroid-git, leaving. (#selendroid)
 [2015-01-07 18:22:49] smikloso, leaving. (#selendroid)
 [2015-01-07 18:38:25] maan_, joining. (#selendroid)
+[2015-01-07 18:54:08] maan__, joining. (#selendroid)
