@@ -20,3 +20,5 @@
 [2015-01-07 00:41:35] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/46137852
 [2015-01-07 00:41:35] travis-ci, leaving. (#selendroid)
 [2015-01-07 00:56:05] Elbandi, joining. (#selendroid)
+[2015-01-07 02:47:42] jerry, joining. (#selendroid)
+[2015-01-07 02:48:05] jerry, leaving. (#selendroid)
