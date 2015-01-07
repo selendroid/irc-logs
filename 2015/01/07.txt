@@ -48,3 +48,4 @@
 [2015-01-07 17:51:11] selendroid-git, joining. (#selendroid)
 [2015-01-07 17:51:11] selendroid-git: [selendroid] mkonicek opened pull request #772: Cleaner exception when instrumentation fails (master...master) http://git.io/h44IVg
 [2015-01-07 17:51:11] selendroid-git, leaving. (#selendroid)
+[2015-01-07 18:22:49] smikloso, leaving. (#selendroid)
