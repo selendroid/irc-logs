@@ -40,3 +40,5 @@
 [2015-01-07 15:38:53] smccarthy, quitting. (Quit: Leaving...)
 [2015-01-07 15:46:02] jonitrythall, joining. (#selendroid)
 [2015-01-07 15:47:06] jonitrythall, leaving. ("Textual IRC Client: www.textualapp.com")
+[2015-01-07 15:50:26] maan_, joining. (#selendroid)
+[2015-01-07 15:52:15] maan, quitting. (Ping timeout: 252 seconds)
