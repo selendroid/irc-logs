@@ -11,3 +11,4 @@
 [2015-01-08 14:14:48] selendroid-git: [selendroid] saral opened pull request #776: fix NPE on native apps driver.switchTo().defaultContent() (master...npe_on_native_driver_switchTo) http://git.io/5Atp4w
 [2015-01-08 14:14:48] selendroid-git, leaving. (#selendroid)
 [2015-01-08 14:46:28] smccarthy, joining. (#selendroid)
+[2015-01-08 15:45:28] smccarthy, quitting. (Quit: Leaving...)
