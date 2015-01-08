@@ -35,3 +35,8 @@
 [2015-01-08 19:16:47] selendroid-git: selendroid/master ad22711 Martin Konicek: - Only return stack traces for unknown errors...
 [2015-01-08 19:16:47] selendroid-git: selendroid/master 49c9193 Martin Konicek: Merge pull request #772 from mkonicek/master...
 [2015-01-08 19:16:47] selendroid-git, leaving. (#selendroid)
+[2015-01-08 19:21:03] travis-ci, joining. (#selendroid)
+[2015-01-08 19:21:03] travis-ci: selendroid/selendroid#536 (master - 49c9193 : Martin Konicek): The build passed.
+[2015-01-08 19:21:03] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/73c9542d424a...49c91932739b
+[2015-01-08 19:21:03] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/46346537
+[2015-01-08 19:21:03] travis-ci, leaving. (#selendroid)
