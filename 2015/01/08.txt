@@ -27,3 +27,6 @@
 [2015-01-08 18:37:08] lukeis1, changing nick to lukeis.
 [2015-01-08 18:45:48] mach6_, joining. (#selendroid)
 [2015-01-08 18:45:48] mach6, quitting. (Read error: Connection reset by peer)
+[2015-01-08 18:59:13] selendroid-git, joining. (#selendroid)
+[2015-01-08 18:59:13] selendroid-git: [selendroid] danderson1967 opened pull request #777: Added support for Android 20 and 21 (master...master) http://git.io/qI_ezg
+[2015-01-08 18:59:13] selendroid-git, leaving. (#selendroid)
