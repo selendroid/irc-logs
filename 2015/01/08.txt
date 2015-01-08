@@ -30,3 +30,8 @@
 [2015-01-08 18:59:13] selendroid-git, joining. (#selendroid)
 [2015-01-08 18:59:13] selendroid-git: [selendroid] danderson1967 opened pull request #777: Added support for Android 20 and 21 (master...master) http://git.io/qI_ezg
 [2015-01-08 18:59:13] selendroid-git, leaving. (#selendroid)
+[2015-01-08 19:16:47] selendroid-git, joining. (#selendroid)
+[2015-01-08 19:16:47] selendroid-git: [selendroid] mkonicek pushed 2 new commits to master: http://git.io/kD3VSg
+[2015-01-08 19:16:47] selendroid-git: selendroid/master ad22711 Martin Konicek: - Only return stack traces for unknown errors...
+[2015-01-08 19:16:47] selendroid-git: selendroid/master 49c9193 Martin Konicek: Merge pull request #772 from mkonicek/master...
+[2015-01-08 19:16:47] selendroid-git, leaving. (#selendroid)
