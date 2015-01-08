@@ -47,3 +47,9 @@
 [2015-01-08 19:52:11] selendroid-git: selendroid/master 6d24c2c Karel Piwko: Fixed formatting of catch blocks
 [2015-01-08 19:52:11] selendroid-git: selendroid/master c461007 Luke Inman-Semerau: Merge pull request #770 from kpiwko/issue-721...
 [2015-01-08 19:52:11] selendroid-git, leaving. (#selendroid)
+[2015-01-08 19:57:09] smccarthy, quitting. (Quit: Leaving...)
+[2015-01-08 19:58:31] travis-ci, joining. (#selendroid)
+[2015-01-08 19:58:32] travis-ci: selendroid/selendroid#537 (master - c461007 : Luke Inman-Semerau): The build passed.
+[2015-01-08 19:58:32] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/49c91932739b...c4610073fb9e
+[2015-01-08 19:58:32] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/46350732
+[2015-01-08 19:58:32] travis-ci, leaving. (#selendroid)
