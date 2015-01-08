@@ -3,3 +3,4 @@
 [2015-01-08 02:06:29] lukeis, quitting. (Ping timeout: 245 seconds)
 [2015-01-08 08:02:16] ddary, joining. (#selendroid)
 [2015-01-08 08:13:47] ddary: :log
+[2015-01-08 08:18:16] sri096, joining. (#selendroid)
