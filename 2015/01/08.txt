@@ -54,3 +54,4 @@
 [2015-01-08 19:58:32] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/46350732
 [2015-01-08 19:58:32] travis-ci, leaving. (#selendroid)
 [2015-01-08 20:17:33] ddary, joining. (#selendroid)
+[2015-01-08 20:34:43] lukeis, quitting. (Ping timeout: 256 seconds)
