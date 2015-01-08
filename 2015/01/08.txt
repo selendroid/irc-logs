@@ -64,3 +64,4 @@
 [2015-01-08 22:35:13] lukeis, quitting. (Ping timeout: 264 seconds)
 [2015-01-08 22:35:36] maan, quitting. (Remote host closed the connection)
 [2015-01-08 23:00:17] mach6, quitting. (Read error: Connection reset by peer)
+[2015-01-08 23:12:58] lukeis1, quitting. (Quit: Leaving.)
