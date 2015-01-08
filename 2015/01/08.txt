@@ -57,3 +57,5 @@
 [2015-01-08 20:34:43] lukeis, quitting. (Ping timeout: 256 seconds)
 [2015-01-08 20:40:52] ddary, quitting. (Quit: ddary)
 [2015-01-08 20:51:54] smccarthy, joining. (#selendroid)
+[2015-01-08 20:57:06] mach6_, quitting. (Read error: Connection reset by peer)
+[2015-01-08 20:57:26] mach6, joining. (#selendroid)
