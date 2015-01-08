@@ -61,3 +61,5 @@
 [2015-01-08 20:57:26] mach6, joining. (#selendroid)
 [2015-01-08 22:30:18] lukeis, joining. (#selendroid)
 [2015-01-08 22:32:01] lukeis1, joining. (#selendroid)
+[2015-01-08 22:35:13] lukeis, quitting. (Ping timeout: 264 seconds)
+[2015-01-08 22:35:36] maan, quitting. (Remote host closed the connection)
