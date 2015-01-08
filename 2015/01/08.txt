@@ -12,3 +12,4 @@
 [2015-01-08 14:14:48] selendroid-git, leaving. (#selendroid)
 [2015-01-08 14:46:28] smccarthy, joining. (#selendroid)
 [2015-01-08 15:45:28] smccarthy, quitting. (Quit: Leaving...)
+[2015-01-08 16:43:00] smccarthy, joining. (#selendroid)
