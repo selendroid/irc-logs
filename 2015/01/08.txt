@@ -41,3 +41,9 @@
 [2015-01-08 19:21:03] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/46346537
 [2015-01-08 19:21:03] travis-ci, leaving. (#selendroid)
 [2015-01-08 19:32:16] maan, joining. (#selendroid)
+[2015-01-08 19:52:10] selendroid-git, joining. (#selendroid)
+[2015-01-08 19:52:11] selendroid-git: [selendroid] lukeis pushed 3 new commits to master: http://git.io/2uGy_w
+[2015-01-08 19:52:11] selendroid-git: selendroid/master 5d9a622 Karel Piwko: Removed Gson dependency from server and client...
+[2015-01-08 19:52:11] selendroid-git: selendroid/master 6d24c2c Karel Piwko: Fixed formatting of catch blocks
+[2015-01-08 19:52:11] selendroid-git: selendroid/master c461007 Luke Inman-Semerau: Merge pull request #770 from kpiwko/issue-721...
+[2015-01-08 19:52:11] selendroid-git, leaving. (#selendroid)
