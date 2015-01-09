@@ -3,3 +3,5 @@
 [2015-01-09 00:00:50] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/b71910340aca...4685085b80c4
 [2015-01-09 00:00:50] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/46381936
 [2015-01-09 00:00:50] travis-ci, leaving. (#selendroid)
+[2015-01-09 01:06:18] detronizator, joining. (#selendroid)
+[2015-01-09 01:08:54] smccarthy, quitting. (Quit: Leaving...)
