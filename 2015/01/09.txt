@@ -22,3 +22,4 @@
 [2015-01-09 17:59:25] mach6, joining. (#selendroid)
 [2015-01-09 19:04:59] mach6_, joining. (#selendroid)
 [2015-01-09 19:04:59] mach6, quitting. (Read error: Connection reset by peer)
+[2015-01-09 19:26:23] maan_, joining. (#selendroid)
