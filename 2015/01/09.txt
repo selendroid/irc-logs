@@ -7,3 +7,4 @@
 [2015-01-09 01:08:54] smccarthy, quitting. (Quit: Leaving...)
 [2015-01-09 01:28:00] rightonbro, joining. (#selendroid)
 [2015-01-09 01:49:05] rightonbro, leaving. ("Textual IRC Client: www.textualapp.com")
+[2015-01-09 03:46:00] smccarthy, joining. (#selendroid)
