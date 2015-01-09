@@ -19,3 +19,4 @@
 [2015-01-09 15:52:53] maan, quitting. (Remote host closed the connection)
 [2015-01-09 17:34:12] smikloso, leaving. (#selendroid)
 [2015-01-09 17:50:17] lukeis, joining. (#selendroid)
+[2015-01-09 17:59:25] mach6, joining. (#selendroid)
