@@ -5,3 +5,4 @@
 [2015-01-10 13:10:06] maan, joining. (#selendroid)
 [2015-01-10 13:41:17] detronizator, quitting. (Ping timeout: 244 seconds)
 [2015-01-10 13:41:53] detronizator, joining. (#selendroid)
+[2015-01-10 15:00:01] detronizator, quitting. (Quit: ZNC - http://znc.in)
