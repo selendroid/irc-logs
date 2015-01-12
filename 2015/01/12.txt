@@ -26,3 +26,7 @@
 [2015-01-12 19:49:02] travis-ci, leaving. (#selendroid)
 [2015-01-12 19:57:18] ddary, joining. (#selendroid)
 [2015-01-12 19:58:31] ddary: hi lukeis
+[2015-01-12 20:00:02] lukeis: hi ddary
+[2015-01-12 20:00:11] ddary: how are you doing?
+[2015-01-12 20:04:30] lukeis: pretty good… been in meetings the last few days of work (in one now)
+[2015-01-12 20:04:34] lukeis: release planning....
