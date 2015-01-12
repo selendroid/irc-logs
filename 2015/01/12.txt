@@ -41,3 +41,5 @@
 [2015-01-12 20:19:28] ddary, leaving. (#selendroid)
 [2015-01-12 20:25:06] maan, joining. (#selendroid)
 [2015-01-12 20:32:24] maan, quitting. (Remote host closed the connection)
+[2015-01-12 20:53:11] mach6: hmm.
+[2015-01-12 20:53:39] mach6: did travis ci change something.. I want to re-kick the failed build (due to oss-sonatype) connection probs.  can't find the re-run icon
