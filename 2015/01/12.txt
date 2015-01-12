@@ -44,3 +44,7 @@
 [2015-01-12 20:53:11] mach6: hmm.
 [2015-01-12 20:53:39] mach6: did travis ci change something.. I want to re-kick the failed build (due to oss-sonatype) connection probs.  can't find the re-run icon
 [2015-01-12 22:12:53] selendroidbot__, joining. (#selendroid)
+[2015-01-12 22:56:15] smccarthy2, joining. (#selendroid)
+[2015-01-12 22:58:51] smccarthy, quitting. (Ping timeout: 264 seconds)
+[2015-01-12 22:59:19] smccarthy2, quitting. (Remote host closed the connection)
+[2015-01-12 22:59:52] smccarthy, joining. (#selendroid)
