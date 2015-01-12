@@ -40,3 +40,4 @@
 [2015-01-12 20:11:27] ddary: mail sent
 [2015-01-12 20:19:28] ddary, leaving. (#selendroid)
 [2015-01-12 20:25:06] maan, joining. (#selendroid)
+[2015-01-12 20:32:24] maan, quitting. (Remote host closed the connection)
