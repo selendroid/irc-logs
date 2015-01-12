@@ -15,3 +15,12 @@
 [2015-01-12 19:05:13] maan, quitting. (Ping timeout: 264 seconds)
 [2015-01-12 19:15:20] maan, joining. (#selendroid)
 [2015-01-12 19:44:05] mach6, joining. (#selendroid)
+[2015-01-12 19:46:15] selendroid-git, joining. (#selendroid)
+[2015-01-12 19:46:15] selendroid-git: [selendroid] mach6 pushed 1 new commit to master: http://git.io/S98yIQ
+[2015-01-12 19:46:15] selendroid-git: selendroid/master 4685085 Binh Vu: Adding "model" as a configurable parameter option....
+[2015-01-12 19:46:15] selendroid-git, leaving. (#selendroid)
+[2015-01-12 19:49:02] travis-ci, joining. (#selendroid)
+[2015-01-12 19:49:02] travis-ci: selendroid/selendroid#539 (master - 4685085 : Binh Vu): The build was broken.
+[2015-01-12 19:49:02] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/c4610073fb9e...4685085b80c4
+[2015-01-12 19:49:02] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/46763766
+[2015-01-12 19:49:02] travis-ci, leaving. (#selendroid)
