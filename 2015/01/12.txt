@@ -12,3 +12,4 @@
 [2015-01-12 17:42:11] lukeis, joining. (#selendroid)
 [2015-01-12 17:46:31] maan_, quitting. (Remote host closed the connection)
 [2015-01-12 18:56:30] maan, joining. (#selendroid)
+[2015-01-12 19:05:13] maan, quitting. (Ping timeout: 264 seconds)
