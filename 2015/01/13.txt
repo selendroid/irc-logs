@@ -1,2 +1,7 @@
 [2015-01-13 00:00:55] mach6: nvm.. found it
 [2015-01-13 00:00:57] mach6: btw
+[2015-01-13 00:05:18] travis-ci, joining. (#selendroid)
+[2015-01-13 00:05:18] travis-ci: selendroid/selendroid#539 (master - 4685085 : Binh Vu): The build passed.
+[2015-01-13 00:05:18] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/c4610073fb9e...4685085b80c4
+[2015-01-13 00:05:18] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/46763766
+[2015-01-13 00:05:18] travis-ci, leaving. (#selendroid)
