@@ -53,3 +53,5 @@
 [2015-01-12 23:38:29] smccarthy, quitting. (Remote host closed the connection)
 [2015-01-12 23:39:02] smccarthy, joining. (#selendroid)
 [2015-01-12 23:43:33] smccarthy, quitting. (Ping timeout: 244 seconds)
+[2015-01-12 23:45:03] smccarthy, joining. (#selendroid)
+[2015-01-12 23:45:15] smccarthy, quitting. (Read error: Connection reset by peer)
