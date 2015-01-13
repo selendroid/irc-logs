@@ -55,3 +55,8 @@
 [2015-01-13 22:37:34] Elbandi, joining. (#selendroid)
 [2015-01-13 22:39:10] asm89, joining. (#selendroid)
 [2015-01-13 22:44:09] smccarthy, quitting. (*.net *.split)
+[2015-01-13 22:50:35] smccarthy, joining. (#selendroid)
+[2015-01-13 22:53:14] AutomatedTester, quitting. (*.net *.split)
+[2015-01-13 22:53:53] AutomatedTester, joining. (#selendroid)
+[2015-01-13 22:54:52] lukeis, quitting. (*.net *.split)
+[2015-01-13 22:54:54] sirsteef, quitting. (*.net *.split)
