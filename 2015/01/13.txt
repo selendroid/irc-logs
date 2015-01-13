@@ -54,3 +54,4 @@
 [2015-01-13 22:36:48] asm89, quitting. (Max SendQ exceeded)
 [2015-01-13 22:37:34] Elbandi, joining. (#selendroid)
 [2015-01-13 22:39:10] asm89, joining. (#selendroid)
+[2015-01-13 22:44:09] smccarthy, quitting. (*.net *.split)
