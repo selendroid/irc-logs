@@ -8,3 +8,4 @@
 [2015-01-13 00:21:35] smccarthy2, joining. (#selendroid)
 [2015-01-13 01:02:00] smccarthy2, quitting. (Quit: Leaving...)
 [2015-01-13 01:13:50] lukeis, quitting. (Quit: Leaving.)
+[2015-01-13 02:58:35] smccarthy, joining. (#selendroid)
