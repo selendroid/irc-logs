@@ -64,3 +64,4 @@
 [2015-01-13 22:59:30] sirsteef, joining. (#selendroid)
 [2015-01-13 23:02:18] smccarthy, quitting. (*.net *.split)
 [2015-01-13 23:06:16] smccarthy, joining. (#selendroid)
+[2015-01-13 23:51:34] smccarthy, quitting. (Quit: Leaving...)
