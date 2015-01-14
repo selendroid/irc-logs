@@ -2,3 +2,4 @@
 [2015-01-14 01:09:22] Elbandi, quitting. (Ping timeout: 264 seconds)
 [2015-01-14 01:12:01] Elbandi_, joining. (#selendroid)
 [2015-01-14 07:46:55] mach6_, joining. (#selendroid)
+[2015-01-14 07:56:42] mach6_, quitting. (Quit: Be back later ...)
