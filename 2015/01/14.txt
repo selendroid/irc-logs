@@ -3,3 +3,4 @@
 [2015-01-14 01:12:01] Elbandi_, joining. (#selendroid)
 [2015-01-14 07:46:55] mach6_, joining. (#selendroid)
 [2015-01-14 07:56:42] mach6_, quitting. (Quit: Be back later ...)
+[2015-01-14 10:31:13] smikloso, joining. (#selendroid)
