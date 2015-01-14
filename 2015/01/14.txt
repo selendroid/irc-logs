@@ -8,3 +8,4 @@
 [2015-01-14 15:07:59] smccarthy, quitting. (Quit: Leaving...)
 [2015-01-14 16:38:28] smccarthy, joining. (#selendroid)
 [2015-01-14 16:58:59] smccarthy2, joining. (#selendroid)
+[2015-01-14 17:02:28] smccarthy, quitting. (Ping timeout: 245 seconds)
