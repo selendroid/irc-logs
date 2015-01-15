@@ -38,3 +38,4 @@
 [2015-01-16 00:19:48] jlipps1: yep, both are installed lukeis
 [2015-01-16 00:19:58] jlipps1: i'll make one more attempt to clear everything out
 [2015-01-16 00:21:43] jlipps1: yeah got same error
+[2015-01-16 00:28:12] lukeis: recently reimaged my machine… have to get android-sdk again :)
