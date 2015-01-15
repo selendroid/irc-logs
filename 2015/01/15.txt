@@ -1,3 +1,4 @@
 [2015-01-15 00:21:34] mach6, joining. (#selendroid)
 [2015-01-15 00:38:31] smccarthy, quitting. (Quit: Leaving...)
 [2015-01-15 01:03:26] lukeis, quitting. (Quit: Leaving.)
+[2015-01-15 02:34:50] mach6, quitting. (Quit: Be back later ...)
