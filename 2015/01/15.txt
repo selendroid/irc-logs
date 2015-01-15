@@ -86,3 +86,10 @@
 [2015-01-15 22:48:29] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/ec84567bb60c...45eb98b05c5f
 [2015-01-15 22:48:29] travis-ci, leaving. (#selendroid)
 [2015-01-15 22:48:29] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/47173691
+[2015-01-15 23:00:28] ddary: lukeis: release is done
+[2015-01-15 23:00:56] lukeis: nice :)
+[2015-01-15 23:01:32] ddary: mach6: if there is something that users need to know about the folder monitoring, we may have to add it to the docu: https://github.com/selendroid/selendroid.io
+[2015-01-15 23:03:20] ddary: now I will go to bed: have a good afternoon and evening!
+[2015-01-15 23:03:26] ddary: bye
+[2015-01-15 23:03:30] lukeis: g'night!
+[2015-01-15 23:03:34] ddary, quitting. (Quit: ddary)
