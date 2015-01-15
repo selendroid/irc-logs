@@ -7,3 +7,13 @@
 [2015-01-15 10:36:32] smikloso, joining. (#selendroid)
 [2015-01-15 10:46:10] smikloso_, joining. (#selendroid)
 [2015-01-15 10:46:18] smikloso_: asm89: ping
+[2015-01-15 10:51:10] asm89: smikloso_: smikloso: hi
+[2015-01-15 10:52:14] smikloso: asm89: hello, dont you know when it scheduled the release of 0.13?
+[2015-01-15 10:52:22] smikloso: *is scheduled
+[2015-01-15 10:52:33] smikloso_, quitting. (Quit: Page closed)
+[2015-01-15 10:53:17] smikloso: asm89: we would like to release some project here which depends on selendroid
+[2015-01-15 10:53:40] smikloso: asm89: and we do not want to be behind in the long run when selendroid would be released relatively soon
+[2015-01-15 10:53:54] smikloso: asm89: we can wait in the horizont of one or two weeks
+[2015-01-15 10:54:02] asm89: smikloso: ah, I haven't made a release, but I can discuss with Dominik (he's the maintainer)
+[2015-01-15 10:54:18] asm89: can you open an issue about it? or did you do that already?
+[2015-01-15 10:54:38] smikloso: i have not opened anything yet
