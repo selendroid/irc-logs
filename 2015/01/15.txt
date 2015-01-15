@@ -60,3 +60,19 @@
 [2015-01-15 22:14:45] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/4685085b80c4...5a54cc95eb44
 [2015-01-15 22:14:45] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/47169501
 [2015-01-15 22:14:45] travis-ci, leaving. (#selendroid)
+[2015-01-15 22:17:02] travis-ci, joining. (#selendroid)
+[2015-01-15 22:17:02] travis-ci: selendroid/selendroid#541 (master - ec84567 : Dominik Dary): The build was broken.
+[2015-01-15 22:17:02] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/47170345
+[2015-01-15 22:17:03] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/5a54cc95eb44...ec84567bb60c
+[2015-01-15 22:17:03] travis-ci, leaving. (#selendroid)
+[2015-01-15 22:18:39] lukeis: hi ddary :)
+[2015-01-15 22:18:54] ddary: hi lukeis
+[2015-01-15 22:18:56] selendroid-git, joining. (#selendroid)
+[2015-01-15 22:18:56] selendroid-git: [selendroid] DominikDary tagged 0.13.0 at master: http://git.io/OFldJg
+[2015-01-15 22:18:56] selendroid-git, leaving. (#selendroid)
+[2015-01-15 22:18:56] ddary: :-)
+[2015-01-15 22:18:58] lukeis: thanks for doing the release activity :)
+[2015-01-15 22:19:02] ddary: np
+[2015-01-15 22:19:12] ddary: hopefully i can finish now everything
+[2015-01-15 22:19:27] ddary: the changelog is not perfect
+[2015-01-15 22:19:33] ddary: but better than nothing
