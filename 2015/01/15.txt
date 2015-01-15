@@ -26,3 +26,4 @@
 [2015-01-15 10:58:25] asm89: I usually idle here, feel free to mention if there are other things you'd like to discuss
 [2015-01-15 11:02:18] smikloso: https://github.com/selendroid/selendroid/issues/783
 [2015-01-15 11:02:40] smikloso: yeah, thanks for the willingnes to help :)
+[2015-01-15 12:01:37] asm89: smikloso: np!
