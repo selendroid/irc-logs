@@ -5,3 +5,5 @@
 [2015-01-15 03:02:39] mach6, joining. (#selendroid)
 [2015-01-15 03:03:52] mach6, quitting. (Read error: Connection reset by peer)
 [2015-01-15 10:36:32] smikloso, joining. (#selendroid)
+[2015-01-15 10:46:10] smikloso_, joining. (#selendroid)
+[2015-01-15 10:46:18] smikloso_: asm89: ping
