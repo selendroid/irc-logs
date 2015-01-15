@@ -17,3 +17,10 @@
 [2015-01-15 10:54:02] asm89: smikloso: ah, I haven't made a release, but I can discuss with Dominik (he's the maintainer)
 [2015-01-15 10:54:18] asm89: can you open an issue about it? or did you do that already?
 [2015-01-15 10:54:38] smikloso: i have not opened anything yet
+[2015-01-15 10:55:07] asm89: this would be in the release: https://github.com/selendroid/selendroid/compare/0.12.0...master
+[2015-01-15 10:55:13] asm89: i'd be fine with doing more small releases
+[2015-01-15 10:55:20] asm89: but as said, Dominik is the maintainer :)
+[2015-01-15 10:56:28] smikloso: yeah i know, but you have commit rights so i thought you are good to answer my question as well ;)
+[2015-01-15 10:56:36] smikloso: i am for more small releases as well
+[2015-01-15 10:57:30] asm89: I'll try to get hold of Dominik and discuss this :)
+[2015-01-15 10:58:25] asm89: I usually idle here, feel free to mention if there are other things you'd like to discuss
