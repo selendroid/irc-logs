@@ -11,3 +11,7 @@
 [2015-01-16 00:03:52] jlipps1: I/art     ( 5230): System.exit called, status: 1
 [2015-01-16 00:03:53] jlipps1: I/AndroidRuntime( 5230): VM exiting with result code 1.
 [2015-01-16 00:04:20] jlipps1: seems like that "unable to find instrumentation info" error is the problem?
+[2015-01-16 00:05:31] asm89, quitting. (*.net *.split)
+[2015-01-16 00:05:31] selendroidbot__, quitting. (*.net *.split)
+[2015-01-16 00:07:57] sirsteef_, quitting. (*.net *.split)
+[2015-01-16 00:09:43] sirsteef, joining. (#selendroid)
