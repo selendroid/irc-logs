@@ -27,3 +27,4 @@
 [2015-01-15 11:02:18] smikloso: https://github.com/selendroid/selendroid/issues/783
 [2015-01-15 11:02:40] smikloso: yeah, thanks for the willingnes to help :)
 [2015-01-15 12:01:37] asm89: smikloso: np!
+[2015-01-15 13:47:12] smikloso, quitting. (Ping timeout: 264 seconds)
