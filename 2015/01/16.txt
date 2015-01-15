@@ -20,3 +20,20 @@
 [2015-01-16 00:14:45] asm89, quitting. (Changing host)
 [2015-01-16 00:14:45] asm89, joining. (#selendroid)
 [2015-01-16 00:14:57] lukeis: i made it back! … jlipps1 if you've said anything in the last 15 ~ 20 min… i didn't see it
+[2015-01-16 00:16:24] jlipps1: ah ok
+[2015-01-16 00:16:41] jlipps1: here's logcat:
+[2015-01-16 00:16:42] jlipps1: D/AndroidRuntime( 5230):
+[2015-01-16 00:16:42] jlipps1: D/AndroidRuntime( 5230): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+[2015-01-16 00:16:42] jlipps1: D/AndroidRuntime( 5230): CheckJNI is ON
+[2015-01-16 00:16:42] jlipps1: E/memtrack( 5230): Couldn't load memtrack module (No such file or directory)
+[2015-01-16 00:16:42] jlipps1: E/android.os.Debug( 5230): failed to load memtrack module: -2
+[2015-01-16 00:16:42] jlipps1: D/AndroidRuntime( 5230): Calling main entry http://com.android.commands.am.am/
+[2015-01-16 00:16:43] jlipps1: W/ActivityManager( 1302): Unable to find instrumentation info for: ComponentInfo{io.appium.android.apis.selendroid/io.selendroid.ServerInstrumentation}
+[2015-01-16 00:16:43] jlipps1: I/art     ( 5230): System.exit called, status: 1
+[2015-01-16 00:16:43] jlipps1: I/AndroidRuntime( 5230): VM exiting with result code 1.
+[2015-01-16 00:16:59] jlipps1: the command we ran lukeis was /usr/local/adt/sdk/platform-tools/adb -s emulator-5554 shell "am instrument -e main_activity 'io.appium.android.apis.ApiDemos' io.appium.android.apis.selendroid/io.selendroid.ServerInstrumentation"
+[2015-01-16 00:17:51] lukeis: seems right… can you confirm the apk's got installed? (both selendroid and the demo app)
+[2015-01-16 00:18:34] jlipps1: k one sec
+[2015-01-16 00:18:53] lukeis: let me double check to see if anything was changed regarding that though...
+[2015-01-16 00:19:48] jlipps1: yep, both are installed lukeis
+[2015-01-16 00:19:58] jlipps1: i'll make one more attempt to clear everything out
