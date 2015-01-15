@@ -1,0 +1,13 @@
+[2015-01-16 00:02:40] selendroidbot___, joining. (#selendroid)
+[2015-01-16 00:03:41] jlipps1: oh no, lukeis went away
+[2015-01-16 00:03:50] jlipps1: anyway, here's logcat:
+[2015-01-16 00:03:51] jlipps1: D/AndroidRuntime( 5230):
+[2015-01-16 00:03:51] jlipps1: D/AndroidRuntime( 5230): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+[2015-01-16 00:03:51] jlipps1: D/AndroidRuntime( 5230): CheckJNI is ON
+[2015-01-16 00:03:52] jlipps1: E/memtrack( 5230): Couldn't load memtrack module (No such file or directory)
+[2015-01-16 00:03:52] jlipps1: E/android.os.Debug( 5230): failed to load memtrack module: -2
+[2015-01-16 00:03:52] jlipps1: D/AndroidRuntime( 5230): Calling main entry com.android.commands.am.Am
+[2015-01-16 00:03:52] jlipps1: W/ActivityManager( 1302): Unable to find instrumentation info for: ComponentInfo{io.appium.android.apis.selendroid/io.selendroid.ServerInstrumentation}
+[2015-01-16 00:03:52] jlipps1: I/art     ( 5230): System.exit called, status: 1
+[2015-01-16 00:03:53] jlipps1: I/AndroidRuntime( 5230): VM exiting with result code 1.
+[2015-01-16 00:04:20] jlipps1: seems like that "unable to find instrumentation info" error is the problem?
