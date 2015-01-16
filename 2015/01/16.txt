@@ -57,3 +57,4 @@
 [2015-01-16 03:11:33] mach6___, quitting. (Quit: Be back later ...)
 [2015-01-16 06:13:31] smccarthy2, quitting. (Quit: Leaving...)
 [2015-01-16 09:19:04] smikloso, joining. (#selendroid)
+[2015-01-16 12:33:21] smikloso, quitting. (Ping timeout: 252 seconds)
