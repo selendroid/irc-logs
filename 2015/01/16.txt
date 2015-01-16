@@ -82,3 +82,5 @@
 [2015-01-16 21:09:00] dom__: well that helped me find a work around :)
 [2015-01-16 21:09:23] dom__: bug doesn't exist with Actions.sendKeys()
 [2015-01-16 21:11:41] maan_, quitting. (Remote host closed the connection)
+[2015-01-16 21:32:18] dom__: actually fyi, the only issue with Actions.sendKeys() is that it types to quickly in some cases and overlaps sometimes, which was easly fixed by adding a 1 millisecond wait before typing each character
+[2015-01-16 21:32:49] dom__, quitting. (Quit: Page closed)
