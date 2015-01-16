@@ -49,3 +49,5 @@
 [2015-01-16 00:58:18] jlipps1: will hopefully get this in next release of appium
 [2015-01-16 01:00:04] lukeis: cool
 [2015-01-16 01:01:13] lukeis, quitting. (Quit: Leaving.)
+[2015-01-16 01:35:54] mach6__, joining. (#selendroid)
+[2015-01-16 01:35:54] mach6_, quitting. (Read error: Connection reset by peer)
