@@ -47,3 +47,5 @@
 [2015-01-16 00:57:04] jlipps1: ahhh ok
 [2015-01-16 00:58:14] jlipps1: lukeis:  appears to be working now. thanks!
 [2015-01-16 00:58:18] jlipps1: will hopefully get this in next release of appium
+[2015-01-16 01:00:04] lukeis: cool
+[2015-01-16 01:01:13] lukeis, quitting. (Quit: Leaving.)
