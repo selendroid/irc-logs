@@ -71,3 +71,10 @@
 [2015-01-16 18:27:57] maan_, joining. (#selendroid)
 [2015-01-16 18:37:05] jlipps, joining. (#selendroid)
 [2015-01-16 20:04:45] dom__, joining. (#selendroid)
+[2015-01-16 20:05:18] dom__: errr why no sendKeys() bug fix in 0.13.0? :(
+[2015-01-16 20:05:49] dom__: narrowed down the bug to android os version 4.x devices btw
+[2015-01-16 20:06:00] dom__: send long sentences causes overlapping text
+[2015-01-16 20:06:10] lukeis: cause you didn't send a PR for it? ;)
+[2015-01-16 20:06:27] dom__: how do i do so?
+[2015-01-16 20:06:52] lukeis: clone selendroid? fix the issue? use the GitHub UI to send a pull request?
+[2015-01-16 20:09:56] dom__: i could try
