@@ -37,3 +37,5 @@
 [2015-01-20 20:41:56] mach6___, quitting. (Read error: Connection reset by peer)
 [2015-01-20 20:48:52] smikloso, leaving. (#selendroid)
 [2015-01-20 22:16:40] mach6____, quitting. (Quit: Be back later ...)
+[2015-01-20 22:43:18] mach6, joining. (#selendroid)
+[2015-01-20 22:43:50] mach6, quitting. (Client Quit)
