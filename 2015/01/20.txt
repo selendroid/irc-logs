@@ -31,3 +31,4 @@
 [2015-01-20 19:56:49] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/4685085b80c4...eb50a4474c24
 [2015-01-20 19:56:49] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/47685386
 [2015-01-20 19:56:49] travis-ci, leaving. (#selendroid)
+[2015-01-20 20:28:11] smikloso, joining. (#selendroid)
