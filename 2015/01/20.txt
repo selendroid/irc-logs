@@ -32,3 +32,6 @@
 [2015-01-20 19:56:49] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/47685386
 [2015-01-20 19:56:49] travis-ci, leaving. (#selendroid)
 [2015-01-20 20:28:11] smikloso, joining. (#selendroid)
+[2015-01-20 20:40:31] mach6___, joining. (#selendroid)
+[2015-01-20 20:41:56] mach6____, joining. (#selendroid)
+[2015-01-20 20:41:56] mach6___, quitting. (Read error: Connection reset by peer)
