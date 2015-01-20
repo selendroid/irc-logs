@@ -35,3 +35,4 @@
 [2015-01-20 20:40:31] mach6___, joining. (#selendroid)
 [2015-01-20 20:41:56] mach6____, joining. (#selendroid)
 [2015-01-20 20:41:56] mach6___, quitting. (Read error: Connection reset by peer)
+[2015-01-20 20:48:52] smikloso, leaving. (#selendroid)
