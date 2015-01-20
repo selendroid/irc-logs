@@ -22,3 +22,7 @@
 [2015-01-20 19:39:22] jlipps: ping lukeis
 [2015-01-20 19:39:29] lukeis: pong
 [2015-01-20 19:39:46] jlipps: can you send me a recent version of your company's app? trying to repro something you guys reported
+[2015-01-20 19:40:02] lukeis: sure thing, android or ios? :)
+[2015-01-20 19:40:05] jlipps: android
+[2015-01-20 19:40:08] lukeis: k
+[2015-01-20 19:40:11] jlipps: thx
