@@ -16,3 +16,4 @@
 [2015-01-20 17:02:08] lukeis, quitting. (Quit: Leaving.)
 [2015-01-20 17:02:38] lukeis, joining. (#selendroid)
 [2015-01-20 17:18:51] smccarthy, quitting. (Quit: Leaving...)
+[2015-01-20 18:18:40] smccarthy, joining. (#selendroid)
