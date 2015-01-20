@@ -7,3 +7,8 @@
 [2015-01-20 15:51:58] selendroid-git, joining. (#selendroid)
 [2015-01-20 15:51:58] selendroid-git: [selendroid] mkonicek closed pull request #785: Don't log exception when waiting for the Selendroid server to start (master...master) http://git.io/wGchIw
 [2015-01-20 15:51:58] selendroid-git, leaving. (#selendroid)
+[2015-01-20 15:56:24] travis-ci, joining. (#selendroid)
+[2015-01-20 15:56:25] travis-ci: selendroid/selendroid#544 (master - eb50a44 : Martin Konicek): The build passed.
+[2015-01-20 15:56:25] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/47656063
+[2015-01-20 15:56:25] travis-ci, leaving. (#selendroid)
+[2015-01-20 15:56:25] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/45eb98b05c5f...eb50a4474c24
