@@ -18,3 +18,7 @@
 [2015-01-20 17:18:51] smccarthy, quitting. (Quit: Leaving...)
 [2015-01-20 18:18:40] smccarthy, joining. (#selendroid)
 [2015-01-20 18:20:42] smikloso, quitting. (Ping timeout: 245 seconds)
+[2015-01-20 19:39:11] jlipps, joining. (#selendroid)
+[2015-01-20 19:39:22] jlipps: ping lukeis
+[2015-01-20 19:39:29] lukeis: pong
+[2015-01-20 19:39:46] jlipps: can you send me a recent version of your company's app? trying to repro something you guys reported
