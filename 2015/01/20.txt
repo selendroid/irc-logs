@@ -26,3 +26,8 @@
 [2015-01-20 19:40:05] jlipps: android
 [2015-01-20 19:40:08] lukeis: k
 [2015-01-20 19:40:11] jlipps: thx
+[2015-01-20 19:56:48] travis-ci, joining. (#selendroid)
+[2015-01-20 19:56:49] travis-ci: binhvu/selendroid_forked#28 (master - eb50a44 : Martin Konicek): The build is still failing.
+[2015-01-20 19:56:49] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/4685085b80c4...eb50a4474c24
+[2015-01-20 19:56:49] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/47685386
+[2015-01-20 19:56:49] travis-ci, leaving. (#selendroid)
