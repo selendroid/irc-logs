@@ -26,3 +26,5 @@
 [2015-01-21 17:58:43] maan_, joining. (#selendroid)
 [2015-01-21 18:00:16] smccarthy, quitting. (Ping timeout: 255 seconds)
 [2015-01-21 18:01:10] maan, quitting. (Ping timeout: 255 seconds)
+[2015-01-21 18:45:46] smccarthy2, quitting. (Remote host closed the connection)
+[2015-01-21 18:46:19] smccarthy, joining. (#selendroid)
