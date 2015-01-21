@@ -9,3 +9,4 @@
 [2015-01-21 08:26:30] lukeis, quitting. (Quit: Leaving.)
 [2015-01-21 10:42:27] smikloso, joining. (#selendroid)
 [2015-01-21 12:34:53] mniebes, joining. (#selendroid)
+[2015-01-21 15:23:47] smccarthy, joining. (#selendroid)
