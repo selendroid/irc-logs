@@ -1,1 +1,4 @@
 [2015-01-21 00:28:01] smccarthy, quitting. (Quit: Leaving...)
+[2015-01-21 01:03:56] jlipps, quitting. (Quit: Leaving.)
+[2015-01-21 01:04:19] jlipps, joining. (#selendroid)
+[2015-01-21 01:04:27] jlipps, quitting. (Client Quit)
