@@ -22,3 +22,5 @@
 [2015-01-21 17:42:52] lukeis, joining. (#selendroid)
 [2015-01-21 17:48:46] smccarthy, joining. (#selendroid)
 [2015-01-21 17:50:33] maan, joining. (#selendroid)
+[2015-01-21 17:56:24] smccarthy2, joining. (#selendroid)
+[2015-01-21 17:58:43] maan_, joining. (#selendroid)
