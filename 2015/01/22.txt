@@ -2,3 +2,4 @@
 [2015-01-22 00:29:37] lukeis, quitting. (Quit: Leaving.)
 [2015-01-22 02:00:31] smccarthy, joining. (#selendroid)
 [2015-01-22 03:07:44] smccarthy, quitting. (Ping timeout: 245 seconds)
+[2015-01-22 03:13:17] smccarthy, joining. (#selendroid)
