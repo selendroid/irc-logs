@@ -7,3 +7,6 @@
 [2015-01-22 10:10:39] mniebes, quitting. (Quit: Verlassend)
 [2015-01-22 11:59:11] smikloso, joining. (#selendroid)
 [2015-01-22 14:43:14] maan, joining. (#selendroid)
+[2015-01-22 15:06:29] maan, quitting. (Ping timeout: 245 seconds)
+[2015-01-22 15:07:58] maan, joining. (#selendroid)
+[2015-01-22 15:09:25] smccarthy, joining. (#selendroid)
