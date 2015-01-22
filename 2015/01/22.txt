@@ -6,3 +6,4 @@
 [2015-01-22 05:40:22] smccarthy, quitting. (Quit: Leaving...)
 [2015-01-22 10:10:39] mniebes, quitting. (Quit: Verlassend)
 [2015-01-22 11:59:11] smikloso, joining. (#selendroid)
+[2015-01-22 14:43:14] maan, joining. (#selendroid)
