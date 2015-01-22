@@ -28,3 +28,8 @@
 [2015-01-22 22:49:24] niranjani: @lukeis: hi
 [2015-01-22 22:49:39] niranjani: I have a question regarding scroll functionality in selendroid
 [2015-01-22 22:49:51] niranjani: when I do a scroll down:
+[2015-01-22 22:50:32] niranjani: TouchActions action = new TouchActions(driver).scroll(0, 500);
+[2015-01-22 22:50:39] niranjani: action.perform();
+[2015-01-22 22:51:22] niranjani: it does scroll down but the elements are not rendered - it is a blank page once it scrolls down. Am using the latest stable version of the jar  - 0.13.0
+[2015-01-22 22:51:44] niranjani: Am I missing something here? Any thoughts??
+[2015-01-22 22:52:06] niranjani: someone pls reply?
