@@ -6,3 +6,7 @@
 [2015-01-23 15:11:53] smccarthy, joining. (#selendroid)
 [2015-01-23 15:50:38] smikloso: asm89: ping
 [2015-01-23 16:18:40] asm89: smikloso: hi
+[2015-01-23 16:21:20] smikloso: hi, i have a question
+[2015-01-23 16:22:18] smikloso: asm89: i struggle to understand how these web view tests works
+[2015-01-23 16:22:28] smikloso: asm89: basically there are these tests https://github.com/selendroid/selendroid/tree/master/selendroid-test-app/src/main/java/io/selendroid/testapp/server
+[2015-01-23 16:22:36] smikloso: asm89: classes
