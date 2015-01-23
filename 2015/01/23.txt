@@ -23,3 +23,9 @@
 [2015-01-23 17:01:55] asm89: smikloso: what other questions did you have?
 [2015-01-23 17:03:24] smikloso: asm89: i dont understand either, when you have selendroid server hence DefaultSelendroidDriver, when I call this driver.switchTo().window("WEBVIEW"); in my test, it initializes "SelendroidWebDriver" https://github.com/selendroid/selendroid/blob/master/selendroid-server/src/main/java/io/selendroid/server/model/DefaultSelendroidDriver.java#L355-L365
 [2015-01-23 17:04:13] smikloso: asm89: which should just behave as some kind of proxy when I got it right, what selendroid web driver initializes webkit view and so on so I do not understand why is there that http server in activity
+[2015-01-23 17:05:11] asm89: that just a mock server in the app basically
+[2015-01-23 17:05:14] asm89: so it can test posting the form
+[2015-01-23 17:05:31] smikloso: asm89: aha
+[2015-01-23 17:05:57] asm89: and because the app itself is running the http server the test suite can always hit localhost:xxxx
+[2015-01-23 17:06:22] smikloso: asm89: aha right
+[2015-01-23 17:06:31] smikloso: asm89: what a hack
