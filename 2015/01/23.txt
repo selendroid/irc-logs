@@ -15,3 +15,6 @@
 [2015-01-23 16:27:38] smikloso: asm89 what i do not understand at all 1) why that server is there in the first place
 [2015-01-23 16:28:24] smikloso: asm89: and how I am supposed to interact with that web view when I use selendroid server which instruments that test application
 [2015-01-23 16:28:54] smikloso: asm89: because selendroid server instrumenting that test application is started and listens to port 8080
+[2015-01-23 16:30:02] asm89: smikloso: I'm sorry, I actually never used web view tests
+[2015-01-23 16:30:11] asm89: also haven't worked on the selendroid part of it
+[2015-01-23 16:32:32] smikloso: asm89: ok
