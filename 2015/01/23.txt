@@ -18,3 +18,5 @@
 [2015-01-23 16:30:02] asm89: smikloso: I'm sorry, I actually never used web view tests
 [2015-01-23 16:30:11] asm89: also haven't worked on the selendroid part of it
 [2015-01-23 16:32:32] smikloso: asm89: ok
+[2015-01-23 16:59:37] asm89: smikloso: ok, I have more context now
+[2015-01-23 16:59:57] asm89: I guess the http server is there to not rely on external resources to serve up the webpages?
