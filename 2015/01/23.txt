@@ -34,3 +34,8 @@
 [2015-01-23 18:08:00] smikloso, quitting. (Quit: Leaving.)
 [2015-01-23 18:25:52] maan, joining. (#selendroid)
 [2015-01-23 21:19:45] maan, quitting. (Remote host closed the connection)
+[2015-01-23 23:46:54] travis-ci, joining. (#selendroid)
+[2015-01-23 23:46:54] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/eb50a4474c24...249e55c36b93
+[2015-01-23 23:46:54] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/48114133
+[2015-01-23 23:46:54] travis-ci, leaving. (#selendroid)
+[2015-01-23 23:46:54] travis-ci: binhvu/selendroid_forked#29 (master - 249e55c : Binh Vu): The build is still failing.
