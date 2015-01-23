@@ -10,3 +10,8 @@
 [2015-01-23 16:22:18] smikloso: asm89: i struggle to understand how these web view tests works
 [2015-01-23 16:22:28] smikloso: asm89: basically there are these tests https://github.com/selendroid/selendroid/tree/master/selendroid-test-app/src/main/java/io/selendroid/testapp/server
 [2015-01-23 16:22:36] smikloso: asm89: classes
+[2015-01-23 16:25:26] smikloso: asm89: and that server is started here https://github.com/selendroid/selendroid/blob/master/selendroid-test-app/src/main/java/io/selendroid/testapp/WebViewActivity.java#L40
+[2015-01-23 16:27:14] smikloso: asm89: so what it effectively does is that when I start that webview activity, http server which extends nanohttpd server is started on port 4450
+[2015-01-23 16:27:38] smikloso: asm89 what i do not understand at all 1) why that server is there in the first place
+[2015-01-23 16:28:24] smikloso: asm89: and how I am supposed to interact with that web view when I use selendroid server which instruments that test application
+[2015-01-23 16:28:54] smikloso: asm89: because selendroid server instrumenting that test application is started and listens to port 8080
