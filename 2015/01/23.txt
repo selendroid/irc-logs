@@ -39,3 +39,6 @@
 [2015-01-23 23:46:54] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/48114133
 [2015-01-23 23:46:54] travis-ci, leaving. (#selendroid)
 [2015-01-23 23:46:54] travis-ci: binhvu/selendroid_forked#29 (master - 249e55c : Binh Vu): The build is still failing.
+[2015-01-23 23:54:07] selendroid-git, joining. (#selendroid)
+[2015-01-23 23:54:07] selendroid-git: [selendroid] binhvu opened pull request #787: Adding "apiType" as an option in selendroid capabilities. (master...master) http://git.io/9BGHBQ
+[2015-01-23 23:54:07] selendroid-git, leaving. (#selendroid)
