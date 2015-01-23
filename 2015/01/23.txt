@@ -29,3 +29,4 @@
 [2015-01-23 17:05:57] asm89: and because the app itself is running the http server the test suite can always hit localhost:xxxx
 [2015-01-23 17:06:22] smikloso: asm89: aha right
 [2015-01-23 17:06:31] smikloso: asm89: what a hack
+[2015-01-23 17:27:06] asm89: smikloso: hehe
