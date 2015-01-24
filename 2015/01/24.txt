@@ -18,3 +18,4 @@
 [2015-01-24 16:04:26] selendroid-git: [selendroid] DominikDary opened pull request #788: Fixing support for cordova 3.7.0 apps. (master...fix/Cordova3.6.x) http://git.io/u0fWNw
 [2015-01-24 16:04:26] selendroid-git, leaving. (#selendroid)
 [2015-01-24 17:46:22] maan, quitting. (Remote host closed the connection)
+[2015-01-24 19:25:55] maan, joining. (#selendroid)
