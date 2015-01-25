@@ -25,3 +25,4 @@
 [2015-01-25 13:50:41] maan, quitting. (Remote host closed the connection)
 [2015-01-25 19:07:57] maan, joining. (#selendroid)
 [2015-01-25 19:29:39] detronizator, joining. (#selendroid)
+[2015-01-25 21:04:49] maan, quitting. (Remote host closed the connection)
