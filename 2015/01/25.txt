@@ -7,3 +7,5 @@
 [2015-01-25 02:38:25] smccarthy, joining. (#selendroid)
 [2015-01-25 03:10:07] sirsteef_, joining. (#selendroid)
 [2015-01-25 03:13:50] smccarthy2, joining. (#selendroid)
+[2015-01-25 03:16:21] smccarthy, quitting. (*.net *.split)
+[2015-01-25 03:16:23] sirsteef, quitting. (*.net *.split)
