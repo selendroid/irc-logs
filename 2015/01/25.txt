@@ -1,0 +1,5 @@
+[2015-01-25 00:55:51] travis-ci, joining. (#selendroid)
+[2015-01-25 00:55:51] travis-ci: binhvu/selendroid_forked#30 (master - 1f7dcf5 : Binh Vu): The build is still failing.
+[2015-01-25 00:55:51] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/249e55c36b93...1f7dcf571a08
+[2015-01-25 00:55:51] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/48205379
+[2015-01-25 00:55:51] travis-ci, leaving. (#selendroid)
