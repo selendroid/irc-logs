@@ -28,3 +28,4 @@
 [2015-01-25 21:04:49] maan, quitting. (Remote host closed the connection)
 [2015-01-25 21:21:32] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2015-01-25 21:23:22] detronizator, joining. (#selendroid)
+[2015-01-25 21:41:27] smccarthy, joining. (#selendroid)
