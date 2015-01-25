@@ -9,3 +9,8 @@
 [2015-01-25 03:13:50] smccarthy2, joining. (#selendroid)
 [2015-01-25 03:16:21] smccarthy, quitting. (*.net *.split)
 [2015-01-25 03:16:23] sirsteef, quitting. (*.net *.split)
+[2015-01-25 03:49:36] AutomatedTester, quitting. (*.net *.split)
+[2015-01-25 03:49:38] AutomatedTester_, joining. (#selendroid)
+[2015-01-25 03:49:53] AutomatedTester_, changing nick to AutomatedTester.
+[2015-01-25 03:49:53] AutomatedTester, quitting. (Changing host)
+[2015-01-25 03:49:53] AutomatedTester, joining. (#selendroid)
