@@ -30,3 +30,4 @@
 [2015-01-25 21:23:22] detronizator, joining. (#selendroid)
 [2015-01-25 21:41:27] smccarthy, joining. (#selendroid)
 [2015-01-25 22:09:38] detronizator, quitting. (Quit: ZNC - http://znc.in)
+[2015-01-25 22:11:29] detronizator, joining. (#selendroid)
