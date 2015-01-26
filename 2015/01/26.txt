@@ -21,3 +21,6 @@
 [2015-01-26 21:46:01] maan, joining. (#selendroid)
 [2015-01-26 21:47:02] maan_, joining. (#selendroid)
 [2015-01-26 21:47:23] maan, quitting. (Read error: Connection reset by peer)
+[2015-01-26 22:00:41] lukeis1, joining. (#selendroid)
+[2015-01-26 22:02:25] lukeis2, joining. (#selendroid)
+[2015-01-26 22:02:52] lukeis, quitting. (Ping timeout: 240 seconds)
