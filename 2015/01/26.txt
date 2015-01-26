@@ -25,3 +25,10 @@
 [2015-01-26 22:02:25] lukeis2, joining. (#selendroid)
 [2015-01-26 22:02:52] lukeis, quitting. (Ping timeout: 240 seconds)
 [2015-01-26 22:05:17] lukeis1, quitting. (Ping timeout: 256 seconds)
+[2015-01-26 22:43:12] maan_, quitting. (Remote host closed the connection)
+[2015-01-26 22:43:40] travis-ci, joining. (#selendroid)
+[2015-01-26 22:43:40] travis-ci: binhvu/selendroid_forked#31 (master - 7348c91 : Binh Vu): The build is still failing.
+[2015-01-26 22:43:40] travis-ci: Change view : https://github.com/binhvu/selendroid_forked/compare/1f7dcf571a08...7348c91f9910
+[2015-01-26 22:43:40] travis-ci, leaving. (#selendroid)
+[2015-01-26 22:43:40] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/48401921
+[2015-01-26 22:43:53] maan, joining. (#selendroid)
