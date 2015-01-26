@@ -4,3 +4,5 @@
 [2015-01-26 02:22:43] maan, quitting. (Remote host closed the connection)
 [2015-01-26 05:16:19] smccarthy, quitting. (Quit: Leaving...)
 [2015-01-26 10:22:22] smikloso, joining. (#selendroid)
+[2015-01-26 11:35:17] detronizator, quitting. (Ping timeout: 265 seconds)
+[2015-01-26 11:39:38] detronizator, joining. (#selendroid)
