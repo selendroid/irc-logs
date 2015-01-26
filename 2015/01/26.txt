@@ -38,3 +38,4 @@
 [2015-01-26 23:08:09] lukeis, joining. (#selendroid)
 [2015-01-26 23:10:18] lukeis2, quitting. (Ping timeout: 244 seconds)
 [2015-01-26 23:18:49] mach6_, quitting. (Quit: Be back later ...)
+[2015-01-26 23:20:43] mach6_, joining. (#selendroid)
