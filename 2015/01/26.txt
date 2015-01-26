@@ -17,3 +17,7 @@
 [2015-01-26 20:11:48] maan_, quitting. (Ping timeout: 276 seconds)
 [2015-01-26 20:14:33] maan, joining. (#selendroid)
 [2015-01-26 21:14:26] mach6, joining. (#selendroid)
+[2015-01-26 21:45:24] maan, quitting. (Remote host closed the connection)
+[2015-01-26 21:46:01] maan, joining. (#selendroid)
+[2015-01-26 21:47:02] maan_, joining. (#selendroid)
+[2015-01-26 21:47:23] maan, quitting. (Read error: Connection reset by peer)
