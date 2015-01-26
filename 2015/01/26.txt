@@ -33,3 +33,5 @@
 [2015-01-26 22:43:40] travis-ci: Build details : http://travis-ci.org/binhvu/selendroid_forked/builds/48401921
 [2015-01-26 22:43:53] maan, joining. (#selendroid)
 [2015-01-26 22:48:21] maan, quitting. (Ping timeout: 252 seconds)
+[2015-01-26 23:00:26] mach6_, joining. (#selendroid)
+[2015-01-26 23:00:27] mach6, quitting. (Read error: Connection reset by peer)
