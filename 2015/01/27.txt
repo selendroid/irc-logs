@@ -4,3 +4,4 @@
 [2015-01-27 02:09:11] mach6_, quitting. (Remote host closed the connection)
 [2015-01-27 02:22:02] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2015-01-27 06:23:53] smccarthy, quitting. (Quit: Leaving...)
+[2015-01-27 09:41:13] smikloso, joining. (#selendroid)
