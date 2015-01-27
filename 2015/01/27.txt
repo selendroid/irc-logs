@@ -15,3 +15,6 @@
 [2015-01-27 17:57:00] maan_, quitting. (Ping timeout: 264 seconds)
 [2015-01-27 18:34:14] lukeis, joining. (#selendroid)
 [2015-01-27 23:33:18] lukeis1, joining. (#selendroid)
+[2015-01-27 23:35:17] lukeis, quitting. (Ping timeout: 256 seconds)
+[2015-01-27 23:36:19] lukeis, joining. (#selendroid)
+[2015-01-27 23:37:44] lukeis1, quitting. (Ping timeout: 245 seconds)
