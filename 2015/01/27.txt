@@ -2,3 +2,4 @@
 [2015-01-27 01:04:23] lukeis, quitting. (Quit: Leaving.)
 [2015-01-27 01:59:32] smccarthy, joining. (#selendroid)
 [2015-01-27 02:09:11] mach6_, quitting. (Remote host closed the connection)
+[2015-01-27 02:22:02] detronizator, quitting. (Quit: ZNC - http://znc.in)
