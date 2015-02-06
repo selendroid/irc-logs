@@ -72,3 +72,16 @@
 [2015-02-06 15:09:36] selendroid-git: selendroid/master 1bac6d5 Dominik Dary: Update changelog.md
 [2015-02-06 15:09:36] selendroid-git, leaving. (#selendroid)
 [2015-02-06 15:09:52] ddary, joining. (#selendroid)
+[2015-02-06 15:10:03] smccarthy, joining. (#selendroid)
+[2015-02-06 15:11:09] ddary: :note lukeis With that PR https://github.com/selendroid/selendroid/pull/804 the prevoius note is obsolete. Have a great day and weekend!
+[2015-02-06 15:11:16] ddary, quitting. (Client Quit)
+[2015-02-06 15:13:19] travis-ci, joining. (#selendroid)
+[2015-02-06 15:13:19] travis-ci: selendroid/selendroid#575 (master - 616128a : Dominik Dary): The build was fixed.
+[2015-02-06 15:13:19] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/4befe9805f8b...616128aa4b65
+[2015-02-06 15:13:19] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/49744460
+[2015-02-06 15:13:19] travis-ci, leaving. (#selendroid)
+[2015-02-06 15:14:17] travis-ci, joining. (#selendroid)
+[2015-02-06 15:14:17] travis-ci: selendroid/selendroid#576 (master - 1bac6d5 : Dominik Dary): The build was fixed.
+[2015-02-06 15:14:17] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/616128aa4b65...1bac6d58c329
+[2015-02-06 15:14:17] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/49744589
+[2015-02-06 15:14:17] travis-ci, leaving. (#selendroid)
