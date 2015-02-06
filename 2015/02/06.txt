@@ -40,3 +40,14 @@
 [2015-02-06 13:38:20] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/brDW
 [2015-02-06 13:38:20] selendroid-git: selendroid/master 4befe98 Dominik Dary: Update changelog.md
 [2015-02-06 13:38:20] selendroid-git, leaving. (#selendroid)
+[2015-02-06 13:40:52] travis-ci, joining. (#selendroid)
+[2015-02-06 13:40:52] travis-ci: selendroid/selendroid#571 (master - f9c9357 : Dominik Dary): The build is still failing.
+[2015-02-06 13:40:52] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/e83774a92c4b...f9c93579dc9d
+[2015-02-06 13:40:52] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/49733615
+[2015-02-06 13:40:52] travis-ci, leaving. (#selendroid)
+[2015-02-06 13:41:01] travis-ci, joining. (#selendroid)
+[2015-02-06 13:41:01] travis-ci: selendroid/selendroid#572 (master - 4befe98 : Dominik Dary): The build is still failing.
+[2015-02-06 13:41:02] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/f9c93579dc9d...4befe9805f8b
+[2015-02-06 13:41:02] travis-ci, leaving. (#selendroid)
+[2015-02-06 13:41:02] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/49733705
+[2015-02-06 13:41:56] operatiay, joining. (#selendroid)
