@@ -7,3 +7,22 @@
 [2015-02-06 13:29:06] selendroid-git: selendroid/master 82e8d16 Sascha Nordquist: fix registration of selendroid server into a selenium grid...
 [2015-02-06 13:29:06] selendroid-git: selendroid/master de81de6 Dominik Dary: Merge pull request #802 from snordquist/master...
 [2015-02-06 13:29:06] selendroid-git, leaving. (#selendroid)
+[2015-02-06 13:30:06] selendroid-git, joining. (#selendroid)
+[2015-02-06 13:30:06] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/brXx
+[2015-02-06 13:30:06] selendroid-git: selendroid/master ccfb18e Dominik Dary: Update changelog.md
+[2015-02-06 13:30:06] selendroid-git, leaving. (#selendroid)
+[2015-02-06 13:31:34] travis-ci, joining. (#selendroid)
+[2015-02-06 13:31:34] travis-ci: selendroid/selendroid#568 (master - de81de6 : Dominik Dary): The build is still failing.
+[2015-02-06 13:31:35] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/7c2d80a67460...de81de673120
+[2015-02-06 13:31:35] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/49732921
+[2015-02-06 13:31:35] travis-ci, leaving. (#selendroid)
+[2015-02-06 13:31:45] travis-ci, joining. (#selendroid)
+[2015-02-06 13:31:45] travis-ci: selendroid/selendroid#569 (master - ccfb18e : Dominik Dary): The build is still failing.
+[2015-02-06 13:31:45] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/de81de673120...ccfb18eaa7de
+[2015-02-06 13:31:46] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/49732971
+[2015-02-06 13:31:46] travis-ci, leaving. (#selendroid)
+[2015-02-06 13:34:45] selendroid-git, joining. (#selendroid)
+[2015-02-06 13:34:46] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/brMY
+[2015-02-06 13:34:46] selendroid-git: selendroid/master 9db2ca0 unknown: Added support for Android 20 and 21 as well as tests to confirm that the max support version is Android 21.
+[2015-02-06 13:34:46] selendroid-git: selendroid/master e83774a Dominik Dary: Merge pull request #777 from IntertechInc/master...
+[2015-02-06 13:34:46] selendroid-git, leaving. (#selendroid)
