@@ -92,3 +92,4 @@
 [2015-02-06 17:19:08] selendroid-git, joining. (#selendroid)
 [2015-02-06 17:19:08] selendroid-git: [selendroid] asm89 deleted fix/latestMavenPlugin at 7ae2113: http://git.io/bK8S
 [2015-02-06 17:19:08] selendroid-git, leaving. (#selendroid)
+[2015-02-06 17:45:04] smccarthy, joining. (#selendroid)
