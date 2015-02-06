@@ -64,3 +64,11 @@
 [2015-02-06 14:45:58] selendroid-git, leaving. (#selendroid)
 [2015-02-06 14:55:44] ddary, quitting. (Quit: ddary)
 [2015-02-06 15:02:02] operatiay, quitting. (Remote host closed the connection)
+[2015-02-06 15:08:36] selendroid-git, joining. (#selendroid)
+[2015-02-06 15:08:36] selendroid-git: [selendroid] DominikDary closed pull request #804: Fixing maven issues. (master...fix/latestMavenPlugin) http://git.io/brA3
+[2015-02-06 15:08:36] selendroid-git, leaving. (#selendroid)
+[2015-02-06 15:09:35] selendroid-git, joining. (#selendroid)
+[2015-02-06 15:09:36] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/bonb
+[2015-02-06 15:09:36] selendroid-git: selendroid/master 1bac6d5 Dominik Dary: Update changelog.md
+[2015-02-06 15:09:36] selendroid-git, leaving. (#selendroid)
+[2015-02-06 15:09:52] ddary, joining. (#selendroid)
