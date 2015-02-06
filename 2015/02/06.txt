@@ -86,3 +86,9 @@
 [2015-02-06 15:14:17] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/49744589
 [2015-02-06 15:14:17] travis-ci, leaving. (#selendroid)
 [2015-02-06 16:47:31] smccarthy, quitting. (Quit: Leaving...)
+[2015-02-06 17:16:18] selendroid-git, joining. (#selendroid)
+[2015-02-06 17:16:18] selendroid-git: [selendroid] asm89 deleted fix/native-search-views at 859ee30: http://git.io/bKWh
+[2015-02-06 17:16:19] selendroid-git, leaving. (#selendroid)
+[2015-02-06 17:19:08] selendroid-git, joining. (#selendroid)
+[2015-02-06 17:19:08] selendroid-git: [selendroid] asm89 deleted fix/latestMavenPlugin at 7ae2113: http://git.io/bK8S
+[2015-02-06 17:19:08] selendroid-git, leaving. (#selendroid)
