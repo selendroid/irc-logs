@@ -58,3 +58,7 @@
 [2015-02-06 14:13:29] selendroid-git, joining. (#selendroid)
 [2015-02-06 14:13:29] selendroid-git: [selendroid] DominikDary opened pull request #804: Fixing maven issues. (master...fix/latestMavenPlugin) http://git.io/brA3
 [2015-02-06 14:13:29] selendroid-git, leaving. (#selendroid)
+[2015-02-06 14:45:58] selendroid-git, joining. (#selendroid)
+[2015-02-06 14:45:58] selendroid-git: selendroid/fix/latestMavenPlugin 7ae2113 Dominik Dary: Fixing maven issues.
+[2015-02-06 14:45:58] selendroid-git: [selendroid] DominikDary force-pushed fix/latestMavenPlugin from ad3a6af to 7ae2113: http://git.io/botG
+[2015-02-06 14:45:58] selendroid-git, leaving. (#selendroid)
