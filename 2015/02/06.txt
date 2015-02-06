@@ -62,3 +62,4 @@
 [2015-02-06 14:45:58] selendroid-git: selendroid/fix/latestMavenPlugin 7ae2113 Dominik Dary: Fixing maven issues.
 [2015-02-06 14:45:58] selendroid-git: [selendroid] DominikDary force-pushed fix/latestMavenPlugin from ad3a6af to 7ae2113: http://git.io/botG
 [2015-02-06 14:45:58] selendroid-git, leaving. (#selendroid)
+[2015-02-06 14:55:44] ddary, quitting. (Quit: ddary)
