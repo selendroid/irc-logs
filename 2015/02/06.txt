@@ -1,1 +1,9 @@
 [2015-02-06 13:21:31] selendroidbot, joining. (#selendroid)
+[2015-02-06 13:25:42] selendroidbot, joining. (#selendroid)
+[2015-02-06 13:25:46] ddary: :log
+[2015-02-06 13:27:48] ddary: :note lukeis the build on travis is broken. I’m not aware of having broken something. I updated maven and on my machine i have a green build. do you have an idea?
+[2015-02-06 13:29:06] selendroid-git, joining. (#selendroid)
+[2015-02-06 13:29:06] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/brXD
+[2015-02-06 13:29:06] selendroid-git: selendroid/master 82e8d16 Sascha Nordquist: fix registration of selendroid server into a selenium grid...
+[2015-02-06 13:29:06] selendroid-git: selendroid/master de81de6 Dominik Dary: Merge pull request #802 from snordquist/master...
+[2015-02-06 13:29:06] selendroid-git, leaving. (#selendroid)
