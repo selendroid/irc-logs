@@ -17,3 +17,4 @@
 [2015-02-07 19:11:43] mtimkvch, quitting. (Ping timeout: 250 seconds)
 [2015-02-07 19:18:11] mtimkvch, joining. (#selendroid)
 [2015-02-07 19:19:23] mtimkvch, quitting. (Remote host closed the connection)
+[2015-02-07 19:27:13] mtimkvch, joining. (#selendroid)
