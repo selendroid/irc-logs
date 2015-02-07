@@ -2,3 +2,6 @@
 [2015-02-07 01:41:55] smccarthy, joining. (#selendroid)
 [2015-02-07 07:30:53] smccarthy, quitting. (Quit: Leaving...)
 [2015-02-07 16:34:42] smccarthy, joining. (#selendroid)
+[2015-02-07 17:30:36] maan, joining. (#selendroid)
+[2015-02-07 17:30:51] lukeis, joining. (#selendroid)
+[2015-02-07 17:33:14] lukeis: :log
