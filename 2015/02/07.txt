@@ -11,3 +11,4 @@
 [2015-02-07 17:54:45] migdelv, joining. (#selendroid)
 [2015-02-07 17:55:20] xeeew, quitting. (Client Quit)
 [2015-02-07 18:02:21] mtimkvch, joining. (#selendroid)
+[2015-02-07 18:05:22] migdelv, quitting. (Ping timeout: 246 seconds)
