@@ -21,3 +21,6 @@
 [2015-02-07 20:16:55] operatiay, joining. (#selendroid)
 [2015-02-07 20:51:39] smccarthy, quitting. (Quit: Leaving...)
 [2015-02-07 21:18:47] mtimkvch, quitting. (Read error: Connection reset by peer)
+[2015-02-07 21:30:59] mtimkvch, joining. (#selendroid)
+[2015-02-07 21:31:18] mtimkvch, leaving. (#selendroid)
+[2015-02-07 21:31:59] mtimkvch, joining. (#selendroid)
