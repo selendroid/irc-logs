@@ -14,3 +14,4 @@
 [2015-02-07 18:05:22] migdelv, quitting. (Ping timeout: 246 seconds)
 [2015-02-07 18:10:37] mtimkvch, quitting. (Ping timeout: 256 seconds)
 [2015-02-07 18:12:28] mtimkvch, joining. (#selendroid)
+[2015-02-07 19:11:43] mtimkvch, quitting. (Ping timeout: 250 seconds)
