@@ -9,3 +9,4 @@
 [2015-02-08 01:35:35] operatiay_, changing nick to operatiay.
 [2015-02-08 02:02:07] lukeis, joining. (#selendroid)
 [2015-02-08 02:23:03] smccarthy, quitting. (Ping timeout: 256 seconds)
+[2015-02-08 02:25:16] lukeis, quitting. (Quit: Leaving.)
