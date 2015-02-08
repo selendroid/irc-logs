@@ -44,3 +44,6 @@
 [2015-02-08 17:44:21] ddary: awesome
 [2015-02-08 17:44:36] lukeis: i think everyone can build / run now ;)
 [2015-02-08 17:44:43] ddary: wow
+[2015-02-08 17:45:53] ddary: the other thing. do you have friday, 27th february, time e.g. from 9am to 12 am to go through the open bugs and may close some of the old ones?
+[2015-02-08 17:49:13] ddary: lukeis: having dinner now. probably being online later again
+[2015-02-08 17:49:24] ddary, quitting. (Quit: ddary)
