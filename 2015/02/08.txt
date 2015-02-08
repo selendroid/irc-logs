@@ -37,3 +37,10 @@
 [2015-02-08 17:04:54] asm89: ah ok :)
 [2015-02-08 17:04:57] asm89: < out for now
 [2015-02-08 17:16:25] mmccartney, joining. (#selendroid)
+[2015-02-08 17:43:17] ddary, joining. (#selendroid)
+[2015-02-08 17:43:54] ddary: hi lukeis: ok
+[2015-02-08 17:44:04] ddary: how is austin?
+[2015-02-08 17:44:13] lukeis: going pretty well :)
+[2015-02-08 17:44:21] ddary: awesome
+[2015-02-08 17:44:36] lukeis: i think everyone can build / run now ;)
+[2015-02-08 17:44:43] ddary: wow
