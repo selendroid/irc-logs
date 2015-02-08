@@ -57,3 +57,4 @@
 [2015-02-08 19:23:27] Colin_yo, leaving. (#selendroid)
 [2015-02-08 19:23:28] Colin_yo, joining. (#selendroid)
 [2015-02-08 19:23:31] Colin_yo, leaving. (#selendroid)
+[2015-02-08 19:41:55] smccarthy, joining. (#selendroid)
