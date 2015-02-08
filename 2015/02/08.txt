@@ -24,3 +24,5 @@
 [2015-02-08 05:13:29] mach6, quitting. (Remote host closed the connection)
 [2015-02-08 06:24:31] lukeis, joining. (#selendroid)
 [2015-02-08 06:29:01] lukeis, quitting. (Ping timeout: 250 seconds)
+[2015-02-08 15:32:52] lukeis, joining. (#selendroid)
+[2015-02-08 15:33:41] lukeis: :note ddary my latest fix warrants another point release :) I may or may not get to it today
