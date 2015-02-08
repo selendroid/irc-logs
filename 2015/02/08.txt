@@ -62,3 +62,4 @@
 [2015-02-08 19:49:46] operatiay, quitting. (Remote host closed the connection)
 [2015-02-08 20:01:46] mmccartney, quitting. (Quit: Leaving.)
 [2015-02-08 20:03:16] lukeis, quitting. (Quit: Leaving.)
+[2015-02-08 20:36:42] operatiay, joining. (#selendroid)
