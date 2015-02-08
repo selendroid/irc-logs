@@ -7,3 +7,4 @@
 [2015-02-08 01:35:05] operatia_, changing nick to operatiay_.
 [2015-02-08 01:35:30] operatiay, quitting. (Read error: Connection reset by peer)
 [2015-02-08 01:35:35] operatiay_, changing nick to operatiay.
+[2015-02-08 02:02:07] lukeis, joining. (#selendroid)
