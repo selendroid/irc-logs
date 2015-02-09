@@ -2,3 +2,5 @@
 [2015-02-09 00:16:42] operatiay, quitting. (Remote host closed the connection)
 [2015-02-09 01:33:05] smccarthy, joining. (#selendroid)
 [2015-02-09 05:57:21] smccarthy, quitting. (Quit: Leaving...)
+[2015-02-09 09:27:37] wiwefak, joining. (#selendroid)
+[2015-02-09 09:27:44] wiwefak: Hello
