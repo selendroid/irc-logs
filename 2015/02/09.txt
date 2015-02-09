@@ -14,3 +14,4 @@
 [2015-02-09 14:05:02] operatiay, joining. (#selendroid)
 [2015-02-09 15:55:57] smccarthy, joining. (#selendroid)
 [2015-02-09 16:03:41] smccarthy, quitting. (Quit: Leaving...)
+[2015-02-09 16:58:30] wiwefak, quitting. (Quit: Page closed)
