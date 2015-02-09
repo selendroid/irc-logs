@@ -17,3 +17,4 @@
 [2015-02-09 16:58:30] wiwefak, quitting. (Quit: Page closed)
 [2015-02-09 17:19:55] smccarthy, joining. (#selendroid)
 [2015-02-09 17:49:38] lukeis, joining. (#selendroid)
+[2015-02-09 18:15:14] operatiay, quitting. (Remote host closed the connection)
