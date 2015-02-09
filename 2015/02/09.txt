@@ -13,3 +13,4 @@
 [2015-02-09 13:44:02] operatiay, quitting. (Remote host closed the connection)
 [2015-02-09 14:05:02] operatiay, joining. (#selendroid)
 [2015-02-09 15:55:57] smccarthy, joining. (#selendroid)
+[2015-02-09 16:03:41] smccarthy, quitting. (Quit: Leaving...)
