@@ -38,3 +38,5 @@
 [2015-02-10 21:31:04] ddary, joining. (#selendroid)
 [2015-02-10 21:36:16] mach6, quitting. (Remote host closed the connection)
 [2015-02-10 22:00:21] mach6, joining. (#selendroid)
+[2015-02-10 22:16:23] mach6, quitting. (Read error: Connection reset by peer)
+[2015-02-10 22:16:48] mach6, joining. (#selendroid)
