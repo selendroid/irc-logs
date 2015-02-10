@@ -29,3 +29,5 @@
 [2015-02-10 20:03:10] mach6, quitting. (Remote host closed the connection)
 [2015-02-10 20:06:09] ddary, joining. (#selendroid)
 [2015-02-10 20:36:07] mach6, joining. (#selendroid)
+[2015-02-10 20:53:16] operatiay, joining. (#selendroid)
+[2015-02-10 20:54:18] ddary, quitting. (Quit: ddary)
