@@ -21,3 +21,4 @@
 [2015-02-10 16:39:15] smccarthy, quitting. (Quit: Leaving...)
 [2015-02-10 17:17:37] detronizator, joining. (#selendroid)
 [2015-02-10 17:38:54] smccarthy, joining. (#selendroid)
+[2015-02-10 17:50:05] ddary, joining. (#selendroid)
