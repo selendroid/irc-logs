@@ -42,3 +42,7 @@
 [2015-02-10 22:16:48] mach6, joining. (#selendroid)
 [2015-02-10 22:47:15] ddary, leaving. (#selendroid)
 [2015-02-10 22:50:43] smccarthy, quitting. (Quit: Leaving...)
+[2015-02-10 23:02:26] mach6_, joining. (#selendroid)
+[2015-02-10 23:02:26] mach6, quitting. (Read error: Connection reset by peer)
+[2015-02-10 23:03:41] mach6_, quitting. (Read error: Connection reset by peer)
+[2015-02-10 23:04:07] mach6, joining. (#selendroid)
