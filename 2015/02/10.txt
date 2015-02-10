@@ -11,3 +11,5 @@
 [2015-02-10 13:45:51] operatiay, quitting. (Remote host closed the connection)
 [2015-02-10 15:03:15] operatiay, joining. (#selendroid)
 [2015-02-10 15:18:19] smccarthy, joining. (#selendroid)
+[2015-02-10 16:06:49] operatiay, quitting. (Remote host closed the connection)
+[2015-02-10 16:08:37] mniebes, joining. (#selendroid)
