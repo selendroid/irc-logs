@@ -13,3 +13,5 @@
 [2015-02-10 15:18:19] smccarthy, joining. (#selendroid)
 [2015-02-10 16:06:49] operatiay, quitting. (Remote host closed the connection)
 [2015-02-10 16:08:37] mniebes, joining. (#selendroid)
+[2015-02-10 16:27:09] mniebes: I want to run the same tests parallel on every connected device. Is there a way to ask for all connected devices ("supportedDevices") of a already started standalone server?
+[2015-02-10 16:27:40] mniebes: like selendroidLauncher.getServer().getDriver().getSupportedDevices(), but with an already started server
