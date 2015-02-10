@@ -35,3 +35,4 @@
 [2015-02-10 21:11:03] operatiay, quitting. (Read error: Connection reset by peer)
 [2015-02-10 21:11:43] operatia_, quitting. (Read error: Connection reset by peer)
 [2015-02-10 21:12:02] operatiay, joining. (#selendroid)
+[2015-02-10 21:31:04] ddary, joining. (#selendroid)
