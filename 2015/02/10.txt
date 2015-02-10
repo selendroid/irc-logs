@@ -23,3 +23,4 @@
 [2015-02-10 17:38:54] smccarthy, joining. (#selendroid)
 [2015-02-10 17:50:05] ddary, joining. (#selendroid)
 [2015-02-10 17:55:51] ddary, quitting. (Quit: Page closed)
+[2015-02-10 18:00:37] lukeis, joining. (#selendroid)
