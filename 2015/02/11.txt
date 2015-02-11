@@ -51,3 +51,6 @@
 [2015-02-11 17:59:03] smikloso, leaving. (#selendroid)
 [2015-02-11 18:29:30] operatiay, quitting. (Remote host closed the connection)
 [2015-02-11 19:21:17] mach6, quitting. (Remote host closed the connection)
+[2015-02-11 20:28:32] mach6, joining. (#selendroid)
+[2015-02-11 20:29:11] mach6, quitting. (Read error: Connection reset by peer)
+[2015-02-11 20:29:34] mach6, joining. (#selendroid)
