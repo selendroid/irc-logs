@@ -4,3 +4,5 @@
 [2015-02-11 00:44:33] mach6, quitting. (Read error: Connection reset by peer)
 [2015-02-11 01:05:04] lukeis, quitting. (Ping timeout: 250 seconds)
 [2015-02-11 01:35:01] operatiay, quitting. (Remote host closed the connection)
+[2015-02-11 02:03:33] Cameron__, joining. (#selendroid)
+[2015-02-11 02:03:56] Cameron__, quitting. (Client Quit)
