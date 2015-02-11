@@ -49,3 +49,4 @@
 [2015-02-11 17:36:24] mach6, joining. (#selendroid)
 [2015-02-11 17:51:30] lukeis, joining. (#selendroid)
 [2015-02-11 17:59:03] smikloso, leaving. (#selendroid)
+[2015-02-11 18:29:30] operatiay, quitting. (Remote host closed the connection)
