@@ -58,3 +58,5 @@
 [2015-02-11 20:31:04] mach6, quitting. (Read error: Connection reset by peer)
 [2015-02-11 20:58:34] mach6, joining. (#selendroid)
 [2015-02-11 20:58:34] mach6_, quitting. (Read error: Connection reset by peer)
+[2015-02-11 23:00:52] mach6, quitting. (Read error: Connection reset by peer)
+[2015-02-11 23:01:56] mach6, joining. (#selendroid)
