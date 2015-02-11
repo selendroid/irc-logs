@@ -37,3 +37,4 @@
 [2015-02-11 13:22:52] operatiay, joining. (#selendroid)
 [2015-02-11 13:25:36] operatia_, joining. (#selendroid)
 [2015-02-11 13:28:09] operatiay, quitting. (Ping timeout: 245 seconds)
+[2015-02-11 14:05:51] mach6, joining. (#selendroid)
