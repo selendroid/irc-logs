@@ -11,3 +11,4 @@
 [2015-02-11 03:46:29] mach6, joining. (#selendroid)
 [2015-02-11 03:51:18] mach6, quitting. (Ping timeout: 265 seconds)
 [2015-02-11 05:30:40] smccarthy, quitting. (Quit: Leaving...)
+[2015-02-11 05:51:47] maan, joining. (#selendroid)
