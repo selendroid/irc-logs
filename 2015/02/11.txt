@@ -9,3 +9,4 @@
 [2015-02-11 03:00:27] mach6_, quitting. (Read error: Connection reset by peer)
 [2015-02-11 03:07:49] smccarthy, joining. (#selendroid)
 [2015-02-11 03:46:29] mach6, joining. (#selendroid)
+[2015-02-11 03:51:18] mach6, quitting. (Ping timeout: 265 seconds)
