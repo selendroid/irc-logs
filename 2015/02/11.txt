@@ -8,3 +8,4 @@
 [2015-02-11 02:03:56] Cameron__, quitting. (Client Quit)
 [2015-02-11 03:00:27] mach6_, quitting. (Read error: Connection reset by peer)
 [2015-02-11 03:07:49] smccarthy, joining. (#selendroid)
+[2015-02-11 03:46:29] mach6, joining. (#selendroid)
