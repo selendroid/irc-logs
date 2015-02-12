@@ -13,3 +13,4 @@
 [2015-02-12 10:16:43] operatiay, joining. (#selendroid)
 [2015-02-12 10:18:39] lukeis1, quitting. (Quit: Leaving.)
 [2015-02-12 13:29:53] operatiay, quitting. (Remote host closed the connection)
+[2015-02-12 13:49:09] maan, joining. (#selendroid)
