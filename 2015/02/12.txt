@@ -6,3 +6,4 @@
 [2015-02-12 02:01:38] operatia_, quitting. (Remote host closed the connection)
 [2015-02-12 03:09:37] mach6, quitting. (Quit: Leaving...)
 [2015-02-12 04:30:15] smccarthy, joining. (#selendroid)
+[2015-02-12 05:32:05] smccarthy, quitting. (Quit: Leaving...)
