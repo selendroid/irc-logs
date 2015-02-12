@@ -42,3 +42,4 @@
 [2015-02-12 19:44:47] jlipps, joining. (#selendroid)
 [2015-02-12 19:53:07] maan, quitting. (Remote host closed the connection)
 [2015-02-12 19:54:26] jlipps, quitting. (Quit: Leaving.)
+[2015-02-12 20:03:11] operatiay, joining. (#selendroid)
