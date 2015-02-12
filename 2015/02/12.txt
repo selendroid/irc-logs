@@ -22,3 +22,5 @@
 [2015-02-12 14:43:52] mniebes, quitting. (Ping timeout: 240 seconds)
 [2015-02-12 15:01:57] smikloso, joining. (#selendroid)
 [2015-02-12 15:13:08] smccarthy, joining. (#selendroid)
+[2015-02-12 15:50:04] smccarthy2, joining. (#selendroid)
+[2015-02-12 15:51:35] smccarthy, quitting. (Read error: Connection reset by peer)
