@@ -8,3 +8,5 @@
 [2015-02-12 04:30:15] smccarthy, joining. (#selendroid)
 [2015-02-12 05:32:05] smccarthy, quitting. (Quit: Leaving...)
 [2015-02-12 06:24:34] lukeis, joining. (#selendroid)
+[2015-02-12 06:26:19] lukeis1, joining. (#selendroid)
+[2015-02-12 06:28:40] lukeis, quitting. (Ping timeout: 244 seconds)
