@@ -33,3 +33,6 @@
 [2015-02-13 16:09:11] maan, joining. (#selendroid)
 [2015-02-13 16:13:06] maan, quitting. (Read error: Connection reset by peer)
 [2015-02-13 16:24:24] maan, joining. (#selendroid)
+[2015-02-13 16:25:18] maan, quitting. (Read error: Connection reset by peer)
+[2015-02-13 16:27:46] maan, joining. (#selendroid)
+[2015-02-13 16:28:41] maan, quitting. (Read error: Connection reset by peer)
