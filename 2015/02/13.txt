@@ -54,3 +54,4 @@
 [2015-02-13 17:26:26] maan, quitting. (Ping timeout: 246 seconds)
 [2015-02-13 18:32:57] maan_, joining. (#selendroid)
 [2015-02-13 18:33:10] angliscwork, quitting. (Quit: Leaving)
+[2015-02-13 18:37:00] maan_: :)
