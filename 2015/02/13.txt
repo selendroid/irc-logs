@@ -65,3 +65,4 @@
 [2015-02-13 22:21:07] lukeis, quitting. (Ping timeout: 245 seconds)
 [2015-02-13 22:25:19] lukeis, joining. (#selendroid)
 [2015-02-13 22:28:33] lukeis1, joining. (#selendroid)
+[2015-02-13 22:30:56] lukeis, quitting. (Ping timeout: 246 seconds)
