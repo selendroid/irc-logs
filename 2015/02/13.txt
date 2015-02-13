@@ -8,3 +8,5 @@
 [2015-02-13 10:19:30] operatia_, joining. (#selendroid)
 [2015-02-13 10:22:47] operatiay, quitting. (Ping timeout: 245 seconds)
 [2015-02-13 10:49:26] operatia_, changing nick to operatiay.
+[2015-02-13 10:51:05] operatiay: Hi, it seems it's not possible to build selendroid without cordova library... :( such a pity
+[2015-02-13 10:52:44] operatiay: isn't there a way to make it optional? It's only needed by those folks out there who are actually using cordova... the rest of us are now bound to add the library to local maven
