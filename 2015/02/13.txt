@@ -60,3 +60,5 @@
 [2015-02-13 20:08:48] maan__, joining. (#selendroid)
 [2015-02-13 20:09:06] maan_, quitting. (Read error: Connection reset by peer)
 [2015-02-13 21:10:15] maan__, quitting. (Remote host closed the connection)
+[2015-02-13 21:42:12] lukeis, quitting. (Quit: Leaving.)
+[2015-02-13 21:42:27] lukeis, joining. (#selendroid)
