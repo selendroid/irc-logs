@@ -12,3 +12,4 @@
 [2015-02-13 10:52:44] operatiay: isn't there a way to make it optional? It's only needed by those folks out there who are actually using cordova... the rest of us are now bound to add the library to local maven
 [2015-02-13 11:00:06] operatiay: well, ok. the needed bit is now part of the project in the third-party folder...
 [2015-02-13 11:19:18] operatiay: and what's happened with my rollback of the commit?
+[2015-02-13 14:20:23] operatiay: :note lukeis does the inspector work for you on main branch? I'm only able to see the screenshot column. no tree view, no details (in chrome)
