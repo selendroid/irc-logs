@@ -15,3 +15,4 @@
 [2015-02-13 14:20:23] operatiay: :note lukeis does the inspector work for you on main branch? I'm only able to see the screenshot column. no tree view, no details (in chrome)
 [2015-02-13 14:27:38] maan, joining. (#selendroid)
 [2015-02-13 14:34:54] maan_, joining. (#selendroid)
+[2015-02-13 14:37:28] maan, quitting. (Ping timeout: 264 seconds)
