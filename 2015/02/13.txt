@@ -50,3 +50,4 @@
 [2015-02-13 16:50:17] maan, joining. (#selendroid)
 [2015-02-13 16:51:15] maan, quitting. (Read error: Connection reset by peer)
 [2015-02-13 16:54:23] maan, joining. (#selendroid)
+[2015-02-13 17:21:19] lukeis, joining. (#selendroid)
