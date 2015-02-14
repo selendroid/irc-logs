@@ -10,3 +10,4 @@
 [2015-02-14 17:56:11] maan, joining. (#selendroid)
 [2015-02-14 18:51:29] smccarthy, quitting. (Quit: Leaving...)
 [2015-02-14 19:00:35] maan, quitting. (Read error: Connection reset by peer)
+[2015-02-14 20:09:02] maan, joining. (#selendroid)
