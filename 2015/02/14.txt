@@ -21,3 +21,4 @@
 [2015-02-14 21:19:24] operatiay, joining. (#selendroid)
 [2015-02-14 21:20:21] operatia_, joining. (#selendroid)
 [2015-02-14 21:24:18] operatiay, quitting. (Ping timeout: 264 seconds)
+[2015-02-14 21:25:34] smccarthy, joining. (#selendroid)
