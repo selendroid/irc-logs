@@ -4,3 +4,5 @@
 [2015-02-15 07:19:22] smccarthy, joining. (#selendroid)
 [2015-02-15 07:23:57] smccarthy, quitting. (Client Quit)
 [2015-02-15 14:22:27] operatiay, joining. (#selendroid)
+[2015-02-15 14:25:28] operatiay, quitting. (Read error: Connection reset by peer)
+[2015-02-15 14:26:10] operatiay, joining. (#selendroid)
