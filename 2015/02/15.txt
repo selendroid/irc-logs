@@ -7,3 +7,4 @@
 [2015-02-15 14:25:28] operatiay, quitting. (Read error: Connection reset by peer)
 [2015-02-15 14:26:10] operatiay, joining. (#selendroid)
 [2015-02-15 15:59:55] smccarthy, joining. (#selendroid)
+[2015-02-15 16:02:48] operatiay, quitting. (Remote host closed the connection)
