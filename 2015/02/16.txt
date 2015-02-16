@@ -25,3 +25,4 @@
 [2015-02-16 18:02:48] operatiay, quitting. (Read error: No route to host)
 [2015-02-16 18:03:22] operatiay, joining. (#selendroid)
 [2015-02-16 18:18:18] maan_, quitting. (Remote host closed the connection)
+[2015-02-16 18:24:30] operatia_, joining. (#selendroid)
