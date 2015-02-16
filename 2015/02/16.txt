@@ -30,3 +30,4 @@
 [2015-02-16 18:25:17] operatiay, quitting. (Ping timeout: 246 seconds)
 [2015-02-16 18:25:30] operatiay, joining. (#selendroid)
 [2015-02-16 18:34:24] operatia_, joining. (#selendroid)
+[2015-02-16 18:35:58] operatiay, quitting. (Ping timeout: 252 seconds)
