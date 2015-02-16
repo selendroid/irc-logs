@@ -29,3 +29,4 @@
 [2015-02-16 18:25:15] operatia_, quitting. (Read error: Connection reset by peer)
 [2015-02-16 18:25:17] operatiay, quitting. (Ping timeout: 246 seconds)
 [2015-02-16 18:25:30] operatiay, joining. (#selendroid)
+[2015-02-16 18:34:24] operatia_, joining. (#selendroid)
