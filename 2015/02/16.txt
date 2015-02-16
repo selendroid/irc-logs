@@ -26,3 +26,6 @@
 [2015-02-16 18:03:22] operatiay, joining. (#selendroid)
 [2015-02-16 18:18:18] maan_, quitting. (Remote host closed the connection)
 [2015-02-16 18:24:30] operatia_, joining. (#selendroid)
+[2015-02-16 18:25:15] operatia_, quitting. (Read error: Connection reset by peer)
+[2015-02-16 18:25:17] operatiay, quitting. (Ping timeout: 246 seconds)
+[2015-02-16 18:25:30] operatiay, joining. (#selendroid)
