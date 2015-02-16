@@ -36,3 +36,4 @@
 [2015-02-16 21:02:12] ddary, joining. (#selendroid)
 [2015-02-16 21:03:20] ddary: :note lukeis you mentioned it makes sense to do a new point release. Are you planning to do it or should I plan for it? I can do it wednesday evening.
 [2015-02-16 21:03:30] ddary, leaving. (#selendroid)
+[2015-02-16 22:14:45] operatiay, quitting. (Remote host closed the connection)
