@@ -3,3 +3,4 @@
 [2015-02-16 10:40:09] wiwefak, joining. (#selendroid)
 [2015-02-16 11:28:20] wiwefak: hello! Got a question regarding a problem
 [2015-02-16 11:39:33] detronizator, joining. (#selendroid)
+[2015-02-16 12:47:58] smikloso, quitting. (Ping timeout: 255 seconds)
