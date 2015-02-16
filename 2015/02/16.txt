@@ -5,3 +5,4 @@
 [2015-02-16 11:39:33] detronizator, joining. (#selendroid)
 [2015-02-16 12:47:58] smikloso, quitting. (Ping timeout: 255 seconds)
 [2015-02-16 13:02:12] wiwefak, quitting. (Quit: Page closed)
+[2015-02-16 13:06:03] smikloso, joining. (#selendroid)
