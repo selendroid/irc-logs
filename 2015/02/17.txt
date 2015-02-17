@@ -31,3 +31,8 @@
 [2015-02-17 21:27:53] operatiay: it is being copied from a different location during maven packaging. if you have selendroid projects open in eclipse next to your test project it won't work (at least it didn't work for me)
 [2015-02-17 21:28:05] operatiay: use separate workspaces for selendroid and your test project
 [2015-02-17 21:28:25] operatiay: the apk can be found in one of the jars
+[2015-02-17 21:33:24] NguyenA1: yea i do have all the selendroid projects open in eclipse as well...  but from command line i ran mvn install -DskipTests=true at the root of the selendroid project
+[2015-02-17 21:33:55] operatiay: ok, so now you've got the necessary jars in your local mvn repository
+[2015-02-17 21:34:08] NguyenA1: i thought i didn't see a maven plugin that copies this...   and i assume that skipping tests shouldn't matter.
+[2015-02-17 21:34:08] operatiay: close the selendroid projects and try again
+[2015-02-17 21:34:14] NguyenA1: okay
