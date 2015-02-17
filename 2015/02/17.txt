@@ -5,3 +5,5 @@
 [2015-02-17 10:38:43] smikloso, joining. (#selendroid)
 [2015-02-17 12:42:04] operatiay, quitting. (Remote host closed the connection)
 [2015-02-17 13:06:48] operatiay, joining. (#selendroid)
+[2015-02-17 14:48:33] operatiay: hey, anyone there?
+[2015-02-17 14:49:22] operatiay: did anyone experience abrupt test breaks after ca. 15 mins?
