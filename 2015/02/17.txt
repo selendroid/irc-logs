@@ -2,3 +2,4 @@
 [2015-02-17 05:28:47] smccarthy, joining. (#selendroid)
 [2015-02-17 05:54:12] smccarthy, quitting. (Quit: Leaving...)
 [2015-02-17 09:24:49] operatiay, joining. (#selendroid)
+[2015-02-17 10:38:43] smikloso, joining. (#selendroid)
