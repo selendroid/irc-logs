@@ -25,3 +25,9 @@
 [2015-02-17 21:02:58] operatiay, joining. (#selendroid)
 [2015-02-17 21:17:32] NguyenA1, joining. (#selendroid)
 [2015-02-17 21:24:33] NguyenA1: hello all!  I'm taking over Binh Vu's/mach's pull request for detecting the api target.  I'm trying to get my environment set up right where I can debug selendroid-standalone to debug and walkthrough how it reads in the emulators and physical devices but...
+[2015-02-17 21:25:55] NguyenA1: i'm getting an exception in AndroidDriverAPKBuilder in extractAndroidDriverAPK() where it is trying to create an input stream on
+[2015-02-17 21:26:19] NguyenA1: this file '/prebuild/android-driver-app-dev.apk'
+[2015-02-17 21:26:55] NguyenA1: what creates this file?  i don't see any code that creates this folder and don't see a maven plugin that is creating this file
+[2015-02-17 21:27:53] operatiay: it is being copied from a different location during maven packaging. if you have selendroid projects open in eclipse next to your test project it won't work (at least it didn't work for me)
+[2015-02-17 21:28:05] operatiay: use separate workspaces for selendroid and your test project
+[2015-02-17 21:28:25] operatiay: the apk can be found in one of the jars
