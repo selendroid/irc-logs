@@ -36,3 +36,10 @@
 [2015-02-17 21:34:08] NguyenA1: i thought i didn't see a maven plugin that copies this...   and i assume that skipping tests shouldn't matter.
 [2015-02-17 21:34:08] operatiay: close the selendroid projects and try again
 [2015-02-17 21:34:14] NguyenA1: okay
+[2015-02-17 22:05:15] NguyenA1: okay thanks for the big tip!   i think i figured it out, when i maven install this, i see the file get created in the jar/classes folder:       /prebuild/android-driver-app-0.15.0-SNAPSHOT.apk
+[2015-02-17 22:05:42] operatiay: yep. that's it :)
+[2015-02-17 22:07:19] NguyenA1: however, when i run in debug mode from eclipse, it is looking for android-driver-app-dev.apk
+[2015-02-17 22:07:19] NguyenA1: thanks!
+[2015-02-17 22:07:31] NguyenA1: thats why i can't run it from eclipse, but running from command line from my built jar is fine
+[2015-02-17 22:08:11] operatiay: you can still run it from eclipse and even debug, but you need to reference the classpath jars and set the source path to them
+[2015-02-17 22:09:52] NguyenA1: yea thats what I'm trying to do right now after i realized that
