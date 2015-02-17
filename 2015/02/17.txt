@@ -24,3 +24,4 @@
 [2015-02-17 19:36:05] maan, quitting. (Remote host closed the connection)
 [2015-02-17 21:02:58] operatiay, joining. (#selendroid)
 [2015-02-17 21:17:32] NguyenA1, joining. (#selendroid)
+[2015-02-17 21:24:33] NguyenA1: hello all!  I'm taking over Binh Vu's/mach's pull request for detecting the api target.  I'm trying to get my environment set up right where I can debug selendroid-standalone to debug and walkthrough how it reads in the emulators and physical devices but...
