@@ -7,3 +7,4 @@
 [2015-02-17 13:06:48] operatiay, joining. (#selendroid)
 [2015-02-17 14:48:33] operatiay: hey, anyone there?
 [2015-02-17 14:49:22] operatiay: did anyone experience abrupt test breaks after ca. 15 mins?
+[2015-02-17 15:01:14] operatiay: I've got a suite which runs approx. 45 mins. I'm getting 2 of those, each after ca 15 min...
