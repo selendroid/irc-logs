@@ -44,3 +44,4 @@
 [2015-02-17 22:08:11] operatiay: you can still run it from eclipse and even debug, but you need to reference the classpath jars and set the source path to them
 [2015-02-17 22:09:52] NguyenA1: yea thats what I'm trying to do right now after i realized that
 [2015-02-17 22:15:18] NguyenA1: I just hardcoded the string to the current build version 0.15.0-SNAPSHOT instead of using the output from getJarVersionNumber()
+[2015-02-17 22:38:25] NguyenA1, quitting. (Ping timeout: 246 seconds)
