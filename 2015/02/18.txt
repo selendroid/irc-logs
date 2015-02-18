@@ -27,3 +27,4 @@
 [2015-02-18 20:52:25] lukeis: niranjani: it's  -forceReinstall     https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/standalone/SelendroidConfiguration.java#L115
 [2015-02-18 20:53:04] lukeis: of course you can always use -h or --help  :)
 [2015-02-18 20:53:13] mach6, quitting. (Remote host closed the connection)
+[2015-02-18 21:24:28] niranjani, quitting. (Ping timeout: 246 seconds)
