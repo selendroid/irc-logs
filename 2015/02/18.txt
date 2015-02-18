@@ -20,3 +20,6 @@
 [2015-02-18 19:26:36] mach6, joining. (#selendroid)
 [2015-02-18 20:00:08] ddary, joining. (#selendroid)
 [2015-02-18 20:19:50] ddary, quitting. (Quit: ddary)
+[2015-02-18 20:45:19] niranjani, joining. (#selendroid)
+[2015-02-18 20:46:28] niranjani: hello people, how do I start the selendroid-standalone server with -force-reinstall ??
+[2015-02-18 20:49:40] smikloso, joining. (#selendroid)
