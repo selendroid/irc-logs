@@ -1,0 +1,1 @@
+[2015-02-19 00:31:54] mach6, quitting. (Remote host closed the connection)
