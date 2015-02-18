@@ -30,3 +30,4 @@
 [2015-02-18 21:24:28] niranjani, quitting. (Ping timeout: 246 seconds)
 [2015-02-18 21:54:05] mach6, joining. (#selendroid)
 [2015-02-18 21:58:34] mach6, quitting. (Ping timeout: 245 seconds)
+[2015-02-18 22:05:04] mach6, joining. (#selendroid)
