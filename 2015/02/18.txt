@@ -23,3 +23,7 @@
 [2015-02-18 20:45:19] niranjani, joining. (#selendroid)
 [2015-02-18 20:46:28] niranjani: hello people, how do I start the selendroid-standalone server with -force-reinstall ??
 [2015-02-18 20:49:40] smikloso, joining. (#selendroid)
+[2015-02-18 20:50:26] smikloso, leaving. (#selendroid)
+[2015-02-18 20:52:25] lukeis: niranjani: it's  -forceReinstall     https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/standalone/SelendroidConfiguration.java#L115
+[2015-02-18 20:53:04] lukeis: of course you can always use -h or --help  :)
+[2015-02-18 20:53:13] mach6, quitting. (Remote host closed the connection)
