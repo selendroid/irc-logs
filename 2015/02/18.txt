@@ -33,3 +33,4 @@
 [2015-02-18 22:05:04] mach6, joining. (#selendroid)
 [2015-02-18 23:16:14] operatiay, joining. (#selendroid)
 [2015-02-18 23:21:35] lukeis, quitting. (Quit: Leaving.)
+[2015-02-18 23:34:32] smccarthy, quitting. (Quit: Leaving...)
