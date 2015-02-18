@@ -9,3 +9,4 @@
 [2015-02-18 13:00:40] operatiay, joining. (#selendroid)
 [2015-02-18 15:45:28] smccarthy, joining. (#selendroid)
 [2015-02-18 16:26:03] smccarthy, quitting. (Quit: Leaving...)
+[2015-02-18 16:38:13] maan, joining. (#selendroid)
