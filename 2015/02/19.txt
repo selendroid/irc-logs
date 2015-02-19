@@ -38,3 +38,4 @@
 [2015-02-19 18:51:19] selendroid-git, joining. (#selendroid)
 [2015-02-19 18:51:19] selendroid-git: [selendroid] scyn-conf closed pull request #810: [deprecated] Introduce Predicate and AndroidElement factories (master...factories) http://git.io/AmxA
 [2015-02-19 18:51:19] selendroid-git, leaving. (#selendroid)
+[2015-02-19 18:58:35] maan, quitting. (Ping timeout: 250 seconds)
