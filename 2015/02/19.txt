@@ -22,3 +22,6 @@
 [2015-02-19 17:15:17] maan, quitting. (Ping timeout: 246 seconds)
 [2015-02-19 17:18:01] maan, joining. (#selendroid)
 [2015-02-19 17:21:49] maan_, quitting. (Ping timeout: 252 seconds)
+[2015-02-19 17:30:04] selendroid-git, joining. (#selendroid)
+[2015-02-19 17:30:04] selendroid-git: [selendroid] scyn-conf opened pull request #810: Introduce Predicate and AndroidElement factories (master...factories) http://git.io/AmxA
+[2015-02-19 17:30:04] selendroid-git, leaving. (#selendroid)
