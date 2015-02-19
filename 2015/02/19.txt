@@ -45,3 +45,4 @@
 [2015-02-19 20:51:41] mach6, quitting. (Ping timeout: 250 seconds)
 [2015-02-19 20:52:17] mach6, joining. (#selendroid)
 [2015-02-19 21:02:39] ddary, quitting. (Quit: Leaving.)
+[2015-02-19 23:11:17] operatiay, quitting. (Remote host closed the connection)
