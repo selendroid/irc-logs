@@ -33,3 +33,11 @@
 [2015-02-20 15:48:21] smikloso, leaving. (#selendroid)
 [2015-02-20 16:04:21] smccarthy, quitting. (Quit: Leaving...)
 [2015-02-20 17:04:46] smccarthy, joining. (#selendroid)
+[2015-02-20 18:05:36] selendroid-git, joining. (#selendroid)
+[2015-02-20 18:05:36] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/ACTy
+[2015-02-20 18:05:36] selendroid-git: selendroid/master 4d31076 Dominik Dary: Update AUTHORS
+[2015-02-20 18:05:36] selendroid-git, leaving. (#selendroid)
+[2015-02-20 18:06:34] selendroid-git, joining. (#selendroid)
+[2015-02-20 18:06:34] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/ACkf
+[2015-02-20 18:06:34] selendroid-git: selendroid/master 468b485 Dominik Dary: Update changelog.md
+[2015-02-20 18:06:34] selendroid-git, leaving. (#selendroid)
