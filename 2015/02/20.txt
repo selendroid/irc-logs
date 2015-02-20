@@ -41,3 +41,8 @@
 [2015-02-20 18:06:34] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/ACkf
 [2015-02-20 18:06:34] selendroid-git: selendroid/master 468b485 Dominik Dary: Update changelog.md
 [2015-02-20 18:06:34] selendroid-git, leaving. (#selendroid)
+[2015-02-20 18:14:15] travis-ci, joining. (#selendroid)
+[2015-02-20 18:14:16] travis-ci: selendroid/selendroid#582 (master - 4d31076 : Dominik Dary): The build passed.
+[2015-02-20 18:14:16] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/67491a38a75b...4d310768e908
+[2015-02-20 18:14:16] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/51537613
+[2015-02-20 18:14:16] travis-ci, leaving. (#selendroid)
