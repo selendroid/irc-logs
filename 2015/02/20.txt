@@ -15,3 +15,8 @@
 [2015-02-20 12:05:38] mach6, joining. (#selendroid)
 [2015-02-20 12:10:36] mach6, quitting. (Ping timeout: 264 seconds)
 [2015-02-20 12:43:18] operatiay, quitting. (Remote host closed the connection)
+[2015-02-20 12:59:29] selendroid-git, joining. (#selendroid)
+[2015-02-20 12:59:29] selendroid-git: [selendroid] asm89 pushed 2 new commits to master: http://git.io/AZQu
+[2015-02-20 12:59:30] selendroid-git: selendroid/master 4afa5cc remi: Introduce Predicate and AndroidElement factories...
+[2015-02-20 12:59:30] selendroid-git: selendroid/master 67491a3 Alexander: Merge pull request #811 from scyn-conf/custom_views_support...
+[2015-02-20 12:59:30] selendroid-git, leaving. (#selendroid)
