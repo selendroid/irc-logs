@@ -2,3 +2,4 @@
 [2015-02-20 01:51:36] mach6, leaving. ("Leaving...")
 [2015-02-20 04:43:37] smccarthy, joining. (#selendroid)
 [2015-02-20 06:15:00] smccarthy, quitting. (Quit: Leaving...)
+[2015-02-20 06:44:45] mach6_, joining. (#selendroid)
