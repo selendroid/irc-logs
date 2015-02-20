@@ -7,3 +7,4 @@
 [2015-02-20 09:40:24] operatiay, joining. (#selendroid)
 [2015-02-20 09:40:48] operatiay, quitting. (Remote host closed the connection)
 [2015-02-20 09:41:24] operatiay, joining. (#selendroid)
+[2015-02-20 10:03:30] mach6, joining. (#selendroid)
