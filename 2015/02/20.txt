@@ -53,3 +53,5 @@
 [2015-02-20 18:16:34] travis-ci, leaving. (#selendroid)
 [2015-02-20 19:24:47] lukeis, joining. (#selendroid)
 [2015-02-20 19:58:06] mach6, joining. (#selendroid)
+[2015-02-20 20:02:32] mach6, quitting. (Ping timeout: 244 seconds)
+[2015-02-20 20:03:06] mach6, joining. (#selendroid)
