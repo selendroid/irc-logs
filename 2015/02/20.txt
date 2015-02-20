@@ -26,3 +26,5 @@
 [2015-02-20 13:04:06] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/bb62935086c1...67491a38a75b
 [2015-02-20 13:04:07] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/51500710
 [2015-02-20 13:04:07] travis-ci, leaving. (#selendroid)
+[2015-02-20 13:07:26] operatiay, joining. (#selendroid)
+[2015-02-20 13:07:44] mach6, quitting. (Ping timeout: 245 seconds)
