@@ -18,3 +18,8 @@
 [2015-02-21 20:28:20] operati__, joining. (#selendroid)
 [2015-02-21 20:28:53] operatiay, quitting. (Read error: Connection reset by peer)
 [2015-02-21 20:29:07] operatia_, quitting. (Read error: Connection reset by peer)
+[2015-02-21 20:53:15] aluedeke, joining. (#selendroid)
+[2015-02-21 20:53:25] aluedeke: hey someone awake?
+[2015-02-21 20:54:28] aluedeke: i am currently experiencing strange issues with selendroid cache can some help?
+[2015-02-21 20:54:49] operati__, changing nick to operatiay.
+[2015-02-21 20:54:53] aluedeke, leaving. (#selendroid)
