@@ -1,3 +1,4 @@
 [2015-02-21 00:40:13] mach6, joining. (#selendroid)
 [2015-02-21 00:57:45] mach6, quitting. (Quit: Leaving...)
 [2015-02-21 02:43:34] lukeis, quitting. (Quit: Leaving.)
+[2015-02-21 03:44:22] detronizator, quitting. (Quit: ZNC - http://znc.in)
