@@ -24,3 +24,4 @@
 [2015-02-21 20:54:49] operati__, changing nick to operatiay.
 [2015-02-21 20:54:53] aluedeke, leaving. (#selendroid)
 [2015-02-21 20:55:12] aluedeke, joining. (#selendroid)
+[2015-02-21 21:40:02] aluedeke: hey i think i just found a bug which is related to findElement and caching of knownElements. Is someone here who could help me to understand the stuff?
