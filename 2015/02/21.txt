@@ -14,3 +14,7 @@
 [2015-02-21 19:08:42] smccarthy, quitting. (Quit: Leaving...)
 [2015-02-21 20:04:58] smccarthy, joining. (#selendroid)
 [2015-02-21 20:24:42] operatiay, joining. (#selendroid)
+[2015-02-21 20:26:41] operatia_, joining. (#selendroid)
+[2015-02-21 20:28:20] operati__, joining. (#selendroid)
+[2015-02-21 20:28:53] operatiay, quitting. (Read error: Connection reset by peer)
+[2015-02-21 20:29:07] operatia_, quitting. (Read error: Connection reset by peer)
