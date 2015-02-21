@@ -29,3 +29,5 @@
 [2015-02-21 22:29:09] colinTheGreatish, joining. (#selendroid)
 [2015-02-21 22:29:22] colinTheGreatish, quitting. (Client Quit)
 [2015-02-21 22:29:39] colinTheGreatish, joining. (#selendroid)
+[2015-02-21 22:30:48] aluedeke, quitting. (Quit: Leaving.)
+[2015-02-21 22:33:15] smccarthy, joining. (#selendroid)
