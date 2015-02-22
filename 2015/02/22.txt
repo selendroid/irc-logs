@@ -2,3 +2,4 @@
 [2015-02-22 00:44:51] smccarthy, joining. (#selendroid)
 [2015-02-22 01:05:21] smccarthy, quitting. (Remote host closed the connection)
 [2015-02-22 01:50:07] colinTheGreatish, joining. (#selendroid)
+[2015-02-22 02:06:43] colinTheGreatish, quitting. (Remote host closed the connection)
