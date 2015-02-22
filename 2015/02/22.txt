@@ -6,3 +6,7 @@
 [2015-02-22 02:12:34] Guest49204, joining. (#selendroid)
 [2015-02-22 02:12:54] Guest49204, quitting. (Client Quit)
 [2015-02-22 02:16:55] smccarthy, joining. (#selendroid)
+[2015-02-22 04:06:18] smccarthy, quitting. (Remote host closed the connection)
+[2015-02-22 04:08:42] smccarthy, joining. (#selendroid)
+[2015-02-22 04:08:56] smccarthy, quitting. (Read error: Connection reset by peer)
+[2015-02-22 04:09:48] smccarthy, joining. (#selendroid)
