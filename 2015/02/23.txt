@@ -1,3 +1,6 @@
 [2015-02-23 00:02:49] smccarthy, joining. (#selendroid)
 [2015-02-23 01:01:42] operatia_, quitting. (Remote host closed the connection)
 [2015-02-23 05:05:34] smccarthy, quitting. (Quit: Leaving...)
+[2015-02-23 05:27:53] selendroid-git, joining. (#selendroid)
+[2015-02-23 05:27:53] selendroid-git: [selendroid] Blackbaud-KyleMartinez opened pull request #816: android api 21 does not have a back button at the top of the network con... (master...fix_setAirplaneMode) http://git.io/AVNE
+[2015-02-23 05:27:53] selendroid-git, leaving. (#selendroid)
