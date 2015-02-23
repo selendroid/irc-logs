@@ -12,3 +12,4 @@
 [2015-02-23 10:25:37] aluedeke, quitting. (Quit: Leaving.)
 [2015-02-23 10:26:00] aluedeke, joining. (#selendroid)
 [2015-02-23 11:29:44] aluedeke, quitting. (Quit: Leaving.)
+[2015-02-23 12:22:46] detronizator, joining. (#selendroid)
