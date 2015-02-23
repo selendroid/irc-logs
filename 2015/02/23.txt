@@ -21,3 +21,4 @@
 [2015-02-23 14:06:33] aluedeke, quitting. (Client Quit)
 [2015-02-23 14:08:10] aluedeke, joining. (#selendroid)
 [2015-02-23 14:08:23] aluedeke, quitting. (Client Quit)
+[2015-02-23 14:20:51] aluedeke, joining. (#selendroid)
