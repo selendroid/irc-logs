@@ -28,3 +28,4 @@
 [2015-02-23 15:52:05] aluedeke, quitting. (Quit: Leaving.)
 [2015-02-23 15:57:29] maan, joining. (#selendroid)
 [2015-02-23 16:19:23] maan, quitting. (Remote host closed the connection)
+[2015-02-23 17:33:32] smccarthy, joining. (#selendroid)
