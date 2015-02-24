@@ -18,3 +18,6 @@
 [2015-02-24 11:18:21] operatiay: can you check how many elements would be found via findElements()?
 [2015-02-24 11:26:04] aluedeke: will check it thx
 [2015-02-24 11:33:42] operatiay: np
+[2015-02-24 12:48:23] rethc, joining. (#selendroid)
+[2015-02-24 12:49:19] rethc: hello
+[2015-02-24 12:49:39] operatiay: :ask
