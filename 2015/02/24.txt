@@ -81,3 +81,4 @@
 [2015-02-24 14:06:40] rethc, joining. (#selendroid)
 [2015-02-24 14:22:58] aluedeke: hey does someone know if selendroid can test cordova 4.0 hybrid apps?
 [2015-02-24 14:54:36] operatiay, joining. (#selendroid)
+[2015-02-24 15:04:55] rethc: hey operatiay. the new URL doesnt seem to work either. it cant parse the table but every other elements it can detect :(
