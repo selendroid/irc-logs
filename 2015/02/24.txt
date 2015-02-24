@@ -143,3 +143,21 @@
 [2015-02-24 23:03:36] operatia_: which means that it won't be possible to use google maps on a watch
 [2015-02-24 23:04:16] NguyenA1: then our single string wouldn't suffice for a device we want that has android wear with google api
 [2015-02-24 23:04:52] operatia_: and I'm not even sure whether it's possible to check it on real devices
+[2015-02-24 23:05:22] operatia_: on the other hand we might do it as a string for now and see how it's going to be used
+[2015-02-24 23:05:26] NguyenA1: in regards to checking if a target device has google api, we found this
+[2015-02-24 23:05:34] NguyenA1: http://developer.xamarin.com/samples/MapsDemo/
+[2015-02-24 23:05:39] NguyenA1: where he suggested to check for
+[2015-02-24 23:06:00] NguyenA1: adb shell ls /system/framework/*map*
+[2015-02-24 23:06:01] operatia_: I've seen a solution for that somewhere as well
+[2015-02-24 23:06:13] operatia_: oh, that's nice
+[2015-02-24 23:06:24] NguyenA1: and if that exists you have google api so thats how i was going to determine
+[2015-02-24 23:06:26] operatia_: so there's no need to use an app
+[2015-02-24 23:06:41] NguyenA1: okay we can go with string for now, and adapt as things change and see how it goes
+[2015-02-24 23:06:47] operatia_: so what about the other APIs?
+[2015-02-24 23:06:51] NguyenA1: yea none of that crazy pre install an app just to check and then clean up
+[2015-02-24 23:06:56] mach6: Hi nguyena1 and opertia_
+[2015-02-24 23:07:05] NguyenA1: i was trying to figure that out for fun right now
+[2015-02-24 23:07:26] NguyenA1: looking for a unique jar in this folder system/framework folder on a android watch emulator
+[2015-02-24 23:07:27] NguyenA1: hi mach6
+[2015-02-24 23:07:41] operatia_: hi mach6
+[2015-02-24 23:07:56] operatia_, changing nick to operatiay.
