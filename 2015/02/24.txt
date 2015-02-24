@@ -12,3 +12,7 @@
 [2015-02-24 11:11:13] aluedeke: i documented my findings already here: https://github.com/selendroid/selendroid/issues/814
 [2015-02-24 11:12:42] aluedeke: so when interacting with elements they are already returned from a class called KnownElements and they are check if the belong to the current root view. unfortunately when i call findElement it returns element which do not belong to the current root view
 [2015-02-24 11:13:53] operatiay: is your finder probably not unique? try searching for elements and see how many you get back
+[2015-02-24 11:15:12] operatiay: what I normally do as well is checking whether the elements are displayed
+[2015-02-24 11:16:04] aluedeke: that is actually my issue i call findElement(...) element.isDisplayed and i got the StaleElementException already in the isDisplayed call
+[2015-02-24 11:17:59] operatiay: not sure why this should happen. I haven't seen this behaviour in my cases
+[2015-02-24 11:18:21] operatiay: can you check how many elements would be found via findElements()?
