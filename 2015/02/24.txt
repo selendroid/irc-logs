@@ -109,3 +109,4 @@
 [2015-02-24 17:29:22] smccarthy, joining. (#selendroid)
 [2015-02-24 18:23:52] maan, joining. (#selendroid)
 [2015-02-24 18:27:36] operatiay, joining. (#selendroid)
+[2015-02-24 18:31:24] smikloso, leaving. (#selendroid)
