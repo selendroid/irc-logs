@@ -8,3 +8,7 @@
 [2015-02-24 10:35:29] operatiay, joining. (#selendroid)
 [2015-02-24 10:39:50] aluedeke: i there anyone who can help with with some issues i found while using selendroid
 [2015-02-24 11:08:56] operatiay: what issue have you got with selendroid?
+[2015-02-24 11:10:32] aluedeke: hey i actually experience a lot of StaleElementExceptions. The issue is that selendroid returns elements which are already stale in the moment its is returning them
+[2015-02-24 11:11:13] aluedeke: i documented my findings already here: https://github.com/selendroid/selendroid/issues/814
+[2015-02-24 11:12:42] aluedeke: so when interacting with elements they are already returned from a class called KnownElements and they are check if the belong to the current root view. unfortunately when i call findElement it returns element which do not belong to the current root view
+[2015-02-24 11:13:53] operatiay: is your finder probably not unique? try searching for elements and see how many you get back
