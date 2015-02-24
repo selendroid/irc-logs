@@ -17,3 +17,4 @@
 [2015-02-24 11:17:59] operatiay: not sure why this should happen. I haven't seen this behaviour in my cases
 [2015-02-24 11:18:21] operatiay: can you check how many elements would be found via findElements()?
 [2015-02-24 11:26:04] aluedeke: will check it thx
+[2015-02-24 11:33:42] operatiay: np
