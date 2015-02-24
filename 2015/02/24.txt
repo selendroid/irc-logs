@@ -165,3 +165,13 @@
 [2015-02-24 23:18:32] NguyenA1: getprop on the device doesn't have any properties that stand out to say, this is androidwear
 [2015-02-24 23:18:57] operatiay: it might be another way around: something's missing
 [2015-02-24 23:19:04] NguyenA1: so im not sure if android wear and tvs have more api libs for their device, vs standard apis
+[2015-02-24 23:20:12] NguyenA1: actually there has to be, theres gotta be api calls for accessing heart rate stuff, other native android stuff that always will be on android wear devices
+[2015-02-24 23:20:16] operatiay: yes, those were simply the different emulator types offered for the next android version
+[2015-02-24 23:20:57] operatiay: it might be a framework version difference
+[2015-02-24 23:21:17] operatiay: which would make it very fragile
+[2015-02-24 23:21:26] NguyenA1: https://developer.android.com/google/auth/api-client.html#WearableApi
+[2015-02-24 23:21:47] NguyenA1: based on this sentences wording... If your app uses the Wearable API in addition to other Google APIs,
+[2015-02-24 23:23:30] operatiay: but it must be an addition to google api (which on standard devices contains only map API)
+[2015-02-24 23:23:50] operatiay: oh, it's an APP
+[2015-02-24 23:23:54] NguyenA1: so this sounds like yes that its in addition to google api
+[2015-02-24 23:24:12] operatiay: com.google.android.wearable.app
