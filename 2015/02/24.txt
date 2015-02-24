@@ -30,3 +30,13 @@
 [2015-02-24 12:54:15] rethc: im just using the cssSelector method
 [2015-02-24 12:54:27] rethc: dont need the testing features etc
 [2015-02-24 12:54:43] rethc: i tried JSoup but it can't parse dynamically created HTML :(
+[2015-02-24 12:55:15] operatiay: so you'd get the html page using a direct connection to a url, then parse the table (you don't really need to use css selector for this).
+[2015-02-24 12:56:49] rethc: ive tried jsoup Element selector but it wouldn't find the table on the page, and Stackoverflow says Selenium was a good way to do it
+[2015-02-24 12:57:18] operatiay: but not on a mobile device
+[2015-02-24 12:57:40] rethc: ohh i see
+[2015-02-24 12:57:50] operatiay: is the table being generated via AJAX?
+[2015-02-24 12:58:10] rethc: im not sure, but i can link it to you if im allowed to
+[2015-02-24 12:58:16] operatiay: as a solution to your problem you might want to do it on some server, store the result and provide it via an API
+[2015-02-24 12:59:05] rethc: i think it gets the calculations from google maps api
+[2015-02-24 12:59:15] operatiay: ok, let me have a look then
+[2015-02-24 12:59:15] rethc: http://www.metlink.org.nz/stop/9145
