@@ -98,3 +98,4 @@
 [2015-02-24 15:13:21] rethc: gonna work on it tomrow
 [2015-02-24 15:13:24] rethc, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2015-02-24 15:13:26] operatiay: no worries :) although it's totally unrelated to the group here
+[2015-02-24 15:50:20] maan, joining. (#selendroid)
