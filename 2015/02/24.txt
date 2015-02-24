@@ -118,3 +118,7 @@
 [2015-02-24 20:19:36] operatia_, joining. (#selendroid)
 [2015-02-24 20:52:41] mach6, joining. (#selendroid)
 [2015-02-24 21:59:11] mach6, quitting. (Remote host closed the connection)
+[2015-02-24 22:57:01] NguyenA1, joining. (#selendroid)
+[2015-02-24 22:59:25] NguyenA1: https://github.com/selendroid/selendroid/pull/787/files
+[2015-02-24 22:59:39] NguyenA1: operatia_ or lukeis are any of you here now?
+[2015-02-24 22:59:57] NguyenA1: so i'm still not sure, about what this desired capabilities should be...
