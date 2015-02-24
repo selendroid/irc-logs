@@ -49,3 +49,16 @@
 [2015-02-24 13:02:44] operatiay: :)
 [2015-02-24 13:03:06] operatiay: there should be an api for this, don't you think so?
 [2015-02-24 13:04:50] rethc: not sure :(
+[2015-02-24 13:05:35] rethc: so the only way i could put it on android is just to load a webpage of the mobile site :(
+[2015-02-24 13:05:51] operatiay: well, the thing is, the results are being generated/fetched after the page has been loaded. therefore you'd either need to use a browser to evaluate it or find a way to call it directly
+[2015-02-24 13:06:27] rethc: something like load the webpage, then use JSoup to parse the cached page/
+[2015-02-24 13:07:01] rethc: load webpage, save webpage then parse the page or something O_O
+[2015-02-24 13:07:24] operatiay: not necessarily...
+[2015-02-24 13:07:41] operatiay: are you familiar with html?
+[2015-02-24 13:07:54] rethc: sort of
+[2015-02-24 13:08:04] operatiay: have a look at the source code of the page when you fetch it e.g. via curl
+[2015-02-24 13:08:19] operatiay: this means it's before the browser has evaluated anything
+[2015-02-24 13:08:40] rethc: ooo
+[2015-02-24 13:09:04] operatiay: I've then searched for 'Live Departures' and now I see the <div>, which is going to be extended with content
+[2015-02-24 13:09:33] operatiay: this div has got alternative text 'Please wait, loading...'
+[2015-02-24 13:09:48] operatiay: :) do you need more hints?
