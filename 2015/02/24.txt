@@ -104,3 +104,6 @@
 [2015-02-24 17:15:30] maan, joining. (#selendroid)
 [2015-02-24 17:15:52] maan, quitting. (Remote host closed the connection)
 [2015-02-24 17:18:28] maan, joining. (#selendroid)
+[2015-02-24 17:25:52] operatiay, quitting. (Remote host closed the connection)
+[2015-02-24 17:26:45] maan, quitting. (Remote host closed the connection)
+[2015-02-24 17:29:22] smccarthy, joining. (#selendroid)
