@@ -1,0 +1,3 @@
+[2015-02-25 00:08:18] NguyenA1: okay, i still don't fully understand what a wearable environment is.  i see wearable android packages that sounds specific to it, but not sure what runtime libraries are needed for that, is that already included in android api libs?  technically the target in android device manager has different wording for android 5.0.1 vs android 5.0.1 wearable
+[2015-02-25 00:08:43] NguyenA1: so i assume there must be some runtime differences that the wearable runtime will have vs a phone and we will have to eventually support as a desired capabilities
+[2015-02-25 00:09:59] NguyenA1: ill take care of google api as a string for now who only supports the value of Google API for now
