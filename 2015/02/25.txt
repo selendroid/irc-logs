@@ -1,3 +1,7 @@
 [2015-02-25 00:08:18] NguyenA1: okay, i still don't fully understand what a wearable environment is.  i see wearable android packages that sounds specific to it, but not sure what runtime libraries are needed for that, is that already included in android api libs?  technically the target in android device manager has different wording for android 5.0.1 vs android 5.0.1 wearable
 [2015-02-25 00:08:43] NguyenA1: so i assume there must be some runtime differences that the wearable runtime will have vs a phone and we will have to eventually support as a desired capabilities
 [2015-02-25 00:09:59] NguyenA1: ill take care of google api as a string for now who only supports the value of Google API for now
+[2015-02-25 00:10:58] NguyenA1: what IRC chat client do you guys use?  I use web chat.freenode.net(first one that came up when i googled IRC , but id like to be able to close my laptop and tomorrow open it up and see the IRC conversations that have occurred since.  Is that possible with IRC? and if so what chat clients do you guys use?
+[2015-02-25 00:12:46] lukeis: i'm on a mac, i use Adium
+[2015-02-25 00:13:23] lukeis: also… i don't see irc conversations when i'm not logged in… that's what the :log is for :)
+[2015-02-25 00:14:04] NguyenA1: ahhh, got it, thanks
