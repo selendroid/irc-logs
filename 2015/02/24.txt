@@ -62,3 +62,18 @@
 [2015-02-24 13:09:04] operatiay: I've then searched for 'Live Departures' and now I see the <div>, which is going to be extended with content
 [2015-02-24 13:09:33] operatiay: this div has got alternative text 'Please wait, loading...'
 [2015-02-24 13:09:48] operatiay: :) do you need more hints?
+[2015-02-24 13:10:11] rethc: do you use POST instead of get?
+[2015-02-24 13:10:20] rethc: for connection
+[2015-02-24 13:10:31] operatiay: have a look at this: http://www.metlink.org.nz/stop/9145/departures
+[2015-02-24 13:10:51] rethc: :o
+[2015-02-24 13:11:00] operatiay: I use curl :) it's a linux command line tool
+[2015-02-24 13:11:16] operatiay: which is GETting the page
+[2015-02-24 13:11:48] operatiay: now you don't need selenium/selendroid :)
+[2015-02-24 13:12:29] rethc: omg thanks so much :)
+[2015-02-24 13:12:52] rethc: ive been trying to figure it out for 4hours now lol and you solved it in 5mins haha
+[2015-02-24 13:12:58] operatiay: np. :) it's good to use the right tools
+[2015-02-24 13:13:10] operatiay: ;)
+[2015-02-24 13:13:30] operatiay: good luck with your project! and don't forget to sleep
+[2015-02-24 13:13:32] rethc: thanks, now i know to use curl when dealing with html again
+[2015-02-24 13:13:51] rethc: take care
+[2015-02-24 13:13:53] rethc, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
