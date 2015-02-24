@@ -194,3 +194,4 @@
 [2015-02-24 23:34:32] NguyenA1: haha i don't know, I'm googling to figure that out now
 [2015-02-24 23:45:13] mach6, quitting. (Ping timeout: 252 seconds)
 [2015-02-24 23:53:25] mach6, joining. (#selendroid)
+[2015-02-24 23:55:45] operatiay, quitting. (Remote host closed the connection)
