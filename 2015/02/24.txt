@@ -40,3 +40,12 @@
 [2015-02-24 12:59:05] rethc: i think it gets the calculations from google maps api
 [2015-02-24 12:59:15] operatiay: ok, let me have a look then
 [2015-02-24 12:59:15] rethc: http://www.metlink.org.nz/stop/9145
+[2015-02-24 13:00:06] operatiay: why don't you use the google maps api as well then? :)
+[2015-02-24 13:00:36] rethc: how would i do it because i dont think the bus locations would be public
+[2015-02-24 13:01:02] rethc: i think it gets bus location and calculates in google maps. but im not sure
+[2015-02-24 13:01:47] operatiay: oh, i see. so the bus locations, not the bus stops are being calculated there
+[2015-02-24 13:02:23] rethc: ya its bus arrival time, it will say "due" or "2mins" when its close to the stop
+[2015-02-24 13:02:36] rethc: its 1am here so no bus running atm lol
+[2015-02-24 13:02:44] operatiay: :)
+[2015-02-24 13:03:06] operatiay: there should be an api for this, don't you think so?
+[2015-02-24 13:04:50] rethc: not sure :(
