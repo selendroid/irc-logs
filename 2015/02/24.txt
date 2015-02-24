@@ -175,3 +175,13 @@
 [2015-02-24 23:23:50] operatiay: oh, it's an APP
 [2015-02-24 23:23:54] NguyenA1: so this sounds like yes that its in addition to google api
 [2015-02-24 23:24:12] operatiay: com.google.android.wearable.app
+[2015-02-24 23:25:18] NguyenA1: thats so weird... okay so you have to install the android wear app
+[2015-02-24 23:25:30] NguyenA1: which gives you the wearable API
+[2015-02-24 23:25:42] operatiay: yes, so it seems
+[2015-02-24 23:26:36] NguyenA1: ideally, i think this parameter should be an array style where i say i want Google API and Wearable API, etc
+[2015-02-24 23:26:44] NguyenA1: but for now lets make it a string like u suggested
+[2015-02-24 23:26:57] NguyenA1: and build on it later?
+[2015-02-24 23:27:05] operatiay: well... we might be talking about 2 different requirements
+[2015-02-24 23:27:34] operatiay: one of them being requirement to have a framework installed (this can't be easily changed by the tester)
+[2015-02-24 23:27:57] operatiay: another one being a requirement to have some apps preinstalled on the device
+[2015-02-24 23:29:02] operatiay: would you agree? or am I missing something?
