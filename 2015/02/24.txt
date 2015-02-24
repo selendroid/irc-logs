@@ -7,3 +7,4 @@
 [2015-02-24 10:17:53] smikloso, joining. (#selendroid)
 [2015-02-24 10:35:29] operatiay, joining. (#selendroid)
 [2015-02-24 10:39:50] aluedeke: i there anyone who can help with with some issues i found while using selendroid
+[2015-02-24 11:08:56] operatiay: what issue have you got with selendroid?
