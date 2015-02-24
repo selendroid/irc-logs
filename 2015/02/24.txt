@@ -161,3 +161,7 @@
 [2015-02-24 23:07:27] NguyenA1: hi mach6
 [2015-02-24 23:07:41] operatia_: hi mach6
 [2015-02-24 23:07:56] operatia_, changing nick to operatiay.
+[2015-02-24 23:18:22] NguyenA1: yea nothing stands out to me from quick google search or surfing around the device.  i don't see any libs in system/framework that stands out as a library for android wear
+[2015-02-24 23:18:32] NguyenA1: getprop on the device doesn't have any properties that stand out to say, this is androidwear
+[2015-02-24 23:18:57] operatiay: it might be another way around: something's missing
+[2015-02-24 23:19:04] NguyenA1: so im not sure if android wear and tvs have more api libs for their device, vs standard apis
