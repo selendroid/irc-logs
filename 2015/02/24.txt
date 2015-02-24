@@ -116,3 +116,4 @@
 [2015-02-24 20:18:00] operatiay, joining. (#selendroid)
 [2015-02-24 20:19:31] operatiay, quitting. (Read error: Connection reset by peer)
 [2015-02-24 20:19:36] operatia_, joining. (#selendroid)
+[2015-02-24 20:52:41] mach6, joining. (#selendroid)
