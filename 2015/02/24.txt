@@ -185,3 +185,10 @@
 [2015-02-24 23:27:34] operatiay: one of them being requirement to have a framework installed (this can't be easily changed by the tester)
 [2015-02-24 23:27:57] operatiay: another one being a requirement to have some apps preinstalled on the device
 [2015-02-24 23:29:02] operatiay: would you agree? or am I missing something?
+[2015-02-24 23:31:13] NguyenA1: I'm trying read up on what this Android Wear app is.  Before you made your comment, i was thinking more of, it was just a way to get the Wearable API libs onto your android device
+[2015-02-24 23:32:46] NguyenA1: okay wait...  i was on the wrong page...  The purpose of this app is to install on your android phone or tablet so that you can run apps that will talk to your android wearable i believe...
+[2015-02-24 23:32:53] NguyenA1: https://play.google.com/store/apps/details?id=com.google.android.wearable.app&hl=en
+[2015-02-24 23:33:01] NguyenA1: which is com.google.android.wearable.app
+[2015-02-24 23:33:16] NguyenA1: this whole time i thought this goes on the android wear device
+[2015-02-24 23:33:45] operatiay: I thought so too... so what's on the device then?
+[2015-02-24 23:34:32] NguyenA1: haha i don't know, I'm googling to figure that out now
