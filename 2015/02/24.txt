@@ -82,3 +82,9 @@
 [2015-02-24 14:22:58] aluedeke: hey does someone know if selendroid can test cordova 4.0 hybrid apps?
 [2015-02-24 14:54:36] operatiay, joining. (#selendroid)
 [2015-02-24 15:04:55] rethc: hey operatiay. the new URL doesnt seem to work either. it cant parse the table but every other elements it can detect :(
+[2015-02-24 15:05:35] operatiay: so how is the table being generated?
+[2015-02-24 15:05:58] rethc: i have no idea :|
+[2015-02-24 15:06:26] rethc: what cURL command did you use to find the new directory?
+[2015-02-24 15:07:08] operatiay: curl is used to fetch the page behind an url. then you need to look at the html source code to understand what's going on there
+[2015-02-24 15:08:52] operatiay: well, I can see the table in the html
+[2015-02-24 15:09:52] rethc: hmm, i use JSoup select on <a> <p> <body> but for table elements it cant find
