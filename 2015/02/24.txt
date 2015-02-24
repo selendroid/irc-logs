@@ -5,3 +5,5 @@
 [2015-02-24 01:32:37] operatia_, quitting. (Remote host closed the connection)
 [2015-02-24 09:38:27] aluedeke, joining. (#selendroid)
 [2015-02-24 10:17:53] smikloso, joining. (#selendroid)
+[2015-02-24 10:35:29] operatiay, joining. (#selendroid)
+[2015-02-24 10:39:50] aluedeke: i there anyone who can help with with some issues i found while using selendroid
