@@ -77,3 +77,4 @@
 [2015-02-24 13:13:32] rethc: thanks, now i know to use curl when dealing with html again
 [2015-02-24 13:13:51] rethc: take care
 [2015-02-24 13:13:53] rethc, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2015-02-24 13:58:05] operatiay, quitting. (Ping timeout: 264 seconds)
