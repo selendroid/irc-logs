@@ -122,3 +122,24 @@
 [2015-02-24 22:59:25] NguyenA1: https://github.com/selendroid/selendroid/pull/787/files
 [2015-02-24 22:59:39] NguyenA1: operatia_ or lukeis are any of you here now?
 [2015-02-24 22:59:57] NguyenA1: so i'm still not sure, about what this desired capabilities should be...
+[2015-02-24 23:00:07] NguyenA1: string or boolean...  and name
+[2015-02-24 23:00:15] NguyenA1: i have a transcript from your last discussion with mach6
+[2015-02-24 23:00:21] mach6, joining. (#selendroid)
+[2015-02-24 23:00:27] NguyenA1: and in the end, you guys decided on string with name of
+[2015-02-24 23:00:45] NguyenA1: androidOSAPIType
+[2015-02-24 23:01:28] NguyenA1: with possible values of 'Android TV', 'Android Wear', 'Google API'
+[2015-02-24 23:01:31] lukeis: i think String :)
+[2015-02-24 23:01:37] operatia_: hi NguyenA1
+[2015-02-24 23:01:47] NguyenA1: but, aren't we blurring the lines a little here?
+[2015-02-24 23:01:58] NguyenA1: android tv and android wear is more of a device than "api"?
+[2015-02-24 23:02:20] NguyenA1: whereas google api means, the target device has google apis or not
+[2015-02-24 23:02:30] operatia_: String was the result, but it might not be sufficient... e.g. if there is a permutation of those supported apis. e.g. Android Wear with Google API
+[2015-02-24 23:02:32] mach6, quitting. (Read error: Connection reset by peer)
+[2015-02-24 23:02:48] mach6, joining. (#selendroid)
+[2015-02-24 23:02:51] NguyenA1: and that too, i just created a google watch avd
+[2015-02-24 23:02:57] NguyenA1: it doesn't seem to be mutually inclusive
+[2015-02-24 23:03:10] NguyenA1: ie, i can't create a google watch, with google api libs on it
+[2015-02-24 23:03:30] NguyenA1: but it sounds like you should be able to, what if android tv's start having apps that use google apis
+[2015-02-24 23:03:36] operatia_: which means that it won't be possible to use google maps on a watch
+[2015-02-24 23:04:16] NguyenA1: then our single string wouldn't suffice for a device we want that has android wear with google api
+[2015-02-24 23:04:52] operatia_: and I'm not even sure whether it's possible to check it on real devices
