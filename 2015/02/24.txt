@@ -88,3 +88,13 @@
 [2015-02-24 15:07:08] operatiay: curl is used to fetch the page behind an url. then you need to look at the html source code to understand what's going on there
 [2015-02-24 15:08:52] operatiay: well, I can see the table in the html
 [2015-02-24 15:09:52] rethc: hmm, i use JSoup select on <a> <p> <body> but for table elements it cant find
+[2015-02-24 15:10:13] rethc: its soo weird
+[2015-02-24 15:10:18] operatiay: not sure how jsoup works
+[2015-02-24 15:10:30] operatiay: but I can see the table element in the html code
+[2015-02-24 15:12:04] rethc: ok so i used the mobile site and it can find it now.. yes!!
+[2015-02-24 15:12:15] rethc: its so weird how it cant find for the desktop site
+[2015-02-24 15:12:47] operatiay: :) glad you've found a solution
+[2015-02-24 15:13:04] rethc: thanks. youve been a huge help to me
+[2015-02-24 15:13:21] rethc: gonna work on it tomrow
+[2015-02-24 15:13:24] rethc, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2015-02-24 15:13:26] operatiay: no worries :) although it's totally unrelated to the group here
