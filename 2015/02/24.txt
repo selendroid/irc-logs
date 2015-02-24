@@ -101,3 +101,6 @@
 [2015-02-24 15:50:20] maan, joining. (#selendroid)
 [2015-02-24 15:59:11] aluedeke, quitting. (Ping timeout: 265 seconds)
 [2015-02-24 17:11:53] maan, quitting. (Read error: Connection reset by peer)
+[2015-02-24 17:15:30] maan, joining. (#selendroid)
+[2015-02-24 17:15:52] maan, quitting. (Remote host closed the connection)
+[2015-02-24 17:18:28] maan, joining. (#selendroid)
