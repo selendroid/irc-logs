@@ -5,3 +5,4 @@
 [2015-02-25 00:12:46] lukeis: i'm on a mac, i use Adium
 [2015-02-25 00:13:23] lukeis: also… i don't see irc conversations when i'm not logged in… that's what the :log is for :)
 [2015-02-25 00:14:04] NguyenA1: ahhh, got it, thanks
+[2015-02-25 00:18:31] NguyenA1, quitting. (Ping timeout: 246 seconds)
