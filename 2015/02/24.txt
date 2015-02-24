@@ -21,3 +21,12 @@
 [2015-02-24 12:48:23] rethc, joining. (#selendroid)
 [2015-02-24 12:49:19] rethc: hello
 [2015-02-24 12:49:39] operatiay: :ask
+[2015-02-24 12:50:52] operatiay: :)
+[2015-02-24 12:51:08] rethc: i have a Java app that gets 3 rows  from a dynamic html table and ive used selenium css selector to do it
+[2015-02-24 12:51:30] rethc: im trying to import it to android but it keeps crashing when i try to build it
+[2015-02-24 12:52:23] rethc: ive tried a combination of selendriod standalone, selendroid client, selenium-client, selenium-server. it just crashes everytime
+[2015-02-24 12:52:49] rethc: it says 'Java heap space' error
+[2015-02-24 12:53:57] operatiay: are you trying to use selenium as part of your app? there should be better ways of doing it
+[2015-02-24 12:54:15] rethc: im just using the cssSelector method
+[2015-02-24 12:54:27] rethc: dont need the testing features etc
+[2015-02-24 12:54:43] rethc: i tried JSoup but it can't parse dynamically created HTML :(
