@@ -55,3 +55,4 @@
 [2015-02-25 18:04:08] smikloso, leaving. (#selendroid)
 [2015-02-25 18:05:43] smccarthy1, changing nick to smccarthy.
 [2015-02-25 18:18:05] maan, joining. (#selendroid)
+[2015-02-25 19:20:55] maan, quitting. (Read error: Connection reset by peer)
