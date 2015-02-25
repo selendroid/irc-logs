@@ -8,3 +8,4 @@
 [2015-02-25 00:18:31] NguyenA1, quitting. (Ping timeout: 246 seconds)
 [2015-02-25 00:20:51] lukeis, quitting. (Quit: Leaving.)
 [2015-02-25 01:07:39] smccarthy, quitting. (Quit: Leaving...)
+[2015-02-25 01:15:43] texasforever, joining. (#selendroid)
