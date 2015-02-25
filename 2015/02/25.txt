@@ -70,3 +70,10 @@
 [2015-02-25 22:24:18] mach6_, quitting. (Ping timeout: 272 seconds)
 [2015-02-25 23:13:10] operatiay, quitting. (Read error: Connection reset by peer)
 [2015-02-25 23:14:46] operatiay, joining. (#selendroid)
+[2015-02-25 23:20:13] NguyenA1, joining. (#selendroid)
+[2015-02-25 23:20:19] NguyenA1: :log
+[2015-02-25 23:23:26] NguyenA1: sorry to bring this up again, as i was working on the google api selendroidcapabilities, i'd like to make this a list instead of a string to help future proof the interaction between the client and selendroid so no refactoring or deprecation would be needed by the end user if things change
+[2015-02-25 23:23:39] NguyenA1: so the SelendroidCapability will be called apis
+[2015-02-25 23:23:51] mach6, quitting. (Ping timeout: 252 seconds)
+[2015-02-25 23:24:15] mach6, joining. (#selendroid)
+[2015-02-25 23:24:37] NguyenA1: the end user will specify their desired capabilities by doing a comma separated string to the selenroidCapabilities apis
