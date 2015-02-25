@@ -54,3 +54,4 @@
 [2015-02-25 18:03:21] smccarthy, changing nick to smccarthy1.
 [2015-02-25 18:04:08] smikloso, leaving. (#selendroid)
 [2015-02-25 18:05:43] smccarthy1, changing nick to smccarthy.
+[2015-02-25 18:18:05] maan, joining. (#selendroid)
