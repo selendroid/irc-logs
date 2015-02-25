@@ -27,3 +27,4 @@
 [2015-02-25 02:56:02] asm89, quitting. (Max SendQ exceeded)
 [2015-02-25 05:58:38] mdv, joining. (#selendroid)
 [2015-02-25 08:06:34] aluedeke, joining. (#selendroid)
+[2015-02-25 08:47:18] aluedeke, quitting. (Ping timeout: 272 seconds)
