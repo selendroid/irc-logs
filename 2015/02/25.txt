@@ -80,3 +80,5 @@
 [2015-02-25 23:25:13] NguyenA1: so it would look something in the future like apis : "google, futureapi"
 [2015-02-25 23:26:03] NguyenA1: for now we will only look for google but i the future we can reuse this selenium capability called apis to look for other needed apis that user has to have access to on their runtime emulator/device
 [2015-02-25 23:51:08] mach6: :log
+[2015-02-25 23:55:37] mach6: NguyenA1: I'm thinking a list might not be the best approach since you don't see DesiredCapabilities which include multiple values. That said, I do understand the challenge here. My guess is we will need to possibly re-visit ANY change in this area once we have a better understanding how Google exposes "futureapis".
+[2015-02-25 23:59:19] mach6: Which is also why the original proposal from lukeis and operataiy was to make it a true/false value. Something like googleAPI: true/false. As you know we eventually landed against that in an attempt to "future" proof. IMO, accepting a single String value and seeing where Google takes things, is the best approach here at this point in time.
