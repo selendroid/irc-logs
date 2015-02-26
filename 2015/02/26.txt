@@ -21,3 +21,6 @@
 [2015-02-26 17:29:13] NguyenA1, joining. (#selendroid)
 [2015-02-26 17:29:20] NguyenA1: :log
 [2015-02-26 17:49:46] smccarthy, joining. (#selendroid)
+[2015-02-26 18:05:26] smikloso, leaving. (#selendroid)
+[2015-02-26 18:07:45] operatiay, quitting. (Remote host closed the connection)
+[2015-02-26 18:08:27] operatiay, joining. (#selendroid)
