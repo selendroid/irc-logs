@@ -1,0 +1,8 @@
+[2015-02-27 00:06:19] ddary: hi lukeis :-)
+[2015-02-27 00:07:18] lukeis: hi ddary
+[2015-02-27 00:07:25] lukeis: set to come here tomorrow still?
+[2015-02-27 00:07:44] ddary: yes
+[2015-02-27 00:07:58] ddary: the conference will be soon over
+[2015-02-27 00:08:24] ddary: still have to do a quick talk about selendroid at the test automation guild meeting
+[2015-02-27 00:08:44] ddary: but then I will drink a beer
+[2015-02-27 00:08:58] lukeis: :)
