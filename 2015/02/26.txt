@@ -2,3 +2,4 @@
 [2015-02-26 00:30:32] lukeis, quitting. (Quit: Leaving.)
 [2015-02-26 01:04:04] operatiay, quitting. (Remote host closed the connection)
 [2015-02-26 01:10:40] operatiay, joining. (#selendroid)
+[2015-02-26 01:30:39] operatiay, quitting. (Remote host closed the connection)
