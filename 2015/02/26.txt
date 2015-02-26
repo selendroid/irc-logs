@@ -8,3 +8,5 @@
 [2015-02-26 06:18:37] smccarthy, quitting. (Quit: Leaving...)
 [2015-02-26 07:59:55] aluedeke, joining. (#selendroid)
 [2015-02-26 08:48:32] aluedeke, quitting. (Quit: Leaving.)
+[2015-02-26 09:06:29] aluedeke, joining. (#selendroid)
+[2015-02-26 09:09:43] aluedeke, quitting. (Client Quit)
