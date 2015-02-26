@@ -7,3 +7,4 @@
 [2015-02-26 04:20:47] sirsteef, quitting. (Ping timeout: 246 seconds)
 [2015-02-26 06:18:37] smccarthy, quitting. (Quit: Leaving...)
 [2015-02-26 07:59:55] aluedeke, joining. (#selendroid)
+[2015-02-26 08:48:32] aluedeke, quitting. (Quit: Leaving.)
