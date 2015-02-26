@@ -20,3 +20,4 @@
 [2015-02-26 16:40:50] smccarthy, quitting. (Quit: Leaving...)
 [2015-02-26 17:29:13] NguyenA1, joining. (#selendroid)
 [2015-02-26 17:29:20] NguyenA1: :log
+[2015-02-26 17:49:46] smccarthy, joining. (#selendroid)
