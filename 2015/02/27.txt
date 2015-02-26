@@ -6,3 +6,6 @@
 [2015-02-27 00:08:24] ddary: still have to do a quick talk about selendroid at the test automation guild meeting
 [2015-02-27 00:08:44] ddary: but then I will drink a beer
 [2015-02-27 00:08:58] lukeis: :)
+[2015-02-27 00:11:55] ddary: i will probably arrive between 8:30 to 9
+[2015-02-27 00:12:05] ddary: tomorrow morning
+[2015-02-27 00:14:11] lukeis: ok, i'll try to make sure i'm there that early too :)
