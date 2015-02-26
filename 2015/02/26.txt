@@ -18,3 +18,5 @@
 [2015-02-26 14:40:07] aluedeke, quitting. (Ping timeout: 264 seconds)
 [2015-02-26 15:18:29] smccarthy, joining. (#selendroid)
 [2015-02-26 16:40:50] smccarthy, quitting. (Quit: Leaving...)
+[2015-02-26 17:29:13] NguyenA1, joining. (#selendroid)
+[2015-02-26 17:29:20] NguyenA1: :log
