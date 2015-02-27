@@ -25,3 +25,5 @@
 [2015-02-27 12:54:35] aluedeke, joining. (#selendroid)
 [2015-02-27 13:09:28] operatiay, joining. (#selendroid)
 [2015-02-27 14:50:19] aluedeke, quitting. (Ping timeout: 252 seconds)
+[2015-02-27 14:59:46] wiwe, joining. (#selendroid)
+[2015-02-27 14:59:56] wiwe: hello.
