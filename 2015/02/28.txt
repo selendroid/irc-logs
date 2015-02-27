@@ -20,3 +20,7 @@
 [2015-02-28 00:07:38] asm89: but looking in multiple top level views + that check in the KnowsElements cache make things very confusing
 [2015-02-28 00:07:53] asm89: and inconsistent as well I guess
 [2015-02-28 00:09:48] lukeis: ok then… i wouldn't be opposed to a patch that limited the finding to only the current visibile root view(s)
+[2015-02-28 00:10:16] lukeis: ok… gotta go and pick up the kids :)
+[2015-02-28 00:10:21] lukeis: ddary: safe travels!
+[2015-02-28 00:10:36] lukeis, quitting. (Quit: Leaving.)
+[2015-02-28 00:13:57] ddary, quitting. (Quit: Leaving.)
