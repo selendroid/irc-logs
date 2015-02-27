@@ -138,3 +138,6 @@
 [2015-02-27 23:34:46] lukeis: nice :)
 [2015-02-27 23:35:23] lukeis: i have about 45 min till i need to go pick up the kids :)
 [2015-02-27 23:44:55] lukeis1, joining. (#selendroid)
+[2015-02-27 23:47:58] lukeis2, joining. (#selendroid)
+[2015-02-27 23:48:03] lukeis, quitting. (Ping timeout: 265 seconds)
+[2015-02-27 23:48:07] lukeis2, changing nick to lukeis.
