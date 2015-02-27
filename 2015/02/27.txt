@@ -60,3 +60,11 @@
 [2015-02-27 18:27:39] NguyenA1: later on the command line object is created with CommandLine command = adbCommand("install", "-r", app.getAbsolutePath());
 [2015-02-27 18:27:53] NguyenA1: but, InstalledAndroidApp returns null for getAbsolutePath()
 [2015-02-27 18:33:49] smccarthy, joining. (#selendroid)
+[2015-02-27 18:43:20] selendroid-git, joining. (#selendroid)
+[2015-02-27 18:43:20] selendroid-git: [selendroid] DominikDary closed pull request #816: setAirplaneMode(true) for Android API 21 (master...fix_setAirplaneMode) http://git.io/AVNE
+[2015-02-27 18:43:20] selendroid-git, leaving. (#selendroid)
+[2015-02-27 18:43:53] smikloso, leaving. (#selendroid)
+[2015-02-27 18:44:16] selendroid-git, joining. (#selendroid)
+[2015-02-27 18:44:16] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/xtV5
+[2015-02-27 18:44:16] selendroid-git: selendroid/master 46c7758 Dominik Dary: Update changelog.md
+[2015-02-27 18:44:16] selendroid-git, leaving. (#selendroid)
