@@ -15,3 +15,8 @@
 [2015-02-28 00:04:02] lukeis: and potentially invoke something on that element (obviously not a click)
 [2015-02-28 00:04:42] asm89: I don't think getting attributes works anymore
 [2015-02-28 00:04:55] asm89: because this check fails: https://github.com/selendroid/selendroid/blob/eb50a4474c248f0610212830a828d2f1d65f1b20/selendroid-server/src/main/java/io/selendroid/server/model/KnownElements.java#L48
+[2015-02-28 00:05:43] lukeis: huh :) well then
+[2015-02-28 00:07:10] asm89: part of the issues we were seeing were mitigated by this patch: https://github.com/selendroid/selendroid/pull/799
+[2015-02-28 00:07:38] asm89: but looking in multiple top level views + that check in the KnowsElements cache make things very confusing
+[2015-02-28 00:07:53] asm89: and inconsistent as well I guess
+[2015-02-28 00:09:48] lukeis: ok then… i wouldn't be opposed to a patch that limited the finding to only the current visibile root view(s)
