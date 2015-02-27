@@ -121,3 +121,7 @@
 [2015-02-27 21:49:41] detronizator, joining. (#selendroid)
 [2015-02-27 21:49:41] mach6, quitting. (Read error: Connection reset by peer)
 [2015-02-27 21:49:49] mach6, joining. (#selendroid)
+[2015-02-27 21:56:36] selendroid-git: selendroid/chromedriver a9d7be0 Luke Inman-Semerau: check the api level is at least 19, otherwise proxy requests to the selendroid server
+[2015-02-27 21:56:36] selendroid-git, joining. (#selendroid)
+[2015-02-27 21:56:36] selendroid-git: [selendroid] lukeis pushed 1 new commit to chromedriver: http://git.io/xmLZ
+[2015-02-27 21:56:36] selendroid-git, leaving. (#selendroid)
