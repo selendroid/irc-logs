@@ -45,3 +45,6 @@
 [2015-02-27 17:53:29] NguyenA1: adb -s emulator-5560 shell pm list packages io.selendroid.testapp
 [2015-02-27 17:55:46] NguyenA1: most things on the web talk about modifying an android manifest.xml file in the app, but this app has already been built and is included in the seldnroid-test-app project
 [2015-02-27 18:02:25] ddary: :log
+[2015-02-27 18:05:01] ddary: :note wiwe if you start the selendroid-standalone you can use the parameter —forceReinstall : https://github.com/selendroid/selendroid/blob/master/selendroid-standalone/src/main/java/io/selendroid/standalone/SelendroidConfiguration.java#L115
+[2015-02-27 18:06:54] smccarthy, quitting. (Quit: Leaving...)
+[2015-02-27 18:09:55] NguyenA1: so from working within eclipse, do you suggest that 1.  i first start selendroid-standalone as a java application, then run SayHelloWebviewTest?  because i originally did this and it complained about port already in use
