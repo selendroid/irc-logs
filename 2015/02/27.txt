@@ -37,3 +37,9 @@
 [2015-02-27 17:05:32] ddary, leaving. (#selendroid)
 [2015-02-27 17:39:05] lukeis, joining. (#selendroid)
 [2015-02-27 17:48:27] NguyenA1, joining. (#selendroid)
+[2015-02-27 17:51:57] NguyenA1: has anyone ran into this?  So I'm trying to run a end to end test to test my changes.  I chose to run io.selendroid.tests.SayHelloWebviewTest from the selendroid-test-app project
+[2015-02-27 17:52:07] NguyenA1: after emulator comes up and app gets installed i get this exception
+[2015-02-27 17:52:28] NguyenA1: io.selendroid.server.common.exceptions.SelendroidException: Could not start the app under test using instrumentation. Is the correct app under test installed? Read the details below: INSTRUMENTATION_STATUS: id=ActivityManagerService INSTRUMENTATION_STATUS: Error=Unable to find instrumentation target package: io.selendroid.testapp INSTRUMENTATION_STATUS_CODE: -1 android.util.AndroidException: INSTRUMENTATION_FAILED: io.selendroi
+[2015-02-27 17:52:37] ddary, joining. (#selendroid)
+[2015-02-27 17:53:29] NguyenA1: its weird because i can see the app installed when it does
+[2015-02-27 17:53:29] NguyenA1: adb -s emulator-5560 shell pm list packages io.selendroid.testapp
