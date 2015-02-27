@@ -130,3 +130,4 @@
 [2015-02-27 22:54:55] NguyenA1, quitting. (Ping timeout: 246 seconds)
 [2015-02-27 22:56:28] JimBean: Question: When I run arc I see a function "driver.wait."  However, when I run cucumber/ruby I can't see the wait function under the $driver object.  I am using the code from this page: https://github.com/appium/sample-code/blob/ff1f24f48b2574a22687353d98ae16964eb36e25/sample-code/examples/ruby/cucumber_ios/features/support/env.rb.  When I do pry on ls $device I can see the object but no wait function
 [2015-02-27 23:00:34] JimBean: From within pry it looks like $device is very limited while under arc device is contains a lot of methods.  Perhaps I am looking at two different objects that happen to be called the same.  Any thoughts would be helpful.
+[2015-02-27 23:26:33] ddary, joining. (#selendroid)
