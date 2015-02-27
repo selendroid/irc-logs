@@ -147,3 +147,9 @@
 [2015-02-27 23:52:26] asm89: I think it's related to other issues people raise about selendroid returning stale elements.
 [2015-02-27 23:54:07] lukeis: at one point I have a menu control view in my app exist, but not be a 'visible' view (in a different top level view) that needed to be found to invoke it… but that's no longer the case for me and I don't need it anymore :)
 [2015-02-27 23:54:51] lukeis: i think ebay may have had something similar? if ddary recalls...
+[2015-02-27 23:56:01] ddary: yeah, there was something similiar
+[2015-02-27 23:56:10] ddary: not sure if it is still there
+[2015-02-27 23:57:17] ddary: @lukeis I was not able to find the driver.contexts() or driver.switch_context('bla') in the python client
+[2015-02-27 23:57:34] ddary: do you may have a pinter
+[2015-02-27 23:57:42] ddary: *pointer
+[2015-02-27 23:57:52] lukeis: let me check..
