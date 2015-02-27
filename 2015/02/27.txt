@@ -68,3 +68,12 @@
 [2015-02-27 18:44:16] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/xtV5
 [2015-02-27 18:44:16] selendroid-git: selendroid/master 46c7758 Dominik Dary: Update changelog.md
 [2015-02-27 18:44:16] selendroid-git, leaving. (#selendroid)
+[2015-02-27 18:45:11] selendroid-git, joining. (#selendroid)
+[2015-02-27 18:45:11] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/xtwY
+[2015-02-27 18:45:11] selendroid-git: selendroid/master efd5250 Dominik Dary: Update AUTHORS
+[2015-02-27 18:45:11] selendroid-git, leaving. (#selendroid)
+[2015-02-27 18:49:11] travis-ci, joining. (#selendroid)
+[2015-02-27 18:49:12] travis-ci: selendroid/selendroid#589 (master - 46c7758 : Dominik Dary): The build passed.
+[2015-02-27 18:49:12] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/7a3fe245b33d...46c7758071ab
+[2015-02-27 18:49:12] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/52451904
+[2015-02-27 18:49:12] travis-ci, leaving. (#selendroid)
