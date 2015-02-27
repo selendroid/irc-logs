@@ -110,3 +110,8 @@
 [2015-02-27 19:47:06] ddary, leaving. (#selendroid)
 [2015-02-27 19:54:13] mach6, joining. (#selendroid)
 [2015-02-27 20:46:50] aluedeke, quitting. (Quit: Leaving.)
+[2015-02-27 21:04:40] NguyenA1, quitting. (Quit: Page closed)
+[2015-02-27 21:04:53] selendroid-git, joining. (#selendroid)
+[2015-02-27 21:04:53] selendroid-git: [selendroid] lukeis created chromedriver (+1 new commit): http://git.io/xqM0
+[2015-02-27 21:04:53] selendroid-git: selendroid/chromedriver d7818ec Luke Inman-Semerau: adding stub methods for context switching
+[2015-02-27 21:04:53] selendroid-git, leaving. (#selendroid)
