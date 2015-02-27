@@ -126,3 +126,4 @@
 [2015-02-27 21:56:36] selendroid-git: [selendroid] lukeis pushed 1 new commit to chromedriver: http://git.io/xmLZ
 [2015-02-27 21:56:36] selendroid-git, leaving. (#selendroid)
 [2015-02-27 22:05:29] lukeis, quitting. (Ping timeout: 256 seconds)
+[2015-02-27 22:46:38] JimBean, joining. (#selendroid)
