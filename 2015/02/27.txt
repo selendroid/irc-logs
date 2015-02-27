@@ -31,3 +31,4 @@
 [2015-02-27 15:03:11] operatiay, quitting. (Remote host closed the connection)
 [2015-02-27 15:04:45] wiwe: Is it possible for me to use adb commands before running the selendroid session. Im basically using the demo project. I would like to use an adb command "adb uninstall com.package,project" and after that i would like that selendroid installs the app
 [2015-02-27 15:06:19] aluedeke, joining. (#selendroid)
+[2015-02-27 16:27:45] smccarthy, joining. (#selendroid)
