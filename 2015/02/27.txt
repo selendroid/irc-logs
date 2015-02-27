@@ -16,3 +16,4 @@
 [2015-02-27 00:39:35] ddary, quitting. (Client Quit)
 [2015-02-27 00:45:22] smccarthy, quitting. (Quit: Leaving...)
 [2015-02-27 01:18:21] lukeis, quitting. (Quit: Leaving.)
+[2015-02-27 01:49:49] operatiay, quitting. (Remote host closed the connection)
