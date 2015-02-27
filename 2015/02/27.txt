@@ -141,3 +141,9 @@
 [2015-02-27 23:47:58] lukeis2, joining. (#selendroid)
 [2015-02-27 23:48:03] lukeis, quitting. (Ping timeout: 265 seconds)
 [2015-02-27 23:48:07] lukeis2, changing nick to lukeis.
+[2015-02-27 23:50:44] lukeis1, quitting. (Ping timeout: 246 seconds)
+[2015-02-27 23:51:35] asm89: ddary: lukeis: \o
+[2015-02-27 23:51:57] asm89: ddary: lukeis: any insight into this issue? https://github.com/selendroid/selendroid/issues/800
+[2015-02-27 23:52:26] asm89: I think it's related to other issues people raise about selendroid returning stale elements.
+[2015-02-27 23:54:07] lukeis: at one point I have a menu control view in my app exist, but not be a 'visible' view (in a different top level view) that needed to be found to invoke it… but that's no longer the case for me and I don't need it anymore :)
+[2015-02-27 23:54:51] lukeis: i think ebay may have had something similar? if ddary recalls...
