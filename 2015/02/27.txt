@@ -50,3 +50,8 @@
 [2015-02-27 18:09:55] NguyenA1: so from working within eclipse, do you suggest that 1.  i first start selendroid-standalone as a java application, then run SayHelloWebviewTest?  because i originally did this and it complained about port already in use
 [2015-02-27 18:10:29] NguyenA1: so then if i do option 2, which is just run SayHelloWebviewTest, i notice the client code is smart enough that if selendroid-standalone isn't running, it starts up selendroid
 [2015-02-27 18:11:40] NguyenA1: sorry, not client code doing that, it is the test case that does that in the before class with launcher.launchSelendroid()
+[2015-02-27 18:15:20] NguyenA1: okay i added that config and now I'm getting Missing APK file exception on device.install(app);
+[2015-02-27 18:15:30] NguyenA1: ill tinker around with this now, thanks dominick
+[2015-02-27 18:16:33] ddary: @NguyenA1 hello and are you using the right path to your apk?
+[2015-02-27 18:17:38] NguyenA1: i'm just running the sample test SayHelloWebviewTest already included with selendroid, i haven't analyzed what app it is installing or where it is coming from
+[2015-02-27 18:17:48] NguyenA1: from eclipse with run as junit
