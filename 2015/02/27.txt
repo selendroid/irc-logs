@@ -115,3 +115,5 @@
 [2015-02-27 21:04:53] selendroid-git: [selendroid] lukeis created chromedriver (+1 new commit): http://git.io/xqM0
 [2015-02-27 21:04:53] selendroid-git: selendroid/chromedriver d7818ec Luke Inman-Semerau: adding stub methods for context switching
 [2015-02-27 21:04:53] selendroid-git, leaving. (#selendroid)
+[2015-02-27 21:16:10] NguyenA1, joining. (#selendroid)
+[2015-02-27 21:16:13] NguyenA1: :log
