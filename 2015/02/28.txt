@@ -1,0 +1,17 @@
+[2015-02-28 00:00:13] lukeis: :-/ it's not there… only in java
+[2015-02-28 00:00:25] lukeis: guess i have to add that :)
+[2015-02-28 00:00:48] asm89: lukeis: ddary: but the current implementation returns views that are not visible when you call find element
+[2015-02-28 00:01:05] lukeis: yes
+[2015-02-28 00:01:37] ddary: yes, and that is what people expect
+[2015-02-28 00:01:43] asm89: and then the next action you do on the element will throw an exception because of the 'is part of root view' check
+[2015-02-28 00:01:50] ddary: i had yesterday a discussion about this
+[2015-02-28 00:02:26] ddary: :spec
+[2015-02-28 00:02:51] lukeis: ddary: that w3c spec link is incorrect :)
+[2015-02-28 00:03:12] asm89: I just don't get the use case if all following actions will throw
+[2015-02-28 00:03:19] lukeis: ddary: here's the current: http://w3c.github.io/webdriver/webdriver-spec.html
+[2015-02-28 00:03:36] lukeis: asm89: not all actions will throw
+[2015-02-28 00:03:38] ddary: thanks
+[2015-02-28 00:03:41] lukeis: you can get attributes out of it
+[2015-02-28 00:04:02] lukeis: and potentially invoke something on that element (obviously not a click)
+[2015-02-28 00:04:42] asm89: I don't think getting attributes works anymore
+[2015-02-28 00:04:55] asm89: because this check fails: https://github.com/selendroid/selendroid/blob/eb50a4474c248f0610212830a828d2f1d65f1b20/selendroid-server/src/main/java/io/selendroid/server/model/KnownElements.java#L48
