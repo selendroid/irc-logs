@@ -77,3 +77,15 @@
 [2015-02-27 18:49:12] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/7a3fe245b33d...46c7758071ab
 [2015-02-27 18:49:12] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/52451904
 [2015-02-27 18:49:12] travis-ci, leaving. (#selendroid)
+[2015-02-27 18:50:37] travis-ci, joining. (#selendroid)
+[2015-02-27 18:50:38] travis-ci: selendroid/selendroid#590 (master - efd5250 : Dominik Dary): The build passed.
+[2015-02-27 18:50:38] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/46c7758071ab...efd5250242dc
+[2015-02-27 18:50:38] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/52452027
+[2015-02-27 18:50:38] travis-ci, leaving. (#selendroid)
+[2015-02-27 18:52:24] selendroid-git, joining. (#selendroid)
+[2015-02-27 18:52:24] selendroid-git: [selendroid] DominikDary created fetaure/UseLatestSeleniumRelease (+1 new commit): http://git.io/xtKI
+[2015-02-27 18:52:24] selendroid-git: selendroid/fetaure/UseLatestSeleniumRelease 0a6eb35 Dominik Dary: Using latest selenium release.
+[2015-02-27 18:52:24] selendroid-git, leaving. (#selendroid)
+[2015-02-27 18:52:59] selendroid-git, joining. (#selendroid)
+[2015-02-27 18:52:59] selendroid-git: [selendroid] DominikDary opened pull request #818: Using latest selenium release. (master...fetaure/UseLatestSeleniumRelease) http://git.io/xtK8
+[2015-02-27 18:52:59] selendroid-git, leaving. (#selendroid)
