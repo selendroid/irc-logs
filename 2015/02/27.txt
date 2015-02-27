@@ -109,3 +109,4 @@
 [2015-02-27 19:16:02] travis-ci, leaving. (#selendroid)
 [2015-02-27 19:47:06] ddary, leaving. (#selendroid)
 [2015-02-27 19:54:13] mach6, joining. (#selendroid)
+[2015-02-27 20:46:50] aluedeke, quitting. (Quit: Leaving.)
