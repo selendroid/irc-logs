@@ -59,3 +59,4 @@
 [2015-02-27 18:27:06] NguyenA1: i see a new instanced of InstalledAndroidApp is created for the app
 [2015-02-27 18:27:39] NguyenA1: later on the command line object is created with CommandLine command = adbCommand("install", "-r", app.getAbsolutePath());
 [2015-02-27 18:27:53] NguyenA1: but, InstalledAndroidApp returns null for getAbsolutePath()
+[2015-02-27 18:33:49] smccarthy, joining. (#selendroid)
