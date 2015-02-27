@@ -55,3 +55,7 @@
 [2015-02-27 18:16:33] ddary: @NguyenA1 hello and are you using the right path to your apk?
 [2015-02-27 18:17:38] NguyenA1: i'm just running the sample test SayHelloWebviewTest already included with selendroid, i haven't analyzed what app it is installing or where it is coming from
 [2015-02-27 18:17:48] NguyenA1: from eclipse with run as junit
+[2015-02-27 18:26:55] NguyenA1: so going with option 2 from above where i just run SayHelloWebviewTest, i'm not understanding how the apk is installed
+[2015-02-27 18:27:06] NguyenA1: i see a new instanced of InstalledAndroidApp is created for the app
+[2015-02-27 18:27:39] NguyenA1: later on the command line object is created with CommandLine command = adbCommand("install", "-r", app.getAbsolutePath());
+[2015-02-27 18:27:53] NguyenA1: but, InstalledAndroidApp returns null for getAbsolutePath()
