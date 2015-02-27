@@ -44,3 +44,4 @@
 [2015-02-27 17:53:29] NguyenA1: its weird because i can see the app installed when it does
 [2015-02-27 17:53:29] NguyenA1: adb -s emulator-5560 shell pm list packages io.selendroid.testapp
 [2015-02-27 17:55:46] NguyenA1: most things on the web talk about modifying an android manifest.xml file in the app, but this app has already been built and is included in the seldnroid-test-app project
+[2015-02-27 18:02:25] ddary: :log
