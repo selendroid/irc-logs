@@ -46,3 +46,4 @@
 [2015-02-28 17:17:57] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
 [2015-02-28 17:31:27] maan, joining. (#selendroid)
 [2015-02-28 17:34:31] maan_, quitting. (Ping timeout: 256 seconds)
+[2015-02-28 17:38:28] maan, quitting. (Remote host closed the connection)
