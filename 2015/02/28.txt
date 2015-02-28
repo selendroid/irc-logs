@@ -25,3 +25,4 @@
 [2015-02-28 00:10:36] lukeis, quitting. (Quit: Leaving.)
 [2015-02-28 00:13:57] ddary, quitting. (Quit: Leaving.)
 [2015-02-28 00:31:35] mach6, quitting. (Remote host closed the connection)
+[2015-02-28 01:29:57] smccarthy, quitting. (Remote host closed the connection)
