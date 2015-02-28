@@ -67,3 +67,4 @@
 [2015-02-28 23:29:34] lukeis1, quitting. (Ping timeout: 252 seconds)
 [2015-02-28 23:40:58] rethc, joining. (#selendroid)
 [2015-02-28 23:44:02] rethc: hey operatiay :p
+[2015-02-28 23:48:53] smccarthy, quitting. (Remote host closed the connection)
