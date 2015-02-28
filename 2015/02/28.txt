@@ -37,3 +37,4 @@
 [2015-02-28 05:40:12] lukeis, quitting. (Client Quit)
 [2015-02-28 05:40:42] lukeis1, quitting. (Ping timeout: 246 seconds)
 [2015-02-28 13:27:30] rethc, joining. (#selendroid)
+[2015-02-28 13:31:09] rethc, quitting. (Client Quit)
