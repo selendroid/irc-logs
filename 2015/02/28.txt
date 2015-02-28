@@ -44,3 +44,5 @@
 [2015-02-28 15:42:29] maan_, joining. (#selendroid)
 [2015-02-28 15:43:57] maan, quitting. (Read error: Connection reset by peer)
 [2015-02-28 17:17:57] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
+[2015-02-28 17:31:27] maan, joining. (#selendroid)
+[2015-02-28 17:34:31] maan_, quitting. (Ping timeout: 256 seconds)
