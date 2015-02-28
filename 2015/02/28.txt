@@ -28,3 +28,4 @@
 [2015-02-28 01:29:57] smccarthy, quitting. (Remote host closed the connection)
 [2015-02-28 01:30:47] smccarthy, joining. (#selendroid)
 [2015-02-28 01:49:51] mach6, joining. (#selendroid)
+[2015-02-28 01:54:21] mach6, quitting. (Ping timeout: 252 seconds)
