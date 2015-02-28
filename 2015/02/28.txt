@@ -39,3 +39,4 @@
 [2015-02-28 13:27:30] rethc, joining. (#selendroid)
 [2015-02-28 13:31:09] rethc, quitting. (Client Quit)
 [2015-02-28 14:16:43] aluedeke, joining. (#selendroid)
+[2015-02-28 14:20:20] aluedeke, quitting. (Client Quit)
