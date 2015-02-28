@@ -53,3 +53,4 @@
 [2015-02-28 21:15:36] selendroid-git, joining. (#selendroid)
 [2015-02-28 21:15:36] selendroid-git: [selendroid] chooper9 opened pull request #819: Pass Tests on Windows (master...master) http://git.io/xZrz
 [2015-02-28 21:15:36] selendroid-git, leaving. (#selendroid)
+[2015-02-28 21:32:31] operatiay, joining. (#selendroid)
