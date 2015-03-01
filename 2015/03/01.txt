@@ -19,3 +19,5 @@
 [2015-03-01 15:30:13] operatiay, joining. (#selendroid)
 [2015-03-01 16:15:22] maan, joining. (#selendroid)
 [2015-03-01 16:34:09] maan, quitting. (Remote host closed the connection)
+[2015-03-01 20:51:42] operatiay, quitting. (Remote host closed the connection)
+[2015-03-01 20:53:26] operatiay, joining. (#selendroid)
