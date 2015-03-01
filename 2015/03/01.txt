@@ -1,2 +1,4 @@
 [2015-03-01 01:00:43] operatiay: hey rethc
 [2015-03-01 01:19:58] rethc: do you know how to get the places on an existing google maps
+[2015-03-01 01:20:23] operatiay: how is this related to selendroid? :)
+[2015-03-01 01:22:39] rethc, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
