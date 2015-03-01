@@ -4,3 +4,4 @@
 [2015-03-01 01:22:39] rethc, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
 [2015-03-01 02:02:07] lukeis: :note ddary i added the context switching to the python bindings, usage:  driver.mobile.contexts; driver.mobile.context = 'WEBVIEW';  https://github.com/SeleniumHQ/selenium/commit/17872d640a13c6cc5ec970839e57516c3bc23d33  you'd need to build / install it yourself from source for now `./go py_install`
 [2015-03-01 02:02:56] smccarthy, joining. (#selendroid)
+[2015-03-01 03:18:02] detronizator, quitting. (Ping timeout: 256 seconds)
