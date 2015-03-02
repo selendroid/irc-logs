@@ -22,3 +22,6 @@
 [2015-03-02 17:46:54] JB_, joining. (#selendroid)
 [2015-03-02 17:47:06] JB_: hi
 [2015-03-02 17:47:53] lukeis, joining. (#selendroid)
+[2015-03-02 17:50:41] jcws, quitting. (Remote host closed the connection)
+[2015-03-02 17:51:04] jcws, joining. (#selendroid)
+[2015-03-02 17:51:12] jcws, quitting. (Remote host closed the connection)
