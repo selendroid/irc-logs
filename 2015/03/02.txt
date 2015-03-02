@@ -49,3 +49,6 @@
 [2015-03-02 20:01:27] aluedeke, quitting. (Quit: Leaving.)
 [2015-03-02 20:45:07] jb_, quitting. (Quit: Page closed)
 [2015-03-02 20:45:27] jb_, joining. (#selendroid)
+[2015-03-02 21:20:04] mach6, joining. (#selendroid)
+[2015-03-02 21:21:32] mach6_, joining. (#selendroid)
+[2015-03-02 21:21:32] mach6, quitting. (Read error: Connection reset by peer)
