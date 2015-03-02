@@ -14,3 +14,4 @@
 [2015-03-02 16:03:20] JimBean: hi
 [2015-03-02 16:03:23] JimBean: anyone in here?
 [2015-03-02 16:03:34] JimBean: or is it to early
+[2015-03-02 16:33:07] JimBean, quitting. (Ping timeout: 246 seconds)
