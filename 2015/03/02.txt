@@ -39,3 +39,8 @@
 [2015-03-02 19:10:24] selendroid-git, joining. (#selendroid)
 [2015-03-02 19:10:24] selendroid-git: [selendroid] mkonicek closed pull request #820: Add assets for inspector (master...master) http://git.io/xErH
 [2015-03-02 19:10:24] selendroid-git, leaving. (#selendroid)
+[2015-03-02 19:16:09] travis-ci, joining. (#selendroid)
+[2015-03-02 19:16:10] travis-ci: selendroid/selendroid#596 (master - c89f359 : Martin Konicek): The build passed.
+[2015-03-02 19:16:11] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/eec41cd6dd41...c89f3595b94d
+[2015-03-02 19:16:11] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/52779082
+[2015-03-02 19:16:11] travis-ci, leaving. (#selendroid)
