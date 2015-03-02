@@ -9,3 +9,4 @@
 [2015-03-02 14:08:23] jcws: I only found the capabilities.getSerial() and that doesn't help me id:ing different devices when running parallel tests
 [2015-03-02 15:26:46] smikloso, leaving. (#selendroid)
 [2015-03-02 15:39:22] JimBean, joining. (#selendroid)
+[2015-03-02 15:40:35] JimBean: anyone know of some good ruby selendroid demos
