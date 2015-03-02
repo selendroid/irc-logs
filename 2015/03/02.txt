@@ -57,3 +57,4 @@
 [2015-03-02 22:19:04] JB_: In Arc, if I am looking to click an element and I get back on the terminal "[Selendroid] Not on network extender."  What does that mean?
 [2015-03-02 22:32:52] jcws, joining. (#selendroid)
 [2015-03-02 22:37:22] jcws, quitting. (Ping timeout: 245 seconds)
+[2015-03-02 22:52:52] JB_, quitting. (Ping timeout: 246 seconds)
