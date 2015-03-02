@@ -46,3 +46,4 @@
 [2015-03-02 19:16:11] travis-ci, leaving. (#selendroid)
 [2015-03-02 19:32:15] jcws, quitting. (Remote host closed the connection)
 [2015-03-02 19:36:33] aluedeke, joining. (#selendroid)
+[2015-03-02 20:01:27] aluedeke, quitting. (Quit: Leaving.)
