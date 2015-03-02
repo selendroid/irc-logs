@@ -28,3 +28,8 @@
 [2015-03-02 18:02:37] selendroid-git, joining. (#selendroid)
 [2015-03-02 18:02:37] selendroid-git: [selendroid] mkonicek opened pull request #820: Add assets for inspector (master...master) http://git.io/xErH
 [2015-03-02 18:02:37] selendroid-git, leaving. (#selendroid)
+[2015-03-02 18:17:44] JB_, quitting. (Quit: Page closed)
+[2015-03-02 18:18:04] jb_, joining. (#selendroid)
+[2015-03-02 18:18:23] jb_: anyone home?
+[2015-03-02 18:18:39] lukeis: no… i'm at work :)
+[2015-03-02 18:19:56] jb_: Yoda -> I sense the funny in you
