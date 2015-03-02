@@ -47,3 +47,5 @@
 [2015-03-02 19:32:15] jcws, quitting. (Remote host closed the connection)
 [2015-03-02 19:36:33] aluedeke, joining. (#selendroid)
 [2015-03-02 20:01:27] aluedeke, quitting. (Quit: Leaving.)
+[2015-03-02 20:45:07] jb_, quitting. (Quit: Page closed)
+[2015-03-02 20:45:27] jb_, joining. (#selendroid)
