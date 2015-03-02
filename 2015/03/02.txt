@@ -52,3 +52,6 @@
 [2015-03-02 21:20:04] mach6, joining. (#selendroid)
 [2015-03-02 21:21:32] mach6_, joining. (#selendroid)
 [2015-03-02 21:21:32] mach6, quitting. (Read error: Connection reset by peer)
+[2015-03-02 22:16:42] jb_, quitting. (Quit: Page closed)
+[2015-03-02 22:17:05] JB_, joining. (#selendroid)
+[2015-03-02 22:19:04] JB_: In Arc, if I am looking to click an element and I get back on the terminal "[Selendroid] Not on network extender."  What does that mean?
