@@ -15,3 +15,5 @@
 [2015-03-02 16:03:23] JimBean: anyone in here?
 [2015-03-02 16:03:34] JimBean: or is it to early
 [2015-03-02 16:33:07] JimBean, quitting. (Ping timeout: 246 seconds)
+[2015-03-02 16:57:09] aluedeke, quitting. (Quit: Leaving.)
+[2015-03-02 16:59:59] smccarthy, joining. (#selendroid)
