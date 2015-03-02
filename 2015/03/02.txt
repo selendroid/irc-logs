@@ -19,3 +19,6 @@
 [2015-03-02 16:59:59] smccarthy, joining. (#selendroid)
 [2015-03-02 17:28:29] aluedeke, joining. (#selendroid)
 [2015-03-02 17:34:33] aluedeke, quitting. (Quit: Leaving.)
+[2015-03-02 17:46:54] JB_, joining. (#selendroid)
+[2015-03-02 17:47:06] JB_: hi
+[2015-03-02 17:47:53] lukeis, joining. (#selendroid)
