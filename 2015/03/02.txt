@@ -25,3 +25,6 @@
 [2015-03-02 17:50:41] jcws, quitting. (Remote host closed the connection)
 [2015-03-02 17:51:04] jcws, joining. (#selendroid)
 [2015-03-02 17:51:12] jcws, quitting. (Remote host closed the connection)
+[2015-03-02 18:02:37] selendroid-git, joining. (#selendroid)
+[2015-03-02 18:02:37] selendroid-git: [selendroid] mkonicek opened pull request #820: Add assets for inspector (master...master) http://git.io/xErH
+[2015-03-02 18:02:37] selendroid-git, leaving. (#selendroid)
