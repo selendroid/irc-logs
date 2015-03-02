@@ -58,3 +58,4 @@
 [2015-03-02 22:32:52] jcws, joining. (#selendroid)
 [2015-03-02 22:37:22] jcws, quitting. (Ping timeout: 245 seconds)
 [2015-03-02 22:52:52] JB_, quitting. (Ping timeout: 246 seconds)
+[2015-03-02 23:36:04] operatiay, joining. (#selendroid)
