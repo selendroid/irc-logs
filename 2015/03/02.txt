@@ -36,3 +36,6 @@
 [2015-03-02 18:51:21] jcws, joining. (#selendroid)
 [2015-03-02 18:55:47] jcws, quitting. (Ping timeout: 250 seconds)
 [2015-03-02 19:08:38] jcws, joining. (#selendroid)
+[2015-03-02 19:10:24] selendroid-git, joining. (#selendroid)
+[2015-03-02 19:10:24] selendroid-git: [selendroid] mkonicek closed pull request #820: Add assets for inspector (master...master) http://git.io/xErH
+[2015-03-02 19:10:24] selendroid-git, leaving. (#selendroid)
