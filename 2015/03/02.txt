@@ -11,3 +11,6 @@
 [2015-03-02 15:39:22] JimBean, joining. (#selendroid)
 [2015-03-02 15:40:35] JimBean: anyone know of some good ruby selendroid demos
 [2015-03-02 15:45:49] JimBean: Good to see 0.14.0 is out
+[2015-03-02 16:03:20] JimBean: hi
+[2015-03-02 16:03:23] JimBean: anyone in here?
+[2015-03-02 16:03:34] JimBean: or is it to early
