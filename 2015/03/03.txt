@@ -21,3 +21,4 @@
 [2015-03-03 15:06:16] smccarthy, joining. (#selendroid)
 [2015-03-03 15:22:20] albert, joining. (#selendroid)
 [2015-03-03 15:25:24] albert: will selendroid be part of appium conference this year?
+[2015-03-03 15:33:18] smccarthy, quitting. (Quit: Leaving...)
