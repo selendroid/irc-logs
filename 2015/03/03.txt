@@ -61,3 +61,8 @@
 [2015-03-03 20:42:32] ddary: i would say that need some time
 [2015-03-03 20:42:48] lukeis: yes, it does… so go ahead and release :)
 [2015-03-03 20:43:20] ddary: k
+[2015-03-03 20:45:49] mach6, joining. (#selendroid)
+[2015-03-03 20:49:49] selendroid-git, joining. (#selendroid)
+[2015-03-03 20:49:49] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/xikn
+[2015-03-03 20:49:49] selendroid-git: selendroid/master d9dd942 Dominik Dary: Update changelog.md
+[2015-03-03 20:49:49] selendroid-git, leaving. (#selendroid)
