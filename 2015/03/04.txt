@@ -1,1 +1,2 @@
 [2015-03-04 00:04:47] operatiay, quitting. (Remote host closed the connection)
+[2015-03-04 00:44:00] smccarthy, quitting. (Quit: Leaving...)
