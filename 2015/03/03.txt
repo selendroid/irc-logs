@@ -19,3 +19,4 @@
 [2015-03-03 14:27:11] operatiay, joining. (#selendroid)
 [2015-03-03 14:38:40] aluedeke, quitting. (Quit: Leaving.)
 [2015-03-03 15:06:16] smccarthy, joining. (#selendroid)
+[2015-03-03 15:22:20] albert, joining. (#selendroid)
