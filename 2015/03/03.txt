@@ -70,3 +70,4 @@
 [2015-03-03 20:50:25] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/xik6
 [2015-03-03 20:50:25] selendroid-git: selendroid/master 19f08f5 Dominik Dary: Update changelog.md
 [2015-03-03 20:50:25] selendroid-git, leaving. (#selendroid)
+[2015-03-03 21:02:18] operatiay, joining. (#selendroid)
