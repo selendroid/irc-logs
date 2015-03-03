@@ -34,3 +34,4 @@
 [2015-03-03 18:03:45] selendroid-git, leaving. (#selendroid)
 [2015-03-03 18:17:07] maan__, joining. (#selendroid)
 [2015-03-03 18:17:31] maan_, quitting. (Read error: Connection reset by peer)
+[2015-03-03 19:00:05] albert_, joining. (#selendroid)
