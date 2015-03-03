@@ -100,3 +100,5 @@
 [2015-03-03 22:55:13] albert_, quitting. (Ping timeout: 246 seconds)
 [2015-03-03 22:57:55] smccarthy, quitting. (Remote host closed the connection)
 [2015-03-03 22:58:38] smccarthy, joining. (#selendroid)
+[2015-03-03 23:42:33] smccarthy, quitting. (Remote host closed the connection)
+[2015-03-03 23:43:07] smccarthy, joining. (#selendroid)
