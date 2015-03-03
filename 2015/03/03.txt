@@ -91,3 +91,8 @@
 [2015-03-03 21:40:29] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/xi2u
 [2015-03-03 21:40:29] selendroid-git: selendroid/master 5d0511d Dominik Dary: preparing next development version 0.16.0-SNAPSHOT
 [2015-03-03 21:40:30] selendroid-git, leaving. (#selendroid)
+[2015-03-03 21:46:47] travis-ci, joining. (#selendroid)
+[2015-03-03 21:46:48] travis-ci: selendroid/selendroid#602 (master - 5d0511d : Dominik Dary): The build was fixed.
+[2015-03-03 21:46:48] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/e00ca0a4f727...5d0511d0a3d2
+[2015-03-03 21:46:48] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/52952359
+[2015-03-03 21:46:48] travis-ci, leaving. (#selendroid)
