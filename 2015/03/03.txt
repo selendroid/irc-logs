@@ -28,3 +28,7 @@
 [2015-03-03 17:07:26] smccarthy, joining. (#selendroid)
 [2015-03-03 17:35:30] maan_, joining. (#selendroid)
 [2015-03-03 17:47:34] lukeis, joining. (#selendroid)
+[2015-03-03 18:02:40] operatiay, quitting. (Remote host closed the connection)
+[2015-03-03 18:03:45] selendroid-git, joining. (#selendroid)
+[2015-03-03 18:03:45] selendroid-git: [selendroid] ILikeToNguyen opened pull request #823: Added apiTargetType as an option to SelendroidCapabilities to specify th... (master...desiredCapabilitiesAPIType) http://git.io/xKrY
+[2015-03-03 18:03:45] selendroid-git, leaving. (#selendroid)
