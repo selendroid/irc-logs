@@ -26,3 +26,4 @@
 [2015-03-03 16:30:34] albert, quitting. (Ping timeout: 246 seconds)
 [2015-03-03 16:41:59] operatiay, joining. (#selendroid)
 [2015-03-03 17:07:26] smccarthy, joining. (#selendroid)
+[2015-03-03 17:35:30] maan_, joining. (#selendroid)
