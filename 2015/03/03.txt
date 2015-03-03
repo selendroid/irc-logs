@@ -40,3 +40,8 @@
 [2015-03-03 19:12:51] selendroid-git: selendroid/master 5e651d5 Anthony Nguyen: Added apiTargetType as an option to SelendroidCapabilities to specify that you need a device(emulator or physical) with Google APIs on it
 [2015-03-03 19:12:51] selendroid-git: selendroid/master 23f7633 Luke Inman-Semerau: Merge pull request #823 from ILikeToNguyen/desiredCapabilitiesAPIType...
 [2015-03-03 19:12:51] selendroid-git, leaving. (#selendroid)
+[2015-03-03 19:27:30] travis-ci, joining. (#selendroid)
+[2015-03-03 19:27:31] travis-ci: selendroid/selendroid#598 (master - 23f7633 : Luke Inman-Semerau): The build passed.
+[2015-03-03 19:27:31] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/c89f3595b94d...23f76338af93
+[2015-03-03 19:27:31] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/52932692
+[2015-03-03 19:27:31] travis-ci, leaving. (#selendroid)
