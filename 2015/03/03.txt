@@ -50,3 +50,14 @@
 [2015-03-03 20:38:21] ddary, joining. (#selendroid)
 [2015-03-03 20:38:33] lukeis: oh hai ddary :)
 [2015-03-03 20:38:53] ddary: hi lukeis
+[2015-03-03 20:40:14] ddary: just wanted to ask if you have the release on your list
+[2015-03-03 20:40:28] lukeis: not immediately, no
+[2015-03-03 20:40:52] lukeis: but i think i could get around to it ;)
+[2015-03-03 20:41:32] ddary: i can do it now
+[2015-03-03 20:41:42] lukeis: ok, feel free :)
+[2015-03-03 20:41:46] ddary: do you know there is something to be added soon?
+[2015-03-03 20:42:00] lukeis: our chromedriver support? ;)
+[2015-03-03 20:42:04] ddary: ;-)
+[2015-03-03 20:42:32] ddary: i would say that need some time
+[2015-03-03 20:42:48] lukeis: yes, it does… so go ahead and release :)
+[2015-03-03 20:43:20] ddary: k
