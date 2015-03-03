@@ -87,3 +87,7 @@
 [2015-03-03 21:33:18] lukeis: heading for lunch now… bbl
 [2015-03-03 21:33:21] ddary: :-)
 [2015-03-03 21:33:27] ddary: enjoy
+[2015-03-03 21:40:29] selendroid-git, joining. (#selendroid)
+[2015-03-03 21:40:29] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/xi2u
+[2015-03-03 21:40:29] selendroid-git: selendroid/master 5d0511d Dominik Dary: preparing next development version 0.16.0-SNAPSHOT
+[2015-03-03 21:40:30] selendroid-git, leaving. (#selendroid)
