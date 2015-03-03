@@ -79,3 +79,11 @@
 [2015-03-03 21:29:14] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/xiEk
 [2015-03-03 21:29:14] selendroid-git: selendroid/master e00ca0a Dominik Dary: Release 0.15.0
 [2015-03-03 21:29:14] selendroid-git, leaving. (#selendroid)
+[2015-03-03 21:32:41] selendroid-git, joining. (#selendroid)
+[2015-03-03 21:32:41] selendroid-git: [selendroid] DominikDary tagged 0.15.0 at master: http://git.io/xiuW
+[2015-03-03 21:32:41] selendroid-git, leaving. (#selendroid)
+[2015-03-03 21:33:10] lukeis: nicely done ddary :)
+[2015-03-03 21:33:16] mach6: woot
+[2015-03-03 21:33:18] lukeis: heading for lunch now… bbl
+[2015-03-03 21:33:21] ddary: :-)
+[2015-03-03 21:33:27] ddary: enjoy
