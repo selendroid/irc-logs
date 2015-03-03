@@ -11,3 +11,7 @@
 [2015-03-03 10:32:16] jcws, quitting. (Read error: Connection reset by peer)
 [2015-03-03 10:33:40] operatiay, joining. (#selendroid)
 [2015-03-03 11:13:04] jcws_, quitting. ()
+[2015-03-03 12:30:43] operatiay, quitting. (Remote host closed the connection)
+[2015-03-03 12:32:34] operatiay, joining. (#selendroid)
+[2015-03-03 12:33:00] operatiay, quitting. (Remote host closed the connection)
+[2015-03-03 12:33:12] operatiay, joining. (#selendroid)
