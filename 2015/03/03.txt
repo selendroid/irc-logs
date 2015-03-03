@@ -32,3 +32,5 @@
 [2015-03-03 18:03:45] selendroid-git, joining. (#selendroid)
 [2015-03-03 18:03:45] selendroid-git: [selendroid] ILikeToNguyen opened pull request #823: Added apiTargetType as an option to SelendroidCapabilities to specify th... (master...desiredCapabilitiesAPIType) http://git.io/xKrY
 [2015-03-03 18:03:45] selendroid-git, leaving. (#selendroid)
+[2015-03-03 18:17:07] maan__, joining. (#selendroid)
+[2015-03-03 18:17:31] maan_, quitting. (Read error: Connection reset by peer)
