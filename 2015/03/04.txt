@@ -55,3 +55,4 @@
 [2015-03-04 17:43:07] lukeis, joining. (#selendroid)
 [2015-03-04 18:11:02] mach6, quitting. (Read error: Connection reset by peer)
 [2015-03-04 18:11:22] mach6, joining. (#selendroid)
+[2015-03-04 18:16:58] smccarthy, joining. (#selendroid)
