@@ -30,3 +30,5 @@
 [2015-03-04 12:54:25] mach6, joining. (#selendroid)
 [2015-03-04 12:59:17] mach6, quitting. (Ping timeout: 256 seconds)
 [2015-03-04 13:52:32] operatiay: hey, did anyone debug selendroid server on device?
+[2015-03-04 13:55:10] mach6, joining. (#selendroid)
+[2015-03-04 13:59:35] mach6, quitting. (Ping timeout: 252 seconds)
