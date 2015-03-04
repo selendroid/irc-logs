@@ -65,3 +65,4 @@
 [2015-03-04 19:55:50] aluedeke, joining. (#selendroid)
 [2015-03-04 20:46:06] aluedeke, quitting. (Quit: Leaving.)
 [2015-03-04 21:54:32] mach6, quitting. (Remote host closed the connection)
+[2015-03-04 22:09:10] Elbandi, quitting. (Quit: leaving)
