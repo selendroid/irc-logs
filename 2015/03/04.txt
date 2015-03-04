@@ -16,3 +16,4 @@
 [2015-03-04 08:04:39] aluedeke, joining. (#selendroid)
 [2015-03-04 08:47:16] aluedeke, quitting. (Quit: Leaving.)
 [2015-03-04 08:50:59] mach6, quitting. (Remote host closed the connection)
+[2015-03-04 09:42:38] aluedeke, joining. (#selendroid)
