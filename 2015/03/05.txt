@@ -13,3 +13,5 @@
 [2015-03-05 13:17:56] detronizator, joining. (#selendroid)
 [2015-03-05 13:58:11] smikloso: hello, does anybody know if it is possible to take a screenshot when I open in-built camera in selendroid? that element id is "shutter_button" but I can not interact with it, it is simply not found ...
 [2015-03-05 13:58:32] smikloso: asm89 detronizator smccarthy AutomatedTester ^^
+[2015-03-05 14:03:56] smikloso: anybody please
+[2015-03-05 14:04:05] smikloso: aluedeke: ? ^
