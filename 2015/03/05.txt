@@ -46,3 +46,5 @@
 [2015-03-05 17:42:23] maan, quitting. (Ping timeout: 244 seconds)
 [2015-03-05 17:49:04] lukeis, joining. (#selendroid)
 [2015-03-05 18:30:50] maan, joining. (#selendroid)
+[2015-03-05 19:55:46] ddary, joining. (#selendroid)
+[2015-03-05 19:56:02] aluedeke, joining. (#selendroid)
