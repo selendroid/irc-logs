@@ -34,3 +34,5 @@
 [2015-03-05 14:12:57] smikloso: i am not using appium at all and can not
 [2015-03-05 14:13:08] aluedeke: k sry, *confused*
 [2015-03-05 14:15:29] aluedeke: then iam out
+[2015-03-05 14:30:52] smikloso: aluedeke: nevermind
+[2015-03-05 14:30:58] smikloso: aluedeke: i think it is not possible
