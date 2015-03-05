@@ -58,3 +58,4 @@
 [2015-03-05 22:15:20] operatiay, quitting. (Remote host closed the connection)
 [2015-03-05 22:16:42] operatiay, joining. (#selendroid)
 [2015-03-05 22:16:43] operatiay, quitting. (Remote host closed the connection)
+[2015-03-05 23:25:21] aluedeke, quitting. (Quit: Leaving.)
