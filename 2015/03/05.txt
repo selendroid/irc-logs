@@ -10,3 +10,4 @@
 [2015-03-05 10:13:55] operatiay, joining. (#selendroid)
 [2015-03-05 10:15:20] operatiay, quitting. (Remote host closed the connection)
 [2015-03-05 10:23:44] aluedeke, joining. (#selendroid)
+[2015-03-05 13:17:56] detronizator, joining. (#selendroid)
