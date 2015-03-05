@@ -17,3 +17,19 @@
 [2015-03-05 14:04:05] smikloso: aluedeke: ? ^
 [2015-03-05 14:08:31] aluedeke: @smikloso i am pretty sure its impossible to get a reference to the button
 [2015-03-05 14:08:50] aluedeke: the only thin you can do is x/y clicks
+[2015-03-05 14:10:10] smikloso: aluedeke: yes
+[2015-03-05 14:10:24] smikloso: aluedeke: but that wants from me WebElement to click on
+[2015-03-05 14:10:27] aluedeke: (explanation: those apps are not implemented with the default android ui technologie stuff, i would bet its opengl or something similar, so selendroid isn't able to recognize it)
+[2015-03-05 14:10:51] smikloso: when I look at it in eclipse ddms vies
+[2015-03-05 14:11:01] smikloso: i can see that it has id "shutter_button"
+[2015-03-05 14:11:09] smikloso: but selendroid can not handle it
+[2015-03-05 14:11:17] smikloso: so when I look at touch interactions api
+[2015-03-05 14:11:50] smikloso: TouchActions touch = new TouchActions(driver)
+[2015-03-05 14:12:01] smikloso: there is not any "just click on x/y"
+[2015-03-05 14:12:07] smikloso: it wants web element
+[2015-03-05 14:12:10] smikloso: which i can not get
+[2015-03-05 14:12:39] aluedeke: you are using the latest appium driver right?
+[2015-03-05 14:12:45] aluedeke: appium java driver?
+[2015-03-05 14:12:45] smikloso: selendroid
+[2015-03-05 14:12:57] smikloso: i am not using appium at all and can not
+[2015-03-05 14:13:08] aluedeke: k sry, *confused*
