@@ -18,3 +18,5 @@
 [2015-03-06 14:02:29] wiwefak, joining. (#selendroid)
 [2015-03-06 14:03:05] wiwefak: Hello. Is it possible to see what the screensize of the device/emulator is where selendroid running the tests.
 [2015-03-06 15:04:33] smccarthy, joining. (#selendroid)
+[2015-03-06 15:06:57] operatiay, quitting. (Remote host closed the connection)
+[2015-03-06 15:07:34] operatiay, joining. (#selendroid)
