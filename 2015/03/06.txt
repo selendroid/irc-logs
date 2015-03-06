@@ -12,3 +12,4 @@
 [2015-03-06 11:41:30] operatiay, quitting. (Remote host closed the connection)
 [2015-03-06 11:49:25] operatiay, joining. (#selendroid)
 [2015-03-06 12:07:19] aluedeke, quitting. (Ping timeout: 245 seconds)
+[2015-03-06 12:25:23] aluedeke, joining. (#selendroid)
