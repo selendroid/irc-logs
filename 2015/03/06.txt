@@ -24,3 +24,5 @@
 [2015-03-06 16:09:34] wiwefak, quitting. (Quit: Page closed)
 [2015-03-06 16:26:33] smikloso, quitting. (Quit: Leaving.)
 [2015-03-06 17:26:46] lukeis, joining. (#selendroid)
+[2015-03-06 18:32:47] lukeis, quitting. (Quit: Leaving.)
+[2015-03-06 18:33:03] lukeis, joining. (#selendroid)
