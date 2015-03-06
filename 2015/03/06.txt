@@ -15,3 +15,5 @@
 [2015-03-06 12:25:23] aluedeke, joining. (#selendroid)
 [2015-03-06 13:06:20] operatiay, quitting. (Remote host closed the connection)
 [2015-03-06 13:17:00] operatiay, joining. (#selendroid)
+[2015-03-06 14:02:29] wiwefak, joining. (#selendroid)
+[2015-03-06 14:03:05] wiwefak: Hello. Is it possible to see what the screensize of the device/emulator is where selendroid running the tests.
