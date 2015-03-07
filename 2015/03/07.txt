@@ -6,3 +6,4 @@
 [2015-03-07 17:13:04] smccarthy, quitting. (Quit: Leaving...)
 [2015-03-07 19:45:25] smccarthy, joining. (#selendroid)
 [2015-03-07 20:30:27] smccarthy, quitting. (Remote host closed the connection)
+[2015-03-07 21:08:05] operatiay, joining. (#selendroid)
