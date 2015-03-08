@@ -22,3 +22,8 @@
 [2015-03-08 17:56:46] smccarthy, joining. (#selendroid)
 [2015-03-08 17:56:59] smccarthy, quitting. (Read error: Connection reset by peer)
 [2015-03-08 17:58:48] smccarthy, joining. (#selendroid)
+[2015-03-08 18:00:12] smccarthy2, joining. (#selendroid)
+[2015-03-08 18:00:39] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2015-03-08 18:01:04] smccarthy2, joining. (#selendroid)
+[2015-03-08 18:01:35] smccarthy2, quitting. (Read error: Connection reset by peer)
+[2015-03-08 18:01:46] smccarthy, quitting. (Read error: Connection reset by peer)
