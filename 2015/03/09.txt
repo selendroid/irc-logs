@@ -12,3 +12,8 @@
 [2015-03-09 16:21:28] operatia_, quitting. (Remote host closed the connection)
 [2015-03-09 16:25:52] operatiay, joining. (#selendroid)
 [2015-03-09 16:32:20] smikloso, leaving. (#selendroid)
+[2015-03-09 16:42:02] lukeis, joining. (#selendroid)
+[2015-03-09 16:43:00] operatiay: good morning lukeis
+[2015-03-09 16:43:11] lukeis: g'day to you to
+[2015-03-09 16:43:19] operatiay: thanks
+[2015-03-09 16:43:59] operatiay: I'm trying to use selendroid with cordova, maybe you could help me with it (assuming you've got experience with cordova apps)
