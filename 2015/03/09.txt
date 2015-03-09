@@ -4,3 +4,4 @@
 [2015-03-09 10:16:30] smikloso, joining. (#selendroid)
 [2015-03-09 10:34:00] operatiay, joining. (#selendroid)
 [2015-03-09 11:19:13] aluedeke, joining. (#selendroid)
+[2015-03-09 14:01:32] operatiay, quitting. (Remote host closed the connection)
