@@ -38,3 +38,5 @@
 [2015-03-09 20:54:18] ddary, joining. (#selendroid)
 [2015-03-09 20:54:18] ddary, quitting. (Client Quit)
 [2015-03-09 21:43:53] operatiay, joining. (#selendroid)
+[2015-03-09 22:51:09] operatiay, quitting. (Read error: Connection reset by peer)
+[2015-03-09 22:53:44] operatiay, joining. (#selendroid)
