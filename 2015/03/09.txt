@@ -25,3 +25,9 @@
 [2015-03-09 16:47:48] operatiay: yeah, the old fashioned debugging, prior to Eclipse & co
 [2015-03-09 16:48:19] operatiay: it's just too long of a roundtrip to get the results
 [2015-03-09 16:49:14] lukeis: yep, it can be...
+[2015-03-09 16:50:29] operatiay: I've seen in the forum that Dominik was able to do it... unfortunately the linked pages aren't available any more (they reference Eclipse plugin, which is not the default Android platform any more)
+[2015-03-09 16:51:11] lukeis: otherwise I would assume that you need build the selendroid-server in intellij / eclipse  in debug mode, change the android package name to what your app is, launch the instrumentation process yourself, connect a RWD to the port you have running on the device (forward the port if you haven't already) ~ typically on 8080
+[2015-03-09 16:51:29] selendroid-git, joining. (#selendroid)
+[2015-03-09 16:51:29] selendroid-git: [selendroid] huntinglauren opened pull request #827: gets app version from pom.xml if class path doesn't start with jar (master...master) http://git.io/pnAW
+[2015-03-09 16:51:29] selendroid-git, leaving. (#selendroid)
+[2015-03-09 16:53:08] operatiay: thank you for the tips. I'll try that.
