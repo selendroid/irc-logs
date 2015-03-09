@@ -31,3 +31,4 @@
 [2015-03-09 16:51:29] selendroid-git: [selendroid] huntinglauren opened pull request #827: gets app version from pom.xml if class path doesn't start with jar (master...master) http://git.io/pnAW
 [2015-03-09 16:51:29] selendroid-git, leaving. (#selendroid)
 [2015-03-09 16:53:08] operatiay: thank you for the tips. I'll try that.
+[2015-03-09 16:59:19] smccarthy, quitting. (Quit: Leaving...)
