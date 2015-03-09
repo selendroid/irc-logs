@@ -17,3 +17,11 @@
 [2015-03-09 16:43:11] lukeis: g'day to you to
 [2015-03-09 16:43:19] operatiay: thanks
 [2015-03-09 16:43:59] operatiay: I'm trying to use selendroid with cordova, maybe you could help me with it (assuming you've got experience with cordova apps)
+[2015-03-09 16:46:12] operatiay: right now I'm getting a NPE when switching to WEBVIEW (obviously selendroid, more precisely WebViewHandleMapper.getWebViewByHandle(), is not able to see the WebView)
+[2015-03-09 16:46:41] operatiay: so I wanted to debug the server (on the device)... have you ever done this?
+[2015-03-09 16:46:57] lukeis: not successfully myself
+[2015-03-09 16:47:10] lukeis: i mean, run in debug mode that is
+[2015-03-09 16:47:26] lukeis: i typically resort to using the logger and reading logcat
+[2015-03-09 16:47:48] operatiay: yeah, the old fashioned debugging, prior to Eclipse & co
+[2015-03-09 16:48:19] operatiay: it's just too long of a roundtrip to get the results
+[2015-03-09 16:49:14] lukeis: yep, it can be...
