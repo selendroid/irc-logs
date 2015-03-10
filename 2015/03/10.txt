@@ -75,3 +75,4 @@
 [2015-03-10 20:53:19] operatiay, joining. (#selendroid)
 [2015-03-10 21:11:25] operatiay, quitting. (Read error: Connection reset by peer)
 [2015-03-10 21:11:53] operatiay, joining. (#selendroid)
+[2015-03-10 21:53:40] smccarthy, quitting. (Quit: Leaving...)
