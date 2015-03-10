@@ -19,3 +19,6 @@
 [2015-03-10 11:29:21] operatiay: hi androidTester, have you tried using Android Studio? gradle is preconfigured there and builds automatically. selendroid is build using maven
 [2015-03-10 11:33:23] androidTester: operatiay: Yes I mean Android Studio. In general using gradle works, but I want use gradle also to test my app with selendroid? I added the dependency to use an example from the selendroid page and got Error:Dependency io.selendroid:selendroid-server:0.15.0 on project app resolves to an APK archive which is not supported as a compilation dependency. ... selendroid-server-0.15.0.apk
 [2015-03-10 11:34:44] androidTester: An example project with gradle for the new official Android IDE would be a great help. I couldn't find one on the web.
+[2015-03-10 11:36:17] operatiay: what about this? https://github.com/libgdx/libgdx/wiki/Dependency-management-with-Gradle#external-dependencies
+[2015-03-10 11:36:33] operatiay: did you define your maven dependency?
+[2015-03-10 11:39:02] operatiay: I don't think there's need to do this kind of an example project. Using selendroid is not dependant on Android Studio. I haven't done it myself but it should be pretty straightforward to translate the maven pom.xml to gradle
