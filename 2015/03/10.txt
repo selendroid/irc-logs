@@ -33,3 +33,4 @@
 [2015-03-10 11:52:14] operatiay: the rest is all for an android project. have a look at https://gradle.org/docs/current/userguide/tutorial_java_projects.html
 [2015-03-10 11:55:39] androidTester: I will try. Thanks for now.
 [2015-03-10 12:08:19] operatiay, quitting. (Remote host closed the connection)
+[2015-03-10 12:12:23] operatiay, joining. (#selendroid)
