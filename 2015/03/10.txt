@@ -34,3 +34,4 @@
 [2015-03-10 11:55:39] androidTester: I will try. Thanks for now.
 [2015-03-10 12:08:19] operatiay, quitting. (Remote host closed the connection)
 [2015-03-10 12:12:23] operatiay, joining. (#selendroid)
+[2015-03-10 12:24:40] operatiay, quitting. ()
