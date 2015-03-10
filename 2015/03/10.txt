@@ -59,3 +59,6 @@
 [2015-03-10 17:06:20] maan_, joining. (#selendroid)
 [2015-03-10 17:09:34] smccarthy, joining. (#selendroid)
 [2015-03-10 17:10:01] maan, quitting. (Ping timeout: 264 seconds)
+[2015-03-10 17:16:55] maan, joining. (#selendroid)
+[2015-03-10 17:18:31] operatiay: :log
+[2015-03-10 17:19:46] maan_, quitting. (Ping timeout: 256 seconds)
