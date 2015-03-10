@@ -13,3 +13,7 @@
 [2015-03-10 10:51:46] smikloso, quitting. (Ping timeout: 252 seconds)
 [2015-03-10 11:20:52] androidTester, joining. (#selendroid)
 [2015-03-10 11:21:47] androidTester: Hi together. Is there a sample project working on IntelliJ? I am still struggling to use a gradle build with selendroid.
+[2015-03-10 11:26:23] selendroid-git, joining. (#selendroid)
+[2015-03-10 11:26:23] selendroid-git: [selendroid] operatiay opened pull request #828: Updated manifest version to 0.16.0-SNAPSHOT for selendroid-standalone project (master...fix_versions) http://git.io/p4KV
+[2015-03-10 11:26:23] selendroid-git, leaving. (#selendroid)
+[2015-03-10 11:29:21] operatiay: hi androidTester, have you tried using Android Studio? gradle is preconfigured there and builds automatically. selendroid is build using maven
