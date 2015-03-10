@@ -56,3 +56,6 @@
 [2015-03-10 16:22:56] operatiay, joining. (#selendroid)
 [2015-03-10 16:29:49] lukeis, joining. (#selendroid)
 [2015-03-10 16:50:21] detronizator, joining. (#selendroid)
+[2015-03-10 17:06:20] maan_, joining. (#selendroid)
+[2015-03-10 17:09:34] smccarthy, joining. (#selendroid)
+[2015-03-10 17:10:01] maan, quitting. (Ping timeout: 264 seconds)
