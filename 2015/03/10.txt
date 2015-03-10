@@ -27,3 +27,7 @@
 [2015-03-10 11:47:34] operatiay: the issue you're having is that gradle expects an apk but should look for a jar
 [2015-03-10 11:47:53] operatiay: probably
 [2015-03-10 11:49:31] androidTester: I just want to compile the Test from https://github.com/selendroid/demoproject-selendroid/blob/master/src/main/java/io/selendroid/demo/SelendroidIntegrationTest.java
+[2015-03-10 11:50:43] androidTester: https://gist.github.com/anonymous/da1497b9a61a31515090
+[2015-03-10 11:51:27] operatiay: well, you need a java plugin, not android
+[2015-03-10 11:51:39] operatiay: that's the first
+[2015-03-10 11:52:14] operatiay: the rest is all for an android project. have a look at https://gradle.org/docs/current/userguide/tutorial_java_projects.html
