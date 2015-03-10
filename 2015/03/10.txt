@@ -78,3 +78,6 @@
 [2015-03-10 21:53:40] smccarthy, quitting. (Quit: Leaving...)
 [2015-03-10 22:24:30] operatiay, quitting. (Remote host closed the connection)
 [2015-03-10 22:25:13] mach6, joining. (#selendroid)
+[2015-03-10 22:35:40] aluedeke, quitting. (Quit: Leaving.)
+[2015-03-10 22:37:48] mtrythall, joining. (#selendroid)
+[2015-03-10 22:39:26] mtrythall, quitting. (Client Quit)
