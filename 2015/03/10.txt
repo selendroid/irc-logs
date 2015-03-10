@@ -22,3 +22,4 @@
 [2015-03-10 11:36:17] operatiay: what about this? https://github.com/libgdx/libgdx/wiki/Dependency-management-with-Gradle#external-dependencies
 [2015-03-10 11:36:33] operatiay: did you define your maven dependency?
 [2015-03-10 11:39:02] operatiay: I don't think there's need to do this kind of an example project. Using selendroid is not dependant on Android Studio. I haven't done it myself but it should be pretty straightforward to translate the maven pom.xml to gradle
+[2015-03-10 11:44:28] androidTester: I tried that and got this error which I wrote above (with the apk). I am relatively new to gradle and also not an expert on maven. At least that would make it easier starting using selendroid in Android Studio. But thats just my opinion.
