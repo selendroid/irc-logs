@@ -8,3 +8,4 @@
 [2015-03-10 06:30:54] smccarthy, quitting. (Quit: Leaving...)
 [2015-03-10 09:37:55] aluedeke, joining. (#selendroid)
 [2015-03-10 10:03:07] smikloso, joining. (#selendroid)
+[2015-03-10 10:39:49] operatiay, joining. (#selendroid)
