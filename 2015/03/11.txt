@@ -117,3 +117,26 @@
 [2015-03-11 17:08:26] lukeis: i think i last saw him mention him going to a conference… but also he doesn't do irc while at work anymore
 [2015-03-11 17:08:50] operatiay: he's a busy man now :)
 [2015-03-11 17:08:54] lukeis: he's a pointy-hair now, all his contributions are purely on the side :)
+[2015-03-11 17:10:05] *lukeis has no interest in ever going into management… '
+[2015-03-11 17:10:32] operatiay: I've written him an email asking how he's debugging the server with cordova app
+[2015-03-11 17:10:57] lukeis: thankfully my current employer doesn't view the 'career ladder' for developers as going to management… there's an actual development track :)
+[2015-03-11 17:11:23] operatiay: and what are you developing in the development track?
+[2015-03-11 17:11:36] travis-ci, joining. (#selendroid)
+[2015-03-11 17:11:37] travis-ci: selendroid/selendroid#610 (master - 82e8cb2 : operatiay): The build passed.
+[2015-03-11 17:11:37] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/5d0511d0a3d2...82e8cb28b575
+[2015-03-11 17:11:37] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/53963158
+[2015-03-11 17:11:37] travis-ci, leaving. (#selendroid)
+[2015-03-11 17:11:45] lukeis: code? :)
+[2015-03-11 17:12:36] *operatiay probably has to do the management soon'
+[2015-03-11 17:13:01] maan_, quitting. (Remote host closed the connection)
+[2015-03-11 17:13:01] operatiay: :) maybe it's going to be code management though
+[2015-03-11 17:13:06] lukeis: developer 'track' here:  associate, member, senior, lead, principle, architect, vp, cto   <- where the cto is basically still doing coding, we have multiple cto's
+[2015-03-11 17:13:27] maan, joining. (#selendroid)
+[2015-03-11 17:13:36] operatiay: that's nice :) and when is the cto switching to managing director?
+[2015-03-11 17:13:50] operatiay: are you one of the ctos?
+[2015-03-11 17:13:52] lukeis: we have svp's and directors and such for that
+[2015-03-11 17:13:55] lukeis: no :)
+[2015-03-11 17:14:00] lukeis: i'm just a "lead" :)
+[2015-03-11 17:14:25] operatiay: :) how many more years till principle?
+[2015-03-11 17:14:31] lukeis:  ¯\_(ツ)_/¯
+[2015-03-11 17:14:53] lukeis: i don't necessarily think these titles should have anything to do with years-in-service
