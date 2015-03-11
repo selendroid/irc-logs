@@ -140,3 +140,33 @@
 [2015-03-11 17:14:25] operatiay: :) how many more years till principle?
 [2015-03-11 17:14:31] lukeis:  ¯\_(ツ)_/¯
 [2015-03-11 17:14:53] lukeis: i don't necessarily think these titles should have anything to do with years-in-service
+[2015-03-11 17:15:12] lukeis: i'd actually be quite happy to stay exactly where I am until i retire
+[2015-03-11 17:15:12] operatiay: but they do have something in common with salary
+[2015-03-11 17:15:36] lukeis: somewhat… i think i get paid more than some principles and architects though :)
+[2015-03-11 17:15:59] operatiay: :) that's nice, so you'll get even more when you become one of those
+[2015-03-11 17:16:34] lukeis: eh, it's usually a marginal increase for title… annual merit increases do me just fine
+[2015-03-11 17:16:45] lukeis: plus spot bonuses and stock :)
+[2015-03-11 17:16:57] lukeis: they apparently like me ;)
+[2015-03-11 17:17:12] operatiay: :) who wouldn't? !m lukeis
+[2015-03-11 17:17:20] operatiay: oh, this doesn't work
+[2015-03-11 17:17:25] operatiay: !m lukeis
+[2015-03-11 17:17:25] [b__b]: You're doing good work, lukeis!
+[2015-03-11 17:17:30] lukeis: not sure what the !m is :)
+[2015-03-11 17:17:37] lukeis: [b__b]: heh, thanks ;)
+[2015-03-11 17:17:53] operatiay: :) i think it's a new bot
+[2015-03-11 17:18:07] maan, quitting. (Ping timeout: 256 seconds)
+[2015-03-11 17:18:19] lukeis: ah ha
+[2015-03-11 17:18:21] lukeis: botbot
+[2015-03-11 17:18:26] operatiay: [b__b] help
+[2015-03-11 17:18:26] [b__b]: Available plugins: logger, ping, last_seen, help, bangmotivate (https://botbot.me/freenode/selendroid/help/)
+[2015-03-11 17:18:56] lukeis: why is it telling me i do good work??
+[2015-03-11 17:19:03] operatiay: :) thought it was arranged by you?
+[2015-03-11 17:19:09] lukeis: nope
+[2015-03-11 17:19:11] operatiay: because I'm telling him to do so
+[2015-03-11 17:19:11] lukeis:  ¯\_(ツ)_/¯
+[2015-03-11 17:19:18] lukeis: lol
+[2015-03-11 17:19:18] operatiay: the command for praise
+[2015-03-11 17:19:26] operatiay: !m [b__b]
+[2015-03-11 17:19:26] [b__b]: You're doing good work, [b__b]!
+[2015-03-11 17:19:32] lukeis: haha
+[2015-03-11 17:19:53] lukeis: another bot to learn...
