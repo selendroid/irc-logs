@@ -197,3 +197,7 @@
 [2015-03-11 20:00:44] smikloso, leaving. (#selendroid)
 [2015-03-11 20:49:49] tester, quitting. (Ping timeout: 246 seconds)
 [2015-03-11 20:54:19] operatiay, joining. (#selendroid)
+[2015-03-11 20:56:08] operatiay, quitting. (Read error: Connection reset by peer)
+[2015-03-11 20:56:24] operatiay, joining. (#selendroid)
+[2015-03-11 20:57:47] operatiay, quitting. (Read error: Connection reset by peer)
+[2015-03-11 20:58:02] operatiay, joining. (#selendroid)
