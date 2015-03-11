@@ -65,3 +65,21 @@
 [2015-03-11 16:43:45] maan__, quitting. (Ping timeout: 250 seconds)
 [2015-03-11 16:48:59] lukeis: operatiay: feel free to merge your own changes ;) #828
 [2015-03-11 16:49:17] lukeis: operatiay: oh and small things like that, feel free to just push directly? :)
+[2015-03-11 16:50:21] operatiay: lukeis: are you sure? :) thanks, I'll merge it then...
+[2015-03-11 16:50:48] operatiay: I won't push them directly though... too risky
+[2015-03-11 16:51:04] lukeis: heh
+[2015-03-11 16:51:12] *lukeis lives dangerously and pushes directly'
+[2015-03-11 16:51:21] lukeis: worst thing that happens is we roll back the change ;)
+[2015-03-11 16:52:01] operatiay: :) I'd rather have another opinion before doing it. It's less of a hassle than rolling back
+[2015-03-11 16:52:14] lukeis: sure  ¯\_(ツ)_/¯
+[2015-03-11 16:52:32] lukeis: i suppose i should get more in the habit of getting my changes reviewed too :)
+[2015-03-11 16:53:00] selendroid-git, joining. (#selendroid)
+[2015-03-11 16:53:00] selendroid-git: [selendroid] operatiay pushed 2 new commits to master: http://git.io/pV7T
+[2015-03-11 16:53:01] selendroid-git: selendroid/master b38df1c operatiay: Updated manifest version to 0.16.0-SNAPSHOT for selendroid-standalone project.
+[2015-03-11 16:53:01] selendroid-git: selendroid/master 82e8cb2 operatiay: Merge pull request #828 from operatiay/fix_versions...
+[2015-03-11 16:53:01] selendroid-git, leaving. (#selendroid)
+[2015-03-11 16:53:24] operatiay: :) no, you're more experienced. you don't need it
+[2015-03-11 16:54:14] lukeis: ha, the contrary, the more experienced the better it is to get it reviewed :)
+[2015-03-11 16:54:32] operatiay: better for the others? :)
+[2015-03-11 16:54:38] maan, quitting. (Read error: Connection reset by peer)
+[2015-03-11 16:54:43] maan_, joining. (#selendroid)
