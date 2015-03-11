@@ -178,3 +178,13 @@
 [2015-03-11 17:46:55] selendroid-git: [selendroid] huntinglauren closed pull request #827: gets app version from pom.xml if class path doesn't start with jar (master...master) http://git.io/pnAW
 [2015-03-11 17:46:55] selendroid-git, leaving. (#selendroid)
 [2015-03-11 18:10:38] operatiay, quitting. (Remote host closed the connection)
+[2015-03-11 18:33:15] ddary, joining. (#selendroid)
+[2015-03-11 18:33:21] ddary: Hi all
+[2015-03-11 18:33:31] lukeis: hi ddary :)
+[2015-03-11 18:34:06] ddary: the bot actually is there by intention
+[2015-03-11 18:34:25] ddary: this is pushing logs of irc to: https://botbot.me/freenode/selendroid/
+[2015-03-11 18:34:28] lukeis: yeah, i saw some correspondence you had regarding this
+[2015-03-11 18:34:31] lukeis: !m ddary
+[2015-03-11 18:34:31] [b__b]: You're doing good work, ddary!
+[2015-03-11 18:34:40] ddary: nice
+[2015-03-11 18:34:51] ddary: :-)
