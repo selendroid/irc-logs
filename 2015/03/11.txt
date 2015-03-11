@@ -203,3 +203,5 @@
 [2015-03-11 20:58:02] operatiay, joining. (#selendroid)
 [2015-03-11 21:25:52] mtrythall, joining. (#selendroid)
 [2015-03-11 21:45:42] mtrythall, quitting. (Quit: Textual IRC Client: http://www.textualapp.com/)
+[2015-03-11 22:45:34] lukeis, quitting. (Quit: Leaving.)
+[2015-03-11 22:45:52] lukeis, joining. (#selendroid)
