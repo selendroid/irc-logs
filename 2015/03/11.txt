@@ -174,3 +174,6 @@
 [2015-03-11 17:20:52] lukeis: !m operatiay
 [2015-03-11 17:20:52] [b__b]: You're doing good work, operatiay!
 [2015-03-11 17:21:08] operatiay: :) thank you lukeis!
+[2015-03-11 17:46:55] selendroid-git, joining. (#selendroid)
+[2015-03-11 17:46:55] selendroid-git: [selendroid] huntinglauren closed pull request #827: gets app version from pom.xml if class path doesn't start with jar (master...master) http://git.io/pnAW
+[2015-03-11 17:46:55] selendroid-git, leaving. (#selendroid)
