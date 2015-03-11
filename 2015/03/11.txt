@@ -83,3 +83,10 @@
 [2015-03-11 16:54:32] operatiay: better for the others? :)
 [2015-03-11 16:54:38] maan, quitting. (Read error: Connection reset by peer)
 [2015-03-11 16:54:43] maan_, joining. (#selendroid)
+[2015-03-11 16:55:02] lukeis: at work, i typically get at least 2 choice comments on every code review
+[2015-03-11 16:55:49] operatiay: meaning?
+[2015-03-11 16:55:51] lukeis: outside perspective helps take a step back and question what the fuck you're doing ;)
+[2015-03-11 16:56:09] lukeis: meaning i'm always learning too :)
+[2015-03-11 16:56:23] operatiay: yes, you might reconsider the whole commit and the reasoning behind
+[2015-03-11 16:57:07] operatiay: :) if the commenter feels confident enough to make such a comment
+[2015-03-11 16:58:05] lukeis: feelings in code review are pointless… everyone should say just about anything they think as long as it's a legitimate point… (saying shit like 'this sucks' or 'this is bad' doesn't help anyone)
