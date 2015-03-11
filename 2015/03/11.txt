@@ -61,3 +61,5 @@
 [2015-03-11 16:33:29] tester: operatiay - I resolved the issue.  Stupid human mistake.
 [2015-03-11 16:35:31] maan, quitting. (Ping timeout: 250 seconds)
 [2015-03-11 16:37:30] operatiay: tester: :) cool!
+[2015-03-11 16:41:07] maan, joining. (#selendroid)
+[2015-03-11 16:43:45] maan__, quitting. (Ping timeout: 250 seconds)
