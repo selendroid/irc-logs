@@ -1,3 +1,7 @@
 [2015-03-11 00:31:35] mach6, quitting. (Remote host closed the connection)
 [2015-03-11 01:55:58] detronizator, quitting. (Ping timeout: 252 seconds)
 [2015-03-11 03:28:52] smccarthy, joining. (#selendroid)
+[2015-03-11 05:12:10] lukeis, joining. (#selendroid)
+[2015-03-11 05:13:55] lukeis1, joining. (#selendroid)
+[2015-03-11 05:13:55] lukeis, quitting. (Read error: Connection reset by peer)
+[2015-03-11 05:14:18] lukeis1, changing nick to lukeis.
