@@ -196,3 +196,4 @@
 [2015-03-11 19:36:04] mach6, joining. (#selendroid)
 [2015-03-11 20:00:44] smikloso, leaving. (#selendroid)
 [2015-03-11 20:49:49] tester, quitting. (Ping timeout: 246 seconds)
+[2015-03-11 20:54:19] operatiay, joining. (#selendroid)
