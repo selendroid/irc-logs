@@ -6,3 +6,4 @@
 [2015-03-11 05:13:55] lukeis, quitting. (Read error: Connection reset by peer)
 [2015-03-11 05:14:18] lukeis1, changing nick to lukeis.
 [2015-03-11 05:18:13] lukeis, quitting. (Client Quit)
+[2015-03-11 06:27:12] smccarthy, quitting. (Quit: Leaving...)
