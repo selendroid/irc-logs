@@ -54,3 +54,8 @@
 [2015-03-11 16:10:07] tester: I ran the same code with later versions of Android and that event is not occuring
 [2015-03-11 16:23:45] maan_, joining. (#selendroid)
 [2015-03-11 16:26:29] maan, quitting. (Ping timeout: 245 seconds)
+[2015-03-11 16:30:12] maan, joining. (#selendroid)
+[2015-03-11 16:32:27] lukeis, joining. (#selendroid)
+[2015-03-11 16:32:37] maan__, joining. (#selendroid)
+[2015-03-11 16:33:05] maan_, quitting. (Ping timeout: 246 seconds)
+[2015-03-11 16:33:29] tester: operatiay - I resolved the issue.  Stupid human mistake.
