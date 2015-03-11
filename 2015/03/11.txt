@@ -46,3 +46,5 @@
 [2015-03-11 15:11:53] smccarthy, joining. (#selendroid)
 [2015-03-11 15:53:12] maan, joining. (#selendroid)
 [2015-03-11 15:57:26] smccarthy, quitting. (Quit: Leaving...)
+[2015-03-11 16:03:06] tester, joining. (#selendroid)
+[2015-03-11 16:03:51] tester: Has anyone experienced selendroid producing an infinite loop on testing an app?
