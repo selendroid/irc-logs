@@ -26,3 +26,4 @@
 [2015-03-11 11:37:57] aluedeke, joining. (#selendroid)
 [2015-03-11 11:48:33] GregAvagyan, quitting. (Quit: Page closed)
 [2015-03-11 11:51:54] operatiay: stick around to get the answer... anyway, you need to have a look at the folder third-party
+[2015-03-11 12:18:02] maryna, quitting. (Quit: Page closed)
