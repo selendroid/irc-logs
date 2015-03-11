@@ -16,3 +16,4 @@
 [2015-03-11 11:02:23] GregAvagyan: hello guys
 [2015-03-11 11:02:47] GregAvagyan: I have some questions related to selendroid , any of you can help me ?
 [2015-03-11 11:04:03] GregAvagyan: anybody here :D ?
+[2015-03-11 11:05:42] aluedeke, quitting. (Ping timeout: 245 seconds)
