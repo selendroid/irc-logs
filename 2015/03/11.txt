@@ -31,3 +31,12 @@
 [2015-03-11 13:57:49] operatiay, quitting. (Remote host closed the connection)
 [2015-03-11 14:04:10] operatiay, joining. (#selendroid)
 [2015-03-11 14:39:38] mtrythall, joining. (#selendroid)
+[2015-03-11 14:40:26] [b__b], joining. (#selendroid)
+[2015-03-11 14:40:32] mtrythall: [b__b] help
+[2015-03-11 14:40:32] [b__b]: Available plugins: logger, ping, last_seen, help, bangmotivate (https://botbot.me/freenode/selendroid/help/)
+[2015-03-11 14:40:34] mtrythall: [b__b] ping
+[2015-03-11 14:40:34] [b__b]: Are you in need of my services, mtrythall?
+[2015-03-11 14:41:43] operatiay: what's up? :)
+[2015-03-11 14:43:35] operatiay: !m [b__b]
+[2015-03-11 14:43:35] [b__b]: You're doing good work, [b__b]!
+[2015-03-11 14:43:45] operatiay: useful... :)
