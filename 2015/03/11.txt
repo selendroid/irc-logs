@@ -193,3 +193,4 @@
 [2015-03-11 18:41:04] lukeis: :note ddary can you push what you have for chromedriver, i'd like to spend some time on it soon (don't worry about compilation errors for now, i'll resolve it)
 [2015-03-11 18:56:57] aluedeke, joining. (#selendroid)
 [2015-03-11 19:14:45] aluedeke, quitting. (Quit: Leaving.)
+[2015-03-11 19:36:04] mach6, joining. (#selendroid)
