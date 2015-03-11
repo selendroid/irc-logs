@@ -52,3 +52,4 @@
 [2015-03-11 16:08:37] operatiay: no. what do you see in the logs? is it reproducible on another device having the same android version?
 [2015-03-11 16:09:39] tester: I have not tried it on another machine.  The logs show that it shuts down but then it starts again.
 [2015-03-11 16:10:07] tester: I ran the same code with later versions of Android and that event is not occuring
+[2015-03-11 16:23:45] maan_, joining. (#selendroid)
