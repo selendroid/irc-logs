@@ -40,3 +40,6 @@
 [2015-03-11 14:43:35] operatiay: !m [b__b]
 [2015-03-11 14:43:35] [b__b]: You're doing good work, [b__b]!
 [2015-03-11 14:43:45] operatiay: useful... :)
+[2015-03-11 14:46:35] mtrythall, quitting. (Quit: Computer has gone to sleep.)
+[2015-03-11 14:47:04] mtrythall, joining. (#selendroid)
+[2015-03-11 14:47:34] mtrythall, quitting. (Client Quit)
