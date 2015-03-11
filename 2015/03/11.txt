@@ -190,3 +190,4 @@
 [2015-03-11 18:34:51] ddary: :-)
 [2015-03-11 18:39:25] ddary: so have to leave, wish you a nice day
 [2015-03-11 18:39:33] ddary, quitting. (Quit: Page closed)
+[2015-03-11 18:41:04] lukeis: :note ddary can you push what you have for chromedriver, i'd like to spend some time on it soon (don't worry about compilation errors for now, i'll resolve it)
