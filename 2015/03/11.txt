@@ -177,3 +177,4 @@
 [2015-03-11 17:46:55] selendroid-git, joining. (#selendroid)
 [2015-03-11 17:46:55] selendroid-git: [selendroid] huntinglauren closed pull request #827: gets app version from pom.xml if class path doesn't start with jar (master...master) http://git.io/pnAW
 [2015-03-11 17:46:55] selendroid-git, leaving. (#selendroid)
+[2015-03-11 18:10:38] operatiay, quitting. (Remote host closed the connection)
