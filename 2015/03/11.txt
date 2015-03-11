@@ -12,3 +12,7 @@
 [2015-03-11 09:49:11] aluedeke, joining. (#selendroid)
 [2015-03-11 09:54:17] smikloso, joining. (#selendroid)
 [2015-03-11 10:24:21] operatiay, joining. (#selendroid)
+[2015-03-11 11:02:12] GregAvagyan, joining. (#selendroid)
+[2015-03-11 11:02:23] GregAvagyan: hello guys
+[2015-03-11 11:02:47] GregAvagyan: I have some questions related to selendroid , any of you can help me ?
+[2015-03-11 11:04:03] GregAvagyan: anybody here :D ?
