@@ -48,3 +48,6 @@
 [2015-03-11 15:57:26] smccarthy, quitting. (Quit: Leaving...)
 [2015-03-11 16:03:06] tester, joining. (#selendroid)
 [2015-03-11 16:03:51] tester: Has anyone experienced selendroid producing an infinite loop on testing an app?
+[2015-03-11 16:07:28] tester: Has anyone experienced selendroid android 4.1.2 (ICS) producing an infinite loop on testing an app?  My associates are not seeing this on later versions of Android.
+[2015-03-11 16:08:37] operatiay: no. what do you see in the logs? is it reproducible on another device having the same android version?
+[2015-03-11 16:09:39] tester: I have not tried it on another machine.  The logs show that it shuts down but then it starts again.
