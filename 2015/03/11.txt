@@ -45,3 +45,4 @@
 [2015-03-11 14:47:34] mtrythall, quitting. (Client Quit)
 [2015-03-11 15:11:53] smccarthy, joining. (#selendroid)
 [2015-03-11 15:53:12] maan, joining. (#selendroid)
+[2015-03-11 15:57:26] smccarthy, quitting. (Quit: Leaving...)
