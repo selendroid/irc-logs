@@ -63,3 +63,5 @@
 [2015-03-11 16:37:30] operatiay: tester: :) cool!
 [2015-03-11 16:41:07] maan, joining. (#selendroid)
 [2015-03-11 16:43:45] maan__, quitting. (Ping timeout: 250 seconds)
+[2015-03-11 16:48:59] lukeis: operatiay: feel free to merge your own changes ;) #828
+[2015-03-11 16:49:17] lukeis: operatiay: oh and small things like that, feel free to just push directly? :)
