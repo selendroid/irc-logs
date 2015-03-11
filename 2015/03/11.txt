@@ -102,3 +102,18 @@
 [2015-03-11 17:03:54] lukeis: like:  io.selendroid.com.yourcompany.yourapp
 [2015-03-11 17:04:28] smccarthy, joining. (#selendroid)
 [2015-03-11 17:04:41] operatiay: :) ah, ok, that makes more sense... but then the server has already been deployed under this package name... is it not debuggable?
+[2015-03-11 17:05:09] lukeis: not sure if your IDE will attach to it, usually you have to 'run' in debug mode from the IDE
+[2015-03-11 17:05:36] operatiay: I was not able to see it running from IDE as a process... :(
+[2015-03-11 17:06:09] operatiay: only if it's displayed as a process can IDE debug it... based on my little experience with Android development
+[2015-03-11 17:06:12] lukeis: not sure exactly how to kick of the instrumentation in debug mode though :-/  hmmm, might need to 'run a test' to do it
+[2015-03-11 17:07:00] lukeis: if i have a day to kill, i'll try it out and write up a wiki on it
+[2015-03-11 17:07:04] operatiay: :) would be nice to have it documented somewhere... someone else might want to debug the server
+[2015-03-11 17:07:11] lukeis: indeed!
+[2015-03-11 17:07:19] operatiay: !m lukeis
+[2015-03-11 17:07:19] [b__b]: You're doing good work, lukeis!
+[2015-03-11 17:07:20] *lukeis glares at dominik '
+[2015-03-11 17:07:21] lukeis: :)
+[2015-03-11 17:07:52] operatiay: where's dominik? :) are you hiding him?
+[2015-03-11 17:08:26] lukeis: i think i last saw him mention him going to a conference… but also he doesn't do irc while at work anymore
+[2015-03-11 17:08:50] operatiay: he's a busy man now :)
+[2015-03-11 17:08:54] lukeis: he's a pointy-hair now, all his contributions are purely on the side :)
