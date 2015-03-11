@@ -8,3 +8,4 @@
 [2015-03-11 05:18:13] lukeis, quitting. (Client Quit)
 [2015-03-11 06:27:12] smccarthy, quitting. (Quit: Leaving...)
 [2015-03-11 08:10:53] aluedeke, joining. (#selendroid)
+[2015-03-11 09:05:05] aluedeke, quitting. (Quit: Leaving.)
