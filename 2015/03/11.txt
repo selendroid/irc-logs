@@ -90,3 +90,15 @@
 [2015-03-11 16:56:23] operatiay: yes, you might reconsider the whole commit and the reasoning behind
 [2015-03-11 16:57:07] operatiay: :) if the commenter feels confident enough to make such a comment
 [2015-03-11 16:58:05] lukeis: feelings in code review are pointless… everyone should say just about anything they think as long as it's a legitimate point… (saying shit like 'this sucks' or 'this is bad' doesn't help anyone)
+[2015-03-11 17:00:03] lukeis: but on the flip side, nit-picking a code review because it's not exactly how you would do it, is not helpful either :)
+[2015-03-11 17:00:15] operatiay: legitimacy is what I might not be able to judge
+[2015-03-11 17:00:40] lukeis: not all code review comments are actionable :)
+[2015-03-11 17:00:54] operatiay: :) if you feel that you're not the only one who would do it differently...
+[2015-03-11 17:01:45] operatiay: :) true, but not all commits are mergeable as well...
+[2015-03-11 17:03:02] lukeis: basically i think there's no reason for someone to be shy in a code review, either way someone will learn something by asking questions
+[2015-03-11 17:03:10] operatiay: by the way, I've tried your suggestion to debug the server on device... I've changed the package name to the app's name... this lead to it not being installable (it wanted to override the app)
+[2015-03-11 17:03:41] lukeis: oh, you need to change the package name to be that of what selendroid would have changed itself to be
+[2015-03-11 17:03:49] operatiay: agree, I need to work on my comment shyness
+[2015-03-11 17:03:54] lukeis: like:  io.selendroid.com.yourcompany.yourapp
+[2015-03-11 17:04:28] smccarthy, joining. (#selendroid)
+[2015-03-11 17:04:41] operatiay: :) ah, ok, that makes more sense... but then the server has already been deployed under this package name... is it not debuggable?
