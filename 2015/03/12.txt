@@ -77,3 +77,8 @@
 [2015-03-12 22:36:53] operatia_, quitting. (Ping timeout: 250 seconds)
 [2015-03-12 22:42:16] mtrythall, joining. (#selendroid)
 [2015-03-12 23:13:36] mtrythall, leaving. ("Textual IRC Client: http://www.textualapp.com/")
+[2015-03-12 23:16:29] operatiay, quitting. (Remote host closed the connection)
+[2015-03-12 23:16:50] operatiay, joining. (#selendroid)
+[2015-03-12 23:16:52] operatiay, quitting. (Remote host closed the connection)
+[2015-03-12 23:17:28] operatiay, joining. (#selendroid)
+[2015-03-12 23:19:18] operatiay, quitting. (Read error: Connection reset by peer)
