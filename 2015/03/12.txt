@@ -75,3 +75,4 @@
 [2015-03-12 21:43:44] aluedeke, quitting. (Quit: Leaving.)
 [2015-03-12 22:34:51] operatiay, joining. (#selendroid)
 [2015-03-12 22:36:53] operatia_, quitting. (Ping timeout: 250 seconds)
+[2015-03-12 22:42:16] mtrythall, joining. (#selendroid)
