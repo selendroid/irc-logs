@@ -17,3 +17,4 @@
 [2015-03-12 10:03:34] aluedeke, joining. (#selendroid)
 [2015-03-12 10:10:20] aluedeke, quitting. (Quit: Leaving.)
 [2015-03-12 10:19:54] aluedeke, joining. (#selendroid)
+[2015-03-12 10:27:08] aluedeke, quitting. (Quit: Leaving.)
