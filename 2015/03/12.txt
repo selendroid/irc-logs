@@ -24,3 +24,11 @@
 [2015-03-12 13:09:30] smikloso: dont you know if selendroid supports nested webviews?
 [2015-03-12 13:09:34] smikloso: I have a cordova app
 [2015-03-12 13:09:41] smikloso: that is a webview itself
+[2015-03-12 13:10:08] smikloso: i have to driver.switchTo().window("WEBVIEW_0")
+[2015-03-12 13:10:15] smikloso: then I click on a button
+[2015-03-12 13:10:28] smikloso: but when I do that, some popup window is shown to me
+[2015-03-12 13:10:40] smikloso: and I need to get access to this webview
+[2015-03-12 13:10:44] smikloso: it has some id
+[2015-03-12 13:10:48] smikloso: and I can get it
+[2015-03-12 13:10:54] smikloso: so it is not null
+[2015-03-12 13:11:06] smikloso: however doing findElement(s) on it fails
