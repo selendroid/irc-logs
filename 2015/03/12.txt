@@ -64,3 +64,4 @@
 [2015-03-12 17:59:04] operatiay, quitting. (Remote host closed the connection)
 [2015-03-12 18:06:17] smikloso, quitting. (Quit: Leaving.)
 [2015-03-12 18:16:36] smikloso, joining. (#selendroid)
+[2015-03-12 18:21:06] smikloso, quitting. (Ping timeout: 252 seconds)
