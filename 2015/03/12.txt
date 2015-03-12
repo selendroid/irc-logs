@@ -56,3 +56,4 @@
 [2015-03-12 16:46:52] lukeis: ;)
 [2015-03-12 16:49:41] smikloso, quitting. (Ping timeout: 256 seconds)
 [2015-03-12 17:09:20] maan, quitting. (Ping timeout: 246 seconds)
+[2015-03-12 17:34:30] aluedeke, joining. (#selendroid)
