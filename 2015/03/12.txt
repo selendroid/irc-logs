@@ -44,3 +44,5 @@
 [2015-03-12 14:54:05] mtrythall, joining. (#selendroid)
 [2015-03-12 15:02:35] smikloso, joining. (#selendroid)
 [2015-03-12 15:52:01] maan, joining. (#selendroid)
+[2015-03-12 16:16:02] operatiay, quitting. (Remote host closed the connection)
+[2015-03-12 16:16:35] operatiay, joining. (#selendroid)
