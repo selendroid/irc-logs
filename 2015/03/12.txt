@@ -20,3 +20,7 @@
 [2015-03-12 10:27:08] aluedeke, quitting. (Quit: Leaving.)
 [2015-03-12 10:43:09] operatiay, joining. (#selendroid)
 [2015-03-12 10:49:23] smikloso, joining. (#selendroid)
+[2015-03-12 13:09:18] smikloso: asm89: operatiay hello
+[2015-03-12 13:09:30] smikloso: dont you know if selendroid supports nested webviews?
+[2015-03-12 13:09:34] smikloso: I have a cordova app
+[2015-03-12 13:09:41] smikloso: that is a webview itself
