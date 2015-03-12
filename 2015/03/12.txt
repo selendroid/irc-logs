@@ -82,3 +82,5 @@
 [2015-03-12 23:16:52] operatiay, quitting. (Remote host closed the connection)
 [2015-03-12 23:17:28] operatiay, joining. (#selendroid)
 [2015-03-12 23:19:18] operatiay, quitting. (Read error: Connection reset by peer)
+[2015-03-12 23:23:43] operatiay, joining. (#selendroid)
+[2015-03-12 23:24:21] operatiay, quitting. (Client Quit)
