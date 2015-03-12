@@ -48,3 +48,10 @@
 [2015-03-12 16:16:35] operatiay, joining. (#selendroid)
 [2015-03-12 16:26:37] lukeis, joining. (#selendroid)
 [2015-03-12 16:28:51] mtrythall, quitting. (Quit: Computer has gone to sleep.)
+[2015-03-12 16:46:27] operatiay: Hey lukeis, what can you say about cordova+crosswalk? :)
+[2015-03-12 16:46:37] lukeis:  ¯\_(ツ)_/¯
+[2015-03-12 16:46:47] operatiay: !m lukeis
+[2015-03-12 16:46:47] [b__b]: You're doing good work, lukeis!
+[2015-03-12 16:46:49] operatiay: :)
+[2015-03-12 16:46:52] lukeis: ;)
+[2015-03-12 16:49:41] smikloso, quitting. (Ping timeout: 256 seconds)
