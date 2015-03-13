@@ -17,3 +17,5 @@
 [2015-03-13 16:51:04] NguyenA1, joining. (#selendroid)
 [2015-03-13 16:51:50] lukeis, joining. (#selendroid)
 [2015-03-13 17:07:21] smikloso, quitting. (Quit: Leaving.)
+[2015-03-13 17:16:32] detronizator, quitting. (Ping timeout: 272 seconds)
+[2015-03-13 17:18:44] detronizator, joining. (#selendroid)
