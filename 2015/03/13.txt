@@ -16,3 +16,4 @@
 [2015-03-13 16:38:49] smccarthy, quitting. (Quit: Leaving...)
 [2015-03-13 16:51:04] NguyenA1, joining. (#selendroid)
 [2015-03-13 16:51:50] lukeis, joining. (#selendroid)
+[2015-03-13 17:07:21] smikloso, quitting. (Quit: Leaving.)
