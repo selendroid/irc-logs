@@ -13,3 +13,4 @@
 [2015-03-13 15:42:52] [b__b], quitting. (Ping timeout: 240 seconds)
 [2015-03-13 15:43:07] detronizator, joining. (#selendroid)
 [2015-03-13 15:54:36] [b__b], joining. (#selendroid)
+[2015-03-13 16:38:49] smccarthy, quitting. (Quit: Leaving...)
