@@ -3,3 +3,4 @@
 [2015-03-13 01:07:56] smccarthy, joining. (#selendroid)
 [2015-03-13 02:21:28] smccarthy, quitting. (Quit: Leaving...)
 [2015-03-13 08:02:42] aluedeke, joining. (#selendroid)
+[2015-03-13 09:12:08] aluedeke, quitting. (Quit: Leaving.)
