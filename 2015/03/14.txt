@@ -8,3 +8,5 @@
 [2015-03-14 10:07:32] detronizator, joining. (#selendroid)
 [2015-03-14 13:41:40] aluedeke, joining. (#selendroid)
 [2015-03-14 13:41:46] aluedeke, quitting. (Client Quit)
+[2015-03-14 14:43:34] detronizator, quitting. (Ping timeout: 245 seconds)
+[2015-03-14 14:44:51] detronizator, joining. (#selendroid)
