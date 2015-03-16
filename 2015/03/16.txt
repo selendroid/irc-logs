@@ -27,3 +27,4 @@
 [2015-03-16 15:38:59] smikloso, quitting. (Ping timeout: 246 seconds)
 [2015-03-16 15:43:54] maan_, joining. (#selendroid)
 [2015-03-16 15:43:55] maan, quitting. (Read error: Connection reset by peer)
+[2015-03-16 16:04:11] maan, joining. (#selendroid)
