@@ -6,3 +6,4 @@
 [2015-03-17 08:22:31] aluedeke, joining. (#selendroid)
 [2015-03-17 09:13:38] ddary, joining. (#selendroid)
 [2015-03-17 09:14:34] ddary: :note lukeis ok, i will push later
+[2015-03-17 09:15:08] ddary, quitting. (Client Quit)
