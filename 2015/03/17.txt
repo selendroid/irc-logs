@@ -4,3 +4,5 @@
 [2015-03-17 03:13:58] mach6, quitting. (Quit: Leaving...)
 [2015-03-17 05:51:28] smccarthy, quitting. (Quit: Leaving...)
 [2015-03-17 08:22:31] aluedeke, joining. (#selendroid)
+[2015-03-17 09:13:38] ddary, joining. (#selendroid)
+[2015-03-17 09:14:34] ddary: :note lukeis ok, i will push later
