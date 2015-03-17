@@ -24,3 +24,4 @@
 [2015-03-17 15:31:14] aluedeke1, quitting. (Quit: Leaving.)
 [2015-03-17 16:03:43] maan_, quitting. (Ping timeout: 255 seconds)
 [2015-03-17 16:11:23] maan, joining. (#selendroid)
+[2015-03-17 16:34:44] maan_, joining. (#selendroid)
