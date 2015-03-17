@@ -9,3 +9,4 @@
 [2015-03-17 09:15:08] ddary, quitting. (Client Quit)
 [2015-03-17 09:26:18] smikloso, joining. (#selendroid)
 [2015-03-17 11:15:42] aluedeke, quitting. (Quit: Leaving.)
+[2015-03-17 14:20:34] maan, joining. (#selendroid)
