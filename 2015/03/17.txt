@@ -35,3 +35,4 @@
 [2015-03-17 16:43:19] maan___, quitting. (Remote host closed the connection)
 [2015-03-17 17:16:29] smccarthy, joining. (#selendroid)
 [2015-03-17 17:22:38] lukeis, quitting. (Quit: Leaving.)
+[2015-03-17 17:31:13] lukeis, joining. (#selendroid)
