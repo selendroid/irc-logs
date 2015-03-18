@@ -33,3 +33,4 @@
 [2015-03-18 21:09:02] NguyenA1: thanks!
 [2015-03-18 22:24:10] aluedeke, quitting. (Quit: Leaving.)
 [2015-03-18 23:22:04] NguyenA1, quitting. (Ping timeout: 246 seconds)
+[2015-03-18 23:36:26] smccarthy, quitting. (Quit: Leaving...)
