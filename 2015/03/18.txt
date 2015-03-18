@@ -7,3 +7,5 @@
 [2015-03-18 08:36:03] aluedeke, quitting. (Client Quit)
 [2015-03-18 08:36:03] aluedeke1, quitting. (Client Quit)
 [2015-03-18 09:45:40] smikloso, joining. (#selendroid)
+[2015-03-18 10:58:42] aluedeke, joining. (#selendroid)
+[2015-03-18 10:59:29] aluedeke1, joining. (#selendroid)
