@@ -30,3 +30,4 @@
 [2015-03-18 20:54:59] NguyenA1: hello all, the selendroid documentation here needs to be updated with the new desired capability for specifying api.  is this something that i can do?  If so where is the source for this documentation located?  I don't see it in selendroid git hub folders or a branch that has the documentation
 [2015-03-18 20:55:00] NguyenA1: http://selendroid.io/setup.html#DesiredCapabilities
 [2015-03-18 20:56:16] lukeis: NguyenA1: https://github.com/selendroid/selendroid.io/blob/master/setup.html.haml#L220
+[2015-03-18 21:09:02] NguyenA1: thanks!
