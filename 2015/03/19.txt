@@ -7,3 +7,4 @@
 [2015-03-19 10:49:59] smikloso, joining. (#selendroid)
 [2015-03-19 11:01:04] aluedeke, joining. (#selendroid)
 [2015-03-19 11:06:54] aluedeke, quitting. (Ping timeout: 245 seconds)
+[2015-03-19 13:16:33] maan, joining. (#selendroid)
