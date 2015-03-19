@@ -3,3 +3,4 @@
 [2015-03-19 03:21:09] SimonK, quitting. (Quit: Connection closed for inactivity)
 [2015-03-19 05:13:47] smccarthy, quitting. (Quit: Leaving...)
 [2015-03-19 08:24:40] aluedeke, joining. (#selendroid)
+[2015-03-19 09:25:34] aluedeke, quitting. (Quit: Leaving.)
