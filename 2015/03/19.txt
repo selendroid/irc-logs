@@ -33,3 +33,4 @@
 [2015-03-19 20:05:27] ddary, joining. (#selendroid)
 [2015-03-19 20:06:58] ddary: hi lukeis: i checked my computer and I have only this details so far: https://gist.github.com/DominikDary/b8585beb8dfb1f6d9c92
 [2015-03-19 20:12:11] ddary, quitting. (Quit: ddary)
+[2015-03-19 20:19:46] mach6, joining. (#selendroid)
