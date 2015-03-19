@@ -9,3 +9,6 @@
 [2015-03-19 11:06:54] aluedeke, quitting. (Ping timeout: 245 seconds)
 [2015-03-19 13:16:33] maan, joining. (#selendroid)
 [2015-03-19 14:10:49] maan, quitting. (Remote host closed the connection)
+[2015-03-19 15:02:20] maan, joining. (#selendroid)
+[2015-03-19 15:03:17] maan, quitting. (Remote host closed the connection)
+[2015-03-19 15:04:37] maan, joining. (#selendroid)
