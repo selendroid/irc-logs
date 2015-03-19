@@ -17,3 +17,5 @@
 [2015-03-19 15:29:06] maan, quitting. (Ping timeout: 264 seconds)
 [2015-03-19 16:05:29] maan, joining. (#selendroid)
 [2015-03-19 16:06:54] maan_, quitting. (Ping timeout: 256 seconds)
+[2015-03-19 16:24:05] maan_, joining. (#selendroid)
+[2015-03-19 16:24:05] maan, quitting. (Read error: Connection reset by peer)
