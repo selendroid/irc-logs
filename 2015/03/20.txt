@@ -8,3 +8,4 @@
 [2015-03-20 06:22:49] selendroid-git: [selendroid] chooper9 opened pull request #833: Pass Tests on Windows and remove File from AbstractDevice::getCrashLog (master...master) http://git.io/haQH
 [2015-03-20 06:22:49] selendroid-git, leaving. (#selendroid)
 [2015-03-20 09:46:42] smikloso, joining. (#selendroid)
+[2015-03-20 15:14:39] Akos, joining. (#selendroid)
