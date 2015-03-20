@@ -1,3 +1,6 @@
 [2015-03-20 00:02:45] lukeis, quitting. (Quit: Leaving.)
 [2015-03-20 00:21:56] smccarthy, quitting. (Quit: Leaving...)
 [2015-03-20 02:14:53] mach6, quitting. (Quit: Leaving...)
+[2015-03-20 06:13:50] selendroid-git, joining. (#selendroid)
+[2015-03-20 06:13:50] selendroid-git: [selendroid] chooper9 closed pull request #819: Pass Tests on Windows (master...master) http://git.io/xZrz
+[2015-03-20 06:13:50] selendroid-git, leaving. (#selendroid)
