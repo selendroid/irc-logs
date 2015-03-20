@@ -16,3 +16,4 @@
 [2015-03-20 15:32:14] Akos: hi
 [2015-03-20 16:04:27] Akos, quitting. (Quit: Page closed)
 [2015-03-20 16:49:00] lukeis, joining. (#selendroid)
+[2015-03-20 17:07:14] smikloso, leaving. (#selendroid)
