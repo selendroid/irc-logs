@@ -6,3 +6,4 @@
 [2015-03-21 10:10:46] ddary, quitting. (Quit: ddary)
 [2015-03-21 12:09:59] maan, joining. (#selendroid)
 [2015-03-21 12:19:48] maan_, joining. (#selendroid)
+[2015-03-21 12:22:08] maan, quitting. (Ping timeout: 246 seconds)
