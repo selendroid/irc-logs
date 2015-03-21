@@ -11,3 +11,4 @@
 [2015-03-21 16:36:39] selendroid-git, joining. (#selendroid)
 [2015-03-21 16:36:39] selendroid-git: [selendroid] huntinglauren opened pull request #835: gets app version from pom.xml if class path doesn't start with jar (master...master) http://git.io/h1BK
 [2015-03-21 16:36:39] selendroid-git, leaving. (#selendroid)
+[2015-03-21 21:47:07] lukeis, joining. (#selendroid)
