@@ -7,3 +7,4 @@
 [2015-03-22 13:14:26] aluedeke, joining. (#selendroid)
 [2015-03-22 13:14:26] aluedeke, quitting. (Client Quit)
 [2015-03-22 17:30:46] smccarthy, joining. (#selendroid)
+[2015-03-22 20:23:37] smccarthy, quitting. (Quit: Leaving...)
