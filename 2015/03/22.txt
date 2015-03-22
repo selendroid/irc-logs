@@ -6,3 +6,4 @@
 [2015-03-22 07:23:51] cmur, quitting. (Quit: Leaving.)
 [2015-03-22 13:14:26] aluedeke, joining. (#selendroid)
 [2015-03-22 13:14:26] aluedeke, quitting. (Client Quit)
+[2015-03-22 17:30:46] smccarthy, joining. (#selendroid)
