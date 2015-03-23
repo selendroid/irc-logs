@@ -5,3 +5,4 @@
 [2015-03-23 15:33:34] smikloso, quitting. (Ping timeout: 245 seconds)
 [2015-03-23 16:34:23] lukeis, joining. (#selendroid)
 [2015-03-23 17:14:22] maan_, joining. (#selendroid)
+[2015-03-23 17:19:24] maan_, quitting. (Remote host closed the connection)
