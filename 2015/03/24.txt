@@ -7,3 +7,5 @@
 [2015-03-24 10:08:13] aluedeke, quitting. (Quit: Leaving.)
 [2015-03-24 10:19:34] aluedeke, joining. (#selendroid)
 [2015-03-24 14:15:08] maan, joining. (#selendroid)
+[2015-03-24 14:32:49] maan, quitting. (Ping timeout: 264 seconds)
+[2015-03-24 14:33:02] maan, joining. (#selendroid)
