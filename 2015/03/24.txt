@@ -31,3 +31,4 @@
 [2015-03-24 19:47:01] lukeis, quitting. (Ping timeout: 252 seconds)
 [2015-03-24 19:51:19] mach6, quitting. (Remote host closed the connection)
 [2015-03-24 19:57:49] lukeis1, quitting. (Quit: Leaving.)
+[2015-03-24 20:49:25] aluedeke, joining. (#selendroid)
