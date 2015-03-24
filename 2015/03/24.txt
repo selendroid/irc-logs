@@ -21,3 +21,4 @@
 [2015-03-24 18:34:15] smikloso, leaving. (#selendroid)
 [2015-03-24 18:35:32] maan_, joining. (#selendroid)
 [2015-03-24 18:38:49] maan, quitting. (Ping timeout: 264 seconds)
+[2015-03-24 18:59:30] lukeis, quitting. (Ping timeout: 252 seconds)
