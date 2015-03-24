@@ -17,3 +17,5 @@
 [2015-03-24 18:12:36] smccarthy, quitting. (Remote host closed the connection)
 [2015-03-24 18:12:58] maan, quitting. (Remote host closed the connection)
 [2015-03-24 18:13:03] smccarthy, joining. (#selendroid)
+[2015-03-24 18:33:53] maan, joining. (#selendroid)
+[2015-03-24 18:34:15] smikloso, leaving. (#selendroid)
