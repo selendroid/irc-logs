@@ -34,3 +34,6 @@
 [2015-03-25 16:09:16] selendroid-git: [selendroid] h2dennis opened pull request #841: Merge pull request #3 from selendroid/master (master...howard) http://git.io/jIr7
 [2015-03-25 16:09:16] selendroid-git, leaving. (#selendroid)
 [2015-03-25 16:43:43] lukeis, joining. (#selendroid)
+[2015-03-25 16:57:32] selendroid-git, joining. (#selendroid)
+[2015-03-25 16:57:32] selendroid-git: [selendroid] lukeis closed pull request #841: Merge pull request #3 from selendroid/master (master...howard) http://git.io/jIr7
+[2015-03-25 16:57:32] selendroid-git, leaving. (#selendroid)
