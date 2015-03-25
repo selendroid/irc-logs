@@ -3,3 +3,4 @@
 [2015-03-25 02:32:55] selendroidbot, joining. (#selendroid)
 [2015-03-25 06:55:21] aluedeke, joining. (#selendroid)
 [2015-03-25 06:57:41] aluedeke, quitting. (Client Quit)
+[2015-03-25 08:07:21] aluedeke, joining. (#selendroid)
