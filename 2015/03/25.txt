@@ -42,3 +42,5 @@
 [2015-03-25 17:30:33] smikloso, leaving. (#selendroid)
 [2015-03-25 17:42:08] [b__b], quitting. (Remote host closed the connection)
 [2015-03-25 17:42:21] [b__b], joining. (#selendroid)
+[2015-03-25 18:58:14] maan, joining. (#selendroid)
+[2015-03-25 18:58:50] maan_, joining. (#selendroid)
