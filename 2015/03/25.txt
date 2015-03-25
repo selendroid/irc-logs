@@ -53,3 +53,4 @@
 [2015-03-25 20:23:47] maan, quitting. (Remote host closed the connection)
 [2015-03-25 20:28:28] cmurray, joining. (#selendroid)
 [2015-03-25 20:42:15] cmur, quitting. (Quit: Leaving.)
+[2015-03-25 21:00:24] cmurray, quitting. (Ping timeout: 264 seconds)
