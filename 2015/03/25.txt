@@ -14,3 +14,8 @@
 [2015-03-25 13:10:42] wiwefak: I'm wondering if anyone has stumbled on  a problem where driver quit doesnt work. I mean after a certain amount of time passes it wont quit the app.
 [2015-03-25 13:11:39] wiwefak: When 1 test takes longer than 1 min it wont quit and then the next test starts from an unwanted position.
 [2015-03-25 15:31:35] wiwefak, quitting. (Quit: Page closed)
+[2015-03-25 15:47:34] selendroid-git, joining. (#selendroid)
+[2015-03-25 15:47:34] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/jIRV
+[2015-03-25 15:47:34] selendroid-git: selendroid/master fe66152 huntinglauren: updated getJarVersionNumber()
+[2015-03-25 15:47:34] selendroid-git: selendroid/master fc53cd6 Luke Inman-Semerau: Merge pull request #835 from huntinglauren/master...
+[2015-03-25 15:47:34] selendroid-git, leaving. (#selendroid)
