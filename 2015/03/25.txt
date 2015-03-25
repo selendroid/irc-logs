@@ -19,3 +19,9 @@
 [2015-03-25 15:47:34] selendroid-git: selendroid/master fe66152 huntinglauren: updated getJarVersionNumber()
 [2015-03-25 15:47:34] selendroid-git: selendroid/master fc53cd6 Luke Inman-Semerau: Merge pull request #835 from huntinglauren/master...
 [2015-03-25 15:47:34] selendroid-git, leaving. (#selendroid)
+[2015-03-25 16:00:54] selendroid-git, joining. (#selendroid)
+[2015-03-25 16:00:54] selendroid-git: [selendroid] huntinglauren opened pull request #840: README lauren hunter (master...laurenhunter) http://git.io/jI21
+[2015-03-25 16:00:54] selendroid-git, leaving. (#selendroid)
+[2015-03-25 16:01:34] selendroid-git, joining. (#selendroid)
+[2015-03-25 16:01:34] selendroid-git: [selendroid] huntinglauren closed pull request #840: README lauren hunter (master...laurenhunter) http://git.io/jI21
+[2015-03-25 16:01:34] selendroid-git, leaving. (#selendroid)
