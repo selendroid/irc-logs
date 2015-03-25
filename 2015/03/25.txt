@@ -57,3 +57,4 @@
 [2015-03-25 22:51:04] cmur, joining. (#selendroid)
 [2015-03-25 22:58:02] smccarthy, quitting. (Quit: Leaving...)
 [2015-03-25 23:01:36] cmur: Lukeis, would you have a moment to help me with an issue I have contributing to the github wiki?
+[2015-03-25 23:10:49] cmur, quitting. (Quit: Leaving.)
