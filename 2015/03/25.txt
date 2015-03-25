@@ -52,3 +52,4 @@
 [2015-03-25 20:10:58] cmur: Looking to contribute to the wiki, though github wiki's don't support pull requests.
 [2015-03-25 20:23:47] maan, quitting. (Remote host closed the connection)
 [2015-03-25 20:28:28] cmurray, joining. (#selendroid)
+[2015-03-25 20:42:15] cmur, quitting. (Quit: Leaving.)
