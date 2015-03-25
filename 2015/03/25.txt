@@ -1,3 +1,5 @@
 [2015-03-25 00:06:17] lukeis, quitting. (Quit: Leaving.)
 [2015-03-25 00:41:00] mach6, quitting. (Quit: Leaving...)
 [2015-03-25 02:32:55] selendroidbot, joining. (#selendroid)
+[2015-03-25 06:55:21] aluedeke, joining. (#selendroid)
+[2015-03-25 06:57:41] aluedeke, quitting. (Client Quit)
