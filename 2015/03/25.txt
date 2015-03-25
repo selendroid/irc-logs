@@ -40,3 +40,5 @@
 [2015-03-25 17:07:11] smccarthy, joining. (#selendroid)
 [2015-03-25 17:07:44] aluedeke, quitting. (Ping timeout: 245 seconds)
 [2015-03-25 17:30:33] smikloso, leaving. (#selendroid)
+[2015-03-25 17:42:08] [b__b], quitting. (Remote host closed the connection)
+[2015-03-25 17:42:21] [b__b], joining. (#selendroid)
