@@ -25,3 +25,11 @@
 [2015-03-25 16:01:34] selendroid-git, joining. (#selendroid)
 [2015-03-25 16:01:34] selendroid-git: [selendroid] huntinglauren closed pull request #840: README lauren hunter (master...laurenhunter) http://git.io/jI21
 [2015-03-25 16:01:34] selendroid-git, leaving. (#selendroid)
+[2015-03-25 16:06:23] travis-ci, joining. (#selendroid)
+[2015-03-25 16:06:24] travis-ci: selendroid/selendroid#620 (master - fc53cd6 : Luke Inman-Semerau): The build passed.
+[2015-03-25 16:06:24] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/82e8cb28b575...fc53cd6a6129
+[2015-03-25 16:06:24] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/55808133
+[2015-03-25 16:06:24] travis-ci, leaving. (#selendroid)
+[2015-03-25 16:09:16] selendroid-git, joining. (#selendroid)
+[2015-03-25 16:09:16] selendroid-git: [selendroid] h2dennis opened pull request #841: Merge pull request #3 from selendroid/master (master...howard) http://git.io/jIr7
+[2015-03-25 16:09:16] selendroid-git, leaving. (#selendroid)
