@@ -5,3 +5,4 @@
 [2015-03-26 15:52:27] lukeis, joining. (#selendroid)
 [2015-03-26 17:04:30] smccarthy, joining. (#selendroid)
 [2015-03-26 18:26:29] smikloso, leaving. (#selendroid)
+[2015-03-26 19:15:33] aluedeke, joining. (#selendroid)
