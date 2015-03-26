@@ -10,3 +10,4 @@
 [2015-03-26 21:18:40] cmur, quitting. (Quit: Leaving.)
 [2015-03-26 21:21:37] mach6, joining. (#selendroid)
 [2015-03-26 21:49:32] mach6, quitting. (Quit: Leaving...)
+[2015-03-26 22:00:36] cmur, joining. (#selendroid)
