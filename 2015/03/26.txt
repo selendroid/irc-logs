@@ -13,3 +13,4 @@
 [2015-03-26 22:00:36] cmur, joining. (#selendroid)
 [2015-03-26 22:29:26] aluedeke, quitting. (Quit: Leaving.)
 [2015-03-26 22:51:05] cmur, quitting. (Quit: Leaving.)
+[2015-03-26 22:56:07] cmur, joining. (#selendroid)
