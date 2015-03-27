@@ -36,3 +36,4 @@
 [2015-03-27 13:05:10] ddary, quitting. (Ping timeout: 246 seconds)
 [2015-03-27 13:21:35] ddary, joining. (#selendroid)
 [2015-03-27 13:22:00] aluedeke, joining. (#selendroid)
+[2015-03-27 13:43:49] smikloso, leaving. (#selendroid)
