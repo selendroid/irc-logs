@@ -2,3 +2,4 @@
 [2015-03-27 01:31:10] lukeis, quitting. (Ping timeout: 255 seconds)
 [2015-03-27 03:13:13] cmur, quitting. (Quit: Leaving.)
 [2015-03-27 03:39:02] smccarthy, joining. (#selendroid)
+[2015-03-27 03:48:40] cmur, joining. (#selendroid)
