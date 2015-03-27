@@ -39,3 +39,4 @@
 [2015-03-27 13:43:49] smikloso, leaving. (#selendroid)
 [2015-03-27 14:19:08] smikloso, joining. (#selendroid)
 [2015-03-27 14:43:07] ddary, quitting. (Quit: Page closed)
+[2015-03-27 14:46:37] schmiedc, quitting. (Quit: Leaving)
