@@ -8,3 +8,4 @@
 [2015-03-27 04:54:52] cmur, quitting. (Quit: Leaving.)
 [2015-03-27 05:26:51] smccarthy, quitting. (Quit: Leaving...)
 [2015-03-27 05:30:47] maan, joining. (#selendroid)
+[2015-03-27 07:22:35] maan, quitting. (Remote host closed the connection)
