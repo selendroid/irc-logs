@@ -37,3 +37,4 @@
 [2015-03-27 13:21:35] ddary, joining. (#selendroid)
 [2015-03-27 13:22:00] aluedeke, joining. (#selendroid)
 [2015-03-27 13:43:49] smikloso, leaving. (#selendroid)
+[2015-03-27 14:19:08] smikloso, joining. (#selendroid)
