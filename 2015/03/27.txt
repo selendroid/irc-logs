@@ -46,3 +46,4 @@
 [2015-03-27 17:19:55] smikloso, quitting. (Quit: Leaving.)
 [2015-03-27 18:18:40] smccarthy2, joining. (#selendroid)
 [2015-03-27 18:22:37] smccarthy, quitting. (Ping timeout: 264 seconds)
+[2015-03-27 18:45:50] maan_, joining. (#selendroid)
