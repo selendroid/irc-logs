@@ -42,3 +42,4 @@
 [2015-03-27 14:46:37] schmiedc, quitting. (Quit: Leaving)
 [2015-03-27 16:23:52] lukeis, joining. (#selendroid)
 [2015-03-27 16:54:43] smccarthy, joining. (#selendroid)
+[2015-03-27 16:59:07] aluedeke, quitting. (Quit: Leaving.)
