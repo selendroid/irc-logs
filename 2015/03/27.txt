@@ -54,3 +54,8 @@
 [2015-03-27 21:15:10] selendroid-git, joining. (#selendroid)
 [2015-03-27 21:15:10] selendroid-git: [selendroid] JasnoWa opened pull request #844: Clear data before app launch (master...clearData) http://git.io/j4jW
 [2015-03-27 21:15:10] selendroid-git, leaving. (#selendroid)
+[2015-03-27 21:26:20] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/jBUr
+[2015-03-27 21:26:20] selendroid-git, joining. (#selendroid)
+[2015-03-27 21:26:20] selendroid-git: selendroid/master bd598bd Jason: Clear data before app launch
+[2015-03-27 21:26:20] selendroid-git: selendroid/master c112eda Luke Inman-Semerau: Merge pull request #844 from JasnoWa/clearData...
+[2015-03-27 21:26:20] selendroid-git, leaving. (#selendroid)
