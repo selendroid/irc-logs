@@ -3,3 +3,5 @@
 [2015-03-27 03:13:13] cmur, quitting. (Quit: Leaving.)
 [2015-03-27 03:39:02] smccarthy, joining. (#selendroid)
 [2015-03-27 03:48:40] cmur, joining. (#selendroid)
+[2015-03-27 04:06:20] cmur, quitting. (Quit: Leaving.)
+[2015-03-27 04:06:53] cmur, joining. (#selendroid)
