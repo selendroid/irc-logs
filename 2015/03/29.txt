@@ -8,3 +8,5 @@
 [2015-03-29 08:32:19] maan_, quitting. (Remote host closed the connection)
 [2015-03-29 10:39:24] maan, joining. (#selendroid)
 [2015-03-29 11:17:19] maan, quitting. (Remote host closed the connection)
+[2015-03-29 19:34:20] aluedeke, joining. (#selendroid)
+[2015-03-29 19:34:21] aluedeke, quitting. (Client Quit)
