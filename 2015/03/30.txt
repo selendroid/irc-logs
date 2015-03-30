@@ -1,1 +1,2 @@
 [2015-03-30 09:35:04] smikloso, joining. (#selendroid)
+[2015-03-30 12:49:01] smikloso, quitting. (Ping timeout: 255 seconds)
