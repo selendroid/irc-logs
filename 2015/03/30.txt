@@ -3,3 +3,4 @@
 [2015-03-30 13:06:32] smikloso, joining. (#selendroid)
 [2015-03-30 13:36:57] smikloso, quitting. (Quit: Leaving.)
 [2015-03-30 13:38:15] smikloso, joining. (#selendroid)
+[2015-03-30 15:34:24] smikloso, leaving. (#selendroid)
