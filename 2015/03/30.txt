@@ -26,3 +26,4 @@
 [2015-03-30 18:36:31] maan, joining. (#selendroid)
 [2015-03-30 18:40:51] maan, quitting. (Ping timeout: 246 seconds)
 [2015-03-30 18:42:21] aluedeke, quitting. (Ping timeout: 244 seconds)
+[2015-03-30 19:17:52] mach6, joining. (#selendroid)
