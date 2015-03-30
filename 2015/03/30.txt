@@ -31,3 +31,4 @@
 [2015-03-30 20:51:53] mach6, joining. (#selendroid)
 [2015-03-30 21:15:55] lukeis, quitting. (Ping timeout: 252 seconds)
 [2015-03-30 22:03:55] aluedeke, joining. (#selendroid)
+[2015-03-30 22:05:49] aluedeke, quitting. (Client Quit)
