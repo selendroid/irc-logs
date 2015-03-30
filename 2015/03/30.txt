@@ -8,3 +8,4 @@
 [2015-03-30 17:14:15] maan_, joining. (#selendroid)
 [2015-03-30 17:22:48] aluedeke, quitting. (Ping timeout: 256 seconds)
 [2015-03-30 17:33:01] lukeis, joining. (#selendroid)
+[2015-03-30 17:39:39] maan_, quitting. (Ping timeout: 250 seconds)
