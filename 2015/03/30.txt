@@ -35,3 +35,4 @@
 [2015-03-30 22:28:03] lukeis, joining. (#selendroid)
 [2015-03-30 22:29:47] lukeis1, joining. (#selendroid)
 [2015-03-30 22:32:23] lukeis, quitting. (Ping timeout: 252 seconds)
+[2015-03-30 22:49:47] lukeis1, changing nick to lukeis.
