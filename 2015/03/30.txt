@@ -18,3 +18,5 @@
 [2015-03-30 18:06:33] lukeis1, joining. (#selendroid)
 [2015-03-30 18:09:17] lukeis, quitting. (Ping timeout: 244 seconds)
 [2015-03-30 18:09:24] lukeis1, changing nick to lukeis.
+[2015-03-30 18:20:12] maan_, quitting. (Read error: Connection reset by peer)
+[2015-03-30 18:23:50] maan, joining. (#selendroid)
