@@ -14,3 +14,4 @@
 [2015-03-31 11:41:06] selendroid-git, leaving. (#selendroid)
 [2015-03-31 12:49:47] aluedeke, joining. (#selendroid)
 [2015-03-31 14:39:51] aluedeke, quitting. (Quit: Leaving.)
+[2015-03-31 15:14:05] maan, joining. (#selendroid)
