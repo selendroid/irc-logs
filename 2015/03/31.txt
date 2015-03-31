@@ -3,3 +3,5 @@
 [2015-03-31 04:57:26] mach6, joining. (#selendroid)
 [2015-03-31 05:13:06] mach6, quitting. (Remote host closed the connection)
 [2015-03-31 05:22:50] mach6, joining. (#selendroid)
+[2015-03-31 06:17:53] mach6_, joining. (#selendroid)
+[2015-03-31 06:18:29] mach6, quitting. (Ping timeout: 248 seconds)
