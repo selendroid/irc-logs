@@ -24,3 +24,6 @@
 [2015-03-31 18:06:12] maan, quitting. (Ping timeout: 272 seconds)
 [2015-03-31 18:16:41] maan_, quitting. (Remote host closed the connection)
 [2015-03-31 18:41:41] lukeis, joining. (#selendroid)
+[2015-03-31 19:30:06] lukeis1, joining. (#selendroid)
+[2015-03-31 19:32:43] lukeis, quitting. (Ping timeout: 250 seconds)
+[2015-03-31 19:32:56] lukeis1, changing nick to lukeis.
