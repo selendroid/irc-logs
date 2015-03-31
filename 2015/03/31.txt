@@ -28,3 +28,4 @@
 [2015-03-31 19:32:43] lukeis, quitting. (Ping timeout: 250 seconds)
 [2015-03-31 19:32:56] lukeis1, changing nick to lukeis.
 [2015-03-31 20:21:42] lukeis, quitting. (Quit: Leaving.)
+[2015-03-31 22:05:49] lukeis, joining. (#selendroid)
