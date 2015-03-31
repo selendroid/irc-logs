@@ -1,3 +1,4 @@
 [2015-03-31 02:17:40] lukeis, quitting. (Quit: Leaving.)
 [2015-03-31 03:32:28] mach6, quitting. (Remote host closed the connection)
 [2015-03-31 04:57:26] mach6, joining. (#selendroid)
+[2015-03-31 05:13:06] mach6, quitting. (Remote host closed the connection)
