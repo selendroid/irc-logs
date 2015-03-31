@@ -13,3 +13,4 @@
 [2015-03-31 11:41:06] selendroid-git: [selendroid] sevaseva opened pull request #846: Drop explicit 'implements TakesScreenshot, JavascriptExecutor' declarations (master...drop_stuff) http://git.io/jDaG
 [2015-03-31 11:41:06] selendroid-git, leaving. (#selendroid)
 [2015-03-31 12:49:47] aluedeke, joining. (#selendroid)
+[2015-03-31 14:39:51] aluedeke, quitting. (Quit: Leaving.)
