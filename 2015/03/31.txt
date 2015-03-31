@@ -9,3 +9,6 @@
 [2015-03-31 06:28:37] mach6_, quitting. (Ping timeout: 264 seconds)
 [2015-03-31 07:04:55] mach6, quitting. (Quit: Leaving...)
 [2015-03-31 10:10:10] smikloso, joining. (#selendroid)
+[2015-03-31 11:41:06] selendroid-git, joining. (#selendroid)
+[2015-03-31 11:41:06] selendroid-git: [selendroid] sevaseva opened pull request #846: Drop explicit 'implements TakesScreenshot, JavascriptExecutor' declarations (master...drop_stuff) http://git.io/jDaG
+[2015-03-31 11:41:06] selendroid-git, leaving. (#selendroid)
