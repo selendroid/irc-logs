@@ -4,3 +4,8 @@
 [2015-04-01 03:01:13] travis-ci: Change view : https://github.com/ant8012/selendroid/compare/82e8cb28b575...04820865db60
 [2015-04-01 03:01:13] travis-ci: Build details : http://travis-ci.org/ant8012/selendroid/builds/56657139
 [2015-04-01 03:01:13] travis-ci, leaving. (#selendroid)
+[2015-04-01 05:38:31] travis-ci, joining. (#selendroid)
+[2015-04-01 05:38:32] travis-ci: Change view : https://github.com/ant8012/selendroid/compare/82e8cb28b575...04820865db60
+[2015-04-01 05:38:32] travis-ci: ant8012/selendroid#1 (master - 0482086 : Antony Trinh): The build has errored.
+[2015-04-01 05:38:32] travis-ci: Build details : http://travis-ci.org/ant8012/selendroid/builds/56657139
+[2015-04-01 05:38:32] travis-ci, leaving. (#selendroid)
