@@ -1,1 +1,6 @@
 [2015-04-01 01:35:43] lukeis, quitting. (Quit: Leaving.)
+[2015-04-01 03:01:12] travis-ci, joining. (#selendroid)
+[2015-04-01 03:01:13] travis-ci: ant8012/selendroid#1 (master - 0482086 : Antony Trinh): The build failed.
+[2015-04-01 03:01:13] travis-ci: Change view : https://github.com/ant8012/selendroid/compare/82e8cb28b575...04820865db60
+[2015-04-01 03:01:13] travis-ci: Build details : http://travis-ci.org/ant8012/selendroid/builds/56657139
+[2015-04-01 03:01:13] travis-ci, leaving. (#selendroid)
