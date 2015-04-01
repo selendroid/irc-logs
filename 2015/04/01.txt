@@ -11,3 +11,4 @@
 [2015-04-01 05:38:32] travis-ci, leaving. (#selendroid)
 [2015-04-01 09:08:58] aluedeke, joining. (#selendroid)
 [2015-04-01 11:43:54] SimonK, joining. (#selendroid)
+[2015-04-01 14:09:53] smikloso, joining. (#selendroid)
