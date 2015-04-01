@@ -9,3 +9,4 @@
 [2015-04-01 05:38:32] travis-ci: ant8012/selendroid#1 (master - 0482086 : Antony Trinh): The build has errored.
 [2015-04-01 05:38:32] travis-ci: Build details : http://travis-ci.org/ant8012/selendroid/builds/56657139
 [2015-04-01 05:38:32] travis-ci, leaving. (#selendroid)
+[2015-04-01 09:08:58] aluedeke, joining. (#selendroid)
