@@ -24,3 +24,4 @@
 [2015-04-02 12:31:18] aluedeke1, joining. (#selendroid)
 [2015-04-02 12:32:34] mach6, joining. (#selendroid)
 [2015-04-02 12:34:27] aluedeke, quitting. (Ping timeout: 246 seconds)
+[2015-04-02 12:41:00] maan__, quitting. (Remote host closed the connection)
