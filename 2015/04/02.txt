@@ -40,3 +40,8 @@
 [2015-04-02 17:20:59] smikloso, quitting. (Quit: Leaving.)
 [2015-04-02 17:55:23] mach6, joining. (#selendroid)
 [2015-04-02 17:56:51] smccarthy, joining. (#selendroid)
+[2015-04-02 18:00:08] maan, joining. (#selendroid)
+[2015-04-02 18:01:06] mach6_, joining. (#selendroid)
+[2015-04-02 18:01:36] mach6, quitting. (Read error: Connection reset by peer)
+[2015-04-02 18:01:46] maan_, joining. (#selendroid)
+[2015-04-02 18:02:54] maan, quitting. (Read error: Connection reset by peer)
