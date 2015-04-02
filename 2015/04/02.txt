@@ -65,3 +65,4 @@
 [2015-04-02 22:27:52] nadaismail, joining. (#selendroid)
 [2015-04-02 22:54:41] mach6, joining. (#selendroid)
 [2015-04-02 22:59:21] mach6, quitting. (Ping timeout: 264 seconds)
+[2015-04-02 23:35:56] nadaismail, leaving. (#selendroid)
