@@ -67,3 +67,4 @@
 [2015-04-02 22:59:21] mach6, quitting. (Ping timeout: 264 seconds)
 [2015-04-02 23:35:56] nadaismail, leaving. (#selendroid)
 [2015-04-02 23:41:43] Emily_, quitting. (Ping timeout: 246 seconds)
+[2015-04-02 23:45:14] mach6, joining. (#selendroid)
