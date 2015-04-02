@@ -38,3 +38,5 @@
 [2015-04-02 16:55:55] mach6, quitting. (Remote host closed the connection)
 [2015-04-02 16:59:04] aluedeke1, quitting. (Quit: Leaving.)
 [2015-04-02 17:20:59] smikloso, quitting. (Quit: Leaving.)
+[2015-04-02 17:55:23] mach6, joining. (#selendroid)
+[2015-04-02 17:56:51] smccarthy, joining. (#selendroid)
