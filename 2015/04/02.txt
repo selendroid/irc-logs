@@ -63,3 +63,4 @@
 [2015-04-02 22:04:01] maan, quitting. (Ping timeout: 264 seconds)
 [2015-04-02 22:24:09] Emily_, joining. (#selendroid)
 [2015-04-02 22:27:52] nadaismail, joining. (#selendroid)
+[2015-04-02 22:54:41] mach6, joining. (#selendroid)
