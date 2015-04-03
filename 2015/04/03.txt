@@ -25,3 +25,4 @@
 [2015-04-03 20:27:38] smccarth_, joining. (#selendroid)
 [2015-04-03 20:31:10] smccarthy, quitting. (Ping timeout: 244 seconds)
 [2015-04-03 22:09:29] smccarthy, joining. (#selendroid)
+[2015-04-03 22:13:27] smccarth_, quitting. (Ping timeout: 265 seconds)
