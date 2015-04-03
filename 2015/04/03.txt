@@ -21,3 +21,4 @@
 [2015-04-03 18:27:26] aluedeke, joining. (#selendroid)
 [2015-04-03 18:31:55] aluedeke, quitting. (Ping timeout: 255 seconds)
 [2015-04-03 18:58:23] smccarthy, quitting. (Read error: Connection reset by peer)
+[2015-04-03 19:10:43] smccarthy, joining. (#selendroid)
