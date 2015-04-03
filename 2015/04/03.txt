@@ -11,3 +11,4 @@
 [2015-04-03 07:45:04] mach6, joining. (#selendroid)
 [2015-04-03 08:44:17] mach6, quitting. (Quit: Leaving...)
 [2015-04-03 09:25:00] smikloso, joining. (#selendroid)
+[2015-04-03 14:30:14] AlewisGB, joining. (#selendroid)
