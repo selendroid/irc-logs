@@ -14,3 +14,4 @@
 [2015-04-03 14:30:14] AlewisGB, joining. (#selendroid)
 [2015-04-03 14:36:41] AlewisGB: I have a raspberry pi and I want to control my Android 4.0.2 web browser to automate clicking buttons on the webpage and filling in text. I have some test scripts that just visit a website how easily can they be imported to Seleniumdroid and how do I connect it to that spesific Android device?
 [2015-04-03 14:39:26] AlewisGB: Ohh and the controller is coded in Python, I could also do it in Node or a different language by Python is much prefered.
+[2015-04-03 15:11:15] AlewisGB, quitting. (Quit: Page closed)
