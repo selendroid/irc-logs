@@ -23,3 +23,5 @@
 [2015-04-04 22:37:30] selendroid-git, joining. (#selendroid)
 [2015-04-04 22:37:30] selendroid-git: [selendroid] colindmurray opened pull request #848: Added touch gesture testing in selendroid-test app (master...colin-cameron) http://git.io/veZbx
 [2015-04-04 22:37:30] selendroid-git, leaving. (#selendroid)
+[2015-04-04 22:47:29] lukeis, joining. (#selendroid)
+[2015-04-04 22:48:31] lukeis1, joining. (#selendroid)
