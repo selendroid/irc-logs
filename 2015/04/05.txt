@@ -4,3 +4,5 @@
 [2015-04-05 03:42:54] smccarthy, joining. (#selendroid)
 [2015-04-05 04:33:34] smccarthy, quitting. (Read error: Connection reset by peer)
 [2015-04-05 10:11:18] maan, joining. (#selendroid)
+[2015-04-05 12:00:46] maan, quitting. (Ping timeout: 265 seconds)
+[2015-04-05 12:01:43] maan, joining. (#selendroid)
