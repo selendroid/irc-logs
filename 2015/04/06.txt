@@ -40,3 +40,8 @@
 [2015-04-06 17:47:20] maan, quitting. (Read error: No route to host)
 [2015-04-06 17:53:04] EmilyHart, quitting. (Ping timeout: 246 seconds)
 [2015-04-06 17:53:04] delv, quitting. (Ping timeout: 246 seconds)
+[2015-04-06 18:06:31] selendroid-git, joining. (#selendroid)
+[2015-04-06 18:06:31] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/veR7n
+[2015-04-06 18:06:31] selendroid-git: selendroid/master 179c7f8 chooper9: Modified build tests to support Windows...
+[2015-04-06 18:06:31] selendroid-git: selendroid/master 932eba6 Luke Inman-Semerau: Merge pull request #833 from chooper9/master...
+[2015-04-06 18:06:31] selendroid-git, leaving. (#selendroid)
