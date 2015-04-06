@@ -50,3 +50,4 @@
 [2015-04-06 18:39:10] maan, quitting. (Remote host closed the connection)
 [2015-04-06 19:14:52] smccarth_, joining. (#selendroid)
 [2015-04-06 19:16:36] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2015-04-06 21:49:17] mach6, joining. (#selendroid)
