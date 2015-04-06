@@ -6,3 +6,4 @@
 [2015-04-06 09:34:44] freynaud, joining. (#selendroid)
 [2015-04-06 09:35:32] freynaud, quitting. (Client Quit)
 [2015-04-06 09:36:10] freynaud, joining. (#selendroid)
+[2015-04-06 11:36:57] freynaud, quitting. (Quit: freynaud)
