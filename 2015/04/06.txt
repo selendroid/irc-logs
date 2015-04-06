@@ -18,3 +18,4 @@
 [2015-04-06 15:57:43] [b__b], joining. (#selendroid)
 [2015-04-06 15:58:26] AutomatedTester, joining. (#selendroid)
 [2015-04-06 16:09:03] maan_, joining. (#selendroid)
+[2015-04-06 16:11:50] maan, quitting. (Ping timeout: 256 seconds)
