@@ -38,3 +38,5 @@
 [2015-04-06 17:44:50] lukeis, joining. (#selendroid)
 [2015-04-06 17:46:56] maan_, joining. (#selendroid)
 [2015-04-06 17:47:20] maan, quitting. (Read error: No route to host)
+[2015-04-06 17:53:04] EmilyHart, quitting. (Ping timeout: 246 seconds)
+[2015-04-06 17:53:04] delv, quitting. (Ping timeout: 246 seconds)
