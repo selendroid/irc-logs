@@ -47,3 +47,4 @@
 [2015-04-06 18:06:31] selendroid-git, leaving. (#selendroid)
 [2015-04-06 18:19:33] maan, joining. (#selendroid)
 [2015-04-06 18:19:34] maan_, quitting. (Read error: Connection reset by peer)
+[2015-04-06 18:39:10] maan, quitting. (Remote host closed the connection)
