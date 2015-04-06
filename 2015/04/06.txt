@@ -36,3 +36,5 @@
 [2015-04-06 17:43:06] maan, quitting. (Read error: Connection reset by peer)
 [2015-04-06 17:43:24] maan, joining. (#selendroid)
 [2015-04-06 17:44:50] lukeis, joining. (#selendroid)
+[2015-04-06 17:46:56] maan_, joining. (#selendroid)
+[2015-04-06 17:47:20] maan, quitting. (Read error: No route to host)
