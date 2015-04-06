@@ -9,3 +9,7 @@
 [2015-04-06 11:36:57] freynaud, quitting. (Quit: freynaud)
 [2015-04-06 11:40:16] freynaud, joining. (#selendroid)
 [2015-04-06 14:07:39] aluedeke, joining. (#selendroid)
+[2015-04-06 15:52:43] aluedeke, quitting. (*.net *.split)
+[2015-04-06 15:53:07] [b__b], quitting. (*.net *.split)
+[2015-04-06 15:53:22] freynaud, quitting. (*.net *.split)
+[2015-04-06 15:53:29] AutomatedTester, quitting. (*.net *.split)
