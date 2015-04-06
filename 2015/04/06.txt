@@ -49,3 +49,4 @@
 [2015-04-06 18:19:34] maan_, quitting. (Read error: Connection reset by peer)
 [2015-04-06 18:39:10] maan, quitting. (Remote host closed the connection)
 [2015-04-06 19:14:52] smccarth_, joining. (#selendroid)
+[2015-04-06 19:16:36] smccarthy, quitting. (Ping timeout: 240 seconds)
