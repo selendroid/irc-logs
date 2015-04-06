@@ -1,0 +1,4 @@
+[2015-04-07 01:00:08] lukeis, quitting. (Quit: Leaving.)
+[2015-04-07 01:01:23] selendroid-git, joining. (#selendroid)
+[2015-04-07 01:01:23] selendroid-git: [selendroid] lukeis closed pull request #846: Drop explicit 'implements TakesScreenshot, JavascriptExecutor' declarations (master...drop_stuff) http://git.io/jDaG
+[2015-04-07 01:01:23] selendroid-git, leaving. (#selendroid)
