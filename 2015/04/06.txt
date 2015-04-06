@@ -33,3 +33,6 @@
 [2015-04-06 17:08:51] EmilyHart: Hello, So my partner and I are working on adding an option so that Selendroid doesn't create many files  in Temp folder. Are the files that this issue(https://github.com/selendroid/selendroid/issues/378) is  referencing the ones in the system temporary directory that are being created in  createSelendroidServer() in SelendroidServerBuilder. I wanted to make these were the temp files that the person was referencing. If not, can y
 [2015-04-06 17:33:53] maan_, quitting. (Read error: No route to host)
 [2015-04-06 17:34:01] maan, joining. (#selendroid)
+[2015-04-06 17:43:06] maan, quitting. (Read error: Connection reset by peer)
+[2015-04-06 17:43:24] maan, joining. (#selendroid)
+[2015-04-06 17:44:50] lukeis, joining. (#selendroid)
