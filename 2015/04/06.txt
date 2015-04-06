@@ -2,3 +2,4 @@
 [2015-04-06 05:47:46] selendroid-git, joining. (#selendroid)
 [2015-04-06 05:47:46] selendroid-git: [selendroid] ant8012 opened pull request #849: implemented driver.manage().timeouts().PageLoadTimeout() (master...master) http://git.io/ve86f
 [2015-04-06 05:47:46] selendroid-git, leaving. (#selendroid)
+[2015-04-06 06:58:20] smccarthy, quitting. (Quit: Leaving...)
