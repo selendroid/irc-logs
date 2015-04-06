@@ -8,3 +8,4 @@
 [2015-04-06 09:36:10] freynaud, joining. (#selendroid)
 [2015-04-06 11:36:57] freynaud, quitting. (Quit: freynaud)
 [2015-04-06 11:40:16] freynaud, joining. (#selendroid)
+[2015-04-06 14:07:39] aluedeke, joining. (#selendroid)
