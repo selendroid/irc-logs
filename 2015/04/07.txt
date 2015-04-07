@@ -9,3 +9,4 @@
 [2015-04-07 01:07:16] travis-ci, leaving. (#selendroid)
 [2015-04-07 07:35:04] smccarth_, quitting. (Quit: Leaving...)
 [2015-04-07 08:04:40] mach6_, joining. (#selendroid)
+[2015-04-07 08:07:44] mach6, quitting. (Ping timeout: 245 seconds)
