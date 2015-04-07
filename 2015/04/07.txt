@@ -38,3 +38,4 @@
 [2015-04-07 17:48:15] maan, quitting. (Remote host closed the connection)
 [2015-04-07 17:48:40] maan, joining. (#selendroid)
 [2015-04-07 18:25:21] maan, quitting. (Remote host closed the connection)
+[2015-04-07 18:32:08] mach6, joining. (#selendroid)
