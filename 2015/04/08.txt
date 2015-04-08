@@ -21,3 +21,5 @@
 [2015-04-08 19:16:36] maan, joining. (#selendroid)
 [2015-04-08 19:34:45] aluedeke, joining. (#selendroid)
 [2015-04-08 19:38:51] aluedeke, quitting. (Client Quit)
+[2015-04-08 21:24:46] aluedeke, joining. (#selendroid)
+[2015-04-08 21:24:47] aluedeke, quitting. (Client Quit)
