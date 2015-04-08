@@ -1,3 +1,4 @@
 [2015-04-08 00:40:51] hernan, joining. (#selendroid)
 [2015-04-08 00:42:47] hernan: whats the recommended way to test androind-x86 ?
 [2015-04-08 00:42:52] hernan: or how to test android ?
+[2015-04-08 02:05:14] hernan: do i need to install java in android ?
