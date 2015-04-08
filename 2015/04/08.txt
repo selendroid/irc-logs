@@ -20,3 +20,4 @@
 [2015-04-08 17:58:45] lukeis, joining. (#selendroid)
 [2015-04-08 19:16:36] maan, joining. (#selendroid)
 [2015-04-08 19:34:45] aluedeke, joining. (#selendroid)
+[2015-04-08 19:38:51] aluedeke, quitting. (Client Quit)
