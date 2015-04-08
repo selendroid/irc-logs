@@ -4,3 +4,5 @@
 [2015-04-08 02:05:14] hernan: do i need to install java in android ?
 [2015-04-08 04:39:31] mach6_, joining. (#selendroid)
 [2015-04-08 04:39:45] mach6_, quitting. (Remote host closed the connection)
+[2015-04-08 04:42:38] mach6, quitting. (Ping timeout: 250 seconds)
+[2015-04-08 04:43:38] mach6, joining. (#selendroid)
