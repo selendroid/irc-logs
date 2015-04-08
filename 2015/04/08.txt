@@ -2,3 +2,5 @@
 [2015-04-08 00:42:47] hernan: whats the recommended way to test androind-x86 ?
 [2015-04-08 00:42:52] hernan: or how to test android ?
 [2015-04-08 02:05:14] hernan: do i need to install java in android ?
+[2015-04-08 04:39:31] mach6_, joining. (#selendroid)
+[2015-04-08 04:39:45] mach6_, quitting. (Remote host closed the connection)
