@@ -18,3 +18,4 @@
 [2015-04-09 17:16:08] aluedeke, quitting. (Quit: Leaving.)
 [2015-04-09 17:25:08] smikloso, quitting. (Quit: Leaving.)
 [2015-04-09 17:27:37] smccarthy, joining. (#selendroid)
+[2015-04-09 17:37:46] maan_, joining. (#selendroid)
