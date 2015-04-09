@@ -29,3 +29,4 @@
 [2015-04-09 19:49:55] maan_, quitting. (Remote host closed the connection)
 [2015-04-09 20:30:47] smccarth_, joining. (#selendroid)
 [2015-04-09 20:33:28] smccarthy, quitting. (Ping timeout: 265 seconds)
+[2015-04-09 20:57:58] smccarth_, quitting. (Quit: Leaving...)
