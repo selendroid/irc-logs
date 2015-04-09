@@ -24,3 +24,5 @@
 [2015-04-09 18:51:51] onewheelskyward, joining. (#selendroid)
 [2015-04-09 19:16:01] maan_, quitting. (Read error: Connection reset by peer)
 [2015-04-09 19:16:26] maan_, joining. (#selendroid)
+[2015-04-09 19:38:25] aluedeke, joining. (#selendroid)
+[2015-04-09 19:38:31] aluedeke, quitting. (Client Quit)
