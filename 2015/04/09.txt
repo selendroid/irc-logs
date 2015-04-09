@@ -15,3 +15,4 @@
 [2015-04-09 15:06:37] smikloso, quitting. (Ping timeout: 252 seconds)
 [2015-04-09 15:20:42] smikloso, joining. (#selendroid)
 [2015-04-09 17:08:03] hernan, quitting. (Remote host closed the connection)
+[2015-04-09 17:16:08] aluedeke, quitting. (Quit: Leaving.)
