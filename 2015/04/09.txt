@@ -16,3 +16,5 @@
 [2015-04-09 15:20:42] smikloso, joining. (#selendroid)
 [2015-04-09 17:08:03] hernan, quitting. (Remote host closed the connection)
 [2015-04-09 17:16:08] aluedeke, quitting. (Quit: Leaving.)
+[2015-04-09 17:25:08] smikloso, quitting. (Quit: Leaving.)
+[2015-04-09 17:27:37] smccarthy, joining. (#selendroid)
