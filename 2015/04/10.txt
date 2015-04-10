@@ -1,3 +1,4 @@
 [2015-04-10 04:55:33] smccarthy, quitting. (Read error: Connection reset by peer)
 [2015-04-10 04:59:18] smccarthy, joining. (#selendroid)
 [2015-04-10 07:04:51] smccarthy, quitting. (Quit: Leaving...)
+[2015-04-10 08:17:57] mach6, joining. (#selendroid)
