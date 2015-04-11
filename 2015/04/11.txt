@@ -26,3 +26,4 @@
 [2015-04-11 19:59:57] smccarthy, quitting. (Client Quit)
 [2015-04-11 20:00:36] smccarthy, joining. (#selendroid)
 [2015-04-11 20:13:45] smccarthy, quitting. (Quit: Leaving...)
+[2015-04-11 21:15:10] maan, joining. (#selendroid)
