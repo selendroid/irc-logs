@@ -19,3 +19,8 @@
 [2015-04-11 13:57:42] maan, joining. (#selendroid)
 [2015-04-11 16:38:06] smccarthy, joining. (#selendroid)
 [2015-04-11 16:39:04] maan, quitting. (Remote host closed the connection)
+[2015-04-11 19:57:13] smccarthy, quitting. (Quit: Leaving...)
+[2015-04-11 19:57:31] smccarthy, joining. (#selendroid)
+[2015-04-11 19:58:52] smccarthy, quitting. (Client Quit)
+[2015-04-11 19:59:21] smccarthy, joining. (#selendroid)
+[2015-04-11 19:59:57] smccarthy, quitting. (Client Quit)
