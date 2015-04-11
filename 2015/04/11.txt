@@ -35,3 +35,4 @@
 [2015-04-11 23:48:06] selendroid-git, joining. (#selendroid)
 [2015-04-11 23:48:06] selendroid-git: [selendroid] nolanlawson closed pull request #798: Allow access to JS, DOM Storage, and WebSQL (master...patch-1) http://git.io/bTkf
 [2015-04-11 23:48:06] selendroid-git, leaving. (#selendroid)
+[2015-04-11 23:57:13] mach6, joining. (#selendroid)
