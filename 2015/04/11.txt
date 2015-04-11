@@ -27,3 +27,5 @@
 [2015-04-11 20:00:36] smccarthy, joining. (#selendroid)
 [2015-04-11 20:13:45] smccarthy, quitting. (Quit: Leaving...)
 [2015-04-11 21:15:10] maan, joining. (#selendroid)
+[2015-04-11 21:22:02] maan_, joining. (#selendroid)
+[2015-04-11 21:22:57] maan, quitting. (Ping timeout: 276 seconds)
