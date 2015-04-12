@@ -12,3 +12,4 @@
 [2015-04-12 05:35:26] lukeis, joining. (#selendroid)
 [2015-04-12 05:53:08] mach6, joining. (#selendroid)
 [2015-04-12 05:57:41] mach6, quitting. (Ping timeout: 248 seconds)
+[2015-04-12 06:04:42] lukeis, quitting. (Quit: Leaving.)
