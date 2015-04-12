@@ -58,3 +58,5 @@
 [2015-04-12 22:51:57] detronizator, joining. (#selendroid)
 [2015-04-12 22:58:50] mach6, joining. (#selendroid)
 [2015-04-12 23:03:08] mach6, quitting. (Ping timeout: 244 seconds)
+[2015-04-12 23:27:32] detronizator, quitting. (Quit: ZNC - http://znc.in)
+[2015-04-12 23:29:25] detronizator, joining. (#selendroid)
