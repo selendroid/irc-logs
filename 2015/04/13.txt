@@ -1,0 +1,1 @@
+[2015-04-13 00:04:06] mach6, quitting. (Ping timeout: 244 seconds)
