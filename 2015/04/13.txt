@@ -8,3 +8,4 @@
 [2015-04-13 03:04:04] mach6, quitting. (Read error: Connection reset by peer)
 [2015-04-13 03:32:26] mach6_, quitting. (Quit: Leaving...)
 [2015-04-13 04:53:03] maan, joining. (#selendroid)
+[2015-04-13 05:55:58] smccarthy, quitting. (Quit: Leaving...)
