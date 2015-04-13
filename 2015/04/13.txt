@@ -28,3 +28,4 @@
 [2015-04-13 10:11:43] aluedeke, joining. (#selendroid)
 [2015-04-13 10:27:15] maan, joining. (#selendroid)
 [2015-04-13 10:39:58] maan_, joining. (#selendroid)
+[2015-04-13 10:41:29] maan, quitting. (Ping timeout: 245 seconds)
