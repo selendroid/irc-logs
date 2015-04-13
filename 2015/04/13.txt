@@ -61,3 +61,6 @@
 [2015-04-13 17:51:44] smccarthy, joining. (#selendroid)
 [2015-04-13 17:55:50] onewheelskyward: So, I've spent a couple of days messing around with the Selendroid standalone, it's pretty nice so far.
 [2015-04-13 17:56:11] onewheelskyward: Using the sample unit tests, I've noticed that the Java one starts it's own server.  How do I get it to connect to the server I already have running?
+[2015-04-13 18:05:14] lukeis: if the server is already running, just use SelendroidDriver, you can point it to any server / port you want
+[2015-04-13 18:05:24] onewheelskyward: Ah, nice
+[2015-04-13 18:05:39] onewheelskyward: I just ran my test and my mac logged me out.  Woot.
