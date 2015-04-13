@@ -69,3 +69,4 @@
 [2015-04-13 19:59:38] aluedeke, quitting. (Quit: Leaving.)
 [2015-04-13 20:22:26] maan, quitting. (Read error: Connection reset by peer)
 [2015-04-13 20:22:57] maan, joining. (#selendroid)
+[2015-04-13 20:30:01] mach6, joining. (#selendroid)
