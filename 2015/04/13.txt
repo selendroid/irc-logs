@@ -57,3 +57,4 @@
 [2015-04-13 17:12:50] EmilyHart, joining. (#selendroid)
 [2015-04-13 17:18:12] aluedeke, quitting. (Quit: Leaving.)
 [2015-04-13 17:29:09] lukeis, joining. (#selendroid)
+[2015-04-13 17:31:43] EmilyHart, quitting. (Ping timeout: 246 seconds)
