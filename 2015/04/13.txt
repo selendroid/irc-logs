@@ -56,3 +56,4 @@
 [2015-04-13 16:44:52] selendroid-git, leaving. (#selendroid)
 [2015-04-13 17:12:50] EmilyHart, joining. (#selendroid)
 [2015-04-13 17:18:12] aluedeke, quitting. (Quit: Leaving.)
+[2015-04-13 17:29:09] lukeis, joining. (#selendroid)
