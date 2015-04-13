@@ -54,3 +54,4 @@
 [2015-04-13 16:44:52] selendroid-git, joining. (#selendroid)
 [2015-04-13 16:44:52] selendroid-git: [selendroid] aluedeke opened pull request #850: append error details to page source (master...error_support_for_text_views) http://git.io/vvsYQ
 [2015-04-13 16:44:52] selendroid-git, leaving. (#selendroid)
+[2015-04-13 17:12:50] EmilyHart, joining. (#selendroid)
