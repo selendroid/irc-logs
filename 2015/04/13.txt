@@ -59,3 +59,5 @@
 [2015-04-13 17:29:09] lukeis, joining. (#selendroid)
 [2015-04-13 17:31:43] EmilyHart, quitting. (Ping timeout: 246 seconds)
 [2015-04-13 17:51:44] smccarthy, joining. (#selendroid)
+[2015-04-13 17:55:50] onewheelskyward: So, I've spent a couple of days messing around with the Selendroid standalone, it's pretty nice so far.
+[2015-04-13 17:56:11] onewheelskyward: Using the sample unit tests, I've noticed that the Java one starts it's own server.  How do I get it to connect to the server I already have running?
