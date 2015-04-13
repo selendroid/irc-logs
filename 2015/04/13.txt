@@ -19,3 +19,4 @@
 [2015-04-13 08:44:42] maan, joining. (#selendroid)
 [2015-04-13 08:49:22] mach6, joining. (#selendroid)
 [2015-04-13 08:53:18] mach6, quitting. (Client Quit)
+[2015-04-13 09:08:42] maan_, joining. (#selendroid)
