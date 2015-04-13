@@ -64,3 +64,4 @@
 [2015-04-13 18:05:14] lukeis: if the server is already running, just use SelendroidDriver, you can point it to any server / port you want
 [2015-04-13 18:05:24] onewheelskyward: Ah, nice
 [2015-04-13 18:05:39] onewheelskyward: I just ran my test and my mac logged me out.  Woot.
+[2015-04-13 19:22:44] aluedeke, joining. (#selendroid)
