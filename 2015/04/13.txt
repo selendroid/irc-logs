@@ -38,3 +38,5 @@
 [2015-04-13 11:59:16] smikloso, quitting. (Ping timeout: 250 seconds)
 [2015-04-13 12:06:21] maan_, quitting. (Ping timeout: 252 seconds)
 [2015-04-13 12:11:18] maan, joining. (#selendroid)
+[2015-04-13 12:43:15] maan_, joining. (#selendroid)
+[2015-04-13 12:43:54] maan, quitting. (Ping timeout: 272 seconds)
