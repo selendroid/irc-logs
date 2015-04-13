@@ -27,3 +27,4 @@
 [2015-04-13 10:06:11] maan, quitting. (Remote host closed the connection)
 [2015-04-13 10:11:43] aluedeke, joining. (#selendroid)
 [2015-04-13 10:27:15] maan, joining. (#selendroid)
+[2015-04-13 10:39:58] maan_, joining. (#selendroid)
