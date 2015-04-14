@@ -36,3 +36,6 @@
 [2015-04-14 20:48:47] ddary, joining. (#selendroid)
 [2015-04-14 20:59:32] ddary, quitting. (Quit: ddary)
 [2015-04-14 21:39:52] zzebelzz, quitting. (Quit: zzebelzz)
+[2015-04-14 21:50:02] maan, joining. (#selendroid)
+[2015-04-14 21:52:44] frolic, quitting. (Quit: Page closed)
+[2015-04-14 21:54:17] maan, quitting. (Ping timeout: 246 seconds)
