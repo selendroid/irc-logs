@@ -20,3 +20,4 @@
 [2015-04-14 17:26:44] zzebelzz: for 4.4.4 and above ?
 [2015-04-14 17:26:59] zzebelzz: if so, can u point me on right direction
 [2015-04-14 17:59:16] rchan, quitting. (Ping timeout: 246 seconds)
+[2015-04-14 18:07:14] maan_, quitting. (Ping timeout: 265 seconds)
