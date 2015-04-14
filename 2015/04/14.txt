@@ -19,3 +19,4 @@
 [2015-04-14 17:26:34] zzebelzz: anyone automate the installation and upgrade of native apps ?
 [2015-04-14 17:26:44] zzebelzz: for 4.4.4 and above ?
 [2015-04-14 17:26:59] zzebelzz: if so, can u point me on right direction
+[2015-04-14 17:59:16] rchan, quitting. (Ping timeout: 246 seconds)
