@@ -33,3 +33,4 @@
 [2015-04-14 20:28:27] [b__b], quitting. (Remote host closed the connection)
 [2015-04-14 20:28:41] [b__b], joining. (#selendroid)
 [2015-04-14 20:35:38] ddary, quitting. (Quit: ddary)
+[2015-04-14 20:48:47] ddary, joining. (#selendroid)
