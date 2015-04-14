@@ -25,3 +25,4 @@
 [2015-04-14 18:46:04] maan, joining. (#selendroid)
 [2015-04-14 18:49:10] maan, quitting. (Remote host closed the connection)
 [2015-04-14 18:49:38] [b__b], joining. (#selendroid)
+[2015-04-14 18:59:05] frolic, joining. (#selendroid)
