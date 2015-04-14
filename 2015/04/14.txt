@@ -28,3 +28,7 @@
 [2015-04-14 18:59:05] frolic, joining. (#selendroid)
 [2015-04-14 19:10:23] frolic: Hello All! Please could you take a look to following PRs if they are ok to merge, or if something else is required? https://github.com/selendroid/selendroid/pull/746 https://github.com/selendroid/selendroid/pull/756 Thanks!
 [2015-04-14 19:55:34] ddary, joining. (#selendroid)
+[2015-04-14 20:26:55] frolic: Hi ddary! Please could you take a look at PRs 746 and 756
+[2015-04-14 20:26:56] frolic: ?
+[2015-04-14 20:28:27] [b__b], quitting. (Remote host closed the connection)
+[2015-04-14 20:28:41] [b__b], joining. (#selendroid)
