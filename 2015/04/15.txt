@@ -34,3 +34,4 @@
 [2015-04-15 18:07:40] [b__b], joining. (#selendroid)
 [2015-04-15 18:58:09] aluedeke, quitting. (Ping timeout: 246 seconds)
 [2015-04-15 19:07:08] frolic, quitting. (Quit: Page closed)
+[2015-04-15 19:22:45] mach6, joining. (#selendroid)
