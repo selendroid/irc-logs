@@ -25,3 +25,5 @@
 [2015-04-15 17:16:51] selendroid-git, joining. (#selendroid)
 [2015-04-15 17:16:51] selendroid-git: [selendroid] ILikeToNguyen opened pull request #852: Hardware devices apiTargetType need to default to android (master...defaultAPIType) http://git.io/vvgQP
 [2015-04-15 17:16:51] selendroid-git, leaving. (#selendroid)
+[2015-04-15 17:40:07] lukeis, joining. (#selendroid)
+[2015-04-15 17:44:14] maan, quitting. (Remote host closed the connection)
