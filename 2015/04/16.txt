@@ -2,3 +2,6 @@
 [2015-04-16 00:56:52] lukeis, quitting. (Quit: Leaving.)
 [2015-04-16 01:04:31] rlux, joining. (#selendroid)
 [2015-04-16 01:10:06] rlux, quitting. (Remote host closed the connection)
+[2015-04-16 01:38:26] detronizator, quitting. (Ping timeout: 250 seconds)
+[2015-04-16 01:38:41] detroniz-, joining. (#selendroid)
+[2015-04-16 01:38:51] detroniz-, changing nick to detronizator.
