@@ -32,3 +32,4 @@
 [2015-04-15 18:05:23] [b__b], joining. (#selendroid)
 [2015-04-15 18:07:24] [b__b], quitting. (Remote host closed the connection)
 [2015-04-15 18:07:40] [b__b], joining. (#selendroid)
+[2015-04-15 18:58:09] aluedeke, quitting. (Ping timeout: 246 seconds)
