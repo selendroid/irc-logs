@@ -11,3 +11,4 @@
 [2015-04-15 08:50:33] rlux_, quitting. (Client Quit)
 [2015-04-15 09:09:31] aluedeke, joining. (#selendroid)
 [2015-04-15 09:39:25] smikloso, joining. (#selendroid)
+[2015-04-15 10:27:55] frolic, joining. (#selendroid)
