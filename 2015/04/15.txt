@@ -40,3 +40,8 @@
 [2015-04-15 21:55:22] selendroid-git, joining. (#selendroid)
 [2015-04-15 21:55:22] selendroid-git: [selendroid] mach6 closed pull request #852: Hardware devices apiTargetType need to default to android (master...defaultAPIType) http://git.io/vvgQP
 [2015-04-15 21:55:22] selendroid-git, leaving. (#selendroid)
+[2015-04-15 22:07:39] travis-ci, joining. (#selendroid)
+[2015-04-15 22:07:40] travis-ci: selendroid/selendroid#648 (master - 3bf82d6 : Anthony Nguyen): The build passed.
+[2015-04-15 22:07:40] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/db8a3374fc33...3bf82d6af4d1
+[2015-04-15 22:07:40] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/58652424
+[2015-04-15 22:07:40] travis-ci, leaving. (#selendroid)
