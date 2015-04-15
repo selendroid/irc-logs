@@ -22,3 +22,6 @@
 [2015-04-15 16:09:18] smikloso, quitting. (Ping timeout: 276 seconds)
 [2015-04-15 16:20:40] smccarthy, joining. (#selendroid)
 [2015-04-15 17:04:24] aluedeke, quitting. (Ping timeout: 245 seconds)
+[2015-04-15 17:16:51] selendroid-git, joining. (#selendroid)
+[2015-04-15 17:16:51] selendroid-git: [selendroid] ILikeToNguyen opened pull request #852: Hardware devices apiTargetType need to default to android (master...defaultAPIType) http://git.io/vvgQP
+[2015-04-15 17:16:51] selendroid-git, leaving. (#selendroid)
