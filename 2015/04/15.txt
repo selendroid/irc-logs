@@ -9,3 +9,4 @@
 [2015-04-15 07:22:04] alonso, quitting. (Client Quit)
 [2015-04-15 08:47:59] rlux_, joining. (#selendroid)
 [2015-04-15 08:50:33] rlux_, quitting. (Client Quit)
+[2015-04-15 09:09:31] aluedeke, joining. (#selendroid)
