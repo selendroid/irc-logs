@@ -36,3 +36,4 @@
 [2015-04-15 19:07:08] frolic, quitting. (Quit: Page closed)
 [2015-04-15 19:22:45] mach6, joining. (#selendroid)
 [2015-04-15 20:45:09] maan, joining. (#selendroid)
+[2015-04-15 20:50:06] maan, quitting. (Ping timeout: 276 seconds)
