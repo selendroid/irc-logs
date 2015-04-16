@@ -32,3 +32,4 @@
 [2015-04-16 17:29:54] smikloso, leaving. (#selendroid)
 [2015-04-16 17:46:17] aluedeke, joining. (#selendroid)
 [2015-04-16 20:01:23] maan, joining. (#selendroid)
+[2015-04-16 20:57:06] aluedeke, quitting. (Quit: Leaving.)
