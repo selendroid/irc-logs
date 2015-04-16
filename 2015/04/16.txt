@@ -12,3 +12,4 @@
 [2015-04-16 04:07:01] AutomatedTester, quitting. (Ping timeout: 255 seconds)
 [2015-04-16 04:08:39] onewheelskyward, quitting. (Ping timeout: 252 seconds)
 [2015-04-16 04:44:36] onewheelskyward, joining. (#selendroid)
+[2015-04-16 04:50:49] AutomatedTester, joining. (#selendroid)
