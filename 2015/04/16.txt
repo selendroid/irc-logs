@@ -8,3 +8,4 @@
 [2015-04-16 02:17:46] selendroid-git, joining. (#selendroid)
 [2015-04-16 02:17:46] selendroid-git: [selendroid] renniechan opened pull request #853: Added display of ApiTargetType on wd/hub/status page in selendroid-standalone (master...selendroidStandaloneHubStatus) http://git.io/vvwX2
 [2015-04-16 02:17:46] selendroid-git, leaving. (#selendroid)
+[2015-04-16 03:37:39] mach6, quitting. (Quit: Leaving...)
