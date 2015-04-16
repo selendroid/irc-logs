@@ -5,3 +5,6 @@
 [2015-04-16 01:38:26] detronizator, quitting. (Ping timeout: 250 seconds)
 [2015-04-16 01:38:41] detroniz-, joining. (#selendroid)
 [2015-04-16 01:38:51] detroniz-, changing nick to detronizator.
+[2015-04-16 02:17:46] selendroid-git, joining. (#selendroid)
+[2015-04-16 02:17:46] selendroid-git: [selendroid] renniechan opened pull request #853: Added display of ApiTargetType on wd/hub/status page in selendroid-standalone (master...selendroidStandaloneHubStatus) http://git.io/vvwX2
+[2015-04-16 02:17:46] selendroid-git, leaving. (#selendroid)
