@@ -16,3 +16,4 @@
 [2015-04-16 06:08:03] AutomatedTester, quitting. (Ping timeout: 256 seconds)
 [2015-04-16 06:14:57] AutomatedTester, joining. (#selendroid)
 [2015-04-16 06:53:33] smccarthy, quitting. (Quit: Leaving...)
+[2015-04-16 08:08:36] mach6, joining. (#selendroid)
