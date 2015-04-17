@@ -11,3 +11,5 @@
 [2015-04-17 07:04:26] lukeis, quitting. (Read error: Connection reset by peer)
 [2015-04-17 07:09:44] smccarthy, quitting. (Quit: Leaving...)
 [2015-04-17 10:02:24] smikloso, joining. (#selendroid)
+[2015-04-17 16:21:31] maan, joining. (#selendroid)
+[2015-04-17 16:23:19] maan_, joining. (#selendroid)
