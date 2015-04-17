@@ -4,3 +4,5 @@
 [2015-04-17 01:31:31] mach6, quitting. (Quit: Leaving...)
 [2015-04-17 05:05:34] lukeis, joining. (#selendroid)
 [2015-04-17 05:39:27] onewheelskyward, leaving. ("Textual IRC Client: www.textualapp.com")
+[2015-04-17 05:50:07] lukeis, quitting. (Quit: Leaving.)
+[2015-04-17 05:53:46] lukeis, joining. (#selendroid)
