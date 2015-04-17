@@ -28,3 +28,4 @@
 [2015-04-17 21:01:07] ndk_, joining. (#selendroid)
 [2015-04-17 21:01:20] ndk_: hi there, is anyone alive?
 [2015-04-17 21:01:38] ndk_: I have a question regarding screen rotation
+[2015-04-17 21:29:54] smccarthy, joining. (#selendroid)
