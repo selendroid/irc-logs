@@ -8,3 +8,4 @@
 [2015-04-18 10:05:32] maan, quitting. (Remote host closed the connection)
 [2015-04-18 10:31:23] maan, joining. (#selendroid)
 [2015-04-18 10:44:19] maan, quitting. (Read error: No route to host)
+[2015-04-18 10:45:54] maan, joining. (#selendroid)
