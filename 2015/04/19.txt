@@ -4,3 +4,4 @@
 [2015-04-19 05:16:05] smccarthy, quitting. (Quit: Leaving...)
 [2015-04-19 13:13:04] aluedeke, joining. (#selendroid)
 [2015-04-19 14:07:25] ndk_, quitting. (Ping timeout: 246 seconds)
+[2015-04-19 14:59:48] rafspiny, joining. (#selendroid)
