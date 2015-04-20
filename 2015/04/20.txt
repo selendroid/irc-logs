@@ -27,3 +27,4 @@
 [2015-04-20 17:16:14] AutomatedTester, joining. (#selendroid)
 [2015-04-20 17:23:36] lukeis, joining. (#selendroid)
 [2015-04-20 17:29:09] maan, joining. (#selendroid)
+[2015-04-20 17:30:18] maan_, quitting. (Ping timeout: 272 seconds)
