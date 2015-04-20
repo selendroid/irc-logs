@@ -11,3 +11,4 @@
 [2015-04-20 07:44:44] s_enya: because i have an error an same like this url(http://stackoverflow.com/questions/20836047/xalan-jar-error-when-build-in-android-project)
 [2015-04-20 08:26:32] ddary, joining. (#selendroid)
 [2015-04-20 08:30:14] ddary, quitting. (Client Quit)
+[2015-04-20 09:18:56] smikloso, joining. (#selendroid)
