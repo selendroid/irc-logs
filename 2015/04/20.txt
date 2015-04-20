@@ -25,3 +25,4 @@
 [2015-04-20 16:35:54] smccarthy, joining. (#selendroid)
 [2015-04-20 16:58:11] AutomatedTester, quitting. (Ping timeout: 256 seconds)
 [2015-04-20 17:16:14] AutomatedTester, joining. (#selendroid)
+[2015-04-20 17:23:36] lukeis, joining. (#selendroid)
