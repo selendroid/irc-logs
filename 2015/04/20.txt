@@ -20,3 +20,4 @@
 [2015-04-20 13:31:59] smikloso, joining. (#selendroid)
 [2015-04-20 14:58:41] maan, joining. (#selendroid)
 [2015-04-20 15:06:53] maan, quitting. (Ping timeout: 244 seconds)
+[2015-04-20 15:13:09] maan_, joining. (#selendroid)
