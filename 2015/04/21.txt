@@ -3,3 +3,4 @@
 [2015-04-21 00:42:39] selendroid-git: [selendroid] mach6 pushed 1 new commit to master: http://git.io/vfkSY
 [2015-04-21 00:42:39] selendroid-git: selendroid/master 74918bc Rennie Chan: Added display of ApiTargetType info on wd/hub/status page in selendroid-standalone
 [2015-04-21 00:42:39] selendroid-git, leaving. (#selendroid)
+[2015-04-21 01:00:50] lukeis, quitting. (Quit: Leaving.)
