@@ -40,3 +40,4 @@
 [2015-04-20 20:26:54] maan, joining. (#selendroid)
 [2015-04-20 20:31:49] aluedeke, joining. (#selendroid)
 [2015-04-20 20:40:49] maan, quitting. (Remote host closed the connection)
+[2015-04-20 20:53:09] aluedeke, quitting. (Ping timeout: 246 seconds)
