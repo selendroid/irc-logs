@@ -3,3 +3,5 @@
 [2015-04-20 03:21:09] smccarthy, joining. (#selendroid)
 [2015-04-20 03:42:57] smccarthy, quitting. (Quit: Leaving...)
 [2015-04-20 04:24:57] s_enya: hello?
+[2015-04-20 05:20:39] s_enya: how to build selendroid?
+[2015-04-20 05:21:45] s_enya: i get git clone and mvn release. i had an error(Could not resolve dependencies for project io.selendroid:selendroid-server:apk:0.16.0-SNAPSHOT: Failure to find org.apache.cordova:cordova:jar:android:3.7.0 in http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced)
