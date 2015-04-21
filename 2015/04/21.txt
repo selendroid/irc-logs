@@ -17,3 +17,4 @@
 [2015-04-21 08:11:48] mach6_, quitting. (Client Quit)
 [2015-04-21 08:12:28] mach6, quitting. (Ping timeout: 245 seconds)
 [2015-04-21 08:27:48] s_enya, quitting. (Quit: 離脱)
+[2015-04-21 09:02:50] aluedeke, joining. (#selendroid)
