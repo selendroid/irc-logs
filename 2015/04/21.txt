@@ -23,3 +23,5 @@
 [2015-04-21 11:45:21] s_enya: can i use selendroid with xwalk hybrid application?
 [2015-04-21 14:29:04] aluedeke, quitting. (Quit: Leaving.)
 [2015-04-21 15:32:13] maan, joining. (#selendroid)
+[2015-04-21 15:55:50] maan, quitting. (Remote host closed the connection)
+[2015-04-21 15:58:17] maan, joining. (#selendroid)
