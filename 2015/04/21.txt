@@ -20,3 +20,4 @@
 [2015-04-21 09:02:50] aluedeke, joining. (#selendroid)
 [2015-04-21 09:27:07] s_enya, joining. (#selendroid)
 [2015-04-21 10:38:24] smikloso, joining. (#selendroid)
+[2015-04-21 11:45:21] s_enya: can i use selendroid with xwalk hybrid application?
