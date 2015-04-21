@@ -34,3 +34,4 @@
 [2015-04-21 19:22:05] lukeis, joining. (#selendroid)
 [2015-04-21 20:30:24] maan, joining. (#selendroid)
 [2015-04-21 20:36:32] maan, quitting. (Read error: Connection reset by peer)
+[2015-04-21 20:49:01] maan, joining. (#selendroid)
