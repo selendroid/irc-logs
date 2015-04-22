@@ -18,3 +18,5 @@
 [2015-04-22 18:36:45] Carsten, joining. (#selendroid)
 [2015-04-22 18:37:09] Carsten, changing nick to Guest57612.
 [2015-04-22 18:37:46] Guest57612, quitting. (Client Quit)
+[2015-04-22 20:30:56] aluedeke, joining. (#selendroid)
+[2015-04-22 20:31:01] aluedeke, quitting. (Client Quit)
