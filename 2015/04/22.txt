@@ -12,3 +12,4 @@
 [2015-04-22 07:32:33] smccarthy, quitting. (Quit: Leaving...)
 [2015-04-22 12:35:14] smikloso, joining. (#selendroid)
 [2015-04-22 13:12:06] SimonK, joining. (#selendroid)
+[2015-04-22 16:27:34] smccarthy, joining. (#selendroid)
