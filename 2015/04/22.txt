@@ -20,3 +20,4 @@
 [2015-04-22 18:37:46] Guest57612, quitting. (Client Quit)
 [2015-04-22 20:30:56] aluedeke, joining. (#selendroid)
 [2015-04-22 20:31:01] aluedeke, quitting. (Client Quit)
+[2015-04-22 22:09:05] mach6, joining. (#selendroid)
