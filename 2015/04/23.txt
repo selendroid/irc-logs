@@ -193,3 +193,4 @@
 [2015-04-23 21:04:35] maan_, quitting. (Remote host closed the connection)
 [2015-04-23 21:08:08] ddary, quitting. (Quit: ddary)
 [2015-04-23 21:48:44] ddary, joining. (#selendroid)
+[2015-04-23 22:00:53] ddary, quitting. (Quit: ddary)
