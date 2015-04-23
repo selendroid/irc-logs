@@ -17,3 +17,5 @@
 [2015-04-23 09:46:46] ddary, joining. (#selendroid)
 [2015-04-23 09:50:38] smikloso, joining. (#selendroid)
 [2015-04-23 09:52:37] ddary: hi smikloso
+[2015-04-23 09:59:28] ddary: hi s_enya
+[2015-04-23 09:59:43] ddary: you had a question about building selendroid, right?
