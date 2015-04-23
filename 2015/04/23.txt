@@ -173,3 +173,4 @@
 [2015-04-23 18:40:06] maan, quitting. (Remote host closed the connection)
 [2015-04-23 18:42:26] maan, joining. (#selendroid)
 [2015-04-23 18:43:15] maan, quitting. (Remote host closed the connection)
+[2015-04-23 18:59:33] mach6, joining. (#selendroid)
