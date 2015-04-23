@@ -81,3 +81,22 @@
 [2015-04-23 13:39:59] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vf4Np
 [2015-04-23 13:39:59] selendroid-git: selendroid/master 3d60795 Dominik Dary: Update changelog.md
 [2015-04-23 13:39:59] selendroid-git, leaving. (#selendroid)
+[2015-04-23 13:41:08] travis-ci, joining. (#selendroid)
+[2015-04-23 13:41:09] travis-ci: selendroid/selendroid#652 (master - b26a349 : Dominik Dary): The build passed.
+[2015-04-23 13:41:09] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/90984bab6ca5...b26a34984fd2
+[2015-04-23 13:41:09] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/59707544
+[2015-04-23 13:41:09] travis-ci, leaving. (#selendroid)
+[2015-04-23 13:41:49] travis-ci, joining. (#selendroid)
+[2015-04-23 13:41:50] travis-ci: selendroid/selendroid#651 (master - 90984ba : Dominik Dary): The build passed.
+[2015-04-23 13:41:50] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/74918bc7597a...90984bab6ca5
+[2015-04-23 13:41:50] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/59707453
+[2015-04-23 13:41:50] travis-ci, leaving. (#selendroid)
+[2015-04-23 13:43:36] selendroid-git, joining. (#selendroid)
+[2015-04-23 13:43:36] selendroid-git: selendroid/master 8113750 Dominik Dary: Update changelog.md
+[2015-04-23 13:43:36] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vf4AA
+[2015-04-23 13:43:36] selendroid-git, leaving. (#selendroid)
+[2015-04-23 13:44:20] travis-ci, joining. (#selendroid)
+[2015-04-23 13:44:21] travis-ci: selendroid/selendroid#653 (master - 0e5c8c4 : Dominik Dary): The build passed.
+[2015-04-23 13:44:21] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/b26a34984fd2...0e5c8c4da111
+[2015-04-23 13:44:21] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/59708018
+[2015-04-23 13:44:21] travis-ci, leaving. (#selendroid)
