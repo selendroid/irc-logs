@@ -100,3 +100,20 @@
 [2015-04-23 13:44:21] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/b26a34984fd2...0e5c8c4da111
 [2015-04-23 13:44:21] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/59708018
 [2015-04-23 13:44:21] travis-ci, leaving. (#selendroid)
+[2015-04-23 13:45:44] selendroid-git, joining. (#selendroid)
+[2015-04-23 13:45:44] selendroid-git: [selendroid] DominikDary closed pull request #848: Added touch gesture testing in selendroid-test app (master...colin-cameron) http://git.io/veZbx
+[2015-04-23 13:45:44] selendroid-git, leaving. (#selendroid)
+[2015-04-23 13:45:52] travis-ci, joining. (#selendroid)
+[2015-04-23 13:45:53] travis-ci: selendroid/selendroid#654 (master - 3d60795 : Dominik Dary): The build passed.
+[2015-04-23 13:45:53] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/0e5c8c4da111...3d60795a96a1
+[2015-04-23 13:45:53] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/59708214
+[2015-04-23 13:45:53] travis-ci, leaving. (#selendroid)
+[2015-04-23 13:47:28] selendroid-git, joining. (#selendroid)
+[2015-04-23 13:47:28] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vf4pe
+[2015-04-23 13:47:28] selendroid-git: selendroid/master 02756ef Dominik Dary: Update changelog.md
+[2015-04-23 13:47:28] selendroid-git, leaving. (#selendroid)
+[2015-04-23 13:49:20] travis-ci, joining. (#selendroid)
+[2015-04-23 13:49:21] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/3d60795a96a1...81137506c28c
+[2015-04-23 13:49:21] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/59708681
+[2015-04-23 13:49:21] travis-ci: selendroid/selendroid#655 (master - 8113750 : Dominik Dary): The build passed.
+[2015-04-23 13:49:22] travis-ci, leaving. (#selendroid)
