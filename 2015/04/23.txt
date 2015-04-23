@@ -65,3 +65,8 @@
 [2015-04-23 11:06:51] smikloso: ddary: sure
 [2015-04-23 11:07:31] smikloso: ddary: but people just do not know it, that's it, at they just pick selendroid itself then to learn some new stuff which I have to admit is difficult to graps initially
 [2015-04-23 11:11:13] ddary: :note s_enya I have updated the docu about how to build selendroid: http://selendroid.io/architecture.html
+[2015-04-23 13:34:31] selendroid-git, joining. (#selendroid)
+[2015-04-23 13:34:31] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/vf4bf
+[2015-04-23 13:34:31] selendroid-git: selendroid/master 8118f20 Viacheslav Frolov: Triggering DOM event of type 'INPUT' after changing value of IPUT element. Unit tests.
+[2015-04-23 13:34:31] selendroid-git: selendroid/master 90984ba Dominik Dary: Merge pull request #746 from frolix/InputDomEventOnChangeInputValue...
+[2015-04-23 13:34:31] selendroid-git, leaving. (#selendroid)
