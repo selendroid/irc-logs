@@ -117,3 +117,22 @@
 [2015-04-23 13:49:21] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/59708681
 [2015-04-23 13:49:21] travis-ci: selendroid/selendroid#655 (master - 8113750 : Dominik Dary): The build passed.
 [2015-04-23 13:49:22] travis-ci, leaving. (#selendroid)
+[2015-04-23 13:51:42] selendroid-git, joining. (#selendroid)
+[2015-04-23 13:51:42] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/vf4hq
+[2015-04-23 13:51:42] selendroid-git: selendroid/master 9b0e011 Antony Trinh: implemented driver.manage().timeouts().PageLoadTimeout()
+[2015-04-23 13:51:42] selendroid-git: selendroid/master acdd467 Dominik Dary: Merge pull request #849 from ant8012/master...
+[2015-04-23 13:51:42] selendroid-git, leaving. (#selendroid)
+[2015-04-23 13:53:04] travis-ci, joining. (#selendroid)
+[2015-04-23 13:53:05] travis-ci: selendroid/selendroid#657 (master - 02756ef : Dominik Dary): The build passed.
+[2015-04-23 13:53:05] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/802157865af7...02756ef566d5
+[2015-04-23 13:53:05] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/59709299
+[2015-04-23 13:53:05] travis-ci, leaving. (#selendroid)
+[2015-04-23 13:53:14] travis-ci, joining. (#selendroid)
+[2015-04-23 13:53:15] travis-ci: selendroid/selendroid#656 (master - 8021578 : Dominik Dary): The build passed.
+[2015-04-23 13:53:15] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/81137506c28c...802157865af7
+[2015-04-23 13:53:15] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/59709135
+[2015-04-23 13:53:15] travis-ci, leaving. (#selendroid)
+[2015-04-23 13:53:53] selendroid-git, joining. (#selendroid)
+[2015-04-23 13:53:54] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vf4hP
+[2015-04-23 13:53:54] selendroid-git: selendroid/master 0a9f860 Dominik Dary: Update changelog.md
+[2015-04-23 13:53:54] selendroid-git, leaving. (#selendroid)
