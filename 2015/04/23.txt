@@ -29,3 +29,9 @@
 [2015-04-23 10:44:23] ddary: and how is droidium doing?
 [2015-04-23 10:44:28] smikloso: ddary: well
 [2015-04-23 10:44:58] smikloso: ddary: i released droidium 1.0 final some time ago and wanted to propagate it but i do not have time for it at all
+[2015-04-23 10:45:06] smikloso: ddary: it is kind of sad
+[2015-04-23 10:45:27] ddary: droidium is using selendroid, right?
+[2015-04-23 10:46:09] smikloso: ddary: yes, for sure, 1.0 release does not support android driver
+[2015-04-23 10:46:17] smikloso: ddary: only native instrumentation
+[2015-04-23 10:46:43] ddary: and have you heard feedback from the community?
+[2015-04-23 10:46:57] ddary: any blogposts?
