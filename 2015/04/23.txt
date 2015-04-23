@@ -176,3 +176,5 @@
 [2015-04-23 18:59:33] mach6, joining. (#selendroid)
 [2015-04-23 19:09:24] ddary, joining. (#selendroid)
 [2015-04-23 19:15:17] ddary, quitting. (Quit: ddary)
+[2015-04-23 19:20:40] smikloso, joining. (#selendroid)
+[2015-04-23 19:20:55] smikloso, quitting. (Client Quit)
