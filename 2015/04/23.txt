@@ -185,3 +185,4 @@
 [2015-04-23 19:37:40] maan, joining. (#selendroid)
 [2015-04-23 19:42:47] ddary, joining. (#selendroid)
 [2015-04-23 20:27:23] maan, quitting. (Remote host closed the connection)
+[2015-04-23 20:32:02] maan, joining. (#selendroid)
