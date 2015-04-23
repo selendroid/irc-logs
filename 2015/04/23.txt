@@ -146,3 +146,7 @@
 [2015-04-23 14:01:37] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/59709876
 [2015-04-23 14:01:37] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/acdd467f001d...0a9f860268a3
 [2015-04-23 14:01:37] travis-ci, leaving. (#selendroid)
+[2015-04-23 14:08:47] selendroid-git, joining. (#selendroid)
+[2015-04-23 14:08:47] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vfBJq
+[2015-04-23 14:08:47] selendroid-git: selendroid/master eb6d32b Dominik Dary: Update README.md
+[2015-04-23 14:08:47] selendroid-git, leaving. (#selendroid)
