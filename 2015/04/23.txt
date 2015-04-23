@@ -43,3 +43,16 @@
 [2015-04-23 10:58:24] ddary: no problem, just wanted to chat a bit, let me know when you have time
 [2015-04-23 10:58:56] ddary: i know what you mean with shouting …
 [2015-04-23 10:59:42] smikloso: yeah ...
+[2015-04-23 11:00:08] smikloso: ddary: it is all opensource but i work in the company and it is not our priority to let people know about it
+[2015-04-23 11:00:21] ddary: ok
+[2015-04-23 11:00:24] smikloso: ddary: so we dont do it, purely because of lack of time
+[2015-04-23 11:02:06] smikloso: ddary: my goal is to setup something line droidium.io, put all documentation there from the repository and propagate that separately from other arquillian stuff
+[2015-04-23 11:02:22] smikloso: ddary: nobody is going to read how it works from the readme burried in the repo
+[2015-04-23 11:02:50] ddary: yeah, documentation is important and also some videos are helping
+[2015-04-23 11:03:08] smikloso: ddary: i would propagate selendroid with for sure
+[2015-04-23 11:03:17] smikloso: ddary: some links to your site and so on
+[2015-04-23 11:03:43] smikloso: ddary: some guy tweet me with question if it is possible to use cordova with droidium
+[2015-04-23 11:04:05] smikloso: ddary: i said him that he can do whatever he can with selendroid because droidium uses it
+[2015-04-23 11:04:17] smikloso: ddary: so he said that he will try selendroid then :)
+[2015-04-23 11:04:32] ddary: i see
+[2015-04-23 11:04:57] smikloso: ddary: the main advantage of droidium is super clean and intuitive api and your tests are just beatiful to look at and develop, no bootstraping at all
