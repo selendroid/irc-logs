@@ -21,3 +21,11 @@
 [2015-04-23 09:59:43] ddary: you had a question about building selendroid, right?
 [2015-04-23 10:39:37] smikloso: ddary: hello
 [2015-04-23 10:39:52] ddary: how are you doing?
+[2015-04-23 10:40:03] smikloso: ddary: i am good, thanks!
+[2015-04-23 10:40:07] smikloso: ddary: what about you?
+[2015-04-23 10:40:17] ddary: doing good as well
+[2015-04-23 10:42:31] ddary: you are still working at red hat, right?
+[2015-04-23 10:44:01] smikloso: ddary: yes
+[2015-04-23 10:44:23] ddary: and how is droidium doing?
+[2015-04-23 10:44:28] smikloso: ddary: well
+[2015-04-23 10:44:58] smikloso: ddary: i released droidium 1.0 final some time ago and wanted to propagate it but i do not have time for it at all
