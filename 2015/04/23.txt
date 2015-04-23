@@ -35,3 +35,11 @@
 [2015-04-23 10:46:17] smikloso: ddary: only native instrumentation
 [2015-04-23 10:46:43] ddary: and have you heard feedback from the community?
 [2015-04-23 10:46:57] ddary: any blogposts?
+[2015-04-23 10:56:31] smikloso: ddary: sorry i am at the meeting right now
+[2015-04-23 10:56:56] smikloso: ddary: to be honest and have not written any blog post on my own
+[2015-04-23 10:57:09] smikloso: ddary: and i have not seen blog posts on the net
+[2015-04-23 10:57:26] smikloso: ddary: the thing is that i just need to let people know that it exist
+[2015-04-23 10:57:41] smikloso: ddary: you have to shout on the internet in order to be heard
+[2015-04-23 10:58:24] ddary: no problem, just wanted to chat a bit, let me know when you have time
+[2015-04-23 10:58:56] ddary: i know what you mean with shouting …
+[2015-04-23 10:59:42] smikloso: yeah ...
