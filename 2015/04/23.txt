@@ -136,3 +136,8 @@
 [2015-04-23 13:53:54] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vf4hP
 [2015-04-23 13:53:54] selendroid-git: selendroid/master 0a9f860 Dominik Dary: Update changelog.md
 [2015-04-23 13:53:54] selendroid-git, leaving. (#selendroid)
+[2015-04-23 13:57:10] travis-ci, joining. (#selendroid)
+[2015-04-23 13:57:11] travis-ci: selendroid/selendroid#658 (master - acdd467 : Dominik Dary): The build passed.
+[2015-04-23 13:57:11] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/59709701
+[2015-04-23 13:57:11] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/02756ef566d5...acdd467f001d
+[2015-04-23 13:57:11] travis-ci, leaving. (#selendroid)
