@@ -56,3 +56,11 @@
 [2015-04-23 11:04:17] smikloso: ddary: so he said that he will try selendroid then :)
 [2015-04-23 11:04:32] ddary: i see
 [2015-04-23 11:04:57] smikloso: ddary: the main advantage of droidium is super clean and intuitive api and your tests are just beatiful to look at and develop, no bootstraping at all
+[2015-04-23 11:05:10] smikloso: ddary: but it seem people just do not appreciate that a lot
+[2015-04-23 11:06:11] smikloso: ddary: i makes screenshot, i records videos
+[2015-04-23 11:06:17] smikloso: ddary: it make reports
+[2015-04-23 11:06:34] smikloso: ddary: you can use it with regular java ee containers
+[2015-04-23 11:06:36] ddary: but it is also kind of integrated to arquilian so that you can integrate easily
+[2015-04-23 11:06:45] ddary: ok
+[2015-04-23 11:06:51] smikloso: ddary: sure
+[2015-04-23 11:07:31] smikloso: ddary: but people just do not know it, that's it, at they just pick selendroid itself then to learn some new stuff which I have to admit is difficult to graps initially
