@@ -70,3 +70,14 @@
 [2015-04-23 13:34:31] selendroid-git: selendroid/master 8118f20 Viacheslav Frolov: Triggering DOM event of type 'INPUT' after changing value of IPUT element. Unit tests.
 [2015-04-23 13:34:31] selendroid-git: selendroid/master 90984ba Dominik Dary: Merge pull request #746 from frolix/InputDomEventOnChangeInputValue...
 [2015-04-23 13:34:31] selendroid-git, leaving. (#selendroid)
+[2015-04-23 13:35:28] selendroid-git, joining. (#selendroid)
+[2015-04-23 13:35:28] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vf4bB
+[2015-04-23 13:35:28] selendroid-git: selendroid/master b26a349 Dominik Dary: Update changelog.md
+[2015-04-23 13:35:28] selendroid-git, leaving. (#selendroid)
+[2015-04-23 13:38:51] selendroid-git: [selendroid] DominikDary closed pull request #756: Grid auto re-register (master...GridAutoRegister) http://git.io/1kllLQ
+[2015-04-23 13:38:51] selendroid-git, joining. (#selendroid)
+[2015-04-23 13:38:52] selendroid-git, leaving. (#selendroid)
+[2015-04-23 13:39:59] selendroid-git, joining. (#selendroid)
+[2015-04-23 13:39:59] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vf4Np
+[2015-04-23 13:39:59] selendroid-git: selendroid/master 3d60795 Dominik Dary: Update changelog.md
+[2015-04-23 13:39:59] selendroid-git, leaving. (#selendroid)
