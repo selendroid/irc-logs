@@ -166,3 +166,4 @@
 [2015-04-23 16:20:33] smikloso, quitting. (Quit: Leaving.)
 [2015-04-23 17:09:41] maan, quitting. (Remote host closed the connection)
 [2015-04-23 17:17:59] smccarthy, joining. (#selendroid)
+[2015-04-23 17:40:52] lukeis, joining. (#selendroid)
