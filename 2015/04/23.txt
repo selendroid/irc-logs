@@ -155,3 +155,4 @@
 [2015-04-23 14:14:18] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/0a9f860268a3...eb6d32b434e1
 [2015-04-23 14:14:18] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/59711212
 [2015-04-23 14:14:18] travis-ci, leaving. (#selendroid)
+[2015-04-23 14:49:22] maan, joining. (#selendroid)
