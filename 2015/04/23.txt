@@ -19,3 +19,5 @@
 [2015-04-23 09:52:37] ddary: hi smikloso
 [2015-04-23 09:59:28] ddary: hi s_enya
 [2015-04-23 09:59:43] ddary: you had a question about building selendroid, right?
+[2015-04-23 10:39:37] smikloso: ddary: hello
+[2015-04-23 10:39:52] ddary: how are you doing?
