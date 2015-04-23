@@ -183,3 +183,4 @@
 [2015-04-23 19:36:20] maan, quitting. (Read error: Connection reset by peer)
 [2015-04-23 19:36:25] maan_, quitting. (Read error: Connection reset by peer)
 [2015-04-23 19:37:40] maan, joining. (#selendroid)
+[2015-04-23 19:42:47] ddary, joining. (#selendroid)
