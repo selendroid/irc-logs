@@ -49,3 +49,4 @@
 [2015-04-24 20:36:53] ddary, quitting. (Quit: ddary)
 [2015-04-24 21:04:41] lukeis, quitting. (Quit: Leaving.)
 [2015-04-24 21:27:00] mach6, joining. (#selendroid)
+[2015-04-24 21:31:41] mach6, quitting. (Ping timeout: 264 seconds)
