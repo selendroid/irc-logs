@@ -55,3 +55,6 @@
 [2015-04-24 22:40:40] lukeis, joining. (#selendroid)
 [2015-04-24 23:28:28] mach6, joining. (#selendroid)
 [2015-04-24 23:33:07] mach6, quitting. (Ping timeout: 252 seconds)
+[2015-04-24 23:53:28] selendroid-git, joining. (#selendroid)
+[2015-04-24 23:53:28] selendroid-git: [selendroid] h2dennis opened pull request #860: Action chain (master...actionChain) http://git.io/vfrCY
+[2015-04-24 23:53:28] selendroid-git, leaving. (#selendroid)
