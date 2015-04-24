@@ -36,3 +36,4 @@
 [2015-04-24 17:07:23] selendroid-git: [selendroid] Okanim opened pull request #859: add cordova-android 4.0.0 support (master...4.0.0-support) http://git.io/vfans
 [2015-04-24 17:07:23] selendroid-git, leaving. (#selendroid)
 [2015-04-24 17:23:55] mach6, joining. (#selendroid)
+[2015-04-24 17:28:15] mach6, quitting. (Ping timeout: 244 seconds)
