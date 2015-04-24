@@ -1,1 +1,2 @@
 [2015-04-24 00:41:24] lukeis, quitting. (Ping timeout: 246 seconds)
+[2015-04-24 03:15:49] mach6_, quitting. (Remote host closed the connection)
