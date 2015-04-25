@@ -94,3 +94,4 @@
 [2015-04-25 20:32:53] ddary, joining. (#selendroid)
 [2015-04-25 20:39:36] ddary, leaving. (#selendroid)
 [2015-04-25 20:44:33] mach6, joining. (#selendroid)
+[2015-04-25 20:49:37] mach6, quitting. (Ping timeout: 264 seconds)
