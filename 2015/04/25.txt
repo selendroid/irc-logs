@@ -29,3 +29,5 @@
 [2015-04-25 08:31:48] maan, joining. (#selendroid)
 [2015-04-25 08:35:24] mach6, joining. (#selendroid)
 [2015-04-25 08:40:15] mach6, quitting. (Ping timeout: 276 seconds)
+[2015-04-25 08:58:09] [b__b], quitting. (*.net *.split)
+[2015-04-25 08:59:37] [b__b], joining. (#selendroid)
