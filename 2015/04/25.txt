@@ -102,3 +102,5 @@
 [2015-04-25 21:51:54] detronizator, quitting. (Ping timeout: 245 seconds)
 [2015-04-25 22:41:29] ddary, quitting. (Ping timeout: 245 seconds)
 [2015-04-25 22:44:42] ddary, joining. (#selendroid)
+[2015-04-25 22:46:05] mach6, joining. (#selendroid)
+[2015-04-25 22:48:57] detronizator, joining. (#selendroid)
