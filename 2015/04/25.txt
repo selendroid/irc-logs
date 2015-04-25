@@ -32,3 +32,5 @@
 [2015-04-25 08:58:09] [b__b], quitting. (*.net *.split)
 [2015-04-25 08:59:37] [b__b], joining. (#selendroid)
 [2015-04-25 09:01:52] maan, quitting. (Remote host closed the connection)
+[2015-04-25 09:20:36] ddary, joining. (#selendroid)
+[2015-04-25 09:22:54] maan, joining. (#selendroid)
