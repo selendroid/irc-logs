@@ -31,3 +31,4 @@
 [2015-04-25 08:40:15] mach6, quitting. (Ping timeout: 276 seconds)
 [2015-04-25 08:58:09] [b__b], quitting. (*.net *.split)
 [2015-04-25 08:59:37] [b__b], joining. (#selendroid)
+[2015-04-25 09:01:52] maan, quitting. (Remote host closed the connection)
