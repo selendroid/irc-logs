@@ -76,3 +76,12 @@
 [2015-04-25 19:54:22] selendroid-git: selendroid/master 8126df5 Alexandre Cadeau: Change mvnIntall.sh permission
 [2015-04-25 19:54:22] selendroid-git: selendroid/master 7f4fda5 Dominik Dary: Merge pull request #859 from Okanim/4.0.0-support...
 [2015-04-25 19:54:22] selendroid-git, leaving. (#selendroid)
+[2015-04-25 19:55:25] selendroid-git, joining. (#selendroid)
+[2015-04-25 19:55:26] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vfiEA
+[2015-04-25 19:55:26] selendroid-git: selendroid/master e739039 Dominik Dary: Update changelog.md
+[2015-04-25 19:55:26] selendroid-git, leaving. (#selendroid)
+[2015-04-25 19:59:08] travis-ci, joining. (#selendroid)
+[2015-04-25 19:59:09] travis-ci: selendroid/selendroid#666 (master - 7f4fda5 : Dominik Dary): The build passed.
+[2015-04-25 19:59:09] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/eb6d32b434e1...7f4fda514fa4
+[2015-04-25 19:59:09] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/60028138
+[2015-04-25 19:59:09] travis-ci, leaving. (#selendroid)
