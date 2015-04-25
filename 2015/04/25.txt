@@ -99,3 +99,4 @@
 [2015-04-25 21:08:38] ddary: :note lukeis what do you think about another release?
 [2015-04-25 21:45:20] mach6, joining. (#selendroid)
 [2015-04-25 21:49:55] mach6, quitting. (Ping timeout: 255 seconds)
+[2015-04-25 21:51:54] detronizator, quitting. (Ping timeout: 245 seconds)
