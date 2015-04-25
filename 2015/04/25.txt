@@ -70,3 +70,9 @@
 [2015-04-25 19:43:52] mach6, joining. (#selendroid)
 [2015-04-25 19:45:20] ddary, joining. (#selendroid)
 [2015-04-25 19:48:15] mach6, quitting. (Ping timeout: 246 seconds)
+[2015-04-25 19:54:21] selendroid-git, joining. (#selendroid)
+[2015-04-25 19:54:21] selendroid-git: [selendroid] DominikDary pushed 3 new commits to master: http://git.io/vfiE2
+[2015-04-25 19:54:22] selendroid-git: selendroid/master d0cda18 unknown: add cordova-android 4.0.0 support
+[2015-04-25 19:54:22] selendroid-git: selendroid/master 8126df5 Alexandre Cadeau: Change mvnIntall.sh permission
+[2015-04-25 19:54:22] selendroid-git: selendroid/master 7f4fda5 Dominik Dary: Merge pull request #859 from Okanim/4.0.0-support...
+[2015-04-25 19:54:22] selendroid-git, leaving. (#selendroid)
