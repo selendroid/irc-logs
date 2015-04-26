@@ -43,3 +43,4 @@
 [2015-04-26 14:52:55] maan, quitting. (Ping timeout: 256 seconds)
 [2015-04-26 15:06:04] mach6, joining. (#selendroid)
 [2015-04-26 15:10:36] mach6, quitting. (Ping timeout: 240 seconds)
+[2015-04-26 15:41:28] maan_, quitting. (Remote host closed the connection)
