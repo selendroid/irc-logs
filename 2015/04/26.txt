@@ -38,3 +38,4 @@
 [2015-04-26 14:17:46] aluedeke1, quitting. (Quit: Leaving.)
 [2015-04-26 14:18:27] aluedeke, joining. (#selendroid)
 [2015-04-26 14:34:41] maan, joining. (#selendroid)
+[2015-04-26 14:43:33] aluedeke, quitting. (Quit: Leaving.)
