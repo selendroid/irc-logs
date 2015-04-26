@@ -13,3 +13,4 @@
 [2015-04-26 05:10:19] smccarthy, quitting. (Remote host closed the connection)
 [2015-04-26 05:36:16] smccarthy, joining. (#selendroid)
 [2015-04-26 05:37:15] smccarthy, quitting. (Client Quit)
+[2015-04-26 05:58:50] mach6, joining. (#selendroid)
