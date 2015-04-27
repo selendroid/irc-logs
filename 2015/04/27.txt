@@ -83,3 +83,4 @@
 [2015-04-27 20:14:23] ddary, joining. (#selendroid)
 [2015-04-27 20:18:20] ddary: @aluedeke i will contact you with a direct chat
 [2015-04-27 20:21:28] aluedeke, quitting. (Ping timeout: 250 seconds)
+[2015-04-27 20:28:29] ddary, quitting. (Quit: ddary)
