@@ -20,3 +20,4 @@
 [2015-04-27 07:23:05] mach6, quitting. (Ping timeout: 244 seconds)
 [2015-04-27 07:25:13] s_enya, quitting. (Remote host closed the connection)
 [2015-04-27 07:26:42] aluedeke, quitting. (Ping timeout: 244 seconds)
+[2015-04-27 08:19:13] mach6, joining. (#selendroid)
