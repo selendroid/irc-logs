@@ -36,3 +36,4 @@
 [2015-04-27 11:54:32] smikloso, quitting. (Changing host)
 [2015-04-27 11:54:32] smikloso, joining. (#selendroid)
 [2015-04-27 12:22:06] mach6, joining. (#selendroid)
+[2015-04-27 12:26:16] mach6, quitting. (Ping timeout: 240 seconds)
