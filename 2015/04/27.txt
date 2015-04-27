@@ -10,3 +10,4 @@
 [2015-04-27 03:37:29] detronizator, joining. (#selendroid)
 [2015-04-27 04:16:01] mach6, joining. (#selendroid)
 [2015-04-27 04:20:44] mach6, quitting. (Ping timeout: 252 seconds)
+[2015-04-27 05:16:44] mach6, joining. (#selendroid)
