@@ -58,3 +58,6 @@
 [2015-04-27 17:30:48] mach6, quitting. (Ping timeout: 276 seconds)
 [2015-04-27 17:31:36] lukeis, joining. (#selendroid)
 [2015-04-27 17:32:14] lukeis: :note ddary  ¯\_(ツ)_/¯ sure? :)
+[2015-04-27 17:46:47] lukeis, quitting. (Quit: Leaving.)
+[2015-04-27 17:47:06] lukeis, joining. (#selendroid)
+[2015-04-27 17:49:59] maan, joining. (#selendroid)
