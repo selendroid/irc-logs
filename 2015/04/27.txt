@@ -79,3 +79,5 @@
 [2015-04-27 20:00:42] ddary: @aluedeke ok, thanks for letting me know, will have a look
 [2015-04-27 20:03:39] aluedeke: @ddary another question would you be interested in talking about selendroid on an testing event which i co organize? (http://mobile-testing-days.de/2015/)
 [2015-04-27 20:03:57] aluedeke: we will have a second one later this year somewhere in the south of germany?
+[2015-04-27 20:12:18] ddary, quitting. (Quit: ddary)
+[2015-04-27 20:14:23] ddary, joining. (#selendroid)
