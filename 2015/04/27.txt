@@ -54,3 +54,4 @@
 [2015-04-27 16:30:57] maan, quitting. (Remote host closed the connection)
 [2015-04-27 17:09:06] aluedeke, joining. (#selendroid)
 [2015-04-27 17:19:37] aluedeke, quitting. (Quit: Leaving.)
+[2015-04-27 17:25:58] mach6, joining. (#selendroid)
