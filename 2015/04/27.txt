@@ -110,3 +110,4 @@
 [2015-04-27 22:18:10] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/60273632
 [2015-04-27 22:18:10] travis-ci, leaving. (#selendroid)
 [2015-04-27 22:38:25] mach6, joining. (#selendroid)
+[2015-04-27 23:38:35] mach6, quitting. (Remote host closed the connection)
