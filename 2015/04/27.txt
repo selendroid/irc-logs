@@ -66,3 +66,7 @@
 [2015-04-27 18:32:56] maan, quitting. (Ping timeout: 240 seconds)
 [2015-04-27 18:35:59] maan, joining. (#selendroid)
 [2015-04-27 19:44:24] ddary, joining. (#selendroid)
+[2015-04-27 19:50:25] ddary: hi lukeis
+[2015-04-27 19:50:43] aluedeke, joining. (#selendroid)
+[2015-04-27 19:50:57] lukeis: hi
+[2015-04-27 19:51:30] ddary: with regards to the release I just wanted to ask if you know there is more in the pipeline
