@@ -90,3 +90,5 @@
 [2015-04-27 20:53:38] selendroid-git, leaving. (#selendroid)
 [2015-04-27 21:23:10] maan, quitting. (Remote host closed the connection)
 [2015-04-27 21:53:25] aluedeke, quitting. (Ping timeout: 248 seconds)
+[2015-04-27 22:01:18] ddary, joining. (#selendroid)
+[2015-04-27 22:04:15] ddary, leaving. (#selendroid)
