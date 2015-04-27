@@ -70,3 +70,7 @@
 [2015-04-27 19:50:43] aluedeke, joining. (#selendroid)
 [2015-04-27 19:50:57] lukeis: hi
 [2015-04-27 19:51:30] ddary: with regards to the release I just wanted to ask if you know there is more in the pipeline
+[2015-04-27 19:57:45] lukeis: not directly in mine :)
+[2015-04-27 19:58:31] ddary: ok
+[2015-04-27 19:58:48] aluedeke: @ddary don't wanna bother you but are there any update about https://github.com/selendroid/selendroid/issues/800
+[2015-04-27 19:59:57] aluedeke: don't know how other people can currently run reliable tests with selendroid? i experience this whenever i create test cases with latests selendroid versions
