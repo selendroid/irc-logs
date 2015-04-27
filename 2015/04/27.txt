@@ -92,3 +92,10 @@
 [2015-04-27 21:53:25] aluedeke, quitting. (Ping timeout: 248 seconds)
 [2015-04-27 22:01:18] ddary, joining. (#selendroid)
 [2015-04-27 22:04:15] ddary, leaving. (#selendroid)
+[2015-04-27 22:05:35] selendroid-git, joining. (#selendroid)
+[2015-04-27 22:05:36] selendroid-git: [selendroid] DominikDary closed pull request #850: append error details to page source (master...error_support_for_text_views) http://git.io/vvsYQ
+[2015-04-27 22:05:36] selendroid-git, leaving. (#selendroid)
+[2015-04-27 22:06:45] selendroid-git, joining. (#selendroid)
+[2015-04-27 22:06:45] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vf5Kc
+[2015-04-27 22:06:46] selendroid-git: selendroid/master 39f4c61 Dominik Dary: Update changelog.md
+[2015-04-27 22:06:46] selendroid-git, leaving. (#selendroid)
