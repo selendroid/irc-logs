@@ -24,3 +24,4 @@
 [2015-04-28 17:56:09] maan, joining. (#selendroid)
 [2015-04-28 18:07:13] aluedeke, joining. (#selendroid)
 [2015-04-28 18:07:14] aluedeke, quitting. (Client Quit)
+[2015-04-28 18:23:17] maan, quitting. (Read error: Connection reset by peer)
