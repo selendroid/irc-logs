@@ -6,3 +6,5 @@
 [2015-04-28 07:55:53] aluedeke, joining. (#selendroid)
 [2015-04-28 08:32:01] reversiblean, joining. (#selendroid)
 [2015-04-28 08:36:10] reversiblean: i want to simulate a simple login and then parse some data from the subsequent html page. Can this be done with selendroid? I tried with HtmlUnit/Jsoup and Selenium and they did work. But I need something that would work in Android aswell. I'm little confused and I'm not sure and how and which selendroid jar to use.
+[2015-04-28 08:40:59] reversiblean, quitting. (Ping timeout: 256 seconds)
+[2015-04-28 08:42:03] reversiblean, joining. (#selendroid)
