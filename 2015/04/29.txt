@@ -1,1 +1,2 @@
 [2015-04-29 00:21:21] SimonK, quitting. (Quit: Connection closed for inactivity)
+[2015-04-29 01:05:49] lukeis, quitting. (Ping timeout: 264 seconds)
