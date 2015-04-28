@@ -12,3 +12,6 @@
 [2015-04-28 10:20:51] smikloso, joining. (#selendroid)
 [2015-04-28 10:24:00] reversiblean, quitting. (Ping timeout: 252 seconds)
 [2015-04-28 13:39:46] SimonK, joining. (#selendroid)
+[2015-04-28 15:01:48] detronizator, quitting. (Ping timeout: 272 seconds)
+[2015-04-28 15:02:11] maan, joining. (#selendroid)
+[2015-04-28 15:02:28] detronizator, joining. (#selendroid)
