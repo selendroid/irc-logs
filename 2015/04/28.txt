@@ -9,3 +9,5 @@
 [2015-04-28 08:40:59] reversiblean, quitting. (Ping timeout: 256 seconds)
 [2015-04-28 08:42:03] reversiblean, joining. (#selendroid)
 [2015-04-28 10:06:24] aluedeke, quitting. (Quit: Leaving.)
+[2015-04-28 10:20:51] smikloso, joining. (#selendroid)
+[2015-04-28 10:24:00] reversiblean, quitting. (Ping timeout: 252 seconds)
