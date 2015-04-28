@@ -11,3 +11,4 @@
 [2015-04-28 10:06:24] aluedeke, quitting. (Quit: Leaving.)
 [2015-04-28 10:20:51] smikloso, joining. (#selendroid)
 [2015-04-28 10:24:00] reversiblean, quitting. (Ping timeout: 252 seconds)
+[2015-04-28 13:39:46] SimonK, joining. (#selendroid)
