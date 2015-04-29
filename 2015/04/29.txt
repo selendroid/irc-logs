@@ -13,3 +13,6 @@
 [2015-04-29 17:18:43] aluedeke, quitting. (Quit: Leaving.)
 [2015-04-29 17:41:30] lukeis, joining. (#selendroid)
 [2015-04-29 17:44:43] maan, quitting. (Remote host closed the connection)
+[2015-04-29 18:07:44] selendroid-git, joining. (#selendroid)
+[2015-04-29 18:07:44] selendroid-git: [selendroid] nadaismail opened pull request #862: Delete temporary created by Selendroid Server (master...master) http://git.io/vJUC7
+[2015-04-29 18:07:44] selendroid-git, leaving. (#selendroid)
