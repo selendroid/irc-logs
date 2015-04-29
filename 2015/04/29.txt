@@ -27,3 +27,4 @@
 [2015-04-29 20:16:54] lukeis: hmmm, i think there may be some logic errors… or at least not a correct interpretation of the multi-action spec
 [2015-04-29 20:19:09] ddary: ok, can you respond to them?
 [2015-04-29 20:19:28] lukeis: yeah, i will… need to provide some detail though
+[2015-04-29 20:20:35] ddary: ok, thanks
