@@ -17,3 +17,4 @@
 [2015-04-29 18:07:44] selendroid-git: [selendroid] nadaismail opened pull request #862: Delete temporary created by Selendroid Server (master...master) http://git.io/vJUC7
 [2015-04-29 18:07:44] selendroid-git, leaving. (#selendroid)
 [2015-04-29 20:01:05] ddary, joining. (#selendroid)
+[2015-04-29 20:06:09] maan, joining. (#selendroid)
