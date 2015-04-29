@@ -10,3 +10,4 @@
 [2015-04-29 16:53:00] smccarthy, joining. (#selendroid)
 [2015-04-29 16:57:03] maan, quitting. (Ping timeout: 250 seconds)
 [2015-04-29 16:59:05] maan, joining. (#selendroid)
+[2015-04-29 17:18:43] aluedeke, quitting. (Quit: Leaving.)
