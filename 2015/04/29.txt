@@ -22,3 +22,8 @@
 [2015-04-29 20:12:58] lukeis: not really
 [2015-04-29 20:13:28] lukeis: this is from the austin texas (UT) students :)
 [2015-04-29 20:13:52] lukeis: i'll try to look...
+[2015-04-29 20:15:27] ddary: ok
+[2015-04-29 20:15:46] ddary: it looked like it is a PR from Texas
+[2015-04-29 20:16:54] lukeis: hmmm, i think there may be some logic errors… or at least not a correct interpretation of the multi-action spec
+[2015-04-29 20:19:09] ddary: ok, can you respond to them?
+[2015-04-29 20:19:28] lukeis: yeah, i will… need to provide some detail though
