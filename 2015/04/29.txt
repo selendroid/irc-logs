@@ -18,3 +18,7 @@
 [2015-04-29 18:07:44] selendroid-git, leaving. (#selendroid)
 [2015-04-29 20:01:05] ddary, joining. (#selendroid)
 [2015-04-29 20:06:09] maan, joining. (#selendroid)
+[2015-04-29 20:12:15] ddary: hi lukeis, had you looked at https://github.com/selendroid/selendroid/pull/860 ?
+[2015-04-29 20:12:58] lukeis: not really
+[2015-04-29 20:13:28] lukeis: this is from the austin texas (UT) students :)
+[2015-04-29 20:13:52] lukeis: i'll try to look...
