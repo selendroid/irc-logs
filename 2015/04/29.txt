@@ -28,3 +28,4 @@
 [2015-04-29 20:19:09] ddary: ok, can you respond to them?
 [2015-04-29 20:19:28] lukeis: yeah, i will… need to provide some detail though
 [2015-04-29 20:20:35] ddary: ok, thanks
+[2015-04-29 20:29:46] maan, quitting. (Read error: Connection reset by peer)
