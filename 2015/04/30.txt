@@ -17,3 +17,4 @@
 [2015-04-30 17:28:28] smikloso, quitting. (Quit: Leaving.)
 [2015-04-30 17:34:19] smccarthy, joining. (#selendroid)
 [2015-04-30 17:47:21] maan, joining. (#selendroid)
+[2015-04-30 18:10:59] lukeis, joining. (#selendroid)
