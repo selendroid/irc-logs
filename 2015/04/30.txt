@@ -24,3 +24,4 @@
 [2015-04-30 19:47:08] detronizator, quitting. (*.net *.split)
 [2015-04-30 19:47:19] detroniz-, changing nick to detronizator.
 [2015-04-30 19:48:09] [b__b], joining. (#selendroid)
+[2015-04-30 20:12:12] maan, joining. (#selendroid)
