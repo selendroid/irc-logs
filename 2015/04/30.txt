@@ -19,3 +19,8 @@
 [2015-04-30 17:47:21] maan, joining. (#selendroid)
 [2015-04-30 18:10:59] lukeis, joining. (#selendroid)
 [2015-04-30 18:48:59] maan, quitting. (Remote host closed the connection)
+[2015-04-30 19:45:40] detroniz-, joining. (#selendroid)
+[2015-04-30 19:47:03] [b__b], quitting. (*.net *.split)
+[2015-04-30 19:47:08] detronizator, quitting. (*.net *.split)
+[2015-04-30 19:47:19] detroniz-, changing nick to detronizator.
+[2015-04-30 19:48:09] [b__b], joining. (#selendroid)
