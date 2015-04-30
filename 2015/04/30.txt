@@ -3,3 +3,4 @@
 [2015-04-30 06:33:50] mach6, joining. (#selendroid)
 [2015-04-30 07:01:42] smccarthy, quitting. (Quit: Leaving...)
 [2015-04-30 07:36:36] mach6, quitting. (Remote host closed the connection)
+[2015-04-30 07:41:59] mach6, joining. (#selendroid)
