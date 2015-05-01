@@ -4,3 +4,4 @@
 [2015-05-01 05:22:29] smccarthy, quitting. (Quit: Leaving...)
 [2015-05-01 09:30:50] aluedeke, joining. (#selendroid)
 [2015-05-01 09:35:50] aluedeke, quitting. (Quit: Leaving.)
+[2015-05-01 16:28:54] smccarthy, joining. (#selendroid)
