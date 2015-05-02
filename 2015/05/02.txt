@@ -3,3 +3,6 @@
 [2015-05-02 13:30:17] aluedeke, quitting. (Quit: Leaving.)
 [2015-05-02 15:42:03] smccarthy, joining. (#selendroid)
 [2015-05-02 16:40:29] smccarthy, quitting. (Ping timeout: 250 seconds)
+[2015-05-02 21:31:18] selendroid-git, joining. (#selendroid)
+[2015-05-02 21:31:18] selendroid-git: [selendroid] danielrobertson opened pull request #864: Test Cover for CallLogUtil and HttpClientUtil (master...master) http://git.io/vJ0Yu
+[2015-05-02 21:31:18] selendroid-git, leaving. (#selendroid)
