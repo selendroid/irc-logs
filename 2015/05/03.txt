@@ -4,3 +4,5 @@
 [2015-05-03 17:17:54] smccarthy, quitting. (Quit: Leaving...)
 [2015-05-03 17:32:33] detronizator, quitting. (Ping timeout: 240 seconds)
 [2015-05-03 17:32:54] detronizator, joining. (#selendroid)
+[2015-05-03 18:23:23] UncleBubba, joining. (#selendroid)
+[2015-05-03 18:23:29] UncleBubba, leaving. (#selendroid)
