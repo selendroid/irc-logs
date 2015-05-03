@@ -2,3 +2,5 @@
 [2015-05-03 05:55:36] smccarthy, quitting. (Remote host closed the connection)
 [2015-05-03 15:09:51] smccarthy, joining. (#selendroid)
 [2015-05-03 17:17:54] smccarthy, quitting. (Quit: Leaving...)
+[2015-05-03 17:32:33] detronizator, quitting. (Ping timeout: 240 seconds)
+[2015-05-03 17:32:54] detronizator, joining. (#selendroid)
