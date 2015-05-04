@@ -10,3 +10,6 @@
 [2015-05-04 21:42:44] QnA, joining. (#selendroid)
 [2015-05-04 21:43:40] QnA: If there a way to detect which native element is a WebView?
 [2015-05-04 21:44:11] QnA: The class name is not reliable, as the developer could have named the WebView class anything by extending it
+[2015-05-04 21:48:22] mach6, quitting. (Remote host closed the connection)
+[2015-05-04 21:48:57] mach6, joining. (#selendroid)
+[2015-05-04 21:50:00] mach6, quitting. (Remote host closed the connection)
