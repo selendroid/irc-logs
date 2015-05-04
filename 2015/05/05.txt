@@ -3,3 +3,8 @@
 [2015-05-05 00:59:39] mach6, joining. (#selendroid)
 [2015-05-05 01:17:33] mach6, quitting. (Remote host closed the connection)
 [2015-05-05 01:21:58] mach6, joining. (#selendroid)
+[2015-05-05 01:41:57] selendroid-git, joining. (#selendroid)
+[2015-05-05 01:41:57] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vJi4W
+[2015-05-05 01:41:58] selendroid-git: selendroid/master 68dc58f Nada Ismail: automatically delete temporary files
+[2015-05-05 01:41:58] selendroid-git: selendroid/master 3600241 Luke Inman-Semerau: Merge pull request #862 from nadaismail/master...
+[2015-05-05 01:41:58] selendroid-git, leaving. (#selendroid)
