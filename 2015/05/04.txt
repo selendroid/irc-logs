@@ -15,3 +15,4 @@
 [2015-05-04 21:50:00] mach6, quitting. (Remote host closed the connection)
 [2015-05-04 21:50:55] mach6, joining. (#selendroid)
 [2015-05-04 22:04:54] mach6, quitting. (Remote host closed the connection)
+[2015-05-04 23:14:54] jack090: @AutomatedTester are you still having your issues?
