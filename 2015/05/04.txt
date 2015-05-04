@@ -13,3 +13,4 @@
 [2015-05-04 21:48:22] mach6, quitting. (Remote host closed the connection)
 [2015-05-04 21:48:57] mach6, joining. (#selendroid)
 [2015-05-04 21:50:00] mach6, quitting. (Remote host closed the connection)
+[2015-05-04 21:50:55] mach6, joining. (#selendroid)
