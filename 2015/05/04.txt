@@ -5,3 +5,5 @@
 [2015-05-04 16:39:12] smccarthy, joining. (#selendroid)
 [2015-05-04 20:33:39] mach6, joining. (#selendroid)
 [2015-05-04 20:46:00] jack090, joining. (#selendroid)
+[2015-05-04 21:18:00] AutomatedTester: hello! I am trying to get selendroid using an emulator and it says that it can't find my device. more details in https://gist.github.com/AutomatedTester/6b91f2358e4f557e54dd
+[2015-05-04 21:18:07] AutomatedTester: what step have I missed?
