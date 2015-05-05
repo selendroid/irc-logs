@@ -110,3 +110,4 @@
 [2015-05-05 23:24:07] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/23df7829e253...9b0fdaccb241
 [2015-05-05 23:24:07] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/61371058
 [2015-05-05 23:24:07] travis-ci, leaving. (#selendroid)
+[2015-05-05 23:28:15] detronizator, quitting. (Quit: ZNC - http://znc.in)
