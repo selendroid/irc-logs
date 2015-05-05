@@ -54,3 +54,10 @@
 [2015-05-05 14:22:15] AutomatedTester: CPU acceleration status: HAX is not installed on this machine (/dev/HAX is missing).
 [2015-05-05 14:24:41] jack090: Ahh easy fix
 [2015-05-05 14:24:50] jack090: so I think it's located under the tools folder
+[2015-05-05 14:25:02] jack090: you need to find the x86 haxm thingy
+[2015-05-05 14:26:01] jack090: https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager
+[2015-05-05 14:26:23] jack090: that will get you the version you need (I think by default android installs it in some weird sub-folder)
+[2015-05-05 14:26:35] jack090: I cant' remember the path off the top of my head
+[2015-05-05 14:27:31] jack090: check /extras/intel/Hardware....
+[2015-05-05 14:27:50] jack090: then run the .dmg if you using a mac
+[2015-05-05 14:28:12] jack090: but you could be running windows/linux and it's similar just find the appropriate file.
