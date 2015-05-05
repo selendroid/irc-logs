@@ -32,3 +32,6 @@
 [2015-05-05 13:36:00] smikloso, joining. (#selendroid)
 [2015-05-05 13:36:55] aluedeke, joining. (#selendroid)
 [2015-05-05 13:36:56] aluedeke, quitting. (Client Quit)
+[2015-05-05 14:19:28] jack090: @AutomatedTester have you used avd and found your devices?
+[2015-05-05 14:19:38] jack090: also are you using the new android studio thingy?
+[2015-05-05 14:19:58] AutomatedTester: jack090: not using studio and when I start the jar it sees my AVD
