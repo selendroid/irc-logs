@@ -1,3 +1,6 @@
 [2015-05-06 01:14:54] selendroid-git, joining. (#selendroid)
 [2015-05-06 01:14:55] selendroid-git: [selendroid] mtimkovich closed pull request #861: Added code to unlock phone before running tests (master...master) http://git.io/vf5LE
 [2015-05-06 01:14:55] selendroid-git, leaving. (#selendroid)
+[2015-05-06 01:32:48] selendroid-git, joining. (#selendroid)
+[2015-05-06 01:32:49] selendroid-git: [selendroid] Mdelvalle opened pull request #867: Wake screen before running tests (master...master) http://git.io/vJ9l1
+[2015-05-06 01:32:49] selendroid-git, leaving. (#selendroid)
