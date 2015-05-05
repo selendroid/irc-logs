@@ -82,3 +82,7 @@
 [2015-05-05 18:24:36] smikloso, quitting. (Ping timeout: 272 seconds)
 [2015-05-05 19:38:11] detronizator, quitting. (Quit: ZNC - http://znc.in)
 [2015-05-05 19:38:53] smikloso, joining. (#selendroid)
+[2015-05-05 19:40:07] detronizator, joining. (#selendroid)
+[2015-05-05 19:40:50] mach6, joining. (#selendroid)
+[2015-05-05 19:40:58] mach6, quitting. (Remote host closed the connection)
+[2015-05-05 19:41:40] mach6, joining. (#selendroid)
