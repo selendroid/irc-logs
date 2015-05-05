@@ -28,3 +28,4 @@
 [2015-05-05 10:17:04] smikloso, joining. (#selendroid)
 [2015-05-05 11:55:03] AutomatedTester: jack090: yup
 [2015-05-05 11:55:24] AutomatedTester: jack090: I feel like I am missing some step
+[2015-05-05 13:19:30] smikloso, quitting. (Ping timeout: 256 seconds)
