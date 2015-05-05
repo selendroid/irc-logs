@@ -64,3 +64,4 @@
 [2015-05-05 14:55:42] AutomatedTester: jack090: all sorted now!
 [2015-05-05 15:15:54] smikloso, quitting. (Ping timeout: 252 seconds)
 [2015-05-05 15:21:40] smikloso, joining. (#selendroid)
+[2015-05-05 15:38:05] AutomatedTester: :note lukeis found the source of my selendroid issue and things are working properly now
