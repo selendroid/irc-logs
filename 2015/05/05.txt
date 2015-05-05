@@ -116,3 +116,8 @@
 [2015-05-05 23:30:13] selendroid-git: selendroid/master c227742 Anthony Nguyen: Throw exception if user sends a non boolean type such as Strings for Boolean types of DesiredCapabilities.
 [2015-05-05 23:30:13] selendroid-git: selendroid/master cf4a453 Luke Inman-Semerau: Merge pull request #829 from ILikeToNguyen/booleanCapabilities...
 [2015-05-05 23:30:13] selendroid-git, leaving. (#selendroid)
+[2015-05-05 23:49:30] travis-ci, joining. (#selendroid)
+[2015-05-05 23:49:32] travis-ci: selendroid/selendroid#686 (master - cf4a453 : Luke Inman-Semerau): The build passed.
+[2015-05-05 23:49:32] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/9b0fdaccb241...cf4a453f7960
+[2015-05-05 23:49:32] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/61375419
+[2015-05-05 23:49:32] travis-ci, leaving. (#selendroid)
