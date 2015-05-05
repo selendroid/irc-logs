@@ -35,3 +35,22 @@
 [2015-05-05 14:19:28] jack090: @AutomatedTester have you used avd and found your devices?
 [2015-05-05 14:19:38] jack090: also are you using the new android studio thingy?
 [2015-05-05 14:19:58] AutomatedTester: jack090: not using studio and when I start the jar it sees my AVD
+[2015-05-05 14:20:15] jack090: is the emulator running?
+[2015-05-05 14:20:22] AutomatedTester: https://gist.github.com/AutomatedTester/6b91f2358e4f557e54dd#file-jar-startup-output-L11
+[2015-05-05 14:20:28] AutomatedTester: no, the emulator isnt running
+[2015-05-05 14:20:38] AutomatedTester: am I supposed to start it?
+[2015-05-05 14:20:39] jack090: start the emulator first
+[2015-05-05 14:20:57] jack090: (it usually starts by itself but you can start it first I think)
+[2015-05-05 14:21:06] jack090: I'm not on my mac which has this all setup
+[2015-05-05 14:21:10] jack090: so I'm doing it by memory
+[2015-05-05 14:21:17] jack090: I'll be on it later today though
+[2015-05-05 14:21:24] jack090: if we can't get it figured out
+[2015-05-05 14:21:32] AutomatedTester: jack090: think I found the issue
+[2015-05-05 14:21:45] AutomatedTester: there is an error when I do ./emulator -avd nexus7
+[2015-05-05 14:21:53] jack090: ahh
+[2015-05-05 14:22:03] jack090: what's the error?
+[2015-05-05 14:22:14] AutomatedTester: emulator: ERROR: x86_64 emulation currently requires hardware acceleration!
+[2015-05-05 14:22:15] AutomatedTester: Please ensure Intel HAXM is properly installed and usable.
+[2015-05-05 14:22:15] AutomatedTester: CPU acceleration status: HAX is not installed on this machine (/dev/HAX is missing).
+[2015-05-05 14:24:41] jack090: Ahh easy fix
+[2015-05-05 14:24:50] jack090: so I think it's located under the tools folder
