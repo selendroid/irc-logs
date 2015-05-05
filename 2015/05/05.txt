@@ -16,3 +16,7 @@
 [2015-05-05 02:27:19] mach6, quitting. (Remote host closed the connection)
 [2015-05-05 02:27:35] QnA, quitting. (Quit: Page closed)
 [2015-05-05 06:18:26] smccarthy, quitting. (Quit: Leaving...)
+[2015-05-05 08:01:43] selendroid-git, joining. (#selendroid)
+[2015-05-05 08:01:43] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vJPVC
+[2015-05-05 08:01:43] selendroid-git: selendroid/master d705591 Dominik Dary: Update changelog.md
+[2015-05-05 08:01:44] selendroid-git, leaving. (#selendroid)
