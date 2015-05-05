@@ -101,3 +101,7 @@
 [2015-05-05 21:28:59] mach6, quitting. (Ping timeout: 244 seconds)
 [2015-05-05 22:07:12] smccarthy, quitting. (Ping timeout: 265 seconds)
 [2015-05-05 22:09:20] smccarthy, joining. (#selendroid)
+[2015-05-05 23:01:49] selendroid-git, joining. (#selendroid)
+[2015-05-05 23:01:49] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/vJSgz
+[2015-05-05 23:01:49] selendroid-git: selendroid/master 9b0fdac Luke Inman-Semerau: correcting page loading logic issue when waiting for a page that isn't loading....
+[2015-05-05 23:01:49] selendroid-git, leaving. (#selendroid)
