@@ -62,3 +62,4 @@
 [2015-05-05 14:27:50] jack090: then run the .dmg if you using a mac
 [2015-05-05 14:28:12] jack090: but you could be running windows/linux and it's similar just find the appropriate file.
 [2015-05-05 14:55:42] AutomatedTester: jack090: all sorted now!
+[2015-05-05 15:15:54] smikloso, quitting. (Ping timeout: 252 seconds)
