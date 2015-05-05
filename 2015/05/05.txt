@@ -15,3 +15,4 @@
 [2015-05-05 01:48:00] travis-ci, leaving. (#selendroid)
 [2015-05-05 02:27:19] mach6, quitting. (Remote host closed the connection)
 [2015-05-05 02:27:35] QnA, quitting. (Quit: Page closed)
+[2015-05-05 06:18:26] smccarthy, quitting. (Quit: Leaving...)
