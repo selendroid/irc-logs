@@ -13,3 +13,5 @@
 [2015-05-05 01:48:00] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/39f4c6176dbc...36002415b6f1
 [2015-05-05 01:48:00] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/61227293
 [2015-05-05 01:48:00] travis-ci, leaving. (#selendroid)
+[2015-05-05 02:27:19] mach6, quitting. (Remote host closed the connection)
+[2015-05-05 02:27:35] QnA, quitting. (Quit: Page closed)
