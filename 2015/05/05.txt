@@ -93,3 +93,5 @@
 [2015-05-05 20:24:23] mach6, joining. (#selendroid)
 [2015-05-05 20:46:43] mach6, quitting. (Remote host closed the connection)
 [2015-05-05 20:48:39] mach6, joining. (#selendroid)
+[2015-05-05 20:50:52] mach6_, joining. (#selendroid)
+[2015-05-05 20:50:53] mach6, quitting. (Read error: Connection reset by peer)
