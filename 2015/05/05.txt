@@ -66,3 +66,9 @@
 [2015-05-05 15:21:40] smikloso, joining. (#selendroid)
 [2015-05-05 15:38:05] AutomatedTester: :note lukeis found the source of my selendroid issue and things are working properly now
 [2015-05-05 15:58:38] smccarthy, joining. (#selendroid)
+[2015-05-05 16:09:37] selendroid-git, joining. (#selendroid)
+[2015-05-05 16:09:37] selendroid-git: [selendroid] lukeis pushed 6 new commits to master: http://git.io/vJMUr
+[2015-05-05 16:09:37] selendroid-git: selendroid/master b21b8e1 danielrobertson: CallLogUtil unit tests
+[2015-05-05 16:09:37] selendroid-git: selendroid/master 8fceb8e danielrobertson: HttpClientUtil unit tests
+[2015-05-05 16:09:37] selendroid-git: selendroid/master 478a6be danielrobertson: formatting
+[2015-05-05 16:09:38] selendroid-git, leaving. (#selendroid)
