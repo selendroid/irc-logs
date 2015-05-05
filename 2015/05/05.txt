@@ -72,3 +72,8 @@
 [2015-05-05 16:09:37] selendroid-git: selendroid/master 8fceb8e danielrobertson: HttpClientUtil unit tests
 [2015-05-05 16:09:37] selendroid-git: selendroid/master 478a6be danielrobertson: formatting
 [2015-05-05 16:09:38] selendroid-git, leaving. (#selendroid)
+[2015-05-05 16:27:13] travis-ci, joining. (#selendroid)
+[2015-05-05 16:27:14] travis-ci: selendroid/selendroid#683 (master - 23df782 : Luke Inman-Semerau): The build passed.
+[2015-05-05 16:27:15] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/d70559151de9...23df7829e253
+[2015-05-05 16:27:15] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/61310660
+[2015-05-05 16:27:15] travis-ci, leaving. (#selendroid)
