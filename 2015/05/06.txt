@@ -42,3 +42,6 @@
 [2015-05-06 17:12:20] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/cf4a453f7960...fe3d5c93e207
 [2015-05-06 17:12:20] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/61477556
 [2015-05-06 17:12:20] travis-ci, leaving. (#selendroid)
+[2015-05-06 19:38:58] selendroid-git, joining. (#selendroid)
+[2015-05-06 19:38:58] selendroid-git: [selendroid] chooper9 opened pull request #868: Multitouch (master...multitouch) http://git.io/vJdNR
+[2015-05-06 19:38:58] selendroid-git, leaving. (#selendroid)
