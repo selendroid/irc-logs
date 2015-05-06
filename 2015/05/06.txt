@@ -36,3 +36,4 @@
 [2015-05-06 16:54:14] selendroid-git: selendroid/master 6ab8028 chooper9: Reimplemented safeHandle with ActionChain class
 [2015-05-06 16:54:14] selendroid-git, leaving. (#selendroid)
 [2015-05-06 17:00:28] smikloso, leaving. (#selendroid)
+[2015-05-06 17:09:18] lukeis, joining. (#selendroid)
