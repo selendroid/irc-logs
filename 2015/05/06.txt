@@ -45,3 +45,4 @@
 [2015-05-06 19:38:58] selendroid-git, joining. (#selendroid)
 [2015-05-06 19:38:58] selendroid-git: [selendroid] chooper9 opened pull request #868: Multitouch (master...multitouch) http://git.io/vJdNR
 [2015-05-06 19:38:58] selendroid-git, leaving. (#selendroid)
+[2015-05-06 19:49:41] aluedeke, joining. (#selendroid)
