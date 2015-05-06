@@ -37,3 +37,8 @@
 [2015-05-06 16:54:14] selendroid-git, leaving. (#selendroid)
 [2015-05-06 17:00:28] smikloso, leaving. (#selendroid)
 [2015-05-06 17:09:18] lukeis, joining. (#selendroid)
+[2015-05-06 17:12:19] travis-ci, joining. (#selendroid)
+[2015-05-06 17:12:20] travis-ci: selendroid/selendroid#689 (master - fe3d5c9 : Luke Inman-Semerau): The build passed.
+[2015-05-06 17:12:20] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/cf4a453f7960...fe3d5c93e207
+[2015-05-06 17:12:20] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/61477556
+[2015-05-06 17:12:20] travis-ci, leaving. (#selendroid)
