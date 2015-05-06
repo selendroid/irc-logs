@@ -48,3 +48,4 @@
 [2015-05-06 19:49:41] aluedeke, joining. (#selendroid)
 [2015-05-06 20:49:25] mach6, joining. (#selendroid)
 [2015-05-06 21:41:45] AutomatedTester: lukeis: I will try do a PR for docs about my issue
+[2015-05-06 21:45:07] lukeis: that would be mighty kind of you :)
