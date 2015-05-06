@@ -10,3 +10,5 @@
 [2015-05-06 04:48:16] selendroid-git, leaving. (#selendroid)
 [2015-05-06 05:49:53] smccarthy, quitting. (Quit: Leaving...)
 [2015-05-06 07:32:19] mach6, joining. (#selendroid)
+[2015-05-06 07:38:45] mach6_, joining. (#selendroid)
+[2015-05-06 07:38:50] mach6, quitting. (Ping timeout: 256 seconds)
