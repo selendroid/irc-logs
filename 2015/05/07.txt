@@ -1,1 +1,4 @@
 [2015-05-07 00:11:48] lukeis, joining. (#selendroid)
+[2015-05-07 01:08:44] AutomatedTester: lukeis: got a lovely selendrroid test running \o/
+[2015-05-07 01:09:08] lukeis: yay :)
+[2015-05-07 01:09:33] lukeis: do you have a hybrid or native android app to run against too?
