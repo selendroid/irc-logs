@@ -49,3 +49,5 @@
 [2015-05-06 20:49:25] mach6, joining. (#selendroid)
 [2015-05-06 21:41:45] AutomatedTester: lukeis: I will try do a PR for docs about my issue
 [2015-05-06 21:45:07] lukeis: that would be mighty kind of you :)
+[2015-05-06 22:10:59] aluedeke, quitting. (Ping timeout: 250 seconds)
+[2015-05-06 22:13:04] aluedeke, joining. (#selendroid)
