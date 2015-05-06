@@ -5,3 +5,6 @@
 [2015-05-06 01:32:49] selendroid-git: [selendroid] Mdelvalle opened pull request #867: Wake screen before running tests (master...master) http://git.io/vJ9l1
 [2015-05-06 01:32:49] selendroid-git, leaving. (#selendroid)
 [2015-05-06 03:05:48] mach6_, quitting. (Remote host closed the connection)
+[2015-05-06 04:48:16] selendroid-git, joining. (#selendroid)
+[2015-05-06 04:48:16] selendroid-git: [selendroid] Mdelvalle closed pull request #867: Wake screen before running tests (master...master) http://git.io/vJ9l1
+[2015-05-06 04:48:16] selendroid-git, leaving. (#selendroid)
