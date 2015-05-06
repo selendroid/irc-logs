@@ -2,3 +2,9 @@
 [2015-05-07 01:08:44] AutomatedTester: lukeis: got a lovely selendrroid test running \o/
 [2015-05-07 01:09:08] lukeis: yay :)
 [2015-05-07 01:09:33] lukeis: do you have a hybrid or native android app to run against too?
+[2015-05-07 01:10:47] AutomatedTester: I am using your testing app :)
+[2015-05-07 01:11:39] lukeis: good enough ;)
+[2015-05-07 01:11:54] lukeis: you can also download and run against many apps in the play store :)
+[2015-05-07 01:12:10] AutomatedTester: I wanted an app that was simple enough and OSS for people to look at
+[2015-05-07 01:12:37] lukeis: don't pick things like games or Facebook (if you pick things at random to try ;) )
+[2015-05-07 01:12:51] AutomatedTester: once I am proficient I wanna try do Fennec
