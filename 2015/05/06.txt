@@ -28,3 +28,4 @@
 [2015-05-06 14:13:53] selendroid-git: [selendroid] Mdelvalle reopened pull request #867: Wake screen before running tests (master...master) http://git.io/vJ9l1
 [2015-05-06 14:13:53] selendroid-git, leaving. (#selendroid)
 [2015-05-06 16:03:25] smccarthy, joining. (#selendroid)
+[2015-05-06 16:09:37] jack090, quitting. (Ping timeout: 246 seconds)
