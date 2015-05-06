@@ -51,3 +51,8 @@
 [2015-05-06 21:45:07] lukeis: that would be mighty kind of you :)
 [2015-05-06 22:10:59] aluedeke, quitting. (Ping timeout: 250 seconds)
 [2015-05-06 22:13:04] aluedeke, joining. (#selendroid)
+[2015-05-06 22:22:42] mach6, quitting. (Remote host closed the connection)
+[2015-05-06 22:22:47] selendroid-git, joining. (#selendroid)
+[2015-05-06 22:22:47] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vJbZ3
+[2015-05-06 22:22:47] selendroid-git: selendroid/master dafb5a1 Dominik Dary: Update changelog.md
+[2015-05-06 22:22:47] selendroid-git, leaving. (#selendroid)
