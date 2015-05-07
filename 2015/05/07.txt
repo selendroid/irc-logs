@@ -24,3 +24,4 @@
 [2015-05-07 17:39:49] lukeis, quitting. (Ping timeout: 252 seconds)
 [2015-05-07 17:46:22] lukeis1, changing nick to lukeis.
 [2015-05-07 20:01:08] mach6, joining. (#selendroid)
+[2015-05-07 21:04:56] AutomatedTester: ok, since Java isnt my forte, what dependency is missing from my build path if I get org.json.JSONObject can not be found?
