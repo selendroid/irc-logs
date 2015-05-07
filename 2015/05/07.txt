@@ -9,3 +9,4 @@
 [2015-05-07 01:12:37] lukeis: don't pick things like games or Facebook (if you pick things at random to try ;) )
 [2015-05-07 01:12:51] AutomatedTester: once I am proficient I wanna try do Fennec
 [2015-05-07 01:36:02] mach6, quitting. (Remote host closed the connection)
+[2015-05-07 06:23:14] smccarthy, quitting. (Quit: Leaving...)
