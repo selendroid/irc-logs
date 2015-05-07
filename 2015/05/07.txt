@@ -18,3 +18,4 @@
 [2015-05-07 11:12:23] aluedeke, quitting. (Client Quit)
 [2015-05-07 14:08:05] aluedeke, joining. (#selendroid)
 [2015-05-07 14:08:15] aluedeke, quitting. (Client Quit)
+[2015-05-07 16:58:59] smccarthy, joining. (#selendroid)
