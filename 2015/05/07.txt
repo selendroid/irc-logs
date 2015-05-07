@@ -29,3 +29,4 @@
 [2015-05-07 21:09:35] lukeis: json :)
 [2015-05-07 21:09:45] lukeis: why don't you just use maven? :)
 [2015-05-07 21:09:59] lukeis: handles all the classpath stuff for you
+[2015-05-07 21:10:14] lukeis: (even in eclipse… with the m2eclipse plugin)
