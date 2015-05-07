@@ -11,3 +11,4 @@
 [2015-05-07 01:36:02] mach6, quitting. (Remote host closed the connection)
 [2015-05-07 06:23:14] smccarthy, quitting. (Quit: Leaving...)
 [2015-05-07 06:28:35] aluedeke, quitting. (Quit: Leaving.)
+[2015-05-07 06:54:57] lukeis, quitting. (Ping timeout: 240 seconds)
