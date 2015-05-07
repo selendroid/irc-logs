@@ -32,3 +32,4 @@
 [2015-05-07 21:10:14] lukeis: (even in eclipse… with the m2eclipse plugin)
 [2015-05-07 21:35:59] AutomatedTester: lukeis: because I want to zip up the project for people to download and away they go
 [2015-05-07 21:36:14] lukeis: you can do that with maven too ;)
+[2015-05-07 22:11:44] mach6, quitting. (Remote host closed the connection)
