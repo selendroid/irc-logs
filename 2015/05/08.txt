@@ -4,3 +4,7 @@
 [2015-05-08 01:28:06] jcun, joining. (#selendroid)
 [2015-05-08 01:28:09] jcun: hello
 [2015-05-08 01:28:26] jcun: anybody there?
+[2015-05-08 01:36:19] lukeis1, joining. (#selendroid)
+[2015-05-08 01:36:43] lukeis1, quitting. (Client Quit)
+[2015-05-08 01:37:52] jcun: hello
+[2015-05-08 01:38:00] jcun: lukeis
