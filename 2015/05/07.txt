@@ -25,3 +25,7 @@
 [2015-05-07 17:46:22] lukeis1, changing nick to lukeis.
 [2015-05-07 20:01:08] mach6, joining. (#selendroid)
 [2015-05-07 21:04:56] AutomatedTester: ok, since Java isnt my forte, what dependency is missing from my build path if I get org.json.JSONObject can not be found?
+[2015-05-07 21:06:36] AutomatedTester: it's a problem I only have in eclipse
+[2015-05-07 21:09:35] lukeis: json :)
+[2015-05-07 21:09:45] lukeis: why don't you just use maven? :)
+[2015-05-07 21:09:59] lukeis: handles all the classpath stuff for you
