@@ -17,3 +17,4 @@
 [2015-05-08 08:13:53] selendroid-git, joining. (#selendroid)
 [2015-05-08 08:13:53] selendroid-git: [selendroid] roseknight opened pull request #870: Change the getCenterCoordinates method to accept float number strings… (master...master) http://git.io/vUJKz
 [2015-05-08 08:13:53] selendroid-git, leaving. (#selendroid)
+[2015-05-08 09:13:58] aluedeke, joining. (#selendroid)
