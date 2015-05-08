@@ -36,3 +36,8 @@
 [2015-05-08 21:46:40] jcun: hi luke
 [2015-05-08 21:46:44] jcun: u still there?
 [2015-05-08 22:19:24] lukeis: jcun: somewhat for a little bit
+[2015-05-08 22:23:40] selendroid-git, joining. (#selendroid)
+[2015-05-08 22:23:40] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vUtct
+[2015-05-08 22:23:40] selendroid-git: selendroid/master 85c479c roseknight: Change the getCenterCoordinates method to accept float number strings for element size. This case may happen to devices like Nexus 5/9
+[2015-05-08 22:23:40] selendroid-git: selendroid/master 1e03d9f Luke Inman-Semerau: Merge pull request #870 from roseknight/master...
+[2015-05-08 22:23:40] selendroid-git, leaving. (#selendroid)
