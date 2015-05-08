@@ -12,3 +12,4 @@
 [2015-05-08 01:45:43] jcun: anyone here?
 [2015-05-08 01:45:44] jcun: wow
 [2015-05-08 02:25:25] smccarthy, quitting. (Quit: Leaving...)
+[2015-05-08 06:16:17] smccarthy, joining. (#selendroid)
