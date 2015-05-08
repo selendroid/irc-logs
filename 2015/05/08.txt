@@ -44,3 +44,7 @@
 [2015-05-08 22:27:56] jcun: oh hi luke
 [2015-05-08 22:28:04] jcun: sorry just noticed your im
 [2015-05-08 22:28:15] jcun: we are trying to get selendroid going
+[2015-05-08 22:32:09] lukeis: who's 'we'? :)
+[2015-05-08 22:33:03] lukeis: i need to head out for the day… i'll be back online on monday :)
+[2015-05-08 22:34:06] lukeis, quitting. (Quit: Leaving.)
+[2015-05-08 22:34:37] jcun: and from selenium ha1
