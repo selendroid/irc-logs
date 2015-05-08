@@ -26,3 +26,4 @@
 [2015-05-08 11:30:18] aluedeke, joining. (#selendroid)
 [2015-05-08 11:33:58] jcun, quitting. (Ping timeout: 246 seconds)
 [2015-05-08 14:23:34] Mafisto, quitting. ()
+[2015-05-08 15:30:46] aluedeke, quitting. (Quit: Leaving.)
