@@ -28,3 +28,6 @@
 [2015-05-08 14:23:34] Mafisto, quitting. ()
 [2015-05-08 15:30:46] aluedeke, quitting. (Quit: Leaving.)
 [2015-05-08 16:30:41] smccarthy, joining. (#selendroid)
+[2015-05-08 17:19:28] jcun, joining. (#selendroid)
+[2015-05-08 17:19:40] jcun: good morning and greetings from san diego
+[2015-05-08 17:19:43] jcun: anyone online?
