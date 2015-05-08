@@ -31,3 +31,5 @@
 [2015-05-08 17:19:28] jcun, joining. (#selendroid)
 [2015-05-08 17:19:40] jcun: good morning and greetings from san diego
 [2015-05-08 17:19:43] jcun: anyone online?
+[2015-05-08 18:06:18] jcun: il have a selendroid question
+[2015-05-08 18:07:24] lukeis, joining. (#selendroid)
