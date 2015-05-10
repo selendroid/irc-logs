@@ -3,3 +3,5 @@
 [2015-05-10 16:43:06] DollMaker, quitting. (Quit: Leaving)
 [2015-05-10 17:17:01] smccarthy, joining. (#selendroid)
 [2015-05-10 20:33:38] aluedeke, joining. (#selendroid)
+[2015-05-10 21:13:45] smccarthy, quitting. (Quit: Leaving...)
+[2015-05-10 21:13:52] aluedeke, quitting. (Quit: Leaving.)
