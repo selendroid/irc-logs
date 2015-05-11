@@ -1,0 +1,5 @@
+[2015-05-12 01:00:56] travis-ci, joining. (#selendroid)
+[2015-05-12 01:00:56] travis-ci: selendroid/selendroid#696 (master - 059204d : Luke Inman-Semerau): The build was fixed.
+[2015-05-12 01:00:56] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/1e03d9f183bc...059204d52adb
+[2015-05-12 01:00:56] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/62145601
+[2015-05-12 01:00:56] travis-ci, leaving. (#selendroid)
