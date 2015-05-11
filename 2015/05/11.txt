@@ -37,3 +37,4 @@
 [2015-05-11 19:22:46] aluedeke, joining. (#selendroid)
 [2015-05-11 19:59:49] mach6, joining. (#selendroid)
 [2015-05-11 19:59:54] aluedeke, quitting. (Quit: Leaving.)
+[2015-05-11 20:24:31] selendroidbot_, joining. (#selendroid)
