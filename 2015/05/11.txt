@@ -43,3 +43,4 @@
 [2015-05-11 20:27:17] mach6_, joining. (#selendroid)
 [2015-05-11 20:27:43] mach6_, quitting. (Client Quit)
 [2015-05-11 20:28:02] mach6, joining. (#selendroid)
+[2015-05-11 22:03:02] lukeis, quitting. (Ping timeout: 252 seconds)
