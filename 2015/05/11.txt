@@ -33,3 +33,4 @@
 [2015-05-11 18:14:30] MonkeysPaw, joining. (#selendroid)
 [2015-05-11 18:27:19] MonkeysPaw, quitting. (Ping timeout: 256 seconds)
 [2015-05-11 18:50:21] MonkeysPaw, joining. (#selendroid)
+[2015-05-11 19:17:51] MonkeysPaw, quitting. ()
