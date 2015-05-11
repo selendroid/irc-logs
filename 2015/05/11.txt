@@ -38,3 +38,8 @@
 [2015-05-11 19:59:49] mach6, joining. (#selendroid)
 [2015-05-11 19:59:54] aluedeke, quitting. (Quit: Leaving.)
 [2015-05-11 20:24:31] selendroidbot_, joining. (#selendroid)
+[2015-05-11 20:26:42] selendroidbot, quitting. (Ping timeout: 244 seconds)
+[2015-05-11 20:26:45] mach6, quitting. (Ping timeout: 244 seconds)
+[2015-05-11 20:27:17] mach6_, joining. (#selendroid)
+[2015-05-11 20:27:43] mach6_, quitting. (Client Quit)
+[2015-05-11 20:28:02] mach6, joining. (#selendroid)
