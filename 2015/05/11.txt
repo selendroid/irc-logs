@@ -7,3 +7,4 @@
 [2015-05-11 09:36:26] aluedeke, joining. (#selendroid)
 [2015-05-11 09:50:12] Mafisto, quitting. (Quit: Leaving)
 [2015-05-11 10:02:57] aluedeke, quitting. (Ping timeout: 240 seconds)
+[2015-05-11 10:19:06] aluedeke, joining. (#selendroid)
