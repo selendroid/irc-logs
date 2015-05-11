@@ -12,3 +12,5 @@
 [2015-05-11 10:20:29] aluedeke, quitting. (Client Quit)
 [2015-05-11 11:43:13] aluedeke, joining. (#selendroid)
 [2015-05-11 11:43:25] aluedeke, quitting. (Client Quit)
+[2015-05-11 12:45:35] smikloso, changing nick to smikloso|afk.
+[2015-05-11 12:49:49] smikloso|afk, quitting. (Ping timeout: 245 seconds)
