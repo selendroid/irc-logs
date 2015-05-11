@@ -51,3 +51,4 @@
 [2015-05-11 23:12:38] selendroid-git, joining. (#selendroid)
 [2015-05-11 23:12:38] selendroid-git: [selendroid] lukeis closed pull request #867: Wake screen before running tests (master...master) http://git.io/vJ9l1
 [2015-05-11 23:12:38] selendroid-git, leaving. (#selendroid)
+[2015-05-11 23:35:49] mach6, joining. (#selendroid)
