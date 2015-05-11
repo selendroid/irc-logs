@@ -30,3 +30,4 @@
 [2015-05-11 17:24:43] aluedeke, joining. (#selendroid)
 [2015-05-11 17:49:58] aluedeke, quitting. (Quit: Leaving.)
 [2015-05-11 17:55:39] lukeis, joining. (#selendroid)
+[2015-05-11 18:14:30] MonkeysPaw, joining. (#selendroid)
