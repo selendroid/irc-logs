@@ -5,3 +5,4 @@
 [2015-05-12 01:00:56] travis-ci, leaving. (#selendroid)
 [2015-05-12 01:23:08] lukeis1, joining. (#selendroid)
 [2015-05-12 01:27:19] lukeis, quitting. (Ping timeout: 245 seconds)
+[2015-05-12 01:49:19] lukeis1, quitting. (Ping timeout: 256 seconds)
