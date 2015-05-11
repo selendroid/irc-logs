@@ -4,3 +4,4 @@
 [2015-05-12 01:00:56] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/62145601
 [2015-05-12 01:00:56] travis-ci, leaving. (#selendroid)
 [2015-05-12 01:23:08] lukeis1, joining. (#selendroid)
+[2015-05-12 01:27:19] lukeis, quitting. (Ping timeout: 245 seconds)
