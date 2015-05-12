@@ -37,3 +37,4 @@
 [2015-05-12 22:03:51] MonkeysPaw, joining. (#selendroid)
 [2015-05-12 22:20:52] lukeis1, changing nick to lukeis.
 [2015-05-12 22:30:38] aluedeke, joining. (#selendroid)
+[2015-05-12 22:42:38] aluedeke, quitting. (Quit: Leaving.)
