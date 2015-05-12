@@ -23,3 +23,5 @@
 [2015-05-12 17:21:10] lukeis, quitting. (Read error: Connection reset by peer)
 [2015-05-12 17:21:23] lukeis, joining. (#selendroid)
 [2015-05-12 17:52:01] smikloso, leaving. (#selendroid)
+[2015-05-12 18:30:07] lukeis, quitting. (Quit: Leaving.)
+[2015-05-12 18:30:21] lukeis, joining. (#selendroid)
