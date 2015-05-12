@@ -8,3 +8,4 @@
 [2015-05-12 01:49:19] lukeis1, quitting. (Ping timeout: 256 seconds)
 [2015-05-12 01:54:20] lukeis, joining. (#selendroid)
 [2015-05-12 02:11:36] mach6, quitting. (Quit: Leaving...)
+[2015-05-12 02:54:55] smccarthy, quitting. (Quit: Leaving...)
