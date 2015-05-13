@@ -26,3 +26,11 @@
 [2015-05-13 16:21:15] smikloso1, quitting. (Ping timeout: 258 seconds)
 [2015-05-13 16:38:27] smikloso, joining. (#selendroid)
 [2015-05-13 16:44:43] smikloso, leaving. (#selendroid)
+[2015-05-13 16:55:26] selendroid-git, joining. (#selendroid)
+[2015-05-13 16:55:26] selendroid-git: [selendroid] asm89 opened pull request #873: Use AndroidNativeElementFactory to create native element (master...use-element-factory) http://git.io/vUimH
+[2015-05-13 16:55:27] selendroid-git, leaving. (#selendroid)
+[2015-05-13 16:58:16] selendroid-git, joining. (#selendroid)
+[2015-05-13 16:58:16] selendroid-git: [selendroid] mkonicek pushed 2 new commits to master: http://git.io/vUi3L
+[2015-05-13 16:58:16] selendroid-git: selendroid/master 13a3cf2 Alexander Mols: Use AndroidNativeElementFactory to create native element...
+[2015-05-13 16:58:16] selendroid-git: selendroid/master b3c8907 Martin Konicek: Merge pull request #873 from asm89/use-element-factory...
+[2015-05-13 16:58:16] selendroid-git, leaving. (#selendroid)
