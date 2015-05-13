@@ -43,3 +43,4 @@
 [2015-05-13 18:46:25] selendroid-git, leaving. (#selendroid)
 [2015-05-13 19:14:15] lukeis, quitting. (Quit: Leaving.)
 [2015-05-13 19:14:31] lukeis, joining. (#selendroid)
+[2015-05-13 19:19:57] aluedeke, joining. (#selendroid)
