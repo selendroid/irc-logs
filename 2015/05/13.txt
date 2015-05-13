@@ -35,3 +35,9 @@
 [2015-05-13 16:58:16] selendroid-git: selendroid/master b3c8907 Martin Konicek: Merge pull request #873 from asm89/use-element-factory...
 [2015-05-13 16:58:16] selendroid-git, leaving. (#selendroid)
 [2015-05-13 17:25:31] lukeis, joining. (#selendroid)
+[2015-05-13 18:46:24] selendroid-git, joining. (#selendroid)
+[2015-05-13 18:46:25] selendroid-git: selendroid/master d59526d chooper9: Implemented initial multitouch features
+[2015-05-13 18:46:25] selendroid-git: [selendroid] lukeis pushed 3 new commits to master: http://git.io/vUPth
+[2015-05-13 18:46:25] selendroid-git: selendroid/master 8c05757 Luke Inman-Semerau: Merge pull request #868 from CS378-OSSE/multitouch...
+[2015-05-13 18:46:25] selendroid-git: selendroid/master 1f5aaed colindmurray: new up, down, move methods for multitouch support.  Added comments.
+[2015-05-13 18:46:25] selendroid-git, leaving. (#selendroid)
