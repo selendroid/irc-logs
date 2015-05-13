@@ -41,3 +41,5 @@
 [2015-05-13 18:46:25] selendroid-git: selendroid/master 8c05757 Luke Inman-Semerau: Merge pull request #868 from CS378-OSSE/multitouch...
 [2015-05-13 18:46:25] selendroid-git: selendroid/master 1f5aaed colindmurray: new up, down, move methods for multitouch support.  Added comments.
 [2015-05-13 18:46:25] selendroid-git, leaving. (#selendroid)
+[2015-05-13 19:14:15] lukeis, quitting. (Quit: Leaving.)
+[2015-05-13 19:14:31] lukeis, joining. (#selendroid)
