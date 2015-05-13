@@ -48,3 +48,7 @@
 [2015-05-13 20:09:22] aluedeke, joining. (#selendroid)
 [2015-05-13 20:21:10] aluedeke, quitting. (Quit: Leaving.)
 [2015-05-13 23:04:11] AutomatedTester_, joining. (#selendroid)
+[2015-05-13 23:09:40] AutomatedTester, quitting. (Ping timeout: 250 seconds)
+[2015-05-13 23:09:47] AutomatedTester_, changing nick to AutomatedTester.
+[2015-05-13 23:09:47] AutomatedTester, quitting. (Changing host)
+[2015-05-13 23:09:47] AutomatedTester, joining. (#selendroid)
