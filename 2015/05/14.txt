@@ -9,3 +9,4 @@
 [2015-05-14 07:26:33] smccarthy, quitting. (Quit: Leaving...)
 [2015-05-14 08:29:07] lukeis, quitting. (Quit: Leaving.)
 [2015-05-14 10:43:16] smikloso, joining. (#selendroid)
+[2015-05-14 15:19:48] smikloso, quitting. (Ping timeout: 276 seconds)
