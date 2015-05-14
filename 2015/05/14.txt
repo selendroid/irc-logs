@@ -6,3 +6,4 @@
 [2015-05-14 03:51:54] mach6, quitting. (Ping timeout: 272 seconds)
 [2015-05-14 07:12:43] lukeis, quitting. (Read error: Connection reset by peer)
 [2015-05-14 07:12:55] lukeis, joining. (#selendroid)
+[2015-05-14 07:26:33] smccarthy, quitting. (Quit: Leaving...)
