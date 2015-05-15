@@ -6,3 +6,4 @@
 [2015-05-15 05:36:11] Forrest: along with a depandancy error when building
 [2015-05-15 05:37:07] Forrest: any ideas?
 [2015-05-15 05:43:19] Forrest, quitting. (Quit: Lost terminal)
+[2015-05-15 09:43:57] smikloso, joining. (#selendroid)
