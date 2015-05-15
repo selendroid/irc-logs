@@ -1,0 +1,3 @@
+[2015-05-15 05:32:57] Forrest, joining. (#selendroid)
+[2015-05-15 05:33:32] Forrest: hello, im having trouble using selendroid through maven
+[2015-05-15 05:34:09] Forrest: ive added io.selendroid:selendroid-standalone:0.15.0
