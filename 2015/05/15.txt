@@ -1,3 +1,7 @@
 [2015-05-15 05:32:57] Forrest, joining. (#selendroid)
 [2015-05-15 05:33:32] Forrest: hello, im having trouble using selendroid through maven
 [2015-05-15 05:34:09] Forrest: ive added io.selendroid:selendroid-standalone:0.15.0
+[2015-05-15 05:35:15] smccarthy, quitting. (Quit: Leaving...)
+[2015-05-15 05:35:19] Forrest: but i get two * on project app resolves to an apk archinve which is not supported as a compilation dependancy
+[2015-05-15 05:36:11] Forrest: along with a depandancy error when building
+[2015-05-15 05:37:07] Forrest: any ideas?
