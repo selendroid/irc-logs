@@ -2,3 +2,5 @@
 [2015-05-16 00:01:15] mach6, quitting. (Ping timeout: 256 seconds)
 [2015-05-16 00:35:20] mach6_, quitting. (Ping timeout: 246 seconds)
 [2015-05-16 01:04:24] lukeis, quitting. (Quit: Leaving.)
+[2015-05-16 02:52:18] smccarthy, quitting. (Remote host closed the connection)
+[2015-05-16 02:53:40] smccarthy, joining. (#selendroid)
