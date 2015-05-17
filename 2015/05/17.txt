@@ -3,3 +3,4 @@
 [2015-05-17 10:44:12] aluedeke, joining. (#selendroid)
 [2015-05-17 16:09:00] smccarthy, joining. (#selendroid)
 [2015-05-17 18:09:57] smccarthy, quitting. (Remote host closed the connection)
+[2015-05-17 19:23:15] smccarthy, joining. (#selendroid)
