@@ -4,3 +4,4 @@
 [2015-05-18 08:08:31] aluedeke, joining. (#selendroid)
 [2015-05-18 09:16:09] aluedeke, quitting. (Read error: Connection reset by peer)
 [2015-05-18 09:16:52] aluedeke, joining. (#selendroid)
+[2015-05-18 09:33:16] aluedeke, quitting. (Read error: Connection reset by peer)
