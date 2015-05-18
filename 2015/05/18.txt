@@ -19,3 +19,4 @@
 [2015-05-18 18:05:33] smikloso, joining. (#selendroid)
 [2015-05-18 18:10:19] smikloso, leaving. (#selendroid)
 [2015-05-18 19:58:51] aluedeke, joining. (#selendroid)
+[2015-05-18 22:00:16] raul782, quitting. (Remote host closed the connection)
