@@ -7,3 +7,4 @@
 [2015-05-18 09:33:16] aluedeke, quitting. (Read error: Connection reset by peer)
 [2015-05-18 10:21:07] aluedeke, joining. (#selendroid)
 [2015-05-18 10:24:05] smikloso, joining. (#selendroid)
+[2015-05-18 15:34:06] smccarthy, joining. (#selendroid)
