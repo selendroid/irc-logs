@@ -24,3 +24,4 @@
 [2015-05-19 14:19:36] razielsd: curl -d "{'desiredCapabilities':{'aut':'com.myapp.android:3.5 (Build 459)', 'model': 'Nexus One'}}" -X POST http://localhost:4445/wd/hub/session
 [2015-05-19 14:19:45] razielsd: found in selendroid logs empty parameter main_activity:
 [2015-05-19 14:19:53] razielsd: INFO: Executing shell command: /Users/razielsd/Library/Android/sdk/platform-tools/adb -s emulator-5560 shell am instrument -e main_activity -e server_port 8080 io.selendroid.com.myapp.android/io.selendroid.server.ServerInstrumentation
+[2015-05-19 14:20:05] razielsd: test app from http://selendroid.io/setup.html start success. What require fix in our application ? Our application can install using adb
