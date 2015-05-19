@@ -14,3 +14,13 @@
 [2015-05-19 13:59:22] aluedeke, quitting. (Ping timeout: 258 seconds)
 [2015-05-19 14:10:22] razielsd, joining. (#selendroid)
 [2015-05-19 14:14:36] aluedeke, joining. (#selendroid)
+[2015-05-19 14:16:58] razielsd: hi all help me plz run selendroid: java -jar ../selendroid-standalone-0.15.0-with-dependencies.jar -app myapp.apk   -port 4445 -verbose -selendroidServerPort 8080  create session: curl -d "{'desiredCapabilities':{'aut':'com.myapp.android:3.5 (Build 459)', 'model': 'Nexus One'}}" -X POST http://localhost:4445/wd/hub/session  : found in selendroid logs empty parameter main_activity: INFO: Executing shell command: /Users/razielsd/
+[2015-05-19 14:18:52] razielsd: oops, lose formating :(
+[2015-05-19 14:18:57] razielsd: hi all
+[2015-05-19 14:19:01] razielsd: help me plz
+[2015-05-19 14:19:10] razielsd: run selendroid:
+[2015-05-19 14:19:19] razielsd: java -jar ../selendroid-standalone-0.15.0-with-dependencies.jar -app myapp.apk   -port 4445 -verbose -selendroidServerPort 8080
+[2015-05-19 14:19:25] razielsd: create session:
+[2015-05-19 14:19:36] razielsd: curl -d "{'desiredCapabilities':{'aut':'com.myapp.android:3.5 (Build 459)', 'model': 'Nexus One'}}" -X POST http://localhost:4445/wd/hub/session
+[2015-05-19 14:19:45] razielsd: found in selendroid logs empty parameter main_activity:
+[2015-05-19 14:19:53] razielsd: INFO: Executing shell command: /Users/razielsd/Library/Android/sdk/platform-tools/adb -s emulator-5560 shell am instrument -e main_activity -e server_port 8080 io.selendroid.com.myapp.android/io.selendroid.server.ServerInstrumentation
