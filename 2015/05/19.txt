@@ -37,3 +37,5 @@
 [2015-05-19 20:45:43] aluedeke, quitting. (Quit: Leaving.)
 [2015-05-19 22:20:27] mach6, quitting. (Remote host closed the connection)
 [2015-05-19 22:50:42] mach6, joining. (#selendroid)
+[2015-05-19 23:39:22] mach6_, joining. (#selendroid)
+[2015-05-19 23:39:22] mach6, quitting. (Read error: Connection reset by peer)
