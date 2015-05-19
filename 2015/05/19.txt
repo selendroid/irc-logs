@@ -28,3 +28,4 @@
 [2015-05-19 14:58:32] smikloso, leaving. (#selendroid)
 [2015-05-19 15:05:59] razielsd: It seems that the problem may be because of using aliases in Android Manifest file. Our main activity is not an <activity> attribute, but an <activity-alias>. Previous configuration without <activity-alias> as main activity seems to work correctly.
 [2015-05-19 15:22:21] razielsd: problem solved, https://github.com/selendroid/selendroid/issues/434
+[2015-05-19 16:19:14] razielsd, quitting. (Quit: Page closed)
