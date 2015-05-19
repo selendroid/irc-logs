@@ -26,3 +26,4 @@
 [2015-05-19 14:19:53] razielsd: INFO: Executing shell command: /Users/razielsd/Library/Android/sdk/platform-tools/adb -s emulator-5560 shell am instrument -e main_activity -e server_port 8080 io.selendroid.com.myapp.android/io.selendroid.server.ServerInstrumentation
 [2015-05-19 14:20:05] razielsd: test app from http://selendroid.io/setup.html start success. What require fix in our application ? Our application can install using adb
 [2015-05-19 14:58:32] smikloso, leaving. (#selendroid)
+[2015-05-19 15:05:59] razielsd: It seems that the problem may be because of using aliases in Android Manifest file. Our main activity is not an <activity> attribute, but an <activity-alias>. Previous configuration without <activity-alias> as main activity seems to work correctly.
