@@ -3,3 +3,4 @@
 [2015-05-19 01:09:20] lukeis, quitting. (Ping timeout: 246 seconds)
 [2015-05-19 03:49:25] mach6, quitting. (Remote host closed the connection)
 [2015-05-19 07:38:37] smccarthy, quitting. (Quit: Leaving...)
+[2015-05-19 08:30:19] aluedeke, joining. (#selendroid)
