@@ -30,3 +30,4 @@
 [2015-05-19 15:22:21] razielsd: problem solved, https://github.com/selendroid/selendroid/issues/434
 [2015-05-19 16:19:14] razielsd, quitting. (Quit: Page closed)
 [2015-05-19 16:34:40] smikloso, joining. (#selendroid)
+[2015-05-19 16:57:57] smccarthy, joining. (#selendroid)
