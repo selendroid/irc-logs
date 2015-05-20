@@ -1,3 +1,5 @@
 [2015-05-20 01:02:11] lukeis, quitting. (Quit: Leaving.)
 [2015-05-20 02:37:15] smccarthy, quitting. (Quit: Leaving...)
 [2015-05-20 03:08:56] mach6_, quitting. (Remote host closed the connection)
+[2015-05-20 08:02:44] mach6, joining. (#selendroid)
+[2015-05-20 08:02:44] aluedeke, joining. (#selendroid)
