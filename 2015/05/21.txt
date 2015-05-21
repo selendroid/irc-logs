@@ -4,3 +4,5 @@
 [2015-05-21 11:05:15] selendroid-git, joining. (#selendroid)
 [2015-05-21 11:05:15] selendroid-git: [selendroid] varyvol opened pull request #877: When emulator killed, remove lock files to avoid infinite loop (master...killEmulatorFix) https://github.com/selendroid/selendroid/pull/877
 [2015-05-21 11:05:15] selendroid-git, leaving. (#selendroid)
+[2015-05-21 14:22:16] smikloso1, joining. (#selendroid)
+[2015-05-21 14:23:58] smikloso, quitting. (Ping timeout: 272 seconds)
