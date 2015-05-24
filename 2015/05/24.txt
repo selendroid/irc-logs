@@ -5,3 +5,5 @@
 [2015-05-24 08:02:10] smccarthy, quitting. (Quit: Leaving...)
 [2015-05-24 18:23:33] lukeis, joining. (#selendroid)
 [2015-05-24 18:23:42] lukeis, quitting. (Client Quit)
+[2015-05-24 19:59:03] aluedeke, joining. (#selendroid)
+[2015-05-24 19:59:06] aluedeke, quitting. (Client Quit)
