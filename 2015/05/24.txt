@@ -3,3 +3,5 @@
 [2015-05-24 04:41:29] smccarthy, quitting. (Remote host closed the connection)
 [2015-05-24 06:36:52] smccarthy, joining. (#selendroid)
 [2015-05-24 08:02:10] smccarthy, quitting. (Quit: Leaving...)
+[2015-05-24 18:23:33] lukeis, joining. (#selendroid)
+[2015-05-24 18:23:42] lukeis, quitting. (Client Quit)
