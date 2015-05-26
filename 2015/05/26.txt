@@ -5,3 +5,4 @@
 [2015-05-26 15:19:12] aluedeke1, quitting. (Ping timeout: 264 seconds)
 [2015-05-26 15:45:12] lukeis, joining. (#selendroid)
 [2015-05-26 16:19:31] smccarthy, joining. (#selendroid)
+[2015-05-26 17:03:21] smikloso, quitting. (Quit: Leaving.)
