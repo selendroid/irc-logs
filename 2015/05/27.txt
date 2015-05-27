@@ -4,3 +4,4 @@
 [2015-05-27 03:51:41] smccarthy, quitting. (Quit: Leaving...)
 [2015-05-27 06:11:49] raul782, joining. (#selendroid)
 [2015-05-27 06:52:00] raul782, quitting. (Read error: Connection reset by peer)
+[2015-05-27 12:49:32] smikloso, joining. (#selendroid)
