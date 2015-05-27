@@ -16,3 +16,4 @@
 [2015-05-27 19:01:13] Lax_, quitting. (Client Quit)
 [2015-05-27 19:04:53] mach6, joining. (#selendroid)
 [2015-05-27 19:54:57] Lax_, joining. (#selendroid)
+[2015-05-27 21:35:27] mach6, quitting. (Ping timeout: 258 seconds)
