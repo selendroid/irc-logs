@@ -6,3 +6,4 @@
 [2015-05-27 06:52:00] raul782, quitting. (Read error: Connection reset by peer)
 [2015-05-27 12:49:32] smikloso, joining. (#selendroid)
 [2015-05-27 13:06:30] smikloso, quitting. (Ping timeout: 265 seconds)
+[2015-05-27 13:25:53] smikloso, joining. (#selendroid)
