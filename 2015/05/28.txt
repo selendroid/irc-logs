@@ -1,3 +1,4 @@
 [2015-05-28 00:22:08] Lax_, quitting. (Quit: Leaving)
 [2015-05-28 01:00:29] lukeis, quitting. (Quit: Leaving.)
 [2015-05-28 07:32:01] smccarthy, quitting. (Quit: Leaving...)
+[2015-05-28 10:25:25] smikloso, joining. (#selendroid)
