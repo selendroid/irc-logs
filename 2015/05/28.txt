@@ -6,3 +6,4 @@
 [2015-05-28 17:13:13] MonkeysPaw, joining. (#selendroid)
 [2015-05-28 17:34:01] smccarthy, joining. (#selendroid)
 [2015-05-28 17:50:28] lukeis, joining. (#selendroid)
+[2015-05-28 21:13:48] MonkeysPaw, quitting. (Ping timeout: 276 seconds)
