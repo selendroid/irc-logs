@@ -7,3 +7,4 @@
 [2015-05-29 15:35:29] smikloso, joining. (#selendroid)
 [2015-05-29 15:35:35] smikloso, leaving. (#selendroid)
 [2015-05-29 16:30:47] smccarthy, joining. (#selendroid)
+[2015-05-29 17:59:54] [b__b], quitting. (Remote host closed the connection)
