@@ -3,3 +3,4 @@
 [2015-05-29 02:51:32] mach6, quitting. (Quit: Leaving...)
 [2015-05-29 07:54:55] smccarthy, quitting. (Quit: Leaving...)
 [2015-05-29 14:29:20] smikloso, joining. (#selendroid)
+[2015-05-29 15:22:40] smikloso, quitting. (Ping timeout: 252 seconds)
