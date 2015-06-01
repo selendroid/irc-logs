@@ -11,3 +11,4 @@
 [2015-06-01 14:05:03] smikloso1, joining. (#selendroid)
 [2015-06-01 14:27:18] smikloso1, quitting. (Quit: Leaving.)
 [2015-06-01 14:27:29] smikloso, joining. (#selendroid)
+[2015-06-01 14:54:35] aluedeke, joining. (#selendroid)
