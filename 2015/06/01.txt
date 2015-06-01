@@ -13,3 +13,4 @@
 [2015-06-01 14:27:29] smikloso, joining. (#selendroid)
 [2015-06-01 14:54:35] aluedeke, joining. (#selendroid)
 [2015-06-01 15:31:38] smikloso, leaving. (#selendroid)
+[2015-06-01 16:52:13] smccarthy, joining. (#selendroid)
