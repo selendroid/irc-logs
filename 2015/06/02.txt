@@ -13,3 +13,5 @@
 [2015-06-02 18:59:33] aluedeke, joining. (#selendroid)
 [2015-06-02 19:01:22] MonkeysPaw, joining. (#selendroid)
 [2015-06-02 21:39:29] MonkeysPaw, quitting. (Ping timeout: 256 seconds)
+[2015-06-02 22:26:28] aluedeke, quitting. (Quit: Leaving.)
+[2015-06-02 22:28:43] MonkeysPaw, joining. (#selendroid)
