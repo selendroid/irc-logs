@@ -38,3 +38,5 @@
 [2015-06-03 19:38:08] aluedeke, joining. (#selendroid)
 [2015-06-03 21:26:35] lukeis, quitting. (Quit: Leaving.)
 [2015-06-03 21:42:24] aluedeke, quitting. (Ping timeout: 252 seconds)
+[2015-06-03 21:45:15] aluedeke, joining. (#selendroid)
+[2015-06-03 21:45:17] aluedeke, quitting. (Client Quit)
