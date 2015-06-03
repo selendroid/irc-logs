@@ -3,3 +3,5 @@
 [2015-06-03 00:58:48] MonkeysPaw, quitting. ()
 [2015-06-03 01:04:20] lukeis, quitting. (Quit: Leaving.)
 [2015-06-03 04:33:43] dudeguy, joining. (#selendroid)
+[2015-06-03 04:42:38] dudeguy: hey all. was hoping someone could help me.  Im using selendroid stand alone 15 with Java and am running into problems using setLaunchActivity on a SelendroidCapabilities object
+[2015-06-03 04:43:38] dudeguy: when not specifying setLaunchActivity things work. However, I am trying to launch a different Activity
