@@ -11,3 +11,4 @@
 [2015-06-03 05:11:14] dudeguy: nevermind.. figured it out.  had to use the entire path to the activity  setLaunchActivity(com.testapp.anotherActivity)
 [2015-06-03 06:38:41] dudeguy: have a good night. keep up the good work
 [2015-06-03 06:38:47] dudeguy, quitting. ()
+[2015-06-03 08:04:53] smccarthy, quitting. (Quit: Leaving...)
