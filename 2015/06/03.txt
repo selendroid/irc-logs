@@ -23,3 +23,8 @@
 [2015-06-03 16:13:05] Lax_, joining. (#selendroid)
 [2015-06-03 16:53:09] smikloso, leaving. (#selendroid)
 [2015-06-03 17:31:33] lukeis, joining. (#selendroid)
+[2015-06-03 17:42:40] selendroid-git, joining. (#selendroid)
+[2015-06-03 17:42:40] selendroid-git: [selendroid] asm89 pushed 2 new commits to master: http://git.io/vkAg2
+[2015-06-03 17:42:41] selendroid-git: selendroid/master 46b5b3f Miguel Sánchez: Added support for Android 22 and removed max value tests...
+[2015-06-03 17:42:41] selendroid-git: selendroid/master f2dccd6 Alexander: Merge pull request #883 from migchez/add_support_for_android_22...
+[2015-06-03 17:42:41] selendroid-git, leaving. (#selendroid)
