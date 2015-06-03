@@ -13,3 +13,5 @@
 [2015-06-03 06:38:47] dudeguy, quitting. ()
 [2015-06-03 08:04:53] smccarthy, quitting. (Quit: Leaving...)
 [2015-06-03 10:28:33] smikloso, joining. (#selendroid)
+[2015-06-03 14:02:58] smikloso1, joining. (#selendroid)
+[2015-06-03 14:04:43] smikloso, quitting. (Ping timeout: 250 seconds)
