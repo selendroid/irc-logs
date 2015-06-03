@@ -36,3 +36,4 @@
 [2015-06-03 18:34:03] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/65266495
 [2015-06-03 18:34:03] travis-ci, leaving. (#selendroid)
 [2015-06-03 19:38:08] aluedeke, joining. (#selendroid)
+[2015-06-03 21:26:35] lukeis, quitting. (Quit: Leaving.)
