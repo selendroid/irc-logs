@@ -30,3 +30,8 @@
 [2015-06-03 17:42:41] selendroid-git, leaving. (#selendroid)
 [2015-06-03 17:45:30] aluedeke, joining. (#selendroid)
 [2015-06-03 18:18:25] aluedeke, quitting. (Quit: Leaving.)
+[2015-06-03 18:34:01] travis-ci, joining. (#selendroid)
+[2015-06-03 18:34:02] travis-ci: selendroid/selendroid#704 (master - f2dccd6 : Alexander): The build passed.
+[2015-06-03 18:34:03] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/8c05757273fe...f2dccd656584
+[2015-06-03 18:34:03] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/65266495
+[2015-06-03 18:34:03] travis-ci, leaving. (#selendroid)
