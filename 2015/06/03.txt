@@ -16,3 +16,6 @@
 [2015-06-03 14:02:58] smikloso1, joining. (#selendroid)
 [2015-06-03 14:04:43] smikloso, quitting. (Ping timeout: 250 seconds)
 [2015-06-03 14:42:57] smikloso1, quitting. (Ping timeout: 276 seconds)
+[2015-06-03 14:54:42] selendroid-git, joining. (#selendroid)
+[2015-06-03 14:54:42] selendroid-git: [selendroid] migchez opened pull request #883: Added support for Android 22 and modified max value test (master...add_support_for_android_22) http://git.io/vkNLP
+[2015-06-03 14:54:42] selendroid-git, leaving. (#selendroid)
