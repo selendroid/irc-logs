@@ -21,3 +21,4 @@
 [2015-06-03 14:54:42] selendroid-git, leaving. (#selendroid)
 [2015-06-03 15:04:28] smikloso, joining. (#selendroid)
 [2015-06-03 16:13:05] Lax_, joining. (#selendroid)
+[2015-06-03 16:53:09] smikloso, leaving. (#selendroid)
