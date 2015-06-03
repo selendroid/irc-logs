@@ -9,3 +9,5 @@
 [2015-06-03 04:46:26] dudeguy: in adb shell I can get this activity to launch with am.   am start -n com.testapp/.anotherActivity
 [2015-06-03 04:47:09] dudeguy: so the activity is definitely in the AndroidManifest and its working with am
 [2015-06-03 05:11:14] dudeguy: nevermind.. figured it out.  had to use the entire path to the activity  setLaunchActivity(com.testapp.anotherActivity)
+[2015-06-03 06:38:41] dudeguy: have a good night. keep up the good work
+[2015-06-03 06:38:47] dudeguy, quitting. ()
