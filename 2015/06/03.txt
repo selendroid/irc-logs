@@ -5,3 +5,6 @@
 [2015-06-03 04:33:43] dudeguy, joining. (#selendroid)
 [2015-06-03 04:42:38] dudeguy: hey all. was hoping someone could help me.  Im using selendroid stand alone 15 with Java and am running into problems using setLaunchActivity on a SelendroidCapabilities object
 [2015-06-03 04:43:38] dudeguy: when not specifying setLaunchActivity things work. However, I am trying to launch a different Activity
+[2015-06-03 04:45:13] dudeguy: I am getting io.selendroid.server.common.exceptions.AppCrashedException: android.content.ActivityNotFoundException: Unable to find explicit activity class {com.testapp/anotherActivity}; have you declared this activity in your AndroidManifest.xml?
+[2015-06-03 04:46:26] dudeguy: in adb shell I can get this activity to launch with am.   am start -n com.testapp/.anotherActivity
+[2015-06-03 04:47:09] dudeguy: so the activity is definitely in the AndroidManifest and its working with am
