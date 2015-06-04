@@ -51,3 +51,4 @@
 [2015-06-04 23:09:53] Thenre, joining. (#selendroid)
 [2015-06-04 23:10:00] Thenre: hello
 [2015-06-04 23:10:36] Thenre: I'm having an issue with resigning not being caused by an environment variable pointing to a JRE and I was wondering if anyone here could help with that
+[2015-06-04 23:19:46] Thenre: kk I'll try back later
