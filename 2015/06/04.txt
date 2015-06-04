@@ -52,3 +52,11 @@
 [2015-06-04 23:10:00] Thenre: hello
 [2015-06-04 23:10:36] Thenre: I'm having an issue with resigning not being caused by an environment variable pointing to a JRE and I was wondering if anyone here could help with that
 [2015-06-04 23:19:46] Thenre: kk I'll try back later
+[2015-06-04 23:20:30] Thenre: if anybody is interested here is the command that failed
+[2015-06-04 23:20:31] Thenre: INFO: Executing shell command: C:\Program Files (x86)\Java\jdk1.7.0_15\bin\jarsi
+[2015-06-04 23:20:32] Thenre: gner.exe -sigalg MD5withRSA -digestalg SHA1 -signedjar C:\program files\webdrive
+[2015-06-04 23:20:32] Thenre: r\selendroid 0.15\resigned-selendroid-test-app-0.15.0.apk -storepass android -ke
+[2015-06-04 23:20:32] Thenre: ystore C:\Users\A100940\.android\debug.keystore C:\program files\webdriver\selen
+[2015-06-04 23:20:32] Thenre: droid 0.15\selendroid-test-app-0.15.0.apk androiddebugkey
+[2015-06-04 23:22:05] Thenre, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2015-06-04 23:24:25] lukeis: :note Thenre set your JAVA_HOME environment variable to where the JDK is
