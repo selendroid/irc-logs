@@ -39,3 +39,4 @@
 [2015-06-04 19:54:01] aluedeke, quitting. (Quit: Leaving.)
 [2015-06-04 20:32:48] [b__b], quitting. (Remote host closed the connection)
 [2015-06-04 20:33:06] [b__b], joining. (#selendroid)
+[2015-06-04 21:03:59] raul782, joining. (#selendroid)
