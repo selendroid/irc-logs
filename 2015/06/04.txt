@@ -35,3 +35,4 @@
 [2015-06-04 19:29:52] aluedeke, quitting. (Read error: Connection reset by peer)
 [2015-06-04 19:32:56] aluedeke1, quitting. (Client Quit)
 [2015-06-04 19:34:47] aluedeke, joining. (#selendroid)
+[2015-06-04 19:37:16] mach6, quitting. (Remote host closed the connection)
