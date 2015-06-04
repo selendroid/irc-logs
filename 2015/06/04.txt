@@ -10,3 +10,6 @@
 [2015-06-04 11:01:46] aluedeke, quitting. (Remote host closed the connection)
 [2015-06-04 11:02:36] aluedeke, joining. (#selendroid)
 [2015-06-04 11:38:37] aluedeke, quitting. (Remote host closed the connection)
+[2015-06-04 11:40:07] aluedeke, joining. (#selendroid)
+[2015-06-04 11:41:57] aluedeke, quitting. (Client Quit)
+[2015-06-04 11:42:39] aluedeke, joining. (#selendroid)
