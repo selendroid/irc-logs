@@ -7,3 +7,4 @@
 [2015-06-05 10:19:42] aluedeke, quitting. (Quit: Leaving.)
 [2015-06-05 10:20:04] aluedeke, joining. (#selendroid)
 [2015-06-05 10:31:29] smikloso, joining. (#selendroid)
+[2015-06-05 10:36:06] smikloso, leaving. (#selendroid)
