@@ -8,3 +8,4 @@
 [2015-06-05 10:20:04] aluedeke, joining. (#selendroid)
 [2015-06-05 10:31:29] smikloso, joining. (#selendroid)
 [2015-06-05 10:36:06] smikloso, leaving. (#selendroid)
+[2015-06-05 12:05:54] smikloso, joining. (#selendroid)
