@@ -4,3 +4,4 @@
 [2015-06-05 10:02:39] aluedeke, joining. (#selendroid)
 [2015-06-05 10:04:36] aluedeke, quitting. (Client Quit)
 [2015-06-05 10:04:52] aluedeke, joining. (#selendroid)
+[2015-06-05 10:19:42] aluedeke, quitting. (Quit: Leaving.)
