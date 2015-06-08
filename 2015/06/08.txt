@@ -20,3 +20,26 @@
 [2015-06-08 20:38:45] Testomatic, joining. (#selendroid)
 [2015-06-08 20:39:01] Testomatic: is there a way to connect to the selenium hub without using curl?
 [2015-06-08 20:39:29] Testomatic: I work at a company with strict regulations on downloads and we want to use selendroid distributed to the company but that becomes difficult without curl
+[2015-06-08 20:40:13] lukeis: you can use any other mechanism you like that will generate an http request
+[2015-06-08 20:40:33] lukeis: curl's just 'easy'… it's already there on mac and linux
+[2015-06-08 20:40:37] smikloso, leaving. (#selendroid)
+[2015-06-08 20:40:45] Testomatic: yea, no way native to window's though I don't think
+[2015-06-08 20:40:54] Testomatic: I was hoping there'd be a way to pass it in in param's or something
+[2015-06-08 20:41:09] lukeis: don't use windows? ;)
+[2015-06-08 20:41:15] Testomatic: ah ha ha ha ha
+[2015-06-08 20:41:22] Testomatic: you try convincing a corporation of that
+[2015-06-08 20:41:49] lukeis: surely they can see the value in having some Free OS linux servers around?
+[2015-06-08 20:42:04] Testomatic: "not secure enough"
+[2015-06-08 20:42:13] lukeis: SELinux ;)
+[2015-06-08 20:42:36] lukeis: that's quite commical thinking windows can be 'secure enough'
+[2015-06-08 20:42:41] Testomatic: eh
+[2015-06-08 20:42:46] Testomatic: with how locked down they have it it basically is
+[2015-06-08 20:43:06] Testomatic: it's almost impossible to do my job the system is so locked down
+[2015-06-08 20:43:15] lukeis: sounds horrendous...
+[2015-06-08 20:43:23] Testomatic: yea
+[2015-06-08 20:43:30] lukeis: time for a new job? :)
+[2015-06-08 20:43:41] Testomatic: sadly I'm currently just the intern
+[2015-06-08 20:43:50] Testomatic: maybe I can find a different fulltime next year when I graduate.
+[2015-06-08 20:43:50] Testomatic: maybe
+[2015-06-08 20:44:08] lukeis: you most definitely should look
+[2015-06-08 20:44:11] Testomatic: till then I'll see if I can get curl authorized or hack together a different method of passing it myself
