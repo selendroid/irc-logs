@@ -43,3 +43,20 @@
 [2015-06-08 20:43:50] Testomatic: maybe
 [2015-06-08 20:44:08] lukeis: you most definitely should look
 [2015-06-08 20:44:11] Testomatic: till then I'll see if I can get curl authorized or hack together a different method of passing it myself
+[2015-06-08 20:45:26] lukeis: you could make a simple webpage to do the POST request for you, then use selenium to automatically load the page with a script ;)
+[2015-06-08 20:45:39] Testomatic: yea that's what I was thinkin
+[2015-06-08 20:45:44] lukeis: seems excessive… but who knows what tools you are allowed there
+[2015-06-08 20:46:29] lukeis: Testomatic: or you can write some VB script!  http://stackoverflow.com/questions/4277292/how-to-post-a-http-request-from-command-line
+[2015-06-08 20:46:30] lukeis: lol
+[2015-06-08 20:46:32] Testomatic: not positive I can get it through the firewalls (at least there'd be certificate error, we get those even internally on every webpage we access) but I could probably have it start up a selenium node and launch the automation to click through and send it :D
+[2015-06-08 20:46:39] lukeis: fucking windows...
+[2015-06-08 20:46:54] Testomatic: the VB script is a real possibility
+[2015-06-08 20:47:33] Testomatic: they're worried people will not be able to set up selendroid on their own so I'm scripting a batch file find whatever the latest version is and then launch it, the hub, and the node and get them all playing nice
+[2015-06-08 20:47:42] Testomatic: so I'm already scripting all of this
+[2015-06-08 20:48:26] *lukeis happily living in a linux / mac world and can use bash for most everything…'
+[2015-06-08 20:48:54] Testomatic: yea it took me a week and a half to write it in batch
+[2015-06-08 20:49:00] Testomatic: they asked me to port it to bash and it took me 2 hours
+[2015-06-08 20:49:00] Testomatic: haha
+[2015-06-08 20:49:35] Testomatic: anyways I'm off to try and make this work. I'm sure I'll be around again when my head hits the wall too hard.
+[2015-06-08 20:49:42] Testomatic: take it easy :)
+[2015-06-08 20:49:48] Testomatic, quitting. (Quit: Page closed)
