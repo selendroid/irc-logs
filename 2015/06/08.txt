@@ -17,3 +17,6 @@
 [2015-06-08 17:05:49] aluedeke, quitting. (Ping timeout: 264 seconds)
 [2015-06-08 18:30:04] lukeis, joining. (#selendroid)
 [2015-06-08 19:28:09] smikloso, joining. (#selendroid)
+[2015-06-08 20:38:45] Testomatic, joining. (#selendroid)
+[2015-06-08 20:39:01] Testomatic: is there a way to connect to the selenium hub without using curl?
+[2015-06-08 20:39:29] Testomatic: I work at a company with strict regulations on downloads and we want to use selendroid distributed to the company but that becomes difficult without curl
