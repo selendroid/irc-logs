@@ -1,3 +1,4 @@
 [2015-06-08 08:54:24] mach6, joining. (#selendroid)
 [2015-06-08 09:21:25] aluedeke, joining. (#selendroid)
 [2015-06-08 11:43:14] smikloso, joining. (#selendroid)
+[2015-06-08 13:40:36] mach6, quitting. (Remote host closed the connection)
