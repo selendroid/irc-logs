@@ -61,3 +61,4 @@
 [2015-06-08 20:49:42] Testomatic: take it easy :)
 [2015-06-08 20:49:48] Testomatic, quitting. (Quit: Page closed)
 [2015-06-08 21:19:54] mach6, joining. (#selendroid)
+[2015-06-08 21:24:56] mach6, quitting. (Ping timeout: 272 seconds)
