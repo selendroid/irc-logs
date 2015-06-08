@@ -60,3 +60,4 @@
 [2015-06-08 20:49:35] Testomatic: anyways I'm off to try and make this work. I'm sure I'll be around again when my head hits the wall too hard.
 [2015-06-08 20:49:42] Testomatic: take it easy :)
 [2015-06-08 20:49:48] Testomatic, quitting. (Quit: Page closed)
+[2015-06-08 21:19:54] mach6, joining. (#selendroid)
