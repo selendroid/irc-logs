@@ -8,3 +8,5 @@
 [2015-06-08 14:47:19] smikloso, joining. (#selendroid)
 [2015-06-08 14:51:07] smikloso, leaving. (#selendroid)
 [2015-06-08 14:52:29] smikloso, joining. (#selendroid)
+[2015-06-08 14:55:11] mach6, joining. (#selendroid)
+[2015-06-08 14:59:48] mach6, quitting. (Ping timeout: 256 seconds)
