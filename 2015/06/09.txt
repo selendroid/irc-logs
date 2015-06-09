@@ -22,3 +22,5 @@
 [2015-06-09 20:53:38] mach6, joining. (#selendroid)
 [2015-06-09 21:12:04] Testomatic: who was it in here that helped me out yesterday with the link to the vbs script to replace curl?
 [2015-06-09 21:59:09] mach6, quitting. (Remote host closed the connection)
+[2015-06-09 22:21:52] Testomatic, quitting. (Quit: Page closed)
+[2015-06-09 22:22:51] mach6, joining. (#selendroid)
