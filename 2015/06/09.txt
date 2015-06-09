@@ -11,3 +11,4 @@
 [2015-06-09 17:04:40] Testomatic, quitting. (Ping timeout: 246 seconds)
 [2015-06-09 17:10:22] Testomatic, joining. (#selendroid)
 [2015-06-09 18:12:58] smccarthy, joining. (#selendroid)
+[2015-06-09 18:20:47] lukeis, joining. (#selendroid)
