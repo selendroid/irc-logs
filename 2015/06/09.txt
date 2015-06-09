@@ -10,3 +10,4 @@
 [2015-06-09 15:55:54] Testomatic: basically all you have to do is pass it as the nodeconfig json for a new selenium node and the server will take it and connect to selendroid at which point you can shut down the node you used to pass the json file
 [2015-06-09 17:04:40] Testomatic, quitting. (Ping timeout: 246 seconds)
 [2015-06-09 17:10:22] Testomatic, joining. (#selendroid)
+[2015-06-09 18:12:58] smccarthy, joining. (#selendroid)
