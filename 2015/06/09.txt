@@ -19,3 +19,4 @@
 [2015-06-09 19:20:30] lukeis, joining. (#selendroid)
 [2015-06-09 20:13:13] mach6, joining. (#selendroid)
 [2015-06-09 20:43:56] mach6, quitting. (Remote host closed the connection)
+[2015-06-09 20:53:38] mach6, joining. (#selendroid)
