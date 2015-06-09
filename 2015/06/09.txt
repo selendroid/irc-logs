@@ -5,3 +5,4 @@
 [2015-06-09 02:32:03] mach6, quitting. (Remote host closed the connection)
 [2015-06-09 06:27:06] smccarthy, quitting. (Quit: Leaving...)
 [2015-06-09 10:21:01] smikloso, joining. (#selendroid)
+[2015-06-09 14:29:31] Testomatic, joining. (#selendroid)
