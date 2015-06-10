@@ -10,3 +10,4 @@
 [2015-06-10 08:26:51] bak1an, quitting. (Quit: Konversation terminated!)
 [2015-06-10 09:49:04] smikloso, joining. (#selendroid)
 [2015-06-10 15:56:18] smccarthy, joining. (#selendroid)
+[2015-06-10 16:50:51] smikloso, leaving. (#selendroid)
