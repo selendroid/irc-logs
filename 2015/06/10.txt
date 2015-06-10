@@ -3,3 +3,4 @@
 [2015-06-10 01:30:44] Lax_, joining. (#selendroid)
 [2015-06-10 01:30:55] Lax_, quitting. (Client Quit)
 [2015-06-10 01:51:25] mach6, quitting. (Remote host closed the connection)
+[2015-06-10 01:56:17] mach6, joining. (#selendroid)
