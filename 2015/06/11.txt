@@ -37,3 +37,5 @@
 [2015-06-11 19:53:04] selendroid-git, leaving. (#selendroid)
 [2015-06-11 19:53:41] N3sh108: thanks lukeis. Now having other issues but I'll try to figure them out :P
 [2015-06-11 19:53:52] N3sh108: damned java 1.8
+[2015-06-11 20:22:01] N3sh108, quitting. (Ping timeout: 264 seconds)
+[2015-06-11 20:22:50] N3sh108, joining. (#selendroid)
