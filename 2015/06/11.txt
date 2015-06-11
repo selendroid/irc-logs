@@ -32,3 +32,8 @@
 [2015-06-11 19:37:12] N3sh108: Do I really have to use a test app or can I just fetch a page directly?
 [2015-06-11 19:38:44] aluedeke, joining. (#selendroid)
 [2015-06-11 19:49:58] lukeis: N3sh108: http://selendroid.io/mobileWeb.html
+[2015-06-11 19:53:03] selendroid-git, joining. (#selendroid)
+[2015-06-11 19:53:03] selendroid-git: [selendroid] migchez opened pull request #888: Move DecorViewPredicate to own class and add to PredicateFactory (master...decor_view_predicate_in_factory) http://git.io/vI94P
+[2015-06-11 19:53:04] selendroid-git, leaving. (#selendroid)
+[2015-06-11 19:53:41] N3sh108: thanks lukeis. Now having other issues but I'll try to figure them out :P
+[2015-06-11 19:53:52] N3sh108: damned java 1.8
