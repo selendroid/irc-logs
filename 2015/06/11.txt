@@ -21,3 +21,7 @@
 [2015-06-11 18:37:31] N3sh108: anyone?
 [2015-06-11 18:46:54] lukeis: N3sh108: what library are you expecting? you can merely use Selenium's RemoteWebDriver if you'd like… or you can include the 'standlone' jar in your class path to have everything
 [2015-06-11 18:47:14] lukeis: if you use maven, selendroid is in maven central
+[2015-06-11 18:50:07] N3sh108: thanks lukeis. But what do I add in my gradle to be able to use the webDriver?
+[2015-06-11 18:51:42] lukeis: same way you do anything in gradle when using a java project?
+[2015-06-11 18:54:21] N3sh108: ...
+[2015-06-11 18:54:38] N3sh108: I only found 1 library in maven central and it returned an apk (the standalone)
