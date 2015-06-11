@@ -3,3 +3,4 @@
 [2015-06-11 05:53:48] smccarthy, joining. (#selendroid)
 [2015-06-11 07:04:58] smccarthy, quitting. (Quit: Leaving...)
 [2015-06-11 10:26:29] smikloso, joining. (#selendroid)
+[2015-06-11 12:29:45] smikloso, changing nick to smikloso|lunch.
