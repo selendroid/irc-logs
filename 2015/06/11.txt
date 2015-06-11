@@ -25,3 +25,5 @@
 [2015-06-11 18:51:42] lukeis: same way you do anything in gradle when using a java project?
 [2015-06-11 18:54:21] N3sh108: ...
 [2015-06-11 18:54:38] N3sh108: I only found 1 library in maven central and it returned an apk (the standalone)
+[2015-06-11 18:55:20] lukeis: http://mavenrepository.com/search?q=selendroid
+[2015-06-11 18:55:59] lukeis: the 'client' is the first one, the 'standalone' is the only other one you may want, if you want to start up the selendroid server in your test process and not externally
