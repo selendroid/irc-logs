@@ -43,3 +43,4 @@
 [2015-06-11 20:29:23] aluedeke, quitting. (Ping timeout: 246 seconds)
 [2015-06-11 20:29:35] aluedeke, joining. (#selendroid)
 [2015-06-11 20:46:29] N3sh108: so no one has this problem?
+[2015-06-11 21:59:42] aluedeke, quitting. (Ping timeout: 276 seconds)
