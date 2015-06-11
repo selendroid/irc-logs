@@ -39,3 +39,6 @@
 [2015-06-11 19:53:52] N3sh108: damned java 1.8
 [2015-06-11 20:22:01] N3sh108, quitting. (Ping timeout: 264 seconds)
 [2015-06-11 20:22:50] N3sh108, joining. (#selendroid)
+[2015-06-11 20:28:07] N3sh108: is it common to get "com.android.dx.cf.iface.ParseException: bad utf-8 byte" when adding selendroid to a project?
+[2015-06-11 20:29:23] aluedeke, quitting. (Ping timeout: 246 seconds)
+[2015-06-11 20:29:35] aluedeke, joining. (#selendroid)
