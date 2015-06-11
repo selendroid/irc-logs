@@ -12,3 +12,8 @@
 [2015-06-11 15:41:49] Lax_, quitting. (Client Quit)
 [2015-06-11 15:44:25] aluedeke, quitting. (Ping timeout: 256 seconds)
 [2015-06-11 17:30:34] smccarthy, joining. (#selendroid)
+[2015-06-11 18:05:06] N3sh108, joining. (#selendroid)
+[2015-06-11 18:05:09] N3sh108: heyhey
+[2015-06-11 18:05:12] N3sh108: anyone here?
+[2015-06-11 18:05:22] N3sh108: I am trying to use selenium for fetching the content of a page in Android. I went to selendroid but I couldn't find the library itself (only the standalone)
+[2015-06-11 18:08:41] lukeis, joining. (#selendroid)
