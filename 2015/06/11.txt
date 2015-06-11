@@ -5,3 +5,4 @@
 [2015-06-11 10:26:29] smikloso, joining. (#selendroid)
 [2015-06-11 12:29:45] smikloso, changing nick to smikloso|lunch.
 [2015-06-11 12:54:33] aluedeke, joining. (#selendroid)
+[2015-06-11 13:12:45] smikloso|lunch, changing nick to smikloso.
