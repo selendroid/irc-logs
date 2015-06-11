@@ -11,3 +11,4 @@
 [2015-06-11 15:41:03] Lax_, joining. (#selendroid)
 [2015-06-11 15:41:49] Lax_, quitting. (Client Quit)
 [2015-06-11 15:44:25] aluedeke, quitting. (Ping timeout: 256 seconds)
+[2015-06-11 17:30:34] smccarthy, joining. (#selendroid)
