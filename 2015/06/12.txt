@@ -18,3 +18,4 @@
 [2015-06-12 08:55:28] aluedeke, quitting. (Ping timeout: 255 seconds)
 [2015-06-12 08:55:40] rekab: I wondered if anyone could help me with a problem I'm having at the moment...?
 [2015-06-12 09:03:29] rekab: No worries, i'll just open a new issue on github...
+[2015-06-12 09:10:54] aluedeke, joining. (#selendroid)
