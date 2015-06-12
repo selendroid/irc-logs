@@ -29,3 +29,4 @@
 [2015-06-12 09:53:36] aluedeke1, quitting. (Client Quit)
 [2015-06-12 09:54:50] aluedeke, quitting. (Read error: Connection reset by peer)
 [2015-06-12 09:54:54] aluedeke1, joining. (#selendroid)
+[2015-06-12 10:10:04] smikloso, joining. (#selendroid)
