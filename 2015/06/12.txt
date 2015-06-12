@@ -42,3 +42,8 @@
 [2015-06-12 13:58:27] aluedeke1, quitting. (Quit: Leaving.)
 [2015-06-12 13:58:55] aluedeke, joining. (#selendroid)
 [2015-06-12 13:59:46] ddary, joining. (#selendroid)
+[2015-06-12 14:22:21] selendroid-git, joining. (#selendroid)
+[2015-06-12 14:22:21] selendroid-git: [selendroid] asm89 pushed 2 new commits to master: http://git.io/vI5AZ
+[2015-06-12 14:22:22] selendroid-git: selendroid/master 31b0369 Miguel Sánchez: Move DecorViewPredicate to own class and add to PredicateFactory
+[2015-06-12 14:22:22] selendroid-git: selendroid/master a3f9b6e Alexander: Merge pull request #888 from migchez/decor_view_predicate_in_factory...
+[2015-06-12 14:22:22] selendroid-git, leaving. (#selendroid)
