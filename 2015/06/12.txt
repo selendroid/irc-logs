@@ -54,3 +54,5 @@
 [2015-06-12 14:30:38] travis-ci, leaving. (#selendroid)
 [2015-06-12 15:46:11] smccarthy, joining. (#selendroid)
 [2015-06-12 16:08:47] ddary, quitting. (Quit: Page closed)
+[2015-06-12 16:55:40] smikloso, quitting. (Quit: Leaving.)
+[2015-06-12 16:59:42] aluedeke, quitting. (Quit: Leaving.)
