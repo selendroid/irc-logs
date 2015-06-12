@@ -30,3 +30,5 @@
 [2015-06-12 09:54:50] aluedeke, quitting. (Read error: Connection reset by peer)
 [2015-06-12 09:54:54] aluedeke1, joining. (#selendroid)
 [2015-06-12 10:10:04] smikloso, joining. (#selendroid)
+[2015-06-12 12:02:15] rekab, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2015-06-12 12:02:32] rekab, joining. (#selendroid)
