@@ -47,3 +47,8 @@
 [2015-06-12 14:22:22] selendroid-git: selendroid/master 31b0369 Miguel Sánchez: Move DecorViewPredicate to own class and add to PredicateFactory
 [2015-06-12 14:22:22] selendroid-git: selendroid/master a3f9b6e Alexander: Merge pull request #888 from migchez/decor_view_predicate_in_factory...
 [2015-06-12 14:22:22] selendroid-git, leaving. (#selendroid)
+[2015-06-12 14:30:37] travis-ci, joining. (#selendroid)
+[2015-06-12 14:30:38] travis-ci: selendroid/selendroid#708 (master - a3f9b6e : Alexander): The build passed.
+[2015-06-12 14:30:38] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/f2dccd656584...a3f9b6eb9b6d
+[2015-06-12 14:30:38] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/66532875
+[2015-06-12 14:30:38] travis-ci, leaving. (#selendroid)
