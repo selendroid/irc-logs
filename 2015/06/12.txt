@@ -14,3 +14,6 @@
 [2015-06-12 08:33:30] aluedeke, quitting. (Ping timeout: 256 seconds)
 [2015-06-12 08:40:44] aluedeke, joining. (#selendroid)
 [2015-06-12 08:55:00] rekab, joining. (#selendroid)
+[2015-06-12 08:55:11] rekab: Morning Guys
+[2015-06-12 08:55:28] aluedeke, quitting. (Ping timeout: 255 seconds)
+[2015-06-12 08:55:40] rekab: I wondered if anyone could help me with a problem I'm having at the moment...?
