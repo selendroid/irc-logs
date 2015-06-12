@@ -39,3 +39,6 @@
 [2015-06-12 13:06:56] rekab, quitting. (Client Quit)
 [2015-06-12 13:07:53] rekab, joining. (#selendroid)
 [2015-06-12 13:34:14] rekab, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2015-06-12 13:58:27] aluedeke1, quitting. (Quit: Leaving.)
+[2015-06-12 13:58:55] aluedeke, joining. (#selendroid)
+[2015-06-12 13:59:46] ddary, joining. (#selendroid)
