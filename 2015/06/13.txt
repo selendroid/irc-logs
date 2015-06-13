@@ -1,0 +1,1 @@
+[2015-06-13 07:25:31] smccarthy, quitting. (Remote host closed the connection)
