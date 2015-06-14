@@ -1,3 +1,6 @@
 [2015-06-14 02:01:30] smccarthy, quitting. (Remote host closed the connection)
 [2015-06-14 13:33:07] aluedeke, joining. (#selendroid)
 [2015-06-14 18:16:39] smccarthy, joining. (#selendroid)
+[2015-06-14 20:13:44] selendroid-git, joining. (#selendroid)
+[2015-06-14 20:13:44] selendroid-git: [selendroid] fhoeben opened pull request #894: Allow string value for boolean capabilities (master...use_is) http://git.io/vLfN8
+[2015-06-14 20:13:44] selendroid-git, leaving. (#selendroid)
