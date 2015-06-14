@@ -5,3 +5,4 @@
 [2015-06-14 20:13:44] selendroid-git: [selendroid] fhoeben opened pull request #894: Allow string value for boolean capabilities (master...use_is) http://git.io/vLfN8
 [2015-06-14 20:13:44] selendroid-git, leaving. (#selendroid)
 [2015-06-14 21:45:46] aluedeke, quitting. (Ping timeout: 272 seconds)
+[2015-06-14 22:05:22] aluedeke, joining. (#selendroid)
