@@ -8,3 +8,6 @@
 [2015-06-15 08:46:16] aluedeke, joining. (#selendroid)
 [2015-06-15 10:29:14] smikloso, joining. (#selendroid)
 [2015-06-15 12:58:04] smikloso, quitting. (Ping timeout: 276 seconds)
+[2015-06-15 13:03:53] selendroid-git, joining. (#selendroid)
+[2015-06-15 13:03:54] selendroid-git: [selendroid] asm89 opened pull request #895: Default implicit wait time should be 0 as per spec (master...fix-implicit-wait-timeout) http://git.io/vLThS
+[2015-06-15 13:03:54] selendroid-git, leaving. (#selendroid)
