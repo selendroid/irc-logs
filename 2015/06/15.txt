@@ -12,3 +12,4 @@
 [2015-06-15 13:03:54] selendroid-git: [selendroid] asm89 opened pull request #895: Default implicit wait time should be 0 as per spec (master...fix-implicit-wait-timeout) http://git.io/vLThS
 [2015-06-15 13:03:54] selendroid-git, leaving. (#selendroid)
 [2015-06-15 13:13:28] smikloso, joining. (#selendroid)
+[2015-06-15 13:19:11] smikloso, quitting. (Ping timeout: 246 seconds)
