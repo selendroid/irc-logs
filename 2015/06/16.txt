@@ -57,3 +57,4 @@
 [2015-06-16 17:37:09] simonstewart: And then everything moved out of the core project except for the firefox driver
 [2015-06-16 17:37:16] simonstewart: So, you know, releasing so often didn't make much sense
 [2015-06-16 17:37:22] lukeis: indeed
+[2015-06-16 17:45:00] simonstewart: Ah! The spec
