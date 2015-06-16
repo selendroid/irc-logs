@@ -32,3 +32,14 @@
 [2015-06-16 17:28:53] simonstewart: 2.5 years before a major release? That's nothing!
 [2015-06-16 17:28:53] simonstewart: :)
 [2015-06-16 17:29:09] lukeis: how long before Selenium 2.0 was shipped?
+[2015-06-16 17:30:19] simonstewart: A long time.
+[2015-06-16 17:30:22] simonstewart: 3.0 is even longer
+[2015-06-16 17:30:39] lukeis: what's 3.0? ;)
+[2015-06-16 17:31:10] aluedeke, quitting. (Ping timeout: 255 seconds)
+[2015-06-16 17:31:22] simonstewart: Be warned: I have some work in buck to do before I can seamlessly upgrade all our libraries to the latest version, but it's coming
+[2015-06-16 17:31:49] lukeis: buck --download-dependencies-from-maven ?
+[2015-06-16 17:32:39] simonstewart: https://github.com/facebook/buck/tree/master/src/com/facebook/buck/maven
+[2015-06-16 17:32:57] simonstewart: There's something that takes buildr maven urls and downloads them into a third party directory
+[2015-06-16 17:32:57] asm89: hehe @ timeline
+[2015-06-16 17:34:09] simonstewart: I'm blocking my ears
+[2015-06-16 17:34:25] *simonstewart chokes'
