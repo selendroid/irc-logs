@@ -28,3 +28,7 @@
 [2015-06-16 17:20:01] simonstewart: asm89 and I both work for Facebook
 [2015-06-16 17:20:20] simonstewart: I'm just an interested observer
 [2015-06-16 17:20:53] lukeis: <3 simonstewart
+[2015-06-16 17:26:11] simonstewart: lukeis: that's not a huge surprise
+[2015-06-16 17:28:53] simonstewart: 2.5 years before a major release? That's nothing!
+[2015-06-16 17:28:53] simonstewart: :)
+[2015-06-16 17:29:09] lukeis: how long before Selenium 2.0 was shipped?
