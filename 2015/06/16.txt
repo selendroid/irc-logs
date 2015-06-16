@@ -43,3 +43,17 @@
 [2015-06-16 17:32:57] asm89: hehe @ timeline
 [2015-06-16 17:34:09] simonstewart: I'm blocking my ears
 [2015-06-16 17:34:25] *simonstewart chokes'
+[2015-06-16 17:35:13] simonstewart: I did a maven push
+[2015-06-16 17:35:19] simonstewart: But then reformatted my laptop
+[2015-06-16 17:35:23] simonstewart: and lost my private key
+[2015-06-16 17:35:26] lukeis: ha :)
+[2015-06-16 17:35:34] lukeis: you can create new ones
+[2015-06-16 17:35:39] simonstewart: I have no idea how
+[2015-06-16 17:35:51] lukeis: don't make me link you the one page tutorial
+[2015-06-16 17:36:24] simonstewart: I dare you
+[2015-06-16 17:36:43] asm89: haha
+[2015-06-16 17:36:44] simonstewart: We managed weekly for about two months
+[2015-06-16 17:36:54] simonstewart: And then twice a week for a bit longer
+[2015-06-16 17:37:09] simonstewart: And then everything moved out of the core project except for the firefox driver
+[2015-06-16 17:37:16] simonstewart: So, you know, releasing so often didn't make much sense
+[2015-06-16 17:37:22] lukeis: indeed
