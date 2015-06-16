@@ -1,0 +1,4 @@
+[2015-06-17 00:30:43] lukeis1, joining. (#selendroid)
+[2015-06-17 00:32:25] lukeis2, joining. (#selendroid)
+[2015-06-17 00:33:02] lukeis, quitting. (Ping timeout: 256 seconds)
+[2015-06-17 00:34:57] lukeis1, quitting. (Ping timeout: 240 seconds)
