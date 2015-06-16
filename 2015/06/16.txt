@@ -75,3 +75,5 @@
 [2015-06-16 17:56:59] asm89: thanks lukeis _b
 [2015-06-16 18:03:07] ddary, quitting. (Ping timeout: 246 seconds)
 [2015-06-16 18:43:34] smikloso, quitting. (Ping timeout: 245 seconds)
+[2015-06-16 19:17:19] Basma, joining. (#selendroid)
+[2015-06-16 19:17:34] Basma, quitting. (Client Quit)
