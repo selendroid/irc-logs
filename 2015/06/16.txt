@@ -77,3 +77,4 @@
 [2015-06-16 18:43:34] smikloso, quitting. (Ping timeout: 245 seconds)
 [2015-06-16 19:17:19] Basma, joining. (#selendroid)
 [2015-06-16 19:17:34] Basma, quitting. (Client Quit)
+[2015-06-16 20:02:30] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
