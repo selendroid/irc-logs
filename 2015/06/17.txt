@@ -16,3 +16,5 @@
 [2015-06-17 12:08:41] smikloso, leaving. (#selendroid)
 [2015-06-17 12:21:45] aluedeke, joining. (#selendroid)
 [2015-06-17 12:25:58] smikloso, joining. (#selendroid)
+[2015-06-17 12:31:47] aluedeke, quitting. (Read error: No route to host)
+[2015-06-17 12:32:02] aluedeke, joining. (#selendroid)
