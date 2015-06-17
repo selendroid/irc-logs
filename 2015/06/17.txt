@@ -13,3 +13,4 @@
 [2015-06-17 10:07:56] Basma: there is no error
 [2015-06-17 10:08:31] Basma: but neither action
 [2015-06-17 11:16:59] smikloso, joining. (#selendroid)
+[2015-06-17 12:08:41] smikloso, leaving. (#selendroid)
