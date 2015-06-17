@@ -31,3 +31,4 @@
 [2015-06-17 18:43:49] lukeis1, joining. (#selendroid)
 [2015-06-17 18:45:09] lukeis, quitting. (*.net *.split)
 [2015-06-17 18:50:09] lukeis1, changing nick to lukeis.
+[2015-06-17 19:02:39] Basma, quitting. (Quit: Page closed)
