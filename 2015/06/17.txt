@@ -43,3 +43,9 @@
 [2015-06-17 20:58:43] smccarthy, joining. (#selendroid)
 [2015-06-17 21:16:44] aluedeke, joining. (#selendroid)
 [2015-06-17 21:58:34] aluedeke, quitting. (Ping timeout: 245 seconds)
+[2015-06-17 23:17:07] selendroid-git, joining. (#selendroid)
+[2015-06-17 23:17:07] selendroid-git: [selendroid] lukeis pushed 4 new commits to master: http://git.io/vL45U
+[2015-06-17 23:17:08] selendroid-git: selendroid/master a7faf31 Fried Hoeben: Address #892: allow "false" or true as String value when instantiating from Map
+[2015-06-17 23:17:08] selendroid-git: selendroid/master e4142af Fried Hoeben: Throw exception if value is not either true or false (ignoring case)
+[2015-06-17 23:17:08] selendroid-git: selendroid/master 4a73b75 Fried Hoeben: Comment is no longer relevant
+[2015-06-17 23:17:08] selendroid-git, leaving. (#selendroid)
