@@ -39,3 +39,5 @@
 [2015-06-17 20:06:25] lukeis: guess I'm being a bit of a hard-ass… but  ¯\_(ツ)_/¯   #894
 [2015-06-17 20:06:41] lukeis: https://github.com/selendroid/selendroid/pull/894  that is
 [2015-06-17 20:46:28] mach6, joining. (#selendroid)
+[2015-06-17 20:58:32] smccarthy, quitting. (Read error: Connection reset by peer)
+[2015-06-17 20:58:43] smccarthy, joining. (#selendroid)
