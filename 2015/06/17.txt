@@ -32,3 +32,7 @@
 [2015-06-17 18:45:09] lukeis, quitting. (*.net *.split)
 [2015-06-17 18:50:09] lukeis1, changing nick to lukeis.
 [2015-06-17 19:02:39] Basma, quitting. (Quit: Page closed)
+[2015-06-17 19:33:10] selendroid-git, joining. (#selendroid)
+[2015-06-17 19:33:10] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/vL88H
+[2015-06-17 19:33:10] selendroid-git: selendroid/master 64f0890 Luke Inman-Semerau: adding Android sdk path to stack trace to aid in troubleshooting with users
+[2015-06-17 19:33:10] selendroid-git, leaving. (#selendroid)
