@@ -50,3 +50,4 @@
 [2015-06-17 23:17:08] selendroid-git: selendroid/master 4a73b75 Fried Hoeben: Comment is no longer relevant
 [2015-06-17 23:17:08] selendroid-git, leaving. (#selendroid)
 [2015-06-17 23:33:13] mach6_, joining. (#selendroid)
+[2015-06-17 23:36:42] mach6, quitting. (Ping timeout: 252 seconds)
