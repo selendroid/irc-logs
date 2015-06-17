@@ -3,3 +3,4 @@
 [2015-06-17 00:33:02] lukeis, quitting. (Ping timeout: 256 seconds)
 [2015-06-17 00:34:57] lukeis1, quitting. (Ping timeout: 240 seconds)
 [2015-06-17 01:04:55] lukeis2, quitting. (Ping timeout: 244 seconds)
+[2015-06-17 06:48:43] smccarthy, quitting. (Quit: Leaving...)
