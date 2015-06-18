@@ -4,3 +4,12 @@
 [2015-06-18 08:06:49] aluedeke, joining. (#selendroid)
 [2015-06-18 09:55:26] aluedeke, quitting. (Ping timeout: 252 seconds)
 [2015-06-18 10:00:52] aluedeke, joining. (#selendroid)
+[2015-06-18 10:16:22] selendroid-git, joining. (#selendroid)
+[2015-06-18 10:16:22] selendroid-git: [selendroid] asm89 pushed 2 new commits to master: http://git.io/vL0td
+[2015-06-18 10:16:22] selendroid-git: selendroid/master d3de360 Alexander Mols: Default implicit wait time should be 0 as per spec...
+[2015-06-18 10:16:22] selendroid-git: selendroid/master 406fbe7 Alexander: Merge pull request #895 from asm89/fix-implicit-wait-timeout...
+[2015-06-18 10:16:22] selendroid-git, leaving. (#selendroid)
+[2015-06-18 10:19:29] selendroid-git, joining. (#selendroid)
+[2015-06-18 10:19:29] selendroid-git: [selendroid] asm89 pushed 1 new commit to master: http://git.io/vL0qu
+[2015-06-18 10:19:29] selendroid-git: selendroid/master 1faa3e8 Alexander Mols: Add line about implicit wait timeout to changelog
+[2015-06-18 10:19:29] selendroid-git, leaving. (#selendroid)
