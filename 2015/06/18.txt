@@ -35,3 +35,4 @@
 [2015-06-18 17:32:57] Basma, quitting. (Quit: Page closed)
 [2015-06-18 17:52:17] lukeis, joining. (#selendroid)
 [2015-06-18 20:41:33] aluedeke, joining. (#selendroid)
+[2015-06-18 22:17:14] mach6, joining. (#selendroid)
