@@ -33,3 +33,4 @@
 [2015-06-18 16:15:12] smikloso, quitting. (Quit: Leaving.)
 [2015-06-18 16:58:42] smccarthy, joining. (#selendroid)
 [2015-06-18 17:32:57] Basma, quitting. (Quit: Page closed)
+[2015-06-18 17:52:17] lukeis, joining. (#selendroid)
