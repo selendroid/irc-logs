@@ -13,3 +13,8 @@
 [2015-06-18 10:19:29] selendroid-git: [selendroid] asm89 pushed 1 new commit to master: http://git.io/vL0qu
 [2015-06-18 10:19:29] selendroid-git: selendroid/master 1faa3e8 Alexander Mols: Add line about implicit wait timeout to changelog
 [2015-06-18 10:19:29] selendroid-git, leaving. (#selendroid)
+[2015-06-18 10:23:48] travis-ci, joining. (#selendroid)
+[2015-06-18 10:23:49] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/3feff82bc16e...406fbe7991b7
+[2015-06-18 10:23:49] travis-ci: Build details : http://travis-ci.org/selendroid/selendroid/builds/67328201
+[2015-06-18 10:23:49] travis-ci: selendroid/selendroid#715 (master - 406fbe7 : Alexander): The build passed.
+[2015-06-18 10:23:49] travis-ci, leaving. (#selendroid)
