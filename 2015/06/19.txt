@@ -2,3 +2,6 @@
 [2015-06-19 01:00:44] lukeis, quitting. (Quit: Leaving.)
 [2015-06-19 01:05:54] smccarth_, joining. (#selendroid)
 [2015-06-19 03:17:13] mach6_, quitting. (Remote host closed the connection)
+[2015-06-19 04:17:59] mach6, joining. (#selendroid)
+[2015-06-19 04:19:54] mach6_, joining. (#selendroid)
+[2015-06-19 04:19:54] mach6, quitting. (Read error: Connection reset by peer)
