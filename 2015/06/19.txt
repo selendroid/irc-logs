@@ -63,3 +63,10 @@
 [2015-06-19 22:44:58] mach6_, quitting. (Ping timeout: 252 seconds)
 [2015-06-19 22:45:52] mach6: i see nothing wrong with that. :)
 [2015-06-19 22:47:21] lukeis: of course… i can't reproduce this thing myself, since I don't have an android device, nor do i know how to make one appear "offline" to adb :)
+[2015-06-19 22:55:06] mach6: i was wondering about that.
+[2015-06-19 22:55:27] selendroid-git, joining. (#selendroid)
+[2015-06-19 22:55:27] selendroid-git: [selendroid] lukeis pushed 1 new commit to offlineHardwareOnStartup: http://git.io/vL6vX
+[2015-06-19 22:55:27] selendroid-git: selendroid/offlineHardwareOnStartup 1c1ca7f Luke Inman-Semerau: move where DeviceOfflineException is thrown
+[2015-06-19 22:55:27] selendroid-git, leaving. (#selendroid)
+[2015-06-19 22:56:07] lukeis: did that, just after thinking about the code change a little more :)
+[2015-06-19 22:56:22] lukeis: did not affect my "testing" of this ;)
