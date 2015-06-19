@@ -70,3 +70,10 @@
 [2015-06-19 22:55:27] selendroid-git, leaving. (#selendroid)
 [2015-06-19 22:56:07] lukeis: did that, just after thinking about the code change a little more :)
 [2015-06-19 22:56:22] lukeis: did not affect my "testing" of this ;)
+[2015-06-19 23:05:38] mach6: change looks straight fwd to me.. but if you can't test for it....  btw.. what am i missing I dont see io.selendroid.standalone.exceptions.DeviceOfflineException here http://tinyurl.com/qdzje8s
+[2015-06-19 23:06:37] lukeis: i pushed to a branch, not master
+[2015-06-19 23:06:38] lukeis: https://github.com/selendroid/selendroid/tree/offlineHardwareOnStartup/selendroid-standalone/src/main/java/io/selendroid/standalone/exceptions
+[2015-06-19 23:06:58] lukeis: since i wanted to have alexander review it :)
+[2015-06-19 23:07:53] lukeis: i can't "fully test"… but a dev can, which I'm going to have him do… as soon as he has some moments? so, like next month ;)
+[2015-06-19 23:08:40] mach6: okay.. so it's a new file .. i was looking at the last commit.. which of course did not have the new file.. :) http://git.io/vL6vX
+[2015-06-19 23:08:45] mach6: my bad
