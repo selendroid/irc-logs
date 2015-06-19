@@ -77,3 +77,5 @@
 [2015-06-19 23:07:53] lukeis: i can't "fully test"… but a dev can, which I'm going to have him do… as soon as he has some moments? so, like next month ;)
 [2015-06-19 23:08:40] mach6: okay.. so it's a new file .. i was looking at the last commit.. which of course did not have the new file.. :) http://git.io/vL6vX
 [2015-06-19 23:08:45] mach6: my bad
+[2015-06-19 23:21:23] mach6, quitting. (Remote host closed the connection)
+[2015-06-19 23:21:55] mach6, joining. (#selendroid)
