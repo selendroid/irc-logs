@@ -50,3 +50,4 @@
 [2015-06-19 21:48:23] mach6, quitting. (Ping timeout: 246 seconds)
 [2015-06-19 22:12:33] mach6, joining. (#selendroid)
 [2015-06-19 22:14:33] mach6_, joining. (#selendroid)
+[2015-06-19 22:16:51] mach6, quitting. (Ping timeout: 244 seconds)
