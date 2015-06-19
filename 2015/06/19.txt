@@ -59,3 +59,5 @@
 [2015-06-19 22:38:46] selendroid-git: [selendroid] lukeis opened pull request #900: don't add "offline" hardware devices on startup (master...offlineHardwareOnStartup) http://git.io/vLKxY
 [2015-06-19 22:38:46] selendroid-git, leaving. (#selendroid)
 [2015-06-19 22:39:04] lukeis: look at me… opening pull requests on the repo itself ;)
+[2015-06-19 22:41:04] mach6, joining. (#selendroid)
+[2015-06-19 22:44:58] mach6_, quitting. (Ping timeout: 252 seconds)
