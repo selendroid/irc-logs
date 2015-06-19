@@ -79,3 +79,4 @@
 [2015-06-19 23:08:45] mach6: my bad
 [2015-06-19 23:21:23] mach6, quitting. (Remote host closed the connection)
 [2015-06-19 23:21:55] mach6, joining. (#selendroid)
+[2015-06-19 23:26:35] mach6, quitting. (Ping timeout: 256 seconds)
