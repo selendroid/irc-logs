@@ -51,3 +51,11 @@
 [2015-06-19 22:12:33] mach6, joining. (#selendroid)
 [2015-06-19 22:14:33] mach6_, joining. (#selendroid)
 [2015-06-19 22:16:51] mach6, quitting. (Ping timeout: 244 seconds)
+[2015-06-19 22:36:52] selendroid-git, joining. (#selendroid)
+[2015-06-19 22:36:52] selendroid-git: [selendroid] lukeis created offlineHardwareOnStartup (+1 new commit): http://git.io/vLKAo
+[2015-06-19 22:36:52] selendroid-git: selendroid/offlineHardwareOnStartup 65eb7e1 Luke Inman-Semerau: don't add "offline" hardware devices on startup
+[2015-06-19 22:36:52] selendroid-git, leaving. (#selendroid)
+[2015-06-19 22:38:46] selendroid-git, joining. (#selendroid)
+[2015-06-19 22:38:46] selendroid-git: [selendroid] lukeis opened pull request #900: don't add "offline" hardware devices on startup (master...offlineHardwareOnStartup) http://git.io/vLKxY
+[2015-06-19 22:38:46] selendroid-git, leaving. (#selendroid)
+[2015-06-19 22:39:04] lukeis: look at me… opening pull requests on the repo itself ;)
