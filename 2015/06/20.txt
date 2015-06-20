@@ -12,3 +12,5 @@
 [2015-06-20 04:39:20] smccarthy, quitting. (Remote host closed the connection)
 [2015-06-20 05:21:05] smccarthy, joining. (#selendroid)
 [2015-06-20 05:26:36] mach6, joining. (#selendroid)
+[2015-06-20 05:30:02] smccarthy, quitting. (Quit: Leaving...)
+[2015-06-20 05:31:14] mach6, quitting. (Ping timeout: 252 seconds)
