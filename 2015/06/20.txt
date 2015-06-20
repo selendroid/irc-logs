@@ -53,3 +53,4 @@
 [2015-06-20 21:47:46] mach6, quitting. (Client Quit)
 [2015-06-20 23:01:58] asm89, quitting. (Ping timeout: 244 seconds)
 [2015-06-20 23:03:23] asm89-, joining. (#selendroid)
+[2015-06-20 23:31:41] AutomatedTester_, joining. (#selendroid)
