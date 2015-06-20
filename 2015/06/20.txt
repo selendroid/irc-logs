@@ -42,3 +42,4 @@
 [2015-06-20 18:11:54] smccarthy, quitting. (Remote host closed the connection)
 [2015-06-20 18:36:33] mach6, joining. (#selendroid)
 [2015-06-20 18:41:03] mach6, quitting. (Ping timeout: 250 seconds)
+[2015-06-20 19:37:19] mach6, joining. (#selendroid)
