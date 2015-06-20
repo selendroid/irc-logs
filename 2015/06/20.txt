@@ -58,3 +58,4 @@
 [2015-06-20 23:38:08] AutomatedTester_, changing nick to AutomatedTester.
 [2015-06-20 23:38:08] AutomatedTester, quitting. (Changing host)
 [2015-06-20 23:38:08] AutomatedTester, joining. (#selendroid)
+[2015-06-20 23:47:37] smccarthy, joining. (#selendroid)
