@@ -11,3 +11,4 @@
 [2015-06-22 09:48:52] asm89-, changing nick to asm89.
 [2015-06-22 10:05:13] aluedeke, quitting. (Ping timeout: 265 seconds)
 [2015-06-22 10:10:07] smikloso, quitting. (Quit: Leaving.)
+[2015-06-22 10:23:14] aluedeke, joining. (#selendroid)
