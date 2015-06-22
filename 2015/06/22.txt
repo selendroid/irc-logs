@@ -27,3 +27,4 @@
 [2015-06-22 17:30:37] survfate_clone: anyone active in here? :P
 [2015-06-22 18:05:49] aluedeke, quitting. (Ping timeout: 264 seconds)
 [2015-06-22 19:56:41] aluedeke, joining. (#selendroid)
+[2015-06-22 22:08:21] survfate_clone, leaving. (#selendroid)
