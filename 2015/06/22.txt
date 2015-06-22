@@ -23,3 +23,5 @@
 [2015-06-22 17:23:11] aluedeke, quitting. (Quit: Leaving.)
 [2015-06-22 17:23:31] survfate_clone: hey im new to android developing and selendroid, one question here: so I want to used selendroid for web scraping without the server thingy (im done some example with selenium before), it is possible and a simple example? Thanks!
 [2015-06-22 17:29:29] aluedeke, joining. (#selendroid)
+[2015-06-22 17:30:29] survfate_clone: repost: hey im new to android developing and selendroid, one question here: so I want to used selendroid for web scraping without the server thingy (im done some example with selenium before), it is possible and a simple example? Thanks!
+[2015-06-22 17:30:37] survfate_clone: anyone active in here? :P
