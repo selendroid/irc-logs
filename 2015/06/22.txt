@@ -19,3 +19,6 @@
 [2015-06-22 14:25:16] aluedeke, quitting. (Ping timeout: 252 seconds)
 [2015-06-22 14:40:12] aluedeke, joining. (#selendroid)
 [2015-06-22 16:29:00] smccarthy, joining. (#selendroid)
+[2015-06-22 17:21:06] survfate_clone, joining. (#selendroid)
+[2015-06-22 17:23:11] aluedeke, quitting. (Quit: Leaving.)
+[2015-06-22 17:23:31] survfate_clone: hey im new to android developing and selendroid, one question here: so I want to used selendroid for web scraping without the server thingy (im done some example with selenium before), it is possible and a simple example? Thanks!
