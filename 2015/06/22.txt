@@ -2,3 +2,4 @@
 [2015-06-22 05:50:12] smccarthy, joining. (#selendroid)
 [2015-06-22 06:19:15] smccarthy, quitting. (Quit: Leaving...)
 [2015-06-22 07:18:12] aluedeke, quitting. (Quit: Leaving.)
+[2015-06-22 07:58:08] aluedeke, joining. (#selendroid)
