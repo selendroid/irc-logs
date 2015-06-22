@@ -28,3 +28,4 @@
 [2015-06-22 18:05:49] aluedeke, quitting. (Ping timeout: 264 seconds)
 [2015-06-22 19:56:41] aluedeke, joining. (#selendroid)
 [2015-06-22 22:08:21] survfate_clone, leaving. (#selendroid)
+[2015-06-22 22:37:01] aluedeke, quitting. (Ping timeout: 264 seconds)
