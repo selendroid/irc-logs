@@ -29,3 +29,4 @@
 [2015-06-23 20:06:28] selendroid-git: [selendroid] frolovs opened pull request #904: Various fixes (master...variousFixes) http://git.io/vLhL3
 [2015-06-23 20:06:28] selendroid-git, leaving. (#selendroid)
 [2015-06-23 20:07:53] aluedeke, joining. (#selendroid)
+[2015-06-23 21:00:22] smikloso, quitting. (Quit: Leaving.)
