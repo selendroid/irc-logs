@@ -22,3 +22,4 @@
 [2015-06-23 16:36:05] smccarthy, joining. (#selendroid)
 [2015-06-23 17:11:42] survfate_clone, joining. (#selendroid)
 [2015-06-23 17:27:01] lukeis, joining. (#selendroid)
+[2015-06-23 18:01:28] smikloso, quitting. (Ping timeout: 272 seconds)
