@@ -6,3 +6,4 @@
 [2015-06-23 09:20:02] aluedeke, joining. (#selendroid)
 [2015-06-23 09:41:22] aluedeke, quitting. (Ping timeout: 255 seconds)
 [2015-06-23 09:56:43] aluedeke, joining. (#selendroid)
+[2015-06-23 10:38:10] smikloso, joining. (#selendroid)
