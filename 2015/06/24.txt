@@ -21,3 +21,4 @@
 [2015-06-24 15:29:30] simonstewart, joining. (#selendroid)
 [2015-06-24 17:04:06] smccarthy, joining. (#selendroid)
 [2015-06-24 17:46:23] lukeis, joining. (#selendroid)
+[2015-06-24 17:54:55] smikloso, leaving. (#selendroid)
