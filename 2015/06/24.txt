@@ -26,3 +26,4 @@
 [2015-06-24 19:17:31] lukeis, joining. (#selendroid)
 [2015-06-24 19:34:06] lukeis, quitting. (Quit: Leaving.)
 [2015-06-24 19:35:25] lukeis, joining. (#selendroid)
+[2015-06-24 23:47:19] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
