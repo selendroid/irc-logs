@@ -9,3 +9,4 @@
 [2015-06-26 19:47:08] lukeis, joining. (#selendroid)
 [2015-06-26 21:26:49] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-06-26 22:18:16] lukeis, quitting. (Read error: Connection reset by peer)
+[2015-06-26 23:32:47] lukeis, joining. (#selendroid)
