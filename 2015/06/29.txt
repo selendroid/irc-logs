@@ -1,1 +1,2 @@
 [2015-06-29 00:08:13] raul782, joining. (#selendroid)
+[2015-06-29 00:17:19] raul782, quitting. (Remote host closed the connection)
