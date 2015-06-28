@@ -6,3 +6,4 @@
 [2015-06-28 17:11:28] raul782, joining. (#selendroid)
 [2015-06-28 18:15:48] raul782, quitting. (Remote host closed the connection)
 [2015-06-28 18:20:13] raul782, joining. (#selendroid)
+[2015-06-28 18:51:59] smccarthy, quitting. (Quit: Leaving...)
