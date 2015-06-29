@@ -111,3 +111,4 @@
 [2015-06-29 18:23:39] selendroid-git, leaving. (#selendroid)
 [2015-06-29 18:24:21] lukeis: oh and we were able to test that change with a device that was connected and "offline" works as desired ;)
 [2015-06-29 18:24:31] lukeis: biab
+[2015-06-29 18:25:13] asm89: _b
