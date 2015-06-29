@@ -425,3 +425,13 @@
 [2015-06-29 23:08:54] asm89: python sounds great as well
 [2015-06-29 23:09:18] lukeis: and then you have a driver instance to play around with ;)
 [2015-06-29 23:09:36] lukeis: ruby can do it as well… if you're a rubyist
+[2015-06-29 23:10:44] asm89: this should 404?
+[2015-06-29 23:10:46] asm89: curl -v localhost:4444/wd/hub/session/eaaa5d2f-7a2a-1074-bc2a-dc68ceece75f/foo/bar
+[2015-06-29 23:11:19] lukeis: i forget what we decided about that
+[2015-06-29 23:11:30] *lukeis goes to look at the spec'
+[2015-06-29 23:12:40] lukeis: yep, 404 "unkown command"  https://w3c.github.io/webdriver/webdriver-spec.html#handling-errors
+[2015-06-29 23:13:17] asm89: interesting
+[2015-06-29 23:13:22] asm89: it is 200 OK + stack trace now
+[2015-06-29 23:13:24] asm89: :>
+[2015-06-29 23:13:42] lukeis: yeah, no driver has implemented that table (yet)
+[2015-06-29 23:14:02] lukeis: the existing implementations do 200 HTTP response with a "status" in the json response
