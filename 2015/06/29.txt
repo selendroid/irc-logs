@@ -375,3 +375,10 @@
 [2015-06-29 21:54:26] asm89: wondering if I should kill that one too
 [2015-06-29 21:54:41] asm89: maybe we should divide the test suite in the end
 [2015-06-29 21:54:46] asm89: the flaky tests are really annoying
+[2015-06-29 22:01:32] travis-ci, joining. (#selendroid)
+[2015-06-29 22:01:33] travis-ci: asm89/selendroid#1 (emulator-on-travis - 0a46dfe : Alexander Mols): The build has errored.
+[2015-06-29 22:01:33] travis-ci: Change view : https://github.com/asm89/selendroid/compare/7d33cc146b16^...0a46dfe29a5d
+[2015-06-29 22:01:33] travis-ci: Build details : https://travis-ci.org/asm89/selendroid/builds/68866662
+[2015-06-29 22:01:33] travis-ci, leaving. (#selendroid)
+[2015-06-29 22:01:47] asm89: doh, no kvm on ther
+[2015-06-29 22:01:49] asm89: there
