@@ -395,3 +395,6 @@
 [2015-06-29 22:11:56] asm89: nah, I doubt that
 [2015-06-29 22:12:07] lukeis: doubt what?
 [2015-06-29 22:14:39] lukeis: asm89: in "before_install" you can do `sudo apt-get install ….`
+[2015-06-29 22:15:52] asm89: oh, yes, but I doubt it will actually enable kvm
+[2015-06-29 22:18:48] lukeis: did you look at the git repo i linked ^^
+[2015-06-29 22:19:41] lukeis:  ¯\_(ツ)_/¯    would be worth a try ;)
