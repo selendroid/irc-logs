@@ -304,3 +304,9 @@
 [2015-06-29 20:43:12] asm89: down to 16 issues!
 [2015-06-29 20:43:29] asm89: from 172+
 [2015-06-29 20:43:35] asm89: (i noted the issue count after I started)
+[2015-06-29 20:46:06] asm89: lukeis: are you hacking on the e2e test .sh script?
+[2015-06-29 20:48:58] travis-ci, joining. (#selendroid)
+[2015-06-29 20:48:59] travis-ci: selendroid/selendroid#750 (master - 4b32e1f : Luke Inman-Semerau): The build passed.
+[2015-06-29 20:48:59] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/3874bb578a0a...4b32e1faae81
+[2015-06-29 20:49:00] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68851767
+[2015-06-29 20:49:00] travis-ci, leaving. (#selendroid)
