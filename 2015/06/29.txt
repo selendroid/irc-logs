@@ -114,3 +114,7 @@
 [2015-06-29 18:25:13] asm89: _b
 [2015-06-29 18:39:08] asm89: lukeis: still interested in doing this, if not, can you just close the issue? https://github.com/selendroid/selendroid/issues/390
 [2015-06-29 18:58:09] lukeis: yeah, still want to do that….
+[2015-06-29 19:00:27] asm89: ok, I'll not close it then
+[2015-06-29 19:00:28] asm89: :P
+[2015-06-29 19:00:30] asm89: < out for now
+[2015-06-29 19:00:42] asm89: down to 41 issues \o/
