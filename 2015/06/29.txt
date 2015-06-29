@@ -398,3 +398,6 @@
 [2015-06-29 22:15:52] asm89: oh, yes, but I doubt it will actually enable kvm
 [2015-06-29 22:18:48] lukeis: did you look at the git repo i linked ^^
 [2015-06-29 22:19:41] lukeis:  ¯\_(ツ)_/¯    would be worth a try ;)
+[2015-06-29 22:23:10] asm89: lukeis: just looked at it
+[2015-06-29 22:23:17] asm89: that will only work if you have --privileged
+[2015-06-29 22:23:23] asm89: i doubt we have that on travis
