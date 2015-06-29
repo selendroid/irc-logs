@@ -333,3 +333,26 @@
 [2015-06-29 21:28:27] lukeis: createAndStartEmulatorIfNotRunning()  ;)
 [2015-06-29 21:29:42] asm89: you really want everything in mvn don't you? :P
 [2015-06-29 21:29:57] lukeis: that's not maven…
+[2015-06-29 21:30:12] lukeis: it's junit at that point (or are we using testng)
+[2015-06-29 21:30:21] lukeis: also, would allow us to easily run from the IDE
+[2015-06-29 21:30:56] *asm89 shrugs'
+[2015-06-29 21:30:58] asm89: :>
+[2015-06-29 21:31:00] asm89: :P *
+[2015-06-29 21:31:02] lukeis: :)
+[2015-06-29 21:31:37] travis-ci, joining. (#selendroid)
+[2015-06-29 21:31:38] travis-ci: selendroid/selendroid#751 (master - 754ffdc : Luke Inman-Semerau): The build passed.
+[2015-06-29 21:31:38] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68851821
+[2015-06-29 21:31:38] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/4b32e1faae81...754ffdc2c7a0
+[2015-06-29 21:31:38] travis-ci, leaving. (#selendroid)
+[2015-06-29 21:32:12] asm89: btw lukeis, you're on the atoms thing?
+[2015-06-29 21:32:27] asm89: https://github.com/DominikDary/selendroid/commit/364e658487daa414ccd36c698a4a15348b694603
+[2015-06-29 21:32:28] lukeis: yes… trying to run the tests before pushing :-D
+[2015-06-29 21:32:34] asm89: <3
+[2015-06-29 21:32:50] asm89: I'm running ./runEnd2EndTests.sh now
+[2015-06-29 21:32:54] asm89: seems to work just fine
+[2015-06-29 21:32:58] lukeis: same here...
+[2015-06-29 21:33:03] asm89: too bad travis only has armeabi emulators
+[2015-06-29 21:33:06] asm89: those are slow?
+[2015-06-29 21:33:57] lukeis: yeah, and they only do that because they only use VMs… and nested virtualization is not easy ;)
+[2015-06-29 21:34:14] asm89: wondering how ddary was planning on doing dependency management in that commit
+[2015-06-29 21:34:25] asm89: i think they're on containers nowadays
