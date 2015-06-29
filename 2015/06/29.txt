@@ -19,3 +19,13 @@
 [2015-06-29 11:18:31] aluedeke, joining. (#selendroid)
 [2015-06-29 11:27:13] raul782, joining. (#selendroid)
 [2015-06-29 11:32:00] raul782, quitting. (Ping timeout: 256 seconds)
+[2015-06-29 12:26:22] selendroid-git, joining. (#selendroid)
+[2015-06-29 12:26:22] selendroid-git: selendroid/master cf2a8f5 Viacheslav Frolov: Add WXGA720 skin for detection of screen resolution.
+[2015-06-29 12:26:22] selendroid-git: [selendroid] asm89 pushed 4 new commits to master: http://git.io/vtVp6
+[2015-06-29 12:26:22] selendroid-git: selendroid/master e5757d4 Viacheslav Frolov: Set default field values for storepass and alias. Remove redundant ternary logic in when building commandLine. Cascade constructors.
+[2015-06-29 12:26:22] selendroid-git: selendroid/master 23d4729 Viacheslav Frolov: Use 3 bytes per pixel for screenshots. BufferedImage will take 25% less in memmory.
+[2015-06-29 12:26:22] selendroid-git, leaving. (#selendroid)
+[2015-06-29 12:29:19] selendroid-git, joining. (#selendroid)
+[2015-06-29 12:29:19] selendroid-git: [selendroid] asm89 pushed 1 new commit to master: http://git.io/vtVhR
+[2015-06-29 12:29:19] selendroid-git: selendroid/master 9102c1d Alexander Mols: Update changelog
+[2015-06-29 12:29:19] selendroid-git, leaving. (#selendroid)
