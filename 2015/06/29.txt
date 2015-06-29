@@ -103,3 +103,11 @@
 [2015-06-29 18:18:26] asm89: well I guess extending RuntimeException is a break
 [2015-06-29 18:18:41] asm89: could make ShellCommandException break instead and make that extend RuntimeException?
 [2015-06-29 18:19:31] lukeis: probably… let me see what falls out of the woodworks when i try
+[2015-06-29 18:21:22] asm89: hehe
+[2015-06-29 18:21:39] lukeis: well, no tests fail :)
+[2015-06-29 18:23:39] selendroid-git, joining. (#selendroid)
+[2015-06-29 18:23:39] selendroid-git: [selendroid] lukeis force-pushed offlineHardwareOnStartup from 1c1ca7f to 7d33cc1: http://git.io/vtoRD
+[2015-06-29 18:23:39] selendroid-git: selendroid/offlineHardwareOnStartup 7d33cc1 Luke Inman-Semerau: don't add "offline" hardware devices on startup...
+[2015-06-29 18:23:39] selendroid-git, leaving. (#selendroid)
+[2015-06-29 18:24:21] lukeis: oh and we were able to test that change with a device that was connected and "offline" works as desired ;)
+[2015-06-29 18:24:31] lukeis: biab
