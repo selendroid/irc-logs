@@ -358,3 +358,9 @@
 [2015-06-29 21:34:25] asm89: i think they're on containers nowadays
 [2015-06-29 21:35:07] lukeis: hmm, then we might be able to do x86…. i have a docker image that can do it
 [2015-06-29 21:36:08] aluedeke, quitting. (Ping timeout: 252 seconds)
+[2015-06-29 21:48:22] mach6: please point me to this docker image you speak of that allows for faster x86 emulators
+[2015-06-29 21:49:11] lukeis: i have one internally, not sure if he put it out in the open anywhere
+[2015-06-29 21:49:23] asm89: it seems travis does support x86 images?
+[2015-06-29 21:49:25] asm89: eh
+[2015-06-29 21:49:28] mach6: was afraid you would saythat.
+[2015-06-29 21:49:47] lukeis: it was based on something he found public....
