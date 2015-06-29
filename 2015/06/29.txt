@@ -286,3 +286,21 @@
 [2015-06-29 20:35:31] mach6: it's good to seem, honestly
 [2015-06-29 20:35:33] mach6: *see
 [2015-06-29 20:36:17] asm89: lukeis: https://github.com/selendroid/selendroid/issues/252 -> is that what lead/is related to https://github.com/selendroid/selendroid/issues/390 ?
+[2015-06-29 20:40:40] lukeis: related… but the latter, we should start using chromedriver on higher api levels which will 'fix' cross domain frame issues
+[2015-06-29 20:40:55] lukeis: just need to hack it out :)
+[2015-06-29 20:40:58] asm89: so no close on both?
+[2015-06-29 20:41:21] lukeis: yeah… i should have fixed those long ago (like nearly 2 years ago ;) )
+[2015-06-29 20:41:43] travis-ci, joining. (#selendroid)
+[2015-06-29 20:41:44] travis-ci: selendroid/selendroid#748 (master - 654b632 : Luke Inman-Semerau): The build passed.
+[2015-06-29 20:41:44] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/803197018571...654b632626dc
+[2015-06-29 20:41:44] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68851522
+[2015-06-29 20:41:44] travis-ci, leaving. (#selendroid)
+[2015-06-29 20:42:21] travis-ci, joining. (#selendroid)
+[2015-06-29 20:42:22] travis-ci: selendroid/selendroid#749 (master - 3874bb5 : Luke Inman-Semerau): The build passed.
+[2015-06-29 20:42:22] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/654b632626dc...3874bb578a0a
+[2015-06-29 20:42:22] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68851605
+[2015-06-29 20:42:22] travis-ci, leaving. (#selendroid)
+[2015-06-29 20:43:08] asm89: all right
+[2015-06-29 20:43:12] asm89: down to 16 issues!
+[2015-06-29 20:43:29] asm89: from 172+
+[2015-06-29 20:43:35] asm89: (i noted the issue count after I started)
