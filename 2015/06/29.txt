@@ -95,3 +95,11 @@
 [2015-06-29 18:11:33] asm89: i put up separate small pull requests instead of one big one
 [2015-06-29 18:11:41] asm89: hope that's ok
 [2015-06-29 18:12:10] lukeis: should be just fine :)
+[2015-06-29 18:16:16] asm89: lukeis: https://github.com/selendroid/selendroid/issues/813#issuecomment-116747628
+[2015-06-29 18:16:20] asm89: also posting that on some issues
+[2015-06-29 18:16:36] lukeis: so, the DeviceOfflineException extending ShellCommandException seems like a good idea… except ShellCommandException extends Exception and I was trying to extend RuntimeException
+[2015-06-29 18:16:49] lukeis: sounds good to me
+[2015-06-29 18:18:10] asm89: annoying
+[2015-06-29 18:18:26] asm89: well I guess extending RuntimeException is a break
+[2015-06-29 18:18:41] asm89: could make ShellCommandException break instead and make that extend RuntimeException?
+[2015-06-29 18:19:31] lukeis: probably… let me see what falls out of the woodworks when i try
