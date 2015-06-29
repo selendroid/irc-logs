@@ -447,3 +447,14 @@
 [2015-06-29 23:36:42] selendroid-git: [selendroid] asm89 opened pull request #928: [standalone] Fix HTTP response for unknown commands (master...fix-http-response-for-unknown-commands) http://git.io/vt65T
 [2015-06-29 23:36:42] selendroid-git, leaving. (#selendroid)
 [2015-06-29 23:37:24] asm89: fix all the code
+[2015-06-29 23:47:23] lukeis: asm89: what android api level are you running the tests against?  the default? (18)
+[2015-06-29 23:47:32] lukeis: that's ( 18 )
+[2015-06-29 23:47:41] asm89: 18
+[2015-06-29 23:48:06] lukeis: ok… was just doing 19 and things don't like me with or without the atoms update :)
+[2015-06-29 23:48:18] lukeis: installing 18 now! :)
+[2015-06-29 23:48:52] raul782, quitting. (Remote host closed the connection)
+[2015-06-29 23:49:28] lukeis: also travis-ci seems to be queued all up…
+[2015-06-29 23:49:30] asm89: hm, that's still fishy then though
+[2015-06-29 23:49:36] lukeis: yeah
+[2015-06-29 23:49:56] asm89: I have PR that I don't want merged yet, but I can put it up
+[2015-06-29 23:49:59] asm89: does that make sense? :P
