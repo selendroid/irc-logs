@@ -443,3 +443,7 @@
 [2015-06-29 23:24:44] asm89: .parseJson() throws or returns JSONObject
 [2015-06-29 23:25:22] asm89: oh wait the loop can fail
 [2015-06-29 23:25:24] asm89: nvm
+[2015-06-29 23:36:42] selendroid-git, joining. (#selendroid)
+[2015-06-29 23:36:42] selendroid-git: [selendroid] asm89 opened pull request #928: [standalone] Fix HTTP response for unknown commands (master...fix-http-response-for-unknown-commands) http://git.io/vt65T
+[2015-06-29 23:36:42] selendroid-git, leaving. (#selendroid)
+[2015-06-29 23:37:24] asm89: fix all the code
