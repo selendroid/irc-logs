@@ -441,3 +441,5 @@
 [2015-06-29 23:24:15] asm89: lukeis: sanity check -> https://github.com/selendroid/selendroid/blob/8c05757273fef03730087be5c915b4e74b04cd49/selendroid-standalone/src/main/java/io/selendroid/standalone/server/handler/ProxyToDeviceHandler.java#L157
 [2015-06-29 23:24:21] asm89: that will never return null?
 [2015-06-29 23:24:44] asm89: .parseJson() throws or returns JSONObject
+[2015-06-29 23:25:22] asm89: oh wait the loop can fail
+[2015-06-29 23:25:24] asm89: nvm
