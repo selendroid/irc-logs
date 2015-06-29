@@ -34,3 +34,8 @@
 [2015-06-29 12:30:50] travis-ci: selendroid/selendroid#721 (master - 03dceda : Alexander): The build passed.
 [2015-06-29 12:30:50] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68787187
 [2015-06-29 12:30:50] travis-ci, leaving. (#selendroid)
+[2015-06-29 12:35:21] travis-ci, joining. (#selendroid)
+[2015-06-29 12:35:22] travis-ci: selendroid/selendroid#722 (master - 9102c1d : Alexander Mols): The build passed.
+[2015-06-29 12:35:22] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/03dcedae651c...9102c1d12339
+[2015-06-29 12:35:22] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68787405
+[2015-06-29 12:35:22] travis-ci, leaving. (#selendroid)
