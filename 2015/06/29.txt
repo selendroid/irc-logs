@@ -356,3 +356,5 @@
 [2015-06-29 21:33:57] lukeis: yeah, and they only do that because they only use VMs… and nested virtualization is not easy ;)
 [2015-06-29 21:34:14] asm89: wondering how ddary was planning on doing dependency management in that commit
 [2015-06-29 21:34:25] asm89: i think they're on containers nowadays
+[2015-06-29 21:35:07] lukeis: hmm, then we might be able to do x86…. i have a docker image that can do it
+[2015-06-29 21:36:08] aluedeke, quitting. (Ping timeout: 252 seconds)
