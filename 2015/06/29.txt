@@ -118,3 +118,7 @@
 [2015-06-29 19:00:28] asm89: :P
 [2015-06-29 19:00:30] asm89: < out for now
 [2015-06-29 19:00:42] asm89: down to 41 issues \o/
+[2015-06-29 19:06:25] selendroid-git, joining. (#selendroid)
+[2015-06-29 19:06:25] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/vto9Z
+[2015-06-29 19:06:25] selendroid-git: selendroid/master 3b0ea3d Luke Inman-Semerau: Merge pull request #900 from selendroid/offlineHardwareOnStartup...
+[2015-06-29 19:06:25] selendroid-git, leaving. (#selendroid)
