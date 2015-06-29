@@ -201,3 +201,17 @@
 [2015-06-29 20:08:42] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/f0b7e0f093c1...85b1f6dc95e4
 [2015-06-29 20:08:42] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68850948
 [2015-06-29 20:08:42] travis-ci, leaving. (#selendroid)
+[2015-06-29 20:10:18] asm89: lukeis: woa
+[2015-06-29 20:10:31] asm89: thanks for the quick turnaround lukeis
+[2015-06-29 20:10:53] lukeis: heh, really simple reviews ;)
+[2015-06-29 20:11:28] lukeis: i'm trying to get the E2E tests running locally now… having some issues :)
+[2015-06-29 20:12:29] asm89: lukeis: what are the issues?
+[2015-06-29 20:12:53] lukeis: the instrumentation is failing to start and it's in some kind of loop doing it over and over
+[2015-06-29 20:13:33] lukeis: updating my android library and deleting the avd it was running on ;)
+[2015-06-29 20:14:03] asm89: did you run the script?
+[2015-06-29 20:14:10] lukeis: which one? :)
+[2015-06-29 20:14:36] asm89: runEndToEndTests.sh
+[2015-06-29 20:14:47] asm89: runEnd2EndTests.sh
+[2015-06-29 20:14:49] asm89: sorry
+[2015-06-29 20:14:51] lukeis: ahh
+[2015-06-29 20:14:58] lukeis: maybe I didn't :)
