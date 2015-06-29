@@ -323,3 +323,13 @@
 [2015-06-29 21:02:44] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68850960
 [2015-06-29 21:02:44] travis-ci, leaving. (#selendroid)
 [2015-06-29 21:22:43] aluedeke, joining. (#selendroid)
+[2015-06-29 21:25:29] lukeis: asm89: kind of, not really…. it makes me really sad to have to do a 'mvn install' and then run the script and even more sad that the script exists at all
+[2015-06-29 21:26:01] asm89: lukeis: it's a helper to setup the right emulator
+[2015-06-29 21:26:07] asm89: how would you do it?
+[2015-06-29 21:26:20] lukeis: have a test setup method do it
+[2015-06-29 21:27:27] asm89: that's going to be slow?
+[2015-06-29 21:27:47] asm89: today when iterating I just kept the emulator running
+[2015-06-29 21:27:50] lukeis: only if the setup has to do it every time
+[2015-06-29 21:28:27] lukeis: createAndStartEmulatorIfNotRunning()  ;)
+[2015-06-29 21:29:42] asm89: you really want everything in mvn don't you? :P
+[2015-06-29 21:29:57] lukeis: that's not maven…
