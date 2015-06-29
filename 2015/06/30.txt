@@ -11,3 +11,4 @@
 [2015-06-30 00:36:18] lukeis: :)
 [2015-06-30 00:36:41] lukeis: i don't want to just retry an individual test! ;) what's this "flakey" crap?!
 [2015-06-30 01:06:22] lukeis, quitting. (Ping timeout: 272 seconds)
+[2015-06-30 01:19:32] raul782_, joining. (#selendroid)
