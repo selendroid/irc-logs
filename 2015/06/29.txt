@@ -168,3 +168,30 @@
 [2015-06-29 19:54:57] selendroid-git: selendroid/master ef6c07e Alexander Mols: [server] Fix ClassPredicate...
 [2015-06-29 19:54:57] selendroid-git: selendroid/master 1731feb Luke Inman-Semerau: Merge pull request #918 from asm89/unbreak-e2e-8...
 [2015-06-29 19:54:57] selendroid-git, leaving. (#selendroid)
+[2015-06-29 19:55:52] selendroid-git, joining. (#selendroid)
+[2015-06-29 19:55:52] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vtKq6
+[2015-06-29 19:55:52] selendroid-git: selendroid/master 1c01b09 Alexander Mols: [test-app] Fix BackgroundAppTest...
+[2015-06-29 19:55:52] selendroid-git: selendroid/master 8031970 Luke Inman-Semerau: Merge pull request #917 from asm89/unbreak-e2e-7...
+[2015-06-29 19:55:52] selendroid-git, leaving. (#selendroid)
+[2015-06-29 19:56:07] selendroid-git, joining. (#selendroid)
+[2015-06-29 19:56:07] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vtKq7
+[2015-06-29 19:56:07] selendroid-git: selendroid/master 654b632 Luke Inman-Semerau: Merge pull request #915 from asm89/unbreak-e2e-5...
+[2015-06-29 19:56:07] selendroid-git: selendroid/master 3730b58 Alexander Mols: [test-app] Unbreak SelendroidUnknownCommandHandlingTest
+[2015-06-29 19:56:07] selendroid-git, leaving. (#selendroid)
+[2015-06-29 19:56:33] selendroid-git, joining. (#selendroid)
+[2015-06-29 19:56:33] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vtKmJ
+[2015-06-29 19:56:33] selendroid-git: selendroid/master 1708773 Alexander Mols: [test-app] Unbreak MultipleWebviewHandlingTests...
+[2015-06-29 19:56:33] selendroid-git: selendroid/master 3874bb5 Luke Inman-Semerau: Merge pull request #914 from asm89/unbreak-e2e-4...
+[2015-06-29 19:56:33] selendroid-git, leaving. (#selendroid)
+[2015-06-29 19:57:57] selendroid-git, joining. (#selendroid)
+[2015-06-29 19:57:57] selendroid-git: [selendroid] lukeis closed pull request #913: [test-app] Simplify surefire test configuration (master...unbreak-e2e-3) http://git.io/vtrSp
+[2015-06-29 19:57:57] selendroid-git, leaving. (#selendroid)
+[2015-06-29 19:58:32] selendroid-git, joining. (#selendroid)
+[2015-06-29 19:58:32] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vtKYS
+[2015-06-29 19:58:32] selendroid-git: selendroid/master bc345f9 Alexander Mols: [test-app] Unbreak ExecuteAsyncScriptTest
+[2015-06-29 19:58:32] selendroid-git: selendroid/master 754ffdc Luke Inman-Semerau: Merge pull request #912 from asm89/unbreak-e2e-2...
+[2015-06-29 19:58:33] selendroid-git, leaving. (#selendroid)
+[2015-06-29 19:59:20] selendroid-git, joining. (#selendroid)
+[2015-06-29 19:59:20] selendroid-git: [selendroid] lukeis closed pull request #911: [test-app] Only load extension in ExtensionLoadTest (master...unbreak-e2e-1) http://git.io/vtrSa
+[2015-06-29 19:59:20] selendroid-git, leaving. (#selendroid)
+[2015-06-29 19:59:52] raul782_, joining. (#selendroid)
