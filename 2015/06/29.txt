@@ -215,3 +215,35 @@
 [2015-06-29 20:14:49] asm89: sorry
 [2015-06-29 20:14:51] lukeis: ahh
 [2015-06-29 20:14:58] lukeis: maybe I didn't :)
+[2015-06-29 20:15:35] lukeis: but i will change that script to not run mvn install … ;)
+[2015-06-29 20:16:25] asm89: the script is pretty crappy imo
+[2015-06-29 20:16:32] lukeis: yeah
+[2015-06-29 20:16:37] asm89: it also "manages" the emulator
+[2015-06-29 20:16:40] lukeis: mvn package should just run them
+[2015-06-29 20:16:51] asm89: how about switching the project to buck?
+[2015-06-29 20:16:55] lukeis: all of it should be in the test suite, not in this external script
+[2015-06-29 20:17:01] lukeis: won't buy us much?
+[2015-06-29 20:17:15] asm89: might be just me
+[2015-06-29 20:17:17] asm89: :P
+[2015-06-29 20:17:20] lukeis: ;)
+[2015-06-29 20:17:30] lukeis: you've been around simon too long...
+[2015-06-29 20:17:34] lukeis: :-D
+[2015-06-29 20:17:35] asm89: i'm used to the flow where you install the apk yourself
+[2015-06-29 20:17:37] asm89: haha
+[2015-06-29 20:17:40] asm89: nah, FB uses buck
+[2015-06-29 20:17:50] lukeis: yeah, FB has been around simon too long ;)
+[2015-06-29 20:17:59] asm89: i'm not a java developer originally
+[2015-06-29 20:18:05] asm89: so this maven things scares the crap out of me
+[2015-06-29 20:18:17] asm89: like this https://github.com/selendroid/selendroid/commit/918ef5f3f679b5bf0902bfea83c278db7a28a7ec
+[2015-06-29 20:18:27] lukeis: neither am I… but maven was like heaven when i've been in 'ant' hell
+[2015-06-29 20:18:34] asm89: ack
+[2015-06-29 20:18:37] asm89: i'm used to
+[2015-06-29 20:18:39] lukeis: yeah, the configuration is a bit icky
+[2015-06-29 20:18:44] asm89: -> boot emulator (or have CI do that I guess)
+[2015-06-29 20:18:54] asm89: -> buck install selendroid-test-app
+[2015-06-29 20:18:57] lukeis: well, selendroid-standalone does it though!
+[2015-06-29 20:19:00] asm89: -> buck test selendroid-test-app
+[2015-06-29 20:19:12] asm89: i dislike standalone
+[2015-06-29 20:19:23] asm89: i wish we would have just plain selendroid-server
+[2015-06-29 20:19:31] lukeis: heh
+[2015-06-29 20:19:39] asm89: and then a separate project or w/e for standalone/grid/client
