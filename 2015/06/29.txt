@@ -70,3 +70,12 @@
 [2015-06-29 17:03:51] selendroid-git: [selendroid] asm89 opened pull request #921: [test-app] Unbreak SendKeyAndNativeKeyTest (master...unbreak-e2e-11) http://git.io/vtr9z
 [2015-06-29 17:03:51] selendroid-git, leaving. (#selendroid)
 [2015-06-29 17:04:17] asm89: lol
+[2015-06-29 17:05:05] asm89: GitHub seems to think that I'm sending pull requests too fast
+[2015-06-29 17:05:07] asm89: http://i.imgur.com/04ayS6m.png
+[2015-06-29 17:05:41] selendroid-git, joining. (#selendroid)
+[2015-06-29 17:05:41] selendroid-git: [selendroid] asm89 opened pull request #923: [test-app] Unbreak WebElementFindingTest (master...unbreak-e2e-13) http://git.io/vtrHR
+[2015-06-29 17:05:41] selendroid-git, leaving. (#selendroid)
+[2015-06-29 17:05:50] selendroid-git, joining. (#selendroid)
+[2015-06-29 17:05:50] selendroid-git: [selendroid] asm89 opened pull request #924: [test-app] Set log level to DEBUG for tests (master...unbreak-e2e-14) http://git.io/vtrHg
+[2015-06-29 17:05:50] selendroid-git, leaving. (#selendroid)
+[2015-06-29 17:09:13] raul782, joining. (#selendroid)
