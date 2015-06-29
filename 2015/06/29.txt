@@ -79,3 +79,5 @@
 [2015-06-29 17:05:50] selendroid-git: [selendroid] asm89 opened pull request #924: [test-app] Set log level to DEBUG for tests (master...unbreak-e2e-14) http://git.io/vtrHg
 [2015-06-29 17:05:50] selendroid-git, leaving. (#selendroid)
 [2015-06-29 17:09:13] raul782, joining. (#selendroid)
+[2015-06-29 17:15:08] aluedeke, joining. (#selendroid)
+[2015-06-29 17:18:27] smccarthy, joining. (#selendroid)
