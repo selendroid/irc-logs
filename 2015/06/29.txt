@@ -435,3 +435,6 @@
 [2015-06-29 23:13:24] asm89: :>
 [2015-06-29 23:13:42] lukeis: yeah, no driver has implemented that table (yet)
 [2015-06-29 23:14:02] lukeis: the existing implementations do 200 HTTP response with a "status" in the json response
+[2015-06-29 23:17:29] asm89: {"status":13,"sessionId":"0b07e2f2-656c-eaf5-0b65-cc29f502843c","value":{"message":"io.selendroid.server.common.exceptions.SelendroidException: Unexpected error communicating with selendroid server on the device
+[2015-06-29 23:17:32] asm89: standalone craps out
+[2015-06-29 23:17:35] asm89: the device return 404
