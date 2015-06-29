@@ -50,3 +50,23 @@
 [2015-06-29 16:53:01] aluedeke, joining. (#selendroid)
 [2015-06-29 16:55:10] aluedeke, quitting. (Read error: Connection reset by peer)
 [2015-06-29 16:55:51] aluedeke, joining. (#selendroid)
+[2015-06-29 17:00:15] aluedeke, quitting. (Ping timeout: 256 seconds)
+[2015-06-29 17:02:56] selendroid-git, joining. (#selendroid)
+[2015-06-29 17:02:56] selendroid-git: [selendroid] asm89 opened pull request #911: [test-app] Only load extension in ExtensionLoadTest (master...unbreak-e2e-1) http://git.io/vtrSa
+[2015-06-29 17:02:56] selendroid-git, leaving. (#selendroid)
+[2015-06-29 17:03:06] selendroid-git, joining. (#selendroid)
+[2015-06-29 17:03:06] selendroid-git: [selendroid] asm89 opened pull request #912: [test-app] Unbreak ExecuteAsyncScriptTest (master...unbreak-e2e-2) http://git.io/vtrSw
+[2015-06-29 17:03:06] selendroid-git, leaving. (#selendroid)
+[2015-06-29 17:03:20] selendroid-git, joining. (#selendroid)
+[2015-06-29 17:03:20] selendroid-git: [selendroid] asm89 opened pull request #914: [test-app] Unbreak MultipleWebviewHandlingTests (master...unbreak-e2e-4) http://git.io/vtr9J
+[2015-06-29 17:03:20] selendroid-git, leaving. (#selendroid)
+[2015-06-29 17:03:26] selendroid-git, joining. (#selendroid)
+[2015-06-29 17:03:26] selendroid-git: [selendroid] asm89 opened pull request #915: [test-app] Unbreak SelendroidUnknownCommandHandlingTest (master...unbreak-e2e-5) http://git.io/vtr9k
+[2015-06-29 17:03:26] selendroid-git, leaving. (#selendroid)
+[2015-06-29 17:03:41] selendroid-git, joining. (#selendroid)
+[2015-06-29 17:03:41] selendroid-git: [selendroid] asm89 opened pull request #918: [server] Fix ClassPredicate (master...unbreak-e2e-8) http://git.io/vtr9c
+[2015-06-29 17:03:41] selendroid-git, leaving. (#selendroid)
+[2015-06-29 17:03:51] selendroid-git, joining. (#selendroid)
+[2015-06-29 17:03:51] selendroid-git: [selendroid] asm89 opened pull request #921: [test-app] Unbreak SendKeyAndNativeKeyTest (master...unbreak-e2e-11) http://git.io/vtr9z
+[2015-06-29 17:03:51] selendroid-git, leaving. (#selendroid)
+[2015-06-29 17:04:17] asm89: lol
