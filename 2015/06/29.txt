@@ -39,3 +39,5 @@
 [2015-06-29 12:35:22] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/03dcedae651c...9102c1d12339
 [2015-06-29 12:35:22] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68787405
 [2015-06-29 12:35:22] travis-ci, leaving. (#selendroid)
+[2015-06-29 12:50:34] smikloso, quitting. (Read error: Connection reset by peer)
+[2015-06-29 12:51:07] smikloso, joining. (#selendroid)
