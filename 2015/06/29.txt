@@ -257,3 +257,10 @@
 [2015-06-29 20:24:57] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/ca228b0764a3...498ff848e6cd
 [2015-06-29 20:24:57] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68851268
 [2015-06-29 20:24:57] travis-ci, leaving. (#selendroid)
+[2015-06-29 20:27:31] asm89: > GET request of: net/sf/saxon/Saxon-HE/9.4.0.6/Saxon-HE-9.4.0.6.jar from central failed
+[2015-06-29 20:27:33] asm89: sigh
+[2015-06-29 20:28:37] travis-ci, joining. (#selendroid)
+[2015-06-29 20:28:38] travis-ci: selendroid/selendroid#746 (master - 1731feb : Luke Inman-Semerau): The build passed.
+[2015-06-29 20:28:38] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/498ff848e6cd...1731febf4446
+[2015-06-29 20:28:38] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68851357
+[2015-06-29 20:28:38] travis-ci, leaving. (#selendroid)
