@@ -311,3 +311,9 @@
 [2015-06-29 20:49:00] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68851767
 [2015-06-29 20:49:00] travis-ci, leaving. (#selendroid)
 [2015-06-29 20:54:05] raul782, joining. (#selendroid)
+[2015-06-29 20:56:41] travis-ci, joining. (#selendroid)
+[2015-06-29 20:56:42] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/1731febf4446...803197018571
+[2015-06-29 20:56:42] travis-ci: selendroid/selendroid#747 (master - 8031970 : Luke Inman-Semerau): The build passed.
+[2015-06-29 20:56:42] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68851488
+[2015-06-29 20:56:42] travis-ci, leaving. (#selendroid)
+[2015-06-29 20:56:57] raul782_, quitting. (Ping timeout: 246 seconds)
