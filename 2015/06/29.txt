@@ -128,3 +128,12 @@
 [2015-06-29 19:25:40] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/9102c1d12339...3b0ea3d28c1b
 [2015-06-29 19:25:40] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68845159
 [2015-06-29 19:25:40] travis-ci, leaving. (#selendroid)
+[2015-06-29 19:46:13] 5EXABKLRA, joining. (#selendroid)
+[2015-06-29 19:46:13] 5EXABKLRA: [selendroid] lukeis closed pull request #916: [client] Fix SelendroidDriver#readCallLog() (master...unbreak-e2e-6) http://git.io/vtr9q
+[2015-06-29 19:46:13] 5EXABKLRA, leaving. (#selendroid)
+[2015-06-29 19:46:13] 7GHAAK3DY, joining. (#selendroid)
+[2015-06-29 19:46:13] 7GHAAK3DY: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vtKT1
+[2015-06-29 19:46:13] 7GHAAK3DY: selendroid/master e864d45 Alexander Mols: [client] Fix SelendroidDriver#readCallLog()...
+[2015-06-29 19:46:13] 7GHAAK3DY: selendroid/master 4b63795 Luke Inman-Semerau: Merge pull request #916 from asm89/unbreak-e2e-6...
+[2015-06-29 19:46:13] 7GHAAK3DY, leaving. (#selendroid)
+[2015-06-29 19:46:41] raul782, joining. (#selendroid)
