@@ -247,3 +247,13 @@
 [2015-06-29 20:19:23] asm89: i wish we would have just plain selendroid-server
 [2015-06-29 20:19:31] lukeis: heh
 [2015-06-29 20:19:39] asm89: and then a separate project or w/e for standalone/grid/client
+[2015-06-29 20:23:45] travis-ci, joining. (#selendroid)
+[2015-06-29 20:23:46] travis-ci: selendroid/selendroid#739 (master - 4b63795 : Luke Inman-Semerau): The build passed.
+[2015-06-29 20:23:46] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/3b0ea3d28c1b...4b637950ae1c
+[2015-06-29 20:23:46] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68850279
+[2015-06-29 20:23:46] travis-ci, leaving. (#selendroid)
+[2015-06-29 20:24:56] travis-ci, joining. (#selendroid)
+[2015-06-29 20:24:57] travis-ci: selendroid/selendroid#745 (master - 498ff84 : Luke Inman-Semerau): The build was broken.
+[2015-06-29 20:24:57] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/ca228b0764a3...498ff848e6cd
+[2015-06-29 20:24:57] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68851268
+[2015-06-29 20:24:57] travis-ci, leaving. (#selendroid)
