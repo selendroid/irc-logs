@@ -112,3 +112,4 @@
 [2015-06-29 18:24:21] lukeis: oh and we were able to test that change with a device that was connected and "offline" works as desired ;)
 [2015-06-29 18:24:31] lukeis: biab
 [2015-06-29 18:25:13] asm89: _b
+[2015-06-29 18:39:08] asm89: lukeis: still interested in doing this, if not, can you just close the issue? https://github.com/selendroid/selendroid/issues/390
