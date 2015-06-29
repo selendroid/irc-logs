@@ -280,3 +280,9 @@
 [2015-06-29 20:33:40] lukeis: yeah… i just did a select-all delete ;)
 [2015-06-29 20:34:37] asm89: mach6: heh sorry ;)
 [2015-06-29 20:34:45] mach6: oh but whack-o-mole is soo much fun!
+[2015-06-29 20:35:02] asm89: attempted to get the e2e tests on the test app running again
+[2015-06-29 20:35:05] asm89: that's all the PRs
+[2015-06-29 20:35:16] asm89: and now closing out all old issues/non-issues
+[2015-06-29 20:35:31] mach6: it's good to seem, honestly
+[2015-06-29 20:35:33] mach6: *see
+[2015-06-29 20:36:17] asm89: lukeis: https://github.com/selendroid/selendroid/issues/252 -> is that what lead/is related to https://github.com/selendroid/selendroid/issues/390 ?
