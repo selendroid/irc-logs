@@ -1,3 +1,5 @@
 [2015-06-30 00:06:08] raul782, joining. (#selendroid)
 [2015-06-30 00:15:05] raul782, quitting. (Remote host closed the connection)
 [2015-06-30 00:23:27] raul782, joining. (#selendroid)
+[2015-06-30 00:25:05] lukeis: so, now on API 18… only 3 tests failed  TouchScrollTest.testCanScrollVertically  TouchScrollTest.testCanScrollVerticallyFromWebElement  and PageSourceTest.shouldGetNativePageSourceAsXML
+[2015-06-30 00:25:22] lukeis: these e2e tests need a lot of work ;)
