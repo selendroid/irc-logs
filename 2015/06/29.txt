@@ -123,3 +123,8 @@
 [2015-06-29 19:06:25] selendroid-git: selendroid/master 3b0ea3d Luke Inman-Semerau: Merge pull request #900 from selendroid/offlineHardwareOnStartup...
 [2015-06-29 19:06:25] selendroid-git, leaving. (#selendroid)
 [2015-06-29 19:13:20] raul782, quitting. (Remote host closed the connection)
+[2015-06-29 19:25:39] travis-ci, joining. (#selendroid)
+[2015-06-29 19:25:40] travis-ci: selendroid/selendroid#738 (master - 3b0ea3d : Luke Inman-Semerau): The build passed.
+[2015-06-29 19:25:40] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/9102c1d12339...3b0ea3d28c1b
+[2015-06-29 19:25:40] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68845159
+[2015-06-29 19:25:40] travis-ci, leaving. (#selendroid)
