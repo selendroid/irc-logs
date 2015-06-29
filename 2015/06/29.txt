@@ -410,3 +410,10 @@
 [2015-06-29 22:31:51] lukeis: probably
 [2015-06-29 22:31:51] asm89: https://travis-ci.org/asm89/selendroid/builds/68871116 <- running e2e on armeabi-v7
 [2015-06-29 22:32:43] asm89: everything is erroring though
+[2015-06-29 23:02:35] selendroid-git, joining. (#selendroid)
+[2015-06-29 23:02:35] selendroid-git: [selendroid] asm89 opened pull request #927: [standalone] Fix GetLogTypes handler (master...fix-get-log-types-handler) http://git.io/vt66s
+[2015-06-29 23:02:35] selendroid-git, leaving. (#selendroid)
+[2015-06-29 23:02:43] asm89: lukeis: https://github.com/selendroid/selendroid/pull/927 \o/
+[2015-06-29 23:03:54] lukeis: nicely done ;)
+[2015-06-29 23:04:38] lukeis: fun fact… you can request any type of "log" from selendroid and it will just return you the logcat every time ;)
+[2015-06-29 23:05:00] asm89: haha
