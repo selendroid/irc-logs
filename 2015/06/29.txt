@@ -401,3 +401,5 @@
 [2015-06-29 22:23:10] asm89: lukeis: just looked at it
 [2015-06-29 22:23:17] asm89: that will only work if you have --privileged
 [2015-06-29 22:23:23] asm89: i doubt we have that on travis
+[2015-06-29 22:26:00] lukeis: i see that note in the readme…. yet, internally we don't call anything with '-privileged'
+[2015-06-29 22:27:46] asm89: hm
