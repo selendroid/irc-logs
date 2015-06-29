@@ -264,3 +264,19 @@
 [2015-06-29 20:28:38] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/498ff848e6cd...1731febf4446
 [2015-06-29 20:28:38] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68851357
 [2015-06-29 20:28:38] travis-ci, leaving. (#selendroid)
+[2015-06-29 20:30:38] travis-ci, joining. (#selendroid)
+[2015-06-29 20:30:39] travis-ci: selendroid/selendroid#744 (master - ca228b0 : Luke Inman-Semerau): The build passed.
+[2015-06-29 20:30:39] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/0278c21c9687...ca228b0764a3
+[2015-06-29 20:30:40] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68850990
+[2015-06-29 20:30:40] travis-ci, leaving. (#selendroid)
+[2015-06-29 20:31:11] mach6, joining. (#selendroid)
+[2015-06-29 20:31:40] mach6: asm89: you're killing me with the issue notifications. :)
+[2015-06-29 20:31:57] mach6: seriously though.. good stuff
+[2015-06-29 20:32:46] lukeis: i think those were mostly triggered by me ;)
+[2015-06-29 20:32:59] mach6: oh yea? :)
+[2015-06-29 20:33:01] lukeis: but yes… lots of small PRs, lots of IRC notifications
+[2015-06-29 20:33:09] mach6: lost of email..
+[2015-06-29 20:33:12] mach6: *lots
+[2015-06-29 20:33:40] lukeis: yeah… i just did a select-all delete ;)
+[2015-06-29 20:34:37] asm89: mach6: heh sorry ;)
+[2015-06-29 20:34:45] mach6: oh but whack-o-mole is soo much fun!
