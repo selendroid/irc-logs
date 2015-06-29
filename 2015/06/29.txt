@@ -86,3 +86,12 @@
 [2015-06-29 17:33:55] aluedeke, joining. (#selendroid)
 [2015-06-29 17:46:00] aluedeke, quitting. (Ping timeout: 256 seconds)
 [2015-06-29 17:58:40] lukeis, joining. (#selendroid)
+[2015-06-29 18:10:13] asm89: lukeis: \o
+[2015-06-29 18:10:31] lukeis: o/
+[2015-06-29 18:10:57] lukeis: quite busy on github today i see :)
+[2015-06-29 18:11:10] asm89: closing stuff
+[2015-06-29 18:11:19] lukeis: yup +1
+[2015-06-29 18:11:19] asm89: yay for the gist
+[2015-06-29 18:11:33] asm89: i put up separate small pull requests instead of one big one
+[2015-06-29 18:11:41] asm89: hope that's ok
+[2015-06-29 18:12:10] lukeis: should be just fine :)
