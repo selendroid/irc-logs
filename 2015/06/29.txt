@@ -364,3 +364,14 @@
 [2015-06-29 21:49:25] asm89: eh
 [2015-06-29 21:49:28] mach6: was afraid you would saythat.
 [2015-06-29 21:49:47] lukeis: it was based on something he found public....
+[2015-06-29 21:50:05] lukeis: wish others here believed more in open source ;)
+[2015-06-29 21:50:28] mach6: kukies: similar problems here..
+[2015-06-29 21:50:34] mach6: *lukeis:
+[2015-06-29 21:50:58] lukeis: looks like the main point was to use qemu-kvm
+[2015-06-29 21:52:23] mach6: k. I'll find the base image and give it a go sometime then
+[2015-06-29 21:53:35] asm89: lukeis: I have one test failure btw, just ran everything
+[2015-06-29 21:53:36] asm89:   NativeElementInteractionTest.shouldTapOnElement:177 » StaleElementReference Th...
+[2015-06-29 21:53:56] lukeis: mine's *still* running ;)
+[2015-06-29 21:54:26] asm89: wondering if I should kill that one too
+[2015-06-29 21:54:41] asm89: maybe we should divide the test suite in the end
+[2015-06-29 21:54:46] asm89: the flaky tests are really annoying
