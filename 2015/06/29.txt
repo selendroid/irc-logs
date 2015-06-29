@@ -29,3 +29,8 @@
 [2015-06-29 12:29:19] selendroid-git: [selendroid] asm89 pushed 1 new commit to master: http://git.io/vtVhR
 [2015-06-29 12:29:19] selendroid-git: selendroid/master 9102c1d Alexander Mols: Update changelog
 [2015-06-29 12:29:19] selendroid-git, leaving. (#selendroid)
+[2015-06-29 12:30:49] travis-ci, joining. (#selendroid)
+[2015-06-29 12:30:50] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/1faa3e80dc39...03dcedae651c
+[2015-06-29 12:30:50] travis-ci: selendroid/selendroid#721 (master - 03dceda : Alexander): The build passed.
+[2015-06-29 12:30:50] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68787187
+[2015-06-29 12:30:50] travis-ci, leaving. (#selendroid)
