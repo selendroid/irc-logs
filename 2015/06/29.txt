@@ -392,3 +392,6 @@
 [2015-06-29 22:08:13] travis-ci, leaving. (#selendroid)
 [2015-06-29 22:08:30] asm89: no /dev/kvm
 [2015-06-29 22:09:30] lukeis: apt-get install qemu-kvm ? :)
+[2015-06-29 22:11:56] asm89: nah, I doubt that
+[2015-06-29 22:12:07] lukeis: doubt what?
+[2015-06-29 22:14:39] lukeis: asm89: in "before_install" you can do `sudo apt-get install ….`
