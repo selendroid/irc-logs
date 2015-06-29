@@ -195,3 +195,4 @@
 [2015-06-29 19:59:20] selendroid-git: [selendroid] lukeis closed pull request #911: [test-app] Only load extension in ExtensionLoadTest (master...unbreak-e2e-1) http://git.io/vtrSa
 [2015-06-29 19:59:20] selendroid-git, leaving. (#selendroid)
 [2015-06-29 19:59:52] raul782_, joining. (#selendroid)
+[2015-06-29 20:02:42] raul782, quitting. (Ping timeout: 246 seconds)
