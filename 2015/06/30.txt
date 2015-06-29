@@ -3,3 +3,10 @@
 [2015-06-30 00:23:27] raul782, joining. (#selendroid)
 [2015-06-30 00:25:05] lukeis: so, now on API 18… only 3 tests failed  TouchScrollTest.testCanScrollVertically  TouchScrollTest.testCanScrollVerticallyFromWebElement  and PageSourceTest.shouldGetNativePageSourceAsXML
 [2015-06-30 00:25:22] lukeis: these e2e tests need a lot of work ;)
+[2015-06-30 00:35:41] asm89: lukeis: flaky tests I'm guessing
+[2015-06-30 00:35:44] asm89: retry running just those
+[2015-06-30 00:36:10] asm89: mvn -Dtest=TouchScrollTest
+[2015-06-30 00:36:12] asm89: etc
+[2015-06-30 00:36:14] asm89: < out for now!
+[2015-06-30 00:36:18] lukeis: :)
+[2015-06-30 00:36:41] lukeis: i don't want to just retry an individual test! ;) what's this "flakey" crap?!
