@@ -458,3 +458,6 @@
 [2015-06-29 23:49:36] lukeis: yeah
 [2015-06-29 23:49:56] asm89: I have PR that I don't want merged yet, but I can put it up
 [2015-06-29 23:49:59] asm89: does that make sense? :P
+[2015-06-29 23:50:08] asm89: I'd like to run it against our FB tests first
+[2015-06-29 23:50:31] lukeis: you can always mention, hold off on merging this till I finish running my tests :)
+[2015-06-29 23:50:58] asm89: _b
