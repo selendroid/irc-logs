@@ -382,3 +382,13 @@
 [2015-06-29 22:01:33] travis-ci, leaving. (#selendroid)
 [2015-06-29 22:01:47] asm89: doh, no kvm on ther
 [2015-06-29 22:01:49] asm89: there
+[2015-06-29 22:05:11] lukeis: mach6 / asm89:  https://github.com/kevinwallace/qemu-docker   similar things would need to get done to the travis container
+[2015-06-29 22:05:47] lukeis: so, my internal one borrowed a lot from that one
+[2015-06-29 22:08:08] mach6: lukeis: ty
+[2015-06-29 22:08:12] travis-ci, joining. (#selendroid)
+[2015-06-29 22:08:13] travis-ci: Change view : https://github.com/asm89/selendroid/compare/0a46dfe29a5d...8b7081c39251
+[2015-06-29 22:08:13] travis-ci: Build details : https://travis-ci.org/asm89/selendroid/builds/68867516
+[2015-06-29 22:08:13] travis-ci: asm89/selendroid#2 (emulator-on-travis - 8b7081c : Alexander Mols): The build has errored.
+[2015-06-29 22:08:13] travis-ci, leaving. (#selendroid)
+[2015-06-29 22:08:30] asm89: no /dev/kvm
+[2015-06-29 22:09:30] lukeis: apt-get install qemu-kvm ? :)
