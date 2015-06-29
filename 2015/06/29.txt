@@ -403,3 +403,10 @@
 [2015-06-29 22:23:23] asm89: i doubt we have that on travis
 [2015-06-29 22:26:00] lukeis: i see that note in the readme…. yet, internally we don't call anything with '-privileged'
 [2015-06-29 22:27:46] asm89: hm
+[2015-06-29 22:30:43] lukeis: asm89: so, updating the atoms results in 37 test failures for me… going to revert that change and see if i have better results running without :)
+[2015-06-29 22:31:25] asm89: woa
+[2015-06-29 22:31:47] lukeis: the atoms are a scary beast ;)
+[2015-06-29 22:31:47] asm89: isn't that all tests for locating elements in web context?
+[2015-06-29 22:31:51] lukeis: probably
+[2015-06-29 22:31:51] asm89: https://travis-ci.org/asm89/selendroid/builds/68871116 <- running e2e on armeabi-v7
+[2015-06-29 22:32:43] asm89: everything is erroring though
