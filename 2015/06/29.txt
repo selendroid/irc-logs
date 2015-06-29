@@ -41,3 +41,5 @@
 [2015-06-29 12:35:22] travis-ci, leaving. (#selendroid)
 [2015-06-29 12:50:34] smikloso, quitting. (Read error: Connection reset by peer)
 [2015-06-29 12:51:07] smikloso, joining. (#selendroid)
+[2015-06-29 13:32:30] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2015-06-29 13:32:49] simonstewart, joining. (#selendroid)
