@@ -64,3 +64,12 @@
 [2015-06-30 16:55:39] selendroid-git, joining. (#selendroid)
 [2015-06-30 16:55:39] selendroid-git: [selendroid] asm89 opened pull request #931: [server] Do not search in multiple top level views (master...do-not-search-in-multiple-top-level-views) http://git.io/vtDeC
 [2015-06-30 16:55:39] selendroid-git, leaving. (#selendroid)
+[2015-06-30 17:51:40] lukeis, joining. (#selendroid)
+[2015-06-30 17:54:05] selendroid-git, joining. (#selendroid)
+[2015-06-30 17:54:05] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vtDEo
+[2015-06-30 17:54:05] selendroid-git: selendroid/master 639d8df Alexander Mols: [standalone] Fix GetLogTypes handler...
+[2015-06-30 17:54:05] selendroid-git: selendroid/master fcd511b Luke Inman-Semerau: Merge pull request #927 from asm89/fix-get-log-types-handler...
+[2015-06-30 17:54:05] selendroid-git, leaving. (#selendroid)
+[2015-06-30 17:54:35] asm89: lukeis: \o/
+[2015-06-30 17:54:38] asm89: merge all the pull requests
+[2015-06-30 17:54:44] lukeis: ;)
