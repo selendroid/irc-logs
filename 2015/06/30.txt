@@ -108,3 +108,9 @@
 [2015-06-30 21:18:19] selendroid-git: selendroid/master 97e063c Alexander: Merge pull request #929 from asm89/fix-npe-in-viewhierarchyanalyzer...
 [2015-06-30 21:18:19] selendroid-git, leaving. (#selendroid)
 [2015-06-30 21:22:55] asm89: lukeis: https://github.com/selendroid/selendroid/pull/928#discussion_r33612823
+[2015-06-30 21:33:30] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-06-30 21:34:22] travis-ci, joining. (#selendroid)
+[2015-06-30 21:34:23] travis-ci: selendroid/selendroid#760 (master - d385e9f : Alexander): The build passed.
+[2015-06-30 21:34:23] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/8c1125241eb6...d385e9f89c39
+[2015-06-30 21:34:23] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/69028142
+[2015-06-30 21:34:23] travis-ci, leaving. (#selendroid)
