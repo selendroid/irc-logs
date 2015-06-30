@@ -49,3 +49,5 @@
 [2015-06-30 13:29:19] simonstewart, joining. (#selendroid)
 [2015-06-30 14:40:44] aluedeke, quitting. (Quit: Leaving.)
 [2015-06-30 14:50:14] aluedeke, joining. (#selendroid)
+[2015-06-30 15:22:49] aluedeke, quitting. (Read error: Connection reset by peer)
+[2015-06-30 15:22:59] aluedeke, joining. (#selendroid)
