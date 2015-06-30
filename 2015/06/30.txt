@@ -91,3 +91,8 @@
 [2015-06-30 18:25:54] lukeis: i don't even….. wtf… google group is "selendroid" and you ask about ios-driver?? https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/selendroid/TtYUdf1hYdc/0uRXmEq-G4gJ
 [2015-06-30 18:51:52] raul782, quitting. (Remote host closed the connection)
 [2015-06-30 19:04:28] raul782, joining. (#selendroid)
+[2015-06-30 19:12:36] travis-ci, joining. (#selendroid)
+[2015-06-30 19:12:38] travis-ci: selendroid/selendroid#758 (master - fcd511b : Luke Inman-Semerau): The build passed.
+[2015-06-30 19:12:38] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/965a0b879ba1...fcd511b1d66e
+[2015-06-30 19:12:38] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68999115
+[2015-06-30 19:12:38] travis-ci, leaving. (#selendroid)
