@@ -175,3 +175,4 @@
 [2015-06-30 22:25:20] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/97e063cd2a28...b98438614d81
 [2015-06-30 22:25:20] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/69034446
 [2015-06-30 22:25:20] travis-ci, leaving. (#selendroid)
+[2015-06-30 22:49:48] raul782, quitting. (Remote host closed the connection)
