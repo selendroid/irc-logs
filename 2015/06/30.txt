@@ -122,3 +122,21 @@
 [2015-06-30 21:38:10] asm89: lukeis: also, is this a support question? https://github.com/selendroid/selendroid/issues/908
 [2015-06-30 21:51:48] lukeis: asm89:  yes
 [2015-06-30 21:52:06] lukeis: well, a bug without a repro test case
+[2015-06-30 21:55:38] asm89: lukeis: so can we kill the issue and redirect to mailing list? or...? :)
+[2015-06-30 21:55:44] lukeis: yes
+[2015-06-30 21:56:16] asm89: i love my bookmarklet :D
+[2015-06-30 21:56:19] asm89: lukeis++
+[2015-06-30 21:56:22] lukeis: :)
+[2015-06-30 21:56:44] lukeis: it's the little things ;)
+[2015-06-30 21:57:21] asm89:  +asm89 | lukeis++
+[2015-06-30 21:57:23] asm89: leetbot | lukeis heeft een karma van 1
+[2015-06-30 21:57:25] asm89: :P
+[2015-06-30 21:57:49] asm89: as for the other PR, +1 on merging it as is + new issue?
+[2015-06-30 21:58:22] lukeis: has to go check what you said :)
+[2015-06-30 21:59:00] asm89: _b
+[2015-06-30 21:59:27] lukeis: yeah, +1 on merging and then the "new issue" is the W3C spec bugs, I said I would log :)
+[2015-06-30 21:59:56] selendroid-git, joining. (#selendroid)
+[2015-06-30 21:59:56] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vtSgi
+[2015-06-30 21:59:57] selendroid-git: selendroid/master d9fabce Alexander Mols: [standalone] Fix HTTP response for unknown commands...
+[2015-06-30 21:59:57] selendroid-git: selendroid/master b984386 Luke Inman-Semerau: Merge pull request #928 from asm89/fix-http-response-for-unknown-commands...
+[2015-06-30 21:59:57] selendroid-git, leaving. (#selendroid)
