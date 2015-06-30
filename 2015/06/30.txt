@@ -155,3 +155,9 @@
 [2015-06-30 22:04:55] selendroid-git: selendroid/master 16fc551 Luke Inman-Semerau: updating AndroidAtoms...
 [2015-06-30 22:04:55] selendroid-git, leaving. (#selendroid)
 [2015-06-30 22:05:29] asm89: lukeis: wat..
+[2015-06-30 22:14:06] lukeis: did you mean lolwat? :)
+[2015-06-30 22:14:24] selendroid-git, joining. (#selendroid)
+[2015-06-30 22:14:24] selendroid-git: [selendroid] asm89 pushed 1 new commit to master: http://git.io/vtSKC
+[2015-06-30 22:14:24] selendroid-git: selendroid/master bc7f739 Alexander Mols: Update changelog
+[2015-06-30 22:14:24] selendroid-git, leaving. (#selendroid)
+[2015-06-30 22:15:00] lukeis: thanks for taking care of the change log
