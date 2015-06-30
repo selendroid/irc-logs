@@ -99,3 +99,11 @@
 [2015-06-30 19:36:49] aluedeke, joining. (#selendroid)
 [2015-06-30 20:24:25] aluedeke, quitting. (Ping timeout: 264 seconds)
 [2015-06-30 21:13:38] asm89: lukeis: lol @ that
+[2015-06-30 21:17:57] selendroid-git, joining. (#selendroid)
+[2015-06-30 21:17:57] selendroid-git: [selendroid] asm89 closed pull request #931: [server] Do not search in multiple top level views (master...do-not-search-in-multiple-top-level-views) http://git.io/vtDeC
+[2015-06-30 21:17:57] selendroid-git, leaving. (#selendroid)
+[2015-06-30 21:18:19] selendroid-git, joining. (#selendroid)
+[2015-06-30 21:18:19] selendroid-git: [selendroid] asm89 pushed 2 new commits to master: http://git.io/vtSsz
+[2015-06-30 21:18:19] selendroid-git: selendroid/master 3b2acdf Alexander Mols: [server] Fix NPE in ViewHierarchyAnalyzer...
+[2015-06-30 21:18:19] selendroid-git: selendroid/master 97e063c Alexander: Merge pull request #929 from asm89/fix-npe-in-viewhierarchyanalyzer...
+[2015-06-30 21:18:19] selendroid-git, leaving. (#selendroid)
