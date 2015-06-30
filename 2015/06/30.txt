@@ -140,3 +140,17 @@
 [2015-06-30 21:59:57] selendroid-git: selendroid/master d9fabce Alexander Mols: [standalone] Fix HTTP response for unknown commands...
 [2015-06-30 21:59:57] selendroid-git: selendroid/master b984386 Luke Inman-Semerau: Merge pull request #928 from asm89/fix-http-response-for-unknown-commands...
 [2015-06-30 21:59:57] selendroid-git, leaving. (#selendroid)
+[2015-06-30 22:00:11] asm89: are you filing?
+[2015-06-30 22:00:19] lukeis: yeah
+[2015-06-30 22:00:54] asm89: thanks :)
+[2015-06-30 22:00:56] asm89: cool
+[2015-06-30 22:01:02] asm89: down to 12 issues
+[2015-06-30 22:02:36] selendroid-git, joining. (#selendroid)
+[2015-06-30 22:02:36] selendroid-git: [selendroid] asm89 deleted offlineHardwareOnStartup at 7d33cc1: http://git.io/vtS2P
+[2015-06-30 22:02:36] selendroid-git, leaving. (#selendroid)
+[2015-06-30 22:02:50] lukeis: ah, thanks, forgot to do that :)
+[2015-06-30 22:04:29] lukeis: ok… so, using API level 18, got the same failure rate with the atoms update as before… 19, that's just a cluster fuck apparently when running the e2e tests
+[2015-06-30 22:04:55] selendroid-git, joining. (#selendroid)
+[2015-06-30 22:04:55] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/vtSaA
+[2015-06-30 22:04:55] selendroid-git: selendroid/master 16fc551 Luke Inman-Semerau: updating AndroidAtoms...
+[2015-06-30 22:04:55] selendroid-git, leaving. (#selendroid)
