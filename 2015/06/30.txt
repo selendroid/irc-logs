@@ -88,3 +88,4 @@
 [2015-06-30 18:11:52] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/fcd511b1d66e...8c1125241eb6
 [2015-06-30 18:11:52] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68999795
 [2015-06-30 18:11:52] travis-ci, leaving. (#selendroid)
+[2015-06-30 18:25:54] lukeis: i don't even….. wtf… google group is "selendroid" and you ask about ios-driver?? https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/selendroid/TtYUdf1hYdc/0uRXmEq-G4gJ
