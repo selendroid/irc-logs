@@ -73,3 +73,12 @@
 [2015-06-30 17:54:35] asm89: lukeis: \o/
 [2015-06-30 17:54:38] asm89: merge all the pull requests
 [2015-06-30 17:54:44] lukeis: ;)
+[2015-06-30 17:55:01] asm89: i'll look at the broken builds
+[2015-06-30 17:55:10] asm89: and please do comment if something is up
+[2015-06-30 17:55:40] smikloso, quitting. (Ping timeout: 252 seconds)
+[2015-06-30 17:58:24] selendroid-git, joining. (#selendroid)
+[2015-06-30 17:58:25] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vtDzM
+[2015-06-30 17:58:25] selendroid-git: selendroid/master 83489d6 Alexander Mols: [server] Do not try to get the resource name if the view has no id...
+[2015-06-30 17:58:25] selendroid-git: selendroid/master 8c11252 Luke Inman-Semerau: Merge pull request #930 from asm89/fix-getting-resource-for-non-id...
+[2015-06-30 17:58:25] selendroid-git, leaving. (#selendroid)
+[2015-06-30 17:59:20] asm89: lukeis: I restarted builds that were red
