@@ -83,3 +83,8 @@
 [2015-06-30 17:58:25] selendroid-git, leaving. (#selendroid)
 [2015-06-30 17:59:20] asm89: lukeis: I restarted builds that were red
 [2015-06-30 18:06:14] raul782, joining. (#selendroid)
+[2015-06-30 18:11:51] travis-ci, joining. (#selendroid)
+[2015-06-30 18:11:52] travis-ci: selendroid/selendroid#759 (master - 8c11252 : Luke Inman-Semerau): The build passed.
+[2015-06-30 18:11:52] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/fcd511b1d66e...8c1125241eb6
+[2015-06-30 18:11:52] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/68999795
+[2015-06-30 18:11:52] travis-ci, leaving. (#selendroid)
