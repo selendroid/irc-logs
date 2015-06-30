@@ -61,3 +61,6 @@
 [2015-06-30 16:44:51] smccarthy, joining. (#selendroid)
 [2015-06-30 16:47:21] raul782, joining. (#selendroid)
 [2015-06-30 16:50:43] raul782, quitting. (Remote host closed the connection)
+[2015-06-30 16:55:39] selendroid-git, joining. (#selendroid)
+[2015-06-30 16:55:39] selendroid-git: [selendroid] asm89 opened pull request #931: [server] Do not search in multiple top level views (master...do-not-search-in-multiple-top-level-views) http://git.io/vtDeC
+[2015-06-30 16:55:39] selendroid-git, leaving. (#selendroid)
