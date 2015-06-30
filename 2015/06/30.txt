@@ -161,3 +161,12 @@
 [2015-06-30 22:14:24] selendroid-git: selendroid/master bc7f739 Alexander Mols: Update changelog
 [2015-06-30 22:14:24] selendroid-git, leaving. (#selendroid)
 [2015-06-30 22:15:00] lukeis: thanks for taking care of the change log
+[2015-06-30 22:15:01] asm89: lukeis: watman
+[2015-06-30 22:15:05] asm89: np!
+[2015-06-30 22:15:14] lukeis: biab...
+[2015-06-30 22:15:18] asm89: it's easier to do _now_ then in w/e
+[2015-06-30 22:19:23] travis-ci, joining. (#selendroid)
+[2015-06-30 22:19:24] travis-ci: selendroid/selendroid#763 (master - 16fc551 : Luke Inman-Semerau): The build passed.
+[2015-06-30 22:19:25] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/b98438614d81...16fc55191270
+[2015-06-30 22:19:25] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/69035128
+[2015-06-30 22:19:25] travis-ci, leaving. (#selendroid)
