@@ -90,3 +90,4 @@
 [2015-06-30 18:11:52] travis-ci, leaving. (#selendroid)
 [2015-06-30 18:25:54] lukeis: i don't even….. wtf… google group is "selendroid" and you ask about ios-driver?? https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/selendroid/TtYUdf1hYdc/0uRXmEq-G4gJ
 [2015-06-30 18:51:52] raul782, quitting. (Remote host closed the connection)
+[2015-06-30 19:04:28] raul782, joining. (#selendroid)
