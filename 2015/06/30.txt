@@ -120,3 +120,5 @@
 [2015-06-30 21:36:18] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/69028179
 [2015-06-30 21:36:18] travis-ci, leaving. (#selendroid)
 [2015-06-30 21:38:10] asm89: lukeis: also, is this a support question? https://github.com/selendroid/selendroid/issues/908
+[2015-06-30 21:51:48] lukeis: asm89:  yes
+[2015-06-30 21:52:06] lukeis: well, a bug without a repro test case
