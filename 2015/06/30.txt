@@ -59,3 +59,4 @@
 [2015-06-30 16:43:16] selendroid-git: [selendroid] asm89 opened pull request #930: [server] Do not try to get the resource name if the view has no id (master...fix-getting-resource-for-non-id) http://git.io/vtMbg
 [2015-06-30 16:43:16] selendroid-git, leaving. (#selendroid)
 [2015-06-30 16:44:51] smccarthy, joining. (#selendroid)
+[2015-06-30 16:47:21] raul782, joining. (#selendroid)
