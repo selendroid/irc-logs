@@ -16,3 +16,4 @@
 [2015-06-30 01:42:49] mach6, quitting. (Quit: Page closed)
 [2015-06-30 02:08:16] smccarthy, quitting. (Remote host closed the connection)
 [2015-06-30 02:09:39] smccarthy, joining. (#selendroid)
+[2015-06-30 02:13:07] smccarthy, quitting. (Client Quit)
