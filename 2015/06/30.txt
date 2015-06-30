@@ -82,3 +82,4 @@
 [2015-06-30 17:58:25] selendroid-git: selendroid/master 8c11252 Luke Inman-Semerau: Merge pull request #930 from asm89/fix-getting-resource-for-non-id...
 [2015-06-30 17:58:25] selendroid-git, leaving. (#selendroid)
 [2015-06-30 17:59:20] asm89: lukeis: I restarted builds that were red
+[2015-06-30 18:06:14] raul782, joining. (#selendroid)
