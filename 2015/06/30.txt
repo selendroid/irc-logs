@@ -60,3 +60,4 @@
 [2015-06-30 16:43:16] selendroid-git, leaving. (#selendroid)
 [2015-06-30 16:44:51] smccarthy, joining. (#selendroid)
 [2015-06-30 16:47:21] raul782, joining. (#selendroid)
+[2015-06-30 16:50:43] raul782, quitting. (Remote host closed the connection)
