@@ -1,1 +1,2 @@
 [2015-07-01 01:09:03] lukeis, quitting. (Ping timeout: 248 seconds)
+[2015-07-01 02:26:40] [b__b], quitting. (Remote host closed the connection)
