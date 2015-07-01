@@ -42,3 +42,4 @@
 [2015-07-01 16:14:17] raul782, quitting. (Ping timeout: 246 seconds)
 [2015-07-01 16:46:34] simonstewart, quitting. (*.net *.split)
 [2015-07-01 16:49:37] simonstewart, joining. (#selendroid)
+[2015-07-01 16:55:22] smikloso, leaving. (#selendroid)
