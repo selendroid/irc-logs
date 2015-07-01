@@ -3,3 +3,4 @@
 [2015-07-01 02:31:17] [b__b], joining. (#selendroid)
 [2015-07-01 03:03:37] smccarthy, quitting. (Quit: Leaving...)
 [2015-07-01 03:23:38] smccarthy, joining. (#selendroid)
+[2015-07-01 03:30:45] smccarthy, quitting. (Remote host closed the connection)
