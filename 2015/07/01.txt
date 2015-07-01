@@ -43,3 +43,4 @@
 [2015-07-01 16:46:34] simonstewart, quitting. (*.net *.split)
 [2015-07-01 16:49:37] simonstewart, joining. (#selendroid)
 [2015-07-01 16:55:22] smikloso, leaving. (#selendroid)
+[2015-07-01 17:11:44] smccarthy, joining. (#selendroid)
