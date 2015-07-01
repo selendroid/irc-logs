@@ -11,3 +11,4 @@
 [2015-07-01 04:57:44] raul782_, quitting. (Ping timeout: 246 seconds)
 [2015-07-01 05:09:11] raul782_, joining. (#selendroid)
 [2015-07-01 05:12:07] raul782, quitting. (Ping timeout: 256 seconds)
+[2015-07-01 07:34:30] smccarthy, quitting. (Read error: Connection reset by peer)
