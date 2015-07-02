@@ -45,3 +45,5 @@
 [2015-07-02 22:03:11] smccarthy, quitting. (Quit: Leaving...)
 [2015-07-02 22:18:17] lukeis, joining. (#selendroid)
 [2015-07-02 23:06:34] lukeis, quitting. (Quit: Leaving.)
+[2015-07-02 23:15:28] raul782, quitting. (Read error: No route to host)
+[2015-07-02 23:16:11] raul782, joining. (#selendroid)
