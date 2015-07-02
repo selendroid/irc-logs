@@ -32,3 +32,4 @@
 [2015-07-02 17:03:01] smccarthy, joining. (#selendroid)
 [2015-07-02 17:17:14] lukeis, joining. (#selendroid)
 [2015-07-02 19:15:17] lukeis, quitting. (Ping timeout: 264 seconds)
+[2015-07-02 19:28:08] raul782, quitting. (Remote host closed the connection)
