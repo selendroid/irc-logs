@@ -1,2 +1,5 @@
 [2015-07-02 01:02:25] lukeis, quitting. (Quit: Leaving.)
 [2015-07-02 02:18:01] raul782_, joining. (#selendroid)
+[2015-07-02 02:20:16] raul782__, joining. (#selendroid)
+[2015-07-02 02:21:11] raul782, quitting. (Ping timeout: 246 seconds)
+[2015-07-02 02:23:17] raul782_, quitting. (Ping timeout: 246 seconds)
