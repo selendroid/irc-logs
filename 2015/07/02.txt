@@ -27,3 +27,4 @@
 [2015-07-02 14:47:35] aluedeke, joining. (#selendroid)
 [2015-07-02 14:49:30] aluedeke1, joining. (#selendroid)
 [2015-07-02 14:49:30] aluedeke, quitting. (Read error: Connection reset by peer)
+[2015-07-02 15:25:54] aluedeke1, quitting. (Ping timeout: 276 seconds)
