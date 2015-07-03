@@ -26,3 +26,5 @@
 [2015-07-03 19:49:39] raul782, joining. (#selendroid)
 [2015-07-03 20:50:23] ddary, quitting. (Quit: ddary)
 [2015-07-03 21:24:44] smccarthy, quitting. (Quit: Leaving...)
+[2015-07-03 23:12:05] ddary, joining. (#selendroid)
+[2015-07-03 23:12:47] ddary, quitting. (Client Quit)
