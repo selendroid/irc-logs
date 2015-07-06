@@ -43,3 +43,4 @@
 [2015-07-06 19:30:43] aluedeke, joining. (#selendroid)
 [2015-07-06 19:31:26] raul782, quitting. (Remote host closed the connection)
 [2015-07-06 19:33:15] raul782, joining. (#selendroid)
+[2015-07-06 19:51:44] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
