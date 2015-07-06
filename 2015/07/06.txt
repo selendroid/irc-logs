@@ -46,3 +46,4 @@
 [2015-07-06 19:51:44] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2015-07-06 20:31:44] aluedeke, quitting. (Quit: Leaving.)
 [2015-07-06 20:34:35] aluedeke, joining. (#selendroid)
+[2015-07-06 20:53:50] mach6, joining. (#selendroid)
