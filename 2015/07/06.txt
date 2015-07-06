@@ -55,3 +55,4 @@
 [2015-07-06 22:29:17] raul782, joining. (#selendroid)
 [2015-07-06 22:34:33] aluedeke, quitting. (Ping timeout: 276 seconds)
 [2015-07-06 22:43:38] simonstewart, joining. (#selendroid)
+[2015-07-06 22:52:46] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
