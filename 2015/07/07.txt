@@ -18,3 +18,4 @@
 [2015-07-07 06:47:16] raul782, joining. (#selendroid)
 [2015-07-07 07:12:54] smccarthy, quitting. (Quit: Leaving...)
 [2015-07-07 08:07:03] aluedeke, joining. (#selendroid)
+[2015-07-07 08:42:39] aluedeke, quitting. (Quit: Leaving.)
