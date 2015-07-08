@@ -3,3 +3,4 @@
 [2015-07-08 01:19:17] raul782, joining. (#selendroid)
 [2015-07-08 01:58:03] mach6, quitting. (Ping timeout: 246 seconds)
 [2015-07-08 04:30:49] simonstewart, joining. (#selendroid)
+[2015-07-08 05:01:57] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
