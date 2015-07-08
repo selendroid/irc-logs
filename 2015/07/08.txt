@@ -5,3 +5,4 @@
 [2015-07-08 04:30:49] simonstewart, joining. (#selendroid)
 [2015-07-08 05:01:57] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-07-08 05:19:54] raul782, quitting. (Remote host closed the connection)
+[2015-07-08 05:30:13] aluedeke, joining. (#selendroid)
