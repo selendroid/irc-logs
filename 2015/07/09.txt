@@ -24,3 +24,4 @@
 [2015-07-09 09:44:26] Gyran, joining. (#selendroid)
 [2015-07-09 10:07:53] raul782, joining. (#selendroid)
 [2015-07-09 10:12:47] raul782, quitting. (Ping timeout: 256 seconds)
+[2015-07-09 10:28:36] smikloso, joining. (#selendroid)
