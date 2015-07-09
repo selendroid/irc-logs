@@ -16,3 +16,5 @@
 [2015-07-09 06:56:05] smccarthy, quitting. (Quit: Leaving...)
 [2015-07-09 08:11:49] eyalhei, joining. (#selendroid)
 [2015-07-09 08:12:58] eyalhei: Hi, anybody here?
+[2015-07-09 08:15:26] eyalhei:  /me waves hello
+[2015-07-09 08:15:36] eyalhei, quitting. (Client Quit)
