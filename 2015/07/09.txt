@@ -55,3 +55,5 @@
 [2015-07-09 20:49:25] aluedeke, quitting. (Ping timeout: 256 seconds)
 [2015-07-09 21:01:07] raul782_, quitting. (Remote host closed the connection)
 [2015-07-09 21:31:01] raul782, joining. (#selendroid)
+[2015-07-09 22:29:24] lukeis, quitting. (Read error: Connection reset by peer)
+[2015-07-09 22:29:40] lukeis, joining. (#selendroid)
