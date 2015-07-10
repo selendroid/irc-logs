@@ -44,3 +44,5 @@
 [2015-07-10 19:28:44] raul782, joining. (#selendroid)
 [2015-07-10 19:29:40] raul782, quitting. (Remote host closed the connection)
 [2015-07-10 19:31:41] raul782, joining. (#selendroid)
+[2015-07-10 20:45:59] lukeis, quitting. (Read error: Connection reset by peer)
+[2015-07-10 20:46:07] lukeis, joining. (#selendroid)
