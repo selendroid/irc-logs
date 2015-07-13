@@ -38,3 +38,4 @@
 [2015-07-13 18:42:49] smikloso, joining. (#selendroid)
 [2015-07-13 18:47:05] smikloso, quitting. (Client Quit)
 [2015-07-13 19:33:24] aluedeke, joining. (#selendroid)
+[2015-07-13 19:39:06] ddary, quitting. (Ping timeout: 246 seconds)
