@@ -52,3 +52,8 @@
 [2015-07-13 21:50:19] aluedeke, quitting. (Ping timeout: 244 seconds)
 [2015-07-13 22:53:52] raul782, quitting. (Remote host closed the connection)
 [2015-07-13 23:19:58] raul782, joining. (#selendroid)
+[2015-07-13 23:57:39] travis-ci, joining. (#selendroid)
+[2015-07-13 23:57:40] travis-ci: alb-i986/selendroid#1 (refactor-Bys - 6b1ac98 : Alberto Scotto): The build failed.
+[2015-07-13 23:57:40] travis-ci: Change view : https://github.com/alb-i986/selendroid/compare/8e877a4fb237...6b1ac982da13
+[2015-07-13 23:57:40] travis-ci: Build details : https://travis-ci.org/alb-i986/selendroid/builds/70814683
+[2015-07-13 23:57:40] travis-ci, leaving. (#selendroid)
