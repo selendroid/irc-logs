@@ -32,3 +32,4 @@
 [2015-07-13 17:36:34] aluedeke, quitting. (Ping timeout: 250 seconds)
 [2015-07-13 17:36:50] Gyran, quitting. (*.net *.split)
 [2015-07-13 17:37:23] Gyran, joining. (#selendroid)
+[2015-07-13 17:48:08] smccarthy, joining. (#selendroid)
