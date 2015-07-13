@@ -1,3 +1,5 @@
 [2015-07-14 00:17:09] selendroid-git: [selendroid] alb-i986 opened pull request #941: refactor By#findElement(s): save on creating new instances (master...refactor-Bys) http://git.io/vmt4Y
 [2015-07-14 00:17:09] selendroid-git, joining. (#selendroid)
 [2015-07-14 00:17:09] selendroid-git, leaving. (#selendroid)
+[2015-07-14 00:32:18] lukeis, quitting. (Quit: Leaving.)
+[2015-07-14 00:34:14] raul782_, joining. (#selendroid)
