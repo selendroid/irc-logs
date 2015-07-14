@@ -36,3 +36,22 @@
 [2015-07-14 17:16:26] ddary, joining. (#selendroid)
 [2015-07-14 17:24:38] ddary: hi @asm89
 [2015-07-14 17:24:46] asm89: hi ddary
+[2015-07-14 17:25:01] ddary: lukeis just pinged me and said that he won't make it
+[2015-07-14 17:25:13] ddary: should we just do the call?
+[2015-07-14 17:25:29] asm89: let's reschedule imo :)
+[2015-07-14 17:25:35] asm89: that's 33% down :P
+[2015-07-14 17:25:37] ddary: ok
+[2015-07-14 17:25:42] asm89: you're on it?
+[2015-07-14 17:25:53] ddary: that is fine
+[2015-07-14 17:26:08] ddary: i will have the call about testing in the cloud tomorrow night
+[2015-07-14 17:26:19] ddary: so then probably I can share something
+[2015-07-14 17:26:21] asm89: cool :)
+[2015-07-14 17:26:29] asm89: ok, so then doing it at a different time is better anyway
+[2015-07-14 17:26:37] ddary: when do you usually leave the office?
+[2015-07-14 17:27:38] asm89: at 5ish
+[2015-07-14 17:27:57] asm89: i try do have not have video calls between 5 - 8
+[2015-07-14 17:28:13] asm89: i'm fine with after 8
+[2015-07-14 17:28:14] smikloso, leaving. (#selendroid)
+[2015-07-14 17:29:22] asm89: accepted
+[2015-07-14 17:29:55] ddary: ok
+[2015-07-14 17:30:01] smccarthy, quitting. (Quit: Leaving...)
