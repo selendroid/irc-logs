@@ -61,3 +61,4 @@
 [2015-07-14 17:31:09] ddary: ..
 [2015-07-14 17:31:40] ddary: going offline now, see your thursday
 [2015-07-14 17:32:51] smccarthy, joining. (#selendroid)
+[2015-07-14 17:35:48] ddary, quitting. (Ping timeout: 246 seconds)
