@@ -29,3 +29,4 @@
 [2015-07-14 12:23:47] aluedeke, joining. (#selendroid)
 [2015-07-14 12:28:36] aluedeke, quitting. (Ping timeout: 264 seconds)
 [2015-07-14 12:47:48] ddary, joining. (#selendroid)
+[2015-07-14 13:37:23] ddary, quitting. (Quit: Page closed)
