@@ -64,3 +64,4 @@
 [2015-07-14 17:35:48] ddary, quitting. (Ping timeout: 246 seconds)
 [2015-07-14 18:10:16] lukeis, joining. (#selendroid)
 [2015-07-14 18:13:39] raul782, joining. (#selendroid)
+[2015-07-14 18:16:30] raul782_, quitting. (Ping timeout: 246 seconds)
