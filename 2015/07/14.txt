@@ -31,3 +31,4 @@
 [2015-07-14 12:47:48] ddary, joining. (#selendroid)
 [2015-07-14 13:37:23] ddary, quitting. (Quit: Page closed)
 [2015-07-14 14:20:08] rlux, joining. (#selendroid)
+[2015-07-14 15:49:25] rlux, quitting. (Remote host closed the connection)
