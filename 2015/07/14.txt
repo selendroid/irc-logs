@@ -34,3 +34,5 @@
 [2015-07-14 15:49:25] rlux, quitting. (Remote host closed the connection)
 [2015-07-14 16:05:09] smccarthy, joining. (#selendroid)
 [2015-07-14 17:16:26] ddary, joining. (#selendroid)
+[2015-07-14 17:24:38] ddary: hi @asm89
+[2015-07-14 17:24:46] asm89: hi ddary
