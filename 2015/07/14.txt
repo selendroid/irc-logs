@@ -72,3 +72,5 @@
 [2015-07-14 20:50:13] [b__b], quitting. (Ping timeout: 246 seconds)
 [2015-07-14 21:47:43] [b__b], joining. (#selendroid)
 [2015-07-14 21:51:08] raul782, quitting. ()
+[2015-07-14 22:58:35] raul782, joining. (#selendroid)
+[2015-07-14 22:59:09] raul782_, joining. (#selendroid)
