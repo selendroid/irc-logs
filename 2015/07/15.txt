@@ -19,3 +19,4 @@
 [2015-07-15 09:45:40] ddary, joining. (#selendroid)
 [2015-07-15 09:46:00] ddary: :log
 [2015-07-15 10:07:33] raul782_, quitting. (Remote host closed the connection)
+[2015-07-15 10:38:51] ddary, quitting. (Ping timeout: 246 seconds)
