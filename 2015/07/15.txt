@@ -3,3 +3,4 @@
 [2015-07-15 03:50:57] rlux, quitting. (Remote host closed the connection)
 [2015-07-15 04:59:05] smccarthy, quitting. (Quit: Leaving...)
 [2015-07-15 06:22:16] raul782, quitting. (Remote host closed the connection)
+[2015-07-15 06:39:34] raul782, joining. (#selendroid)
