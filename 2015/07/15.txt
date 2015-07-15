@@ -21,3 +21,4 @@
 [2015-07-15 10:07:33] raul782_, quitting. (Remote host closed the connection)
 [2015-07-15 10:38:51] ddary, quitting. (Ping timeout: 246 seconds)
 [2015-07-15 11:39:09] smikloso, joining. (#selendroid)
+[2015-07-15 12:30:37] dazer: is there any way to wait till emulator is startedup to avoid io.selendroid.standalone.exceptions.ShellCommandException: error: device not found ?
