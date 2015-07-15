@@ -29,3 +29,4 @@
 [2015-07-15 15:15:10] dazer, quitting. (Quit: Page closed)
 [2015-07-15 15:59:47] smikloso, leaving. (#selendroid)
 [2015-07-15 16:12:40] smccarthy, joining. (#selendroid)
+[2015-07-15 17:52:50] raul782, joining. (#selendroid)
