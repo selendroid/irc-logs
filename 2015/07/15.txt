@@ -40,3 +40,5 @@
 [2015-07-15 18:40:02] raul782, quitting. (Remote host closed the connection)
 [2015-07-15 18:40:18] raul782, joining. (#selendroid)
 [2015-07-15 20:17:05] ddary, joining. (#selendroid)
+[2015-07-15 21:20:06] ddary: hi lukeis
+[2015-07-15 21:22:32] raul782, quitting. (Remote host closed the connection)
