@@ -23,3 +23,4 @@
 [2015-07-15 11:39:09] smikloso, joining. (#selendroid)
 [2015-07-15 12:30:37] dazer: is there any way to wait till emulator is startedup to avoid io.selendroid.standalone.exceptions.ShellCommandException: error: device not found ?
 [2015-07-15 13:49:54] rlux, joining. (#selendroid)
+[2015-07-15 13:53:42] rlux, quitting. (Remote host closed the connection)
