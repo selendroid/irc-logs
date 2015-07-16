@@ -32,3 +32,12 @@
 [2015-07-16 16:31:46] smccarthy, joining. (#selendroid)
 [2015-07-16 17:07:42] smikloso, leaving. (#selendroid)
 [2015-07-16 17:28:29] lukeis, joining. (#selendroid)
+[2015-07-16 17:30:17] lukeis: asm89: g'day, do we have a hangout link?
+[2015-07-16 17:30:37] asm89: lukeis: not sure, haven't seen ddary yet
+[2015-07-16 17:30:48] ddary, joining. (#selendroid)
+[2015-07-16 17:31:08] lukeis: hi ddary
+[2015-07-16 17:31:10] asm89: i have to go find a room
+[2015-07-16 17:31:13] ddary: hi @asm & @lukeis
+[2015-07-16 17:31:20] asm89: brb
+[2015-07-16 17:31:59] ddary: @lukeis: happy birthday!
+[2015-07-16 17:32:44] ddary: https://plus.google.com/hangouts/_/gsoufisqf4lz7muhot5pdabfnea
