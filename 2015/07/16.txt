@@ -43,3 +43,8 @@
 [2015-07-16 17:32:44] ddary: https://plus.google.com/hangouts/_/gsoufisqf4lz7muhot5pdabfnea
 [2015-07-16 17:59:07] asm89: lukeis: https://github.com/progrium/dokku
 [2015-07-16 17:59:27] lukeis: cool, thanks for the link
+[2015-07-16 18:00:27] ddary: asm: when I go to the selendroid organisation on github, your name is not published there as public member
+[2015-07-16 18:00:37] ddary: i don't know why this is the case
+[2015-07-16 18:01:05] ddary: can you maybe check in your account if you can authorize to be displayed there?
+[2015-07-16 18:01:29] lukeis, leaving. (#selendroid)
+[2015-07-16 18:03:44] asm89: ddary: made it public
