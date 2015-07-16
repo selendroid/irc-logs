@@ -49,3 +49,4 @@
 [2015-07-16 18:01:29] lukeis, leaving. (#selendroid)
 [2015-07-16 18:03:44] asm89: ddary: made it public
 [2015-07-16 18:07:27] ddary, quitting. (Ping timeout: 246 seconds)
+[2015-07-16 18:27:39] raul782, joining. (#selendroid)
