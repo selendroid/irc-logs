@@ -13,3 +13,6 @@
 [2015-07-17 07:34:35] smccarthy, quitting. (Quit: Leaving...)
 [2015-07-17 08:06:59] ddary, joining. (#selendroid)
 [2015-07-17 08:07:15] ddary: @asm great
+[2015-07-17 08:10:42] ddary_, joining. (#selendroid)
+[2015-07-17 08:13:31] ddary, quitting. (Quit: Page closed)
+[2015-07-17 08:13:31] ddary_, changing nick to ddary.
