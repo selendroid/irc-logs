@@ -17,3 +17,4 @@
 [2015-07-17 08:13:31] ddary, quitting. (Quit: Page closed)
 [2015-07-17 08:13:31] ddary_, changing nick to ddary.
 [2015-07-17 08:58:35] aluedeke1, quitting. (Ping timeout: 256 seconds)
+[2015-07-17 09:14:28] aluedeke, joining. (#selendroid)
