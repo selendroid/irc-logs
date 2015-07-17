@@ -50,3 +50,6 @@
 [2015-07-17 22:05:11] AutomatedTester, joining. (#selendroid)
 [2015-07-17 22:05:15] AutomatedTester, quitting. (Remote host closed the connection)
 [2015-07-17 22:09:49] automatedtester, joining. (#selendroid)
+[2015-07-17 22:12:08] automatedtester, quitting. (Remote host closed the connection)
+[2015-07-17 22:12:41] automatedtester, joining. (#selendroid)
+[2015-07-17 22:13:12] automatedtester, quitting. (Remote host closed the connection)
