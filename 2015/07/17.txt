@@ -29,3 +29,4 @@
 [2015-07-17 14:54:49] rlux, quitting. (Remote host closed the connection)
 [2015-07-17 16:25:23] smikloso, quitting. (Quit: Leaving.)
 [2015-07-17 16:42:56] smccarthy, joining. (#selendroid)
+[2015-07-17 17:09:10] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
