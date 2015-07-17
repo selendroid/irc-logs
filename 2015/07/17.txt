@@ -27,3 +27,4 @@
 [2015-07-17 11:44:39] ddary, quitting. (Quit: Connection closed for inactivity)
 [2015-07-17 14:46:23] rlux, joining. (#selendroid)
 [2015-07-17 14:54:49] rlux, quitting. (Remote host closed the connection)
+[2015-07-17 16:25:23] smikloso, quitting. (Quit: Leaving.)
