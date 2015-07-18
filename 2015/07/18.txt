@@ -50,3 +50,19 @@
 [2015-07-18 16:16:13] selendroid-git, joining. (#selendroid)
 [2015-07-18 16:16:13] selendroid-git: [selendroid] DominikDary tagged 0.16.0 at master: http://git.io/vm1XL
 [2015-07-18 16:16:13] selendroid-git, leaving. (#selendroid)
+[2015-07-18 16:20:37] ddary: member:galaxyfreak: yes, i’m here but already about to go offline. sorry
+[2015-07-18 16:21:39] selendroid-git, joining. (#selendroid)
+[2015-07-18 16:21:39] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vm11W
+[2015-07-18 16:21:39] selendroid-git: selendroid/master 1ee9d0a Dominik Dary: prepare next dev iteration
+[2015-07-18 16:21:39] selendroid-git, leaving. (#selendroid)
+[2015-07-18 16:21:55] galaxyfreak: ddary, that error is said to be fixed in new xalan, are depenedencies updated in 0.16?
+[2015-07-18 16:22:09] ddary: not
+[2015-07-18 16:22:20] ddary: but we can do soon another release
+[2015-07-18 16:22:32] ddary: we had to get this one out
+[2015-07-18 16:23:07] ddary: going offline now, sorry
+[2015-07-18 16:23:16] ddary, quitting. (Quit: ddary)
+[2015-07-18 16:24:52] travis-ci, joining. (#selendroid)
+[2015-07-18 16:24:53] travis-ci: selendroid/selendroid#768 (master - 1ee9d0a : Dominik Dary): The build is still failing.
+[2015-07-18 16:24:53] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/61b2809516e0...1ee9d0a463d9
+[2015-07-18 16:24:53] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/71552513
+[2015-07-18 16:24:53] travis-ci, leaving. (#selendroid)
