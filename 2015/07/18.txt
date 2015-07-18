@@ -39,3 +39,8 @@
 [2015-07-18 15:58:27] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vm1oY
 [2015-07-18 15:58:27] selendroid-git: selendroid/master 61b2809 Dominik Dary: preparing release 0.16.0
 [2015-07-18 15:58:27] selendroid-git, leaving. (#selendroid)
+[2015-07-18 16:00:41] travis-ci, joining. (#selendroid)
+[2015-07-18 16:00:42] travis-ci: selendroid/selendroid#767 (master - 61b2809 : Dominik Dary): The build was broken.
+[2015-07-18 16:00:42] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/4cfabe143ca6...61b2809516e0
+[2015-07-18 16:00:42] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/71550829
+[2015-07-18 16:00:42] travis-ci, leaving. (#selendroid)
