@@ -20,3 +20,4 @@
 [2015-07-18 07:39:07] hithere: anyone here?
 [2015-07-18 07:41:19] hithere, quitting. (Client Quit)
 [2015-07-18 07:48:33] ddary, joining. (#selendroid)
+[2015-07-18 08:43:09] raul782, quitting. ()
