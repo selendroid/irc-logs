@@ -44,3 +44,6 @@
 [2015-07-18 16:00:42] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/4cfabe143ca6...61b2809516e0
 [2015-07-18 16:00:42] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/71550829
 [2015-07-18 16:00:42] travis-ci, leaving. (#selendroid)
+[2015-07-18 16:07:20] galaxyfreak, joining. (#selendroid)
+[2015-07-18 16:08:05] galaxyfreak: hello, I'm getting bad utf8 byte from xalan in selendroid standalone w/dependencies.how to fix/rebuild?
+[2015-07-18 16:09:42] galaxyfreak: ddary, there?
