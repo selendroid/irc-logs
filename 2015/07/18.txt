@@ -69,3 +69,4 @@
 [2015-07-18 17:33:58] smccarthy, joining. (#selendroid)
 [2015-07-18 18:18:54] smccarthy, quitting. (Remote host closed the connection)
 [2015-07-18 18:35:46] smccarthy, joining. (#selendroid)
+[2015-07-18 20:57:28] ddary, joining. (#selendroid)
