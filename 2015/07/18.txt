@@ -22,3 +22,4 @@
 [2015-07-18 07:48:33] ddary, joining. (#selendroid)
 [2015-07-18 08:43:09] raul782, quitting. ()
 [2015-07-18 09:28:18] aluedeke, joining. (#selendroid)
+[2015-07-18 09:54:39] ddary, quitting. (Quit: Connection closed for inactivity)
