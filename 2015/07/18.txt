@@ -24,3 +24,4 @@
 [2015-07-18 09:28:18] aluedeke, joining. (#selendroid)
 [2015-07-18 09:54:39] ddary, quitting. (Quit: Connection closed for inactivity)
 [2015-07-18 10:05:09] aluedeke, quitting. (Quit: Leaving.)
+[2015-07-18 14:10:36] survfate_clone, quitting. (Quit: Instantbird 1.5 -- http://www.instantbird.com)
