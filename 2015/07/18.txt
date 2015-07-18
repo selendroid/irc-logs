@@ -25,3 +25,8 @@
 [2015-07-18 09:54:39] ddary, quitting. (Quit: Connection closed for inactivity)
 [2015-07-18 10:05:09] aluedeke, quitting. (Quit: Leaving.)
 [2015-07-18 14:10:36] survfate_clone, quitting. (Quit: Instantbird 1.5 -- http://www.instantbird.com)
+[2015-07-18 15:35:59] selendroid-git, joining. (#selendroid)
+[2015-07-18 15:35:59] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vm1gX
+[2015-07-18 15:36:00] selendroid-git: selendroid/master 4cfabe1 Dominik Dary: Update changelog.md
+[2015-07-18 15:36:00] selendroid-git, leaving. (#selendroid)
+[2015-07-18 15:37:41] ddary, joining. (#selendroid)
