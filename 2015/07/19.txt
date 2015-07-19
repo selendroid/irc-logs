@@ -7,3 +7,7 @@
 [2015-07-19 16:41:05] smccarthy, joining. (#selendroid)
 [2015-07-19 18:26:50] smccarthy, quitting. (Quit: Leaving...)
 [2015-07-19 18:44:07] survfate_clone, quitting. (Quit: Instantbird 1.5 -- http://www.instantbird.com)
+[2015-07-19 20:54:55] selendroid-git, joining. (#selendroid)
+[2015-07-19 20:54:56] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vmHl1
+[2015-07-19 20:54:56] selendroid-git: selendroid/master 34f736e Dominik Dary: Update pom.xml
+[2015-07-19 20:54:56] selendroid-git, leaving. (#selendroid)
