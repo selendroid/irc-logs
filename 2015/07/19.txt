@@ -3,3 +3,4 @@
 [2015-07-19 04:53:25] smccarthy, quitting. (Quit: Leaving...)
 [2015-07-19 06:56:55] smccarthy, joining. (#selendroid)
 [2015-07-19 08:14:46] smccarthy, quitting. (Quit: Leaving...)
+[2015-07-19 16:29:35] survfate_clone, joining. (#selendroid)
