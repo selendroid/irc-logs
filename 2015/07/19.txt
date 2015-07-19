@@ -11,3 +11,8 @@
 [2015-07-19 20:54:56] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/vmHl1
 [2015-07-19 20:54:56] selendroid-git: selendroid/master 34f736e Dominik Dary: Update pom.xml
 [2015-07-19 20:54:56] selendroid-git, leaving. (#selendroid)
+[2015-07-19 20:59:11] travis-ci, joining. (#selendroid)
+[2015-07-19 20:59:12] travis-ci: selendroid/selendroid#769 (master - 34f736e : Dominik Dary): The build was fixed.
+[2015-07-19 20:59:12] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/1ee9d0a463d9...34f736e4153f
+[2015-07-19 20:59:12] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/71671443
+[2015-07-19 20:59:12] travis-ci, leaving. (#selendroid)
