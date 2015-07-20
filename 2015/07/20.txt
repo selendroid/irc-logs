@@ -6,3 +6,4 @@
 [2015-07-20 03:05:48] Basma: or it may take a lot of time to go to the target page
 [2015-07-20 03:06:23] Basma: when I increase the sleeping time to wait until the target is reached, selendroid becomes blocked
 [2015-07-20 03:06:40] Basma: what should I do?
+[2015-07-20 03:53:47] smccarthy, joining. (#selendroid)
