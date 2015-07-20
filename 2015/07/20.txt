@@ -18,3 +18,5 @@
 [2015-07-20 17:44:38] ddary, joining. (#selendroid)
 [2015-07-20 17:48:04] galaxyfreak: ddary, free now?
 [2015-07-20 17:49:02] ddary: yes
+[2015-07-20 17:51:44] galaxyfreak: could you update xalan and rebuild with jar with dependencies?
+[2015-07-20 17:53:47] ddary: let me check
