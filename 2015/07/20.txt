@@ -1,3 +1,8 @@
 [2015-07-20 01:16:33] smccarthy, joining. (#selendroid)
 [2015-07-20 02:33:30] smccarthy, quitting. (Quit: Leaving...)
 [2015-07-20 03:04:27] Basma, joining. (#selendroid)
+[2015-07-20 03:05:01] Basma: I work with selendroid and python tests
+[2015-07-20 03:05:13] Basma: but sometimes, the click does not work
+[2015-07-20 03:05:48] Basma: or it may take a lot of time to go to the target page
+[2015-07-20 03:06:23] Basma: when I increase the sleeping time to wait until the target is reached, selendroid becomes blocked
+[2015-07-20 03:06:40] Basma: what should I do?
