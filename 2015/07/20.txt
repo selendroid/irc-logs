@@ -16,3 +16,5 @@
 [2015-07-20 16:46:43] smccarthy, joining. (#selendroid)
 [2015-07-20 17:29:01] galaxyfreak: asm89, could you help me rebuild new selendroid w/ dependencies...need updated xalan for gradle build..
 [2015-07-20 17:44:38] ddary, joining. (#selendroid)
+[2015-07-20 17:48:04] galaxyfreak: ddary, free now?
+[2015-07-20 17:49:02] ddary: yes
