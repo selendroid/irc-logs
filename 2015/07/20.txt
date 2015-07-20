@@ -32,3 +32,8 @@
 [2015-07-20 22:04:15] selendroid-git: selendroid/master ba6962d Luke Inman-Semerau: exclude htmlunit-driver from maven dependencies... not needed and apparently breaks gradle builds?...
 [2015-07-20 22:04:15] selendroid-git: selendroid/master 065bb47 Luke Inman-Semerau: s/\t/    /   in standalone pom.xml. whitespace change only.
 [2015-07-20 22:04:15] selendroid-git, leaving. (#selendroid)
+[2015-07-20 22:10:42] travis-ci, joining. (#selendroid)
+[2015-07-20 22:10:43] travis-ci: selendroid/selendroid#770 (master - 065bb47 : Luke Inman-Semerau): The build passed.
+[2015-07-20 22:10:43] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/34f736e4153f...065bb47b6cbb
+[2015-07-20 22:10:43] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/71830907
+[2015-07-20 22:10:43] travis-ci, leaving. (#selendroid)
