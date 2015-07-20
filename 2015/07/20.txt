@@ -13,3 +13,4 @@
 [2015-07-20 14:12:21] galaxyfreak: asm89, ping?
 [2015-07-20 15:50:34] smikloso, leaving. (#selendroid)
 [2015-07-20 16:07:13] asm89: galaxyfreak: pong
+[2015-07-20 16:46:43] smccarthy, joining. (#selendroid)
