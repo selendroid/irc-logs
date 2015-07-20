@@ -21,3 +21,5 @@
 [2015-07-20 17:51:44] galaxyfreak: could you update xalan and rebuild with jar with dependencies?
 [2015-07-20 17:53:47] ddary: let me check
 [2015-07-20 17:57:03] ddary: the main question is, what dependency is adding it, because from what i have seen we have not added it.
+[2015-07-20 18:00:44] ddary: @asm: I documented what needs to be done during a release. https://github.com/selendroid/selendroid/wiki/Release-It
+[2015-07-20 18:01:31] ddary: @asm: in the passt the version  numbers in the androidapplication xml files has been updated automatically. this feature isn missing now and makes releasing harder
