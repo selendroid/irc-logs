@@ -20,3 +20,4 @@
 [2015-07-20 17:49:02] ddary: yes
 [2015-07-20 17:51:44] galaxyfreak: could you update xalan and rebuild with jar with dependencies?
 [2015-07-20 17:53:47] ddary: let me check
+[2015-07-20 17:57:03] ddary: the main question is, what dependency is adding it, because from what i have seen we have not added it.
