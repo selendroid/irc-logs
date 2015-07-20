@@ -25,3 +25,4 @@
 [2015-07-20 18:01:31] ddary: @asm: in the passt the version  numbers in the androidapplication xml files has been updated automatically. this feature isn missing now and makes releasing harder
 [2015-07-20 18:05:28] ddary, quitting. (Quit: Page closed)
 [2015-07-20 18:29:39] lukeis, joining. (#selendroid)
+[2015-07-20 18:50:06] Basma, quitting. (Ping timeout: 246 seconds)
