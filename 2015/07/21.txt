@@ -5,3 +5,4 @@
 [2015-07-21 06:48:10] raul782, quitting. (Read error: Connection reset by peer)
 [2015-07-21 06:48:19] raul782_, joining. (#selendroid)
 [2015-07-21 08:35:31] raul782_, quitting. (Read error: Connection reset by peer)
+[2015-07-21 09:18:51] raul782, joining. (#selendroid)
