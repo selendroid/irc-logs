@@ -20,3 +20,4 @@
 [2015-07-21 17:37:15] smikloso, leaving. (#selendroid)
 [2015-07-21 17:54:33] lukeis, joining. (#selendroid)
 [2015-07-21 19:04:40] ddary, quitting. (Quit: Connection closed for inactivity)
+[2015-07-21 19:19:27] renee_, joining. (#selendroid)
