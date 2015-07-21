@@ -21,3 +21,8 @@
 [2015-07-21 17:54:33] lukeis, joining. (#selendroid)
 [2015-07-21 19:04:40] ddary, quitting. (Quit: Connection closed for inactivity)
 [2015-07-21 19:19:27] renee_, joining. (#selendroid)
+[2015-07-21 19:21:04] renee_: @lukeis: I have a grid setup and for some reason, every time I start my grid, it keeps throwing: Failed to check status of node: server response code:500
+[2015-07-21 19:21:29] renee_: my json file config is as follows:
+[2015-07-21 19:22:19] renee_: {   "capabilities": [{       "browserName": "android",       "maxInstances": 1,       "androidTarget": "ANDROID17",       "aut": "com.android.twitter:5.61.0-alpha.285"   }, {       "browserName": "android",       "maxInstances": 1,       "androidTarget":"ANDROID18",       "aut": "com.android.twitter:5.61.0-alpha.285"   }],   "configuration": {       "maxSession": 1,       "register": true,       "hubHost": "localhost",       "hubPor
+[2015-07-21 19:23:00] renee_: any thoughts on how to resolve it??
+[2015-07-21 19:24:49] lukeis: that doesn't appear to be your complete config json? can you :gist it?
