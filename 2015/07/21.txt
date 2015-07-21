@@ -57,3 +57,5 @@
 [2015-07-21 21:41:51] renee_, joining. (#selendroid)
 [2015-07-21 21:42:16] renee_: @lukeis: any updates??
 [2015-07-21 21:42:58] lukeis: sorry, nope… i don't really know what's going on there, if everything you say is true, it should just be working  (also i don't use grid myself)
+[2015-07-21 21:53:52] smccarthy: lukeis: PR for docker command : https://github.com/SeleniumHQ/selbot2/pull/40
+[2015-07-21 21:53:58] smccarthy: whoops wrong chan
