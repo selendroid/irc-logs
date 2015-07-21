@@ -44,3 +44,5 @@
 [2015-07-21 19:48:45] lukeis: and your config is suggesting it's the opposite way
 [2015-07-21 19:49:32] lukeis: hub in the examples is 4444, the selendroid standalone is 5555
 [2015-07-21 19:49:59] lukeis: your command line has the reverse :)
+[2015-07-21 19:54:27] renee_: yeh I just updated it
+[2015-07-21 19:54:33] renee_: thanks
