@@ -2,3 +2,5 @@
 [2015-07-21 02:57:19] smccarthy, quitting. (Remote host closed the connection)
 [2015-07-21 03:51:01] smccarthy, joining. (#selendroid)
 [2015-07-21 06:13:22] smccarthy, quitting. (Quit: Leaving...)
+[2015-07-21 06:48:10] raul782, quitting. (Read error: Connection reset by peer)
+[2015-07-21 06:48:19] raul782_, joining. (#selendroid)
