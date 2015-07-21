@@ -47,3 +47,5 @@
 [2015-07-21 19:54:27] renee_: yeh I just updated it
 [2015-07-21 19:54:33] renee_: thanks
 [2015-07-21 19:55:36] renee_: but it still throws the same error message
+[2015-07-21 20:01:02] renee_: any thoughts?
+[2015-07-21 20:03:28] lukeis:  ¯\_(ツ)_/¯    did you really correct the ports the right way? :)
