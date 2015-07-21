@@ -26,3 +26,7 @@
 [2015-07-21 19:22:19] renee_: {   "capabilities": [{       "browserName": "android",       "maxInstances": 1,       "androidTarget": "ANDROID17",       "aut": "com.android.twitter:5.61.0-alpha.285"   }, {       "browserName": "android",       "maxInstances": 1,       "androidTarget":"ANDROID18",       "aut": "com.android.twitter:5.61.0-alpha.285"   }],   "configuration": {       "maxSession": 1,       "register": true,       "hubHost": "localhost",       "hubPor
 [2015-07-21 19:23:00] renee_: any thoughts on how to resolve it??
 [2015-07-21 19:24:49] lukeis: that doesn't appear to be your complete config json? can you :gist it?
+[2015-07-21 19:25:34] lukeis: i could only guess that the "host" key in your "configuration" isn't set correctly?
+[2015-07-21 19:25:52] lukeis: or maybe the "proxy" isn't set right?
+[2015-07-21 19:26:29] lukeis: http://selendroid.io/scale.html  has a good example
+[2015-07-21 19:29:03] renee_: https://gist.github.com/niranjani23/5484e22c77a0273d2e52
