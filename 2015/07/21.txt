@@ -35,3 +35,12 @@
 [2015-07-21 19:41:20] renee_: contains both commands to start grid and node
 [2015-07-21 19:44:11] renee_: am I missing something?
 [2015-07-21 19:44:38] lukeis: doesn't look like it… you have the jars on the classpath where you start the command i asumme...
+[2015-07-21 19:45:50] renee_: yes I do
+[2015-07-21 19:46:28] lukeis: any reason you're using 0.13 of selendroid rather than the latest?
+[2015-07-21 19:47:24] lukeis: oh i read it wrong
+[2015-07-21 19:48:08] renee_: no reason...yet to update
+[2015-07-21 19:48:15] renee_: do you think updating would help ?
+[2015-07-21 19:48:32] lukeis: you have your hub running on 5555
+[2015-07-21 19:48:45] lukeis: and your config is suggesting it's the opposite way
+[2015-07-21 19:49:32] lukeis: hub in the examples is 4444, the selendroid standalone is 5555
+[2015-07-21 19:49:59] lukeis: your command line has the reverse :)
