@@ -30,3 +30,4 @@
 [2015-07-21 19:25:52] lukeis: or maybe the "proxy" isn't set right?
 [2015-07-21 19:26:29] lukeis: http://selendroid.io/scale.html  has a good example
 [2015-07-21 19:29:03] renee_: https://gist.github.com/niranjani23/5484e22c77a0273d2e52
+[2015-07-21 19:30:57] lukeis: and what's your command line(s) to start the grid hub / node?
