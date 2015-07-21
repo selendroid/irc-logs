@@ -1,3 +1,4 @@
 [2015-07-22 00:49:24] renee_: @lukeis
 [2015-07-22 00:49:43] renee_: could you please tell how to get this exception resolved??
 [2015-07-22 00:51:43] lukeis: sorry, i don't know the answer off the top of my head and don't have time right now to dig into it
+[2015-07-22 01:04:44] renee_: Could I go ahead and post it on google groups and could you take a look at it later tonight?
