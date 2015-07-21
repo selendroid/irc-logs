@@ -13,3 +13,4 @@
 [2015-07-21 12:54:40] ddary, quitting. (Quit: Connection closed for inactivity)
 [2015-07-21 13:58:37] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-07-21 16:49:48] smccarthy, joining. (#selendroid)
+[2015-07-21 16:52:18] ddary, joining. (#selendroid)
