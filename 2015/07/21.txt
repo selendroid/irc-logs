@@ -59,3 +59,11 @@
 [2015-07-21 21:42:58] lukeis: sorry, nope… i don't really know what's going on there, if everything you say is true, it should just be working  (also i don't use grid myself)
 [2015-07-21 21:53:52] smccarthy: lukeis: PR for docker command : https://github.com/SeleniumHQ/selbot2/pull/40
 [2015-07-21 21:53:58] smccarthy: whoops wrong chan
+[2015-07-21 23:55:20] renee__, joining. (#selendroid)
+[2015-07-21 23:55:30] renee__: hi @lukeis
+[2015-07-21 23:55:35] renee__: I got it working
+[2015-07-21 23:55:46] renee__: but when I do a hub/status
+[2015-07-21 23:56:07] renee__: {"status":13,"value":{"message":"Session [(null externalkey)] not available and is not among the last 1000 terminated sessions.\nActive sessions are[]","class":"org.openqa.grid.common.exception.GridException","stackTrace":[{"fileName":"ActiveTestSessions.java","className":"org.openqa.grid.internal.ActiveTestSessions","methodName":"getExistingSession","lineNumber":110},{"fileName":"Registry.java","className":"org.openqa.grid.interna
+[2015-07-21 23:56:14] renee__: I see the above error message
+[2015-07-21 23:56:31] renee__: Is there a way to reset everything ?
+[2015-07-21 23:56:41] renee__: seems like it remembers the old sessions
