@@ -53,3 +53,4 @@
 [2015-07-21 20:08:44] renee_: https://gist.github.com/niranjani23/5484e22c77a0273d2e52
 [2015-07-21 20:08:52] renee_: I literally copy-pasted my config file info
 [2015-07-21 20:35:20] renee_: any thoughts??
+[2015-07-21 20:43:45] renee_, quitting. (Ping timeout: 246 seconds)
