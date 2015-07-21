@@ -49,3 +49,6 @@
 [2015-07-21 19:55:36] renee_: but it still throws the same error message
 [2015-07-21 20:01:02] renee_: any thoughts?
 [2015-07-21 20:03:28] lukeis:  ¯\_(ツ)_/¯    did you really correct the ports the right way? :)
+[2015-07-21 20:08:42] renee_: yup I did
+[2015-07-21 20:08:44] renee_: https://gist.github.com/niranjani23/5484e22c77a0273d2e52
+[2015-07-21 20:08:52] renee_: I literally copy-pasted my config file info
