@@ -21,3 +21,4 @@
 [2015-07-22 16:25:41] smikloso, joining. (#selendroid)
 [2015-07-22 16:46:40] smikloso, leaving. (#selendroid)
 [2015-07-22 17:18:24] lukeis, joining. (#selendroid)
+[2015-07-22 17:22:58] smccarthy, joining. (#selendroid)
