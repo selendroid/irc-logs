@@ -15,3 +15,4 @@
 [2015-07-22 10:34:40] ddary, quitting. (Quit: Connection closed for inactivity)
 [2015-07-22 11:06:45] smikloso, joining. (#selendroid)
 [2015-07-22 15:31:25] simonstewart, joining. (#selendroid)
+[2015-07-22 15:48:06] smikloso, quitting. (Ping timeout: 255 seconds)
