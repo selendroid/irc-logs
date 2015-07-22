@@ -9,3 +9,5 @@
 [2015-07-22 03:15:24] galaxyfreak, quitting. (Ping timeout: 264 seconds)
 [2015-07-22 03:19:49] galaxyfreak, joining. (#selendroid)
 [2015-07-22 05:57:04] smccarthy, quitting. (Quit: Leaving...)
+[2015-07-22 08:28:59] ddary, joining. (#selendroid)
+[2015-07-22 08:29:22] ddary: :log
