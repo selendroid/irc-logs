@@ -18,3 +18,4 @@
 [2015-07-22 15:48:06] smikloso, quitting. (Ping timeout: 255 seconds)
 [2015-07-22 16:04:38] smikloso, joining. (#selendroid)
 [2015-07-22 16:18:47] smikloso, quitting. (Ping timeout: 240 seconds)
+[2015-07-22 16:25:41] smikloso, joining. (#selendroid)
