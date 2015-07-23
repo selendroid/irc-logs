@@ -11,3 +11,4 @@
 [2015-07-23 08:41:12] raul782, quitting. (Remote host closed the connection)
 [2015-07-23 08:44:41] ddary, quitting. (Quit: Connection closed for inactivity)
 [2015-07-23 08:45:52] survfate_clone, joining. (#selendroid)
+[2015-07-23 09:00:13] survfate_clone, quitting. (Quit: Instantbird 1.5 -- http://www.instantbird.com)
