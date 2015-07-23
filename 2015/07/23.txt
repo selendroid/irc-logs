@@ -1,3 +1,5 @@
 [2015-07-23 00:40:22] lukeis, quitting. (Quit: Leaving.)
 [2015-07-23 02:43:39] smccarthy, quitting. (Remote host closed the connection)
 [2015-07-23 03:29:53] smccarthy, joining. (#selendroid)
+[2015-07-23 06:36:34] ddary, joining. (#selendroid)
+[2015-07-23 06:36:41] ddary: :log
