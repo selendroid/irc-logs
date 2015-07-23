@@ -3,3 +3,4 @@
 [2015-07-23 03:29:53] smccarthy, joining. (#selendroid)
 [2015-07-23 06:36:34] ddary, joining. (#selendroid)
 [2015-07-23 06:36:41] ddary: :log
+[2015-07-23 07:15:10] smccarthy, quitting. (Quit: Leaving...)
