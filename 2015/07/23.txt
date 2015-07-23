@@ -4,3 +4,4 @@
 [2015-07-23 06:36:34] ddary, joining. (#selendroid)
 [2015-07-23 06:36:41] ddary: :log
 [2015-07-23 07:15:10] smccarthy, quitting. (Quit: Leaving...)
+[2015-07-23 07:59:03] survfate_clone, joining. (#selendroid)
