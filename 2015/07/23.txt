@@ -14,3 +14,5 @@
 [2015-07-23 09:00:13] survfate_clone, quitting. (Quit: Instantbird 1.5 -- http://www.instantbird.com)
 [2015-07-23 09:14:40] galaxyfreak:  /msg NickServ identify juiced2him
 [2015-07-23 09:14:52] galaxyfreak, leaving. ("Leaving")
+[2015-07-23 09:17:38] galaxyfreak, joining. (#selendroid)
+[2015-07-23 09:17:53] galaxyfreak: lol me idiot, changed password
