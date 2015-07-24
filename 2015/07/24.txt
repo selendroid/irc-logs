@@ -7,3 +7,4 @@
 [2015-07-24 08:19:51] raul782, joining. (#selendroid)
 [2015-07-24 08:20:34] raul782_, quitting. (Read error: Connection reset by peer)
 [2015-07-24 08:25:02] raul782, quitting. (Ping timeout: 260 seconds)
+[2015-07-24 09:33:42] survfate_clone, quitting. (Quit: Instantbird 1.5 -- http://www.instantbird.com)
