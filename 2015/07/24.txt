@@ -19,3 +19,4 @@
 [2015-07-24 18:09:33] survfate_clone, joining. (#selendroid)
 [2015-07-24 19:24:41] ddary, quitting. (Quit: Connection closed for inactivity)
 [2015-07-24 20:22:51] survfate_clone, quitting. (Quit: Instantbird 1.5 -- http://www.instantbird.com)
+[2015-07-24 22:58:17] simonstewart, quitting. (Ping timeout: 240 seconds)
