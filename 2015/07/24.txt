@@ -1,3 +1,4 @@
 [2015-07-24 00:14:46] lukeis, quitting. (Quit: Leaving.)
 [2015-07-24 01:39:43] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-07-24 05:38:55] survfate_clone, joining. (#selendroid)
+[2015-07-24 07:30:32] smccarthy, quitting. (Quit: Leaving...)
