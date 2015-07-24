@@ -9,3 +9,4 @@
 [2015-07-24 08:25:02] raul782, quitting. (Ping timeout: 260 seconds)
 [2015-07-24 09:33:42] survfate_clone, quitting. (Quit: Instantbird 1.5 -- http://www.instantbird.com)
 [2015-07-24 11:13:02] smikloso, joining. (#selendroid)
+[2015-07-24 12:44:59] simonstewart, joining. (#selendroid)
