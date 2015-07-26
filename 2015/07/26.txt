@@ -9,3 +9,7 @@
 [2015-07-26 04:13:07] raul782, quitting. (Read error: Connection reset by peer)
 [2015-07-26 04:43:07] raul782_, quitting. (Read error: Connection reset by peer)
 [2015-07-26 04:43:56] raul782, joining. (#selendroid)
+[2015-07-26 04:46:01] raul782_, joining. (#selendroid)
+[2015-07-26 04:47:26] raul782_, quitting. (Read error: Connection reset by peer)
+[2015-07-26 04:47:56] raul782_, joining. (#selendroid)
+[2015-07-26 04:48:13] raul782, quitting. (Ping timeout: 244 seconds)
