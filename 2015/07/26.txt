@@ -16,3 +16,4 @@
 [2015-07-26 05:51:20] smccarthy, joining. (#selendroid)
 [2015-07-26 08:11:30] smccarthy, quitting. (Quit: Leaving...)
 [2015-07-26 08:22:29] raul782_, quitting. ()
+[2015-07-26 13:02:56] AutomatedTester_, joining. (#selendroid)
