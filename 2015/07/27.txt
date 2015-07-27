@@ -29,3 +29,4 @@
 [2015-07-27 17:24:27] raul782, joining. (#selendroid)
 [2015-07-27 17:34:52] raul782, quitting. (Remote host closed the connection)
 [2015-07-27 18:35:52] raul782, joining. (#selendroid)
+[2015-07-27 18:40:23] raul782, quitting. (Ping timeout: 246 seconds)
