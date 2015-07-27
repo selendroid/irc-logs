@@ -43,3 +43,8 @@
 [2015-07-27 20:21:39] selendroid-git: selendroid/master e4a309c Viacheslav Frolov: Extract method that converts BufferedImage to byte array
 [2015-07-27 20:21:39] selendroid-git: selendroid/master 6af76d9 Luke Inman-Semerau: Merge pull request #949 from frolovs/various_fixes...
 [2015-07-27 20:21:39] selendroid-git, leaving. (#selendroid)
+[2015-07-27 20:25:50] travis-ci, joining. (#selendroid)
+[2015-07-27 20:25:51] travis-ci: selendroid/selendroid#772 (master - 6af76d9 : Luke Inman-Semerau): The build passed.
+[2015-07-27 20:25:51] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/065bb47b6cbb...6af76d95b090
+[2015-07-27 20:25:51] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/72881604
+[2015-07-27 20:25:51] travis-ci, leaving. (#selendroid)
