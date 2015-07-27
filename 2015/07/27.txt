@@ -26,3 +26,4 @@
 [2015-07-27 13:39:39] selendroid-git: [selendroid] frolovs opened pull request #949: Extract method that converts BufferedImage to byte array (master...various_fixes) http://git.io/vYoLT
 [2015-07-27 13:39:39] selendroid-git, leaving. (#selendroid)
 [2015-07-27 16:35:29] smccarthy, joining. (#selendroid)
+[2015-07-27 17:24:27] raul782, joining. (#selendroid)
