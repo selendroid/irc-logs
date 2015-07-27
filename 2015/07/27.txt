@@ -49,3 +49,4 @@
 [2015-07-27 20:25:51] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/72881604
 [2015-07-27 20:25:51] travis-ci, leaving. (#selendroid)
 [2015-07-27 22:22:13] raul782_, leaving. (#selendroid)
+[2015-07-27 23:32:54] smccarthy, quitting. (Read error: Connection reset by peer)
