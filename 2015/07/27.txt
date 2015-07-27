@@ -35,3 +35,5 @@
 [2015-07-27 19:25:41] raul782_, joining. (#selendroid)
 [2015-07-27 19:28:20] raul782, quitting. (Ping timeout: 246 seconds)
 [2015-07-27 19:45:45] aluedeke, joining. (#selendroid)
+[2015-07-27 20:00:06] lukeis, quitting. (Read error: Connection reset by peer)
+[2015-07-27 20:01:41] lukeis, joining. (#selendroid)
