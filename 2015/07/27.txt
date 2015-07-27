@@ -38,3 +38,8 @@
 [2015-07-27 20:00:06] lukeis, quitting. (Read error: Connection reset by peer)
 [2015-07-27 20:01:41] lukeis, joining. (#selendroid)
 [2015-07-27 20:14:53] aluedeke, quitting. (Ping timeout: 246 seconds)
+[2015-07-27 20:21:39] selendroid-git, joining. (#selendroid)
+[2015-07-27 20:21:39] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vYiqr
+[2015-07-27 20:21:39] selendroid-git: selendroid/master e4a309c Viacheslav Frolov: Extract method that converts BufferedImage to byte array
+[2015-07-27 20:21:39] selendroid-git: selendroid/master 6af76d9 Luke Inman-Semerau: Merge pull request #949 from frolovs/various_fixes...
+[2015-07-27 20:21:39] selendroid-git, leaving. (#selendroid)
