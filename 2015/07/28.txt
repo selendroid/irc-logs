@@ -47,3 +47,4 @@
 [2015-07-28 23:28:48] lukeis: did you use the option i just mentioned?
 [2015-07-28 23:28:56] lukeis: github.com/selendroid/selendroid ??
 [2015-07-28 23:29:10] renee_: ok I will try.
+[2015-07-28 23:33:30] renee_, quitting. (Ping timeout: 246 seconds)
