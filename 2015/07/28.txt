@@ -10,3 +10,4 @@
 [2015-07-28 10:08:37] aluedeke, joining. (#selendroid)
 [2015-07-28 13:23:40] galaxyfreak, leaving. ("Leaving")
 [2015-07-28 15:11:40] aluedeke, quitting. (Ping timeout: 244 seconds)
+[2015-07-28 16:56:25] simonstewart, joining. (#selendroid)
