@@ -34,3 +34,6 @@
 [2015-07-28 22:44:16] asm89: wrong term
 [2015-07-28 22:44:19] asm89: ack
 [2015-07-28 23:19:57] renee_, joining. (#selendroid)
+[2015-07-28 23:20:54] renee_: @lukeis: Am using 0.16.0 selendroid standalone and having issues with the apk not reinstalling after running each test case.
+[2015-07-28 23:21:24] renee_: Any thoughts how to make sure the apk is uninstalled after every test case and reinstalled before running a new test case?
+[2015-07-28 23:24:16] lukeis: renee_: you could try the -forceReinstall command line option to the selendroid standalone
