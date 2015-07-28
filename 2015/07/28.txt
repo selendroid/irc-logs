@@ -22,3 +22,6 @@
 [2015-07-28 18:39:21] lukeis, joining. (#selendroid)
 [2015-07-28 20:17:13] raul782, joining. (#selendroid)
 [2015-07-28 20:21:40] raul782, quitting. (Ping timeout: 244 seconds)
+[2015-07-28 22:02:47] asm89: lukeis: RE: spec, will the findelement etc endpoint be removed?
+[2015-07-28 22:04:00] lukeis: asm89: no… it's just that the types of By's allowed (or spec'd) has been reduced
+[2015-07-28 22:04:16] lukeis: id / name / tag name / class name   all =>  css
