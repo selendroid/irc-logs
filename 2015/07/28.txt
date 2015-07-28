@@ -25,3 +25,11 @@
 [2015-07-28 22:02:47] asm89: lukeis: RE: spec, will the findelement etc endpoint be removed?
 [2015-07-28 22:04:00] lukeis: asm89: no… it's just that the types of By's allowed (or spec'd) has been reduced
 [2015-07-28 22:04:16] lukeis: id / name / tag name / class name   all =>  css
+[2015-07-28 22:42:18] lukeis, quitting. (Read error: Connection reset by peer)
+[2015-07-28 22:42:25] lukeis, joining. (#selendroid)
+[2015-07-28 22:43:50] asm89: lukeis: ok, so id, name, tag name, class name will live and css is new
+[2015-07-28 22:43:53] asm89: xpath = gone?
+[2015-07-28 22:44:06] asm89: reset
+[2015-07-28 22:44:11] lukeis: xpath still there
+[2015-07-28 22:44:16] asm89: wrong term
+[2015-07-28 22:44:19] asm89: ack
