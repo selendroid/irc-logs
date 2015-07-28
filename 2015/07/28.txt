@@ -37,3 +37,13 @@
 [2015-07-28 23:20:54] renee_: @lukeis: Am using 0.16.0 selendroid standalone and having issues with the apk not reinstalling after running each test case.
 [2015-07-28 23:21:24] renee_: Any thoughts how to make sure the apk is uninstalled after every test case and reinstalled before running a new test case?
 [2015-07-28 23:24:16] lukeis: renee_: you could try the -forceReinstall command line option to the selendroid standalone
+[2015-07-28 23:25:25] renee_: am running from eclipse. Is there a capability I can use in my java code?
+[2015-07-28 23:26:35] lukeis: SelendroidConfiguration is what you want to look at if you are launching the standalone in java
+[2015-07-28 23:28:06] renee_: Is there a sample test app you are talking about?
+[2015-07-28 23:28:07] renee_: any links?
+[2015-07-28 23:28:27] renee_: the reinstall didn't work while I was using 0.11.0
+[2015-07-28 23:28:35] renee_: not sure if it has been updated now.
+[2015-07-28 23:28:46] renee_: any links to sample test app?
+[2015-07-28 23:28:48] lukeis: did you use the option i just mentioned?
+[2015-07-28 23:28:56] lukeis: github.com/selendroid/selendroid ??
+[2015-07-28 23:29:10] renee_: ok I will try.
