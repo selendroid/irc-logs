@@ -3,3 +3,4 @@
 [2015-07-29 15:15:42] simonstewart, joining. (#selendroid)
 [2015-07-29 17:02:20] smccarthy, joining. (#selendroid)
 [2015-07-29 17:10:27] smccarthy, quitting. (Quit: Leaving...)
+[2015-07-29 17:17:29] smccarthy, joining. (#selendroid)
