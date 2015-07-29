@@ -13,3 +13,6 @@
 [2015-07-29 19:07:37] aluedeke, quitting. (Remote host closed the connection)
 [2015-07-29 19:08:12] aluedeke, joining. (#selendroid)
 [2015-07-29 19:58:30] simonste_, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-07-29 22:41:24] renee_, joining. (#selendroid)
+[2015-07-29 22:42:21] renee_: @lukeis: I want to verify elements on a video - am able to see the elements via selendroid inspector but when I use assert statements, they return false. Any idea why that's happening?
+[2015-07-29 22:43:12] lukeis: nope :)
