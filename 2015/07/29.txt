@@ -6,3 +6,5 @@
 [2015-07-29 17:17:29] smccarthy, joining. (#selendroid)
 [2015-07-29 17:54:40] lukeis, joining. (#selendroid)
 [2015-07-29 18:11:33] aluedeke, joining. (#selendroid)
+[2015-07-29 18:36:44] lukeis, quitting. (Read error: Connection reset by peer)
+[2015-07-29 18:36:53] lukeis, joining. (#selendroid)
