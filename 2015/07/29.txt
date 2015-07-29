@@ -12,3 +12,4 @@
 [2015-07-29 19:00:15] simonstewart, quitting. (Ping timeout: 255 seconds)
 [2015-07-29 19:07:37] aluedeke, quitting. (Remote host closed the connection)
 [2015-07-29 19:08:12] aluedeke, joining. (#selendroid)
+[2015-07-29 19:58:30] simonste_, quitting. (Quit: Textual IRC Client: www.textualapp.com)
