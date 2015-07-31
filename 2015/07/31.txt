@@ -6,3 +6,4 @@
 [2015-07-31 14:21:43] simonstewart, joining. (#selendroid)
 [2015-07-31 15:08:14] simonste_, joining. (#selendroid)
 [2015-07-31 15:10:02] simonstewart, quitting. (Ping timeout: 244 seconds)
+[2015-07-31 15:40:51] smccarthy, joining. (#selendroid)
