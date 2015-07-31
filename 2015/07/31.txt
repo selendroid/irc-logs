@@ -3,3 +3,4 @@
 [2015-07-31 10:50:59] dazer, joining. (#selendroid)
 [2015-07-31 10:57:15] dazer: hi
 [2015-07-31 11:06:20] dazer, quitting. (Quit: Page closed)
+[2015-07-31 14:21:43] simonstewart, joining. (#selendroid)
