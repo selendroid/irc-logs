@@ -1,1 +1,2 @@
 [2015-08-02 00:23:08] smccarthy, quitting. (Remote host closed the connection)
+[2015-08-02 08:03:07] smccarthy, joining. (#selendroid)
