@@ -26,3 +26,4 @@
 [2015-08-02 17:28:12] renee_: should I add/change anything more??
 [2015-08-02 17:28:35] renee_: I want to be able to do a fresh install of the app
 [2015-08-02 17:28:41] renee_: after every test
+[2015-08-02 18:11:34] raul782, joining. (#selendroid)
