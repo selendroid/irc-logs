@@ -10,3 +10,8 @@
 [2015-08-02 14:50:03] aluedeke, quitting. (Ping timeout: 255 seconds)
 [2015-08-02 14:50:21] aluedeke, joining. (#selendroid)
 [2015-08-02 14:55:50] aluedeke, quitting. (Ping timeout: 240 seconds)
+[2015-08-02 15:09:29] travis-ci, joining. (#selendroid)
+[2015-08-02 15:09:30] travis-ci: sri096/selendroid#9 (master - 5050785 : sri096): The build is still failing.
+[2015-08-02 15:09:30] travis-ci: Change view : https://github.com/sri096/selendroid/compare/6c31c219cc67...5050785315d1
+[2015-08-02 15:09:30] travis-ci: Build details : https://travis-ci.org/sri096/selendroid/builds/73768011
+[2015-08-02 15:09:30] travis-ci, leaving. (#selendroid)
