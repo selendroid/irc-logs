@@ -9,3 +9,4 @@
 [2015-08-02 14:41:39] travis-ci, leaving. (#selendroid)
 [2015-08-02 14:50:03] aluedeke, quitting. (Ping timeout: 255 seconds)
 [2015-08-02 14:50:21] aluedeke, joining. (#selendroid)
+[2015-08-02 14:55:50] aluedeke, quitting. (Ping timeout: 240 seconds)
