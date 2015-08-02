@@ -15,3 +15,8 @@
 [2015-08-02 15:09:30] travis-ci: Change view : https://github.com/sri096/selendroid/compare/6c31c219cc67...5050785315d1
 [2015-08-02 15:09:30] travis-ci: Build details : https://travis-ci.org/sri096/selendroid/builds/73768011
 [2015-08-02 15:09:30] travis-ci, leaving. (#selendroid)
+[2015-08-02 15:18:15] travis-ci, joining. (#selendroid)
+[2015-08-02 15:18:16] travis-ci: sri096/selendroid#10 (master - 6af76d9 : Luke Inman-Semerau): The build is still failing.
+[2015-08-02 15:18:16] travis-ci: Change view : https://github.com/sri096/selendroid/compare/5050785315d1...6af76d95b090
+[2015-08-02 15:18:16] travis-ci: Build details : https://travis-ci.org/sri096/selendroid/builds/73768568
+[2015-08-02 15:18:16] travis-ci, leaving. (#selendroid)
