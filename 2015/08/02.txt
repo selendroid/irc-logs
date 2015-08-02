@@ -7,3 +7,5 @@
 [2015-08-02 14:41:38] travis-ci: Change view : https://github.com/sri096/selendroid/compare/de36bfd7d414...6c31c219cc67
 [2015-08-02 14:41:38] travis-ci: Build details : https://travis-ci.org/sri096/selendroid/builds/73766368
 [2015-08-02 14:41:39] travis-ci, leaving. (#selendroid)
+[2015-08-02 14:50:03] aluedeke, quitting. (Ping timeout: 255 seconds)
+[2015-08-02 14:50:21] aluedeke, joining. (#selendroid)
