@@ -2,3 +2,8 @@
 [2015-08-02 08:03:07] smccarthy, joining. (#selendroid)
 [2015-08-02 08:43:35] smccarthy, quitting. (Remote host closed the connection)
 [2015-08-02 13:28:40] aluedeke, joining. (#selendroid)
+[2015-08-02 14:41:37] travis-ci, joining. (#selendroid)
+[2015-08-02 14:41:38] travis-ci: sri096/selendroid#8 (master - 6c31c21 : sri096): The build is still failing.
+[2015-08-02 14:41:38] travis-ci: Change view : https://github.com/sri096/selendroid/compare/de36bfd7d414...6c31c219cc67
+[2015-08-02 14:41:38] travis-ci: Build details : https://travis-ci.org/sri096/selendroid/builds/73766368
+[2015-08-02 14:41:39] travis-ci, leaving. (#selendroid)
