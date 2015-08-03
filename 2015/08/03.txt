@@ -11,3 +11,4 @@
 [2015-08-03 07:23:52] smccarthy, quitting. (Remote host closed the connection)
 [2015-08-03 08:37:08] raul782_, quitting. ()
 [2015-08-03 10:25:48] smccarthy, joining. (#selendroid)
+[2015-08-03 10:30:10] smccarthy, quitting. (Ping timeout: 240 seconds)
