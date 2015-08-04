@@ -10,3 +10,7 @@
 [2015-08-04 15:02:31] aluedeke, joining. (#selendroid)
 [2015-08-04 15:22:06] aluedeke, quitting. (Ping timeout: 265 seconds)
 [2015-08-04 16:28:29] smccarthy, joining. (#selendroid)
+[2015-08-04 17:01:57] Satish_, joining. (#selendroid)
+[2015-08-04 17:02:19] Satish_: Hi
+[2015-08-04 17:02:34] Satish_: I have few queries about support for Popup Windows
+[2015-08-04 17:03:00] Satish_: Can someone help me to understand whether it is support or not?
