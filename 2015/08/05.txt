@@ -26,3 +26,4 @@
 [2015-08-05 18:59:39] renee_: @lukeis: am seeing this error while trying to run my tests on a device
 [2015-08-05 18:59:41] renee_: 8143 KB/s (1436427 bytes in 0.172s) 	pkg: /data/local/tmp/selendroid-server-com.twitter.android-0.15.0.apk Failure [INSTALL_PARSE_FAILED_INCONSISTENT_CERTIFICATES] <-- Aug 05, 2015 9:47:50 AM io.selendroid.standalone.server.model.SelendroidStandaloneDriver createNewTestSession SEVERE: Error occurred while starting Selendroid session io.selendroid.server.common.exceptions.SessionNotCreatedException: Could not install selendroid-serve
 [2015-08-05 19:00:19] renee_: any idea why this is happening? I updated my build tools and platform version to 21 and 24 respectively.
+[2015-08-05 19:53:19] lukeis: renee_: means the selendroid.apk that is installed has a mismatch certificate from the apk you are testing with… i would recommend uninstalling both your app under test and the selendroid app from the device and then re-running
