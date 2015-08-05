@@ -41,3 +41,4 @@
 [2015-08-05 20:43:05] Hammertime38, quitting. (Remote host closed the connection)
 [2015-08-05 20:57:44] Hammertime38, joining. (#selendroid)
 [2015-08-05 22:47:48] Hammerti_, joining. (#selendroid)
+[2015-08-05 22:51:27] Hammertime38, quitting. (Ping timeout: 265 seconds)
