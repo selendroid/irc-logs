@@ -4,3 +4,5 @@
 [2015-08-06 01:08:27] Hammertime38, quitting. (Remote host closed the connection)
 [2015-08-06 01:08:45] Hammertime38, joining. (#selendroid)
 [2015-08-06 01:09:03] Hammertime38, quitting. (Remote host closed the connection)
+[2015-08-06 01:25:07] Hammertime38, joining. (#selendroid)
+[2015-08-06 01:25:24] Hammertime38, quitting. (Remote host closed the connection)
