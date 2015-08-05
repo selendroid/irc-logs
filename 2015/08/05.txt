@@ -38,3 +38,4 @@
 [2015-08-05 20:23:05] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-08-05 20:29:11] Hammertime38, quitting. (Remote host closed the connection)
 [2015-08-05 20:29:38] Hammertime38, joining. (#selendroid)
+[2015-08-05 20:43:05] Hammertime38, quitting. (Remote host closed the connection)
