@@ -12,3 +12,4 @@
 [2015-08-05 07:24:45] Hammertime38, joining. (#selendroid)
 [2015-08-05 07:27:01] Hammerti_, joining. (#selendroid)
 [2015-08-05 07:27:01] Hammertime38, quitting. (Read error: Connection reset by peer)
+[2015-08-05 07:30:29] smccarthy, quitting. (Quit: Leaving...)
