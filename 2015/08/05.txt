@@ -19,3 +19,4 @@
 [2015-08-05 12:47:22] simonstewart, quitting. (Ping timeout: 246 seconds)
 [2015-08-05 15:59:14] aluedeke, quitting. (Quit: Leaving.)
 [2015-08-05 17:28:28] smccarthy, joining. (#selendroid)
+[2015-08-05 17:49:26] simonstewart, joining. (#selendroid)
