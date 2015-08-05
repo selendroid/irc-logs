@@ -36,3 +36,5 @@
 [2015-08-05 20:11:33] renee_: I spent the whole of y'day trying to figure it out! and it finally worked now! Feeling so happy!!! :)
 [2015-08-05 20:11:38] renee_, quitting. (Quit: Page closed)
 [2015-08-05 20:23:05] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-08-05 20:29:11] Hammertime38, quitting. (Remote host closed the connection)
+[2015-08-05 20:29:38] Hammertime38, joining. (#selendroid)
