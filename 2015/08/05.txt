@@ -28,3 +28,6 @@
 [2015-08-05 19:00:19] renee_: any idea why this is happening? I updated my build tools and platform version to 21 and 24 respectively.
 [2015-08-05 19:53:19] lukeis: renee_: means the selendroid.apk that is installed has a mismatch certificate from the apk you are testing with… i would recommend uninstalling both your app under test and the selendroid app from the device and then re-running
 [2015-08-05 19:56:12] Hammertime38, quitting. (Remote host closed the connection)
+[2015-08-05 20:05:45] Hammertime38, joining. (#selendroid)
+[2015-08-05 20:06:56] renee_: @lukeis: will try
+[2015-08-05 20:07:00] renee_: thanks!
