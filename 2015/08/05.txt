@@ -16,3 +16,4 @@
 [2015-08-05 08:01:10] Hammerti_, quitting. ()
 [2015-08-05 09:51:42] aluedeke, joining. (#selendroid)
 [2015-08-05 11:05:04] simonstewart, joining. (#selendroid)
+[2015-08-05 12:47:22] simonstewart, quitting. (Ping timeout: 246 seconds)
