@@ -1,1 +1,6 @@
 [2015-08-06 01:03:46] Hammerti_, quitting. (Ping timeout: 240 seconds)
+[2015-08-06 01:05:03] lukeis, quitting. (Quit: Leaving.)
+[2015-08-06 01:08:22] Hammertime38, joining. (#selendroid)
+[2015-08-06 01:08:27] Hammertime38, quitting. (Remote host closed the connection)
+[2015-08-06 01:08:45] Hammertime38, joining. (#selendroid)
+[2015-08-06 01:09:03] Hammertime38, quitting. (Remote host closed the connection)
