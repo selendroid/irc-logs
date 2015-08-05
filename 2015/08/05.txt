@@ -43,3 +43,4 @@
 [2015-08-05 22:47:48] Hammerti_, joining. (#selendroid)
 [2015-08-05 22:51:27] Hammertime38, quitting. (Ping timeout: 265 seconds)
 [2015-08-05 22:57:10] smccarthy, quitting. (Quit: Leaving...)
+[2015-08-05 23:12:11] smccarthy, joining. (#selendroid)
