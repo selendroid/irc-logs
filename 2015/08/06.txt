@@ -24,3 +24,4 @@
 [2015-08-06 20:01:37] lukeis1, changing nick to lukeis.
 [2015-08-06 21:39:24] aluedeke, joining. (#selendroid)
 [2015-08-06 21:49:07] aluedeke, quitting. (Read error: Connection reset by peer)
+[2015-08-06 22:32:05] lukeis, quitting. (Ping timeout: 245 seconds)
