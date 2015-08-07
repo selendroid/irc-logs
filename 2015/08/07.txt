@@ -33,3 +33,5 @@
 [2015-08-07 12:13:30] raul782, quitting. (Ping timeout: 244 seconds)
 [2015-08-07 12:22:12] aluedeke, quitting. (Ping timeout: 260 seconds)
 [2015-08-07 12:36:16] aluedeke, joining. (#selendroid)
+[2015-08-07 12:45:01] Gyran, quitting. (*.net *.split)
+[2015-08-07 12:49:06] Gyran, joining. (#selendroid)
