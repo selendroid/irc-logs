@@ -10,3 +10,4 @@
 [2015-08-07 06:36:00] smccarthy, quitting. (Quit: Leaving...)
 [2015-08-07 06:39:06] aluedeke, quitting. (Ping timeout: 260 seconds)
 [2015-08-07 07:05:28] raul782, joining. (#selendroid)
+[2015-08-07 07:10:46] raul782, quitting. (Ping timeout: 240 seconds)
