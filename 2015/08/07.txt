@@ -23,3 +23,5 @@
 [2015-08-07 11:10:21] dazer_, joining. (#selendroid)
 [2015-08-07 11:12:51] dazer_, quitting. (Client Quit)
 [2015-08-07 11:42:17] aluedeke, joining. (#selendroid)
+[2015-08-07 11:47:20] aluedeke, quitting. (Read error: Connection reset by peer)
+[2015-08-07 11:47:25] aluedeke1, joining. (#selendroid)
