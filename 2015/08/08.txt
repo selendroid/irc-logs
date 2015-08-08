@@ -1,0 +1,2 @@
+[2015-08-08 01:55:55] lukeis, quitting. (Read error: Connection reset by peer)
+[2015-08-08 01:56:03] smccarthy, quitting. (Quit: Leaving...)
