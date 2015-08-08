@@ -1,2 +1,4 @@
 [2015-08-08 01:55:55] lukeis, quitting. (Read error: Connection reset by peer)
 [2015-08-08 01:56:03] smccarthy, quitting. (Quit: Leaving...)
+[2015-08-08 02:45:38] raul782_, joining. (#selendroid)
+[2015-08-08 02:49:15] raul782, quitting. (Ping timeout: 244 seconds)
