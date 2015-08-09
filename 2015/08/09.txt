@@ -15,3 +15,7 @@
 [2015-08-09 13:59:00] aluedeke, joining. (#selendroid)
 [2015-08-09 14:33:06] aluedeke, quitting. (Ping timeout: 240 seconds)
 [2015-08-09 17:08:19] survfate_clone, joining. (#selendroid)
+[2015-08-09 18:35:04] raul782__, quitting. (Remote host closed the connection)
+[2015-08-09 18:35:39] raul782, joining. (#selendroid)
+[2015-08-09 18:39:22] smccarthy, joining. (#selendroid)
+[2015-08-09 18:39:52] raul782, quitting. (Ping timeout: 244 seconds)
