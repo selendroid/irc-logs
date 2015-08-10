@@ -35,3 +35,4 @@
 [2015-08-10 12:41:14] Basma: Does selendroid click only on <a> element?
 [2015-08-10 13:04:58] raul782, joining. (#selendroid)
 [2015-08-10 13:09:09] raul782, quitting. (Ping timeout: 244 seconds)
+[2015-08-10 14:05:41] raul782, joining. (#selendroid)
