@@ -26,3 +26,4 @@
 [2015-08-11 15:18:21] simonstewart, joining. (#selendroid)
 [2015-08-11 17:28:10] smccarthy, joining. (#selendroid)
 [2015-08-11 17:48:37] lukeis, joining. (#selendroid)
+[2015-08-11 18:33:30] lukeis, quitting. (Read error: Connection reset by peer)
