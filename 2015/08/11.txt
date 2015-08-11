@@ -10,3 +10,4 @@
 [2015-08-11 06:59:03] smccarthy, quitting. (Quit: Leaving...)
 [2015-08-11 09:14:36] raul782_, quitting. ()
 [2015-08-11 09:25:07] aluedeke, joining. (#selendroid)
+[2015-08-11 10:19:33] aluedeke1, joining. (#selendroid)
