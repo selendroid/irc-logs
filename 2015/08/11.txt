@@ -31,3 +31,4 @@
 [2015-08-11 18:48:51] lukeis, quitting. (Quit: Leaving.)
 [2015-08-11 18:51:06] lukeis, joining. (#selendroid)
 [2015-08-11 22:50:26] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-08-11 23:00:47] raul782, joining. (#selendroid)
