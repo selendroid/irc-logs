@@ -25,3 +25,4 @@
 [2015-08-12 16:53:47] smccarthy, joining. (#selendroid)
 [2015-08-12 17:11:49] raul782, joining. (#selendroid)
 [2015-08-12 17:16:09] raul782, quitting. (Ping timeout: 246 seconds)
+[2015-08-12 18:08:19] lukeis, joining. (#selendroid)
