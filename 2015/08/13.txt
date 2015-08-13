@@ -30,3 +30,5 @@
 [2015-08-13 15:00:58] simonste_, quitting. (Client Quit)
 [2015-08-13 15:02:52] simonstewart, quitting. (Ping timeout: 265 seconds)
 [2015-08-13 15:03:41] aluedeke, quitting. (Ping timeout: 252 seconds)
+[2015-08-13 16:15:54] simonstewart, joining. (#selendroid)
+[2015-08-13 16:18:53] smccarthy, joining. (#selendroid)
