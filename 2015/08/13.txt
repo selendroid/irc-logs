@@ -22,3 +22,4 @@
 [2015-08-13 12:25:19] selendroid-git, joining. (#selendroid)
 [2015-08-13 12:25:19] selendroid-git: [selendroid] uchida opened pull request #961: kill orphaned processes after test has finished (master...kill-orphaned-processes) http://git.io/v3wxb
 [2015-08-13 12:25:19] selendroid-git, leaving. (#selendroid)
+[2015-08-13 12:50:42] simonstewart, joining. (#selendroid)
