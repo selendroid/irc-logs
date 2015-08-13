@@ -33,3 +33,4 @@
 [2015-08-13 16:15:54] simonstewart, joining. (#selendroid)
 [2015-08-13 16:18:53] smccarthy, joining. (#selendroid)
 [2015-08-13 20:49:56] simonstewart, quitting. (Remote host closed the connection)
+[2015-08-13 22:17:33] smccarthy, quitting. (Quit: Leaving...)
