@@ -2,3 +2,6 @@
 [2015-08-14 01:24:41] MonkeysPaw, leaving. (#selendroid)
 [2015-08-14 05:40:14] smccarthy, quitting. (Quit: Leaving...)
 [2015-08-14 06:36:28] survfate_clone, joining. (#selendroid)
+[2015-08-14 09:30:04] CodeItClean, joining. (#selendroid)
+[2015-08-14 09:33:46] CodeItClean: Hi, I'm new to selendroid and i've tried to follow the guide to get the selendroid test app running from a junit test. But I only get "Error forwarding session.."
+[2015-08-14 09:34:02] CodeItClean: it works for running a android browser
