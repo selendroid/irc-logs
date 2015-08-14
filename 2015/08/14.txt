@@ -15,3 +15,6 @@
 [2015-08-14 14:34:42] selendroid-git, joining. (#selendroid)
 [2015-08-14 14:34:42] selendroid-git: [selendroid] uchida opened pull request #962: add grid node options for grid auto-register (master...add-more-auto-register-node-options) http://git.io/v31FR
 [2015-08-14 14:34:43] selendroid-git, leaving. (#selendroid)
+[2015-08-14 14:44:38] selendroid-git, joining. (#selendroid)
+[2015-08-14 14:44:39] selendroid-git: [selendroid] uchida opened pull request #963: add more node capability for grid auto-register (master...add-more-auto-register-node-capabilities) http://git.io/v31Ay
+[2015-08-14 14:44:39] selendroid-git, leaving. (#selendroid)
