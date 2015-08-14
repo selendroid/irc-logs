@@ -1,3 +1,4 @@
 [2015-08-14 01:08:14] MonkeysPaw, joining. (#selendroid)
 [2015-08-14 01:24:41] MonkeysPaw, leaving. (#selendroid)
 [2015-08-14 05:40:14] smccarthy, quitting. (Quit: Leaving...)
+[2015-08-14 06:36:28] survfate_clone, joining. (#selendroid)
