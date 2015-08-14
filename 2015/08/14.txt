@@ -23,3 +23,4 @@
 [2015-08-14 17:02:22] aluedeke, quitting. (Quit: Leaving.)
 [2015-08-14 17:22:22] survfate_clone, quitting. (Quit: Instantbird 1.5 -- http://www.instantbird.com)
 [2015-08-14 17:34:30] smccarthy, joining. (#selendroid)
+[2015-08-14 18:34:01] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
