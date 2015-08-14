@@ -12,3 +12,6 @@
 [2015-08-14 11:56:12] aluedeke, joining. (#selendroid)
 [2015-08-14 13:35:09] survfate_clone, joining. (#selendroid)
 [2015-08-14 14:23:14] simonstewart, joining. (#selendroid)
+[2015-08-14 14:34:42] selendroid-git, joining. (#selendroid)
+[2015-08-14 14:34:42] selendroid-git: [selendroid] uchida opened pull request #962: add grid node options for grid auto-register (master...add-more-auto-register-node-options) http://git.io/v31FR
+[2015-08-14 14:34:43] selendroid-git, leaving. (#selendroid)
