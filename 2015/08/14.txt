@@ -11,3 +11,4 @@
 [2015-08-14 09:43:03] survfate_clone, quitting. (Quit: Instantbird 1.5 -- http://www.instantbird.com)
 [2015-08-14 11:56:12] aluedeke, joining. (#selendroid)
 [2015-08-14 13:35:09] survfate_clone, joining. (#selendroid)
+[2015-08-14 14:23:14] simonstewart, joining. (#selendroid)
