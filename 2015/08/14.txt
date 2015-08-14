@@ -5,3 +5,6 @@
 [2015-08-14 09:30:04] CodeItClean, joining. (#selendroid)
 [2015-08-14 09:33:46] CodeItClean: Hi, I'm new to selendroid and i've tried to follow the guide to get the selendroid test app running from a junit test. But I only get "Error forwarding session.."
 [2015-08-14 09:34:02] CodeItClean: it works for running a android browser
+[2015-08-14 09:35:30] CodeItClean: i'm using latest selenium standalone server code (2.47.1-2)
+[2015-08-14 09:35:53] CodeItClean: and using 0.16.0 version of selendroid
+[2015-08-14 09:36:23] CodeItClean: any hints on what to check to get it connected?
