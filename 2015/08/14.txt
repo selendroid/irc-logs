@@ -9,3 +9,4 @@
 [2015-08-14 09:35:53] CodeItClean: and using 0.16.0 version of selendroid
 [2015-08-14 09:36:23] CodeItClean: any hints on what to check to get it connected?
 [2015-08-14 09:43:03] survfate_clone, quitting. (Quit: Instantbird 1.5 -- http://www.instantbird.com)
+[2015-08-14 11:56:12] aluedeke, joining. (#selendroid)
