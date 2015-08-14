@@ -19,3 +19,4 @@
 [2015-08-14 14:44:39] selendroid-git: [selendroid] uchida opened pull request #963: add more node capability for grid auto-register (master...add-more-auto-register-node-capabilities) http://git.io/v31Ay
 [2015-08-14 14:44:39] selendroid-git, leaving. (#selendroid)
 [2015-08-14 14:57:29] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-08-14 15:04:57] simonstewart, joining. (#selendroid)
