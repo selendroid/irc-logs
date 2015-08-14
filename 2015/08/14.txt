@@ -30,3 +30,5 @@
 [2015-08-14 21:54:24] MonkeysPaw, leaving. (#selendroid)
 [2015-08-14 21:57:58] MonkeysPaw, joining. (#selendroid)
 [2015-08-14 21:58:04] MonkeysPaw, leaving. (#selendroid)
+[2015-08-14 22:19:12] CalGuy, joining. (#selendroid)
+[2015-08-14 22:19:34] CalGuy: does selendroid work with webviews? is it scriptable or how does it work>
