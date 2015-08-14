@@ -26,3 +26,5 @@
 [2015-08-14 18:34:01] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-08-14 19:26:41] smccarthy, quitting. (Quit: Leaving...)
 [2015-08-14 20:47:38] smccarthy, joining. (#selendroid)
+[2015-08-14 21:54:15] MonkeysPaw, joining. (#selendroid)
+[2015-08-14 21:54:24] MonkeysPaw, leaving. (#selendroid)
