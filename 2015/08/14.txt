@@ -20,3 +20,4 @@
 [2015-08-14 14:44:39] selendroid-git, leaving. (#selendroid)
 [2015-08-14 14:57:29] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-08-14 15:04:57] simonstewart, joining. (#selendroid)
+[2015-08-14 17:02:22] aluedeke, quitting. (Quit: Leaving.)
