@@ -4,3 +4,4 @@
 [2015-08-15 19:27:52] smccarthy, quitting. (Remote host closed the connection)
 [2015-08-15 20:37:09] CalGuy, joining. (#selendroid)
 [2015-08-15 20:54:02] smccarthy, joining. (#selendroid)
+[2015-08-15 22:44:41] CalGuy, leaving. (#selendroid)
