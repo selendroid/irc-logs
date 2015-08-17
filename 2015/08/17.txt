@@ -3,3 +3,6 @@
 [2015-08-17 11:41:31] aluedeke, quitting. (Ping timeout: 246 seconds)
 [2015-08-17 17:33:41] smccarthy, joining. (#selendroid)
 [2015-08-17 17:48:53] raul782, joining. (#selendroid)
+[2015-08-17 18:51:04] selendroid-git, joining. (#selendroid)
+[2015-08-17 18:51:04] selendroid-git: [selendroid] phyllipecesar opened pull request #965:  - Refactor selendroid-standlone to be able to create a server in a r… (master...master) http://git.io/v3hQY
+[2015-08-17 18:51:04] selendroid-git, leaving. (#selendroid)
