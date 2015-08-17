@@ -7,3 +7,4 @@
 [2015-08-17 18:51:04] selendroid-git: [selendroid] phyllipecesar opened pull request #965:  - Refactor selendroid-standlone to be able to create a server in a r… (master...master) http://git.io/v3hQY
 [2015-08-17 18:51:04] selendroid-git, leaving. (#selendroid)
 [2015-08-17 19:03:22] lukeis, joining. (#selendroid)
+[2015-08-17 19:32:28] aluedeke, joining. (#selendroid)
