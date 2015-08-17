@@ -9,3 +9,4 @@
 [2015-08-17 19:03:22] lukeis, joining. (#selendroid)
 [2015-08-17 19:32:28] aluedeke, joining. (#selendroid)
 [2015-08-17 20:10:57] aluedeke, quitting. (Quit: Leaving.)
+[2015-08-17 20:17:09] aluedeke, joining. (#selendroid)
