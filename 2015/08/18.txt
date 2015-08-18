@@ -2,3 +2,4 @@
 [2015-08-18 02:35:59] smccarthy, quitting. (Quit: Leaving...)
 [2015-08-18 04:06:50] smccarthy, joining. (#selendroid)
 [2015-08-18 06:54:09] raul782, joining. (#selendroid)
+[2015-08-18 07:02:05] smccarthy, quitting. (Quit: Leaving...)
