@@ -39,3 +39,4 @@
 [2015-08-19 16:27:20] aluedeke, quitting. (Read error: Connection reset by peer)
 [2015-08-19 16:38:45] raul782, quitting. (Remote host closed the connection)
 [2015-08-19 17:20:43] smccarthy, joining. (#selendroid)
+[2015-08-19 17:39:40] raul782, joining. (#selendroid)
