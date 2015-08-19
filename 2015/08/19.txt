@@ -35,3 +35,5 @@
 [2015-08-19 15:10:27] aluedeke, joining. (#selendroid)
 [2015-08-19 15:15:24] aluedeke, quitting. (Read error: Connection reset by peer)
 [2015-08-19 15:16:47] aluedeke, joining. (#selendroid)
+[2015-08-19 16:25:46] raul782, joining. (#selendroid)
+[2015-08-19 16:27:20] aluedeke, quitting. (Read error: Connection reset by peer)
