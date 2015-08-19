@@ -2,3 +2,5 @@
 [2015-08-19 06:11:24] aluedeke, joining. (#selendroid)
 [2015-08-19 06:15:20] aluedeke, quitting. (Client Quit)
 [2015-08-19 06:33:49] aluedeke, joining. (#selendroid)
+[2015-08-19 06:50:26] aluedeke, quitting. (Quit: Leaving.)
+[2015-08-19 06:50:30] raul782, joining. (#selendroid)
