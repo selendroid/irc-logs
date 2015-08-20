@@ -12,3 +12,4 @@
 [2015-08-20 18:57:12] rgm, joining. (#selendroid)
 [2015-08-20 18:57:20] rgm, quitting. (Remote host closed the connection)
 [2015-08-20 18:59:27] rgm, joining. (#selendroid)
+[2015-08-20 19:04:08] rgm, quitting. (Remote host closed the connection)
