@@ -7,3 +7,8 @@
 [2015-08-20 16:30:59] smccarthy, joining. (#selendroid)
 [2015-08-20 18:10:15] lukeis, joining. (#selendroid)
 [2015-08-20 18:54:57] rgm, joining. (#selendroid)
+[2015-08-20 18:56:01] rgm: Does anyone knows if I can run tests on android device without being connected to a computer via USB? for example using cell mobile network.
+[2015-08-20 18:56:29] rgm, quitting. (Remote host closed the connection)
+[2015-08-20 18:57:12] rgm, joining. (#selendroid)
+[2015-08-20 18:57:20] rgm, quitting. (Remote host closed the connection)
+[2015-08-20 18:59:27] rgm, joining. (#selendroid)
