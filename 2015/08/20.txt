@@ -1,3 +1,4 @@
 [2015-08-20 01:11:06] lukeis, quitting. (Ping timeout: 240 seconds)
 [2015-08-20 07:22:27] smccarthy, quitting. (Quit: Leaving...)
 [2015-08-20 07:53:24] aluedeke, joining. (#selendroid)
+[2015-08-20 08:12:19] aluedeke, quitting. (Ping timeout: 252 seconds)
