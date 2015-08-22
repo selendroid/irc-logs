@@ -1,1 +1,2 @@
 [2015-08-22 00:58:04] lukeis, quitting. (Ping timeout: 246 seconds)
+[2015-08-22 02:33:51] raul782, joining. (#selendroid)
