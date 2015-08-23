@@ -6,3 +6,4 @@
 [2015-08-23 18:05:28] smccarthy, joining. (#selendroid)
 [2015-08-23 20:21:05] aluedeke, joining. (#selendroid)
 [2015-08-23 20:24:30] aluedeke, quitting. (Remote host closed the connection)
+[2015-08-23 20:25:33] aluedeke, joining. (#selendroid)
