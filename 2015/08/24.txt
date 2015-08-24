@@ -6,3 +6,4 @@
 [2015-08-24 04:29:21] raul782, quitting. (Ping timeout: 260 seconds)
 [2015-08-24 04:42:40] raul782, joining. (#selendroid)
 [2015-08-24 06:48:54] aluedeke, joining. (#selendroid)
+[2015-08-24 06:59:48] aluedeke, quitting. (Ping timeout: 272 seconds)
