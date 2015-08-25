@@ -12,3 +12,5 @@
 [2015-08-25 11:22:52] selendroid-git, joining. (#selendroid)
 [2015-08-25 11:22:52] selendroid-git, leaving. (#selendroid)
 [2015-08-25 11:28:42] aluedeke, joining. (#selendroid)
+[2015-08-25 11:55:57] aluedeke, quitting. (Remote host closed the connection)
+[2015-08-25 11:56:47] aluedeke, joining. (#selendroid)
