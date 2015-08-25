@@ -11,3 +11,4 @@
 [2015-08-25 11:22:52] selendroid-git: [selendroid] phyllipecesar opened pull request #968: Branch fix (master...branch_fix) http://git.io/vsSAl
 [2015-08-25 11:22:52] selendroid-git, joining. (#selendroid)
 [2015-08-25 11:22:52] selendroid-git, leaving. (#selendroid)
+[2015-08-25 11:28:42] aluedeke, joining. (#selendroid)
