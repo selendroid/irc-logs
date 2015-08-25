@@ -8,3 +8,6 @@
 [2015-08-25 11:03:47] aluedeke1, quitting. (Ping timeout: 252 seconds)
 [2015-08-25 11:05:27] aluedeke, joining. (#selendroid)
 [2015-08-25 11:12:30] aluedeke, quitting. (Ping timeout: 245 seconds)
+[2015-08-25 11:22:52] selendroid-git: [selendroid] phyllipecesar opened pull request #968: Branch fix (master...branch_fix) http://git.io/vsSAl
+[2015-08-25 11:22:52] selendroid-git, joining. (#selendroid)
+[2015-08-25 11:22:52] selendroid-git, leaving. (#selendroid)
