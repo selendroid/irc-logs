@@ -2,3 +2,4 @@
 [2015-08-26 03:03:01] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2015-08-26 04:10:32] raul782, joining. (#selendroid)
 [2015-08-26 04:13:37] raul782_, quitting. (Ping timeout: 244 seconds)
+[2015-08-26 04:38:54] raul782_, joining. (#selendroid)
