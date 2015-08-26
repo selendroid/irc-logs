@@ -12,3 +12,4 @@
 [2015-08-26 07:38:27] smccarthy, quitting. (Quit: Leaving...)
 [2015-08-26 07:41:27] simonstewart, quitting. (Client Quit)
 [2015-08-26 08:36:14] aluedeke, joining. (#selendroid)
+[2015-08-26 10:08:35] raul782, joining. (#selendroid)
