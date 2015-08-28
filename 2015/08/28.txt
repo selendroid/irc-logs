@@ -20,3 +20,4 @@
 [2015-08-28 17:21:11] aluedeke, quitting. (Quit: Leaving.)
 [2015-08-28 17:31:22] aluedeke, joining. (#selendroid)
 [2015-08-28 17:54:29] survfate_clone, joining. (#selendroid)
+[2015-08-28 17:57:24] lukeis, joining. (#selendroid)
