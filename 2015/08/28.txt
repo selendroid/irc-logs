@@ -12,3 +12,4 @@
 [2015-08-28 12:30:02] aluedeke, joining. (#selendroid)
 [2015-08-28 12:30:39] aluedeke, quitting. (*.net *.split)
 [2015-08-28 12:32:59] aluedeke, joining. (#selendroid)
+[2015-08-28 16:24:25] aluedeke, quitting. (Remote host closed the connection)
