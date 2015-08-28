@@ -19,3 +19,4 @@
 [2015-08-28 17:03:23] lukeis, quitting. (Ping timeout: 265 seconds)
 [2015-08-28 17:21:11] aluedeke, quitting. (Quit: Leaving.)
 [2015-08-28 17:31:22] aluedeke, joining. (#selendroid)
+[2015-08-28 17:54:29] survfate_clone, joining. (#selendroid)
