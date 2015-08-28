@@ -9,3 +9,6 @@
 [2015-08-28 09:34:21] aluedeke, quitting. (Ping timeout: 244 seconds)
 [2015-08-28 10:01:28] aluedeke, joining. (#selendroid)
 [2015-08-28 12:27:01] aluedeke, quitting. (*.net *.split)
+[2015-08-28 12:30:02] aluedeke, joining. (#selendroid)
+[2015-08-28 12:30:39] aluedeke, quitting. (*.net *.split)
+[2015-08-28 12:32:59] aluedeke, joining. (#selendroid)
