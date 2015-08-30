@@ -4,3 +4,4 @@
 [2015-08-30 16:27:12] smccarthy, joining. (#selendroid)
 [2015-08-30 17:07:26] survfate_clone, joining. (#selendroid)
 [2015-08-30 17:15:06] survfate_clone, quitting. (Quit: Instantbird 1.5 -- http://www.instantbird.com)
+[2015-08-30 20:34:31] smccarthy, quitting. (Quit: Leaving...)
