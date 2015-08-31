@@ -11,3 +11,4 @@
 [2015-08-31 16:40:42] smccarthy, joining. (#selendroid)
 [2015-08-31 17:14:29] lukeis, joining. (#selendroid)
 [2015-08-31 23:00:28] Guest101, joining. (#selendroid)
+[2015-08-31 23:28:07] Guest101, quitting. (Quit: Page closed)
