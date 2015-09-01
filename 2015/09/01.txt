@@ -6,3 +6,4 @@
 [2015-09-01 11:27:46] ddary, leaving. (#selendroid)
 [2015-09-01 13:03:53] ddary, joining. (#selendroid)
 [2015-09-01 13:14:48] ddary, quitting. (Quit: ddary)
+[2015-09-01 13:21:42] aluedeke, joining. (#selendroid)
