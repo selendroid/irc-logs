@@ -55,3 +55,5 @@
 [2015-09-03 18:47:26] lukeis, joining. (#selendroid)
 [2015-09-03 19:00:28] lukeis, quitting. (Ping timeout: 246 seconds)
 [2015-09-03 19:01:13] lukeis, joining. (#selendroid)
+[2015-09-03 19:25:40] Guest11971, quitting. (Quit: Page closed)
+[2015-09-03 19:27:02] lukeis, quitting. (Quit: Leaving.)
