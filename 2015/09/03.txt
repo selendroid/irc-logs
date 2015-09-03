@@ -33,3 +33,14 @@
 [2015-09-03 18:08:32] Thomas_, joining. (#selendroid)
 [2015-09-03 18:08:56] Thomas_, changing nick to Guest11971.
 [2015-09-03 18:09:45] Guest11971: Hey is it possible to use the "-folder" Selendroid-Standalone command line parameters when im starting the server programmatically?
+[2015-09-03 18:10:11] Guest11971: So if will load the latest APk for me
+[2015-09-03 18:10:19] Guest11971: it*
+[2015-09-03 18:11:19] lukeis: apparently not… a public setter isn't exposed on SelendroidConfiguration… but it should be
+[2015-09-03 18:12:05] Guest11971: ok thanks, was afraid of that
+[2015-09-03 18:13:16] Guest11971: if its not to hard to fix is it possible to request that somehow?
+[2015-09-03 18:13:37] lukeis: done ;)
+[2015-09-03 18:13:46] selendroid-git, joining. (#selendroid)
+[2015-09-03 18:13:46] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/vGHwf
+[2015-09-03 18:13:46] selendroid-git: selendroid/master 9881869 Luke Inman-Semerau: adding public setter for AppFolderToMonitor (-folder command line option)
+[2015-09-03 18:13:46] selendroid-git, leaving. (#selendroid)
+[2015-09-03 18:14:31] lukeis: once that builds in travis, you could grab the latest and try it… or build yourself :)
