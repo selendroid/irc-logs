@@ -58,3 +58,5 @@
 [2015-09-03 19:25:40] Guest11971, quitting. (Quit: Page closed)
 [2015-09-03 19:27:02] lukeis, quitting. (Quit: Leaving.)
 [2015-09-03 20:05:36] lukeis, joining. (#selendroid)
+[2015-09-03 20:11:03] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-09-03 20:14:32] lukeis, quitting. (Quit: Leaving.)
