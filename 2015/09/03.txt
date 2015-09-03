@@ -53,3 +53,5 @@
 [2015-09-03 18:20:13] travis-ci, leaving. (#selendroid)
 [2015-09-03 18:23:12] lukeis, quitting. (Ping timeout: 264 seconds)
 [2015-09-03 18:47:26] lukeis, joining. (#selendroid)
+[2015-09-03 19:00:28] lukeis, quitting. (Ping timeout: 246 seconds)
+[2015-09-03 19:01:13] lukeis, joining. (#selendroid)
