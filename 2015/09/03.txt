@@ -52,3 +52,4 @@
 [2015-09-03 18:20:13] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/6af76d95b090...988186998379
 [2015-09-03 18:20:13] travis-ci, leaving. (#selendroid)
 [2015-09-03 18:23:12] lukeis, quitting. (Ping timeout: 264 seconds)
+[2015-09-03 18:47:26] lukeis, joining. (#selendroid)
