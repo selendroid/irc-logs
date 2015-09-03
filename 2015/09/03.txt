@@ -4,3 +4,4 @@
 [2015-09-03 07:14:14] smccarthy, quitting. (Quit: Leaving...)
 [2015-09-03 08:05:08] aluedeke, joining. (#selendroid)
 [2015-09-03 08:33:23] aluedeke, quitting. (Ping timeout: 256 seconds)
+[2015-09-03 08:45:41] raul782_, quitting. (Remote host closed the connection)
