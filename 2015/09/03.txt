@@ -44,3 +44,5 @@
 [2015-09-03 18:13:46] selendroid-git: selendroid/master 9881869 Luke Inman-Semerau: adding public setter for AppFolderToMonitor (-folder command line option)
 [2015-09-03 18:13:46] selendroid-git, leaving. (#selendroid)
 [2015-09-03 18:14:31] lukeis: once that builds in travis, you could grab the latest and try it… or build yourself :)
+[2015-09-03 18:16:45] Guest11971: awesome! I will try it out
+[2015-09-03 18:17:05] Guest11971: Thanks!
