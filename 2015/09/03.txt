@@ -46,3 +46,9 @@
 [2015-09-03 18:14:31] lukeis: once that builds in travis, you could grab the latest and try it… or build yourself :)
 [2015-09-03 18:16:45] Guest11971: awesome! I will try it out
 [2015-09-03 18:17:05] Guest11971: Thanks!
+[2015-09-03 18:20:11] travis-ci, joining. (#selendroid)
+[2015-09-03 18:20:12] travis-ci: selendroid/selendroid#788 (master - 9881869 : Luke Inman-Semerau): The build passed.
+[2015-09-03 18:20:13] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/78607378
+[2015-09-03 18:20:13] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/6af76d95b090...988186998379
+[2015-09-03 18:20:13] travis-ci, leaving. (#selendroid)
+[2015-09-03 18:23:12] lukeis, quitting. (Ping timeout: 264 seconds)
