@@ -1,0 +1,2 @@
+[2015-09-07 01:16:46] smccarthy, joining. (#selendroid)
+[2015-09-07 01:19:21] smccarthy, quitting. (Client Quit)
