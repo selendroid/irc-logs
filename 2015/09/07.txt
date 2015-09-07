@@ -18,3 +18,4 @@
 [2015-09-07 14:30:13] simonstewart, joining. (#selendroid)
 [2015-09-07 16:29:37] smccarthy, joining. (#selendroid)
 [2015-09-07 16:41:27] Gyran, leaving. ("WeeChat 0.4.2")
+[2015-09-07 17:26:26] aluedeke, quitting. (Ping timeout: 272 seconds)
