@@ -4,3 +4,4 @@
 [2015-09-07 05:07:24] AutomatedTester, joining. (#selendroid)
 [2015-09-07 07:56:28] aluedeke, joining. (#selendroid)
 [2015-09-07 08:00:10] smccarthy, joining. (#selendroid)
+[2015-09-07 08:19:08] smccarthy, quitting. (Remote host closed the connection)
