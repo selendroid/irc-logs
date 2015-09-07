@@ -1,2 +1,4 @@
 [2015-09-07 01:16:46] smccarthy, joining. (#selendroid)
 [2015-09-07 01:19:21] smccarthy, quitting. (Client Quit)
+[2015-09-07 05:07:02] AutomatedTester, quitting. (Ping timeout: 265 seconds)
+[2015-09-07 05:07:24] AutomatedTester, joining. (#selendroid)
