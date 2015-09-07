@@ -11,3 +11,4 @@
 [2015-09-07 09:34:17] aluedeke, joining. (#selendroid)
 [2015-09-07 10:10:49] aluedeke, quitting. (Quit: Leaving.)
 [2015-09-07 10:12:13] aluedeke, joining. (#selendroid)
+[2015-09-07 11:59:28] simonstewart, joining. (#selendroid)
