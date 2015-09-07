@@ -7,3 +7,5 @@
 [2015-09-07 08:19:08] smccarthy, quitting. (Remote host closed the connection)
 [2015-09-07 08:36:24] aluedeke, quitting. (Ping timeout: 264 seconds)
 [2015-09-07 08:57:54] aluedeke, joining. (#selendroid)
+[2015-09-07 09:32:29] aluedeke, quitting. (Ping timeout: 256 seconds)
+[2015-09-07 09:34:17] aluedeke, joining. (#selendroid)
