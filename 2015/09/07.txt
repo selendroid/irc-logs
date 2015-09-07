@@ -16,3 +16,4 @@
 [2015-09-07 14:04:59] simonstewart, quitting. (Ping timeout: 264 seconds)
 [2015-09-07 14:24:08] simonste_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2015-09-07 14:30:13] simonstewart, joining. (#selendroid)
+[2015-09-07 16:29:37] smccarthy, joining. (#selendroid)
