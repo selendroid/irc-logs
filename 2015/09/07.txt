@@ -26,3 +26,4 @@
 [2015-09-07 19:46:58] aluedeke, quitting. (Remote host closed the connection)
 [2015-09-07 19:47:44] aluedeke, joining. (#selendroid)
 [2015-09-07 20:09:51] simonstewart, joining. (#selendroid)
+[2015-09-07 23:05:32] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
