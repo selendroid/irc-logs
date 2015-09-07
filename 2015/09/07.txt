@@ -3,3 +3,4 @@
 [2015-09-07 05:07:02] AutomatedTester, quitting. (Ping timeout: 265 seconds)
 [2015-09-07 05:07:24] AutomatedTester, joining. (#selendroid)
 [2015-09-07 07:56:28] aluedeke, joining. (#selendroid)
+[2015-09-07 08:00:10] smccarthy, joining. (#selendroid)
