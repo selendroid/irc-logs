@@ -19,3 +19,5 @@
 [2015-09-08 21:18:22] aluedeke, quitting. (Ping timeout: 260 seconds)
 [2015-09-08 21:18:45] aluedeke, joining. (#selendroid)
 [2015-09-08 22:13:01] aluedeke, quitting. (Ping timeout: 252 seconds)
+[2015-09-08 23:52:20] renee_, joining. (#selendroid)
+[2015-09-08 23:54:59] renee_: @AutomatedTester and @smccarthy: Am doing a config.setforceReinstall(true) in my code but if one of my test fails, when the app is launched to run the second test, the app relaunches from the same page where the test failed the first time. So, forceReinstall() is not working. I did do a print
