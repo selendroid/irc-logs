@@ -2,3 +2,4 @@
 [2015-09-08 02:41:18] smccarthy, quitting. (Remote host closed the connection)
 [2015-09-08 03:20:09] smccarth_, joining. (#selendroid)
 [2015-09-08 06:53:42] smccarth_, quitting. (Quit: Leaving...)
+[2015-09-08 07:21:15] aluedeke, joining. (#selendroid)
