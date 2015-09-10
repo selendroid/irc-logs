@@ -20,3 +20,4 @@
 [2015-09-10 17:55:51] ddary, joining. (#selendroid)
 [2015-09-10 17:55:53] ddary, leaving. (#selendroid)
 [2015-09-10 19:01:30] renee_, joining. (#selendroid)
+[2015-09-10 19:11:24] aluedeke, joining. (#selendroid)
