@@ -7,3 +7,4 @@
 [2015-09-10 10:09:15] aluedeke, joining. (#selendroid)
 [2015-09-10 10:39:14] aluedeke, quitting. (Quit: Leaving.)
 [2015-09-10 10:40:41] aluedeke, joining. (#selendroid)
+[2015-09-10 11:22:47] ddary, joining. (#selendroid)
