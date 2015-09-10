@@ -13,3 +13,5 @@
 [2015-09-10 12:25:38] ddary, quitting. (Client Quit)
 [2015-09-10 15:22:50] ddary, joining. (#selendroid)
 [2015-09-10 15:50:36] ddary, quitting. (Quit: ddary)
+[2015-09-10 16:03:37] [b__b], quitting. (Remote host closed the connection)
+[2015-09-10 16:03:58] [b__b], joining. (#selendroid)
