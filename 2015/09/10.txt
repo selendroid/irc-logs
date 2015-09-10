@@ -4,3 +4,4 @@
 [2015-09-10 03:23:15] raul782, quitting. (Ping timeout: 244 seconds)
 [2015-09-10 06:15:54] raul782_, quitting. ()
 [2015-09-10 07:05:10] smccarthy, quitting. (Quit: Leaving...)
+[2015-09-10 10:09:15] aluedeke, joining. (#selendroid)
