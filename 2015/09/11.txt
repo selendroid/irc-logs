@@ -19,3 +19,8 @@
 [2015-09-11 18:08:40] selendroid-git: selendroid/master bafe0f7 Luca Niccolini: add factory to allow custom drivers
 [2015-09-11 18:08:40] selendroid-git: selendroid/master c2ec0d4 Luke Inman-Semerau: Merge pull request #975 from lnicco/custom_drivers...
 [2015-09-11 18:08:40] selendroid-git, leaving. (#selendroid)
+[2015-09-11 18:13:05] travis-ci, joining. (#selendroid)
+[2015-09-11 18:13:06] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/988186998379...c2ec0d49f182
+[2015-09-11 18:13:06] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/79877642
+[2015-09-11 18:13:06] travis-ci: selendroid/selendroid#790 (master - c2ec0d4 : Luke Inman-Semerau): The build passed.
+[2015-09-11 18:13:06] travis-ci, leaving. (#selendroid)
