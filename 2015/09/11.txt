@@ -14,3 +14,8 @@
 [2015-09-11 14:56:53] selendroid-git: [selendroid] lnicco opened pull request #975: add factory to allow custom drivers (master...custom_drivers) http://git.io/vZuAb
 [2015-09-11 14:56:53] selendroid-git, leaving. (#selendroid)
 [2015-09-11 16:38:25] smccarthy, joining. (#selendroid)
+[2015-09-11 18:08:39] selendroid-git, joining. (#selendroid)
+[2015-09-11 18:08:39] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vZgtN
+[2015-09-11 18:08:40] selendroid-git: selendroid/master bafe0f7 Luca Niccolini: add factory to allow custom drivers
+[2015-09-11 18:08:40] selendroid-git: selendroid/master c2ec0d4 Luke Inman-Semerau: Merge pull request #975 from lnicco/custom_drivers...
+[2015-09-11 18:08:40] selendroid-git, leaving. (#selendroid)
