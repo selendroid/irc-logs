@@ -8,3 +8,4 @@
 [2015-09-11 02:24:06] renee_, quitting. (Ping timeout: 246 seconds)
 [2015-09-11 07:53:57] smccarthy, quitting. (Remote host closed the connection)
 [2015-09-11 08:08:51] mach6, quitting. (Ping timeout: 246 seconds)
+[2015-09-11 12:11:22] ddary, joining. (#selendroid)
