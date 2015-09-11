@@ -24,3 +24,4 @@
 [2015-09-11 18:13:06] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/79877642
 [2015-09-11 18:13:06] travis-ci: selendroid/selendroid#790 (master - c2ec0d4 : Luke Inman-Semerau): The build passed.
 [2015-09-11 18:13:06] travis-ci, leaving. (#selendroid)
+[2015-09-11 20:21:08] ddary, joining. (#selendroid)
