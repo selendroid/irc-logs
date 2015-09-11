@@ -5,3 +5,4 @@
 [2015-09-11 02:19:24] renee_: any idea how to get that jar file?
 [2015-09-11 02:19:40] renee_: This is my first time contributing to the selendroid code base
 [2015-09-11 02:19:51] renee_: would appreciate some help
+[2015-09-11 02:24:06] renee_, quitting. (Ping timeout: 246 seconds)
