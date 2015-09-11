@@ -13,3 +13,4 @@
 [2015-09-11 14:56:53] selendroid-git, joining. (#selendroid)
 [2015-09-11 14:56:53] selendroid-git: [selendroid] lnicco opened pull request #975: add factory to allow custom drivers (master...custom_drivers) http://git.io/vZuAb
 [2015-09-11 14:56:53] selendroid-git, leaving. (#selendroid)
+[2015-09-11 16:38:25] smccarthy, joining. (#selendroid)
