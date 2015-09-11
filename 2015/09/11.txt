@@ -1,1 +1,7 @@
 [2015-09-11 00:20:22] mach6, joining. (#selendroid)
+[2015-09-11 02:15:40] renee_, joining. (#selendroid)
+[2015-09-11 02:16:50] renee_: Hello people! I want to be able to contribute to the codebase. I checked out the code and opened the project in eclipse but I see a lot of errors. Any dependencies needed?
+[2015-09-11 02:19:12] renee_: My pom.xml shows this error message: Missing artifact io.selendroid:selendroid-common:jar:0.17.0-  SNAPSHOT
+[2015-09-11 02:19:24] renee_: any idea how to get that jar file?
+[2015-09-11 02:19:40] renee_: This is my first time contributing to the selendroid code base
+[2015-09-11 02:19:51] renee_: would appreciate some help
