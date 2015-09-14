@@ -28,3 +28,5 @@
 [2015-09-14 20:39:03] aluedeke, joining. (#selendroid)
 [2015-09-14 21:12:58] aluedeke, quitting. (Quit: Leaving.)
 [2015-09-14 21:13:11] aluedeke, joining. (#selendroid)
+[2015-09-14 21:50:25] aluedeke, quitting. (Ping timeout: 252 seconds)
+[2015-09-14 21:53:49] aluedeke, joining. (#selendroid)
