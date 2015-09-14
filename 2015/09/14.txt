@@ -17,3 +17,5 @@
 [2015-09-14 12:44:30] simonstewart, quitting. (Ping timeout: 255 seconds)
 [2015-09-14 12:48:37] simonste_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2015-09-14 12:49:31] simonstewart, joining. (#selendroid)
+[2015-09-14 14:59:11] simonstewart, quitting. (Read error: Connection reset by peer)
+[2015-09-14 14:59:37] simonstewart, joining. (#selendroid)
