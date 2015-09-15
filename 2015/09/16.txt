@@ -1,1 +1,2 @@
 [2015-09-16 01:01:07] simonstewart, quitting. (Ping timeout: 265 seconds)
+[2015-09-16 01:07:03] lukeis, quitting. (Ping timeout: 260 seconds)
