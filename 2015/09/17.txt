@@ -6,3 +6,4 @@
 [2015-09-17 06:58:12] aluedeke, joining. (#selendroid)
 [2015-09-17 06:58:16] aluedeke, quitting. (Remote host closed the connection)
 [2015-09-17 07:19:05] mach6, joining. (#selendroid)
+[2015-09-17 07:23:26] mach6, quitting. (Ping timeout: 240 seconds)
