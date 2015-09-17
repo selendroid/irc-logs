@@ -3,3 +3,5 @@
 [2015-09-17 04:28:07] mach6, quitting. (Remote host closed the connection)
 [2015-09-17 05:17:56] mach6, joining. (#selendroid)
 [2015-09-17 06:18:17] mach6, quitting. (Remote host closed the connection)
+[2015-09-17 06:58:12] aluedeke, joining. (#selendroid)
+[2015-09-17 06:58:16] aluedeke, quitting. (Remote host closed the connection)
