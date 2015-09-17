@@ -2,3 +2,4 @@
 [2015-09-17 03:43:35] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-09-17 04:28:07] mach6, quitting. (Remote host closed the connection)
 [2015-09-17 05:17:56] mach6, joining. (#selendroid)
+[2015-09-17 06:18:17] mach6, quitting. (Remote host closed the connection)
