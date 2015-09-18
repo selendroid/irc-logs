@@ -13,3 +13,9 @@
 [2015-09-18 18:46:06] lukeis1, changing nick to lukeis.
 [2015-09-18 22:13:55] lukeis, quitting. (Ping timeout: 265 seconds)
 [2015-09-18 22:36:22] lukeis, joining. (#selendroid)
+[2015-09-18 23:19:02] jlipps, joining. (#selendroid)
+[2015-09-18 23:19:16] jlipps: weird, clicking that worked, joining on my own didn't
+[2015-09-18 23:19:19] lukeis: ohai jlipps
+[2015-09-18 23:19:30] jlipps: this Textual app has some bugs methinks
+[2015-09-18 23:19:42] *lukeis uses adium'
+[2015-09-18 23:19:59] jlipps: i did before. wanted to try something newish. probably going back to adium i guess.
