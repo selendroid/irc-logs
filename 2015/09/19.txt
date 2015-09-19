@@ -3,3 +3,4 @@
 [2015-09-19 03:04:24] jlipps, joining. (#selendroid)
 [2015-09-19 04:05:06] jlipps, quitting. (Remote host closed the connection)
 [2015-09-19 12:33:15] aluedeke, joining. (#selendroid)
+[2015-09-19 13:49:28] aluedeke, quitting. (Ping timeout: 246 seconds)
