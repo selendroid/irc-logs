@@ -1,3 +1,4 @@
 [2015-09-19 01:11:32] lukeis, quitting. (Quit: Leaving.)
 [2015-09-19 01:51:53] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-09-19 03:04:24] jlipps, joining. (#selendroid)
+[2015-09-19 04:05:06] jlipps, quitting. (Remote host closed the connection)
