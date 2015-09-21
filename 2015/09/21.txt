@@ -11,3 +11,4 @@
 [2015-09-21 17:43:39] simonstewart, quitting. (Ping timeout: 240 seconds)
 [2015-09-21 20:47:35] jlipps, joining. (#selendroid)
 [2015-09-21 21:21:39] ddary, joining. (#selendroid)
+[2015-09-21 21:53:48] simonstewart, joining. (#selendroid)
