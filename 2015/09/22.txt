@@ -8,3 +8,4 @@
 [2015-09-22 06:19:31] jlipps, joining. (#selendroid)
 [2015-09-22 06:38:48] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-09-22 07:46:54] smccarthy, quitting. (Read error: Connection reset by peer)
+[2015-09-22 16:49:41] jlipps, joining. (#selendroid)
