@@ -12,3 +12,4 @@
 [2015-09-22 17:27:45] lukeis, joining. (#selendroid)
 [2015-09-22 17:38:20] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-09-22 18:02:05] jlipps, joining. (#selendroid)
+[2015-09-22 18:30:07] jlipps, quitting. (Quit: Textual IRC Client: www.textualapp.com)
