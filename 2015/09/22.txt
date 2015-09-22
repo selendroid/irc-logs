@@ -10,3 +10,4 @@
 [2015-09-22 07:46:54] smccarthy, quitting. (Read error: Connection reset by peer)
 [2015-09-22 16:49:41] jlipps, joining. (#selendroid)
 [2015-09-22 17:27:45] lukeis, joining. (#selendroid)
+[2015-09-22 17:38:20] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
