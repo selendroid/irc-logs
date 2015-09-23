@@ -5,3 +5,6 @@
 [2015-09-23 11:26:21] selendroid-git, leaving. (#selendroid)
 [2015-09-23 11:38:13] ddary, quitting. (Quit: Page closed)
 [2015-09-23 17:25:06] raul782, joining. (#selendroid)
+[2015-09-23 17:50:50] smccarthy, joining. (#selendroid)
+[2015-09-23 17:51:58] raul782_, joining. (#selendroid)
+[2015-09-23 17:52:22] raul782, quitting. (Ping timeout: 250 seconds)
