@@ -3,3 +3,4 @@
 [2015-09-23 11:26:21] selendroid-git, joining. (#selendroid)
 [2015-09-23 11:26:21] selendroid-git: [selendroid] phyllipecesar closed pull request #965:  - Refactor selendroid-standlone to be able to create a server in a r… (master...master) http://git.io/v3hQY
 [2015-09-23 11:26:21] selendroid-git, leaving. (#selendroid)
+[2015-09-23 11:38:13] ddary, quitting. (Quit: Page closed)
