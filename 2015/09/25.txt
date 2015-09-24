@@ -6,3 +6,4 @@
 [2015-09-25 00:40:40] raul782, quitting. (Ping timeout: 246 seconds)
 [2015-09-25 01:00:52] lukeis, quitting. (Quit: Leaving.)
 [2015-09-25 01:01:56] raul782, joining. (#selendroid)
+[2015-09-25 01:22:52] amazoniantoad, quitting. (Quit: leaving)
