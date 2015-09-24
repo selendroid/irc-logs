@@ -1,0 +1,2 @@
+[2015-09-25 00:10:10] amazoniantoad, joining. (#selendroid)
+[2015-09-25 00:11:19] amazoniantoad: Hey guys. Is there a tutorial on getting selendroid running on android studio?
