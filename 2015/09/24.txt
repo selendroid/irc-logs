@@ -30,3 +30,4 @@
 [2015-09-24 20:04:39] raul782_, quitting. (Read error: Connection reset by peer)
 [2015-09-24 20:05:03] raul782, joining. (#selendroid)
 [2015-09-24 20:06:42] raul782_, joining. (#selendroid)
+[2015-09-24 20:10:19] raul782, quitting. (Ping timeout: 240 seconds)
