@@ -4,3 +4,6 @@
 [2015-09-24 01:11:19] lukeis, quitting. (Ping timeout: 240 seconds)
 [2015-09-24 03:13:45] selendroidbot___, joining. (#selendroid)
 [2015-09-24 06:53:13] smccarthy, quitting. (Quit: Leaving...)
+[2015-09-24 08:27:06] raul782_, quitting. (Remote host closed the connection)
+[2015-09-24 08:27:26] raul782, joining. (#selendroid)
+[2015-09-24 08:27:52] raul782, quitting. (Remote host closed the connection)
