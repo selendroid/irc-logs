@@ -13,3 +13,5 @@
 [2015-09-25 02:14:52] amazoniantoad: Is anyone here? ;_;
 [2015-09-25 02:41:34] amazoniantoad, quitting. (Quit: Lost terminal)
 [2015-09-25 05:59:53] raul782, quitting. (Remote host closed the connection)
+[2015-09-25 07:00:26] raul782, joining. (#selendroid)
+[2015-09-25 07:03:14] smccarthy, quitting. (Remote host closed the connection)
