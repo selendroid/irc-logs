@@ -19,3 +19,4 @@
 [2015-09-25 08:15:56] mach6, joining. (#selendroid)
 [2015-09-25 08:18:24] mach6, quitting. (Client Quit)
 [2015-09-25 11:07:54] raul782, joining. (#selendroid)
+[2015-09-25 11:12:47] raul782, quitting. (Ping timeout: 264 seconds)
