@@ -9,3 +9,4 @@
 [2015-09-25 01:22:52] amazoniantoad, quitting. (Quit: leaving)
 [2015-09-25 01:50:08] amazoniantoad, joining. (#selendroid)
 [2015-09-25 01:50:44] amazoniantoad: Hey guys gradle fails when I try to run my program...Would anyone like to see the error I'm given?
+[2015-09-25 01:58:04] jlipps_, quitting. (Quit: Textual IRC Client: www.textualapp.com)
