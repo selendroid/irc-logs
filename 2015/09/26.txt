@@ -9,3 +9,5 @@
 [2015-09-26 02:24:04] AutomatedTester, joining. (#selendroid)
 [2015-09-26 02:25:30] raul782, quitting. (Ping timeout: 240 seconds)
 [2015-09-26 02:40:51] raul782, joining. (#selendroid)
+[2015-09-26 02:45:33] raul782, quitting. (Ping timeout: 255 seconds)
+[2015-09-26 02:46:48] raul782, joining. (#selendroid)
