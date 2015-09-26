@@ -22,3 +22,6 @@
 [2015-09-26 04:56:38] raul782, joining. (#selendroid)
 [2015-09-26 04:58:36] raul782_, quitting. (Ping timeout: 264 seconds)
 [2015-09-26 05:03:21] raul782, quitting. (Remote host closed the connection)
+[2015-09-26 05:25:03] raul782, joining. (#selendroid)
+[2015-09-26 05:27:07] raul782, quitting. (Read error: Connection reset by peer)
+[2015-09-26 05:27:26] raul782, joining. (#selendroid)
