@@ -2,3 +2,4 @@
 [2015-09-29 02:54:42] lukeis, quitting. (Quit: Leaving.)
 [2015-09-29 03:41:29] raul782, quitting. (Remote host closed the connection)
 [2015-09-29 07:18:27] smccarthy, quitting. (Quit: Leaving...)
+[2015-09-29 07:38:02] raul782, joining. (#selendroid)
