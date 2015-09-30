@@ -23,3 +23,4 @@
 [2015-09-30 20:47:29] sert: hi
 [2015-09-30 20:52:59] sert, quitting. (Quit: Page closed)
 [2015-09-30 21:32:35] simonste_, joining. (#selendroid)
+[2015-09-30 21:35:44] simonstewart, quitting. (Ping timeout: 250 seconds)
