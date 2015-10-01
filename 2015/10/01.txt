@@ -24,3 +24,7 @@
 [2015-10-01 18:24:09] ddary, joining. (#selendroid)
 [2015-10-01 18:24:34] ddary: hello all
 [2015-10-01 18:24:48] lukeis: ohai dominik
+[2015-10-01 18:25:08] ddary: should we do a call later?
+[2015-10-01 18:25:31] ddary: in the end everything is said already in @asm mail, right?
+[2015-10-01 18:25:44] lukeis: i believe so
+[2015-10-01 18:26:17] ddary: good :-)
