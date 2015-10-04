@@ -7,3 +7,8 @@
 [2015-10-04 20:36:23] smccarthy, joining. (#selendroid)
 [2015-10-04 20:41:51] smccarthy, quitting. (Ping timeout: 256 seconds)
 [2015-10-04 20:43:53] smccarthy, joining. (#selendroid)
+[2015-10-04 21:30:40] AutomatedTester_, joining. (#selendroid)
+[2015-10-04 21:32:22] AutomatedTester, quitting. (Ping timeout: 240 seconds)
+[2015-10-04 21:32:25] AutomatedTester_, changing nick to AutomatedTester.
+[2015-10-04 21:32:25] AutomatedTester, quitting. (Changing host)
+[2015-10-04 21:32:26] AutomatedTester, joining. (#selendroid)
