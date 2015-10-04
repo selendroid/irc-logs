@@ -13,3 +13,4 @@
 [2015-10-04 21:32:25] AutomatedTester, quitting. (Changing host)
 [2015-10-04 21:32:26] AutomatedTester, joining. (#selendroid)
 [2015-10-04 23:27:56] smccarthy, quitting. (Remote host closed the connection)
+[2015-10-04 23:41:30] smccarthy, joining. (#selendroid)
