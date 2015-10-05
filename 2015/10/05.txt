@@ -3,3 +3,5 @@
 [2015-10-05 06:57:57] smccarthy, quitting. (Remote host closed the connection)
 [2015-10-05 13:08:49] ddary, joining. (#selendroid)
 [2015-10-05 14:31:06] ddary, quitting. (Ping timeout: 246 seconds)
+[2015-10-05 15:19:42] carljokl, joining. (#selendroid)
+[2015-10-05 15:19:54] carljokl: Hello
