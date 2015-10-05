@@ -6,3 +6,5 @@
 [2015-10-05 15:19:42] carljokl, joining. (#selendroid)
 [2015-10-05 15:19:54] carljokl: Hello
 [2015-10-05 15:20:12] carljokl: Is there anyone monitoring this channel right now?
+[2015-10-05 16:45:54] smccarthy, joining. (#selendroid)
+[2015-10-05 16:47:12] carljokl: Hello
