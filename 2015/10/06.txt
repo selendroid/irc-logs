@@ -13,3 +13,4 @@
 [2015-10-06 16:18:56] simonste_, quitting. (Client Quit)
 [2015-10-06 16:19:20] ddary, joining. (#selendroid)
 [2015-10-06 16:22:41] simonstewart, quitting. (Ping timeout: 256 seconds)
+[2015-10-06 16:59:18] ddary, quitting. (Quit: Page closed)
