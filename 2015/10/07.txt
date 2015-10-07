@@ -17,3 +17,4 @@
 [2015-10-07 22:15:49] camil, joining. (#selendroid)
 [2015-10-07 22:38:58] camil, quitting. (Ping timeout: 272 seconds)
 [2015-10-07 22:44:00] camil, joining. (#selendroid)
+[2015-10-07 23:03:57] camil, quitting. (Ping timeout: 246 seconds)
