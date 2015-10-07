@@ -1,3 +1,5 @@
 [2015-10-07 01:02:56] lukeis, quitting. (Quit: Leaving.)
 [2015-10-07 07:22:20] smccarthy, quitting. (Remote host closed the connection)
 [2015-10-07 13:56:35] simonstewart, joining. (#selendroid)
+[2015-10-07 14:50:44] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2015-10-07 14:54:05] simonstewart, joining. (#selendroid)
