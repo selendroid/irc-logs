@@ -16,3 +16,4 @@
 [2015-10-08 19:41:04] selendroid-git: [selendroid] lukeis opened pull request #984: WebView needs to proxy WebViewClient & WebChromeClient (master...master) http://git.io/vCkg6
 [2015-10-08 19:57:54] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2015-10-08 22:55:29] smccarthy, quitting. (Quit: Leaving...)
+[2015-10-08 23:03:39] smccarthy, joining. (#selendroid)
