@@ -8,3 +8,4 @@
 [2015-10-08 11:44:24] extor, joining. (#selendroid)
 [2015-10-08 16:09:37] simonstewart, joining. (#selendroid)
 [2015-10-08 17:17:25] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2015-10-08 17:26:16] smccarthy, joining. (#selendroid)
