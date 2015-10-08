@@ -1,1 +1,2 @@
 [2015-10-08 01:03:30] lukeis, quitting. (Ping timeout: 240 seconds)
+[2015-10-08 07:06:20] smccarthy, quitting. (Remote host closed the connection)
