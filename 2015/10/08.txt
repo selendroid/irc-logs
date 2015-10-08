@@ -11,3 +11,6 @@
 [2015-10-08 17:26:16] smccarthy, joining. (#selendroid)
 [2015-10-08 17:38:40] lukeis, joining. (#selendroid)
 [2015-10-08 17:47:56] simonstewart, joining. (#selendroid)
+[2015-10-08 19:41:04] selendroid-git, joining. (#selendroid)
+[2015-10-08 19:41:04] selendroid-git, leaving. (#selendroid)
+[2015-10-08 19:41:04] selendroid-git: [selendroid] lukeis opened pull request #984: WebView needs to proxy WebViewClient & WebChromeClient (master...master) http://git.io/vCkg6
