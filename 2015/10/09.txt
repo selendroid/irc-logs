@@ -24,3 +24,4 @@
 [2015-10-09 20:40:36] travis-ci, leaving. (#selendroid)
 [2015-10-09 21:14:57] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-10-09 22:14:19] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
+[2015-10-09 22:52:27] AutomatedTester, joining. (#selendroid)
