@@ -8,3 +8,9 @@
 [2015-10-09 11:35:24] simonstewart, joining. (#selendroid)
 [2015-10-09 17:07:44] smccarthy, joining. (#selendroid)
 [2015-10-09 18:31:11] lukeis, joining. (#selendroid)
+[2015-10-09 20:10:28] lukeis: asm89: I'd like to note that my pull request shows an example of why it would be very good to move to gradle (or another tool) other than maven… the latest android sdk libs aren't in maven central! there's other projects to locally install them / etc… but that's just a hack i don't want to enforce everyone to do.
+[2015-10-09 20:11:09] lukeis: simonstewart: buck supports marshmallow, right? :)
+[2015-10-09 20:11:18] simonstewart: Buck does
+[2015-10-09 20:11:29] lukeis: maven does not… sigh...
+[2015-10-09 20:11:36] simonstewart: Buck does ;)
+[2015-10-09 20:11:56] lukeis: well, not without installing it locally yourself, damn android project not deploying to maven central
