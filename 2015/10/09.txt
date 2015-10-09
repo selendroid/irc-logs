@@ -1,1 +1,2 @@
 [2015-10-09 00:32:52] lukeis, quitting. (Read error: Connection reset by peer)
+[2015-10-09 04:50:50] extor, quitting. (Ping timeout: 240 seconds)
