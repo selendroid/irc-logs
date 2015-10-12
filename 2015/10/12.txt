@@ -9,3 +9,4 @@
 [2015-10-12 12:14:17] flex1986, quitting. (Remote host closed the connection)
 [2015-10-12 12:17:16] flex1986, joining. (#selendroid)
 [2015-10-12 12:20:02] flex1986, quitting. (Remote host closed the connection)
+[2015-10-12 14:52:12] rlux, joining. (#selendroid)
