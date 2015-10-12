@@ -19,3 +19,4 @@
 [2015-10-12 16:41:54] rlux, quitting. (Remote host closed the connection)
 [2015-10-12 17:01:27] smccarthy, joining. (#selendroid)
 [2015-10-12 17:27:12] simonstewart, joining. (#selendroid)
+[2015-10-12 18:11:45] lukeis, joining. (#selendroid)
