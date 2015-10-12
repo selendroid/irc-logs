@@ -10,3 +10,5 @@
 [2015-10-12 12:17:16] flex1986, joining. (#selendroid)
 [2015-10-12 12:20:02] flex1986, quitting. (Remote host closed the connection)
 [2015-10-12 14:52:12] rlux, joining. (#selendroid)
+[2015-10-12 15:25:54] rlux_, joining. (#selendroid)
+[2015-10-12 15:27:11] rlux, quitting. (Remote host closed the connection)
