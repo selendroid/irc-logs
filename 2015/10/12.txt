@@ -3,3 +3,5 @@
 [2015-10-12 11:25:33] asm89, quitting. (Ping timeout: 265 seconds)
 [2015-10-12 11:28:20] asm89, joining. (#selendroid)
 [2015-10-12 11:36:18] rlux, joining. (#selendroid)
+[2015-10-12 11:52:08] rlux, changing nick to flex1986.
+[2015-10-12 11:54:21] flex1986, quitting. (Remote host closed the connection)
