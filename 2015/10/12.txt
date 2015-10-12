@@ -14,3 +14,4 @@
 [2015-10-12 15:27:11] rlux, quitting. (Remote host closed the connection)
 [2015-10-12 15:50:38] rlux_, quitting. (Remote host closed the connection)
 [2015-10-12 15:53:39] rlux, joining. (#selendroid)
+[2015-10-12 16:29:16] rlux, quitting. (Remote host closed the connection)
