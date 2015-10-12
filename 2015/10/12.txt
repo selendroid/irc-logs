@@ -22,3 +22,4 @@
 [2015-10-12 18:11:45] lukeis, joining. (#selendroid)
 [2015-10-12 20:59:01] smccarthy, quitting. (Remote host closed the connection)
 [2015-10-12 20:59:51] smccarthy, joining. (#selendroid)
+[2015-10-12 21:00:17] smccarthy, quitting. (Remote host closed the connection)
