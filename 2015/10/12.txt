@@ -5,3 +5,4 @@
 [2015-10-12 11:36:18] rlux, joining. (#selendroid)
 [2015-10-12 11:52:08] rlux, changing nick to flex1986.
 [2015-10-12 11:54:21] flex1986, quitting. (Remote host closed the connection)
+[2015-10-12 12:07:33] flex1986, joining. (#selendroid)
