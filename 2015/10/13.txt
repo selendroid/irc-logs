@@ -1,2 +1,4 @@
 [2015-10-13 01:03:33] lukeis, quitting. (Quit: Leaving.)
 [2015-10-13 01:07:59] rlux, joining. (#selendroid)
+[2015-10-13 01:10:44] rlux, quitting. (Remote host closed the connection)
+[2015-10-13 01:11:46] rlux, joining. (#selendroid)
