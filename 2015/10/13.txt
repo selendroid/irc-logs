@@ -13,3 +13,5 @@
 [2015-10-13 08:26:01] AutomatedTester, quitting. (Changing host)
 [2015-10-13 08:26:01] AutomatedTester, joining. (#selendroid)
 [2015-10-13 11:36:30] simonstewart, joining. (#selendroid)
+[2015-10-13 14:57:49] simonstewart, quitting. (Ping timeout: 268 seconds)
+[2015-10-13 14:57:57] simonste_, joining. (#selendroid)
