@@ -32,3 +32,5 @@
 [2015-10-13 23:03:57] selendroid-git: [selendroid] lukeis opened pull request #985: wat the wrap. (master...master) http://git.io/vC25s
 [2015-10-13 23:03:57] selendroid-git, leaving. (#selendroid)
 [2015-10-13 23:12:05] raul782, joining. (#selendroid)
+[2015-10-13 23:51:21] smccarthy, quitting. (Remote host closed the connection)
+[2015-10-13 23:51:47] smccarthy, joining. (#selendroid)
