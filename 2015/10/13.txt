@@ -28,3 +28,6 @@
 [2015-10-13 21:33:11] jlipps_, joining. (#selendroid)
 [2015-10-13 21:36:06] jlipps, quitting. (Ping timeout: 260 seconds)
 [2015-10-13 22:38:41] raul782, quitting. (Remote host closed the connection)
+[2015-10-13 23:03:57] selendroid-git, joining. (#selendroid)
+[2015-10-13 23:03:57] selendroid-git: [selendroid] lukeis opened pull request #985: wat the wrap. (master...master) http://git.io/vC25s
+[2015-10-13 23:03:57] selendroid-git, leaving. (#selendroid)
