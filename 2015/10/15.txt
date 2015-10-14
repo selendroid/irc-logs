@@ -1,2 +1,5 @@
 [2015-10-15 00:08:14] jlipps, quitting. (Ping timeout: 252 seconds)
 [2015-10-15 00:08:38] jlipps, joining. (#selendroid)
+[2015-10-15 00:12:58] jlipps_, joining. (#selendroid)
+[2015-10-15 00:13:20] jlipps, quitting. (Read error: Connection reset by peer)
+[2015-10-15 00:13:37] raul782, quitting. (Remote host closed the connection)
