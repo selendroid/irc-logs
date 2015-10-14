@@ -54,3 +54,5 @@
 [2015-10-14 18:39:23] jlipps, joining. (#selendroid)
 [2015-10-14 18:56:22] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-10-14 19:05:28] jlipps, joining. (#selendroid)
+[2015-10-14 19:25:25] raul782_, joining. (#selendroid)
+[2015-10-14 19:27:15] raul782, quitting. (Ping timeout: 255 seconds)
