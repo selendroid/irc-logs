@@ -3,3 +3,5 @@
 [2015-10-15 00:12:58] jlipps_, joining. (#selendroid)
 [2015-10-15 00:13:20] jlipps, quitting. (Read error: Connection reset by peer)
 [2015-10-15 00:13:37] raul782, quitting. (Remote host closed the connection)
+[2015-10-15 00:16:09] jlipps_, quitting. (Read error: Connection reset by peer)
+[2015-10-15 00:16:18] jlipps, joining. (#selendroid)
