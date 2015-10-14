@@ -28,3 +28,4 @@
 [2015-10-14 05:21:34] raul782_, quitting. (Ping timeout: 250 seconds)
 [2015-10-14 05:25:07] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-10-14 05:34:13] raul782, quitting. (Remote host closed the connection)
+[2015-10-14 06:34:48] raul782, joining. (#selendroid)
