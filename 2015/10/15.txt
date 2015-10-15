@@ -54,3 +54,5 @@
 [2015-10-15 13:12:55] selendroid-git, leaving. (#selendroid)
 [2015-10-15 15:08:59] raul782, joining. (#selendroid)
 [2015-10-15 15:13:54] raul782, quitting. (Ping timeout: 255 seconds)
+[2015-10-15 16:37:31] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-10-15 16:39:30] dockerUser, joining. (#selendroid)
