@@ -49,3 +49,6 @@
 [2015-10-15 11:21:52] raul782, quitting. (Ping timeout: 268 seconds)
 [2015-10-15 12:17:47] raul782, joining. (#selendroid)
 [2015-10-15 12:22:18] raul782, quitting. (Ping timeout: 268 seconds)
+[2015-10-15 13:12:55] selendroid-git, joining. (#selendroid)
+[2015-10-15 13:12:55] selendroid-git: [selendroid] asm89 opened pull request #988: Log original exception if shell command fails (master...shell-command-logging) http://git.io/vCPd6
+[2015-10-15 13:12:55] selendroid-git, leaving. (#selendroid)
