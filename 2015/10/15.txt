@@ -87,3 +87,5 @@
 [2015-10-15 17:48:07] asm89: lukeis: ack @ fix + release
 [2015-10-15 17:48:17] asm89: lukeis: yeah. I'd be in favor of buck there, but ... :/
 [2015-10-15 17:49:17] dockerUser, quitting. (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2015-10-15 18:30:44] smccarthy, quitting. (Remote host closed the connection)
+[2015-10-15 18:31:33] smccarth_, joining. (#selendroid)
