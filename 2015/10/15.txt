@@ -64,3 +64,11 @@
 [2015-10-15 17:12:26] raul782, joining. (#selendroid)
 [2015-10-15 17:13:10] dockerUser: only found firefox and chrome nodes there
 [2015-10-15 17:21:18] lukeis, joining. (#selendroid)
+[2015-10-15 17:25:12] selendroid-git, joining. (#selendroid)
+[2015-10-15 17:25:12] selendroid-git: [selendroid] lukeis closed pull request #985: wat the wrap. (master...master) http://git.io/vC25s
+[2015-10-15 17:25:12] selendroid-git, leaving. (#selendroid)
+[2015-10-15 17:28:52] travis-ci, joining. (#selendroid)
+[2015-10-15 17:28:53] travis-ci: selendroid/selendroid#798 (master - 11921d5 : Luke Inman-Semerau): The build was broken.
+[2015-10-15 17:28:53] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/2d6a14d2fe17...11921d5e7014
+[2015-10-15 17:28:53] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/85553537
+[2015-10-15 17:28:53] travis-ci, leaving. (#selendroid)
