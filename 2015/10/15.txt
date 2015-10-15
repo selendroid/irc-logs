@@ -79,3 +79,8 @@
 [2015-10-15 17:36:08] raul782, quitting. (Read error: Connection reset by peer)
 [2015-10-15 17:37:12] lukeis: asm89: i have one more pending "fix" to selendroid… and then we should cut another release :)
 [2015-10-15 17:39:33] lukeis: also… did you notice that it would be in our best interest to move to either gradle or buck… since maven is stuck on an old android lib and no one is deploying new ones to maven central.
+[2015-10-15 17:40:44] travis-ci, joining. (#selendroid)
+[2015-10-15 17:40:45] travis-ci: selendroid/selendroid#799 (master - 160c110 : Luke Inman-Semerau): The build was fixed.
+[2015-10-15 17:40:46] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/11921d5e7014...160c11001bba
+[2015-10-15 17:40:46] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/85555467
+[2015-10-15 17:40:46] travis-ci, leaving. (#selendroid)
