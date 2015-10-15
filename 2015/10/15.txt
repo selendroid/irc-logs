@@ -61,3 +61,5 @@
 [2015-10-15 17:02:56] smccarthy, joining. (#selendroid)
 [2015-10-15 17:03:11] AutomatedTester: dockerUser: did you look at the selenium docker repo?
 [2015-10-15 17:07:01] raul782, quitting. (Read error: Connection reset by peer)
+[2015-10-15 17:12:26] raul782, joining. (#selendroid)
+[2015-10-15 17:13:10] dockerUser: only found firefox and chrome nodes there
