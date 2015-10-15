@@ -90,3 +90,4 @@
 [2015-10-15 18:30:44] smccarthy, quitting. (Remote host closed the connection)
 [2015-10-15 18:31:33] smccarth_, joining. (#selendroid)
 [2015-10-15 18:40:43] jlipps, joining. (#selendroid)
+[2015-10-15 18:59:20] smccarth_, quitting. (Quit: Leaving...)
