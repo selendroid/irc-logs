@@ -12,3 +12,4 @@
 [2015-10-16 02:17:08] asm89, joining. (#selendroid)
 [2015-10-16 02:31:25] AutomatedTester, quitting. (Changing host)
 [2015-10-16 02:31:26] AutomatedTester, joining. (#selendroid)
+[2015-10-16 02:35:39] jlipps_, quitting. (Ping timeout: 250 seconds)
