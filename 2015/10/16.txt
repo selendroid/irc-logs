@@ -39,3 +39,13 @@
 [2015-10-16 22:04:00] jlipps, joining. (#selendroid)
 [2015-10-16 22:08:06] jlipps, quitting. (Ping timeout: 240 seconds)
 [2015-10-16 22:08:42] jlipps, joining. (#selendroid)
+[2015-10-16 23:41:09] selendroid-git, joining. (#selendroid)
+[2015-10-16 23:41:09] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vC7aE
+[2015-10-16 23:41:09] selendroid-git: selendroid/master f6c1a71 Alexander Mols: Log original exception if shell command fails
+[2015-10-16 23:41:09] selendroid-git: selendroid/master 78fd3f9 Luke Inman-Semerau: Merge pull request #988 from asm89/shell-command-logging...
+[2015-10-16 23:41:09] selendroid-git, leaving. (#selendroid)
+[2015-10-16 23:44:07] asm89: lukeis: I can take a stab a buck
+[2015-10-16 23:44:09] asm89: lukeis: maybe.
+[2015-10-16 23:44:26] asm89: not sure if I care enough, but if I understand correctly maven is just completely broken for us now?
+[2015-10-16 23:44:33] lukeis: i though dominik already took a stab
+[2015-10-16 23:44:48] lukeis: maven is just not upgradeable
