@@ -33,3 +33,5 @@
 [2015-10-16 21:04:26] jlipps, quitting. (Ping timeout: 240 seconds)
 [2015-10-16 21:11:59] jlipps_, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-10-16 21:26:47] jlipps, joining. (#selendroid)
+[2015-10-16 21:30:15] jlipps, quitting. (Read error: Connection reset by peer)
+[2015-10-16 21:30:20] jlipps_, joining. (#selendroid)
