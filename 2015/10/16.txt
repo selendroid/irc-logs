@@ -69,3 +69,4 @@
 [2015-10-16 23:49:06] lukeis: and we could deploy artifacts built with buck into maven
 [2015-10-16 23:49:22] asm89: hm ok
 [2015-10-16 23:49:33] lukeis: either one is fine in my mind ;)
+[2015-10-16 23:51:15] asm89: ack
