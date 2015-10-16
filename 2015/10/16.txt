@@ -49,3 +49,23 @@
 [2015-10-16 23:44:26] asm89: not sure if I care enough, but if I understand correctly maven is just completely broken for us now?
 [2015-10-16 23:44:33] lukeis: i though dominik already took a stab
 [2015-10-16 23:44:48] lukeis: maven is just not upgradeable
+[2015-10-16 23:45:02] lukeis: it's stuck on 4.1.1.4
+[2015-10-16 23:45:53] lukeis: there's workarounds… but nothing in maven central, the workarounds disgust me too much to consider it an option :) (and I like maven!)
+[2015-10-16 23:45:59] travis-ci, joining. (#selendroid)
+[2015-10-16 23:46:00] travis-ci: selendroid/selendroid#800 (master - 78fd3f9 : Luke Inman-Semerau): The build passed.
+[2015-10-16 23:46:00] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/160c11001bba...78fd3f9d4bc7
+[2015-10-16 23:46:00] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/85825955
+[2015-10-16 23:46:01] travis-ci, leaving. (#selendroid)
+[2015-10-16 23:46:38] lukeis: asm89: here's dominik's first stab:  https://github.com/dominikdary/selendroid
+[2015-10-16 23:46:58] lukeis: so long ago, i'm not sure it'll be worth looking at :)
+[2015-10-16 23:47:22] asm89: well simon converted selenium to buck i think?
+[2015-10-16 23:47:39] lukeis: no… simon is still in the process of converting selenium to buck ;)
+[2015-10-16 23:48:02] lukeis: it's mostly there, but we still use the old tool for builds / releases
+[2015-10-16 23:48:17] asm89: hm
+[2015-10-16 23:48:23] asm89: okay
+[2015-10-16 23:48:25] asm89: tricky :)
+[2015-10-16 23:48:33] asm89: if we go of maven, where do we put releases?
+[2015-10-16 23:48:48] lukeis: gradle would still allow us to make maven releases
+[2015-10-16 23:49:06] lukeis: and we could deploy artifacts built with buck into maven
+[2015-10-16 23:49:22] asm89: hm ok
+[2015-10-16 23:49:33] lukeis: either one is fine in my mind ;)
