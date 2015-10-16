@@ -10,3 +10,5 @@
 [2015-10-16 02:12:56] jlipps_, joining. (#selendroid)
 [2015-10-16 02:12:56] smccarthy, joining. (#selendroid)
 [2015-10-16 02:17:08] asm89, joining. (#selendroid)
+[2015-10-16 02:31:25] AutomatedTester, quitting. (Changing host)
+[2015-10-16 02:31:26] AutomatedTester, joining. (#selendroid)
