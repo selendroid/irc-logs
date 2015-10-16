@@ -25,3 +25,5 @@
 [2015-10-16 17:42:59] lukeis, joining. (#selendroid)
 [2015-10-16 18:13:37] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-10-16 18:37:08] jlipps, joining. (#selendroid)
+[2015-10-16 19:07:28] lukeis, quitting. (Ping timeout: 244 seconds)
+[2015-10-16 19:07:52] lukeis, joining. (#selendroid)
