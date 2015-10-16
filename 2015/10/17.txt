@@ -1,1 +1,2 @@
 [2015-10-17 00:14:39] raul782, joining. (#selendroid)
+[2015-10-17 00:15:25] asm89: lukeis: btw, no idea where buck would get the android stuff from
