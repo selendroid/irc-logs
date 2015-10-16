@@ -7,3 +7,5 @@
 [2015-10-16 01:54:40] smccarthy, quitting. (*.net *.split)
 [2015-10-16 01:54:46] asm89, quitting. (*.net *.split)
 [2015-10-16 02:00:53] AutomatedTester, joining. (#selendroid)
+[2015-10-16 02:12:56] jlipps_, joining. (#selendroid)
+[2015-10-16 02:12:56] smccarthy, joining. (#selendroid)
