@@ -15,3 +15,5 @@
 [2015-10-17 04:22:13] jlipps, joining. (#selendroid)
 [2015-10-17 04:28:12] jlipps, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-10-17 04:56:07] raul782, joining. (#selendroid)
+[2015-10-17 05:00:14] raul782, quitting. (Ping timeout: 250 seconds)
+[2015-10-17 05:00:15] raul782_, joining. (#selendroid)
