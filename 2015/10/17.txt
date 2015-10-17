@@ -14,3 +14,4 @@
 [2015-10-17 03:57:03] smccarthy, quitting. (Remote host closed the connection)
 [2015-10-17 04:22:13] jlipps, joining. (#selendroid)
 [2015-10-17 04:28:12] jlipps, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-10-17 04:56:07] raul782, joining. (#selendroid)
