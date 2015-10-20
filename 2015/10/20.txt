@@ -1,1 +1,4 @@
 [2015-10-20 00:51:30] lukeis, quitting. (Ping timeout: 240 seconds)
+[2015-10-20 05:52:55] selendroid-git, joining. (#selendroid)
+[2015-10-20 05:52:55] selendroid-git: [selendroid] lukeis opened pull request #991: may need to run on UI thread to get attribute (master...master) http://git.io/vWUJn
+[2015-10-20 05:52:55] selendroid-git, leaving. (#selendroid)
