@@ -27,3 +27,4 @@
 [2015-10-20 18:27:04] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/487914244da9...eb10a68b41aa
 [2015-10-20 18:27:04] travis-ci, leaving. (#selendroid)
 [2015-10-20 21:16:17] ddary, joining. (#selendroid)
+[2015-10-20 21:47:48] ddary, quitting. (Ping timeout: 246 seconds)
