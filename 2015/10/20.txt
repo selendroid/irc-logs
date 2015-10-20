@@ -4,3 +4,4 @@
 [2015-10-20 05:52:55] selendroid-git, leaving. (#selendroid)
 [2015-10-20 07:19:51] smccarthy, quitting. (Remote host closed the connection)
 [2015-10-20 16:25:00] smccarthy, joining. (#selendroid)
+[2015-10-20 17:25:40] lukeis, joining. (#selendroid)
