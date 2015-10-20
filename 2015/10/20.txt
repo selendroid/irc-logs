@@ -5,3 +5,6 @@
 [2015-10-20 07:19:51] smccarthy, quitting. (Remote host closed the connection)
 [2015-10-20 16:25:00] smccarthy, joining. (#selendroid)
 [2015-10-20 17:25:40] lukeis, joining. (#selendroid)
+[2015-10-20 18:09:25] selendroid-git, joining. (#selendroid)
+[2015-10-20 18:09:25] selendroid-git: [selendroid] lukeis closed pull request #991: may need to run on UI thread to get attribute (master...master) http://git.io/vWUJn
+[2015-10-20 18:09:25] selendroid-git, leaving. (#selendroid)
