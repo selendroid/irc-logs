@@ -13,3 +13,6 @@
 [2015-10-20 18:16:37] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/78fd3f9d4bc7...487914244da9
 [2015-10-20 18:16:37] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/86431227
 [2015-10-20 18:16:37] travis-ci, leaving. (#selendroid)
+[2015-10-20 18:21:32] selendroid-git, joining. (#selendroid)
+[2015-10-20 18:21:32] selendroid-git: [selendroid] lukeis closed pull request #963: add more node capability for grid auto-register (master...add-more-auto-register-node-capabilities) http://git.io/v31Ay
+[2015-10-20 18:21:32] selendroid-git, leaving. (#selendroid)
