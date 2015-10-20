@@ -16,3 +16,13 @@
 [2015-10-20 18:21:32] selendroid-git, joining. (#selendroid)
 [2015-10-20 18:21:32] selendroid-git: [selendroid] lukeis closed pull request #963: add more node capability for grid auto-register (master...add-more-auto-register-node-capabilities) http://git.io/v31Ay
 [2015-10-20 18:21:32] selendroid-git, leaving. (#selendroid)
+[2015-10-20 18:25:47] selendroid-git, joining. (#selendroid)
+[2015-10-20 18:25:47] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vWIBc
+[2015-10-20 18:25:47] selendroid-git: selendroid/master 12bdeb3 Akihiro Uchida: kill orphaned processes after test has finished
+[2015-10-20 18:25:47] selendroid-git: selendroid/master d6a87e7 Luke Inman-Semerau: Merge pull request #961 from uchida/kill-orphaned-processes...
+[2015-10-20 18:25:47] selendroid-git, leaving. (#selendroid)
+[2015-10-20 18:27:03] travis-ci, joining. (#selendroid)
+[2015-10-20 18:27:04] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/86433695
+[2015-10-20 18:27:04] travis-ci: selendroid/selendroid#803 (master - eb10a68 : Luke Inman-Semerau): The build passed.
+[2015-10-20 18:27:04] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/487914244da9...eb10a68b41aa
+[2015-10-20 18:27:04] travis-ci, leaving. (#selendroid)
