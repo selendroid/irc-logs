@@ -4,3 +4,9 @@
 [2015-10-21 16:16:48] smccarthy, joining. (#selendroid)
 [2015-10-21 17:39:42] lukeis, joining. (#selendroid)
 [2015-10-21 18:13:20] lukeis: asm89: doing a release now… (I have one minor fix locally, but i'll push that when i push the release tag / version bumps)
+[2015-10-21 18:24:12] selendroid-git, joining. (#selendroid)
+[2015-10-21 18:24:12] selendroid-git: [selendroid] lukeis pushed 5 new commits to master: http://git.io/vWOVP
+[2015-10-21 18:24:12] selendroid-git: selendroid/master 2a665a3 Luke Inman-Semerau: another case of StaleElement message that can appear
+[2015-10-21 18:24:12] selendroid-git: selendroid/master 3f34adf Luke Inman-Semerau: updating changelog, bumping to 0.17.0
+[2015-10-21 18:24:12] selendroid-git: selendroid/master d4f5cf1 Luke Inman-Semerau: updating AndroidManifest.xml's to 0.17.0
+[2015-10-21 18:24:12] selendroid-git, leaving. (#selendroid)
