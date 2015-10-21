@@ -16,3 +16,7 @@
 [2015-10-21 18:28:59] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/86657810
 [2015-10-21 18:28:59] travis-ci, leaving. (#selendroid)
 [2015-10-21 20:57:08] asm89: lukeis: +1
+[2015-10-21 22:49:10] selendroid-git, joining. (#selendroid)
+[2015-10-21 22:49:10] selendroid-git: [selendroid] lukeis force-pushed 0.17.0 from b03f476 to d4f5cf1: http://git.io/vWsmG
+[2015-10-21 22:49:10] selendroid-git, leaving. (#selendroid)
+[2015-10-21 22:49:42] lukeis: accidentally tagged a local commit ;)
