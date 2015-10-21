@@ -10,3 +10,8 @@
 [2015-10-21 18:24:12] selendroid-git: selendroid/master 3f34adf Luke Inman-Semerau: updating changelog, bumping to 0.17.0
 [2015-10-21 18:24:12] selendroid-git: selendroid/master d4f5cf1 Luke Inman-Semerau: updating AndroidManifest.xml's to 0.17.0
 [2015-10-21 18:24:12] selendroid-git, leaving. (#selendroid)
+[2015-10-21 18:28:58] travis-ci, joining. (#selendroid)
+[2015-10-21 18:28:59] travis-ci: selendroid/selendroid#805 (master - 550c82f : Luke Inman-Semerau): The build passed.
+[2015-10-21 18:28:59] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/d6a87e723175...550c82f1a456
+[2015-10-21 18:28:59] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/86657810
+[2015-10-21 18:28:59] travis-ci, leaving. (#selendroid)
