@@ -21,3 +21,6 @@
 [2015-10-21 22:49:10] selendroid-git, leaving. (#selendroid)
 [2015-10-21 22:49:42] lukeis: accidentally tagged a local commit ;)
 [2015-10-21 23:04:34] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-10-21 23:10:59] lukeis, quitting. (Ping timeout: 240 seconds)
+[2015-10-21 23:11:20] simonstewart, joining. (#selendroid)
+[2015-10-21 23:14:51] lukeis, joining. (#selendroid)
