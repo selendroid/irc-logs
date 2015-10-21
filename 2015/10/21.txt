@@ -3,3 +3,4 @@
 [2015-10-21 14:54:42] simonstewart, joining. (#selendroid)
 [2015-10-21 16:16:48] smccarthy, joining. (#selendroid)
 [2015-10-21 17:39:42] lukeis, joining. (#selendroid)
+[2015-10-21 18:13:20] lukeis: asm89: doing a release now… (I have one minor fix locally, but i'll push that when i push the release tag / version bumps)
