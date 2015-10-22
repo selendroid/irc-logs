@@ -5,3 +5,4 @@
 [2015-10-22 05:59:39] selendroid-git: [selendroid] uchida closed pull request #964: modify regular expression to find platform folder for preview version (master...find-platform-folder-for-android-preview-version) http://git.io/v3520
 [2015-10-22 05:59:39] selendroid-git, leaving. (#selendroid)
 [2015-10-22 06:58:54] smccarthy, quitting. (Remote host closed the connection)
+[2015-10-22 17:07:05] smccarthy, joining. (#selendroid)
