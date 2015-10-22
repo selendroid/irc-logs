@@ -1,3 +1,6 @@
 [2015-10-22 00:51:53] lukeis, quitting. (Ping timeout: 250 seconds)
 [2015-10-22 01:01:18] lukeis, joining. (#selendroid)
 [2015-10-22 01:25:13] lukeis, quitting. (Quit: Leaving.)
+[2015-10-22 05:59:39] selendroid-git, joining. (#selendroid)
+[2015-10-22 05:59:39] selendroid-git: [selendroid] uchida closed pull request #964: modify regular expression to find platform folder for preview version (master...find-platform-folder-for-android-preview-version) http://git.io/v3520
+[2015-10-22 05:59:39] selendroid-git, leaving. (#selendroid)
