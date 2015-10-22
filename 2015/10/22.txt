@@ -7,3 +7,10 @@
 [2015-10-22 06:58:54] smccarthy, quitting. (Remote host closed the connection)
 [2015-10-22 17:07:05] smccarthy, joining. (#selendroid)
 [2015-10-22 17:11:24] smccarthy, quitting. (Client Quit)
+[2015-10-22 17:15:01] selendroid-git, joining. (#selendroid)
+[2015-10-22 17:15:01] selendroid-git: [selendroid] lukeis pushed 4 new commits to master: http://git.io/vWcnJ
+[2015-10-22 17:15:01] selendroid-git: selendroid/master 6e9ded9 Akihiro Uchida: add more grid node options for grid auto-register
+[2015-10-22 17:15:01] selendroid-git: selendroid/master ece3365 Akihiro Uchida: correct numbers of maxinstances and maxsession for grid auto-register
+[2015-10-22 17:15:02] selendroid-git: selendroid/master 2cec8bb Akihiro Uchida: add description about `-maxSession` default value
+[2015-10-22 17:15:02] selendroid-git, leaving. (#selendroid)
+[2015-10-22 17:16:49] lukeis, joining. (#selendroid)
