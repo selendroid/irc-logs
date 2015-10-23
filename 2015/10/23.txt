@@ -1,3 +1,4 @@
 [2015-10-23 01:03:30] lukeis, quitting. (Quit: Leaving.)
 [2015-10-23 06:51:47] smccarthy, quitting. (Quit: Leaving...)
 [2015-10-23 12:07:49] asm89, quitting. (*.net *.split)
+[2015-10-23 12:16:29] asm89, joining. (#selendroid)
