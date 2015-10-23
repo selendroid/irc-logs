@@ -9,3 +9,5 @@
 [2015-10-23 17:46:36] lukeis, joining. (#selendroid)
 [2015-10-23 19:14:27] raul782, joining. (#selendroid)
 [2015-10-23 19:15:08] raul782, leaving. (#selendroid)
+[2015-10-23 19:40:09] smccarthy, quitting. (Read error: Connection reset by peer)
+[2015-10-23 19:40:51] smccarthy, joining. (#selendroid)
