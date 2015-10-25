@@ -5,3 +5,4 @@
 [2015-10-25 03:11:29] smccarthy, joining. (#selendroid)
 [2015-10-25 07:25:59] smccarthy, quitting. (Remote host closed the connection)
 [2015-10-25 10:14:55] trtl, joining. (#selendroid)
+[2015-10-25 10:20:01] trtl, quitting. (Quit: Leaving)
