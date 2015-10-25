@@ -20,3 +20,8 @@
 [2015-10-25 22:07:24] selendroid-git: selendroid/master 1a0e0d7 Doug Simmons: Remove invalid file "tux.png"
 [2015-10-25 22:07:24] selendroid-git: selendroid/master ad69661 Luke Inman-Semerau: Merge pull request #995 from mach6/master...
 [2015-10-25 22:07:24] selendroid-git, leaving. (#selendroid)
+[2015-10-25 22:13:53] travis-ci, joining. (#selendroid)
+[2015-10-25 22:13:54] travis-ci: selendroid/selendroid#809 (master - ad69661 : Luke Inman-Semerau): The build passed.
+[2015-10-25 22:13:54] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/0684fa3d7edf...ad69661b7c85
+[2015-10-25 22:13:54] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/87359211
+[2015-10-25 22:13:54] travis-ci, leaving. (#selendroid)
