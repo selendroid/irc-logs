@@ -12,3 +12,6 @@
 [2015-10-25 17:15:33] stelar, quitting. (Ping timeout: 246 seconds)
 [2015-10-25 19:30:14] smccarthy, joining. (#selendroid)
 [2015-10-25 20:29:23] smccarthy, quitting. (Remote host closed the connection)
+[2015-10-25 21:13:09] selendroid-git, joining. (#selendroid)
+[2015-10-25 21:13:09] selendroid-git: [selendroid] mach6 opened pull request #995: Remove invalid file "tux.png" (master...master) http://git.io/vWVEw
+[2015-10-25 21:13:09] selendroid-git, leaving. (#selendroid)
