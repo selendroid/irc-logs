@@ -19,3 +19,7 @@
 [2015-10-26 20:07:15] jlipps, joining. (#selendroid)
 [2015-10-26 20:18:05] jlipps_, joining. (#selendroid)
 [2015-10-26 20:19:07] jlipps, quitting. (Ping timeout: 246 seconds)
+[2015-10-26 20:20:24] selendroid-git, joining. (#selendroid)
+[2015-10-26 20:20:24] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/vW6Nv
+[2015-10-26 20:20:24] selendroid-git: selendroid/master 49dea51 Luke Inman-Semerau: actually uninstall... adb install -r doesn't seem to actually work all the time....
+[2015-10-26 20:20:24] selendroid-git, leaving. (#selendroid)
