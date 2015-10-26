@@ -17,3 +17,5 @@
 [2015-10-26 15:32:23] smccarthy, joining. (#selendroid)
 [2015-10-26 16:15:34] lukeis, joining. (#selendroid)
 [2015-10-26 20:07:15] jlipps, joining. (#selendroid)
+[2015-10-26 20:18:05] jlipps_, joining. (#selendroid)
+[2015-10-26 20:19:07] jlipps, quitting. (Ping timeout: 246 seconds)
