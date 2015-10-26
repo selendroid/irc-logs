@@ -44,3 +44,5 @@
 [2015-10-26 21:37:20] jlipps, joining. (#selendroid)
 [2015-10-26 21:49:14] jlipps, quitting. (Read error: Connection reset by peer)
 [2015-10-26 21:49:48] jlipps, joining. (#selendroid)
+[2015-10-26 21:52:58] jlipps, quitting. (Read error: Connection reset by peer)
+[2015-10-26 21:53:14] jlipps, joining. (#selendroid)
