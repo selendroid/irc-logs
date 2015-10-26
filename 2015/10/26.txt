@@ -8,3 +8,4 @@
 [2015-10-26 01:59:18] simonstewart, joining. (#selendroid)
 [2015-10-26 04:58:28] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2015-10-26 06:01:21] smccarthy, quitting. (Remote host closed the connection)
+[2015-10-26 06:06:50] simonstewart, joining. (#selendroid)
