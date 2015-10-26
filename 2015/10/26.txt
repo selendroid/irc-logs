@@ -5,3 +5,4 @@
 [2015-10-26 01:12:22] simonstewart, quitting. (Read error: Connection reset by peer)
 [2015-10-26 01:13:26] simonstewart, joining. (#selendroid)
 [2015-10-26 01:50:48] simonstewart, quitting. (Ping timeout: 250 seconds)
+[2015-10-26 01:59:18] simonstewart, joining. (#selendroid)
