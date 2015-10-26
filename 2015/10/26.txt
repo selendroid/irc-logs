@@ -40,3 +40,5 @@
 [2015-10-26 21:19:19] jlipps, joining. (#selendroid)
 [2015-10-26 21:32:56] jlipps, quitting. (Ping timeout: 250 seconds)
 [2015-10-26 21:33:16] jlipps, joining. (#selendroid)
+[2015-10-26 21:36:41] jlipps, quitting. (Read error: Connection reset by peer)
+[2015-10-26 21:37:20] jlipps, joining. (#selendroid)
