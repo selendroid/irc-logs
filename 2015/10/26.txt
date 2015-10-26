@@ -27,3 +27,4 @@
 [2015-10-26 20:25:55] travis-ci, quitting. (Client Quit)
 [2015-10-26 20:34:16] jlipps_, quitting. (Read error: Connection reset by peer)
 [2015-10-26 20:38:35] jlipps, joining. (#selendroid)
+[2015-10-26 20:48:10] jlipps, quitting. (Ping timeout: 246 seconds)
