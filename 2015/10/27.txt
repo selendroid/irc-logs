@@ -9,3 +9,4 @@
 [2015-10-27 01:09:10] simonstewart, joining. (#selendroid)
 [2015-10-27 01:11:43] simonstewart, quitting. (Read error: Connection reset by peer)
 [2015-10-27 01:13:00] simonstewart, joining. (#selendroid)
+[2015-10-27 01:24:51] simonstewart, quitting. (Read error: Connection reset by peer)
