@@ -7,3 +7,5 @@
 [2015-10-27 01:00:12] jlipps, joining. (#selendroid)
 [2015-10-27 01:08:23] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-10-27 01:09:10] simonstewart, joining. (#selendroid)
+[2015-10-27 01:11:43] simonstewart, quitting. (Read error: Connection reset by peer)
+[2015-10-27 01:13:00] simonstewart, joining. (#selendroid)
