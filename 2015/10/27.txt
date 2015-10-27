@@ -20,3 +20,4 @@
 [2015-10-27 14:26:42] selendroid-git, joining. (#selendroid)
 [2015-10-27 14:26:42] selendroid-git: [selendroid] vishals79 opened pull request #998: Gradle build system (master...gradle-build-system) http://git.io/vWMYu
 [2015-10-27 14:26:42] selendroid-git, leaving. (#selendroid)
+[2015-10-27 15:48:38] jlipps, joining. (#selendroid)
