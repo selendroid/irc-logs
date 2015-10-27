@@ -22,3 +22,4 @@
 [2015-10-27 14:26:42] selendroid-git, leaving. (#selendroid)
 [2015-10-27 15:48:38] jlipps, joining. (#selendroid)
 [2015-10-27 15:58:48] smccarthy, joining. (#selendroid)
+[2015-10-27 16:12:55] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
