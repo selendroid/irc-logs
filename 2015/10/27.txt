@@ -16,3 +16,4 @@
 [2015-10-27 06:24:46] smccarthy, quitting. (Remote host closed the connection)
 [2015-10-27 09:36:51] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2015-10-27 10:32:11] simonstewart, joining. (#selendroid)
+[2015-10-27 10:47:35] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
