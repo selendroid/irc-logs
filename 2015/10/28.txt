@@ -11,3 +11,4 @@
 [2015-10-28 02:54:15] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-10-28 03:03:10] simonstewart, joining. (#selendroid)
 [2015-10-28 03:07:52] simonste_, joining. (#selendroid)
+[2015-10-28 03:11:50] simonstewart, quitting. (Ping timeout: 260 seconds)
