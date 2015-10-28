@@ -4,3 +4,5 @@
 [2015-10-28 01:46:54] simonstewart, joining. (#selendroid)
 [2015-10-28 01:48:55] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-10-28 01:58:56] jlipps, joining. (#selendroid)
+[2015-10-28 02:15:47] simonstewart, quitting. (Ping timeout: 264 seconds)
+[2015-10-28 02:19:21] simonstewart, joining. (#selendroid)
