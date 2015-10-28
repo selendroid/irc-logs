@@ -16,3 +16,4 @@
 [2015-10-28 04:01:59] simonstewart, quitting. (Read error: Connection reset by peer)
 [2015-10-28 04:03:51] simonstewart, joining. (#selendroid)
 [2015-10-28 04:04:38] simonstewart, quitting. (Client Quit)
+[2015-10-28 05:52:26] smccarthy, quitting. (Remote host closed the connection)
