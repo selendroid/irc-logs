@@ -12,3 +12,4 @@
 [2015-10-28 03:03:10] simonstewart, joining. (#selendroid)
 [2015-10-28 03:07:52] simonste_, joining. (#selendroid)
 [2015-10-28 03:11:50] simonstewart, quitting. (Ping timeout: 260 seconds)
+[2015-10-28 03:15:16] simonste_, changing nick to simonstewart.
