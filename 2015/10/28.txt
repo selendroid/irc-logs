@@ -25,3 +25,4 @@
 [2015-10-28 13:14:39] jlipps, joining. (#selendroid)
 [2015-10-28 13:40:42] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-10-28 15:21:46] smccarthy, joining. (#selendroid)
+[2015-10-28 15:33:51] jlipps, joining. (#selendroid)
