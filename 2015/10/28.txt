@@ -9,3 +9,4 @@
 [2015-10-28 02:43:47] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2015-10-28 02:44:20] simonstewart, joining. (#selendroid)
 [2015-10-28 02:54:15] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-10-28 03:03:10] simonstewart, joining. (#selendroid)
