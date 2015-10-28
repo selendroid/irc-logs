@@ -18,3 +18,4 @@
 [2015-10-28 04:04:38] simonstewart, quitting. (Client Quit)
 [2015-10-28 05:52:26] smccarthy, quitting. (Remote host closed the connection)
 [2015-10-28 06:41:25] simonstewart, joining. (#selendroid)
+[2015-10-28 07:40:50] simonstewart, quitting. (Ping timeout: 272 seconds)
