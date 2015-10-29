@@ -4,3 +4,4 @@
 [2015-10-29 10:16:06] AutomatedTester, quitting. (Ping timeout: 240 seconds)
 [2015-10-29 10:16:36] AutomatedTester, joining. (#selendroid)
 [2015-10-29 15:46:44] lukeis, joining. (#selendroid)
+[2015-10-29 15:54:06] testing-tape, joining. (#selendroid)
