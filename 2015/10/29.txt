@@ -11,3 +11,4 @@
 [2015-10-29 16:34:04] testing-tape, quitting. (Remote host closed the connection)
 [2015-10-29 17:21:08] testing-tape, joining. (#selendroid)
 [2015-10-29 17:54:19] testing-tape, quitting. (Ping timeout: 252 seconds)
+[2015-10-29 19:03:07] testing-tape, joining. (#selendroid)
