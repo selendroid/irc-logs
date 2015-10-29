@@ -5,3 +5,4 @@
 [2015-10-29 10:16:36] AutomatedTester, joining. (#selendroid)
 [2015-10-29 15:46:44] lukeis, joining. (#selendroid)
 [2015-10-29 15:54:06] testing-tape, joining. (#selendroid)
+[2015-10-29 16:20:06] smccarthy, joining. (#selendroid)
