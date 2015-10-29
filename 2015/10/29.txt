@@ -6,3 +6,6 @@
 [2015-10-29 15:46:44] lukeis, joining. (#selendroid)
 [2015-10-29 15:54:06] testing-tape, joining. (#selendroid)
 [2015-10-29 16:20:06] smccarthy, joining. (#selendroid)
+[2015-10-29 16:30:18] testing-tape, quitting. (Remote host closed the connection)
+[2015-10-29 16:31:25] testing-tape, joining. (#selendroid)
+[2015-10-29 16:34:04] testing-tape, quitting. (Remote host closed the connection)
