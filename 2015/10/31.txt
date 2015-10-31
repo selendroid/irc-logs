@@ -8,3 +8,4 @@
 [2015-10-31 19:39:51] smccarthy, quitting. (Remote host closed the connection)
 [2015-10-31 20:02:23] smccarthy, joining. (#selendroid)
 [2015-10-31 20:04:55] smccarthy, quitting. (Remote host closed the connection)
+[2015-10-31 20:54:13] smccarthy, joining. (#selendroid)
