@@ -8,3 +8,4 @@
 [2015-11-02 16:35:20] asm89, quitting. (*.net *.split)
 [2015-11-02 16:43:31] asm89, joining. (#selendroid)
 [2015-11-02 17:08:50] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2015-11-02 17:30:08] lukeis, joining. (#selendroid)
