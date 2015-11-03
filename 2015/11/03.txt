@@ -10,3 +10,5 @@
 [2015-11-03 13:02:48] simonste_, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-11-03 13:32:52] selendroidbot___, joining. (#selendroid)
 [2015-11-03 15:14:36] smccarthy, joining. (#selendroid)
+[2015-11-03 15:51:19] AutomatedTester, quitting. (Ping timeout: 240 seconds)
+[2015-11-03 15:51:42] AutomatedTester, joining. (#selendroid)
