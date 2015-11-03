@@ -22,3 +22,7 @@
 [2015-11-03 17:40:33] lukeis, joining. (#selendroid)
 [2015-11-03 18:00:49] CarlJokl: Hello
 [2015-11-03 18:21:05] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2015-11-03 18:30:58] simonstewart, joining. (#selendroid)
+[2015-11-03 18:31:13] simonstewart: CarlJokl: hello~
+[2015-11-03 18:34:44] lukeis: Hello from the other sides
+[2015-11-03 18:34:58] lukeis: i must have called a thousand times…
