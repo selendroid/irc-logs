@@ -14,3 +14,8 @@
 [2015-11-03 15:51:42] AutomatedTester, joining. (#selendroid)
 [2015-11-03 16:02:07] simonstewart, joining. (#selendroid)
 [2015-11-03 17:05:01] CarlJokl, joining. (#selendroid)
+[2015-11-03 17:05:11] CarlJokl: Hello
+[2015-11-03 17:05:29] CarlJokl: I don't know if anyone is actively listening to the chat on here
+[2015-11-03 17:05:47] CarlJokl: I note the presence of Simon Stewart
+[2015-11-03 17:06:20] CarlJokl: I am not sure about Dominik Dary
+[2015-11-03 17:06:36] CarlJokl: *Waves*
