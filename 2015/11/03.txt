@@ -4,3 +4,4 @@
 [2015-11-03 08:59:47] [b__b], joining. (#selendroid)
 [2015-11-03 10:35:18] [b__b], quitting. (Ping timeout: 250 seconds)
 [2015-11-03 11:45:13] simonstewart, joining. (#selendroid)
+[2015-11-03 12:05:29] [b__b], joining. (#selendroid)
