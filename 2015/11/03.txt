@@ -2,3 +2,4 @@
 [2015-11-03 00:58:58] lukeis, quitting. (Quit: Leaving.)
 [2015-11-03 06:30:44] smccarthy, quitting. (Remote host closed the connection)
 [2015-11-03 08:59:47] [b__b], joining. (#selendroid)
+[2015-11-03 10:35:18] [b__b], quitting. (Ping timeout: 250 seconds)
