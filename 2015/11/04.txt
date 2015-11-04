@@ -18,3 +18,6 @@
 [2015-11-04 17:25:17] CarlJokl, joining. (#selendroid)
 [2015-11-04 17:34:07] CarlJokl: *does a dance*
 [2015-11-04 19:01:34] simonste_, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2015-11-04 19:21:43] CarlJokl: Perhaps safe to say I don't know if this channel is very active
+[2015-11-04 19:22:26] CarlJokl: I will hopefully find an effective way of reaching out to the Selendroid / Selenium comitters
+[2015-11-04 19:24:35] lukeis: i'm here…. but #selenium is much more active
