@@ -37,3 +37,5 @@
 [2015-11-05 19:22:29] simonstewart, joining. (#selendroid)
 [2015-11-05 19:51:42] madbytes, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-11-05 20:11:11] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-11-05 23:30:08] [b__b], quitting. (Remote host closed the connection)
+[2015-11-05 23:31:24] [b__b], joining. (#selendroid)
