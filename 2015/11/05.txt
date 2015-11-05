@@ -1,1 +1,2 @@
 [2015-11-05 01:04:10] lukeis, quitting. (Ping timeout: 240 seconds)
+[2015-11-05 10:17:55] madbytes, joining. (#selendroid)
