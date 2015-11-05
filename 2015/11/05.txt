@@ -34,3 +34,4 @@
 [2015-11-05 18:31:29] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2015-11-05 19:11:24] Guest45, joining. (#selendroid)
 [2015-11-05 19:13:26] Guest45, changing nick to madbytes.
+[2015-11-05 19:22:29] simonstewart, joining. (#selendroid)
