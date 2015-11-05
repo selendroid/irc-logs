@@ -15,3 +15,4 @@
 [2015-11-05 14:18:15] selendroid-git: [selendroid] leonsabr opened pull request #1001: Hide android text select handle (master...hide-text-select-handle) http://git.io/v8fPy
 [2015-11-05 14:18:15] selendroid-git, leaving. (#selendroid)
 [2015-11-05 14:30:41] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2015-11-05 15:12:23] simonstewart, joining. (#selendroid)
