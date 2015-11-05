@@ -1,3 +1,8 @@
 [2015-11-05 01:04:10] lukeis, quitting. (Ping timeout: 240 seconds)
 [2015-11-05 10:17:55] madbytes, joining. (#selendroid)
 [2015-11-05 11:48:19] madbytes, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
+[2015-11-05 11:55:05] simonstewart, joining. (#selendroid)
+[2015-11-05 11:55:53] Guest45, joining. (#selendroid)
+[2015-11-05 11:58:46] Guest45, quitting. (Client Quit)
+[2015-11-05 11:59:07] madbytes, joining. (#selendroid)
+[2015-11-05 11:59:43] madbytes, quitting. (Max SendQ exceeded)
