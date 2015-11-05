@@ -22,3 +22,5 @@
 [2015-11-05 16:35:54] Guest45, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-11-05 17:36:53] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2015-11-05 17:40:11] lukeis, joining. (#selendroid)
+[2015-11-05 17:51:37] Guest45, joining. (#selendroid)
+[2015-11-05 17:52:12] Guest45, quitting. (Max SendQ exceeded)
