@@ -8,3 +8,4 @@
 [2015-11-05 11:59:43] madbytes, quitting. (Max SendQ exceeded)
 [2015-11-05 12:04:24] Guest45, joining. (#selendroid)
 [2015-11-05 12:05:14] Guest45, changing nick to madbytes.
+[2015-11-05 12:37:45] madbytes, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
