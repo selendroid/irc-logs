@@ -2,3 +2,4 @@
 [2015-11-06 06:32:02] smccarthy, quitting. (Remote host closed the connection)
 [2015-11-06 10:44:26] Guest45, joining. (#selendroid)
 [2015-11-06 10:47:14] Guest45, changing nick to madbytes.
+[2015-11-06 11:15:08] madbytes, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
