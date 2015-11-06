@@ -5,3 +5,5 @@
 [2015-11-06 11:15:08] madbytes, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-11-06 16:00:50] smccarthy, joining. (#selendroid)
 [2015-11-06 16:29:16] Guest45, joining. (#selendroid)
+[2015-11-06 16:42:50] Guest45, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
+[2015-11-06 16:44:45] smccarthy, quitting. (Quit: Leaving...)
