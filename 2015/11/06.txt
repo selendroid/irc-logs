@@ -11,3 +11,4 @@
 [2015-11-06 16:59:09] smccarthy, joining. (#selendroid)
 [2015-11-06 18:14:48] Guest45, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-11-06 18:23:52] lukeis, joining. (#selendroid)
+[2015-11-06 18:47:47] Guest45, joining. (#selendroid)
