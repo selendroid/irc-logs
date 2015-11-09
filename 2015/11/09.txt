@@ -1,1 +1,2 @@
 [2015-11-09 06:18:54] smccarthy, quitting. (Remote host closed the connection)
+[2015-11-09 11:11:57] Guest45, joining. (#selendroid)
