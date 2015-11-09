@@ -7,3 +7,4 @@
 [2015-11-09 16:41:47] Guest45, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-11-09 16:47:11] Guest45, joining. (#selendroid)
 [2015-11-09 17:34:56] lukeis, joining. (#selendroid)
+[2015-11-09 17:57:49] Guest45, quitting. (Remote host closed the connection)
