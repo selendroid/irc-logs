@@ -4,3 +4,5 @@
 [2015-11-10 11:32:39] simonstewart, joining. (#selendroid)
 [2015-11-10 15:38:06] smccarthy, joining. (#selendroid)
 [2015-11-10 17:41:14] lukeis, joining. (#selendroid)
+[2015-11-10 17:52:26] lukeis, quitting. (Ping timeout: 240 seconds)
+[2015-11-10 17:53:23] lukeis, joining. (#selendroid)
