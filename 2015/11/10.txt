@@ -13,3 +13,4 @@
 [2015-11-10 22:44:14] jlipps, joining. (#selendroid)
 [2015-11-10 23:06:59] jlipps, quitting. (Ping timeout: 252 seconds)
 [2015-11-10 23:09:41] jlipps, joining. (#selendroid)
+[2015-11-10 23:30:10] lukeis, quitting. (Ping timeout: 240 seconds)
