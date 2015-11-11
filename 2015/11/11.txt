@@ -3,3 +3,4 @@
 [2015-11-11 06:36:43] smccarthy, quitting. (Remote host closed the connection)
 [2015-11-11 08:18:54] orangesunshine, joining. (#selendroid)
 [2015-11-11 08:18:57] orangesunshine, changing nick to madbytes.
+[2015-11-11 08:51:20] madbytes, quitting. (Read error: Connection reset by peer)
