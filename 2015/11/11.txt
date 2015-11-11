@@ -13,3 +13,6 @@
 [2015-11-11 15:13:57] smccarthy, joining. (#selendroid)
 [2015-11-11 15:15:03] simonstewart, joining. (#selendroid)
 [2015-11-11 15:39:23] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2015-11-11 15:50:56] simonstewart, joining. (#selendroid)
+[2015-11-11 15:53:23] simonstewart, quitting. (Read error: Connection reset by peer)
+[2015-11-11 15:53:59] simonstewart, joining. (#selendroid)
