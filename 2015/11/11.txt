@@ -32,3 +32,4 @@
 [2015-11-11 18:26:33] lukeis: i think we should merge it as a start, it doesn't get rid of the maven stuff, but it's a good point to start with
 [2015-11-11 18:27:07] ddary: ok
 [2015-11-11 18:27:10] ddary: makes sense
+[2015-11-11 18:38:00] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
