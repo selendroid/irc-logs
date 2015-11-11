@@ -5,3 +5,4 @@
 [2015-11-11 08:18:57] orangesunshine, changing nick to madbytes.
 [2015-11-11 08:51:20] madbytes, quitting. (Read error: Connection reset by peer)
 [2015-11-11 13:15:51] simonstewart, joining. (#selendroid)
+[2015-11-11 13:20:59] simonstewart, quitting. (Ping timeout: 276 seconds)
