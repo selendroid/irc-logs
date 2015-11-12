@@ -14,3 +14,4 @@
 [2015-11-12 15:26:23] simonstewart, joining. (#selendroid)
 [2015-11-12 15:27:09] smccarthy, joining. (#selendroid)
 [2015-11-12 15:37:47] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-11-12 15:40:49] simonstewart, joining. (#selendroid)
