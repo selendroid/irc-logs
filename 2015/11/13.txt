@@ -14,3 +14,5 @@
 [2015-11-13 19:00:10] simonstewart, quitting. (Client Quit)
 [2015-11-13 19:31:35] jlipps_, joining. (#selendroid)
 [2015-11-13 19:34:02] jlipps, quitting. (Ping timeout: 250 seconds)
+[2015-11-13 19:41:47] jlipps_, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
+[2015-11-13 19:44:18] jlipps, joining. (#selendroid)
