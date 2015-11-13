@@ -11,3 +11,4 @@
 [2015-11-13 18:24:55] lukeis, quitting. (Quit: Leaving.)
 [2015-11-13 18:38:26] lukeis, joining. (#selendroid)
 [2015-11-13 18:56:45] simonstewart, joining. (#selendroid)
+[2015-11-13 19:00:10] simonstewart, quitting. (Client Quit)
