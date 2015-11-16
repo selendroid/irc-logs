@@ -38,3 +38,8 @@
 [2015-11-16 21:02:32] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/91453039
 [2015-11-16 21:02:32] travis-ci, leaving. (#selendroid)
 [2015-11-16 21:14:50] ddary, joining. (#selendroid)
+[2015-11-16 21:25:52] selendroid-git, joining. (#selendroid)
+[2015-11-16 21:25:52] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: http://git.io/v44GK
+[2015-11-16 21:25:52] selendroid-git: selendroid/master eb051a0 Dominik Dary: Update changelog.md
+[2015-11-16 21:25:52] selendroid-git, leaving. (#selendroid)
+[2015-11-16 21:29:45] ddary, quitting. (Quit: ddary)
