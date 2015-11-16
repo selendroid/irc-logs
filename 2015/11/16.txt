@@ -28,3 +28,7 @@
 [2015-11-16 20:20:44] ddary, quitting. (Quit: ddary)
 [2015-11-16 20:27:35] ddary, joining. (#selendroid)
 [2015-11-16 20:43:25] ddary, quitting. (Quit: ddary)
+[2015-11-16 20:53:54] selendroid-git, joining. (#selendroid)
+[2015-11-16 20:53:54] selendroid-git: [selendroid] lukeis pushed 1 new commit to master: http://git.io/v44U0
+[2015-11-16 20:53:54] selendroid-git: selendroid/master e31b911 Luke Inman-Semerau: using 1.5.0 android build tools
+[2015-11-16 20:53:54] selendroid-git, leaving. (#selendroid)
