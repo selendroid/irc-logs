@@ -1,1 +1,6 @@
 [2015-11-16 06:14:35] smccarthy, quitting. (Remote host closed the connection)
+[2015-11-16 13:29:54] selendroid-git, joining. (#selendroid)
+[2015-11-16 13:29:54] selendroid-git: [selendroid] DominikDary pushed 2 new commits to master: http://git.io/v4CQT
+[2015-11-16 13:29:54] selendroid-git: selendroid/master 2dd2134 Vishal Singh:  Added gradle build system...
+[2015-11-16 13:29:55] selendroid-git: selendroid/master f8d8b01 Dominik Dary: Merge pull request #998 from appium/gradle-build-system...
+[2015-11-16 13:29:55] selendroid-git, leaving. (#selendroid)
