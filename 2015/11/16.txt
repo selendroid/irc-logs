@@ -53,3 +53,4 @@
 [2015-11-16 23:52:25] lukeis1, joining. (#selendroid)
 [2015-11-16 23:53:16] lukeis, quitting. (Ping timeout: 265 seconds)
 [2015-11-16 23:54:17] asm89, quitting. (Ping timeout: 265 seconds)
+[2015-11-16 23:59:11] AutomatedTester_, joining. (#selendroid)
