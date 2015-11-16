@@ -7,3 +7,4 @@
 [2015-11-16 15:44:58] simonstewart, joining. (#selendroid)
 [2015-11-16 15:50:42] smccarthy, joining. (#selendroid)
 [2015-11-16 17:31:51] lukeis, joining. (#selendroid)
+[2015-11-16 18:39:41] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
