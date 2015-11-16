@@ -9,3 +9,9 @@
 [2015-11-16 17:31:51] lukeis, joining. (#selendroid)
 [2015-11-16 18:39:41] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2015-11-16 19:44:19] ddary, joining. (#selendroid)
+[2015-11-16 19:46:52] travis-ci, joining. (#selendroid)
+[2015-11-16 19:46:53] travis-ci: selendroid/selendroid#868 (master - f8d8b01 : Dominik Dary): The build was broken.
+[2015-11-16 19:46:53] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/49dea5177795...f8d8b015c8af
+[2015-11-16 19:46:53] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/91368957
+[2015-11-16 19:46:53] travis-ci, leaving. (#selendroid)
+[2015-11-16 19:49:55] ddary: hi lukeis
