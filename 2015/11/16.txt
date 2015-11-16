@@ -43,3 +43,9 @@
 [2015-11-16 21:25:52] selendroid-git: selendroid/master eb051a0 Dominik Dary: Update changelog.md
 [2015-11-16 21:25:52] selendroid-git, leaving. (#selendroid)
 [2015-11-16 21:29:45] ddary, quitting. (Quit: ddary)
+[2015-11-16 21:31:44] simonstewart, joining. (#selendroid)
+[2015-11-16 21:31:58] travis-ci, joining. (#selendroid)
+[2015-11-16 21:31:59] travis-ci: selendroid/selendroid#870 (master - eb051a0 : Dominik Dary): The build passed.
+[2015-11-16 21:31:59] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/e31b9114c8d3...eb051a03f826
+[2015-11-16 21:32:00] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/91459996
+[2015-11-16 21:32:00] travis-ci, leaving. (#selendroid)
