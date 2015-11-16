@@ -49,3 +49,4 @@
 [2015-11-16 21:31:59] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/e31b9114c8d3...eb051a03f826
 [2015-11-16 21:32:00] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/91459996
 [2015-11-16 21:32:00] travis-ci, leaving. (#selendroid)
+[2015-11-16 21:57:07] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
