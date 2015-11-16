@@ -15,3 +15,11 @@
 [2015-11-16 19:46:53] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/91368957
 [2015-11-16 19:46:53] travis-ci, leaving. (#selendroid)
 [2015-11-16 19:49:55] ddary: hi lukeis
+[2015-11-16 19:50:05] lukeis: hi
+[2015-11-16 19:50:13] ddary: do you have an idea why the build ^^ is failing?
+[2015-11-16 19:50:32] lukeis: pinging the guys who made the PR on slack about it...
+[2015-11-16 19:50:51] lukeis: definitely a gradle issue ;)
+[2015-11-16 19:50:55] ddary: when i executed the build some days back on my work machine, everything was good
+[2015-11-16 19:51:02] ddary: :-)
+[2015-11-16 19:51:06] lukeis: yep, not sure what's up here...
+[2015-11-16 19:53:35] ddary: will be back soon, baby is crying
