@@ -13,3 +13,4 @@
 [2015-11-17 04:03:20] mkeer, quitting. (Quit: Page closed)
 [2015-11-17 06:48:42] smccarthy, quitting. (Remote host closed the connection)
 [2015-11-17 16:15:05] smccarthy, joining. (#selendroid)
+[2015-11-17 18:08:40] lukeis, joining. (#selendroid)
