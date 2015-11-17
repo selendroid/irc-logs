@@ -10,3 +10,4 @@
 [2015-11-17 02:58:45] mkeer: Not for testing purposes, so accuracy is not critical.
 [2015-11-17 02:59:17] mkeer: Could I use just chrome on my pc and have it load the mobile site?
 [2015-11-17 02:59:45] mkeer: (So as to avoid having to use an emulator / device)
+[2015-11-17 04:03:20] mkeer, quitting. (Quit: Page closed)
