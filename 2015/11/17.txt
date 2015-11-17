@@ -3,3 +3,4 @@
 [2015-11-17 00:06:55] AutomatedTester, quitting. (Changing host)
 [2015-11-17 00:06:55] AutomatedTester, joining. (#selendroid)
 [2015-11-17 00:09:29] asm89, joining. (#selendroid)
+[2015-11-17 00:58:51] lukeis1, quitting. (Quit: Leaving.)
