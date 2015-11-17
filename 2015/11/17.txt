@@ -4,3 +4,9 @@
 [2015-11-17 00:06:55] AutomatedTester, joining. (#selendroid)
 [2015-11-17 00:09:29] asm89, joining. (#selendroid)
 [2015-11-17 00:58:51] lukeis1, quitting. (Quit: Leaving.)
+[2015-11-17 02:56:49] mkeer, joining. (#selendroid)
+[2015-11-17 02:57:29] mkeer: Hello
+[2015-11-17 02:58:03] mkeer: I need to automate some actions on a mobile site (clicking on links, filling forms, etc.)
+[2015-11-17 02:58:45] mkeer: Not for testing purposes, so accuracy is not critical.
+[2015-11-17 02:59:17] mkeer: Could I use just chrome on my pc and have it load the mobile site?
+[2015-11-17 02:59:45] mkeer: (So as to avoid having to use an emulator / device)
