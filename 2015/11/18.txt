@@ -1,2 +1,5 @@
 [2015-11-18 01:03:09] lukeis, quitting. (Quit: Leaving.)
 [2015-11-18 06:32:07] smccarthy, quitting. (Remote host closed the connection)
+[2015-11-18 14:03:58] selendroid-git, joining. (#selendroid)
+[2015-11-18 14:03:58] selendroid-git: [selendroid] PrakashGoulla opened pull request #1004: Publish selendroid release artifacts to jcenter (master...jcenter-publish-artifacts) http://git.io/v4oly
+[2015-11-18 14:03:58] selendroid-git, leaving. (#selendroid)
