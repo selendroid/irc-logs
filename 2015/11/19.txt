@@ -2,3 +2,4 @@
 [2015-11-19 01:58:29] mach6, joining. (#selendroid)
 [2015-11-19 02:26:30] mach6, quitting. (Ping timeout: 246 seconds)
 [2015-11-19 06:24:53] smccarthy, quitting. (Quit: Leaving...)
+[2015-11-19 12:01:45] selendroidbot___, joining. (#selendroid)
