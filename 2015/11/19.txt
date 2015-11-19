@@ -12,3 +12,4 @@
 [2015-11-19 17:27:13] asm89: ddary: hi!
 [2015-11-19 17:56:15] lukeis, joining. (#selendroid)
 [2015-11-19 18:36:42] ddary, quitting. (Ping timeout: 246 seconds)
+[2015-11-19 23:05:07] jlipps, joining. (#selendroid)
