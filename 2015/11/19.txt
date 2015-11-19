@@ -9,3 +9,4 @@
 [2015-11-19 13:44:05] ddary, quitting. (Quit: Page closed)
 [2015-11-19 15:24:48] smccarthy, joining. (#selendroid)
 [2015-11-19 16:26:31] ddary, joining. (#selendroid)
+[2015-11-19 17:27:13] asm89: ddary: hi!
