@@ -4,3 +4,5 @@
 [2015-11-19 06:24:53] smccarthy, quitting. (Quit: Leaving...)
 [2015-11-19 12:01:45] selendroidbot___, joining. (#selendroid)
 [2015-11-19 13:00:00] selendroidbot___, joining. (#selendroid)
+[2015-11-19 13:16:31] ddary, joining. (#selendroid)
+[2015-11-19 13:18:21] ddary: hi @asm89
