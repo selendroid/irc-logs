@@ -1,1 +1,2 @@
 [2015-11-20 01:00:00] lukeis, quitting. (Quit: Leaving.)
+[2015-11-20 02:25:29] jlipps, quitting. (Ping timeout: 276 seconds)
