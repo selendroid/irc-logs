@@ -3,3 +3,4 @@
 [2015-11-21 03:42:57] jlipps, joining. (#selendroid)
 [2015-11-21 04:11:35] lukeis, quitting. (Ping timeout: 264 seconds)
 [2015-11-21 04:30:54] jlipps, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-11-21 19:02:28] smccarthy, quitting. (Remote host closed the connection)
