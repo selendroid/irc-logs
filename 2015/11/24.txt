@@ -1,0 +1,1 @@
+[2015-11-24 00:08:30] lukeis: yeah, best i can see is `gradle properties`  but no way to filter it
