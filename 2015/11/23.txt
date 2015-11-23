@@ -12,3 +12,4 @@
 [2015-11-23 18:03:31] asm89: lukeis: cc @ -^ :)
 [2015-11-23 18:04:51] lukeis: +1
 [2015-11-23 19:31:50] simonstewart, quitting. (Ping timeout: 240 seconds)
+[2015-11-23 19:41:18] jlipps, joining. (#selendroid)
