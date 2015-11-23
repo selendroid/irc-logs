@@ -52,3 +52,8 @@
 [2015-11-23 23:17:58] asm89: my PR is green :/
 [2015-11-23 23:18:08] asm89: maybe I should've committed my local.properties
 [2015-11-23 23:18:10] asm89: :P
+[2015-11-23 23:26:16] travis-ci, joining. (#selendroid)
+[2015-11-23 23:26:17] travis-ci: selendroid/selendroid#877 (master - f94ca32 : Alexander): The build passed.
+[2015-11-23 23:26:17] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/7de96abff488...f94ca32dcade
+[2015-11-23 23:26:18] travis-ci, leaving. (#selendroid)
+[2015-11-23 23:26:18] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/92815732
