@@ -13,3 +13,6 @@
 [2015-11-23 18:04:51] lukeis: +1
 [2015-11-23 19:31:50] simonstewart, quitting. (Ping timeout: 240 seconds)
 [2015-11-23 19:41:18] jlipps, joining. (#selendroid)
+[2015-11-23 21:00:30] asm89: of course my tests fail :')
+[2015-11-23 21:01:10] asm89: oh the build even
+[2015-11-23 21:01:14] asm89: I screwed up during cleaning it up :(
