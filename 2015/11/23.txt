@@ -62,3 +62,14 @@
 [2015-11-23 23:31:04] lukeis: success!
 [2015-11-23 23:54:58] asm89: lukeis: you're a gradle expert right?
 [2015-11-23 23:55:00] asm89: right?
+[2015-11-23 23:55:02] asm89: :P
+[2015-11-23 23:55:10] lukeis: ha
+[2015-11-23 23:55:15] asm89: is there a way to query the project version? I need it in a script.
+[2015-11-23 23:55:21] lukeis:  ¯\_(ツ)_/¯
+[2015-11-23 23:55:21] asm89: before we would just parse the pom.xml..
+[2015-11-23 23:55:41] asm89: exactly what I was hoping for lukeis :P
+[2015-11-23 23:55:50] lukeis: it's just in the build.gradle
+[2015-11-23 23:56:10] lukeis: i think… not actually looking at the project right now ;)
+[2015-11-23 23:57:29] asm89: yes it is
+[2015-11-23 23:57:39] asm89: but that's gradles DSL
+[2015-11-23 23:57:48] asm89: I'd rather not grep/awk/whatever it out
