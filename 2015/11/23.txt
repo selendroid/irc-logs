@@ -39,3 +39,8 @@
 [2015-11-23 23:06:46] travis-ci: selendroid/selendroid#876 (master - 7de96ab : Luke Inman-Semerau): The build passed.
 [2015-11-23 23:06:46] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/92814971
 [2015-11-23 23:06:46] travis-ci, leaving. (#selendroid)
+[2015-11-23 23:11:20] travis-ci, joining. (#selendroid)
+[2015-11-23 23:11:21] travis-ci: selendroid/selendroid#877 (master - f94ca32 : Alexander): The build was broken.
+[2015-11-23 23:11:21] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/7de96abff488...f94ca32dcade
+[2015-11-23 23:11:21] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/92815732
+[2015-11-23 23:11:22] travis-ci, leaving. (#selendroid)
