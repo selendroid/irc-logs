@@ -34,3 +34,8 @@
 [2015-11-23 23:04:00] selendroid-git: selendroid/master ce5da5a Alexander Mols: [standalone] Create proper tmp files / dirs...
 [2015-11-23 23:04:00] selendroid-git: selendroid/master f94ca32 Alexander: Merge pull request #1005 from asm89/tempfiles...
 [2015-11-23 23:04:00] selendroid-git, leaving. (#selendroid)
+[2015-11-23 23:06:45] travis-ci, joining. (#selendroid)
+[2015-11-23 23:06:46] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/eb051a03f826...7de96abff488
+[2015-11-23 23:06:46] travis-ci: selendroid/selendroid#876 (master - 7de96ab : Luke Inman-Semerau): The build passed.
+[2015-11-23 23:06:46] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/92814971
+[2015-11-23 23:06:46] travis-ci, leaving. (#selendroid)
