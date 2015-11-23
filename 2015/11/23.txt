@@ -44,3 +44,11 @@
 [2015-11-23 23:11:21] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/7de96abff488...f94ca32dcade
 [2015-11-23 23:11:21] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/92815732
 [2015-11-23 23:11:22] travis-ci, leaving. (#selendroid)
+[2015-11-23 23:17:05] asm89: wat
+[2015-11-23 23:17:14] lukeis: ha
+[2015-11-23 23:17:19] lukeis: why'd you break it?!
+[2015-11-23 23:17:45] asm89: :P
+[2015-11-23 23:17:49] asm89: flaky tests I tell ya
+[2015-11-23 23:17:58] asm89: my PR is green :/
+[2015-11-23 23:18:08] asm89: maybe I should've committed my local.properties
+[2015-11-23 23:18:10] asm89: :P
