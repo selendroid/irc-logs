@@ -24,3 +24,13 @@
 [2015-11-23 21:35:24] selendroid-git, joining. (#selendroid)
 [2015-11-23 21:35:24] selendroid-git: [selendroid] asm89 opened pull request #1006: Add local.properties to .gitignore (master...ignore-properties) http://git.io/vBtNQ
 [2015-11-23 21:35:24] selendroid-git, leaving. (#selendroid)
+[2015-11-23 23:00:31] selendroid-git, joining. (#selendroid)
+[2015-11-23 23:00:31] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vBqBj
+[2015-11-23 23:00:31] selendroid-git: selendroid/master 75f35e5 Alexander Mols: Add local.properties to .gitignore...
+[2015-11-23 23:00:31] selendroid-git: selendroid/master 7de96ab Luke Inman-Semerau: Merge pull request #1006 from asm89/ignore-properties...
+[2015-11-23 23:00:31] selendroid-git, leaving. (#selendroid)
+[2015-11-23 23:04:00] selendroid-git, joining. (#selendroid)
+[2015-11-23 23:04:00] selendroid-git: [selendroid] asm89 pushed 2 new commits to master: http://git.io/vBq0k
+[2015-11-23 23:04:00] selendroid-git: selendroid/master ce5da5a Alexander Mols: [standalone] Create proper tmp files / dirs...
+[2015-11-23 23:04:00] selendroid-git: selendroid/master f94ca32 Alexander: Merge pull request #1005 from asm89/tempfiles...
+[2015-11-23 23:04:00] selendroid-git, leaving. (#selendroid)
