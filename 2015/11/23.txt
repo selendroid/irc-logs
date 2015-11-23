@@ -60,3 +60,5 @@
 [2015-11-23 23:30:56] asm89: lukeis: I restarted the build. No worries. All green now! :D
 [2015-11-23 23:30:57] asm89: lol..
 [2015-11-23 23:31:04] lukeis: success!
+[2015-11-23 23:54:58] asm89: lukeis: you're a gradle expert right?
+[2015-11-23 23:55:00] asm89: right?
