@@ -57,3 +57,6 @@
 [2015-11-23 23:26:17] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/7de96abff488...f94ca32dcade
 [2015-11-23 23:26:18] travis-ci, leaving. (#selendroid)
 [2015-11-23 23:26:18] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/92815732
+[2015-11-23 23:30:56] asm89: lukeis: I restarted the build. No worries. All green now! :D
+[2015-11-23 23:30:57] asm89: lol..
+[2015-11-23 23:31:04] lukeis: success!
