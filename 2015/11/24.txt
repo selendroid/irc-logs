@@ -1,3 +1,4 @@
 [2015-11-24 00:08:30] lukeis: yeah, best i can see is `gradle properties`  but no way to filter it
 [2015-11-24 00:26:07] asm89: lukeis: that's already better than parsing the gradle file myself, thanks
 [2015-11-24 00:26:13] asm89: I didn't notice that option
+[2015-11-24 00:45:28] lukeis, quitting. (Quit: Leaving.)
