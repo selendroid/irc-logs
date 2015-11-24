@@ -13,3 +13,5 @@
 [2015-11-24 03:50:06] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-11-24 03:51:58] niuniudd, leaving. (#selendroid)
 [2015-11-24 03:52:21] niuniudd, joining. (#selendroid)
+[2015-11-24 04:10:36] jlipps, joining. (#selendroid)
+[2015-11-24 04:13:25] jlipps, quitting. (Client Quit)
