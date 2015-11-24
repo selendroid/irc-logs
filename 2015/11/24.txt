@@ -10,3 +10,6 @@
 [2015-11-24 03:41:04] niuniudd: I connect 2 phones in a computer
 [2015-11-24 03:41:30] niuniudd: How can I control these phones?
 [2015-11-24 03:41:56] niuniudd: who can help me?
+[2015-11-24 03:50:06] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
+[2015-11-24 03:51:58] niuniudd, leaving. (#selendroid)
+[2015-11-24 03:52:21] niuniudd, joining. (#selendroid)
