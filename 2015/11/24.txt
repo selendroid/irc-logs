@@ -3,3 +3,5 @@
 [2015-11-24 00:26:13] asm89: I didn't notice that option
 [2015-11-24 00:45:28] lukeis, quitting. (Quit: Leaving.)
 [2015-11-24 02:26:47] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
+[2015-11-24 03:33:45] niuniudd, joining. (#selendroid)
+[2015-11-24 03:34:25] niuniudd: hi?
