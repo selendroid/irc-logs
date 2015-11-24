@@ -34,3 +34,6 @@
 [2015-11-24 20:19:26] lukeis, quitting. (Ping timeout: 260 seconds)
 [2015-11-24 20:25:26] lukeis, joining. (#selendroid)
 [2015-11-24 22:55:15] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
+[2015-11-24 23:00:12] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-11-24 23:01:43] jlipps, joining. (#selendroid)
+[2015-11-24 23:04:39] jlipps, quitting. (Read error: Connection reset by peer)
