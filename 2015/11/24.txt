@@ -2,3 +2,4 @@
 [2015-11-24 00:26:07] asm89: lukeis: that's already better than parsing the gradle file myself, thanks
 [2015-11-24 00:26:13] asm89: I didn't notice that option
 [2015-11-24 00:45:28] lukeis, quitting. (Quit: Leaving.)
+[2015-11-24 02:26:47] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
