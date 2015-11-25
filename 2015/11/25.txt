@@ -5,3 +5,4 @@
 [2015-11-25 06:35:57] jlipps, quitting. (Client Quit)
 [2015-11-25 06:48:02] smccarthy, quitting. (Remote host closed the connection)
 [2015-11-25 16:09:13] smccarthy, joining. (#selendroid)
+[2015-11-25 18:08:05] lukeis, joining. (#selendroid)
