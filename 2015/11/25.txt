@@ -7,3 +7,4 @@
 [2015-11-25 16:09:13] smccarthy, joining. (#selendroid)
 [2015-11-25 18:08:05] lukeis, joining. (#selendroid)
 [2015-11-25 19:47:42] jlipps, joining. (#selendroid)
+[2015-11-25 20:56:45] lukeis, quitting. (Quit: Leaving.)
