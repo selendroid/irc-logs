@@ -23,3 +23,5 @@
 [2015-11-26 20:30:11] asm89, quitting. (Ping timeout: 264 seconds)
 [2015-11-26 20:39:02] [b__b], quitting. (*.net *.split)
 [2015-11-26 20:42:26] jlipps, joining. (#selendroid)
+[2015-11-26 20:47:01] survfate_clone, joining. (#selendroid)
+[2015-11-26 20:49:43] asm89, joining. (#selendroid)
