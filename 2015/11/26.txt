@@ -5,3 +5,4 @@
 [2015-11-26 04:24:50] smccarthy, quitting. (Remote host closed the connection)
 [2015-11-26 04:56:48] niuniudd, joining. (#selendroid)
 [2015-11-26 04:57:17] niuniudd, leaving. (#selendroid)
+[2015-11-26 08:33:19] AutomatedTester_, joining. (#selendroid)
