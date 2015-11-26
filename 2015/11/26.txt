@@ -16,3 +16,5 @@
 [2015-11-26 17:14:03] jlipps, joining. (#selendroid)
 [2015-11-26 17:17:35] jlipps, quitting. (Client Quit)
 [2015-11-26 19:41:30] smccarthy, quitting. (Remote host closed the connection)
+[2015-11-26 20:04:20] asm89, quitting. (*.net *.split)
+[2015-11-26 20:04:39] [b__b], quitting. (*.net *.split)
