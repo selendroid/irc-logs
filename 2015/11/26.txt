@@ -14,3 +14,4 @@
 [2015-11-26 08:47:33] asm89, joining. (#selendroid)
 [2015-11-26 16:23:38] smccarthy, joining. (#selendroid)
 [2015-11-26 17:14:03] jlipps, joining. (#selendroid)
+[2015-11-26 17:17:35] jlipps, quitting. (Client Quit)
