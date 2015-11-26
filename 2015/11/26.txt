@@ -26,3 +26,4 @@
 [2015-11-26 20:47:01] survfate_clone, joining. (#selendroid)
 [2015-11-26 20:49:43] asm89, joining. (#selendroid)
 [2015-11-26 20:52:44] jlipps, quitting. (Ping timeout: 240 seconds)
+[2015-11-26 21:00:47] survfate_clone, quitting. (Ping timeout: 260 seconds)
