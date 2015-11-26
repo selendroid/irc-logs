@@ -6,3 +6,8 @@
 [2015-11-26 04:56:48] niuniudd, joining. (#selendroid)
 [2015-11-26 04:57:17] niuniudd, leaving. (#selendroid)
 [2015-11-26 08:33:19] AutomatedTester_, joining. (#selendroid)
+[2015-11-26 08:35:04] AutomatedTester, quitting. (*.net *.split)
+[2015-11-26 08:35:06] AutomatedTester_, changing nick to AutomatedTester.
+[2015-11-26 08:35:08] AutomatedTester, quitting. (Changing host)
+[2015-11-26 08:35:08] AutomatedTester, joining. (#selendroid)
+[2015-11-26 08:36:00] asm89, quitting. (*.net *.split)
