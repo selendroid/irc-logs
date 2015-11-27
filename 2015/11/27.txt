@@ -5,3 +5,4 @@
 [2015-11-27 14:21:23] simonstewart, joining. (#selendroid)
 [2015-11-27 16:34:23] smccarthy, joining. (#selendroid)
 [2015-11-27 17:46:31] smccarthy, quitting. (*.net *.split)
+[2015-11-27 17:56:14] smccarthy, joining. (#selendroid)
