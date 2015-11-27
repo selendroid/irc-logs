@@ -7,3 +7,4 @@
 [2015-11-27 17:46:31] smccarthy, quitting. (*.net *.split)
 [2015-11-27 17:56:14] smccarthy, joining. (#selendroid)
 [2015-11-27 19:10:05] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2015-11-27 21:59:31] jlipps, joining. (#selendroid)
