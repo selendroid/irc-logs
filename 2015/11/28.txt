@@ -1,3 +1,4 @@
 [2015-11-28 06:46:26] jlipps, joining. (#selendroid)
 [2015-11-28 06:51:53] smccarthy, quitting. (Remote host closed the connection)
 [2015-11-28 07:38:40] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
+[2015-11-28 16:16:28] smccarthy, joining. (#selendroid)
