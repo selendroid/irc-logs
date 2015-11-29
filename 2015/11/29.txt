@@ -17,3 +17,5 @@
 [2015-11-29 11:53:54] ddary, quitting. (Client Quit)
 [2015-11-29 15:30:10] [b__b], joining. (#selendroid)
 [2015-11-29 17:14:52] smccarthy, joining. (#selendroid)
+[2015-11-29 17:53:09] jlipps, quitting. (Read error: Connection reset by peer)
+[2015-11-29 17:53:54] jlipps, joining. (#selendroid)
