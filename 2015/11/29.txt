@@ -19,3 +19,4 @@
 [2015-11-29 17:14:52] smccarthy, joining. (#selendroid)
 [2015-11-29 17:53:09] jlipps, quitting. (Read error: Connection reset by peer)
 [2015-11-29 17:53:54] jlipps, joining. (#selendroid)
+[2015-11-29 20:17:06] jlipps, quitting. (Quit: Textual IRC Client: www.textualapp.com)
