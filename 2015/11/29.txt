@@ -13,3 +13,5 @@
 [2015-11-29 07:27:26] smccarthy, quitting. (Remote host closed the connection)
 [2015-11-29 07:39:34] jlipps, quitting. (Quit: My Mac has gone to sleep. ZZZzzz…)
 [2015-11-29 08:35:11] jlipps, joining. (#selendroid)
+[2015-11-29 11:53:33] ddary, joining. (#selendroid)
+[2015-11-29 11:53:54] ddary, quitting. (Client Quit)
