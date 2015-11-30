@@ -9,3 +9,5 @@
 [2015-11-30 16:31:09] smccarthy, joining. (#selendroid)
 [2015-11-30 16:35:09] smccarth_, joining. (#selendroid)
 [2015-11-30 16:36:06] smccarthy, quitting. (Ping timeout: 260 seconds)
+[2015-11-30 17:31:24] AutomatedTester, quitting. (Ping timeout: 245 seconds)
+[2015-11-30 17:31:50] AutomatedTester, joining. (#selendroid)
