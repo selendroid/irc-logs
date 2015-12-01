@@ -14,3 +14,4 @@
 [2015-12-01 13:14:43] selendroid-git: [selendroid] asm89 opened pull request #1012: Add option to re-use configured server port (master...reuse-port) http://git.io/vBxvx
 [2015-12-01 13:14:43] selendroid-git, leaving. (#selendroid)
 [2015-12-01 14:23:57] simonstewart, joining. (#selendroid)
+[2015-12-01 15:43:33] smccarthy, joining. (#selendroid)
