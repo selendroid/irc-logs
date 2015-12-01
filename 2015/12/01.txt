@@ -5,3 +5,8 @@
 [2015-12-01 11:59:39] simonstewart, joining. (#selendroid)
 [2015-12-01 12:51:33] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-12-01 12:55:26] simonstewart, joining. (#selendroid)
+[2015-12-01 13:07:10] selendroid-git, joining. (#selendroid)
+[2015-12-01 13:07:11] selendroid-git: [selendroid] asm89 opened pull request #1011: Add option to start selendroid standalone on a random port (master...standalone-random-port) http://git.io/vBAhi
+[2015-12-01 13:07:11] selendroid-git, leaving. (#selendroid)
+[2015-12-01 13:07:38] asm89: https://github.com/selendroid/selendroid/pull/1011 @ lukeis
+[2015-12-01 13:09:10] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
