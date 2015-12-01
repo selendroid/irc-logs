@@ -1,3 +1,4 @@
 [2015-12-01 00:43:46] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2015-12-01 00:44:16] simonstewart, joining. (#selendroid)
 [2015-12-01 00:48:58] simonstewart, quitting. (Ping timeout: 250 seconds)
+[2015-12-01 07:13:27] smccarth_, quitting. (Remote host closed the connection)
