@@ -23,3 +23,4 @@
 [2015-12-01 18:13:30] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-12-01 18:17:40] survfate_clone, joining. (#selendroid)
 [2015-12-01 18:56:34] survfate_clone, quitting. (Quit: Instantbird 1.5 -- http://www.instantbird.com)
+[2015-12-01 19:16:10] [b__b], joining. (#selendroid)
