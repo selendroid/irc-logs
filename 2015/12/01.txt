@@ -10,3 +10,6 @@
 [2015-12-01 13:07:11] selendroid-git, leaving. (#selendroid)
 [2015-12-01 13:07:38] asm89: https://github.com/selendroid/selendroid/pull/1011 @ lukeis
 [2015-12-01 13:09:10] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2015-12-01 13:14:43] selendroid-git, joining. (#selendroid)
+[2015-12-01 13:14:43] selendroid-git: [selendroid] asm89 opened pull request #1012: Add option to re-use configured server port (master...reuse-port) http://git.io/vBxvx
+[2015-12-01 13:14:43] selendroid-git, leaving. (#selendroid)
