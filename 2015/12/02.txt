@@ -1,1 +1,4 @@
 [2015-12-02 06:36:28] smccarthy, quitting. (Remote host closed the connection)
+[2015-12-02 11:38:22] selendroid-git, joining. (#selendroid)
+[2015-12-02 11:38:22] selendroid-git: [selendroid] anandsadu opened pull request #1013: Adding Uiautomator V2 driver to selendroid Factory (master...gradle-build-system-uiautomator2) http://git.io/vRTvo
+[2015-12-02 11:38:22] selendroid-git, leaving. (#selendroid)
