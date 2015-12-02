@@ -12,3 +12,6 @@
 [2015-12-02 16:51:26] asm89, quitting. (*.net *.split)
 [2015-12-02 16:52:45] AutomatedTester, quitting. (*.net *.split)
 [2015-12-02 16:52:53] smccarthy, quitting. (*.net *.split)
+[2015-12-02 17:47:16] AutomatedTester, joining. (#selendroid)
+[2015-12-02 17:47:16] smccarthy, joining. (#selendroid)
+[2015-12-02 17:47:16] asm89, joining. (#selendroid)
