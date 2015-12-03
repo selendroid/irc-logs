@@ -1,2 +1,4 @@
 [2015-12-03 03:58:00] [b__b], quitting. (Remote host closed the connection)
 [2015-12-03 03:59:16] [b__b], joining. (#selendroid)
+[2015-12-03 04:12:13] ipmb, joining. (#selendroid)
+[2015-12-03 04:12:15] ipmb, leaving. ("Textual IRC Client: www.textualapp.com")
