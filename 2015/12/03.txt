@@ -4,3 +4,4 @@
 [2015-12-03 04:12:15] ipmb, leaving. ("Textual IRC Client: www.textualapp.com")
 [2015-12-03 04:26:44] [b__b], quitting. (Remote host closed the connection)
 [2015-12-03 04:28:00] [b__b], joining. (#selendroid)
+[2015-12-03 06:21:30] smccarthy, quitting. (Remote host closed the connection)
