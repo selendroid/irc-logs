@@ -5,3 +5,13 @@
 [2015-12-07 09:25:50] hardikd, quitting. (Client Quit)
 [2015-12-07 15:25:03] smccarthy, joining. (#selendroid)
 [2015-12-07 17:31:23] lukeis, joining. (#selendroid)
+[2015-12-07 19:58:42] selendroid-git, joining. (#selendroid)
+[2015-12-07 19:58:42] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vRPkn
+[2015-12-07 19:58:43] selendroid-git: selendroid/master 2b2d81d Alexander Mols: Add option to start selendroid standalone on a random port...
+[2015-12-07 19:58:43] selendroid-git: selendroid/master 1f0e343 Luke Inman-Semerau: Merge pull request #1011 from asm89/standalone-random-port...
+[2015-12-07 19:58:43] selendroid-git, leaving. (#selendroid)
+[2015-12-07 19:58:49] selendroid-git, joining. (#selendroid)
+[2015-12-07 19:58:49] selendroid-git: [selendroid] lukeis pushed 2 new commits to master: http://git.io/vRPkl
+[2015-12-07 19:58:49] selendroid-git: selendroid/master d8e1a0c Alexander Mols: Add option to re-use configured server port...
+[2015-12-07 19:58:49] selendroid-git: selendroid/master 54b4755 Luke Inman-Semerau: Merge pull request #1012 from asm89/reuse-port...
+[2015-12-07 19:58:49] selendroid-git, leaving. (#selendroid)
