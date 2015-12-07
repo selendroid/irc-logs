@@ -36,3 +36,4 @@
 [2015-12-07 21:18:44] asm89: thanks lukeis
 [2015-12-07 21:20:38] lukeis: np :) i was out of the office last week
 [2015-12-07 22:59:09] lukeis, quitting. (Quit: Leaving.)
+[2015-12-07 23:44:16] smccarthy, quitting. (Quit: Leaving...)
