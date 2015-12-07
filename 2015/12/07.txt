@@ -4,3 +4,4 @@
 [2015-12-07 09:21:52] hardikd, joining. (#selendroid)
 [2015-12-07 09:25:50] hardikd, quitting. (Client Quit)
 [2015-12-07 15:25:03] smccarthy, joining. (#selendroid)
+[2015-12-07 17:31:23] lukeis, joining. (#selendroid)
