@@ -18,3 +18,18 @@
 [2015-12-07 20:00:32] selendroid-git, joining. (#selendroid)
 [2015-12-07 20:00:32] selendroid-git: [selendroid] lukeis closed pull request #1004: Publish selendroid release artifacts to jcenter (master...jcenter-publish-artifacts) http://git.io/v4oly
 [2015-12-07 20:00:32] selendroid-git, leaving. (#selendroid)
+[2015-12-07 20:05:12] travis-ci, joining. (#selendroid)
+[2015-12-07 20:05:13] travis-ci: selendroid/selendroid#893 (master - 1f0e343 : Luke Inman-Semerau): The build passed.
+[2015-12-07 20:05:13] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/f94ca32dcade...1f0e343e0582
+[2015-12-07 20:05:13] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/95414922
+[2015-12-07 20:05:13] travis-ci, leaving. (#selendroid)
+[2015-12-07 20:05:52] travis-ci, joining. (#selendroid)
+[2015-12-07 20:05:53] travis-ci: selendroid/selendroid#894 (master - 54b4755 : Luke Inman-Semerau): The build passed.
+[2015-12-07 20:05:53] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/95414945
+[2015-12-07 20:05:53] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/1f0e343e0582...54b4755c2ed6
+[2015-12-07 20:05:53] travis-ci, leaving. (#selendroid)
+[2015-12-07 20:07:13] travis-ci, joining. (#selendroid)
+[2015-12-07 20:07:14] travis-ci: selendroid/selendroid#895 (master - 04550f8 : Luke Inman-Semerau): The build passed.
+[2015-12-07 20:07:14] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/54b4755c2ed6...04550f8d20bd
+[2015-12-07 20:07:14] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/95415305
+[2015-12-07 20:07:14] travis-ci, leaving. (#selendroid)
