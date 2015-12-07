@@ -15,3 +15,6 @@
 [2015-12-07 19:58:49] selendroid-git: selendroid/master d8e1a0c Alexander Mols: Add option to re-use configured server port...
 [2015-12-07 19:58:49] selendroid-git: selendroid/master 54b4755 Luke Inman-Semerau: Merge pull request #1012 from asm89/reuse-port...
 [2015-12-07 19:58:49] selendroid-git, leaving. (#selendroid)
+[2015-12-07 20:00:32] selendroid-git, joining. (#selendroid)
+[2015-12-07 20:00:32] selendroid-git: [selendroid] lukeis closed pull request #1004: Publish selendroid release artifacts to jcenter (master...jcenter-publish-artifacts) http://git.io/v4oly
+[2015-12-07 20:00:32] selendroid-git, leaving. (#selendroid)
