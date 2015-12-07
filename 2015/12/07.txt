@@ -2,3 +2,4 @@
 [2015-12-07 02:12:06] smccarthy, joining. (#selendroid)
 [2015-12-07 05:57:40] smccarthy, quitting. (Remote host closed the connection)
 [2015-12-07 09:21:52] hardikd, joining. (#selendroid)
+[2015-12-07 09:25:50] hardikd, quitting. (Client Quit)
