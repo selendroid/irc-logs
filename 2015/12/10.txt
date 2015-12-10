@@ -1,2 +1,7 @@
 [2015-12-10 01:05:36] lukeis, quitting. (Ping timeout: 256 seconds)
 [2015-12-10 06:36:56] smccarthy, quitting. (Remote host closed the connection)
+[2015-12-10 13:55:19] AutomatedTester_, joining. (#selendroid)
+[2015-12-10 13:55:27] AutomatedTester, quitting. (Ping timeout: 250 seconds)
+[2015-12-10 13:55:27] AutomatedTester_, changing nick to AutomatedTester.
+[2015-12-10 13:55:28] AutomatedTester, quitting. (Changing host)
+[2015-12-10 13:55:28] AutomatedTester, joining. (#selendroid)
