@@ -3,3 +3,4 @@
 [2015-12-13 02:18:03] smccarthy, quitting. (Read error: Connection timed out)
 [2015-12-13 02:19:14] smccarthy, joining. (#selendroid)
 [2015-12-13 03:25:11] smccarthy, quitting. (Read error: Connection timed out)
+[2015-12-13 04:30:04] smccarthy, joining. (#selendroid)
