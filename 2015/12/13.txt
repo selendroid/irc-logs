@@ -1,1 +1,2 @@
 [2015-12-13 01:56:35] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2015-12-13 02:00:30] smccarthy, joining. (#selendroid)
