@@ -12,3 +12,4 @@
 [2015-12-13 20:34:08] [b__b], joining. (#selendroid)
 [2015-12-13 21:47:27] smccarth_, quitting. (Read error: Connection reset by peer)
 [2015-12-13 21:48:01] smccarthy, joining. (#selendroid)
+[2015-12-13 22:07:28] smccarthy, quitting. (Remote host closed the connection)
