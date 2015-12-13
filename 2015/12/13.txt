@@ -8,3 +8,5 @@
 [2015-12-13 16:34:07] smccarthy, joining. (#selendroid)
 [2015-12-13 16:38:58] smccarthy, quitting. (Read error: Connection reset by peer)
 [2015-12-13 16:39:02] smccarth_, joining. (#selendroid)
+[2015-12-13 20:33:55] [b__b], quitting. (*.net *.split)
+[2015-12-13 20:34:08] [b__b], joining. (#selendroid)
