@@ -6,3 +6,5 @@
 [2015-12-13 04:30:04] smccarthy, joining. (#selendroid)
 [2015-12-13 07:01:02] smccarthy, quitting. (Quit: Leaving...)
 [2015-12-13 16:34:07] smccarthy, joining. (#selendroid)
+[2015-12-13 16:38:58] smccarthy, quitting. (Read error: Connection reset by peer)
+[2015-12-13 16:39:02] smccarth_, joining. (#selendroid)
