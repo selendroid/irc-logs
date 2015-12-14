@@ -6,3 +6,4 @@
 [2015-12-14 17:24:11] lukeis, quitting. (Quit: Leaving.)
 [2015-12-14 17:28:17] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2015-12-14 17:38:22] simonstewart, joining. (#selendroid)
+[2015-12-14 17:40:51] lukeis, joining. (#selendroid)
