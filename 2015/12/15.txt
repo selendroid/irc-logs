@@ -1,3 +1,5 @@
 [2015-12-15 01:03:57] lukeis, quitting. (Quit: Leaving.)
 [2015-12-15 03:53:57] smccarthy, quitting. (Read error: Connection reset by peer)
 [2015-12-15 03:54:29] smccarthy, joining. (#selendroid)
+[2015-12-15 04:51:55] smccarthy, quitting. (Read error: Connection reset by peer)
+[2015-12-15 04:52:13] smccarthy, joining. (#selendroid)
