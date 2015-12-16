@@ -9,3 +9,4 @@
 [2015-12-16 19:41:52] lukeis, quitting. (Ping timeout: 272 seconds)
 [2015-12-16 19:42:50] lukeis1, quitting. (Ping timeout: 260 seconds)
 [2015-12-16 19:45:19] lukeis, joining. (#selendroid)
+[2015-12-16 21:32:11] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
