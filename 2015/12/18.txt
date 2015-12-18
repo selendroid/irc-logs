@@ -1,3 +1,4 @@
 [2015-12-18 00:35:44] lukeis, quitting. (Ping timeout: 246 seconds)
 [2015-12-18 00:38:33] smccarthy, quitting. (Remote host closed the connection)
 [2015-12-18 06:12:27] smccarthy, joining. (#selendroid)
+[2015-12-18 06:47:51] smccarthy, quitting. (Remote host closed the connection)
