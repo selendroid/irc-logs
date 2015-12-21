@@ -4,3 +4,5 @@
 [2015-12-21 11:13:21] selendroidbot___, joining. (#selendroid)
 [2015-12-21 16:15:41] smccarthy, joining. (#selendroid)
 [2015-12-21 16:57:53] lukeis, joining. (#selendroid)
+[2015-12-21 19:05:28] lukeis1, joining. (#selendroid)
+[2015-12-21 19:09:47] lukeis, quitting. (Ping timeout: 276 seconds)
