@@ -2,3 +2,4 @@
 [2015-12-22 00:26:23] lukeis, joining. (#selendroid)
 [2015-12-22 01:39:41] lukeis, quitting. (Quit: Leaving.)
 [2015-12-22 07:16:01] smccarthy, quitting. (Quit: Leaving...)
+[2015-12-22 16:45:44] smccarthy, joining. (#selendroid)
