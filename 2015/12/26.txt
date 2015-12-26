@@ -5,3 +5,4 @@
 [2015-12-26 10:02:29] Iresf: SEVERE: Error executing command: /usr/local/android-sdk-linux/build-tools/23.0.2/aapt remove /home/savadkuhi/selen/selendroid-test-app-0.17.0.apk META-INF/ANDROIDD.RSA
 [2015-12-26 10:12:05] Iresf, quitting. (Ping timeout: 246 seconds)
 [2015-12-26 14:26:43] simonstewart, joining. (#selendroid)
+[2015-12-26 14:33:24] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
