@@ -1,1 +1,5 @@
 [2015-12-26 05:59:51] smccarthy, quitting. (Quit: Leaving...)
+[2015-12-26 10:00:59] Iresf, joining. (#selendroid)
+[2015-12-26 10:01:18] Iresf: hi everyone
+[2015-12-26 10:01:41] Iresf: i have this problem when i start selendroid server
+[2015-12-26 10:02:29] Iresf: SEVERE: Error executing command: /usr/local/android-sdk-linux/build-tools/23.0.2/aapt remove /home/savadkuhi/selen/selendroid-test-app-0.17.0.apk META-INF/ANDROIDD.RSA
