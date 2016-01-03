@@ -8,3 +8,4 @@
 [2016-01-03 02:40:21] smccarthy, quitting. (Read error: Connection reset by peer)
 [2016-01-03 02:40:45] smccarthy, joining. (#selendroid)
 [2016-01-03 05:42:29] smccarthy, quitting. (Ping timeout: 246 seconds)
+[2016-01-03 19:27:21] smccarthy, joining. (#selendroid)
