@@ -17,3 +17,4 @@
 [2016-01-06 22:00:10] smccarthy, joining. (#selendroid)
 [2016-01-06 22:01:55] smccarthy, quitting. (Read error: Connection reset by peer)
 [2016-01-06 22:02:20] smccarthy, joining. (#selendroid)
+[2016-01-06 22:54:37] smccarthy, quitting. (Remote host closed the connection)
