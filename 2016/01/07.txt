@@ -18,3 +18,4 @@
 [2016-01-07 15:31:41] simonstewart, quitting. (Ping timeout: 276 seconds)
 [2016-01-07 15:42:23] simonstewart, joining. (#selendroid)
 [2016-01-07 15:57:44] simonstewart, quitting. (Ping timeout: 246 seconds)
+[2016-01-07 16:04:38] simonstewart, joining. (#selendroid)
