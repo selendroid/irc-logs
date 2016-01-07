@@ -5,3 +5,5 @@
 [2016-01-07 02:42:26] smccarthy, joining. (#selendroid)
 [2016-01-07 02:46:47] smccarthy, quitting. (Ping timeout: 255 seconds)
 [2016-01-07 04:43:14] smccarthy, joining. (#selendroid)
+[2016-01-07 04:45:24] smccarthy, quitting. (Read error: Connection reset by peer)
+[2016-01-07 04:45:41] smccarthy, joining. (#selendroid)
