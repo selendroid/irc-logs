@@ -2,3 +2,4 @@
 [2016-01-07 01:02:16] lukeis, quitting. (Quit: Leaving.)
 [2016-01-07 01:41:44] smccarthy, joining. (#selendroid)
 [2016-01-07 01:45:55] smccarthy, quitting. (Ping timeout: 240 seconds)
+[2016-01-07 02:42:26] smccarthy, joining. (#selendroid)
