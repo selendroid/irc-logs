@@ -9,3 +9,4 @@
 [2016-01-09 03:28:32] smccarthy, quitting. (Ping timeout: 246 seconds)
 [2016-01-09 05:25:09] smccarthy, joining. (#selendroid)
 [2016-01-09 05:29:54] smccarthy, quitting. (Ping timeout: 260 seconds)
+[2016-01-09 05:48:17] smccarthy, joining. (#selendroid)
