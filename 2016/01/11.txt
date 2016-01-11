@@ -112,3 +112,4 @@
 [2016-01-11 20:45:09] lukeis: can you gist your output from the standalone server?
 [2016-01-11 20:48:08] athicarla: here it is:
 [2016-01-11 20:48:09] athicarla: https://gist.github.com/aprashanthsai/f24cb86c76bf3de4ac24
+[2016-01-11 21:04:57] lukeis: there should be more to that output… after the 'started on port 4444'  when you run your tests
