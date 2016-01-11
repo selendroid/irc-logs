@@ -108,3 +108,7 @@
 [2016-01-11 20:40:25] athicarla: https://gist.github.com/aprashanthsai/62b6b8b0327fb70fbf0a
 [2016-01-11 20:42:33] athicarla: here is the entire rspec output
 [2016-01-11 20:42:35] athicarla: https://gist.github.com/aprashanthsai/8af7f45f65b8700bbe89
+[2016-01-11 20:45:09] lukeis: so, it failed to set implicit wait (the rest of the errors were due to the session being quit). the before doesn't seem to be working as expected in your code (and i'm not familiar enough with ruby to help)
+[2016-01-11 20:45:09] lukeis: can you gist your output from the standalone server?
+[2016-01-11 20:48:08] athicarla: here it is:
+[2016-01-11 20:48:09] athicarla: https://gist.github.com/aprashanthsai/f24cb86c76bf3de4ac24
