@@ -53,3 +53,4 @@
 [2016-01-11 20:22:24] athicarla:             Connection refused - connect(2) for "localhost" port 9000
 [2016-01-11 20:23:03] lukeis: your rspec should be using the port that the selendroid standalone server is running on  (4444)
 [2016-01-11 20:23:38] lukeis: all communication should go through it… you should not be trying to connect directly to your device
+[2016-01-11 20:34:51] athicarla: thanks lukeis
