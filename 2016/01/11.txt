@@ -116,3 +116,4 @@
 [2016-01-11 21:13:39] athicarla: no....thats the last statement in the log whe I run the command
 [2016-01-11 21:13:40] athicarla: java -jar selendroid-standalone-0.17.0-with-dependencies.jar -app app-release.apk -logLevel DEBUG
 [2016-01-11 21:39:00] athicarla, quitting. (Ping timeout: 260 seconds)
+[2016-01-11 21:42:34] smccarth_, changing nick to smccarthy.
