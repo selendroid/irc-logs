@@ -103,3 +103,8 @@
 [2016-01-11 20:39:02] athicarla:           # /Users/athicarl/.chefdk/gem/ruby/2.1.0/gems/selenium-webdriver-2.48.1/lib/selenium/webdriver/common/driver.rb:171:in `quit'
 [2016-01-11 20:39:07] athicarla:           # ./spec/unit/login_spec.rb:20:in `block (2 levels) in <top (required)>'
 [2016-01-11 20:39:09] athicarla: no it not
+[2016-01-11 20:40:18] lukeis: seems like you had a failure starting the session… can you print out the exception *before* it calls quit in your code
+[2016-01-11 20:40:25] athicarla: here is the code
+[2016-01-11 20:40:25] athicarla: https://gist.github.com/aprashanthsai/62b6b8b0327fb70fbf0a
+[2016-01-11 20:42:33] athicarla: here is the entire rspec output
+[2016-01-11 20:42:35] athicarla: https://gist.github.com/aprashanthsai/8af7f45f65b8700bbe89
