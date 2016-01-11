@@ -39,3 +39,10 @@
 [2016-01-11 20:14:37] athicarla: the first time when I started the Selendroid Standalone server
 [2016-01-11 20:14:51] athicarla: I was able to access the server on port 8080
 [2016-01-11 20:14:59] athicarla: but now I can't
+[2016-01-11 20:15:22] athicarla: I did not do anything different
+[2016-01-11 20:16:55] lukeis: the standalone server you started is on port 4444
+[2016-01-11 20:17:15] lukeis: not 8080.. unless you change the port you start your server on
+[2016-01-11 20:17:57] athicarla: I can still access the standalone server running on my machine on port 4444
+[2016-01-11 20:18:42] athicarla: but can't access the selendroid server running on the device on port 8080
+[2016-01-11 20:19:29] athicarla: so I am assuming selendroid server is not being started when I execute the Selendroid jar
+[2016-01-11 20:19:33] lukeis: the one on the devices is only up while a 'session' is running (like a test)
