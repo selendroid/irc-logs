@@ -115,3 +115,4 @@
 [2016-01-11 21:04:57] lukeis: there should be more to that output… after the 'started on port 4444'  when you run your tests
 [2016-01-11 21:13:39] athicarla: no....thats the last statement in the log whe I run the command
 [2016-01-11 21:13:40] athicarla: java -jar selendroid-standalone-0.17.0-with-dependencies.jar -app app-release.apk -logLevel DEBUG
+[2016-01-11 21:39:00] athicarla, quitting. (Ping timeout: 260 seconds)
