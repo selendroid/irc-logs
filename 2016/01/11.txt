@@ -22,3 +22,7 @@
 [2016-01-11 19:43:22] athicarla: will really appreciate any help
 [2016-01-11 19:48:33] lukeis: selendroid doesn't start on the device until a new session is requested / created
 [2016-01-11 19:58:03] athicarla, quitting. (Quit: This computer has gone to sleep)
+[2016-01-11 20:08:38] athicarla, joining. (#selendroid)
+[2016-01-11 20:08:53] athicarla: thanks lukies
+[2016-01-11 20:09:29] athicarla: but how do you start a session on the device
+[2016-01-11 20:09:48] athicarla: sorry but I am pretty new to the Selendroid
