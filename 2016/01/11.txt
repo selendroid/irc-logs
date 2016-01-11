@@ -21,3 +21,4 @@
 [2016-01-11 19:43:05] athicarla: does anyone have a clue?
 [2016-01-11 19:43:22] athicarla: will really appreciate any help
 [2016-01-11 19:48:33] lukeis: selendroid doesn't start on the device until a new session is requested / created
+[2016-01-11 19:58:03] athicarla, quitting. (Quit: This computer has gone to sleep)
