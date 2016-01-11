@@ -46,3 +46,10 @@
 [2016-01-11 20:18:42] athicarla: but can't access the selendroid server running on the device on port 8080
 [2016-01-11 20:19:29] athicarla: so I am assuming selendroid server is not being started when I execute the Selendroid jar
 [2016-01-11 20:19:33] lukeis: the one on the devices is only up while a 'session' is running (like a test)
+[2016-01-11 20:21:54] athicarla: I did try that
+[2016-01-11 20:22:10] athicarla: I have my test cases written in RSpec
+[2016-01-11 20:22:23] athicarla: when I run them, this is what I get
+[2016-01-11 20:22:24] athicarla:           Errno::ECONNREFUSED:
+[2016-01-11 20:22:24] athicarla:             Connection refused - connect(2) for "localhost" port 9000
+[2016-01-11 20:23:03] lukeis: your rspec should be using the port that the selendroid standalone server is running on  (4444)
+[2016-01-11 20:23:38] lukeis: all communication should go through it… you should not be trying to connect directly to your device
