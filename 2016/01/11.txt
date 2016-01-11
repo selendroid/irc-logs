@@ -113,3 +113,5 @@
 [2016-01-11 20:48:08] athicarla: here it is:
 [2016-01-11 20:48:09] athicarla: https://gist.github.com/aprashanthsai/f24cb86c76bf3de4ac24
 [2016-01-11 21:04:57] lukeis: there should be more to that output… after the 'started on port 4444'  when you run your tests
+[2016-01-11 21:13:39] athicarla: no....thats the last statement in the log whe I run the command
+[2016-01-11 21:13:40] athicarla: java -jar selendroid-standalone-0.17.0-with-dependencies.jar -app app-release.apk -logLevel DEBUG
