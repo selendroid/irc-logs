@@ -54,3 +54,52 @@
 [2016-01-11 20:23:03] lukeis: your rspec should be using the port that the selendroid standalone server is running on  (4444)
 [2016-01-11 20:23:38] lukeis: all communication should go through it… you should not be trying to connect directly to your device
 [2016-01-11 20:34:51] athicarla: thanks lukeis
+[2016-01-11 20:35:16] athicarla: just tried that but keep getting the error '            io.selendroid.server.common.exceptions.SelendroidException: No session id passed to the request'
+[2016-01-11 20:35:47] lukeis: you are using the Ruby Selenium bindings, right?
+[2016-01-11 20:36:01] athicarla: yes
+[2016-01-11 20:36:21] lukeis: can you share a full stack trace of the exception?
+[2016-01-11 20:36:28] athicarla: sure
+[2016-01-11 20:37:20] athicarla:      1.2) Failure/Error: $driver.quit
+[2016-01-11 20:37:20] athicarla:           Selenium::WebDriver::Error::UnknownError:
+[2016-01-11 20:37:20] athicarla:             io.selendroid.server.common.exceptions.SelendroidException: No session id passed to the request.
+[2016-01-11 20:37:20] athicarla:             	at io.selendroid.standalone.server.handler.ProxyToDeviceHandler.handleRequest(ProxyToDeviceHandler.java:60)
+[2016-01-11 20:37:20] athicarla:             	at io.selendroid.standalone.server.BaseSelendroidStandaloneHandler.handle(BaseSelendroidStandaloneHandler.java:45)
+[2016-01-11 20:37:23] athicarla:             	at io.selendroid.standalone.server.SelendroidServlet.handleRequest(SelendroidServlet.java:131)
+[2016-01-11 20:37:26] athicarla:             	at io.selendroid.server.common.BaseServlet.handleHttpRequest(BaseServlet.java:67)
+[2016-01-11 20:37:28] athicarla:             	at io.selendroid.server.common.http.ServerHandler.channelRead(ServerHandler.java:53)
+[2016-01-11 20:37:30] athicarla:             	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333)
+[2016-01-11 20:37:33] athicarla:             	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319)
+[2016-01-11 20:37:38] athicarla:             	at io.netty.handler.traffic.AbstractTrafficShapingHandler.channelRead(AbstractTrafficShapingHandler.java:223)
+[2016-01-11 20:37:41] athicarla:             	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333)
+[2016-01-11 20:37:44] athicarla:             	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319)
+[2016-01-11 20:37:47] athicarla:             	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+[2016-01-11 20:37:50] athicarla:             	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333)
+[2016-01-11 20:37:53] athicarla:             	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319)
+[2016-01-11 20:37:56] athicarla:             	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:163)
+[2016-01-11 20:37:58] athicarla:             	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:148)
+[2016-01-11 20:37:58] lukeis: on quit it fails?  did it fail to start up a new session?
+[2016-01-11 20:38:01] athicarla:             	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:333)
+[2016-01-11 20:38:04] athicarla:             	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:319)
+[2016-01-11 20:38:09] lukeis: next time :gist   :)
+[2016-01-11 20:38:09] athicarla:             	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:787)
+[2016-01-11 20:38:12] athicarla:             	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:125)
+[2016-01-11 20:38:15] athicarla:             	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511)
+[2016-01-11 20:38:17] athicarla:             	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468)
+[2016-01-11 20:38:19] athicarla:             	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382)
+[2016-01-11 20:38:21] athicarla:             	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354)
+[2016-01-11 20:38:23] athicarla:             	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+[2016-01-11 20:38:26] athicarla:             	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:137)
+[2016-01-11 20:38:29] athicarla:             	at java.lang.Thread.run(Thread.java:745)
+[2016-01-11 20:38:31] athicarla:              (io.selendroid.server.common.exceptions.SelendroidException)
+[2016-01-11 20:38:33] athicarla:           # /Users/athicarl/.chefdk/gem/ruby/2.1.0/gems/selenium-webdriver-2.48.1/lib/selenium/webdriver/remote/response.rb:70:in `assert_ok'
+[2016-01-11 20:38:38] athicarla:           # /Users/athicarl/.chefdk/gem/ruby/2.1.0/gems/selenium-webdriver-2.48.1/lib/selenium/webdriver/remote/response.rb:34:in `initialize'
+[2016-01-11 20:38:41] athicarla:           # /Users/athicarl/.chefdk/gem/ruby/2.1.0/gems/selenium-webdriver-2.48.1/lib/selenium/webdriver/remote/http/common.rb:78:in `new'
+[2016-01-11 20:38:44] athicarla:           # /Users/athicarl/.chefdk/gem/ruby/2.1.0/gems/selenium-webdriver-2.48.1/lib/selenium/webdriver/remote/http/common.rb:78:in `create_response'
+[2016-01-11 20:38:47] athicarla:           # /Users/athicarl/.chefdk/gem/ruby/2.1.0/gems/selenium-webdriver-2.48.1/lib/selenium/webdriver/remote/http/default.rb:90:in `request'
+[2016-01-11 20:38:50] athicarla:           # /Users/athicarl/.chefdk/gem/ruby/2.1.0/gems/selenium-webdriver-2.48.1/lib/selenium/webdriver/remote/http/common.rb:59:in `call'
+[2016-01-11 20:38:53] athicarla:           # /Users/athicarl/.chefdk/gem/ruby/2.1.0/gems/selenium-webdriver-2.48.1/lib/selenium/webdriver/remote/bridge.rb:664:in `raw_execute'
+[2016-01-11 20:38:56] athicarla:           # /Users/athicarl/.chefdk/gem/ruby/2.1.0/gems/selenium-webdriver-2.48.1/lib/selenium/webdriver/remote/bridge.rb:642:in `execute'
+[2016-01-11 20:38:59] athicarla:           # /Users/athicarl/.chefdk/gem/ruby/2.1.0/gems/selenium-webdriver-2.48.1/lib/selenium/webdriver/remote/bridge.rb:235:in `quit'
+[2016-01-11 20:39:02] athicarla:           # /Users/athicarl/.chefdk/gem/ruby/2.1.0/gems/selenium-webdriver-2.48.1/lib/selenium/webdriver/common/driver.rb:171:in `quit'
+[2016-01-11 20:39:07] athicarla:           # ./spec/unit/login_spec.rb:20:in `block (2 levels) in <top (required)>'
+[2016-01-11 20:39:09] athicarla: no it not
