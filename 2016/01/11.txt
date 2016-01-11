@@ -15,3 +15,8 @@
 [2016-01-11 17:14:04] lukeis, joining. (#selendroid)
 [2016-01-11 18:31:13] smccarth_, joining. (#selendroid)
 [2016-01-11 19:29:18] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2016-01-11 19:40:29] athicarla, joining. (#selendroid)
+[2016-01-11 19:42:14] athicarla: When I start the Selendroid standalone server, selendroid server is not started on the device
+[2016-01-11 19:42:52] athicarla: and there is nothing in the log to indicate that an attempt was made to do so
+[2016-01-11 19:43:05] athicarla: does anyone have a clue?
+[2016-01-11 19:43:22] athicarla: will really appreciate any help
