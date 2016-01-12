@@ -19,3 +19,5 @@
 [2016-01-12 14:57:13] smccarthy, quitting. (Remote host closed the connection)
 [2016-01-12 15:03:36] smccarthy, joining. (#selendroid)
 [2016-01-12 15:07:39] smccarthy, quitting. (Remote host closed the connection)
+[2016-01-12 15:15:51] athicarl, quitting. (Quit: This computer has gone to sleep)
+[2016-01-12 15:16:03] athicarl, joining. (#selendroid)
