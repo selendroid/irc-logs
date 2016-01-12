@@ -6,3 +6,4 @@
 [2016-01-12 03:43:40] athicarla, joining. (#selendroid)
 [2016-01-12 04:31:24] athicarla, quitting. (Ping timeout: 256 seconds)
 [2016-01-12 05:20:55] smccarthy, quitting. (Remote host closed the connection)
+[2016-01-12 11:44:43] simonstewart, joining. (#selendroid)
