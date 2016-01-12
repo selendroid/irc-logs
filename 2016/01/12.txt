@@ -15,3 +15,4 @@
 [2016-01-12 13:01:38] athicarl: capabilities = {:emulator=>true, :aut=>"com.sai.prashanth.testapp:1.0", :platformVersion=>"23", :browserName=>"selendroid"}
 [2016-01-12 13:01:50] athicarl: $driver = Selenium::WebDriver.for(:remote, :url => end_point, :desired_capabilities => capabilities)
 [2016-01-12 13:02:14] athicarl: where "end_point" is set to ""http://localhost:4444/wd/hub""
+[2016-01-12 13:12:56] smccarthy, joining. (#selendroid)
