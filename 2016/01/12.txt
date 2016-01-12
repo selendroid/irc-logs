@@ -47,3 +47,4 @@
 [2016-01-12 18:58:41] simonstewart, quitting. (Client Quit)
 [2016-01-12 20:01:57] smccarthy, quitting. (Quit: Leaving...)
 [2016-01-12 20:04:34] smccarthy, joining. (#selendroid)
+[2016-01-12 20:20:32] smccarthy, quitting. (Remote host closed the connection)
