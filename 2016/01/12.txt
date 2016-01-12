@@ -8,3 +8,10 @@
 [2016-01-12 05:20:55] smccarthy, quitting. (Remote host closed the connection)
 [2016-01-12 11:44:43] simonstewart, joining. (#selendroid)
 [2016-01-12 12:57:18] athicarl, joining. (#selendroid)
+[2016-01-12 13:00:32] athicarl: hey guys
+[2016-01-12 13:00:48] athicarl: I keep getting this error when I try to create a client
+[2016-01-12 13:00:49] athicarl: https://gist.github.com/aprashanthsai/522aafe24bdbac5a5c5f
+[2016-01-12 13:01:06] athicarl: any hints on what could be causing this?
+[2016-01-12 13:01:38] athicarl: capabilities = {:emulator=>true, :aut=>"com.sai.prashanth.testapp:1.0", :platformVersion=>"23", :browserName=>"selendroid"}
+[2016-01-12 13:01:50] athicarl: $driver = Selenium::WebDriver.for(:remote, :url => end_point, :desired_capabilities => capabilities)
+[2016-01-12 13:02:14] athicarl: where "end_point" is set to ""http://localhost:4444/wd/hub""
