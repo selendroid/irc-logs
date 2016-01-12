@@ -23,3 +23,5 @@
 [2016-01-12 15:16:03] athicarl, joining. (#selendroid)
 [2016-01-12 15:43:43] smccarthy, joining. (#selendroid)
 [2016-01-12 17:41:19] lukeis, joining. (#selendroid)
+[2016-01-12 18:04:36] athicarl: Hi Lukeis
+[2016-01-12 18:04:51] athicarl: thanks for your help yesterday...i made some progress
