@@ -3,3 +3,4 @@
 [2016-01-12 00:58:24] lukeis, quitting. (Ping timeout: 250 seconds)
 [2016-01-12 01:36:43] smccarthy, quitting. (Read error: Connection reset by peer)
 [2016-01-12 01:40:17] smccarthy, joining. (#selendroid)
+[2016-01-12 03:43:40] athicarla, joining. (#selendroid)
