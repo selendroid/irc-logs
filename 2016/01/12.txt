@@ -33,3 +33,5 @@
 [2016-01-12 18:05:50] athicarl: $driver = Selenium::WebDriver.for(:remote, :url => end_point, :desired_capabilities => capabilities)
 [2016-01-12 18:06:09] athicarl: where "end_point" is set to "http://localhost:4444/wd/hub"
 [2016-01-12 18:09:55] lukeis: hi athicarl, the exception shown is quite odd! :)  Can you also run `adb logcat` and gist that too? I'm hoping there's a stacktrace in there that would shed some light on why there seems to be an infinite loop in the json response data
+[2016-01-12 18:11:18] athicarl: sure I could do that
+[2016-01-12 18:11:24] athicarl: give me 2 mins
