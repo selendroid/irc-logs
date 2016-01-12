@@ -35,3 +35,6 @@
 [2016-01-12 18:09:55] lukeis: hi athicarl, the exception shown is quite odd! :)  Can you also run `adb logcat` and gist that too? I'm hoping there's a stacktrace in there that would shed some light on why there seems to be an infinite loop in the json response data
 [2016-01-12 18:11:18] athicarl: sure I could do that
 [2016-01-12 18:11:24] athicarl: give me 2 mins
+[2016-01-12 18:15:27] athicarl: here it is:-
+[2016-01-12 18:15:28] athicarl: https://gist.github.com/aprashanthsai/f345b914867cd0ee0f96
+[2016-01-12 18:18:03] lukeis: well, that didn't show anything :-/    did you try to run your test while you had the logcat open? (if not, can you?)
