@@ -42,3 +42,6 @@
 [2016-01-12 18:21:54] athicarl: The app & selendroid server is installed on the device
 [2016-01-12 18:22:18] athicarl: & the main activity (LoginActivity) is started as well
 [2016-01-12 18:22:33] athicarl: which shows up on the screen....and then the error shows up
+[2016-01-12 18:57:30] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2016-01-12 18:58:01] simonstewart, joining. (#selendroid)
+[2016-01-12 18:58:41] simonstewart, quitting. (Client Quit)
