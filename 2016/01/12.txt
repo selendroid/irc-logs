@@ -17,3 +17,4 @@
 [2016-01-12 13:02:14] athicarl: where "end_point" is set to ""http://localhost:4444/wd/hub""
 [2016-01-12 13:12:56] smccarthy, joining. (#selendroid)
 [2016-01-12 14:57:13] smccarthy, quitting. (Remote host closed the connection)
+[2016-01-12 15:03:36] smccarthy, joining. (#selendroid)
