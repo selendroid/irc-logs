@@ -22,3 +22,4 @@
 [2016-01-12 15:15:51] athicarl, quitting. (Quit: This computer has gone to sleep)
 [2016-01-12 15:16:03] athicarl, joining. (#selendroid)
 [2016-01-12 15:43:43] smccarthy, joining. (#selendroid)
+[2016-01-12 17:41:19] lukeis, joining. (#selendroid)
