@@ -10,3 +10,5 @@
 [2016-01-13 21:14:43] lukeis, quitting. (Client Quit)
 [2016-01-13 21:43:55] lukeis, joining. (#selendroid)
 [2016-01-13 21:48:42] lukeis1, joining. (#selendroid)
+[2016-01-13 21:51:47] lukeis, quitting. (Ping timeout: 264 seconds)
+[2016-01-13 21:54:59] lukeis1, changing nick to lukeis.
