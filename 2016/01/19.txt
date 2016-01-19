@@ -10,3 +10,4 @@
 [2016-01-19 14:29:46] simonstewart, joining. (#selendroid)
 [2016-01-19 14:34:00] simonstewart, quitting. (Client Quit)
 [2016-01-19 14:37:30] simonstewart, joining. (#selendroid)
+[2016-01-19 15:26:44] smccarthy, quitting. (Quit: Leaving...)
