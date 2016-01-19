@@ -1,3 +1,4 @@
 [2016-01-19 01:07:34] lukeis, quitting. (Ping timeout: 260 seconds)
 [2016-01-19 05:12:48] smccarthy, quitting. (Remote host closed the connection)
 [2016-01-19 12:00:06] simonstewart, joining. (#selendroid)
+[2016-01-19 12:47:25] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
