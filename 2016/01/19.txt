@@ -3,3 +3,5 @@
 [2016-01-19 12:00:06] simonstewart, joining. (#selendroid)
 [2016-01-19 12:47:25] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2016-01-19 12:50:26] simonstewart, joining. (#selendroid)
+[2016-01-19 13:07:18] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+[2016-01-19 13:08:21] simonstewart, joining. (#selendroid)
