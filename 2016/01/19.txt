@@ -12,3 +12,4 @@
 [2016-01-19 14:37:30] simonstewart, joining. (#selendroid)
 [2016-01-19 15:26:44] smccarthy, quitting. (Quit: Leaving...)
 [2016-01-19 15:30:30] smccarthy, joining. (#selendroid)
+[2016-01-19 17:20:07] lukeis, joining. (#selendroid)
