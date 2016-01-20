@@ -10,3 +10,4 @@
 [2016-01-20 19:12:54] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
 [2016-01-20 19:17:43] simonstewart, joining. (#selendroid)
 [2016-01-20 19:18:00] simonstewart, quitting. (Client Quit)
+[2016-01-20 19:48:37] simonstewart, joining. (#selendroid)
