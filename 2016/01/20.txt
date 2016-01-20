@@ -12,3 +12,4 @@
 [2016-01-20 19:18:00] simonstewart, quitting. (Client Quit)
 [2016-01-20 19:48:37] simonstewart, joining. (#selendroid)
 [2016-01-20 20:11:25] smccarthy, quitting. (Quit: Leaving...)
+[2016-01-20 21:05:22] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
