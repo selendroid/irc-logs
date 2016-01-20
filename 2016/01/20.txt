@@ -1,2 +1,3 @@
 [2016-01-20 01:03:55] lukeis, quitting. (Quit: Leaving.)
 [2016-01-20 04:35:25] smccarthy, quitting. (Quit: Leaving...)
+[2016-01-20 11:32:27] simonstewart, joining. (#selendroid)
