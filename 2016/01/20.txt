@@ -2,3 +2,4 @@
 [2016-01-20 04:35:25] smccarthy, quitting. (Quit: Leaving...)
 [2016-01-20 11:32:27] simonstewart, joining. (#selendroid)
 [2016-01-20 14:11:36] smccarthy, joining. (#selendroid)
+[2016-01-20 14:17:49] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
