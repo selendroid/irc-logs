@@ -15,3 +15,7 @@
 [2016-01-20 21:05:22] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
 [2016-01-20 21:45:10] smccarthy, joining. (#selendroid)
 [2016-01-20 21:53:24] smccarthy, quitting. (*.net *.split)
+[2016-01-20 22:40:04] lukeis1, joining. (#selendroid)
+[2016-01-20 22:41:48] lukeis2, joining. (#selendroid)
+[2016-01-20 22:43:02] lukeis, quitting. (Ping timeout: 272 seconds)
+[2016-01-20 22:44:35] lukeis1, quitting. (Ping timeout: 264 seconds)
