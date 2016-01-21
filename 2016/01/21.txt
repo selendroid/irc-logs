@@ -12,3 +12,5 @@
 [2016-01-21 18:37:50] smccarth_, joining. (#selendroid)
 [2016-01-21 18:40:05] smccarthy, quitting. (Ping timeout: 260 seconds)
 [2016-01-21 20:50:34] simonstewart, quitting. (Quit: Textual IRC Client: www.textualapp.com)
+[2016-01-21 21:25:06] smccarth_, quitting. (Ping timeout: 245 seconds)
+[2016-01-21 21:28:33] smccarthy, joining. (#selendroid)
