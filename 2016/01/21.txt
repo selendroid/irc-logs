@@ -10,3 +10,4 @@
 [2016-01-21 14:27:18] simonstewart, joining. (#selendroid)
 [2016-01-21 17:29:37] lukeis, joining. (#selendroid)
 [2016-01-21 18:37:50] smccarth_, joining. (#selendroid)
+[2016-01-21 18:40:05] smccarthy, quitting. (Ping timeout: 260 seconds)
