@@ -7,3 +7,4 @@
 [2016-01-22 15:40:01] smccarthy, quitting. (Quit: Leaving...)
 [2016-01-22 15:46:36] smccarthy, joining. (#selendroid)
 [2016-01-22 17:51:30] lukeis, joining. (#selendroid)
+[2016-01-22 18:16:04] simonstewart, quitting. (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
