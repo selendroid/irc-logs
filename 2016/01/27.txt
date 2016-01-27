@@ -1,1 +1,2 @@
 [2016-01-27 06:51:52] smccarthy, quitting. (Remote host closed the connection)
+[2016-01-27 12:23:08] asm89, quitting. (Ping timeout: 244 seconds)
