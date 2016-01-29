@@ -5,3 +5,4 @@
 [2016-01-29 11:13:43] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
 [2016-01-29 11:23:23] AutomatedTester, joining. (#selendroid)
 [2016-01-29 13:18:33] smccarthy, joining. (#selendroid)
+[2016-01-29 16:40:23] lukeis, joining. (#selendroid)
