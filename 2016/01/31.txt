@@ -11,3 +11,4 @@
 [2016-01-31 13:35:50] 17WABOP8G, quitting. (Remote host closed the connection)
 [2016-01-31 13:51:25] smccarthy, joining. (#selendroid)
 [2016-01-31 18:41:16] smccarthy, quitting. (Remote host closed the connection)
+[2016-01-31 18:56:58] smccarthy, joining. (#selendroid)
