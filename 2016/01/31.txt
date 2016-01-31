@@ -1,2 +1,6 @@
 [2016-01-31 05:33:39] smccarthy, joining. (#selendroid)
 [2016-01-31 06:08:16] smccarthy, quitting. (Remote host closed the connection)
+[2016-01-31 13:25:41] AutomatedTester, quitting. (*.net *.split)
+[2016-01-31 13:26:59] [b__b], quitting. (*.net *.split)
+[2016-01-31 13:27:06] asm89, quitting. (*.net *.split)
+[2016-01-31 13:28:38] AutomatedTester, joining. (#selendroid)
