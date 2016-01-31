@@ -9,3 +9,4 @@
 [2016-01-31 13:30:19] [b__b], changing nick to 17WABOP8G.
 [2016-01-31 13:32:05] [b__b], joining. (#selendroid)
 [2016-01-31 13:35:50] 17WABOP8G, quitting. (Remote host closed the connection)
+[2016-01-31 13:51:25] smccarthy, joining. (#selendroid)
