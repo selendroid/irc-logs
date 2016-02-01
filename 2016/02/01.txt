@@ -7,3 +7,4 @@
 [2016-02-01 17:55:40] lukeis, quitting. (Client Quit)
 [2016-02-01 17:56:00] lukeis, joining. (#selendroid)
 [2016-02-01 21:47:57] smccarth_, joining. (#selendroid)
+[2016-02-01 21:50:26] smccarthy, quitting. (Ping timeout: 240 seconds)
