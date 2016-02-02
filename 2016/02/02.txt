@@ -4,3 +4,5 @@
 [2016-02-02 15:36:23] smccarthy, quitting. (Remote host closed the connection)
 [2016-02-02 15:47:30] smccarthy, joining. (#selendroid)
 [2016-02-02 17:30:13] lukeis, joining. (#selendroid)
+[2016-02-02 20:12:02] [b__b], quitting. (*.net *.split)
+[2016-02-02 20:13:31] [b__b], joining. (#selendroid)
