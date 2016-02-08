@@ -5,3 +5,4 @@
 [2016-02-08 12:50:48] selendroid536: selendroid inspector also show nothing when clicking those menu item
 [2016-02-08 13:39:44] smccarthy, joining. (#selendroid)
 [2016-02-08 14:24:58] selendroid536, quitting. (Quit: Page closed)
+[2016-02-08 17:25:56] lukeis, joining. (#selendroid)
