@@ -2,3 +2,4 @@
 [2016-02-08 05:24:48] smccarthy, quitting. (Ping timeout: 256 seconds)
 [2016-02-08 12:49:15] selendroid536, joining. (#selendroid)
 [2016-02-08 12:49:31] selendroid536: In selendroid I cant able to find action bar menu item by id,linkText...etc? any one can experience these kind of issue please help me. thanks in advance
+[2016-02-08 12:50:48] selendroid536: selendroid inspector also show nothing when clicking those menu item
