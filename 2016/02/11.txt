@@ -2,3 +2,4 @@
 [2016-02-11 03:07:41] smccarth_, joining. (#selendroid)
 [2016-02-11 03:15:31] smccarthy, quitting. (*.net *.split)
 [2016-02-11 06:35:39] smccarth_, quitting. (Remote host closed the connection)
+[2016-02-11 09:37:46] smccarthy, joining. (#selendroid)
