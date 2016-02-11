@@ -7,3 +7,4 @@
 [2016-02-11 13:51:38] smccarthy, joining. (#selendroid)
 [2016-02-11 16:53:15] asm89, quitting. (Ping timeout: 240 seconds)
 [2016-02-11 17:09:15] asm89, joining. (#selendroid)
+[2016-02-11 17:42:58] lukeis, joining. (#selendroid)
