@@ -1,1 +1,2 @@
 [2016-02-13 01:38:50] lukeis, quitting. (Quit: Leaving.)
+[2016-02-13 07:00:32] smccarthy, quitting. (Remote host closed the connection)
