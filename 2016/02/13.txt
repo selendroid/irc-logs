@@ -1,3 +1,4 @@
 [2016-02-13 01:38:50] lukeis, quitting. (Quit: Leaving.)
 [2016-02-13 07:00:32] smccarthy, quitting. (Remote host closed the connection)
 [2016-02-13 13:36:29] smccarthy, joining. (#selendroid)
+[2016-02-13 18:36:15] smccarthy, quitting. (Remote host closed the connection)
