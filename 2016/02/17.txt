@@ -1,3 +1,4 @@
 [2016-02-17 00:28:39] smccarth_, joining. (#selendroid)
 [2016-02-17 00:37:01] smccarthy, quitting. (*.net *.split)
 [2016-02-17 00:39:11] smccarthy, joining. (#selendroid)
+[2016-02-17 00:41:25] smccarth_, quitting. (Ping timeout: 265 seconds)
