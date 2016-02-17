@@ -5,3 +5,5 @@
 [2016-02-17 06:57:02] smccarthy, quitting. (Quit: Leaving...)
 [2016-02-17 10:52:38] [b__b], quitting. (*.net *.split)
 [2016-02-17 10:55:58] [b__b], joining. (#selendroid)
+[2016-02-17 12:04:19] AutomatedTester, quitting. (*.net *.split)
+[2016-02-17 12:04:41] AutomatedTester, joining. (#selendroid)
