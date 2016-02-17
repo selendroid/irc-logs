@@ -8,3 +8,4 @@
 [2016-02-17 12:04:19] AutomatedTester, quitting. (*.net *.split)
 [2016-02-17 12:04:41] AutomatedTester, joining. (#selendroid)
 [2016-02-17 12:59:21] asm89, quitting. (*.net *.split)
+[2016-02-17 13:01:25] asm89, joining. (#selendroid)
