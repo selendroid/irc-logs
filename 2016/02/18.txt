@@ -1,1 +1,5 @@
 [2016-02-18 01:14:21] lukeis, quitting. (Quit: Leaving.)
+[2016-02-18 03:10:47] Wevvin, joining. (#selendroid)
+[2016-02-18 03:11:38] Wevvin: Hi, is anyone here?
+[2016-02-18 03:13:59] Wevvin: Question. Is it possible to use Selendroid/Selenium on an Android Virtual Machine?
+[2016-02-18 03:14:37] Wevvin: We're currently using a Linux Virtual Machine with the Android Emulator, but it's damn slow, and our virtual server doesn't support hardware virtualization required for x86.
