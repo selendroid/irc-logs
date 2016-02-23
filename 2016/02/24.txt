@@ -2,3 +2,4 @@
 [2016-02-24 00:01:00] asm89, joining. (#selendroid)
 [2016-02-24 00:01:00] [b__b], joining. (#selendroid)
 [2016-02-24 00:03:33] lukeis, joining. (#selendroid)
+[2016-02-24 00:08:59] lukeis, quitting. (Quit: Leaving.)
