@@ -1,2 +1,7 @@
 [2016-02-26 00:59:26] lukeis, quitting. (Quit: Leaving.)
 [2016-02-26 06:47:52] smccarthy, quitting. (Remote host closed the connection)
+[2016-02-26 08:25:37] travis-ci, joining. (#selendroid)
+[2016-02-26 08:25:38] travis-ci: sri096/selendroid#11 (master - 04550f8 : Luke Inman-Semerau): The build is still failing.
+[2016-02-26 08:25:38] travis-ci: Change view : https://github.com/sri096/selendroid/compare/6af76d95b090...04550f8d20bd
+[2016-02-26 08:25:38] travis-ci: Build details : https://travis-ci.org/sri096/selendroid/builds/111943081
+[2016-02-26 08:25:38] travis-ci, leaving. (#selendroid)
