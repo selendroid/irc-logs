@@ -6,3 +6,4 @@
 [2016-02-26 08:25:38] travis-ci: Build details : https://travis-ci.org/sri096/selendroid/builds/111943081
 [2016-02-26 08:25:38] travis-ci, leaving. (#selendroid)
 [2016-02-26 15:04:20] smccarthy, joining. (#selendroid)
+[2016-02-26 16:30:36] smccarthy, quitting. (Quit: Leaving...)
