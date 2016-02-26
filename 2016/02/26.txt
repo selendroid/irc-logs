@@ -8,3 +8,8 @@
 [2016-02-26 15:04:20] smccarthy, joining. (#selendroid)
 [2016-02-26 16:30:36] smccarthy, quitting. (Quit: Leaving...)
 [2016-02-26 17:42:19] lukeis, joining. (#selendroid)
+[2016-02-26 18:47:23] travis-ci, joining. (#selendroid)
+[2016-02-26 18:47:24] travis-ci: sri096/selendroid#12 (master - b132cd5 : sri096): The build was fixed.
+[2016-02-26 18:47:24] travis-ci: Change view : https://github.com/sri096/selendroid/compare/04550f8d20bd...b132cd5ac6f4
+[2016-02-26 18:47:24] travis-ci: Build details : https://travis-ci.org/sri096/selendroid/builds/112059887
+[2016-02-26 18:47:24] travis-ci, leaving. (#selendroid)
