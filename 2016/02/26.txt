@@ -7,3 +7,4 @@
 [2016-02-26 08:25:38] travis-ci, leaving. (#selendroid)
 [2016-02-26 15:04:20] smccarthy, joining. (#selendroid)
 [2016-02-26 16:30:36] smccarthy, quitting. (Quit: Leaving...)
+[2016-02-26 17:42:19] lukeis, joining. (#selendroid)
