@@ -7,3 +7,8 @@
 [2016-02-27 22:44:14] asm89, quitting. (*.net *.split)
 [2016-02-27 22:44:14] AutomatedTester, quitting. (*.net *.split)
 [2016-02-27 22:44:18] [b__b], quitting. (*.net *.split)
+[2016-02-27 22:52:17] lukeis, joining. (#selendroid)
+[2016-02-27 22:52:17] smccarth_, joining. (#selendroid)
+[2016-02-27 22:52:17] AutomatedTester, joining. (#selendroid)
+[2016-02-27 22:52:17] asm89, joining. (#selendroid)
+[2016-02-27 22:52:17] [b__b], joining. (#selendroid)
