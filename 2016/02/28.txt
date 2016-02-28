@@ -1,1 +1,2 @@
 [2016-02-28 03:53:31] [b__b], quitting. (Remote host closed the connection)
+[2016-02-28 04:15:56] [b__b], joining. (#selendroid)
