@@ -26,3 +26,8 @@
 [2016-03-01 21:38:12] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/5e46976ca163...a2fd808ec12f
 [2016-03-01 21:38:12] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/112951210
 [2016-03-01 21:38:12] travis-ci, leaving. (#selendroid)
+[2016-03-01 21:40:21] travis-ci, joining. (#selendroid)
+[2016-03-01 21:40:22] travis-ci: selendroid/selendroid#898 (master - b52bafb : Dominik Dary): The build was broken.
+[2016-03-01 21:40:22] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/a2fd808ec12f...b52bafb48cb1
+[2016-03-01 21:40:22] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/112951903
+[2016-03-01 21:40:22] travis-ci, leaving. (#selendroid)
