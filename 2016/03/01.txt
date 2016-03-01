@@ -17,3 +17,7 @@
 [2016-03-01 21:08:01] selendroid-git: selendroid/master 627e915 Dominik Dary: Fixing version setting in AndroidManifest files.
 [2016-03-01 21:08:01] selendroid-git: selendroid/master a2fd808 Dominik Dary: releasing version 0.18.1
 [2016-03-01 21:08:02] selendroid-git, leaving. (#selendroid)
+[2016-03-01 21:11:26] selendroid-git, joining. (#selendroid)
+[2016-03-01 21:11:26] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: https://git.io/v2PX5
+[2016-03-01 21:11:26] selendroid-git: selendroid/master b52bafb Dominik Dary: Update README.md
+[2016-03-01 21:11:27] selendroid-git, leaving. (#selendroid)
