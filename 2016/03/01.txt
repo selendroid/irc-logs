@@ -5,3 +5,8 @@
 [2016-03-01 10:38:43] selendroid-git: selendroid/master 651f192 Dominik Dary: configured user org.
 [2016-03-01 10:38:43] selendroid-git: selendroid/master 5e46976 Dominik Dary: releasing version 0.18.0
 [2016-03-01 10:38:43] selendroid-git, leaving. (#selendroid)
+[2016-03-01 10:46:45] travis-ci, joining. (#selendroid)
+[2016-03-01 10:46:46] travis-ci: selendroid/selendroid#896 (master - 5e46976 : Dominik Dary): The build passed.
+[2016-03-01 10:46:46] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/04550f8d20bd...5e46976ca163
+[2016-03-01 10:46:46] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/112809881
+[2016-03-01 10:46:46] travis-ci, leaving. (#selendroid)
