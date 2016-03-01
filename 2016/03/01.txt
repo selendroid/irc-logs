@@ -21,3 +21,8 @@
 [2016-03-01 21:11:26] selendroid-git: [selendroid] DominikDary pushed 1 new commit to master: https://git.io/v2PX5
 [2016-03-01 21:11:26] selendroid-git: selendroid/master b52bafb Dominik Dary: Update README.md
 [2016-03-01 21:11:27] selendroid-git, leaving. (#selendroid)
+[2016-03-01 21:38:11] travis-ci, joining. (#selendroid)
+[2016-03-01 21:38:12] travis-ci: selendroid/selendroid#897 (master - a2fd808 : Dominik Dary): The build passed.
+[2016-03-01 21:38:12] travis-ci: Change view : https://github.com/selendroid/selendroid/compare/5e46976ca163...a2fd808ec12f
+[2016-03-01 21:38:12] travis-ci: Build details : https://travis-ci.org/selendroid/selendroid/builds/112951210
+[2016-03-01 21:38:12] travis-ci, leaving. (#selendroid)
