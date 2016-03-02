@@ -8,3 +8,4 @@
 [2016-03-02 21:06:01] travis-ci: Change view : https://github.com/sri096/selendroid/compare/b132cd5ac6f4...ed7392e1eb7f
 [2016-03-02 21:06:01] travis-ci: Build details : https://travis-ci.org/sri096/selendroid/builds/113207819
 [2016-03-02 21:06:01] travis-ci, leaving. (#selendroid)
+[2016-03-02 22:46:39] ddary, quitting. (Quit: ddary)
