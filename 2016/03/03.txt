@@ -6,3 +6,4 @@
 [2016-03-03 18:21:26] lukeis, joining. (#selendroid)
 [2016-03-03 19:39:08] ddary, joining. (#selendroid)
 [2016-03-03 19:39:15] ddary, quitting. (Client Quit)
+[2016-03-03 21:23:50] ddary, joining. (#selendroid)
