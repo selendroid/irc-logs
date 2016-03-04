@@ -6,3 +6,5 @@
 [2016-03-04 06:17:09] smccarthy, quitting. (Remote host closed the connection)
 [2016-03-04 15:03:09] smccarthy, joining. (#selendroid)
 [2016-03-04 15:29:26] smccarthy, quitting. (Remote host closed the connection)
+[2016-03-04 16:00:11] smccarthy, joining. (#selendroid)
+[2016-03-04 16:00:58] smccarthy, quitting. (Remote host closed the connection)
