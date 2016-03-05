@@ -8,3 +8,5 @@
 [2016-03-05 20:40:37] ddary, joining. (#selendroid)
 [2016-03-05 20:50:53] ddary, quitting. (Quit: ddary)
 [2016-03-05 21:17:13] ddary, joining. (#selendroid)
+[2016-03-05 21:38:20] smccarthy, joining. (#selendroid)
+[2016-03-05 21:38:20] smccarth_, quitting. (Read error: Connection reset by peer)
