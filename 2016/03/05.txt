@@ -6,3 +6,4 @@
 [2016-03-05 17:09:10] smccarth_, joining. (#selendroid)
 [2016-03-05 17:12:59] smccarthy, quitting. (Ping timeout: 260 seconds)
 [2016-03-05 20:40:37] ddary, joining. (#selendroid)
+[2016-03-05 20:50:53] ddary, quitting. (Quit: ddary)
