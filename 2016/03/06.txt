@@ -1,2 +1,4 @@
 [2016-03-06 10:33:28] ddary, joining. (#selendroid)
 [2016-03-06 10:40:47] ddary, quitting. (Quit: ddary)
+[2016-03-06 19:12:53] [b__b], quitting. (Remote host closed the connection)
+[2016-03-06 19:14:10] [b__b], joining. (#selendroid)
