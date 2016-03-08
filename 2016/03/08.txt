@@ -1,1 +1,2 @@
 [2016-03-08 01:06:59] lukeis, quitting. (Ping timeout: 248 seconds)
+[2016-03-08 06:30:47] smccarthy, quitting. (Remote host closed the connection)
