@@ -2,3 +2,4 @@
 [2016-03-09 04:14:36] AutomatedTester, quitting. (Ping timeout: 276 seconds)
 [2016-03-09 04:14:44] AutomatedTester, joining. (#selendroid)
 [2016-03-09 06:37:59] smccarthy, quitting. (Quit: Leaving...)
+[2016-03-09 16:02:22] smccarthy, joining. (#selendroid)
