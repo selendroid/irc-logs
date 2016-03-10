@@ -4,3 +4,8 @@
 [2016-03-10 01:49:14] AutomatedTester, quitting. (Changing host)
 [2016-03-10 01:49:14] AutomatedTester, joining. (#selendroid)
 [2016-03-10 06:43:36] smccarthy, quitting. (Remote host closed the connection)
+[2016-03-10 09:03:21] travis-ci, joining. (#selendroid)
+[2016-03-10 09:03:22] travis-ci: sri096/selendroid#14 (master - 3f984e0 : sri096): The build passed.
+[2016-03-10 09:03:22] travis-ci: Change view : https://github.com/sri096/selendroid/compare/ed7392e1eb7f...3f984e086412
+[2016-03-10 09:03:22] travis-ci: Build details : https://travis-ci.org/sri096/selendroid/builds/114997289
+[2016-03-10 09:03:22] travis-ci, leaving. (#selendroid)
