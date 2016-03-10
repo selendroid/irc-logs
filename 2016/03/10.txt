@@ -1,1 +1,5 @@
 [2016-03-10 01:01:57] lukeis, quitting. (Quit: Leaving.)
+[2016-03-10 01:49:04] AutomatedTester, quitting. (Ping timeout: 248 seconds)
+[2016-03-10 01:49:14] AutomatedTester, joining. (#selendroid)
+[2016-03-10 01:49:14] AutomatedTester, quitting. (Changing host)
+[2016-03-10 01:49:14] AutomatedTester, joining. (#selendroid)
