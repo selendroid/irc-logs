@@ -14,3 +14,4 @@
 [2016-03-10 09:11:58] selendroid-git, leaving. (#selendroid)
 [2016-03-10 13:54:54] AutomatedTester, quitting. (Ping timeout: 248 seconds)
 [2016-03-10 13:55:01] smccarthy, joining. (#selendroid)
+[2016-03-10 13:57:10] AutomatedTester, joining. (#selendroid)
