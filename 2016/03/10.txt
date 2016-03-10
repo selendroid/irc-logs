@@ -9,3 +9,6 @@
 [2016-03-10 09:03:22] travis-ci: Change view : https://github.com/sri096/selendroid/compare/ed7392e1eb7f...3f984e086412
 [2016-03-10 09:03:22] travis-ci: Build details : https://travis-ci.org/sri096/selendroid/builds/114997289
 [2016-03-10 09:03:22] travis-ci, leaving. (#selendroid)
+[2016-03-10 09:11:58] selendroid-git, joining. (#selendroid)
+[2016-03-10 09:11:58] selendroid-git: [selendroid] sri096 opened pull request #1041: This change addresses the Issue #1018 (master...master) https://git.io/vaqsT
+[2016-03-10 09:11:58] selendroid-git, leaving. (#selendroid)
