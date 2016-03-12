@@ -1,1 +1,4 @@
 [2016-03-12 01:53:59] lukeis, quitting. (Quit: Leaving.)
+[2016-03-12 04:05:43] GandalfTheWizard, joining. (#selendroid)
+[2016-03-12 04:05:57] GandalfTheWizard: what?
+[2016-03-12 04:06:27] GandalfTheWizard: so this is the best ui atuomation tool for android?
