@@ -19,3 +19,4 @@
 [2016-03-14 08:15:43] AutomatedTester, joining. (#selendroid)
 [2016-03-14 14:42:45] smccarthy, joining. (#selendroid)
 [2016-03-14 16:41:16] lukeis, joining. (#selendroid)
+[2016-03-14 20:28:07] GandalfTheWizard, quitting. (Ping timeout: 244 seconds)
