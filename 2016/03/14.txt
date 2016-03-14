@@ -25,3 +25,4 @@
 [2016-03-14 20:55:18] mach6, quitting. (Ping timeout: 252 seconds)
 [2016-03-14 20:56:32] GandalfTheWizard, quitting. (Ping timeout: 244 seconds)
 [2016-03-14 21:26:48] mach6, joining. (#selendroid)
+[2016-03-14 21:35:15] GandalfTheWizard, joining. (#selendroid)
