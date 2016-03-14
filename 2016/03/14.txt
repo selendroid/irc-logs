@@ -13,3 +13,7 @@
 [2016-03-14 04:54:43] GandalfTheWizard, joining. (#selendroid)
 [2016-03-14 06:28:08] smccarthy, quitting. (Remote host closed the connection)
 [2016-03-14 08:05:31] AutomatedTester_, joining. (#selendroid)
+[2016-03-14 08:15:32] AutomatedTester, quitting. (*.net *.split)
+[2016-03-14 08:15:43] AutomatedTester_, changing nick to AutomatedTester.
+[2016-03-14 08:15:43] AutomatedTester, quitting. (Changing host)
+[2016-03-14 08:15:43] AutomatedTester, joining. (#selendroid)
