@@ -21,3 +21,4 @@
 [2016-03-14 16:41:16] lukeis, joining. (#selendroid)
 [2016-03-14 20:28:07] GandalfTheWizard, quitting. (Ping timeout: 244 seconds)
 [2016-03-14 20:37:06] mach6, joining. (#selendroid)
+[2016-03-14 20:45:43] GandalfTheWizard, joining. (#selendroid)
