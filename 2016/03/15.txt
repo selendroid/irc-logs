@@ -18,3 +18,5 @@
 [2016-03-15 06:47:48] GandalfTheWizard, quitting. (Ping timeout: 276 seconds)
 [2016-03-15 07:29:54] smccarthy, quitting. (Remote host closed the connection)
 [2016-03-15 08:08:03] GandalfTheWizard, joining. (#selendroid)
+[2016-03-15 14:05:21] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
+[2016-03-15 14:06:58] AutomatedTester, joining. (#selendroid)
