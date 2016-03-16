@@ -1,3 +1,4 @@
 [2016-03-16 00:01:05] lukeis, quitting. (Quit: Leaving.)
 [2016-03-16 05:59:22] smccarthy, quitting. (Remote host closed the connection)
 [2016-03-16 12:32:21] GandalfTheWizard, quitting. (Ping timeout: 246 seconds)
+[2016-03-16 12:44:54] GandalfTheWizard, joining. (#selendroid)
