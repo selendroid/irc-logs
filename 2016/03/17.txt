@@ -3,3 +3,7 @@
 [2016-03-17 02:44:45] GandalfTheWizard, quitting. (Ping timeout: 250 seconds)
 [2016-03-17 02:52:19] GandalfTheWizard, joining. (#selendroid)
 [2016-03-17 03:12:01] GandalfTheWizard, quitting. (Ping timeout: 240 seconds)
+[2016-03-17 03:16:24] GandalfTheWizard, joining. (#selendroid)
+[2016-03-17 03:16:57] GandalfTheWizard, quitting. (Max SendQ exceeded)
+[2016-03-17 03:18:28] GandalfTheWizard, joining. (#selendroid)
+[2016-03-17 03:19:11] GandalfTheWizard, quitting. (Max SendQ exceeded)
