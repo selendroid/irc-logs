@@ -15,3 +15,5 @@
 [2016-03-17 04:09:56] GandalfTheWizard, quitting. (Ping timeout: 244 seconds)
 [2016-03-17 04:34:18] GandalfTheWizard, joining. (#selendroid)
 [2016-03-17 06:19:44] smccarthy, quitting. (Remote host closed the connection)
+[2016-03-17 06:20:16] smccarthy, joining. (#selendroid)
+[2016-03-17 06:24:54] smccarthy, quitting. (Ping timeout: 268 seconds)
