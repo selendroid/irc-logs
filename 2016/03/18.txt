@@ -19,3 +19,4 @@
 [2016-03-18 16:05:25] smccarthy, joining. (#selendroid)
 [2016-03-18 16:07:34] GandalfTheWizard, quitting. (Ping timeout: 268 seconds)
 [2016-03-18 16:13:09] GandalfTheWizard, joining. (#selendroid)
+[2016-03-18 16:44:34] lukeis, joining. (#selendroid)
