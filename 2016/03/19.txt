@@ -12,3 +12,5 @@
 [2016-03-19 21:46:47] lukeis, joining. (#selendroid)
 [2016-03-19 22:35:12] lukeis, quitting. (Quit: Leaving.)
 [2016-03-19 22:56:23] lukeis, joining. (#selendroid)
+[2016-03-19 23:20:15] smccarth_, joining. (#selendroid)
+[2016-03-19 23:22:37] smccarth_, quitting. (Remote host closed the connection)
