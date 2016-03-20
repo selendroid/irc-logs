@@ -10,3 +10,5 @@
 [2016-03-20 18:00:27] lukeis, joining. (#selendroid)
 [2016-03-20 18:03:58] lukeis, quitting. (Client Quit)
 [2016-03-20 18:57:50] lukeis, joining. (#selendroid)
+[2016-03-20 19:09:33] lukeis, quitting. (Read error: Connection reset by peer)
+[2016-03-20 19:09:52] lukeis, joining. (#selendroid)
