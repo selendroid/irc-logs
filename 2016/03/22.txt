@@ -2,3 +2,4 @@
 [2016-03-22 00:55:07] mach6, quitting. (Quit: Page closed)
 [2016-03-22 06:24:39] smccarthy, quitting. (Remote host closed the connection)
 [2016-03-22 16:41:11] smccarthy, joining. (#selendroid)
+[2016-03-22 16:47:44] lukeis, joining. (#selendroid)
