@@ -2,3 +2,4 @@
 [2016-03-23 06:52:23] smccarthy, quitting. (Remote host closed the connection)
 [2016-03-23 09:36:30] Hitesh007, joining. (#selendroid)
 [2016-03-23 09:36:35] Hitesh007: Hi
+[2016-03-23 10:54:16] Hitesh007, quitting. (Quit: Page closed)
