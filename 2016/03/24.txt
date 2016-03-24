@@ -3,3 +3,4 @@
 [2016-03-24 14:35:38] smccarthy, joining. (#selendroid)
 [2016-03-24 16:09:02] lukeis, joining. (#selendroid)
 [2016-03-24 16:13:26] smccarthy, quitting. (*.net *.split)
+[2016-03-24 16:25:52] smccarthy, joining. (#selendroid)
