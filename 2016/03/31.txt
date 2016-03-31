@@ -1,1 +1,2 @@
 [2016-03-31 01:01:00] lukeis, quitting. (Quit: Leaving.)
+[2016-03-31 17:11:51] lukeis, joining. (#selendroid)
