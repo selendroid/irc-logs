@@ -2,3 +2,4 @@
 [2016-04-01 04:08:31] lukeis, joining. (#selendroid)
 [2016-04-01 04:08:32] lukeis, quitting. (Client Quit)
 [2016-04-01 04:23:07] lukeis, joining. (#selendroid)
+[2016-04-01 07:24:20] lukeis, quitting. (Quit: Leaving.)
