@@ -1,1 +1,3 @@
 [2016-04-05 00:39:40] lukeis, quitting. (Quit: Leaving.)
+[2016-04-05 03:26:37] [b__b], quitting. (Remote host closed the connection)
+[2016-04-05 03:27:51] [b__b], joining. (#selendroid)
