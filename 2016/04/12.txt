@@ -13,3 +13,4 @@
 [2016-04-12 15:40:06] Sachin___, leaving. (#selendroid)
 [2016-04-12 15:40:15] Sachin___, joining. (#selendroid)
 [2016-04-12 15:40:39] Sachin___, quitting. (Quit: Page closed)
+[2016-04-12 17:18:42] lukeis, joining. (#selendroid)
