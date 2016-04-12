@@ -3,3 +3,10 @@
 [2016-04-12 03:37:48] rlux, quitting. (Ping timeout: 246 seconds)
 [2016-04-12 15:32:14] Sachin___, joining. (#selendroid)
 [2016-04-12 15:32:28] Sachin___: Hi
+[2016-04-12 15:35:15] Sachin___: I am trying to automate a web app using selendroid for tablet device.
+[2016-04-12 15:36:17] Sachin___: and i am facing an issue.
+[2016-04-12 15:36:43] Sachin___: In my web app we have nested frames(means frame inside frame).
+[2016-04-12 15:37:30] Sachin___: Selendroid is not able to access any object which is inside the nested frames(level 2).
+[2016-04-12 15:38:27] Sachin___: i have used driver.switchto.frames("ParentFrame") and then driver.switchto.frames("ChildFrame")
+[2016-04-12 15:39:00] Sachin___: Could anybody please help me.Please post me a solution at sack112007@gmail.com
+[2016-04-12 15:39:05] Sachin___: Thanks in advance
