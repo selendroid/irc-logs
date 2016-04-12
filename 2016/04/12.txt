@@ -10,3 +10,6 @@
 [2016-04-12 15:38:27] Sachin___: i have used driver.switchto.frames("ParentFrame") and then driver.switchto.frames("ChildFrame")
 [2016-04-12 15:39:00] Sachin___: Could anybody please help me.Please post me a solution at sack112007@gmail.com
 [2016-04-12 15:39:05] Sachin___: Thanks in advance
+[2016-04-12 15:40:06] Sachin___, leaving. (#selendroid)
+[2016-04-12 15:40:15] Sachin___, joining. (#selendroid)
+[2016-04-12 15:40:39] Sachin___, quitting. (Quit: Page closed)
