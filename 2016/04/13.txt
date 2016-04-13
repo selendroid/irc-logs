@@ -6,3 +6,5 @@
 [2016-04-13 11:47:54] [b__b], quitting. (*.net *.split)
 [2016-04-13 11:52:41] [b__b], joining. (#selendroid)
 [2016-04-13 17:29:27] lukeis, joining. (#selendroid)
+[2016-04-13 17:32:11] lukeis1, joining. (#selendroid)
+[2016-04-13 17:33:34] lukeis, quitting. (Ping timeout: 244 seconds)
