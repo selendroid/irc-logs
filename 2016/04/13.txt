@@ -8,3 +8,5 @@
 [2016-04-13 17:29:27] lukeis, joining. (#selendroid)
 [2016-04-13 17:32:11] lukeis1, joining. (#selendroid)
 [2016-04-13 17:33:34] lukeis, quitting. (Ping timeout: 244 seconds)
+[2016-04-13 17:38:33] lukeis, joining. (#selendroid)
+[2016-04-13 17:38:52] lukeis1, quitting. (Ping timeout: 250 seconds)
