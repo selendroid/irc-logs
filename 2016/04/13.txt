@@ -10,3 +10,4 @@
 [2016-04-13 17:33:34] lukeis, quitting. (Ping timeout: 244 seconds)
 [2016-04-13 17:38:33] lukeis, joining. (#selendroid)
 [2016-04-13 17:38:52] lukeis1, quitting. (Ping timeout: 250 seconds)
+[2016-04-13 18:10:35] lukeis, quitting. (Quit: Leaving.)
