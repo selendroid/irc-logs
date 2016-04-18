@@ -1,1 +1,5 @@
 [2016-04-18 17:04:01] lukeis, joining. (#selendroid)
+[2016-04-18 17:41:03] AutomatedTester, quitting. (Ping timeout: 260 seconds)
+[2016-04-18 17:41:10] AutomatedTester, joining. (#selendroid)
+[2016-04-18 17:41:10] AutomatedTester, quitting. (Changing host)
+[2016-04-18 17:41:10] AutomatedTester, joining. (#selendroid)
