@@ -6,3 +6,4 @@
 [2016-04-21 19:19:31] AutomatedTester_, changing nick to AutomatedTester.
 [2016-04-21 19:19:31] AutomatedTester, quitting. (Changing host)
 [2016-04-21 19:19:31] AutomatedTester, joining. (#selendroid)
+[2016-04-21 20:27:38] Android, quitting. (Quit: Page closed)
