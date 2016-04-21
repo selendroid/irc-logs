@@ -1,0 +1,2 @@
+[2016-04-21 13:06:49] john, joining. (#selendroid)
+[2016-04-21 13:07:01] john, quitting. (Client Quit)
