@@ -1,0 +1,2 @@
+[2016-04-27 14:10:03] AutomatedTester, quitting. (Quit: ZNC - http://znc.in)
+[2016-04-27 14:12:44] AutomatedTester, joining. (#selendroid)
